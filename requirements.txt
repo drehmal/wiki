@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-material
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-minify-plugin
+mkdocs-autolinks-plugin
+mkdocs-rss-plugin
+mkdocs-glightbox
+pillow
+cairosvg

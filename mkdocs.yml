@@ -1,0 +1,66 @@
+site_name: "Unofficial Drehmal: PRIMΩRDIAL Wiki"
+site_description: "This is an unofficial wiki for Drehmal: PRIMΩRDIAL. See drehmal.net for more details."
+site_url: http://wiki.drehmal.cyou
+repo_url: https://github.com/Zottelchen/wiki.drehmal.cyou
+
+theme:
+  name: material
+  logo: assets/logo.gif
+  favicon: assets/logo.gif
+  pallete:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - navigation.instant
+
+plugins:
+  - rss:
+      enabled: !ENV [CI, false]
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      enable_creation_date: true
+  - git-authors:
+      enabled: !ENV [CI, false]
+  #- social
+  - roamlinks 
+  - search
+  - minify
+  - glightbox
+  - tags:
+      tags_file: index.md
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+      
+extra:
+  social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/drehmal
+  generator: false

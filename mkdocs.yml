@@ -35,20 +35,23 @@ theme:
     - navigation.instant
 
 plugins:
-  - rss:
-      enabled: !ENV [CI, false]
+  # provided by MkDocs
+  - search
+  # provided by Material theme
+  - tags:
+      tags_file: index.md
+  - social
+  # others
+  - htmlproofer
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       enable_creation_date: true
   - git-authors:
       enabled: !ENV [CI, false]
-  #- social
   - roamlinks 
-  - search
   - minify
   - glightbox
-  - tags:
-      tags_file: index.md
+
 
 markdown_extensions:
   - md_in_html

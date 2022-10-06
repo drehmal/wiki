@@ -6,7 +6,11 @@
   {% if git_page_authors %}
     <div class="md-source-date">
       <small>
-          Authors: {{ git_page_authors | default('enable mkdocs-git-authors-plugin') }}
+          Authors: {% if git_info %}
+		  {%- for author in git_info.get('page_authors') -%}
+		  <a href="https://github.com/{{ author.name }}" title="{{ author.name }}">{{ author.name }}</a>, 
+		  {%- endfor -%}
+  {% endif %}
       </small>
     </div>
   {% endif %}

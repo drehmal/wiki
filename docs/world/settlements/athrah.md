@@ -1,5 +1,4 @@
 ---
-comments: true
 tags:
   - Locations
   - Settlements

@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-comments: false
+nocomments: true
 hide:
   - navigation
   - toc

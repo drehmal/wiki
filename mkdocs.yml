@@ -9,8 +9,7 @@ theme:
   favicon: assets/logo.gif
   pallete:
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: deep purple
       accent: orange
       toggle:
@@ -18,8 +17,7 @@ theme:
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: deep purple
       accent: orange
       toggle:
@@ -40,14 +38,13 @@ plugins:
   # provided by Material theme
   - tags:
       tags_file: index.md
-  - social
+  - social:
+      cards: !ENV [CI, false]
   # others
   - htmlproofer
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       enable_creation_date: true
-  - git-authors:
-      enabled: !ENV [CI, false]
   - roamlinks 
   - minify
   - glightbox

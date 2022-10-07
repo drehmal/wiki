@@ -6,9 +6,12 @@ tags:
 
 !!! info "Please not that this page contains minor spoilers!"
 
+
 # Athrah
 
-Athrah is a town in the Casai region, located north of the Casai tower across a lake.
+![[athrah.png]]{ align=right width="300" }
+
+Athrah is a town in the **Casai region**, located north of the Casai [[Tower]] across a lake.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.fandom.com/Iron_Golem). 
 

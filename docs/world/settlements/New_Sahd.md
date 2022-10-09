@@ -10,7 +10,7 @@ tags:
 
 ![[Sahd1.webp]]{ align=right width="300" }
 
-New Sahd is a [[settlements|town]] on Sahd [[Regions|island]], located just west of the Sahd [[Towers|tower]].
+New Sahd is a [[settlements/index|town]] on Sahd [[Regions|island]], located just west of the Sahd [[Towers|tower]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

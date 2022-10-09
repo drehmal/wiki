@@ -10,7 +10,7 @@ tags:
 
 ![[Tharxax1.webp]]{ align=right width="300" }
 
-Tharxax City is an industrial [[settlements|city]] in the [[Tharxax Plains]], located east of the South Tharxax [[Towers|tower]] on the coast.
+Tharxax City is an industrial [[settlements/index|city]] in the [[Tharxax Plains]], located east of the South Tharxax [[Towers|tower]] on the coast.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

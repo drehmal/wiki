@@ -23,7 +23,7 @@ Drehmal is an ongoing series of custom Minecraft maps created by Keeko100 and Ba
 ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!
 
-* [Settlements](world/settlements/index.md){: style="height:150px;width:150px"}
+* [Settlements](world/settlements/index.md)
 
 ## Overview
 Here are all tags of this wiki:

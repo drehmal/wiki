@@ -1,17 +1,16 @@
 ---
 tags:
   - Locations
-  - Settlements
+  - Cities
 ---
 
-!!! info "Please not that this page contains minor spoilers!"
-
+--8<-- "spoiler.md"
 
 # Athrah
 
-![[athrah.png]]{ align=right width="300" }
+![[Athrah1.png]]{ align=right width="300" }
 
-Athrah is a town in the **Casai region**, located north of the Casai [[Tower]] across a lake.
+Athrah is a town in the [[Casai|**Casai region**]], located north of the Casai [[Towers|Tower]] across a lake.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.fandom.com/Iron_Golem). 
 
@@ -56,7 +55,7 @@ Athrah is home to a market where permanent merchants offer the following trades:
     | -2680, 81, -1818  | 8x White Wool <br>2x Light Gray Wool <br>3x Gray Wool <br>1x Brown Wool                                           |
     | -2663, 81, -1830  | 1x Wheat <br>7x Raw Beef <br>3x Raw Mutton                                                                        |
 	
-## The people of Casai
+## The People of Casai
 
 The people of Casai are descendants of Ebonfolk, a tribe that inhabited the present day Ebony Veldt. Neighboring the tribes of Merijool and Tharhan, there was much interaction between the peoples. Specific areas of the Casai region proved optimal for large agricultural systems, allowing Casain civilization to advance quickly, soon forming governments and kingdoms. Known as the Jewel of Casai, Athrah was once a busting trade city due to the presence of a teleportation pier that allowed ships from across the realm to reach the city with ease. Founded in Av2 1189 by Casain warrior Athrah Zarah, the city was the first step towards a massive kingdom that would spread across Casai. This goal was achieved in Av2 1255 when nearly all of Casain had joined Athrah, forming the Casain empire. In Av2 1445 the Cassain engaged in, and was defeated in, their first war, fought against the tribes of Western Merijool over the plains south of Zephyr Sound. Since the war, tension has existed between Merijool and Casai. Following the loss of the Zephyr Plains, The Cassain Empire expanded south to the Golden Sands region (present day of Anyr'Nogur), allowing access to the Sea of Mael and giving the Empire the opportunity to grow as a fishing nation. Slowly Casai grew, strengthening their economy and military. creating the golden age of the empire. Soonafter in Av2 1472, Casai declared war on Tharhan for control over Mt. Ebonfire, but was quickly defeated, decimating Casai's military and economy, and causing tension within the Casain Empire, leading to t acivil war in Av2 1534 and the eventual separation of those inhabiting the Golden Sands.
 

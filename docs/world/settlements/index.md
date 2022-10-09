@@ -7,7 +7,7 @@ tags:
 # Settlements
 The land of Drehmal is home to thirteen towns.
 
-* [Athrah](athrah.md)
+* [[Athrah]]
 * [[Drabyel]] (New Drabyel)
 * [[Dusps]] (The Painted City)
 * [[Ebonrun]]
@@ -16,9 +16,9 @@ The land of Drehmal is home to thirteen towns.
 * [[Highfall]]
 * [[Mohta]]
 * [[Mossfield]] (New Mossfield)
-* [[Fort Nimahj|Fort Nimahj]]
+* [[Fort Nimahj]]
 * [[Okeke]]
-* [[Sahd]] (New Sahd)
+* [[New Sahd|Sahd]] (New Sahd)
 * [[Tharxax City]]
 
 Every Town/City has two enderchests available to use, one of which is near the map and one which is in an inn within the town. 

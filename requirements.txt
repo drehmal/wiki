@@ -6,5 +6,6 @@ mkdocs-minify-plugin
 mkdocs-roamlinks-plugin
 mkdocs-glightbox
 mkdocs-htmlproofer-plugin
+mkdocs-redirects
 pillow
 cairosvg

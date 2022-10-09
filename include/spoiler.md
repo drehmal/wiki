@@ -1,0 +1,1 @@
+!!! info "Please note that this page contains minor spoilers!"

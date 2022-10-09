@@ -6,8 +6,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  logo: assets/logo.gif
-  favicon: assets/logo.gif
+  logo: assets/logo.png
+  favicon: assets/favicon.gif
   icon:
     repo: fontawesome/brands/github
   pallete:
@@ -43,16 +43,26 @@ plugins:
   # provided by Material theme
   - tags:
       tags_file: index.md
+      enabled: !ENV [CI, false]
   - social:
       cards: !ENV [CI, false]
   # others
-  - htmlproofer
-  - git-revision-date-localized:
+  - htmlproofer:
       enabled: !ENV [CI, false]
+  - git-revision-date-localized:
+      enabled: false # currently doesn't work with Cloudflare pages
       enable_creation_date: true
   - roamlinks 
-  - minify
+  - minify:
+      minify_html: !ENV [CI, false]
+      minify_js: !ENV [CI, false]
+      minify_css: !ENV [CI, false]
   - glightbox
+  - redirects:
+        redirect_maps:
+            'abandoned_troupemaster.md': 'highfall.md'
+            'acacia_merchant.md': 'athrah.md'
+            'achievements.md': 'advancements.md'
 
 
 markdown_extensions:
@@ -63,6 +73,10 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+  - pymdownx.snippets:
+      base_path: include/
+      #auto_append:
+      #  - includes/abbreviations.md
       
 extra:
   social:

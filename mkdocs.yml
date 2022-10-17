@@ -10,8 +10,7 @@ theme:
   favicon: assets/favicon.gif
   icon:
     repo: fontawesome/brands/github
-  pallete:
-    # Palette toggle for light mode
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple
@@ -19,8 +18,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple

@@ -42,7 +42,7 @@ plugins:
   - search
   # provided by Material theme
   - tags:
-      tags_file: index.md
+      tags_file: Overview.md
       enabled: !ENV [CI, false]
   - social:
       cards: !ENV [CI, false]

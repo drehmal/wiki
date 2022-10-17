@@ -25,7 +25,3 @@ Check out these articles to find your way around Drehmal and this wiki!
 
 * [Settlements](/Settlements)
 * [Regions](/Regions)
-
-## Overview
-Here are all tags of this wiki:
-[TAGS]

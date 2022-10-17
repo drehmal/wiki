@@ -60,8 +60,8 @@ plugins:
   - glightbox
   - redirects:
         redirect_maps:
-            'abandoned_troupemaster.md': 'highfall.md'
-            'acacia_merchant.md': 'athrah.md'
+            # 'abandoned_troupemaster.md': 'highfall.md'
+            # 'acacia_merchant.md': 'athrah.md'
             'achievements.md': 'advancements.md'
             'Regions.md': 'World/Regions/index.md'
             'Settlements.md': 'World/Settlements/index.md'

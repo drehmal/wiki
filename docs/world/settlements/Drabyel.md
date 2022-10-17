@@ -40,9 +40,9 @@ following trades:
     Emerald
   - 1 Emerald for 20 Wheat
 
-![](Drabyel_map.png "Drabyel_map.png")
-
 Drabyel is home to random [villagers](https://minecraft.gamepedia.com/Villager#Professions) filling the following roles:
+
+![[Drabyel_map.webp]]{ align=right width="300" }
 
 - Armorer
 - Butcher

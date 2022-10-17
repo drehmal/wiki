@@ -4,6 +4,7 @@ nocomments: true
 hide:
   - navigation
   - toc
+icon: material/home
 ---
 
 # Welcome to the Drehmal Wiki!

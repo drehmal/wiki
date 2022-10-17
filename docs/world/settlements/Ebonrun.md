@@ -10,7 +10,7 @@ tags:
 
 ![[Ebonrun1.webp]]{ align=right width="300" }
 
-Ebonrun is a [[settlements/index|city]]on the border of the [[Casai|Casai Region]] and [[Mount Ebonfire]] [[Regions|region]], and is most easily reached by travelling south from the Casai [[towers|tower]]. A large water reservoir contained by a gigantic wall borders the city.
+Ebonrun is a [[settlements/index|city]] on the border of the [[Casai|Casai Region]] and [[Mount Ebonfire]] [[Regions|region]], and is most easily reached by travelling south from the Casai [[towers|tower]]. A large water reservoir contained by a gigantic wall borders the city.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

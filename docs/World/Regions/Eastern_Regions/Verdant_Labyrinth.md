@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # The Verdant Labyrinth
 
 ![[Verdantlabyrinth1.webp]]{ align=right width="300" }

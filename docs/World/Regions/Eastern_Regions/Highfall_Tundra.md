@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Highfall Tundra
 
 ![[Highfalltundra1.webp]]{ align=right width="300" }

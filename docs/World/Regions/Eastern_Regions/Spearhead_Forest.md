@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Spearhead Forest
 
 ![[Spearheadforest1.webp]]{ align=right width="300" }

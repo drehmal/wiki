@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Akhlo'Rohma
 
 ![[Akhlorohma1.webp]]{ align=right width="300" }

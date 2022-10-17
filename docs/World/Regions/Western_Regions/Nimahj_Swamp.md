@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Nimahj Swamp
 
 ![[Nimahjswamp1.webp]]{ align=right width="300" }

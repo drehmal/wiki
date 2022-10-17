@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Central Regions
+---
+
 # Capital Valley
 
 ![[Capitalvalley1.webp]]{ align=right width="300" }

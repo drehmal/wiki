@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Anyr'Nogur
 
 ![[Anyrnogur1.webp]]{ align=right width="300" }

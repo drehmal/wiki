@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Merijool
 
 ![[Merijool1.webp]]{ align=right width="300" }

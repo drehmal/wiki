@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # The Ebony Veldt
 
 ![[Ebonyveldt1.webp]]{ align=right width="300" }

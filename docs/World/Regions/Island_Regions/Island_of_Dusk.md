@@ -1,3 +1,11 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Island Regions
+---
+
+# Island of Dusk
 
 ![[Islandofdusk1.webp]]{ align=right width="300" }
 

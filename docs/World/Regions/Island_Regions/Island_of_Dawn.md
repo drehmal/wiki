@@ -1,3 +1,11 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Island Regions
+---
+
+# Island of Dawn
 
 ![[Islandofdawn1.webp]]{ align=right width="300" }
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Mount Ebonfire
 
 ![[Mountebonfire1.webp]]{ align=right width="300" }

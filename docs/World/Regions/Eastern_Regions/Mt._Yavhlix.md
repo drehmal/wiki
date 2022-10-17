@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Mt. Yavhlix
 
 ![[Mtyavhlix1.webp]]{ align=right width="300" }

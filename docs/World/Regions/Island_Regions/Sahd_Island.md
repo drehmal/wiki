@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Island Regions
+---
+
 # Sahd (Island)
 
 ![[Sahdisland1.webp]]{ align=right width="300" }

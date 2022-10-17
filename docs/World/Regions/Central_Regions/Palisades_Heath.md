@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Central Regions
+---
+
 # Palisades Heath
 
 ![[Palisadesheath1.webp]]{ align=right width="300" }

@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Lorahn'Kahl
 
 ![[Lorahnkahl1.webp]]{ align=right width="300" }

@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Grand Pike Canyon
 
 ![[Grandpikecanyon1.webp]]{ align=right width="300" }

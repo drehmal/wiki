@@ -14,8 +14,6 @@ The land of Drehmal is home to 30 regions.
 The regions are divided in [[The Terminus]] into four groups, each having a corresponding color marked on the ceiling. The groups are Central (green), Western (red), Eastern (blue), and Island (yellow). 
 
 
-
-
 ## Central Regions
 
  - [[Capital Valley]]

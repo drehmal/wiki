@@ -1,6 +1,11 @@
+---
+tags:
+  - "2.2 Demo"
+---
+
 **Adventuring Merchants** are a new feature coming with 2.2.
 
-They run shops inside the [settlements](/Settlements and sell Artisans, which are special items, such as custom maps and runic-related items.
+They run shops inside the [settlements](/Settlements) and sell Artisans, which are special items, such as custom maps and runic-related items.
 
 
 ## [[Drabyel]] Adventuring Merchant

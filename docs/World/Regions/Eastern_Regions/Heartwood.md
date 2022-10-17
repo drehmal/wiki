@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # The Heartwood
 
 ![[Heartwood1.webp]]{ align=right width="300" }

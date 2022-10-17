@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # The Black Jungle
 
 ![[Blackjungle1.webp]]{ align=right width="300" }

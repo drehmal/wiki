@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Veruhkt Plateau
 
 ![[Veruhktplateau1.webp]]{ align=right width="300" }

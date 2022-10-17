@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Tharxax Plains
 
 ![[Tharxaxplains1.webp]]{ align=right width="300" }

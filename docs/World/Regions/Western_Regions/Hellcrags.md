@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Western Regions
+---
+
 # Hellcrags
 
 ![[Hellcrags1.webp]]{ align=right width="300" }

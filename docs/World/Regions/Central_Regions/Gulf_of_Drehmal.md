@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Central Regions
+---
+
 # Gulf of Drehmal
 
 ![[Gulfofdrehmal1.webp]]{ align=right width="300" }

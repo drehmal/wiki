@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Purity Peaks
 
 ![[Puritypeaks1.webp]]{ align=right width="300" }

@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Faehrcyle
 
 ![[Faehrcyle1.webp]]{ align=right width="300" }

@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # The Frozen Bite
 
 ![[Frozenbite1.webp]]{ align=right width="300" }

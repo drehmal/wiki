@@ -1,3 +1,10 @@
+---
+tags:
+  - Locations
+  - Regions
+  - Eastern Regions
+---
+
 # Mael's Desolation
 
 ![[Maelsdesolation1.webp]]{ align=right width="300" }

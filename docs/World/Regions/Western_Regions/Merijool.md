@@ -21,7 +21,7 @@ Regions bordering Merijool include:
 
 ![[Merijool2.webp]]{ align=right width="300" }
 
-*The Merijool Peninsula was once a lush jungle, but with the Frostfang Catastrophe of Av2 1646, climate change rapidly cooled the area and turned it to an autumnal forest. Throughout history, the people of Merijool have suffered internal conflicts and civil wars because of differing Aspect religions (Lai, The Brightwyrm in the west and Glacial Elder Loe in the east). Only recently have they overcome their religious differences to form together under a single, atheist society. There was also a short period of their history where they worshipped Maelihs.*
+> The Merijool Peninsula was once a lush jungle, but with the Frostfang Catastrophe of Av2 1646, climate change rapidly cooled the area and turned it to an autumnal forest. Throughout history, the people of Merijool have suffered internal conflicts and civil wars because of differing Aspect religions (Lai, The Brightwyrm in the west and Glacial Elder Loe in the east). Only recently have they overcome their religious differences to form together under a single, atheist society. There was also a short period of their history where they worshipped Maelihs.
 
 ## History
 

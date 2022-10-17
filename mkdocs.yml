@@ -62,7 +62,7 @@ plugins:
         redirect_maps:
             # 'abandoned_troupemaster.md': 'highfall.md'
             # 'acacia_merchant.md': 'athrah.md'
-            'achievements.md': 'advancements.md'
+            'Achievements.md': 'Advancements.md'
             'Regions.md': 'World/Regions/index.md'
             'Settlements.md': 'World/Settlements/index.md'
 

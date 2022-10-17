@@ -20,7 +20,8 @@ Regions that border Casai include:
 ## In the Lore
 
 ![[Casai2.webp]]{ align=right width="300" }
-*The Casai Peninsula, not unlike Merijool, was once a very different place. With the Frostfang Catastrophe, the hot desert morphed into a land of striking contrast; red sand topped with snow and pillars of ice. The Casain are fierce warriors with a great pride for their homeland. At the advent of the Third Avihm, they were forced to migrate East due to the threat of invasion by Maelihs. Despite many returning to the area after being recaptured from Mael by Insohm much later in the Third Avihm, the Casain people remain mostly scattered.*[^1]
+
+> The Casai Peninsula, not unlike Merijool, was once a very different place. With the Frostfang Catastrophe, the hot desert morphed into a land of striking contrast; red sand topped with snow and pillars of ice. The Casain are fierce warriors with a great pride for their homeland. At the advent of the Third Avihm, they were forced to migrate East due to the threat of invasion by Maelihs. Despite many returning to the area after being recaptured from Mael by Insohm much later in the Third Avihm, the Casain people remain mostly scattered.[^1]
 
 ## History
 

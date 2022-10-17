@@ -26,7 +26,7 @@ Regions that border Lorahn'Kahl include:
 
 ### **In the Lore**
 
-*Lorahn’Kahl is a verdant jungle filled with giant bonsai trees. The largest coral reef in the realm is also found here. Despite its proximity to Maelihs, it is home to a single kingdom that uses guerrilla warfare to fight back the constant threat of the war deity. Unfortunately, the kingdom and its people are hated by most due to its controversial past. In the Second Avihm, Lorahn’Kahl was home to a necromancy-focused society called the Tri-Moon Theocracy. The Tri-Moon Theocracy at one point lost control of their army of the dead, leading to massive slaughter of Drehmari and the fall of their own society. Necromancy is still considered forbidden in modern-day Lorahn’Kahl but many cults and tribes still practice it.*
+> Lorahn’Kahl is a verdant jungle filled with giant bonsai trees. The largest coral reef in the realm is also found here. Despite its proximity to Maelihs, it is home to a single kingdom that uses guerrilla warfare to fight back the constant threat of the war deity. Unfortunately, the kingdom and its people are hated by most due to its controversial past. In the Second Avihm, Lorahn’Kahl was home to a necromancy-focused society called the Tri-Moon Theocracy. The Tri-Moon Theocracy at one point lost control of their army of the dead, leading to massive slaughter of Drehmari and the fall of their own society. Necromancy is still considered forbidden in modern-day Lorahn’Kahl but many cults and tribes still practice it.
 
 ## History
 

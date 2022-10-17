@@ -1,7 +1,7 @@
 
 ![[Islandofdusk1.webp]]{ align=right width="300" }
 
-The Island of Dusk [[Regions|region]] is in the west, and is home to the Island of Dusk [[Towers|tower.]] 
+The Island of Dusk [region](/Regions) is in the west, and is home to the Island of Dusk [[Towers|tower.]] 
 
 ## Geography 
 

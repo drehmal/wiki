@@ -11,7 +11,7 @@ tags:
 
 ![[Thesund1.webp]]{ align=right width="300" }
 
-Thesund is a small [village](/Settlements) in the [[Capital Valley]] [[Regions|region]], located west of [[the Origin]].
+Thesund is a small [village](/Settlements) in the [[Capital Valley]] [region](/Regions), located west of [[the Origin]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem). 
 

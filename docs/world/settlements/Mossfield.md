@@ -10,7 +10,7 @@ tags:
 
 ![[Mossfield1.webp]]{ align=right width="300" }
 
-Mossfield (also New Mossfield) is a [town](/Settlements) in the [[Spearhead Forest]] [[Regions|region]], located south of the Spearhead Forest [[Towers|tower]] across a bay.
+Mossfield (also New Mossfield) is a [town](/Settlements) in the [[Spearhead Forest]] [region](/Regions), located south of the Spearhead Forest [[Towers|tower]] across a bay.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

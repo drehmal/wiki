@@ -10,7 +10,7 @@ tags:
 
 ![[Gozak1.webp]]{ align=right width="300" }
 
-Gozak is a [village](/Settlements) in the [[Heartwood]] [[Regions|region]], located east-southeast of the Heartwood [[Towers|tower]].
+Gozak is a [village](/Settlements) in the [[Heartwood]] [region](/Regions), located east-southeast of the Heartwood [[Towers|tower]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

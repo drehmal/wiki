@@ -10,7 +10,7 @@ tags:
 
 ![[Dusps1.webp]]{ align=right width="300" }
 
-Dusps is a [city](/Settlements) in the [[Akhlo'Rohma]] [[Regions|region]], located south-southeast of the Akhlo'Rohma [[Towers|tower]]. 
+Dusps is a [city](/Settlements) in the [[Akhlo'Rohma]] [region](/Regions), located south-southeast of the Akhlo'Rohma [[Towers|tower]]. 
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

@@ -1,7 +1,7 @@
 
 ![[Islandofdawn1.webp]]{ align=right width="300" }
 
-The Island of Dawn [[Regions|region]] is in the west, and is home to the Island of Dawn [[Towers|tower]]. 
+The Island of Dawn [region](/Regions) is in the west, and is home to the Island of Dawn [[Towers|tower]]. 
 
 ## Geography
 

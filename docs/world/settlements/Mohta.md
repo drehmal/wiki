@@ -10,7 +10,7 @@ tags:
 
 ![[Mohta1.webp]]{ align=right width="300" }
 
-Mohta is a fishing [village](/Settlements) in the [[Lorahn'Kahl]] [[Regions|region]], located east of the Lorahn'Kahl [[Towers|tower]] along the road.
+Mohta is a fishing [village](/Settlements) in the [[Lorahn'Kahl]] [region](/Regions), located east of the Lorahn'Kahl [[Towers|tower]] along the road.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

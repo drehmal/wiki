@@ -7,7 +7,7 @@ tags:
 # Towers
 ![[Sahd1.webp]]{ align=right width="300" }
 
-[[The Terminus]]'s distinct purple and white fast travel towers dot the Drehmal landscape, and link together the world. One tower is present in each [[regions|region]], with the exception of [[Crimson Gorge]] and [[The Verdant Labyrinth]]. There are twenty-eight towers in total. Collecting fast travel towers also [[Story Progression|progresses the story]].
+[[The Terminus]]'s distinct purple and white fast travel towers dot the Drehmal landscape, and link together the world. One tower is present in each [region](/Regions), with the exception of [[Crimson Gorge]] and [[The Verdant Labyrinth]]. There are twenty-eight towers in total. Collecting fast travel towers also [[Story Progression|progresses the story]].
 
 At the top of each tower, players can interact with any of four [buttons](https://minecraft.gamepedia.com/Button) on the central pillar to be teleported to [[The Terminus]]. Interacting with the corresponding button in The Terminus will teleport players back to that regions tower.
 

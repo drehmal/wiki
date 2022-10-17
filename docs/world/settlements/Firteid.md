@@ -10,7 +10,7 @@ tags:
 
 ![[Firteid1.webp]]{ align=right width="300" }
 
-Firteid, also known as the City of Tides, is a [town](/Settlements) in the [[Black Jungle]] [[Regions|region]], located just west of the Black Jungle [[Towers|tower]] on the coast.
+Firteid, also known as the City of Tides, is a [town](/Settlements) in the [[Black Jungle]] [region](/Regions), located just west of the Black Jungle [[Towers|tower]] on the coast.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

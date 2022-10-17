@@ -10,7 +10,7 @@ tags:
 
 ![[Highfall_City1.webp]]{ align=right width="300" }
 
-Highfall is a [city](Cities "wikilink") in the [[Highfall Tundra]] [[Regions|region]], located just southeast of the Highfall Tundra [[Towers|tower]].
+Highfall is a [city](Cities "wikilink") in the [[Highfall Tundra]] [region](/Regions), located just southeast of the Highfall Tundra [[Towers|tower]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

@@ -10,7 +10,7 @@ tags:
 
 ![[Okeke1.webp]]{ align=right width="300" }
 
-Okeke is a [town](/Settlements) in the [[Merijool]] [[Regions|region]], located south-southwest of the Merijool [[Towers|tower]] across a large lake.
+Okeke is a [town](/Settlements) in the [[Merijool]] [region](/Regions), located south-southwest of the Merijool [[Towers|tower]] across a large lake.
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

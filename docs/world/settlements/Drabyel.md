@@ -10,7 +10,7 @@ tags:
 
 ![[Drabyel1.webp]]{ align=right width="300" }
 
-Drabyel (also New Drabyel) is a [[settlements/index|village]] in the [[Capital Valley]][[Regions|region]], located just south of the Capital Valley [[Towers|tower]], and thus is the closest city to [[The Origin]].
+Drabyel (also New Drabyel) is a [village](/Settlements) in the [[Capital Valley]][[Regions|region]], located just south of the Capital Valley [[Towers|tower]], and thus is the closest city to [[The Origin]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

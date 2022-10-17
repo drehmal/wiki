@@ -10,7 +10,7 @@ tags:
 
 ![[Fort_Nimahj1.webp]]{ align=right width="300" }
 
-Fort Nimahj is a [[settlements/index|fort]] in the [[Tharxax Plains]] [[Regions|region]], located just west of the North Tharxax [[Towers|tower]].
+Fort Nimahj is a [fort](/Settlements) in the [[Tharxax Plains]] [[Regions|region]], located just west of the North Tharxax [[Towers|tower]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 

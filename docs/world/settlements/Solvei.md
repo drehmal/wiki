@@ -11,7 +11,7 @@ tags:
 
 ![[Solvei1.webp]]{ align=right width="300" }
 
-Solvei is a small [[settlements/index|village]] in the [[Capital Valley]] [[Regions|region]], located east of [[the Origin]].
+Solvei is a small [village](/Settlements) in the [[Capital Valley]] [[Regions|region]], located east of [[the Origin]].
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem). 
 

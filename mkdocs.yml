@@ -64,6 +64,7 @@ plugins:
             'acacia_merchant.md': 'athrah.md'
             'achievements.md': 'advancements.md'
             'Regions.md': 'World/Regions/index.md'
+            'Settlements.md': 'World/Settlements/index.md'
 
 
 markdown_extensions:

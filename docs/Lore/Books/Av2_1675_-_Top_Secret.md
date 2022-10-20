@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Av2 1675 - Top Secret
+
 This book can be found in [[Sal'Mevir]].
 
 > The Avsohmic High Court has recently made the punishment for revealing the Yavhlix construction project even more severe. A representative came here and said that if any public knowledge was traced back to us, we would face an eternity in temporal stasis.

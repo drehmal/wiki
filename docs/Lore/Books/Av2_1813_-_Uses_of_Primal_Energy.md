@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Av2 1813 - Uses of Primal Energy
+
 This book can be found in the [[Exodus Citadel]].
 
 > The source discovered deep within the primary energy collection facility has granted us near unlimited amounts of Primal Energy, which has bolstered our technological capabilities. With this newfound power, we can perform magical actions that only the deities could do.

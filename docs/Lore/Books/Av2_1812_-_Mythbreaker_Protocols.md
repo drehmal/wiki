@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Av2 1812 - Mythbreaker Protocols
+
 This book can be found in the [[Exodus Citadel]].
 
 > Emperor Anyr has ordered the creation of a series of protocols in case the gathering of the volatile Primal Energy within the primary collection facility goes haywire. This had led us, Blue Exodus, to get directly involved in the operation, because of our extensive resources.

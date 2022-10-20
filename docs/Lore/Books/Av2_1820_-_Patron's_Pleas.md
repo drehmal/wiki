@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Av2 1820 - Patron's Pleas
+
 Av2 1820 - Patron's Pleas can be found in [[Mt. Yavhlix]].
 
 > I watched it kill Mirsu. My best friend. We got along so well, despite everything.

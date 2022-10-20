@@ -3,6 +3,7 @@ tags:
   - Books
 ---
 
+# Av2 1617 - City of Wisdom
 
 Av2 1617 - City of Wisdom can be found in [[Sal'Mevir]].
 

@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# The Tri-Moon Theocracy
+
 Found in [[Mohta]].
 
 > The Tri-Moon Theocracy was an ancient civilization that was founded before even the Avsohmic Empire rose to power, and were the source of several conflicts throughout Av2 1700.

@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Av2 1820 - Gate's Closed
+
 Av2 1820 - Gate's Closed can be found in [[Mt. Yavhlix]].
 
 > I shut the gate. I thought I did it. I thought I had saved the world from this... thing.

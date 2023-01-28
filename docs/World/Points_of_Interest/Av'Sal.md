@@ -10,7 +10,7 @@ tags:
 
 ## 2.1 Version
 
-![Avsal.webp](wiki.drehmal.cyou/docs/assets/img/poi/Avsal.webp)
+![[Avsal.webp]]{ align=right width="300" }
 
 Av'Sal is a ruin located on an island in the [[Capital Valley]] [region](/Regions). It is currently occupied by Mihkmari/Illagers and serves as the first dungeon 
 in the game.

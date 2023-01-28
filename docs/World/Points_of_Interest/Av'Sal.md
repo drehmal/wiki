@@ -40,3 +40,12 @@ Av'Sal was the capital of the Empire of Avsohm during Av2 from 1600 to 1820.
 #### **Trivia**
 
 Two of the Mihkmari are named Ornstehn and Smouh, as a reference to a pair of bosses from the video game Dark Souls.
+
+# 2.2 Version
+
+Av'Sal was once Avsohm's great capital city. The city, located in the Capital Valley region, is now in ruins and occupied by Mihkmari. It serves as the first dungeon in the game.
+Av'Sal is composed of several districts linked by ruined bridges, and a central island with a new tower.
+
+![[Avsal2.webp]]{ align=right width="300" }
+
+![[Avsal_tower.webp]]{ align=right width="300" }

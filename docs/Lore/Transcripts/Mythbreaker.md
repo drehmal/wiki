@@ -1,0 +1,79 @@
+---
+tags:
+  - Lore
+  - Transcripts
+---
+
+> \[THROW THE PRIMAL HEART ONTO THE GLOWSTONE\]
+>
+> ???: Splendid. We have ourselves a champion.
+>
+> ???: ...before we continue our chat, I will tell you my name. You must be dying to know.
+>
+> ???: Come forth.
+>
+> ???: I am the Mythoclast.
+>
+> You feel as if reality itself is warped by the name...
+>
+> The Mythoclast: I’m pleased to see that my name still has that effect on frail minds.
+>
+> The Mythoclast: What you see before you is my self portrait. A rare sight; very few have seen, let alone witnessed my true self.
+>
+> The Mythoclast: Now, go on. Claim your winnings.
+>
+> \[TAKE MYTHBREAKER\]
+>
+> The Mythoclast: Feel its strength. Its rule over time… its raw, unhindered power.
+>
+> The Mythoclast: It's remarkable that Avsohm was able to forge it. A shame they had to go.
+>
+> The Mythoclast: They posed a threat to me, and thus a threat to everyone and everything. I foresaw a future where they took my crown.
+>
+> The Mythoclast: I’m not sure if you could tell based on their many misdeeds, but they were not worthy of it… and no one ever will be.
+>
+> The Mythoclast: Of course, this destruction of lives and endless ruin leads many to criticize my actions. They are overpowered by emotion. The greatest weakness of the mortal psyche.
+>
+> The Mythoclast: They fail to see what I do is fair and just. It protects them and protects the future of everything.
+>
+> The Mythoclast: Countless unable to understand that, even if chances are astronomically slim, it can still happen. The crown can leave my possession and be taken by one who will misuse it.
+>
+> The Mythoclast: It’s a crisis that could cause the end of the cosmos and all matter within it. It only makes sense to take every possible safeguard to prevent it.
+>
+> The Mythoclast: Despite this, many see it as paranoia and anxiety.
+>
+> The Mythoclast: They have given me names because they see me as wrong. The Lord of Nihilism, the King of Nothing…
+>
+> The Mythoclast: ...the callous Creator of Everything.
+>
+> The Mythoclast: I pay no attention to them. Their rage is only chemical reactions with little bearing on reality.
+>
+> The Mythoclast: Yet, in your attempt to quiz me, you ask, ‘Why threaten Drehmal and its realm?’
+>
+> The Mythoclast: Drehmal is old, frail. Ready to suffocate in nothingness. Death approaches, and pain flourishes amongst its creation. Their souls are ready to move on to the next realm.
+>
+> The Mythoclast: What happens tomorrow is greater than what happens today. Warmth and zeal thrive best in a new microcosm.
+>
+> The Mythoclast: Why delay the creation of a new world when the present one is rotten? Its souls suffer when they could instead prosper.
+>
+> The Mythoclast: Again, many disagree and want to push back against my will.
+>
+> The Mythoclast: But you - you can be different. With this knowledge, you can see the truth. Even if it’s only for a moment in the grand scheme of the universe…
+>
+> The Mythoclast: You have the opportunity to see me as the fair and just arbiter of everything.
+>
+> The Mythoclast: Unfortunately, it will not last long. When you give in to entropy, and pass through my Court, your memories will be forgotten. Wiped from existence.
+>
+> The Mythoclast: There will come a time where we meet again and you no doubt will disagree with my actions, as you won’t know the code I follow.
+>
+> The Mythoclast: And you will have to die there.
+>
+> The Mythoclast: I exist alone in a universe that I protect and regulate. I am hated for it and always will be. It is something I have come to accept but is something I can't help but despise.
+>
+> The Mythoclast: I believe I’ve said enough.
+>
+> The Mythoclast: As I mentioned - our paths will intersect once more. In another place, another realm, you as a new person but the same soul.
+>
+> The Mythoclast: I look forward to that moment.
+>
+> The Mythoclast: Enjoy your new destroyer of myths.

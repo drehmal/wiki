@@ -1,7 +1,9 @@
 ---
 tags:
-  - "2.2 Demo"
+  - "2.2"
 ---
+
+--8<-- "upcoming.md"
 
 **Adventuring Merchants** are a new feature coming with 2.2.
 

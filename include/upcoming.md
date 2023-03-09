@@ -1,1 +1,1 @@
-!!! example "Will be coming with 2.2"
+!!! example "This feature is not yet available and will be coming with version 2.2."

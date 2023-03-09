@@ -1,1 +1,1 @@
-!!! info "Please note that this page contains minor spoilers!"
+!!! danger "Please note that this page contains some spoilers!"

@@ -11,8 +11,6 @@ This wiki is built with [MkDocs](https://www.mkdocs.org/). It uses the [Material
 Additionally it uses the following plugins:
 
 - [mkdocs-rss-plugin](https://github.com/Guts/mkdocs-rss-plugin)
-- [mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin)
-- [mkdocs-git-authors-plugin](https://github.com/timvink/mkdocs-git-authors-plugin/)
 - [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
 - [mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin)
 - [mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox)

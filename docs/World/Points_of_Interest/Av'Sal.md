@@ -4,7 +4,7 @@ tags:
   - Demo
 ---
 
---8<-- "include/spoiler.md"
+--8<-- "spoiler.md"
 
 # Av'Sal
 
@@ -33,15 +33,15 @@ The Old Compass item found in [[Drabyel]] will point to this location.
     | -220, 147, 1645 | 10x Emerald <br>6x Iron Ingot <br>15x Iron Nugget |
     | -217, 147, 1643 | 1x Enchanted Book (Feather Falling 4) <br>1x Emerald <br>16x Lapis Lazuli <br>5x Iron Ingot <br>3x Iron Nugget <br>8x Gold Nugget |
     
-#### **Lore**
+### Lore
     
 Av'Sal was the capital of the Empire of Avsohm during Av2 from 1600 to 1820.
 
-#### **Trivia**
+### Trivia
 
 Two of the Mihkmari are named Ornstehn and Smouh, as a reference to a pair of bosses from the video game Dark Souls.
 
-# 2.2 Version
+## 2.2 Version
 
 Av'Sal was once Avsohm's great capital city. The city, located in the Capital Valley region, is now in ruins and occupied by Mihkmari. It serves as the first dungeon in the game.
 Av'Sal is composed of several districts linked by ruined bridges, and a central island with a new tower.

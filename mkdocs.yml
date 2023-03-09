@@ -39,17 +39,14 @@ plugins:
   - search
   # provided by Material theme
   - tags:
-      tags_file: Overview.md
       enabled: !ENV [CI, false]
+      tags_file: Overview.md
   - social:
       cards: !ENV [CI, false]
-  # others
+  # provided by others
   - htmlproofer:
       enabled: !ENV [CI, false]
-  - git-revision-date-localized:
-      enabled: false # currently doesn't work with Cloudflare pages
-      enable_creation_date: true
-  - roamlinks 
+  - roamlinks
   - minify:
       minify_html: !ENV [CI, false]
       minify_js: !ENV [CI, false]
@@ -77,10 +74,10 @@ markdown_extensions:
       base_path: include/
       #auto_append:
       #  - includes/abbreviations.md
-      
+
 extra:
   social:
-    - icon: fontawesome/brands/discord 
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/drehmal
       name: The official Drehmal Discord
   generator: false

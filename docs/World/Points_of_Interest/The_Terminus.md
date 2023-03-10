@@ -1,6 +1,7 @@
 ---
 tags:
-    - Locations 
+    - Locations
+    - Points of Interest
 ---
 
 ![[Terminus.webp]]{ align=right width="300" }
@@ -52,7 +53,7 @@ The towers are split into four different categories, based on their position on 
  - [[Sahd Island|Sahd]]
  - // ERROR //
 
-As towers are unlocked, areas of the central Terminus map will have end rods placed, roughly marking each tower's location in it's region. 
+As towers are unlocked, areas of the central Terminus map will have end rods placed, roughly marking each tower's location in it's region.
 
 
 <figure markdown>

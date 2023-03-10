@@ -54,8 +54,7 @@ plugins:
   - glightbox
   - redirects:
         redirect_maps:
-            # 'abandoned_troupemaster.md': 'highfall.md'
-
+            # General
             'Achievements.md': 'Advancements.md'
             'Regions.md': 'World/Regions/index.md'
             'Settlements.md': 'World/Settlements/index.md'
@@ -104,6 +103,10 @@ plugins:
             'volcano_merchant.md': 'World/Settlements/Firteid.md'
             'wheat_merchant.md': 'World/Settlements/Drabyel.md'
             'wool_merchant.md': 'World/Settlements/Fort_Nimahj.md'
+            # Other
+            'abandoned_troupemaster.md': 'World/Settlements/Highfall.md'
+            'acillary_research_facility.md': "World/Points_of_Interest/Sal'Mevir.md"
+            'terminus.md': "World/Points_of_Interest/The_Terminus.md"
 
 
 markdown_extensions:

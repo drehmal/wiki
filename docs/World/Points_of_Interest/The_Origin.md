@@ -1,3 +1,9 @@
+---
+tags:
+    - Locations
+    - Points of Interest
+---
+
 # The Origin
 
 ![[Origin1.webp]]{ align=right width="300" }

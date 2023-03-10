@@ -1,7 +1,7 @@
 ---
 tags:
-  - Locations
-  - Demo
+  - "Locations"
+  - "2.2"
 ---
 
 --8<-- "spoiler.md"
@@ -12,7 +12,7 @@ tags:
 
 ![[Avsal.webp]]{ align=right width="300" }
 
-Av'Sal is a ruin located on an island in the [[Capital Valley]] [region](/Regions). It is currently occupied by Mihkmari/Illagers and serves as the first dungeon 
+Av'Sal is a ruin located on an island in the [[Capital Valley]] [region](/Regions). It is currently occupied by Mihkmari/Illagers and serves as the first dungeon
 in the game.
 
 ??? warning "Spoiler: Location"
@@ -32,9 +32,9 @@ The Old Compass item found in [[Drabyel]] will point to this location.
     | -225, 112, 1667 | 1x Leather Horse Armor <br>1x Leather Pants <br>1x Wooden Sword <br>1x Wooden Pickaxe <br>4x Emerald <br>7x Oak Planks <br>1x Bone <br>6x Wheat Seeds <br>1x Charcoal |
     | -220, 147, 1645 | 10x Emerald <br>6x Iron Ingot <br>15x Iron Nugget |
     | -217, 147, 1643 | 1x Enchanted Book (Feather Falling 4) <br>1x Emerald <br>16x Lapis Lazuli <br>5x Iron Ingot <br>3x Iron Nugget <br>8x Gold Nugget |
-    
+
 ### Lore
-    
+
 Av'Sal was the capital of the Empire of Avsohm during Av2 from 1600 to 1820.
 
 ### Trivia

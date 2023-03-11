@@ -2,6 +2,7 @@
 tags:
   - Lore
   - Entities
+  - Faction
 ---
 
 # Chosen Kingdom

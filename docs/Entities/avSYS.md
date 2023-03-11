@@ -2,6 +2,7 @@
 tags:
   - Lore
   - Entities
+  - NPC
 ---
 
 --8<-- "spoiler.md"

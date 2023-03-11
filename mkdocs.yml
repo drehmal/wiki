@@ -39,7 +39,6 @@ plugins:
   - search
   # provided by Material theme
   - tags:
-      enabled: !ENV [CI, false]
       tags_file: Overview.md
   - social:
       cards: !ENV [CI, false]

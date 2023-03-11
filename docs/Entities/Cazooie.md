@@ -1,6 +1,7 @@
 ---
 tags:
   - Entities
+  - NPC
 ---
 
 --8<-- "spoiler.md"

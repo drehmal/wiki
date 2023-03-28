@@ -57,6 +57,7 @@ plugins:
             'Achievements.md': 'Advancements.md'
             'Regions.md': 'World/Regions/index.md'
             'Settlements.md': 'World/Settlements/index.md'
+            'Towers.md': 'World/Towers.md'
             # Merchants
             'acacia_merchant.md': 'World/Settlements/Athrah.md'
             'bamboo_merchant.md': 'World/Settlements/Firteid.md'

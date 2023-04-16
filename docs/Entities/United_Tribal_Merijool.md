@@ -5,7 +5,7 @@ tags:
   - Faction
 ---
 
-# Blue Exodus
+# United Tribal Merijool
 
 ![[united_tribal_merijool.webp]]{ align=right width="300" }
 

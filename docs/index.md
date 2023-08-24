@@ -1,10 +1,10 @@
 ---
 title: Welcome!
+icon: material/home
 nocomments: true
 hide:
   - navigation
   - toc
-icon: material/home
 ---
 
 # Welcome to the Drehmal Wiki!
@@ -26,3 +26,5 @@ Check out these articles to find your way around Drehmal and this wiki!
 
 * [Settlements](/Settlements)
 * [Regions](/Regions)
+
+TESTING THE CMS

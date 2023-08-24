@@ -1,0 +1,129 @@
+backend:
+  name: github
+  repo: drehmal/wiki
+  branch: main # Branch to update (optional; defaults to master)
+  base_url: https://wiki.drehmal.cyou
+  auth_endpoint: /api/auth
+  open_authoring: true
+
+public_folder: "/assets/img"
+media_folder: "docs/assets/img"
+show_preview_links: false
+publish_mode: editorial_workflow
+
+collections:
+  - name: "doc"
+    label: "Top-Level Pages"
+    folder: "docs"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "2.2"
+    label: "2.2"
+    folder: "docs/2.2"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "entities"
+    label: "Entities"
+    folder: "docs/Entities"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "items"
+    label: "Items"
+    folder: "docs/Items"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "lore"
+    label: "Lore"
+    folder: "docs/Lore"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    nested:
+      depth: 100
+      summary: '{{title}}'
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "world"
+    label: "World"
+    folder: "docs/World"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    nested:
+      depth: 100
+      summary: '{{title}}'
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+
+  - name: "include"
+    label: "Includes"
+    folder: "include"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+

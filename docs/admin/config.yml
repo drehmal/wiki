@@ -83,9 +83,54 @@ collections:
     create: true
     slug: "{{slug}}"
     summary: "{{filename}}"
-    nested:
-      depth: 100
-      summary: '{{title}}'
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "lorebooks"
+    label: "Lore/Books"
+    folder: "docs/Lore/Books"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "loretranscripts"
+    label: "Lore/Transcripts"
+    folder: "docs/Lore/Transcripts"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "lorewars"
+    label: "Lore/Wars"
+    folder: "docs/Lore/Wars"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -102,9 +147,6 @@ collections:
     create: true
     slug: "{{slug}}"
     summary: "{{filename}}"
-    nested:
-      depth: 100
-      summary: '{{title}}'
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -114,7 +156,118 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
     editor:
       preview: false
-
+  - name: "worldpoi"
+    label: "World/Points of Interest"
+    folder: "docs/World/Points_of_Interest"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldregions"
+    label: "World/Regions"
+    folder: "docs/World/Regions"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldregionscentral"
+    label: "World/Regions/Central"
+    folder: "docs/World/Regions/Central_Regions"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldregionseastern"
+    label: "World/Regions/Eastern"
+    folder: "docs/World/Regions/Eastern_Regions"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldregionswestern"
+    label: "World/Regions/Western"
+    folder: "docs/World/Regions/Western_Regions"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldregionsisland"
+    label: "World/Regions/Island"
+    folder: "docs/World/Regions/Island_Regions"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
+  - name: "worldsettlements"
+    label: "World/Settlements"
+    folder: "docs/World/Settlements"
+    extension: "md"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{filename}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Icon", name: "icon", widget: "string", required: false}
+      - {label: "Disable comments", name: "nocomments", widget: "boolean", required: false}
+      - {label: "Hide menus", name: "hide", widget: "select", options: ["toc", "navigation"], multiple: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", modes: ["raw"], buttons: [], editor_components: []}
+    editor:
+      preview: false
   - name: "include"
     label: "Includes"
     folder: "include"

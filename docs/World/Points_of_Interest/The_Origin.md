@@ -1,15 +1,14 @@
 ---
+title: The Hunting Party Crypt
 tags:
-    - Locations
-    - Points of Interest
+  - Locations
+  - Points of Interest
 ---
 
-# The Origin
+# The Hunting Party Crypt
 
 ![[Origin1.webp]]{ align=right width="300" }
-
-The Origin is a crypt-like location where the player appears after selecting a class. It includes an brief explanation of the gods of the world and a depiction of various events. Its entrance is located in the middle of the [[Capital Valley]] [region](/Regions), on top of a hill. There are a few chests with various early-game items inside and a button to receive a stone pickaxe.
-
-The player can then return to Origin at any time to change their class.
+The Hunting Party Crypt is the burial place of members of the Party, most notably Asrihk Clearbrook, Ehri Gahra and Gahwyn "The Serendipitous". Drenched in shadows and filled with monsters, it takes the form of a series of corridors, with murals depicting gods and various important events.
+Its entrance is located in the North of the [[Capital Valley]] [region](/Regions), below a cliff.
 
 

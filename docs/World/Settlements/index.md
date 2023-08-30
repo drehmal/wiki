@@ -1,6 +1,6 @@
 ---
 comments: true
-title: added small settlements from 2.2
+title: Settlements
 tags:
   - Locations
 ---

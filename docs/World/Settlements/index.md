@@ -1,5 +1,6 @@
 ---
 comments: true
+title: added small settlements from 2.2
 tags:
   - Locations
 ---
@@ -30,4 +31,14 @@ Every Town/City has two enderchests available to use, one of which is near the m
     
     * [[Solvei]]
     * [[Thesund]]
+    * [[Hevhlak]]
+    * [[Elvett]]
+    * [[Thesund]]
+    * [[Helmshire]]
+    * The [[ICS Arbiter]]
+    * [[Fort Solitude]]
+    * [[Schlonko]]
+    * [[Morah]]
+
+
 	

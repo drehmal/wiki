@@ -1,11 +1,11 @@
 ---
-title: The Hunting Party Crypt
+title: Hunting Party Crypt
 tags:
   - Locations
   - Points of Interest
 ---
 
-# The Hunting Party Crypt
+# Hunting Party Crypt
 
 ![[Origin1.webp]]{ align=right width="300" }
 
@@ -15,6 +15,6 @@ Its entrance is located in the North of the [[Capital Valley]] [region](/Regions
 
 ### Trivia
 
-This place is an homage to the previous spawning point of the player (in 2.1 and before), being a perfect replica of it ant containing the "class boots" that were given to the player along with his class.
+This place is an homage to the previous spawning point of the player (in 2.1 and before), being a perfect replica of it ant containing the [class boots](/Class_Boots) that were given to the player along with their class.
 
 

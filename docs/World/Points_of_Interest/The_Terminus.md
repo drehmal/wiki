@@ -1,8 +1,10 @@
 ---
+title: Terminus
 tags:
-    - Locations
-    - Points of Interest
+  - Locations
+  - Points of Interest
 ---
+# Terminus
 
 ![[Terminus.webp]]{ align=right width="300" }
 

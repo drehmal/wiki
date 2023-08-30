@@ -4,7 +4,8 @@ tags:
   - Locations
   - Points of Interest
 ---
-# Terminus
+
+# Terminus
 
 ![[Terminus.webp]]{ align=right width="300" }
 

@@ -2,7 +2,7 @@
 
 This is an unofficial wiki for Drehmal: PRIMΩRDIAL.
 
-Check out the official website (https://www.drehmal.net/) & the the ofiicial Discord server (https://discord.gg/drehmal)
+Check out the [official website](https://www.drehmal.net/) & the the [official Discord server](https://discord.gg/drehmal)!
 
 ## About this wiki
 

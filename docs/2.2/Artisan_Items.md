@@ -273,3 +273,76 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
+
+## Rhaveloth Runic Blacksmith
+
+## Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Gold Ingots + 4 Runic Catalysts                                                                                                                                                                    |
+
+## Burnt Templar's Helmet
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 3             |
+| **Armor Toughness** | 2             |
+| **Bonus Stats**     | +4 Max Health |
+
+|          | Lore and Cost                                                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                       |
+
+## Burnt Templar's Chestplate
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 8             |
+| **Armor Toughness** | 2             |
+| **Bonus Stats**     | +4 Max Health |
+
+|          | Lore and Cost                                                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                                   |
+
+## Burnt Templar's Leggings
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 6             |
+| **Armor Toughness** | 2             |
+| **Bonus Stats**     | +4 Max Health |
+
+|          | Lore and Cost                                                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                     |
+
+## Burnt Templar's Boots
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 3             |
+| **Armor Toughness** | 2             |
+| **Bonus Stats**     | +4 Max Health |
+
+|          | Lore and Cost                                                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                        |
+
+## Fleshcoaxer
+
+|                 |                                      |
+| --------------- | ------------------------------------ |
+| **Enchants**    | Sharpness 8, Looting 2, Efficiency 5 |
+| **Bonus Stats** | 4 Attack Damage                      |
+
+|          | Lore and Cost                                                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
+| **Cost** | 35 Gold Ingots + 40 Quartz                                                                                                                          |

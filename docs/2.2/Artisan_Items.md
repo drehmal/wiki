@@ -169,3 +169,108 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | -------- | --------------------------------------------------- |
 | **Lore** | Engraved with runes fit for an experienced warrior. |
 | **Cost** | Leather Boots + 13 Emeralds                         |
+
+## Fort Nimahj Runic Blacksmith
+
+## Survivor's Helmet
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**           | 2                                                    |
+| **Armor Toughness** | 0                                                    |
+| **Bonus Stats**     | +4% Max Health, +4% Movement Speed, +4% Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                                                               |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Helmet + 15 Scales                                                                                                                                                                                     |
+
+## Survivor's Chestplate
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**           | 6                                                    |
+| **Armor Toughness** | 0                                                    |
+| **Bonus Stats**     | +4% Max Health, +4% Movement Speed, +4% Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                                                               |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Chestplate + 17 Scales                                                                                                                                                                                 |
+
+## Survivor's Leggings
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**           | 5                                                    |
+| **Armor Toughness** | 0                                                    |
+| **Bonus Stats**     | +4% Max Health, +4% Movement Speed, +4% Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                                                               |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Leggings + 16 Scales                                                                                                                                                                                   |
+|
+
+## Survivor's Boots
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**           | 2                                                    |
+| **Armor Toughness** | 0                                                    |
+| **Bonus Stats**     | +4% Max Health, +4% Movement Speed, +4% Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                                                               |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Boots + 15 Scales                                                                                                                                                                                      |
+|
+
+## Heart of Tharhan
+
+|                 |               |
+| --------------- | ------------- |
+| **Enchants**    | Unbreaking 1  |
+| **Bonus Stats** | +4 Max Health |
+
+|          | Lore and Cost                                                                               |
+| -------- | ------------------------------------------------------------------------------------------- |
+| **Lore** | This shield is thick, strong, and dependable. It isn't perfect, but it makes you feel safe. |
+| **Cost** | 12 Scales                                                                                   |
+
+## Mind of Avsohm
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Enchants**        | Unbreaking 1         |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------------- |
+| **Lore** | This shield can be deployed extremely quickly. It is smooth and effective, but lacks personality. |
+| **Cost** | 12 Scales                                                                                         |
+
+## Soul of Insohm
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Enchants**        | Unbreaking 1      |
+| **Bonus Stats**     | +0.2 Attack Speed |
+
+|          | Lore and Cost                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This shield is covered in sharp edges and can be swung in battle. It is powerful, but brittle in some places. |
+| **Cost** | 12 Scales                                                                                                     |
+
+## Surgedigger
+
+|                 |                           |
+| --------------- | ------------------------- |
+| **Enchants**    | Knockback 7, Efficiency 5 |
+| **Bonus Stats** | 6 Attack Damage           |
+
+|          | Lore and Cost                                                                                                                                                           |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
+| **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
+|

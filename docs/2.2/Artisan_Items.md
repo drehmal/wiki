@@ -273,4 +273,3 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
-|

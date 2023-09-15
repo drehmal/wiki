@@ -172,7 +172,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 
 ## Fort Nimahj Runic Blacksmith
 
-## Survivor's Helmet
+### Survivor's Helmet
 
 |                     |                                                      |
 | ------------------- | ---------------------------------------------------- |
@@ -185,7 +185,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
 | **Cost** | Iron Helmet + 15 Scales                                                                                                                                                                                     |
 
-## Survivor's Chestplate
+### Survivor's Chestplate
 
 |                     |                                                      |
 | ------------------- | ---------------------------------------------------- |
@@ -198,7 +198,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
 | **Cost** | Iron Chestplate + 17 Scales                                                                                                                                                                                 |
 
-## Survivor's Leggings
+### Survivor's Leggings
 
 |                     |                                                      |
 | ------------------- | ---------------------------------------------------- |
@@ -212,7 +212,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Cost** | Iron Leggings + 16 Scales                                                                                                                                                                                   |
 |
 
-## Survivor's Boots
+### Survivor's Boots
 
 |                     |                                                      |
 | ------------------- | ---------------------------------------------------- |
@@ -226,7 +226,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Cost** | Iron Boots + 15 Scales                                                                                                                                                                                      |
 |
 
-## Heart of Tharhan
+### Heart of Tharhan
 
 |                 |               |
 | --------------- | ------------- |
@@ -238,7 +238,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | This shield is thick, strong, and dependable. It isn't perfect, but it makes you feel safe. |
 | **Cost** | 12 Scales                                                                                   |
 
-## Mind of Avsohm
+### Mind of Avsohm
 
 |                     |                      |
 | ------------------- | -------------------- |
@@ -250,7 +250,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | This shield can be deployed extremely quickly. It is smooth and effective, but lacks personality. |
 | **Cost** | 12 Scales                                                                                         |
 
-## Soul of Insohm
+### Soul of Insohm
 
 |                     |                   |
 | ------------------- | ----------------- |
@@ -262,7 +262,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | This shield is covered in sharp edges and can be swung in battle. It is powerful, but brittle in some places. |
 | **Cost** | 12 Scales                                                                                                     |
 
-## Surgedigger
+### Surgedigger
 
 |                 |                           |
 | --------------- | ------------------------- |
@@ -276,14 +276,14 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 
 ## Rhaveloth Runic Blacksmith
 
-## Runic Amplifier
+### Runic Amplifier
 
 |          | Lore and Cost                                                                                                                                                                                         |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
 | **Cost** | 32 Gold Ingots + 4 Runic Catalysts                                                                                                                                                                    |
 
-## Burnt Templar's Helmet
+### Burnt Templar's Helmet
 
 |                     |               |
 | ------------------- | ------------- |
@@ -296,7 +296,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
 | **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                       |
 
-## Burnt Templar's Chestplate
+### Burnt Templar's Chestplate
 
 |                     |               |
 | ------------------- | ------------- |
@@ -309,7 +309,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
 | **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                                   |
 
-## Burnt Templar's Leggings
+### Burnt Templar's Leggings
 
 |                     |               |
 | ------------------- | ------------- |
@@ -322,7 +322,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
 | **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                     |
 
-## Burnt Templar's Boots
+### Burnt Templar's Boots
 
 |                     |               |
 | ------------------- | ------------- |
@@ -335,7 +335,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
 | **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                        |
 
-## Fleshcoaxer
+### Fleshcoaxer
 
 |                 |                                      |
 | --------------- | ------------------------------------ |

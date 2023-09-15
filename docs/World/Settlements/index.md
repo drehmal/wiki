@@ -1,5 +1,6 @@
 ---
 comments: true
+title: Settlements
 tags:
   - Locations
 ---
@@ -20,6 +21,7 @@ The land of Drehmal is home to thirteen towns.
 * [[Okeke]]
 * [[New Sahd|Sahd]] (New Sahd)
 * [[Tharxax City]]
+* [[Rhaveloth]]
 
 Every Town/City has two enderchests available to use, one of which is near the map and one which is in an inn within the town. 
 
@@ -30,4 +32,14 @@ Every Town/City has two enderchests available to use, one of which is near the m
     
     * [[Solvei]]
     * [[Thesund]]
+    * [[Hevhlak]]
+    * [[Elvett]]
+    * [[Thesund]]
+    * [[Helmshire]]
+    * The [[ICS Arbiter]]
+    * [[Fort Solitude]]
+    * [[Schlonko]]
+    * [[Morah]]
+
+
 	

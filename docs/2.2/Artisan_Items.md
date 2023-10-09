@@ -274,6 +274,108 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
 
+## Okeke Runic Blacksmith
+
+### Rythm-Chain Hood
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 2            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales + 5 Chains                                                                                                                        |
+
+### Rythm-Chain Chestplate
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 6            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 17 Scales + 7 Chains                                                                                                                        |
+
+### Rythm-Chain Leggings
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 5            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 16 Scales + 6 Chains                                                                                                                        |
+
+### Rythm-Chain Boots
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 2            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales + 5 Chains                                                                                                                        |
+
+### Weighted Flametreads
+
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Armor**           | 3                                                       |
+| **Armor Toughness** | 1                                                       |
+| **Enchants**        | Unbreaking I                                            |
+| **Bonus Stats**     | +4 Max Health, +10% Attack Damage, -0.04 Movement Speed |
+
+|          | Lore and Cost                                                                                      |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| **Lore** | For those that follow the Avatars of the Cycle, walking upon freshly lit coals is a common ritual. |
+| **Cost** | 20 Scales                                                                                          |
+
+### Coldsnap
+
+|                     |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| **Armor**           | 5                                                                               |
+| **Armor Toughness** | 1                                                                               |
+| **Enchants**        | Unbreaking V, Fire Protection II, Blast Protection II, Projectile Protection II |
+
+|          | Lore and Cost                                                                                                                                  |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This beatiful, layered silk garment covers the lower torso and conceals a ritual set of runes which protect the wearer from elemental threats. |
+| **Cost** | 20 Scales                                                                                                                                      |
+
+### Charm of Rationality
+
+|                 |                                                   |
+| --------------- | ------------------------------------------------- |
+| **Bonus Stats** | When in offhand: +20% Armour, +7% Armor Toughness |
+
+|          | Lore and Cost                                                                                                                                                                        |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore** | Although Loe is widely known for their feud with Lai today, many worshippers still follow the old path of compromise and meditation. This bauble helps the wearer keep a cool head.  |
+| **Cost** | 28 Scales + 1 Diamond                                                                                                                                                                |
+
+### Tetrodotox
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 7             |
+| **Armor Toughness** | 3             |
+| **Enchants**        | Thorns X      |
+| **Bonus Stats**     | +2 Max Health |
+
+|          | Lore and Cost                                                                                                                                                                                                               |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
+| **Cost** | 30 Scales + 6 Pufferfish                                                                                                                                                                                                    |
+
 ## Athrah Runic Blacksmith
 
 ### Runic Amplifier

@@ -274,6 +274,116 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
 
+## Athrah Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+### Rejuvenating Helmet
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 3                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Chestplate
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 8                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Leggings
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 6                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Boots
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 8                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Chime Anklets
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Enchants**    | Unbreaking V                        |
+| **Bonus Stats** | -15% Max Health, +15% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This traditional Casain martial arts footwear allows the user to move with intention and rythm in combat. High level duels sound more like an energetic duet than a fight. |
+| **Cost** | 16 Scales                                                                                                                                                                  |
+
+### Carillon Rod
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Enchants**    | Unbreaking VIII                     |
+| **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The Harzeva family is well-known for making the greatest bells in the realm. This burnished helmet marks the first time they have taken their techniques to the battlefield. It is unexpectedly comfortable and effective. |
+| **Cost** | 20 Scales                                                                                                                                                                                                                  |
+
+### Bellmet
+
+|              |         |
+| ------------ | ------- |
+| **Enchants** | Lure IV |
+
+|          | Lore and Cost                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ingenious rod needs no bait. Instead, when a lever is spun, tiny chimes play which somehow attract the fish of Rai'za directly to the fisher's hook. |
+| **Cost** | 23 Scales                                                                                                                                                 |
+
+### Vow of Loyalty
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Bonus Stats** | -8 Max Health, +0.04 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
+| **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
+
 ## Rhaveloth Runic Blacksmith
 
 ### Runic Amplifier

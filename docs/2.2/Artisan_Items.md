@@ -384,6 +384,103 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
 | **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
 
+## Sahd Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+### Lazulite Helmet
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                   |
+
+### Lazulite Chestplate
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 8                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                               |
+
+### Lazulite Leggings
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 6                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                   |
+
+### Lazulite Boots
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                    |
+
+### Pathfinder's Vestaments
+
+|                 |                                                        |
+| --------------- | ------------------------------------------------------ |
+| **Armor**       | 5                                                      |
+| **Bonus Stats** | -8 Max Health, +0.015 Movement Speed, +1 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                                             |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Tradition mandates that a Pilgrim of the Way must wear this ornate red and green silken robe. Despite the garment's awkwardness, concealed runes ensure that brigands seek other targets. |
+| **Cost** | 36 Scales                                                                                                                                                                                 |
+
+### Guardian's Greataxe
+
+|                  |     |
+| ---------------- | --- |
+| **Base Damage**  | 18  |
+| **Attack Speed** | 0.3 |
+
+|          | Lore and Cost                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | With its iron head carved to look like a Vibrant Salmon, this design had an unflattering past but was repurposed by the pilgrims' sworn protectors. |
+| **Cost** | 17 Scales                                                                                                                                           |
+
+### Zedoh Tower Shield
+
+|                 |                               |
+| --------------- | ----------------------------- |
+| **Enchants**    | Fire Aspect III, Unbreaking X |
+| **Bonus Stats** | +2 Max Health                 |
+
+|          | Lore and Cost                                                                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
+| **Cost** | 30 Scales + 16 Obsidian                                                                                                                                                                                                               |
+
 ## Rhaveloth Runic Blacksmith
 
 ### Runic Amplifier

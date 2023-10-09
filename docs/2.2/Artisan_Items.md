@@ -486,6 +486,106 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
 | **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
 
+## Highfall Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+## Pale Steel Helmet
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 3                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises this helmet is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                               |
+
+## Pale Steel Chestplate
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 8                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises this chestplate is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                               |
+
+## Pale Steel Leggings
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 6                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                    |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises these leggings is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                |
+
+## Pale Steel Boots
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 2                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises these boots is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                |
+
+## Behemoth Edge
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Damage**  | 10            |
+| **Attack Speed** | 0.8           |
+| **Bonus Stats**  | +8 Max Health |
+
+
+|          | Lore and Cost                                                                                                                                                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though few remain, this gigantic battleaxe is a poignant reminder that the blood of Highfall's warrior-smiths continues to burn as brightly and relentlessly as a town set ablaze. |
+| **Cost** | 23 Scales                                                                                                                                                                          |
+
+## Berserker's Greaves
+
+|                 |                                                       |
+| --------------- | ----------------------------------------------------- |
+| **Armor**       | 2                                                     |
+| **Bonus Stats** | -8 Max Health, +0.01 Movement Speed, +2 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | An ancient oral tradition among the Sieval clan of warrior-smiths ensures that the northen storm may gather again to reclaim the glory and riches lost to Highfall in the Third Avihm's long peace. |
+| **Cost** | 21 Scales                                                                                                                                                                                           |
+
+## Eternal Prospecter
+
+|                  |                             |
+| ---------------- | --------------------------- |
+| **Base Damage**  | 6                           |
+| **Attack Speed** | 1.2                         |
+| **Enchants**     | Unbreaking III, Fortune III |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | The ultimate in Highfall's time-tested mining technology. |
+| **Cost** | 40 Scales + 32 Diamonds                                   |
+
 ## Sahd Runic Blacksmith
 
 ### Runic Amplifier

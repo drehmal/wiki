@@ -452,6 +452,18 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 
 ### Carillon Rod
 
+|              |         |
+| ------------ | ------- |
+| **Enchants** | Lure IV |
+
+|          | Lore and Cost                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ingenious rod needs no bait. Instead, when a lever is spun, tiny chimes play which somehow attract the fish of Rai'za directly to the fisher's hook. |
+| **Cost** | 20 Scales                                                                                                                                                 |
+
+### Bellmet
+
+
 |                 |                                     |
 | --------------- | ----------------------------------- |
 | **Armor**       | 2                                   |
@@ -461,18 +473,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 |          | Lore and Cost                                                                                                                                                                                                              |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore** | The Harzeva family is well-known for making the greatest bells in the realm. This burnished helmet marks the first time they have taken their techniques to the battlefield. It is unexpectedly comfortable and effective. |
-| **Cost** | 20 Scales                                                                                                                                                                                                                  |
-
-### Bellmet
-
-|              |         |
-| ------------ | ------- |
-| **Enchants** | Lure IV |
-
-|          | Lore and Cost                                                                                                                                             |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | This ingenious rod needs no bait. Instead, when a lever is spun, tiny chimes play which somehow attract the fish of Rai'za directly to the fisher's hook. |
-| **Cost** | 23 Scales                                                                                                                                                 |
+| **Cost** | 23 Scales                                                                                                                                                                                                                  |
 
 ### Vow of Loyalty
 

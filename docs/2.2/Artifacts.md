@@ -158,3 +158,16 @@ Artifacts are unique custom items with enchantments and/or attribute bonuses. Un
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | These bright purple pants are made of Casain silk, but have been repaired several times with patches made from other, coarser materials. Vibrant and lawless, Tahva is well-known across the realm as a haven for outcasts and scoundrels. |
 | **Obtain** | Found on a fort on the coast of the 2nd peninsula of Palisades Heath. Chest located at **(249, 124, 2713)**                                                                                                                                |
+
+## Quartzite Blade
+
+|              |                                     |
+| ------------ | ----------------------------------- |
+| Base Damage  | 10                                  |
+| Attack Speed | 1.4                                 |
+| Bonus Stats  | +0.01 Movement Speed, -6 Max Health |
+
+|            | **Lore and how to Obtain**                                                                                                                                                                                                    |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | This wickedly sharp rapier was wielded by the Whispers, elite guards of the Insohmic Coalition Grand Council. After the departure of Master Vahid, they abandoned their former masters to become a guild of deadly assassins. |
+| **Obtain** | Found in the sunken ship on the shore of [[The Carmine]]. Chest located at **(-3056, 62, 3952)**                                                                                                                              |

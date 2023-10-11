@@ -274,6 +274,416 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
 
+## Okeke Runic Blacksmith
+
+### Rythm-Chain Hood
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 2            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales + 5 Chains                                                                                                                        |
+
+### Rythm-Chain Chestplate
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 6            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 17 Scales + 7 Chains                                                                                                                        |
+
+### Rythm-Chain Leggings
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 5            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 16 Scales + 6 Chains                                                                                                                        |
+
+### Rythm-Chain Boots
+
+|              |              |
+| ------------ | ------------ |
+| **Armor**    | 2            |
+| **Enchants** | Unbreaking X |
+
+|          | Lore and Cost                                                                                                                               |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales + 5 Chains                                                                                                                        |
+
+### Weighted Flametreads
+
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Armor**           | 3                                                       |
+| **Armor Toughness** | 1                                                       |
+| **Enchants**        | Unbreaking I                                            |
+| **Bonus Stats**     | +4 Max Health, +10% Attack Damage, -0.04 Movement Speed |
+
+|          | Lore and Cost                                                                                      |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| **Lore** | For those that follow the Avatars of the Cycle, walking upon freshly lit coals is a common ritual. |
+| **Cost** | 20 Scales                                                                                          |
+
+### Coldsnap
+
+|                     |                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------- |
+| **Armor**           | 5                                                                               |
+| **Armor Toughness** | 1                                                                               |
+| **Enchants**        | Unbreaking V, Fire Protection II, Blast Protection II, Projectile Protection II |
+
+|          | Lore and Cost                                                                                                                                  |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This beatiful, layered silk garment covers the lower torso and conceals a ritual set of runes which protect the wearer from elemental threats. |
+| **Cost** | 20 Scales                                                                                                                                      |
+
+### Charm of Rationality
+
+|                 |                                                   |
+| --------------- | ------------------------------------------------- |
+| **Bonus Stats** | When in offhand: +20% Armour, +7% Armor Toughness |
+
+|          | Lore and Cost                                                                                                                                                                        |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore** | Although Loe is widely known for their feud with Lai today, many worshippers still follow the old path of compromise and meditation. This bauble helps the wearer keep a cool head.  |
+| **Cost** | 28 Scales + 1 Diamond                                                                                                                                                                |
+
+### Tetrodotox
+
+|                     |               |
+| ------------------- | ------------- |
+| **Armor**           | 7             |
+| **Armor Toughness** | 3             |
+| **Enchants**        | Thorns X      |
+| **Bonus Stats**     | +2 Max Health |
+
+|          | Lore and Cost                                                                                                                                                                                                               |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
+| **Cost** | 30 Scales + 6 Pufferfish                                                                                                                                                                                                    |
+
+## Athrah Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+### Rejuvenating Helmet
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 3                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Chestplate
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 8                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Leggings
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 6                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Rejuvenating Boots
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Armor**           | 8                                     |
+| **Armor Toughness** | 2                                     |
+| **Bonus Stats**     | +20% Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ambitious piece is outfitted with large, bulky healing runes carved on a mysterious metal. Though it is no Avsohmic armor in form, its Athrahn creator did capture some function |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                                       |
+
+### Chime Anklets
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Enchants**    | Unbreaking V                        |
+| **Bonus Stats** | -15% Max Health, +15% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This traditional Casain martial arts footwear allows the user to move with intention and rythm in combat. High level duels sound more like an energetic duet than a fight. |
+| **Cost** | 16 Scales                                                                                                                                                                  |
+
+### Carillon Rod
+
+|              |         |
+| ------------ | ------- |
+| **Enchants** | Lure IV |
+
+|          | Lore and Cost                                                                                                                                             |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | This ingenious rod needs no bait. Instead, when a lever is spun, tiny chimes play which somehow attract the fish of Rai'za directly to the fisher's hook. |
+| **Cost** | 20 Scales                                                                                                                                                 |
+
+### Bellmet
+
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Enchants**    | Unbreaking VIII                     |
+| **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The Harzeva family is well-known for making the greatest bells in the realm. This burnished helmet marks the first time they have taken their techniques to the battlefield. It is unexpectedly comfortable and effective. |
+| **Cost** | 23 Scales                                                                                                                                                                                                                  |
+
+### Vow of Loyalty
+
+|                 |                                     |
+| --------------- | ----------------------------------- |
+| **Armor**       | 2                                   |
+| **Bonus Stats** | -8 Max Health, +0.04 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                                                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
+| **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
+
+## Highfall Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+## Pale Steel Helmet
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 3                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises this helmet is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                               |
+
+## Pale Steel Chestplate
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 8                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises this chestplate is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                               |
+
+## Pale Steel Leggings
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 6                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                    |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises these leggings is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                |
+
+## Pale Steel Boots
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**           | 2                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The material which comprises these boots is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                |
+
+## Behemoth Edge
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Damage**  | 10            |
+| **Attack Speed** | 0.8           |
+| **Bonus Stats**  | +8 Max Health |
+
+
+|          | Lore and Cost                                                                                                                                                                      |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though few remain, this gigantic battleaxe is a poignant reminder that the blood of Highfall's warrior-smiths continues to burn as brightly and relentlessly as a town set ablaze. |
+| **Cost** | 23 Scales                                                                                                                                                                          |
+
+## Berserker's Greaves
+
+|                 |                                                       |
+| --------------- | ----------------------------------------------------- |
+| **Armor**       | 2                                                     |
+| **Bonus Stats** | -8 Max Health, +0.01 Movement Speed, +2 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | An ancient oral tradition among the Sieval clan of warrior-smiths ensures that the northen storm may gather again to reclaim the glory and riches lost to Highfall in the Third Avihm's long peace. |
+| **Cost** | 21 Scales                                                                                                                                                                                           |
+
+## Eternal Prospecter
+
+|                  |                             |
+| ---------------- | --------------------------- |
+| **Base Damage**  | 6                           |
+| **Attack Speed** | 1.2                         |
+| **Enchants**     | Unbreaking III, Fortune III |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | The ultimate in Highfall's time-tested mining technology. |
+| **Cost** | 40 Scales + 32 Diamonds                                   |
+
+## Sahd Runic Blacksmith
+
+### Runic Amplifier
+
+|          | Lore and Cost                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
+| **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
+
+### Lazulite Helmet
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                                   |
+
+### Lazulite Chestplate
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 8                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                               |
+
+### Lazulite Leggings
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 6                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                   |
+
+### Lazulite Boots
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**     | +8% Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                    |
+
+### Pathfinder's Vestaments
+
+|                 |                                                        |
+| --------------- | ------------------------------------------------------ |
+| **Armor**       | 5                                                      |
+| **Bonus Stats** | -8 Max Health, +0.015 Movement Speed, +1 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                                             |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Tradition mandates that a Pilgrim of the Way must wear this ornate red and green silken robe. Despite the garment's awkwardness, concealed runes ensure that brigands seek other targets. |
+| **Cost** | 36 Scales                                                                                                                                                                                 |
+
+### Guardian's Greataxe
+
+|                  |     |
+| ---------------- | --- |
+| **Base Damage**  | 18  |
+| **Attack Speed** | 0.3 |
+
+|          | Lore and Cost                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | With its iron head carved to look like a Vibrant Salmon, this design had an unflattering past but was repurposed by the pilgrims' sworn protectors. |
+| **Cost** | 17 Scales                                                                                                                                           |
+
+### Zedoh Tower Shield
+
+|                 |                               |
+| --------------- | ----------------------------- |
+| **Enchants**    | Fire Aspect III, Unbreaking X |
+| **Bonus Stats** | +2 Max Health                 |
+
+|          | Lore and Cost                                                                                                                                                                                                                         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
+| **Cost** | 30 Scales + 16 Obsidian                                                                                                                                                                                                               |
+
 ## Rhaveloth Runic Blacksmith
 
 ### Runic Amplifier

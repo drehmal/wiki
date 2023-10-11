@@ -496,7 +496,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | A small device powered by runic catalysts. In the hands of a skilled artisian, it can be used to supercharge inscribed runes, effectively tripling the potentia of the material they are carved upon. |
 | **Cost** | 32 Scales + 4 Runic Catalysts                                                                                                                                                                         |
 
-## Pale Steel Helmet
+### Pale Steel Helmet
 
 |                     |                      |
 | ------------------- | -------------------- |
@@ -509,7 +509,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The material which comprises this helmet is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
 | **Cost** | Runic Amplifer + Diamond Helmet                                                                                                                               |
 
-## Pale Steel Chestplate
+### Pale Steel Chestplate
 
 |                     |                      |
 | ------------------- | -------------------- |
@@ -522,7 +522,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The material which comprises this chestplate is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
 | **Cost** | Runic Amplifer + Diamond Chestplate                                                                                                                               |
 
-## Pale Steel Leggings
+### Pale Steel Leggings
 
 |                     |                      |
 | ------------------- | -------------------- |
@@ -535,7 +535,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The material which comprises these leggings is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
 | **Cost** | Runic Amplifer + Diamond Leggings                                                                                                                                |
 
-## Pale Steel Boots
+### Pale Steel Boots
 
 |                     |                      |
 | ------------------- | -------------------- |
@@ -548,7 +548,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The material which comprises these boots is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
 | **Cost** | Runic Amplifer + Diamond Boots                                                                                                                                |
 
-## Behemoth Edge
+### Behemoth Edge
 
 |                  |               |
 | ---------------- | ------------- |
@@ -562,7 +562,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Though few remain, this gigantic battleaxe is a poignant reminder that the blood of Highfall's warrior-smiths continues to burn as brightly and relentlessly as a town set ablaze. |
 | **Cost** | 23 Scales                                                                                                                                                                          |
 
-## Berserker's Greaves
+### Berserker's Greaves
 
 |                 |                                                       |
 | --------------- | ----------------------------------------------------- |
@@ -574,7 +574,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | An ancient oral tradition among the Sieval clan of warrior-smiths ensures that the northen storm may gather again to reclaim the glory and riches lost to Highfall in the Third Avihm's long peace. |
 | **Cost** | 21 Scales                                                                                                                                                                                           |
 
-## Eternal Prospecter
+### Eternal Prospecter
 
 |                  |                             |
 | ---------------- | --------------------------- |

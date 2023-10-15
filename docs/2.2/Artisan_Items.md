@@ -757,7 +757,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
 | **Cost** | 35 Gold Ingots + 40 Quartz                                                                                                                          |
 
-## Ytag Runic Blacksmith
+## Ytaj Runic Blacksmith
 
 ### Guard Trident
 |                  |     |

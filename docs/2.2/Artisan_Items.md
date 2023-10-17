@@ -756,3 +756,41 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
 | **Cost** | 35 Gold Ingots + 40 Quartz                                                                                                                          |
+
+## Ytaj Runic Blacksmith
+
+### Guard Trident
+|                  |     |
+| ---------------- | --- |
+| **Base Damage**  | 9   |
+| **Attack Speed** | 1.1 |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | To pay homage to Elder Dahr, it is customary for Talon guarding a public space to speak softly and carry a trident. |
+| **Cost** | 20 Amethyst Shards                                                                                                  |
+
+### Compass Rapier
+
+|                  |   |
+| ---------------- | - |
+| **Base Damage**  | 7 |
+| **Attack Speed** | 2 |
+
+|          | Lore and Cost                                                                                                                                                          |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | To pay homage to Elder Rihelma, it is customary for Wingmakers without any leads to spin a rapier and go in the direction it points, no matter the weather or climate. |
+| **Cost** | 18 Amethyst Shards                                                                                                                                                     |
+
+### Cloak of Office
+
+|                     |                                          |
+| ------------------- | ---------------------------------------- |
+| **Armor**           | 7                                        |
+| **Armor Toughness** | 2                                        |
+| **Bonus Stats**     | +6 Max Health, +0.3 Knockback Resistance |
+
+|          | Lore and Cost                                                                                                                    |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | To pay homage to Elder Taihgel, it is customary for Scalebound leaders addressing the public to wear this shell-patterned cloak. |
+| **Cost** | 23 Amethyst Shards + 12 Magma Blocks                                                                                             |

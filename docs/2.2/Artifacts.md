@@ -101,11 +101,10 @@ Artifacts are unique custom items with enchantments and/or attribute bonuses. Un
 | Attack Speed | 1           |
 | Enchants     | Knockback 3 |
 
-|                                       | **Lore and how to Obtain**                     |
-| ------------------------------------- | ---------------------------------------------- |
+|                                       | **Lore and how to Obtain**                                                                                                                                  |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**                              | An extremely unconventional weapon that proved fruitful in spelunking parties. Seen as shameful until one has felt the full force of its broad, flat power. |
-| **Obtain**                            | In an overgrown house within the [[Heartwood]]. Chest located at **(1644, 83, 1898)** 
-                          |
+| **Obtain**                            | In an overgrown house within the [[Heartwood]]. Chest located at **(1644, 83, 1898)**                                                                       |
 
 ## AP-357 Excavator
 
@@ -115,11 +114,10 @@ Artifacts are unique custom items with enchantments and/or attribute bonuses. Un
 | Attack Speed | 1.2          |
 | Enchants     | Efficiency 7 |
 
-|            | **Lore and how to Obtain**                                                             |
-| ---------- | -------------------------------------------------------------------------------------- |
+|            | **Lore and how to Obtain**                                                                                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | One of the very few pickaxes designed to mine rehntite salvaged by Insohm. With Avsohm's mine missing, Master Ultva ordered for every bit of the ancient bedrock beneath Rhaverik to be scoured. |
-| **Obtain** | Found in the mines at [[Rhaverik]] in the [[Heartwood]]. Chest at **(1078, 33, 2143)** 
-                                        |
+| **Obtain** | Found in the mines at [[Rhaverik]] in the [[Heartwood]]. Chest at **(1078, 33, 2143)**                                                                                                           |
 
 ## Temporal Bow
 

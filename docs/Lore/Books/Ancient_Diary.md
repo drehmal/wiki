@@ -1,4 +1,5 @@
 ---
+title: Ancient Diary
 tags:
   - Books
 ---

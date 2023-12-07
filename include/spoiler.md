@@ -1,1 +1,1 @@
-!!! danger "Please note that this page contains some spoilers!"
+!!! danger "![Malevolentia](/assets/img/items/mythical/Malevolentia.webp){ width="24" } Please note that this page contains some major spoilers! ![Malevolentia](/assets/img/items/mythical/Malevolentia.webp){ width="24" }"

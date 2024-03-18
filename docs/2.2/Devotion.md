@@ -46,3 +46,34 @@ Each Devotion level for Drehmal requires 100xp worth of items offered.
 | Lvl 8  | 64x Oak Log                    |
 | Lvl 9  | Runic Book (Unbreaking III)    |
 | Lvl 10 | [[Perennium]] +3               |
+
+## Maelihs' Devotion
+
+- **Deity:** [[Maelihs]]
+- **Altar:** [[Sepulchral Altar]] ([[Rhaveloth]])
+
+### Offerings
+
+| Devotion Tiers | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight (7xp)   | Redstone Block <br>Golden Carrot <br>Chain (any) |
+| Medium (18xp)  | Bell <br>TNT                                     |
+| Great (35xp)   | Respawn Anchor <br>Music Disc (Chirp)            |
+
+Each Devotion level for Maelihs requires 100xp worth of items offered.
+
+### Rewards
+
+| Level  | Reward                               |
+| ------ | ------------------------------------ |
+| Lvl 1  | [[Sprout of Anguish]] +0             |
+| Lvl 2  | 32x Beetroot Seeds                   |
+| Lvl 3  | Splash Potion of Great Harming       |
+| Lvl 4  | [[Sprout of Anguish]] +1             |
+| Lvl 5  | 20x TNT                              |
+| Lvl 6  | 9x Lava Buckets                      |
+| Lvl 7  | [[Sprout of Anguish]] +2             |
+| Lvl 8  | Potion of Strength II                |
+| Lvl 9  | Runic Book (Sharpness IV & Power IV) |
+| Lvl 10 | [[Sprout of Anguish]] +3             |
+

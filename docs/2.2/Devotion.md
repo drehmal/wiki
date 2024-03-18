@@ -56,7 +56,7 @@ Each Devotion level for Drehmal requires 100xp worth of items offered.
 
 | Devotion Tiers | Item                                             |
 | -------------- | ------------------------------------------------ |
-| Slight (7xp)   | Redstone Block <br>Golden Carrot <br>Chain (any) |
+| Slight (7xp)   | Redstone Block <br>Golden Carrot <br>Chain       |
 | Medium (18xp)  | Bell <br>TNT                                     |
 | Great (35xp)   | Respawn Anchor <br>Music Disc (Chirp)            |
 
@@ -76,4 +76,34 @@ Each Devotion level for Maelihs requires 100xp worth of items offered.
 | Lvl 8  | Potion of Strength II                |
 | Lvl 9  | Runic Book (Sharpness IV & Power IV) |
 | Lvl 10 | [[Sprout of Anguish]] +3             |
+
+## Virtuo's Devotion
+
+- **Deity:** [[Virtuo]]
+- **Altar:** [[Kiln of Virtuo]] ([[Black Jungle]])
+
+### Offerings
+
+| Devotion Tiers | Item                                  |
+| -------------- | ------------------------------------- |
+| Slight (7xp)   | Dried Kelp <br>Melon <br>Soul Lantern |
+| Medium (18xp)  | Cake <br>Axolotl Bucket               |
+| Great (35xp)   | Diamond <br>Music Disc (Far)          |
+
+Each Devotion level for Virtuo requires 100xp worth of items offered.
+
+### Rewards
+
+| Level  | Reward                           |
+| ------ | -------------------------------- |
+| Lvl 1  | [[Purifying Light]] +0           |
+| Lvl 2  | 32x Melon Seeds                  |
+| Lvl 3  | Potion of Healing II             |
+| Lvl 4  | [[Purifying Light]] +1           |
+| Lvl 5  | 64x Stripped Birch Log           |
+| Lvl 6  | Splash Potion of Regeneration II |
+| Lvl 7  | [[Purifying Light]] +2           |
+| Lvl 8  | Runic Book (Mending)             |
+| Lvl 9  | Totem of Undying                 |
+| Lvl 10 | [[Purifying Light]] +3           |
 

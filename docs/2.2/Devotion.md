@@ -5,11 +5,10 @@ tags:
 ---
 
 --8<-- "upcoming.md"
---8<-- "spoiler.md"
 
 # Devotion
 
-**Devotion** is a new system coming with 2.2 that aims at giving more value to random loot items and introducing powerful options for the offhand slot.
+**Devotion** is a trade system that aims at giving more value to random loot items and introducing powerful options for the offhand slot.
 
 Devotion represents the relation with the player to one of the three main deities or some of [[the Aspects]]. Each of them has its own devotion altars and rewards.
 
@@ -107,3 +106,8 @@ Each Devotion level for Virtuo requires 100xp worth of items offered.
 | Lvl 9  | Totem of Undying                 |
 | Lvl 10 | [[Purifying Light]] +3           |
 
+--8<-- "75_spoiler.md"
+
+## Secondary Altars
+
+In addition to their altars across Drehmal, each deity/aspect has a secondary altar somewhere within [[Ytaj]] on Lo'Dahr. These altars are functionally exactly the same as their overworld counterparts, and devotion progress is global.

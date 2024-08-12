@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in [[Ebonrun]].
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-2975  |144   |-161  |
+
+This book can be found in a chest, in the house in [[Ebonrun]] nearest to the fenced-off tunnel.
 
 > Seems like the crew stationed on the eastern side of the Island of Dusk has stopped responding to any of our letters or magic transmissions.
 >

@@ -1635,13 +1635,16 @@ Artifacts are unique custom items with enchantments and/or attribute bonuses. Un
 
 ## Rhalon's Chestplate
 
-|     |     |
-| --- | --- |
+|                 |                   |
+| --------------- | ----------------- |
+| Armor           | 8                 |
+| Armor Toughness | 2                 |
+| Enchants        | Fire Protection 4 |
 
-|            | **Lore and how to Obtain** |
-| ---------- | -------------------------- |
-| **Lore**   |                            |
-| **Obtain** |                            |
+|            | **Lore and how to Obtain**                                                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | Chestplate worn by Rhalon, greatest warrior of the Burnt God's forces. This armor has seen many battles. May it see many more.             |
+| **Obtain** | Located in the Insohmic Coven of Potentia on the east coast of the islands to the east of Mossfield. Dropped by Rhalon, The First General. |
 
 ## Rocky Helmet
 

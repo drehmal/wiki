@@ -8,7 +8,7 @@ Coordinates:
 |:-----:|:----:|:-----:|
 |-94  |164   |2811  |
 
-Also known as The Parable of the Lakebed, as denoted by a sign above the book
+Also known as The Parable of the Lakebed, as denoted by a sign above the book.
 
 This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. This parable teaches the Drehmari to take pride in their work, no matter how small it may feel, and to pursue their own passions as well as their work.
 

@@ -4,7 +4,7 @@ tags:
   - "2.2 Demo"
 ---
 
-This book can be found in the ruined city of Ihted in the [[2.2 Demo]].
+This book can be found in the ruined city of [[Ihted]], home to the sacred ziggurat of Mystic Elder [[Khive]]. It was written by an archaeologist studying the ruins of the town, and offers some insight as to the history of the location.
 
 > Today's scholars might not like it, but there was a time before Avsohm. This city is proof-positive.
 >

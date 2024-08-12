@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in [[Tharxax City]].
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-2221  |70   |3664  |
+
+This book can be found in a chest on the upper floor of the house at 53 Briar Street in [[Tharxax City]], written by a Drehmari lamenting their current situation under the rule of [[Maelihs]].
 
 > My mother always told me that a good way to destress was to write down all your thoughts personally, so... here I go, finally. Love you mom.
 >

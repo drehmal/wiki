@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-The book can be found in a small camp on the road between the Primal Caverns and The Village of [[Drabyel]].
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|581  |81   |1501  |
+
+The book can be found in a small camp on the road between the [[Primal Caverns]] and The Village of [[Drabyel]]. It serves as a guide to the player for early game exploration, providing a short description of four regions that neighbor the [[Capital Valley]] region.
 
 > **The Heartwood:**
 >
@@ -15,7 +20,7 @@ The book can be found in a small camp on the road between the Primal Caverns and
 >
 > **Akhlo'Rohma:**
 >
-> A gorgeous land of massive flowers with the crown jewel of Dusps at it's center. Also considerably far, and pillagers may guard the path. Come with weapons. 
+> A gorgeous land of massive flowers with the crown jewel of Dusps at its center. Also considerably far, and pillagers may guard the path. Come with weapons. 
 >
 > **Palisades Heath:**
 >

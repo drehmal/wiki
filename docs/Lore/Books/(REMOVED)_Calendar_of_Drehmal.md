@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in [[Okeke]].
+This book is **no longer on the map**, but in previous versions, was found in the library of [[Okeke]], and defines some terminology in Drehmal's calendar system.
 
 > The Realm of Drehmal, in its ever-fluctuating, turbulent history, has a fitting yearly cycle of moon phases and times of celebration.
 >

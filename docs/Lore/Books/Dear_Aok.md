@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in one of the entrances to the [[Moonlight Sanctum]].
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-504  |65   |4952  |
+
+This book can be found in a chest within a small hut, along the southeastern entrance to the [[Moonlight Sanctum]]. In it, an aspiring necromancer writes to [[Aok]], the first necromancer, about their aspirations to be like him.
 
 > Do you think the Theocracy will accept me? Hopefully so... I've come this far, all the way from Mossfield, to enter the cult and become a true necromancer...
 >

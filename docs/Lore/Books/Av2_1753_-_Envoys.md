@@ -9,7 +9,7 @@ tags:
 |4793  |123   |4562  |
 
 ### Location/Summary:
-This book can be found in a chest in the [[Sahdan Monastery|Black Jungle Library]], shining light on a conflict between [[Sahd]] and the [[Tidal Dynasty]].
+This book can be found in a chest in the [[Sahdan Monastery|Black Jungle Library]], shining light on a conflict between [[Sahd]] and the [[Tidal Dynasty]] that led to Sahd's furthered isolation from the mainland.
 
 ### Transcription:
 > Our great king has decided that, in order to gain and advantage over our rivals, is to try and gain land and join forces with the civilization that taken root in the Black Jungle. We should send envoys and see if they are willing to join forces.

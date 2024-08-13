@@ -3,13 +3,20 @@ tags:
   - Books
 ---
 
-This book can be found in the Primal Caverns.
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|882  |66   |486  |
 
-> When will Drehmal speak to me? I have devoted everything to the creator, biding my time, awaiting the day that I am granted what I have wished for - audience with the Final Aspect itself. They told me that I am a madman, irrational, and blinded by devotion. They said that Drehmal has abandoned us, and hasn't helped the Drehmari since the beginning of the Second Avihm. When the Avsohmic Empire fell, Drehmal did not help. When Maelihs took over the West, Drehmal did not help. When the Order of Insohm fell last century, there was no help. But I still believe. Drehmal has a plan. Maybe they are biding their time, just as I am, waiting for the perfect moment to reveal themselves and bring peace and respite to the Drehmari. I eagerly anticipate the day.\*This page has a drawing of a mountain-sized serpent with a leafy beard and enormous antlers that resemble a tree's branches\*
+This book can be found in a chest in the small shack inside the [[Primal Caverns]].
+
+> When will Drehmal speak to me? I have devoted everything to the creator, biding my time, awaiting the day that I am granted what I have wished for - audience with the Final Aspect itself. They told me that I am a madman, irrational, and blinded by devotion. They said that Drehmal has abandoned us, and hasn't helped the Drehmari since the beginning of the Second Avihm. When the Avsohmic Empire fell, Drehmal did not help. When Maelihs took over the West, Drehmal did not help. When the Order of Insohm fell last century, there was no help. But I still believe. Drehmal has a plan. Maybe they are biding their time, just as I am, waiting for the perfect moment to reveal themselves and bring peace and respite to the Drehmari. I eagerly anticipate the day.
 >
->          DREHMAL
+> *This page has a drawing of a mountain-sized serpent with a leafy beard and enormous antlers that resemble a tree's branches*
 >
->   THE FINAL ASPECT
+>        DREHMAL
+>    THE LIEGE OF ALL
+
 
 
 

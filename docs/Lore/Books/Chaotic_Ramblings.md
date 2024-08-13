@@ -3,13 +3,15 @@ tags:
   - Books
 ---
 
-Coordinates:
+### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |-2221  |70   |3664  |
 
+### Location/Summary:
 This book can be found in a chest on the upper floor of the house at 53 Briar Street in [[Tharxax City]], written by a Drehmari lamenting their current situation under the rule of [[Maelihs]].
 
+### Transcription:
 > My mother always told me that a good way to destress was to write down all your thoughts personally, so... here I go, finally. Love you mom.
 >
 > What's the point of all this? What's the point in being forced under a harsh contract from some chaotic deity? Why would Maelihs need resources from some old, outdated Insohmic-era city? I look out my window over to the South and see those stark white cliffs and wonder what goes on beyond those. The Lands of Chaos. What do they think of us over there? What do they even use these resources for? Are they prosperous like the delegate says? So many questions that I cannot stop thinking about.

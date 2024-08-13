@@ -3,8 +3,15 @@ tags:
   - Books
 ---
 
-This book can be found in [[Ebonrun]].
+### Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|(x)  |(y)   |(z)  |
 
+### Location/Summary:
+This book can be found in a chest in [[Ebonrun]], referencing the large volcanic island northeast of [[Casai]] as a potential spot for a mining operation.
+
+### Transcription:
 > With the new taxes Mael's generals have put onto us, we need to grow our mining operations... quickly. So, I've scouted out a new, previously untapped mining location - and it's not too far from here!
 >
 > Simply follow the roads to the east - towards Merijool.

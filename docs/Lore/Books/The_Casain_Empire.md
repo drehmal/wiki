@@ -3,16 +3,30 @@ tags:
   - Books
 ---
 
-This book can be found in the [[Athrah]] library.
+### Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-2725  |54   |-1826  |
 
+### Location/Summary:
+This book can be found in a chest in the [[Athrah]] library, and tells a detailed history of the Casain Empire.
+
+### Transcription:
 > The city of Athrah was founded sometime around Av2 1189 along the northern edges of the Redsteps. It was centered around the northern shores of Lake Athrah. A fierce warrior from the Zarha tribe of Southern Casai, Athrah Zarha, envisioned a grand kingdom that spanned across the Casain peninsula. The city of Athrah was the first step towards that goal.
 >
-> After some time, the tribes that were not apart of Athrah's growing kingdom were denied trade with the kingdom unless they joined. After that, most, if not all of Casai joined the kingdom, forming the Casain Empire in Av2 1255. Unfortunately, Athrah Zarha had died in battle less than a year after the uniting of the peninsula because of the unruly barbarians in the northern reaches of Casai.
+> The next phase came as tribes that were not apart of Athrah's growing kingdom were denied trade with the kingdom unless they swore fealty. After a series of skirmishes and negotiations, the  Casain Empire was finally born in Av2 1255. Unfortunately, Athrah Zarha did not live to see the coronation of the first Emperor, as he perished on the final day of battle against the last resisting northern tribe.
 >
-> The kingdom's first major war was with the tribes of Western Merijool in Av2 1445. This conflict became known as the Zephyr War, as it was primarily fought for control over the plains south of Zephyr Sound. Merijool proved victorious and claimed the plains for themselves. Since the conclusion of the war, there has been uneasy tension between the two nations (until Avsohm forced them to unite under their flag). A few minor skirmishes have broken out along their borders since then, but nothing severe enough to start another war. After the loss of the plains, Casai looked south in search for more fertile farmland. Lahu'Nozur was a fertile land, under control of the Tharhan Empire. Tharhan had significant military power and held the area in a stranglehold. Thus, Casai looked further south to the inhospitable Golden Sands (now known as Anyr'Nogur). The Tharhan Empire saw no value in that land, but Casai did, and so they took it without conflict. The western shores of the Sands touched the warm water of the Sea of Mael and were filled with coral reefs. Casai adapted quickly and became primarily a fishing nation. In this time, Casai grew economically and militarily, strengthening their borders and trading with far off empires such as Ancehl and the Chosen Kingdom. This was often regarded as the peak of the Casain Empire.
+> Upon unifying, Casai under Emperor Zahad Alnah turned its newly unified attention to an ancient enemy, the the tribes of Western Merijool in Av2 1445. This conflict became known as the Zephyr War, as it was primarily fought for control over the plains south of Zephyr Sound. Though rapid, the war was a resounding defeat for the young empire at the hands of a surprisingly powerful force of forest arcanists.
 >
-> However, the Casain empire saw another opportuniry for power: Mt. Ebonfire and its caldera. This was a Tharhan-controlled volcanic region that was recently discovered to be filled to the brim with valuable resources. With their accumulated military power, Casai declared war on Tharhan over control of Ebonfire in Av2 1472.
+> After the young Emperor's humiliation to the east, the clans turned south. Founding towns in the river valleys of the Ebony Veldt and along the western coastline, the only powers which prevented further expansion were the six Tharhan kingdoms and thousands of acres of marshland in the Ebony Veldt.
 >
-> What Casai failed to consider in this declaration was the immense disadvantage they had. For one, this would make the only two nations they bordered their enemies, as they already has great tensions with Merijool. Second, they would have to transport troops from their primary post near Athrah all the way south, across steep cliffs and mountains into the Ebonfire caldera. Third, the Tharhans already had military camps set up around Ebonfire for this exact situation.
+> Yet, even this was not the zenith of Casain expansion. The next Emperor, Sazan Akhir, returned from a sojourn at the Perishing Well claiming to have heard a prophecy from Voynahla that the Six Kingdoms would die on the end of Casain spears. And so the clans would marshal once more for war.
 >
-> The Ebonfire war was over before it began, and Casai lost. They had only taken the worthless territory at the western edges of the mountain. The war had destroyed their economy and military, marking the end of the Casain Golden Age and the beginning of great turmoil within the nation. The government in Athrah began focusing primarily on the peoples in the Casain Peninsula, and those in the Golden Sands became disconnected. Eventually, a small civil war was fought in Av2 1534 between those north of Ebonfire and those south of it. The people located in the Golden Sands split off from Casai, forming their own nation, the Golden Kingdom.
+> Two forces left Casain lands seeking glory. One, led by the Emperor, his trusted guard, and most of the general soldiery, cut directly north, seeking to pass between the highlands of Nimahj and Loraga and Lake Nimahj to invade Salanahr and Erxsival. The other went to a relatively sleepy Casain port town along the western coast, Izan. Following rumors from the locals which were promptly hushed by governing officials in Izan, the company under command of General Azhar proceeded through a long tunnel which eventually opened out on an overlook high on the cliffs of Iloh. There, they set up camp next to an oasis in the center of a gigantic butte- a decision which carried huge ramifications for both the war and the course of Casai as an empire.
+>
+> Months passed, and just as the war began to stall on the northern front, Azhar revealed his hand. Down from the butte in great numbers came Casain, clutched in the talons of gigantic kohlohmah. And the Tharhan Kingdom of Avakea, nestled in the oases on the desert floor, stood no chance. The next week was the deadliest in the West since the days of the Deity War. Azhar cut a bloody swathe through the heart of Tharhan. But the Emperor and his men were outfoxed at their own game, for behind the troops came a Tharhan ambush which turned the tide in that arena.
+>
+> In the end, it was clear that Casai had not won. But neither had it lost everything. In exchange for peace, the newly crowned Tharhan Empress allowed Casai to keep its holdings in the Golden Sands and secured favorable trade relations between the two new Western states.
+>
+> Though Emperor Sazan and many other Casain soldiers perished, the War of Unification heralded the beginning of a relatively short but extremely successful period for Casai, known today as the Casain Golden Age.
+

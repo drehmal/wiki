@@ -4,8 +4,17 @@ tags:
   - Books
 ---
 
-Also called The Parable of the Riverside Crag. This book can be found in the [[Drehua Temple]] in the [[2.2 Demo]].
+### Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-94  |164   |2807  |
 
+### Location/Summary:
+Also known as *The Parable of the Riverside Crag*, as denoted by a sign above the book.
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, Drehmal confronts a bandit who is about to rob a [[Virmari]] traveler, preventing them from doing so and leading them from a life of crime to a life of righteousness as a devotee of the Final Aspect.
+
+### Transcription:
 > When I was young, I was nothing but a cowardly bandit. Though not many dared to travel then, those who did would often need to ford a river which runs far to the south of this place at a certain shallows. It was there, in the shadow of a tall crag, that I concealed myself behind a bush. Then, to my delight, I saw a tempting target approach the river's edge. A solitary traveler, wearing sensible clothes and carrying a large traveling bag. Around her neck was fastened a large, luminous gem which glinted with hints of green and gold. I withdrew my bow and nocked an arrow. I would wait until she was halfway across, leap out from behind my bush, and confront her. Helpless, with nowhere to run, she would be forced to abandon her belongings. I steeled myself in anticipation and prepared to strike, but suddenly my knees failed me. The ground seemed to explode, and an overwhelming noise echoed all around. Suddenly, behind me, a massive form rose out of the crag. Long and sinuous, it wrapped itself around the rocky peak, and finally revealed itself to be the Great Serpent Themselves. Filled with awe, and briefly forgetting my mission, I sat on the settling dirt behind the bush. A flock of seabirds landed on Their huge horns as they held Their head impossibly high over the scene. I opened my mouth and closed it, but was unsure of what to do or say. Glancing behind me briefly, I was annoyed to see my quarry darting away like a frightened stepperabbit. Deeper than thunder and twice as loud, the Serpent's voice echoed through the vale, calm but stern:
 >
 > "Small one, why did you seek harm upon my sibling's child?"

@@ -9,7 +9,7 @@ tags:
 |-3352  |137   |2197  |
 
 ### Location/Summary:
-This book can be found in a chest in the ruins of [[Sal'Anyr]], written by a citizen disparaging the rule of the newly-anointed [[Emperor Anyr|Anyr]].
+This book can be found in a chest in the ruins of [[Sal'Anyr]], written by a citizen disparaging the rule of the newly-anointed Emperor [[Anyr]].
 
 ### Transcription:
 > Emperor Anyr really is insane, huh? Never should have cast my vote for him. Total sihf'mihk.

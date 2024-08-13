@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in a tent on the western coast in a forest between [[Akhlo'rohma]] and the [[Faehrcyle]] region.
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|980  |66   |-2844  |
+
+Located in the chest in a tent on the forested western coast of [[Faehrcyle]], just south of [[Schlonko]], this book describes a Drehmari's account of turning after being cursed by a necromancer in [[Lorahn'Kahl]].
 
 > Day 3,
 >

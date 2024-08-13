@@ -3,13 +3,15 @@ tags:
   - Books
 ---
 
-Coordinates:
+### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |-3349  |137   |2257   |
 
+### Location/Summmary: 
 This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a thief who was able to eavesdrop on [[Maelihs]] and his officers and overheard his plans to deploy the Skullmother and destroy the Southern Heartwood, creating the region known as [[Mael's Desolation|South Heartwood]].
 
+### Transcription:
 > I've discovered I'm the last living citizen of Sal'Anyr. My work as a thief has come in handy - sneaking around the Maelmari in the city is a breeze, albeit a dangerous one. But, today, I saw a large obsidian-black airship dock to the military complex... I had to go investigate. I snuck into the base and overheard a conversation through the vents. I've written it down in hopes I can bring it to the resistance fighters. I don't know who the individuals are, but I'll be numbering them based off of their voices.
 > 
 > 1 - "Lord Maelihs, Ahlmor is within sight and has been for months! Why not attack it now? There is no reason to delay western domination with silly games."

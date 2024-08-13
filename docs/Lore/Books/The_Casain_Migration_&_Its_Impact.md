@@ -3,11 +3,21 @@ tags:
   - Books
 ---
 
-This book can be found in a building in [[Dusps]].
+### Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|2080  |112   |-802  |
 
-> [[Casai]], a land far to the west, across the [[Gulf of Drehmal]] and beyond the autumnal [[Merijool|Merijool Peninsula]], faced with a great crisis at the dawn of the Third Avihm when the Avsohmic Empire fell. Maelihs cam to conquer everything from Lorahn'Kahl to Merijool. The Casain, while faithful and caring of their homeland, were planing an exodus before Maelihs could wreck havoc on their towns and cities. Many denied that Maelihs would be able to make his way all the way North to Casai, but those though were put to rest when the city stronghold of Sal'Anyr, at the heart of [[Anyr'Nogur]], perched atop high cliffs, fell within a day. At this moment, Casai began a great migration to the East. They spread across the land, but most have here - [[Akhlo'Rohma]]. Unfortunately for them, the fall of Avsohm mean a new government rose, the Dominion of Ancehl. Ancehl was known for its corruption and its people for xenophobia. They accused the Casain as cursed peoples, who would bring the [[Av2 1647 - Frostfang Catastrophe|Frostfang Catastrophe]][^1] to them. There were many decades of hatred and fighting until it came to a conclusion in the Dohval Civil War. The Dominion fell and in its place rose a new kingdom, the Kingdom of Dusps, which would be fair and kind to its peoples.
+### Location/Summary:
+This book can be found in a chest in the library in [[Dusps]], providing insight to the Casain diaspora from their home region to Dusps, and the political ramifications of that event.
+
+### Transcription:
+> Casai, a land far to the west, across the Gulf of Drehmal and beyond the autumnal Merijool Peninsula, faced a great crisis at the dawn of the Third Avihm when the Avsohmic Empire fell. Maelihs came to conquer everything from Lorahn'Kahl to Merijool. Many Casain, while dedicated to their homeland, planned an exodus before Maelihs could wreck havoc on their towns and cities. Though many doubted that Maelihs would be able to make his way all the way north to Casai, those thoughts were put to rest when the high stronghold of Sal'Anyr at the heart of Anyr'Nogur fell within a single day. Starting then, children of Casai began a great migration to the East. They spread across the land, but most came here - Akhlo'Rohma. Unfortunately for them, a new home meant a new set of written and unwritten rules to become acquainted with.
+>
+> The most significant unwritten rule was discrimination, as a sizable number of Akhlo'Rohmans viewed the Casain as cursed peoples who would bring the ruin of Avsohm to their land. Thus, for many decades, there was ongoing fighting between the Casain diaspora and their allies against the hatred of authority figures. This culminated in the Dohval Civil War, wherein the city of Ancehl was burnt to the ground. While Ancehl Castle was spared, Akhlo'Rohman royal families still agreed to come to the negotiating table with Casain leaders. Though no good compromise ends with the parties feeling fully satisfied, the two factions agreed upon a constitution which respected the rights and traditions of each.
+>
+> This was the foundation of the Kingdom of Dusps, and though Ancehl Castle remained the regional seat of power, the Casain gradually became more and more accepted in society.
 
 
-[^1]: [[The Frostfang Catastrophe]] - while not part of the original text, this book contains further information
 
 

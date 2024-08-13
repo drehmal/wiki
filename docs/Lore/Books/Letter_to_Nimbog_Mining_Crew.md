@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in an abandoned mineshaft between [[Nimahj Swamp]] and South Tharxax tower.
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-2417  |60   |2777  |
+
+This book can be found in an abandoned mineshaft in [[Nimahj Swamp]].
 
 > Dear Nimbog Mining Crew,
 >

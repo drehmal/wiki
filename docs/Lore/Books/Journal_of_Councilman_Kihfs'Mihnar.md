@@ -3,7 +3,12 @@ tags:
   - Books
 ---
 
-This book can be found in the Library of the Insohmic Council, near [[Mossfield]].
+Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|4545  |113   |1585  |
+
+This book can be found in a chest in the [[Old Insohmic Library]], east of [[New Mossfield|Mossfield]]. In it, an Insohmic council member chronicles the mental decline of [[Ultva]], a co-founder of the [[Order of Insohm]], as he becomes infatuated with ancient [[Avsohmic|Empire of Avsohm]] technology.
 
 > Ultva is a lost cause. The man is obsessed, a fanatic for ancient technology. He believes that the only way we stand a chance at retaking the west from Maelihs is by recreating and restoring Avsohmic weaponry. He doesn't seem to understand that not even the brightest of our arcanists can barely even comprehend Avsohmic runes. He's been neglecting his duties as a councilman, instead electing to go off on wild archeological expeditions. He's always been a knowledge seeker, but this is too much! We should be focusing on defending our existing territories, innovating off of technology we already understand, and maintaining relationships between the nations. I swear, he will be the downfall of this order. If he convinces the other councilmembers to follow him in this pursuit of power, we will end up just like Avsohm.
 >

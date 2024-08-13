@@ -8,7 +8,7 @@ tags:
 |:-----:|:----:|:-----:|
 |5132  |148   |6285  |
 
-### Location/Summary:
+### Location:
 This book can be found in a chest in the [[Emperor's Estate]].
 
 ### Transcription:

@@ -9,7 +9,7 @@ tags:
 |5968  |77   |-1136  |
 
 ### Location/Summary:
-This book can be found in a chest in [[Highfall]], and describes a trip through Akhlo'Rohma in which a Drehmari stumbled across the entrance to the [[Rehntite Cave]].
+This book can be found in a chest in [[Highfall]], and describes a trip through [[Akhlo'Rohma]] in which a Drehmari stumbled across the entrance to the [[Rehntite Cave]].
 
 ### Transcription:
 > During a recent trip to see the white flowers of north Akhlo'Rohma, we took a leisurely lunch by the riverside. Suddenly, just as I was finishing my redberry sandwich, one of our mules ran off the path with most of our supplies, so we gave chase after it.

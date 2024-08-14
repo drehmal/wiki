@@ -2,16 +2,16 @@
 
 # Legendary Items
 
-Legendary Items, while typically being less dangerous to obtain than [[Mythical Weapons]], are still moderately difficult to find. Hints leading to these weapons are often found in lore books in nearby [settlements](/Settlements). These weapons typically fill a niche but are less powerful than mythical weapons.
+Legendary items are rare, powerful items that are more difficult to find or obtain than artifacts. They have their own item descriptions, sprites, stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it.
 
-This page also contains a legendary chestpiece, glider, and three shields, beyond just weapons.
+
 
 ## Emperor Anyr's Scepter
 
 | ![[Anyrscepter.webp]]{ width="48" } | Emperor Anyr's Scepter                                                                                                                                                                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Stats**                           | Emperor Anyr's Scepter deals 9 base damage, has 1.3 attack speed, gives 6 max hp (3 hearts) and is obtained with Unbreaking VI                                                                                                                                                                                     |
-| **Lore**                            | Emperor Anys was the last ruler of the ancient Avsohmic Empire, and made his home in the Golden Sands, which has since been renamed to Anyr'Nogur. When Avsohm fell, the military city of Sal'Anyr was attached by Mael's forces, leaving only rubble and Anyr's tomb. This marked the beginning of the Dune Wars. |
+| **Lore**                            | Emperor Anyr was the last ruler of the ancient Avsohmic Empire, and made his home in the Golden Sands, which has since been renamed to Anyr'Nogur. When Avsohm fell, the military city of Sal'Anyr was attacked by Mael's forces, leaving only rubble and Anyr's tomb. This marked the beginning of the Dune Wars. |
 | **Obtain**                          | Break into Emperor Anyr's Tomb which is located next to the [Anyr'Nogur tower](/Towers).                                                                                                                                                                                                                           |
 
 ## Flammer

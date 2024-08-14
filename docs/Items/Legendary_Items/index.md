@@ -2,7 +2,7 @@
 
 # Legendary Items
 
-Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
+Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (unlocked after obtained for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
 
 
 # List

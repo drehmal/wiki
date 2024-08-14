@@ -2,23 +2,31 @@
 
 # Items
 
-Spread throughout the map of Drehmal are many custom, unique items, each with their own special abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with books, item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
+Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with written books, item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
 ## Trinket
 
-## Relic
+## [[Relics]]
 
-Relics are items obtained via [devotion[Devotion], gifted as rewards for reaching certain milestones. Each [[Aspect]] or [deity[Deity] has their own respective relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Each level increases the stat boosts granted by the item and change the sprite. Relic items work only when placed in the offhand slot.
+Relics are offhand stat-modifying items that are obtained via [devotion[Devotion]]. Each type of relic has 4 different leveled versions. Relics have item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
 
-## Artifact
+## [[Artifacts]]
 
-## Artisan
+Artifacts are uncommon items found throughout the map, most often in chests. Each artifact has its own custom stat modifiers and item description, which ususally details the item's lore.
 
-## Legendary
+## [Artisan[Artisan Items]]
 
-## Mythical
+Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths]] or one of its variants.
 
-## Named Weapons and Armor
+## [Legendary[Legendary Items]]
+
+Legendary items are rare and exceptionally powerful items that are found at important points of interest, usually being hidden or guarded. They have stat modifiers and descriptions, but also unique abilities and their own sprites.
+
+## [Mythical[Mythical Weapons]]
+
+There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
+
+## Other Named Weapons and Armor
 
 Besides the items belonging to the groups listed above, there are some other uniquely named items that are found in Drehmal.
 

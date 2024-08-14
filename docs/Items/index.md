@@ -10,7 +10,7 @@ Relics are offhand stat-modifying items that are obtained via [devotion[Devotion
 
 ## [[Artifacts]]
 
-Artifacts are uncommon items found throughout the map, most often in chests. Each artifact has its own custom stat modifiers and item description, which ususally details the item's lore.
+Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptiond, which ususally detail an item's lore.
 
 ## [Artisan[Artisan Items]]
 
@@ -29,6 +29,7 @@ A Fervor Stone is one of three items, each with their own sprite, description, a
 
 ## [Trinket[Trinkets]]
 
+Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They may have their own sprite.
 
 ## Other Named Weapons and Armor
 

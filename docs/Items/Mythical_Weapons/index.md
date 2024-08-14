@@ -2,7 +2,7 @@
 
 # Mythical Weapons
 
-Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
+Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
 
 # List
 

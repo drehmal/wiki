@@ -2,23 +2,25 @@
 
 # Items
 
-Scattered across Drehmal are hundreds of hidden chests containing a vast assortment of items and easter eggs. The map is designed such that everything is obtainable without using the Nether, though you can still enter if you please. Drehmal has 6 Mythical Weapons and 17 Legendary items (custom weapons/gear) to be discovered or won throughout the realm. In addition, you will start with a class specific pair of boots that can be upgraded as you find the resources for doing so.
+Spread throughout the map of Drehmal are many custom, unique items, each with their own special abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with books, item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
-## Item classes
+## Trinket
 
-- [[Mythical Weapons]]
-- [[Legendary Items]]
-- [[Class Boots]]
+## Relic
 
-### New classes (being added to 2.2)
+Relics are items obtained via [devotion[Devotion], gifted as rewards for reaching certain milestones. Each [[Aspect]] or [deity[Deity] has their own respective relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Each level increases the stat boosts granted by the item and change the sprite. Relic items work only when placed in the offhand slot.
 
-- [[Relics]]
-- [[Artisans]]
-- [[Artifacts]]
+## Artifact
+
+## Artisan
+
+## Legendary
+
+## Mythical
 
 ## Named Weapons and Armor
 
-Besides Legendary and Mythical items there are some other uniquely named items that are found in Drehmal
+Besides the items belonging to the groups listed above, there are some other uniquely named items that are found in Drehmal.
 
 |            | Raw Mutton                                                              |
 | ---------- | ----------------------------------------------------------------------- |

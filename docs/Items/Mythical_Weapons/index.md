@@ -2,7 +2,7 @@
 
 # Mythical Weapons
 
-Mythical weapons are the highest tier of weapon in Drehmal. They are the hardest to obtain, either through extended clues and puzzles or at the end of harder dungeons and bosses. Because of this, they are typically the strongest, unbreakable, and each comes with a unique special ability.
+Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks.
 
 ## Calamity
 

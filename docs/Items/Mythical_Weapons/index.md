@@ -6,7 +6,7 @@ Mythical weapons are regarded as the strongest weapons in the game. They have th
 
 # List
 
-There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are found on Drehmal and 1 on Lo'Dahr. Here is a list of every one:
+There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are found on Drehmal, and 1 on Lo'Dahr. Here is a list of every mythical weapon:
 
 ## Calamity
 

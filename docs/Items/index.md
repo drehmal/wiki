@@ -4,11 +4,9 @@
 
 Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with written books, item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
-## Trinket
-
 ## [[Relics]]
 
-Relics are offhand stat-modifying items that are obtained via [devotion[Devotion]]. Each type of relic has 4 different leveled versions. Relics have item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
+Relics are offhand stat-modifying items that are obtained via [devotion[Devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
 
 ## [[Artifacts]]
 
@@ -25,6 +23,12 @@ Legendary items are rare and exceptionally powerful items that are found at impo
 ## [Mythical[Mythical Weapons]]
 
 There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
+
+## [[Fervor Stones]](α, β, Δ)
+A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the bottom of [[Drehmal]]'s tower in [[Ytaj]], with each of the items applying a different stat boost.
+
+## [Trinket[Trinkets]]
+
 
 ## Other Named Weapons and Armor
 

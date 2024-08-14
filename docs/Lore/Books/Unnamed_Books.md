@@ -118,7 +118,7 @@ These four identical books can be found on lecterns in the [[Faehrcyle]] region,
 |2082  |111   |-809  |
 
 ### Location/Summary:
-This book can be found on a lectern in the library in [[Dusps]]. It is a reference to gaming.
+gaming
 
 ### Transcription:
 > gaming

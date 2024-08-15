@@ -1,16 +1,10 @@
----
-tags:
-  - "2.2"
----
-
---8<-- "upcoming.md"
 --8<-- "spoiler.md"
 
 # Artifacts
 
-**Artifacts** are a new feature coming with 2.2.
+Artifacts are unique items that have custom names, descriptions, stat modifiers, and often enchantments. Artifacts are found scattered across the map, and their description often explains lore surrounding the place.
 
-Artifacts are unique custom items with enchantments and/or attribute bonuses. Unlike [[Artisan items]], only one of each artifact exists in the map.
+## List:
 
 ## Absolute Ruin 
 

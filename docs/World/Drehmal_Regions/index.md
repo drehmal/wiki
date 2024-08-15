@@ -11,7 +11,7 @@ tags:
 
 The land of Drehmal can be divided into 31 different regions, each region having its own signature landscape and (with the exception of the Crimson Gorge and Verdant Labyrinth) a [Terminus[Terminus Network]] tower. Regions can be further subdivided into areas defined by mini-biomes.
 
-The regions are categorized in the Terminus into four groups, each having a corresponding color marked on the ceiling. The groups are Central (green), Western (red), Eastern (blue), and Outer (yellow). 
+In the Terminus, regions are categorized into four groups, each having a corresponding color marked on the ceiling. The groups are Central (green), Western (red), Eastern (blue), and Outer (yellow). 
 
 
 ## Central Regions

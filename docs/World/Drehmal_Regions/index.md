@@ -27,7 +27,7 @@ In the Terminus, regions are categorized into four groups, each having a corresp
  - [[Anyr'Nogur]]
  - [[The Carmine]]
  - [[Casai]]
- - [[Crimson Gorge]]
+ - [[Crimson Gorge]] (not in Terminus)
  - [[Ebony Veldt]]
  - [[Hellcrags]]
  - [[Lorahn'Kahl]]
@@ -50,7 +50,7 @@ In the Terminus, regions are categorized into four groups, each having a corresp
  - [[South Heartwood]]
  - [[Purity Peaks]]
  - [[Spearhead Forest]]
- - [[Verdant Labyrinth]]
+ - [[Verdant Labyrinth]] (not in Terminus)
  - [[Veruhkt Plateau]]
 
 

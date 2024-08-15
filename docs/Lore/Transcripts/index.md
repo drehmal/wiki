@@ -1,0 +1,1 @@
+In Drehmal, there are a few situations in which you are spoken to by different entities, some occuring throughout the main story. This directory contains transcripts of all instances of speech in the game.

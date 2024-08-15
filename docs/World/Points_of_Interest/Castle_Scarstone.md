@@ -14,6 +14,8 @@ Castle Scarstone is a ruined castle built primarily of slate, perched on mountai
 
 The castle was built some time in the late Third Avihm by the Order of Insohm as a base of operations during the Battle for Drehmal. After the Order collapsed at the end of the Third Avihm, the castle fell into disrepair. A group of Mihkmari from the nearby Verdant Labyrinth came and looted the ruins, and continue until present-day to occupy the site in search of the rumored secret inside the mountain.
 
+#
+
 | Approximate Coordinates | Advancement |
 | --- | --- |
 | 2476 186 2117 | Arriving at Castle Scarstone grants the [advancement](/Advancements) "The Scarred Castle". |

@@ -9,9 +9,9 @@ tags:
 
 ![[Terminus_ceiling.webp]]{ align=right width="300" }
 
-The land of Drehmal is home to 30 regions.
+The land of Drehmal can be divided into 31 different regions, each region having its own signature landscape and (with the exception of the Crimson Gorge and Verdant Labyrinth) a [Terminus[Terminus Network]] tower. Regions can be further subdivided into areas defined by mini-biomes.
 
-The regions are divided in [[The Terminus]] into four groups, each having a corresponding color marked on the ceiling. The groups are Central (green), Western (red), Eastern (blue), and Island (yellow). 
+In the Terminus, regions are categorized into four groups, each having a corresponding color marked on the ceiling. The groups are Central (green), Western (red), Eastern (blue), and Outer (yellow). 
 
 
 ## Central Regions
@@ -25,16 +25,17 @@ The regions are divided in [[The Terminus]] into four groups, each having a corr
 ## Western Regions
 
  - [[Anyr'Nogur]]
- - [[Carmine]]
+ - [[The Carmine]]
  - [[Casai]]
- - [[Crimson Gorge]]
+ - [[Crimson Gorge]] (not in Terminus)
  - [[Ebony Veldt]]
  - [[Hellcrags]]
  - [[Lorahn'Kahl]]
  - [[Merijool]]
- - [[Mount Ebonfire]]
+ - [[Mt. Ebonfire]]
  - [[Nimahj Swamp]]
- - [[Tharxax Plains]]
+ - [[North Tharxax]]
+ - [[South Tharxax]]
 
 
 ## Eastern Regions
@@ -46,18 +47,18 @@ The regions are divided in [[The Terminus]] into four groups, each having a corr
  - [[Grand Pike Canyon]]
  - [[Heartwood]]
  - [[Highfall Tundra]]
- - [[Mael's Desolation]]
- - [[Mt. Yavhlix]]
+ - [[South Heartwood]]
  - [[Purity Peaks]]
  - [[Spearhead Forest]]
- - [[Verdant Labyrinth]]
+ - [[Verdant Labyrinth]] (not in Terminus)
  - [[Veruhkt Plateau]]
 
 
-## Island Regions
+## Outer Regions
 
  - [[Island of Dawn]]
  - [[Island of Dusk]]
- - [[Sahd Island|Sahd]]
+ - [[Sahd]]
+ - [[Mt. Yavhlix]]
 
 

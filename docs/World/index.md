@@ -1,12 +1,12 @@
 # World
 
-The map of Drehmal is full of diverse landscapes, structures and towns to explore. Many of these areas have their own history within the game's lore. Points of interest also often hide secrets to discover, such as legendary or mythical items. The map also has several dimensions that the player must journey through during the storyline.
+The map of Drehmal is full of diverse landscapes, structures and towns to explore. Many of these areas have their own history within the game's lore. Points of interest also often hide secrets to discover, such as [legendary[Legendary Items] or [mythical[Mythical Weapons]] items. The map also has several dimensions that the player must journey through during the storyline.
 
 ## [Drehmal[Drehmal (Place)]
 
 Drehmal is the main and by far largest dimension in the game. This is the dimension that you spawn in and spend most of your time. According to the lore, Drehmal is a jagged cone-shaped object, and the land lived on by people is its flat face. Some other off-map locations are also in the Drehmal dimension.
 
-## Lo'Dahr
+## [[Lo'Dahr]]
 
 Lo'Dahr is the second most important dimension, similar to Drehmal but smaller and more alien-like, but still housing many points of interest and settlements. The player must visit Lo'Dahr to progress in the later story. Lore-wise, Lo'Dahr is one of Drehmal's five natural satellites, and it was colonized by the Aspects.
 

@@ -2,7 +2,7 @@
 
 # Artifacts
 
-Artifacts are unique items that have custom names, descriptions, stat modifiers, and often enchantments. Artifacts are found scattered across the map, and their description often explains lore surrounding the place.
+Artifacts are unique items that have custom names, descriptions, stat modifiers, and often enchantments. Artifacts are found scattered across the map, typically in chests, and their descriptions often explain lore surrounding the place they are found.
 
 ## List:
 

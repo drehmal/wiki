@@ -4,9 +4,9 @@
 
 Artisan items are special items with custom names, descriptions, stat modifiers, and often enchantments that can be bought from [Runic Blacksmiths[Runic Blacksmith]] or one of their variants. Their descriptions often provide lore surrounding the the blacksmith's hometown or region.
 
-## List: 
+# List: 
 
-## New Drabyel
+## [[New Drabyel]]
 
 ### Helmet of Neutrality
 
@@ -85,7 +85,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | A shield used by those who guarded the Primal Caverns long ago. |
 | **Cost** | Shield + 8 Emeralds                                             |
 
-## Solvei Runic Blacksmith
+## [[Solvei]]
 
 ### Hefty Barding
 
@@ -111,7 +111,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Magically infused horse armor to ensure your steed never falls. |
 | **Cost** | Iron Horse Armor + 12 Emeralds                                  |
 
-## Thesund
+## [[Thesund]]
 
 ### Infused Birch Crossbow
 
@@ -164,7 +164,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Engraved with runes fit for an experienced warrior. |
 | **Cost** | Leather Boots + 13 Emeralds                         |
 
-## Fort Nimahj
+## [[Fort Nimahj]]
 
 ### Survivor's Helmet
 
@@ -268,7 +268,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
 
-## Okeke
+## [[Okeke]]
 
 ### Rythm-Chain Hood
 
@@ -370,7 +370,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
 | **Cost** | 30 Scales + 6 Pufferfish                                                                                                                                                                                                    |
 
-## Athrah
+## [[Athrah]]
 
 ### Runic Amplifier
 
@@ -481,7 +481,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
 | **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
 
-## Highfall
+## [[Highfall]]
 
 ### Runic Amplifier
 
@@ -581,7 +581,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | The ultimate in Highfall's time-tested mining technology. |
 | **Cost** | 40 Scales + 32 Diamonds                                   |
 
-## New Sahd
+## [[New Sahd]]
 
 ### Runic Amplifier
 
@@ -678,7 +678,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
 | **Cost** | 30 Scales + 16 Obsidian                                                                                                                                                                                                               |
 
-## Rhaveloth
+## [[Rhaveloth]]
 
 ### Runic Amplifier
 
@@ -751,7 +751,7 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 | **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
 | **Cost** | 35 Gold Ingots + 40 Quartz                                                                                                                          |
 
-## Ytaj
+## [[Ytaj]]
 
 ### Guard Trident
 |                  |     |

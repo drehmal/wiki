@@ -9,7 +9,7 @@ tags:
 |-1266  |46   |-4067  |
 
 ### Location/Summary:
-This book can be found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
+This book can be found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhei priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
 
 ### Transcription:
 > Maelmaklah 16: 1820

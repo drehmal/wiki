@@ -51,6 +51,6 @@ Upon the felling of the Primal Tree, marking the beginning of the Second Avihm, 
 
 ## The Primal Tree
 
-The origins of the Primal Tree are unclear, but it was most likely the first living thing to exist in the realm of Drehmal, and it created the first Aspects and Drehmari. The Primal Tree was a tree of gargantuan proportions, much taller than mountains, and it sat at the center of what is now [Drehmal[Drehmal (Place)]] in the First Avihm. 
+The origins of the Primal Tree are unclear, but it was most likely the first living thing to exist in the realm of Drehmal, and it created the first Aspects and Drehmari. The Primal Tree was a tree of gargantuan proportions, much taller than mountains, and it sat at the center of what is now [Drehmal[Drehmal (Place)]] in the First Avihm. In the Battle of Karesh at the base of the Tree, fought between the Viruhn and Maelruhn, the Tree was burnt and uprooted, severely damaging the land. The Primal Tree granted the last of its power to three figures, who became Maelihs, Virtuo and Drehmal. This event marked the beginning of the Second Avihm. The only remnant left of the Primal Tree today is the [[Primal Sapling]], which is a smaller (but still giant) and malicious version of the Tree that stands in southeast Merijool.
 
 ## The Mythoclast

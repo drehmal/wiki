@@ -93,7 +93,7 @@ The book can be found in the [[Faehrcyle]] region on a lectern under a white she
 >
 > Long live the King!
 
-------------------------------------------------------------------------
+***
 
 ## symmetry
 
@@ -112,16 +112,34 @@ These four identical books can be found on lecterns in the [[Faehrcyle]] region,
 
 ## gaming
 
-### Coordinates:
+### gaming:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |2082  |111   |-809  |
 
-### Location/Summary:
+### Summary:
 gaming
 
 ### Transcription:
 > gaming
 
+***
 
+## Skeleton Stand-Up
 
+### Coordinates
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-2879 |64   |5169  |
+
+### Location:
+This book can be found on a lectern in a comedy club in [[Rhaveloth]].
+
+### Transcription:
+> Why did the skeleton go to the party alone?
+>
+> He had no body to go with him!
+>
+> *The rest of the pages are filled with horrible bone and skeleton puns...*
+
+***

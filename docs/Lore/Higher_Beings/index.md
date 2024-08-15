@@ -7,7 +7,7 @@ According to the lore, powerful beings that govern the realm are responsible for
 
 ## Aspects
 
-Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are reptilian deities who govern their own domains of nature, and some create children who inherit subcategories of their parent(s)’s jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
+Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are reptilian entities who govern their own domains of nature, and some create children who inherit subcategories of their parent(s)’s jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
 
 ### Major Aspects
 

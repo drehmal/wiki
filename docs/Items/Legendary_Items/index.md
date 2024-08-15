@@ -7,7 +7,7 @@ Legendary items are rare, powerful items that can be found throughout the map. T
 
 # List
 
-There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal (place]], and 6 on [[Lo'Dahr]]. Here is a list of all legendary items:
+There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal (Place]], and 6 on [[Lo'Dahr]]. Here is a list of all legendary items:
 
 ## [[Emperor Anyr's Scepter]]
 

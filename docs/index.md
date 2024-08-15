@@ -14,15 +14,12 @@ icon: material/home
 </figure>
 
 
-We're a collaborative community website about Drehmal that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Click the pen icon at the top of any page to get started!
+We're a collaborative community website about Drehmal that anyone, including you, can build and expand. 
 
-Drehmal is an ongoing series of custom Minecraft maps created by Keeko100 and Balderich. You can download and read about the latest version here: [1.16.4](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)
+Drehmal is a large, open Minecraft survival map built for exploration that introduces many new features and a storyline. The most recent version of Drehmal is 2.2: Apotheosis. Download the map here: (https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)
 
 * **Official Website:** [https://drehmal.net](https://drehmal.net)
 * **Official Discord:** [https://discord.gg/drehmal](https://discord.gg/drehmal)
 
 ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!
-
-* [Settlements](/Settlements)
-* [Regions](/Regions)

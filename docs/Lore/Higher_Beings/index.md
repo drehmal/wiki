@@ -2,10 +2,10 @@
 
 According to the lore, powerful beings that govern the realm are responsible for many natural phenomena. Despite their inherent power, all higher beings are mortal.
 
-## Aspects
-
 ![image](https://github.com/user-attachments/assets/7bff927c-4016-4801-8be4-bf91c0631806)
-> Family tree of the Aspects in Ytaj. Each block represents an Aspect, and the tree represents the Primal Tree from which they originated.
+> Family tree of the Aspects in Ytaj. Each block represents an Aspect or deity (the three at the top), and the tree represents the Primal Tree from which they originated.
+
+## Aspects
 
 Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are reptilian deities who govern their own domains of nature, and some create children who inherit subcategories of their parent(s)’s jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
 

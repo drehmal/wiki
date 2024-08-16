@@ -10,7 +10,7 @@ tags:
 |-4026  |55   |5958  |
 
 ### Location/Summary:
-This book can be found in a chest in the [[Burnt Palace]], describing the fallout of a betrayal within [[Maelihs]]' ranks.
+This book can be found in a chest in the [[Burnt Palace]], describing the fallout of the betrayal of [[Klyhf Him'Lahk]], an alchemist who was in the service of [[Maelihs]] for eleven years before attempting to sacrifice the deity to complete the [[Great Work]].
 
 ### Transcription:
 > The Burnt Palace is in chaos. Lord Maelihs is enraged, consumed by a fury few in history have ever seen. Klyhf Him'lahk's tower has been completely leveled. Nothing remains but rubble. To think that our Lord's only confidant would betray him like this... it was unthinkable, to put it lightly.

@@ -6,7 +6,10 @@
 </head>
 <div id="map" style="height:600px">
   <script>
-    createMap("../maps/lodahr_1to1.png", 5120, 5632, -2560, 2559, 0, 0, 0, 0, -3, 10);
+    markers = [
+      new Marker("Lo'Dahr", "tower", 60, -718)
+    ]
+    createMap("lodahr", "../maps/lodahr_1to1.png", 5120, 5632, -2560, 2559, 0, 0, 0, 0, -3, 10, markers);
   </script>
 </div>
 1:1 Resolution

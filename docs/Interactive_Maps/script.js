@@ -7,22 +7,33 @@ class Marker {
   }
 }
 
-function setCookie(name, value, days = 400) {
-  let expires = "";
-  const date = new Date();
-  date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-  expires = ` expires=${date.toUTCString()};`;
-  document.cookie = `${name}=${value};${expires}`;
+let markerMap = {};
+
+// NOTE: does not actually use cookies (uses localStorage)
+
+function markerCompletedKey(markerId) {
+  return `marker-${markerId}-completed`;
 }
 
-function deleteCookie(name) {
-  setCookie(name, 0, -1);
+function getMarkerCompleted(markerId) {
+  return localStorage.getItem(markerCompletedKey(markerId)) != null;
 }
 
-function getCookie(name) {
-  const value = `; ${document.cookie}`;
-  const parts = value.split(`; ${name}=`);
-  if (parts.length === 2) return parts.pop().split(';').shift();
+function setMarkerCompleted(markerId, value) {
+  let key = markerCompletedKey(markerId);
+  let m = markerMap[markerId];
+  if (value) {
+    localStorage.setItem(key, 1);
+    m.setOpacity(0.5);
+  } else {
+    localStorage.removeItem(key);
+    m.setOpacity(1.0);
+  }
+}
+
+function handleMarkerCompletedCheckboxClick(checkbox) {
+  let markerId = checkbox.id.replace(/^marker-/, "").replace(/-checkbox$/, "");
+  setMarkerCompleted(markerId, checkbox.checked);
 }
 
 function createMap(name, imgURL, mapWidth, mapHeight, leftX, bottomZ, leftPad, bottomPad, rightPad, topPad, minZoom, maxZoom, markers=[]) {
@@ -34,7 +45,7 @@ function createMap(name, imgURL, mapWidth, mapHeight, leftX, bottomZ, leftPad, b
     minZoom: minZoom,
     maxZoom: maxZoom,
   });
-  let img = L.imageOverlay(imgURL, [[0, 0], [mapHeight, mapWidth]]).addTo(map);
+  L.imageOverlay(imgURL, [[0, 0], [mapHeight, mapWidth]]).addTo(map);
   map.setMaxBounds([[bottomPad, leftPad], [mapHeight - topPad, mapWidth - rightPad]]);
   map.setView([(bottomPad + mapHeight - topPad) * 0.5, (leftPad + mapWidth - rightPad) * 0.5], minZoom);
 
@@ -51,7 +62,9 @@ function createMap(name, imgURL, mapWidth, mapHeight, leftX, bottomZ, leftPad, b
 
   // add markers
   for (let i = 0; i < markers.length; i++) {
+    // add marker
     let pos = [-markers[i].z + bottomZ + 0.5, markers[i].x - leftX + 0.5]
+    let markerId = markers[i].name.replaceAll(' ', '-').replaceAll('.', '').toLowerCase();
     let iconWidth = 13;
     let iconHeight = 32;
     let icon = L.icon({
@@ -62,33 +75,15 @@ function createMap(name, imgURL, mapWidth, mapHeight, leftX, bottomZ, leftPad, b
       className: "marker-icon"
     });
     let m = L.marker(pos, { icon: icon }).addTo(map);
-    m.on("mouseover", (e) => {
-      m.bindPopup(`<h3>${markers[i].name}</h3>\n<p>${markers[i].x}, ${markers[i].z}</p>\n<p>Click to Mark as Complete</p>`).openPopup();
-    });
-    m.on("mouseout", (e) => {
-      m.closePopup();
-    });
+    markerMap[markerId] = m;
+    setMarkerCompleted(markerId, getMarkerCompleted(markerId)); // refresh cookie
 
-    // get complete cookie
-    let completeCookie = `${name}-marker-${markers[i].name.replace(' ', '-').toLowerCase()}-complete`
-    let complete = getCookie(completeCookie) != null;
-    if (complete) {
-      setCookie(completeCookie, 0); // refresh cookie cooldown
-    }
-
-    // complete functionality
-    let updateOpacity = () => {
-      m.setOpacity(complete ? 0.5 : 1.0);
-    }
-    updateOpacity();
-    m.on("click", (e) => {
-      complete = !complete;
-      if (complete) {
-        setCookie(completeCookie, 0);
-      } else {
-        deleteCookie(completeCookie);
-      }
-      updateOpacity();
+    // add popup
+    let popupContent = `<h3>${markers[i].name}</h3>\n<p>${markers[i].x}, ${markers[i].z}</p>\n<input type="checkbox" id="marker-${markerId}-checkbox" onclick="handleMarkerCompletedCheckboxClick(this)">Completed</input>`;
+    popup = m.bindPopup(popupContent, { autoClose: false, closeOnClick: true });
+    m.on('popupopen', ()=> {
+      let checkbox = document.getElementById(`marker-${markerId}-checkbox`);
+      checkbox.checked = getMarkerCompleted(markerId);
     });
   }
 }

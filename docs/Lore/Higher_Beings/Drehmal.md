@@ -30,6 +30,8 @@ During the Battle of Karesh, the worm nestled between the roots of the Primal Tr
 
 Drehmal spent the early days of the Second  Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with Drehmari, especially the ancient Drehua people of Palisahd (modern day [[Palisade's Heath]]). After Drehmal's work was completed, they buried themselves far beneath the Primal Caverns and fell into a deep, dream-filled slumber. Drehmal continued to be worshiped throughout Palisade's Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of Avsohm, which originated in the Central Plains and spread its religion around the continent. Worship of the Aspects was banned in the empire under the reign of Zorhis Ifeihl, and Maelihs was an enemy of the state, meaning citizens paid homage to either Virtuo or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
 
+## Future (END-GAME SPOILERS)
+
 In the distant future, Drehmal emerges from their sleep and comes to the surface to watch the last days of the realm. There, they pass away peacefully and contentedly. At the end of the game's main story, the player witnesses the giant skeleton of Drehmal in a dead and sandy world after returning from their trip to the Heart of the Void.
 
 

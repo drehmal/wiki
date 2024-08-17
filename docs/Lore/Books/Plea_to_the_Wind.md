@@ -9,7 +9,7 @@ tags:
 |2216  |80   |2927  |
 
 ### Location:
-This book can be found on a lectern at a shrine to [[Rihalae]] in the [[North Heartwood]].
+This book can be found on a lectern at a shrine to [[Rihalae]] in the [[North Heartwood]], south of [[Gozak]].
 
 ### Transcription:
 > I can feel it. They are coming back soon.

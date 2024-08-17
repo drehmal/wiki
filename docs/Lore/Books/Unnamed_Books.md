@@ -7,7 +7,7 @@ tags:
 
 # Unnamed Books
 
-Unnamed books with community assigned names and their content are on this page.
+Unnamed books that are somewhat relevant to the world are contained within this page, along with given titles that describe their contents.
 
 ------------------------------------------------------------------------
 ## The Diary of Aspects Cataloguing
@@ -143,3 +143,18 @@ This book can be found on a lectern in a comedy club in [[Rhaveloth]].
 > *The rest of the pages are filled with horrible bone and skeleton puns...*
 
 ***
+
+## Teiruun Sensory Deprivation
+
+### Coordinates
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|5611 |156   |3016  |
+
+### Location/Summary:
+This book can be found on a lectern in the facility beneath [[Teiruun Monastery]], recording the finding that sensory deprivation can temporarily result in some kind of augmentation. Within this room, a lever can be pulled to open the wall and reveal a wither skeleton named "The Deprived."
+
+### Transcription:
+> We have found that taking away the senses brings our kindred closer to Virtuo for a time, but our sovereign minds are lost after too long a period.
+>
+> It is clear this treatment is not sufficient.

@@ -25,3 +25,5 @@ This book can be found in a chest in the ruins of Rhaverik in the [[North Heartw
 > And then a deep rumbling, crashing, and shattering. Buildings slumped and collapsed, falling into the ground. The lake roiled and sunk into the holes we had dug. I will never forget those screams.
 >
 > Most have already moved on, now. Packed up and went away. I can't say I blame them, but my place is here. When the traders and travelers stay at the inn which used to be the hub of our community, I will tell them what happened to the town of Rhaverik.
+>
+> Folks have gotta learn to use their eyes and ears instead of just obeying commands from leaders across the damn continent. Greed is a force that can only be beat by stopping and thinking from time to time.

@@ -1,4 +1,4 @@
-(75% SPOILERS AT END)
+(END-GAME SPOILERS AT END)
 
 ---
 tags:
@@ -36,11 +36,16 @@ Amidst the chaos of the [[Tidal War]], a conflict fought to determine the politi
 The [Insohmic Coalition[Order of Insohm]] engaged in war with the Empire of Maelihs, with the purpose of freeing the lands in the West and completely eliminating the empire. Initially they faced problems, but after a series of important events, they gained momentum and started pushing back Maelihs's armies. During this time, Maelihs began exploring the remains of west Xivrhynt, the land from which he originally came. From his travels, he made discoveries and gained a new perspective on his past and Virtuo. He started to regret his jealousy for her, and the great harm it drove him to do. Although the Skullmother could have been used against Insohm to permanently scar their lands, Maelihs had ordered for his [[Burnt Generals]] to hesitate before deploying her. They resolve not to use her, not wanting to anger him. Wishing to no longer inflict destruction, Maelihs eventually sets the Skullmother free, to the dismay of the Generals. He remains indifferent as territory is rapidly lost to the Insohmic Coalition. 
 
 After the departure of Virtuo, 
-Maelihs's remorse deepens. As his empire continues to operate under the direction of the Burnt Generals and reconquers most of the West in the wake of the Order of Insohm's dissoluton, Maelihs moves to [[Ytaj]] in Av4 12 to isolate himself from his fanatics and gain proximity to his Aspect relatives. He wishes to one day return to Drehmal, destroy the Burnt Palace and put an end to his empire. He never fulfills this task, however, and he stays in Ytaj for the rest of his life. He outlives the Aspects and dies without ever gaining the forgiveness of Virtuo.
+Maelihs's remorse deepens. As his empire continues to operate under the direction of the Burnt Generals and reconquers most of the West in the wake of the Order of Insohm's dissoluton, Maelihs moves to [[Ytaj]] in Av4 12 to isolate himself from his fanatics and gain proximity to his Aspect relatives. He wishes to one day return to Drehmal, destroy the Burnt Palace and put an end to his empire.
 
-## In-Game 
+## In-Game (75% SPOILERS)
 
 In-game, Maelihs can be found sitting on his throne at the top of his tower in Ytaj. The player can engage in multi-choice dialogue with him. The dialogue tree is as follows:
+
+## Future (END-GAME SPOILERS)
+
+Maelihs never returns to Drehmal to fulfill his task, and he stays in Ytaj for the rest of his life. He outlives the Aspects and Virtuo and dies without ever earning the latter's forgiveness.
+
 
 
 

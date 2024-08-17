@@ -1,3 +1,5 @@
+(END-GAME SPOILERS AT END)
+
 # Higher Beings
 
 According to the lore, powerful beings that govern the realm are responsible for many natural phenomena. Despite their inherent power, all higher beings are mortal.

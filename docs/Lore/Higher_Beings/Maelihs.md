@@ -23,7 +23,7 @@ Maelihs takes the form of a __-foot tall armored person with tall, red and white
 
 The Maelmari are Maelihs's ascended version of Drehmari. Maelmari have pale red skin, yellow eyes, and gray horns similar in shape to those of Maelihs but much smaller. Many Maelmari are used as soldiers and guards for Maelihs's empire, and the more educated ones live in the city of [[Rhaveloth]] at the gateway to the [[Crimson Gorge]].
 
-## History
+## History (75% SPOILERS)
 
 In the First Avihm, before his divine rebirth, Maelihs was a man named Naurduul, who was a member of the Maelruhn people of west [[Xivhrynt]]. The details of this time are unclear, but it is known that he unwillingly received divine power from the Primal Tree upon its destruction, and the initial experience was agonizing (his whole body was probably severely burnt). 
 

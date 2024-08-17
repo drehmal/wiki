@@ -15,7 +15,11 @@ This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[
 ### Transcription:
 > Kind Traveler,
 >
-> Though this sacred flame once burned longer and brighter than any other, it has sadly been extinguished. However, there still are many others throughout Merijool. If you find them, leave an offering to show your devotion to the Aspect of Warmth. It is through our faith that they continue to burn and keep this land from freezing over like Faehrcyle far to the Northeast. May the flames reveal their truths to your weary eyes!
+> Though this sacred flame once burned longer and brighter than any other, it has sadly been extinguished.
+>
+> But there are still **many other sacred flames burning in Merijool**. If you find one, leave an offering to Lai **beneath**.
+>
+> Our faith is what stops this land from freezing!
 >
 > Signed, Pilgrim of the South
 

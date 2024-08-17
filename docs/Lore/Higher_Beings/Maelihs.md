@@ -1,3 +1,5 @@
+(75% SPOILERS)
+
 ---
 tags:
   - The Three Deities

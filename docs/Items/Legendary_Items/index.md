@@ -1,3 +1,5 @@
+(75% SPOILERS FURTHER DOWN)
+
 --8<-- "spoiler.md"
 
 # Legendary Items
@@ -5,7 +7,7 @@
 Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
 
 
-# List
+# List (75% SPOILERS)
 
 There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal (Place]], and 6 on [[Lo'Dahr]]. Here is a list of all legendary items:
 

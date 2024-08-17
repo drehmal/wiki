@@ -1,4 +1,4 @@
-(75% SPOILERS)
+(75% SPOILERS AT END)
 
 ---
 tags:

@@ -1,23 +1,17 @@
----
-tags:
-  - Lore
-  - Entities
-  - NPC
----
 
 --8<-- "spoiler.md"
 
 # Mythoclast
 
-The **Mythoclast** is an otherwordly being who lives in [[the Court]]. Described as more powerful than Drehmal themselves, he is probably the most powerful creature known.
+The Mythoclast is the most poweful being in the universe, and the judge of all dead/unborn souls. Despite their immense power, they may be mortal due to the fact that they felt threatened by the advances of [Emperor Anyr[Uffhiel Anyr]] of [Avsohm[Empire of Avsohm]]. The Mythoclast has directly interfered in the history of Drehmal's realm.
 
-The Mythoclast controls the fate of everything in the universe. He reuses and recycles the things that pass before his Court where he decides their path in this endless web of destinies. His Court is located in the heart of Nothing, a plane that he seems to be able to manipulate as he pleases.
+## Characteristics
 
-In his eyes, his actions are necessary, even if they are misunderstood by mortals, aspects and deities, whom he considers inferior to him in every way. Despite his immense power, he likes to play with mortals, going so far as to offer the avsohmic copy of his most powerful weapon, named Mythbreaker, to one of them. His personality is taunting and he tends to be snarky.
+The Mythoclast's true form cannot be perceived by lesser beings, but they appear as a golden serpentine dragon. Their name also induces an overwhelming, dizzy sensation upon being realized for the first time. The Mythoclast has neither a good nor evil demeanor.
 
-The Mythoclast controls several creatures who carry out tasks and eliminate those who are a nuisance to him:
 
-- a humanoid creature armed with the [[Mythical Weapons|mythical scythe Oblivion]]. It is responsible for sabotaging [[The Origin|the Stasis Facility]].
-- a monster capable of consuming reality and turning it into Nothing. It is responsible for the disappearance of [[Empire of Avsohm|Avsohm]]'s high ranking officers, the fall of the empire and [[The Mystery of Castle Hovadchear|the disappearance of Castle Hovadchear]].
-- the Aspect of Fear [[Tethlaen]], whom he lured to the far north of the world before trapping him in Nothing and making him his puppet.
-- [[Hovad and Ultva|Ultva Utofal and Hovadchear Myrik]][7], the founders of the [[Order of Insohm]], who also became his puppets.
+## Capabilities
+
+The Mythoclast posesses an extreme degree of power.
+
+## Role in Story

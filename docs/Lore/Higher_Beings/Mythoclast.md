@@ -1,6 +1,6 @@
 
 --8<-- "spoiler.md"
-(END-GAME SPOILERS)
+(ALL END-GAME SPOILERS)
 
 # Mythoclast
 

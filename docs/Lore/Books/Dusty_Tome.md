@@ -22,4 +22,6 @@ This book can be found on a lectern in [[Teiruun Monastery]]. It contains the wr
 >          knows
 >           no
 >         bounds
+>
+> \*The rest of the pages turn to dust in your hand*
 

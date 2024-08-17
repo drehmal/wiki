@@ -23,7 +23,7 @@ Drehmal is the most powerful of the three deities born from the Primal Tree upon
 
 Drehmal takes the form of a gargantuan, pale green serpent with antlers, a beard and sharp teeth. They are known for their incredibly wise snd peaceful demeanor.
 
-## History
+## History (END-GAME SPOILERS)
 
 In the First Avihm, before being granted their current deific identity, Drehmal was merely a simple worm of some sorts. As recounted by the [[Parable of the Worm]], they were approached by two figures, a "beast of the sky" and a "beast of the depths". Both criticized the worm for not acting on their potential, yet they resolved to wait for the right time.
 During the Battle of Karesh, the worm nestled between the roots of the Primal Tree, and the Tree gifted a portion of its remaining essence to the worm, ascending them to the divine serpent Drehmal.

@@ -1,4 +1,4 @@
-(END-GAME SPOILERS)
+(END-GAME SPOILERS AT END)
 
 ---
 tags:

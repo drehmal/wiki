@@ -1,15 +1,16 @@
 ---
 tags:
   - Books
+  - Devotion Books
 ---
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
-|-1428  |85   |-1639  |
+|-1428.5  |85   |-1639.5  |
 
 ### Location/Summary:
-This book can be found on a lectern at the [[Shrine of Eternal Flame]] in [[Merijool]]. It asks the reader to make an offering to [[Lai]] at any of the sacred flames around the region.
+This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[Merijool]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Lai]].
 
 ### Transcription:
 > Kind Traveler,

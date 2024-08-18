@@ -1,4 +1,4 @@
-(75% SPOILERS FURTHER DOWN)
+(25% and 50% SPOILERS FURTHER DOWN, 75% SPOILERS AT END)
 
 --8<-- "spoiler.md"
 
@@ -6,12 +6,11 @@
 
 Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
 
+## List ([Drehmal[Drehmal (Place)]])
 
-# List (75% SPOILERS)
+There are 25 legendary items that can be obtained on Drehmal. Here is a list of them all:
 
-There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal (Place]], and 6 on [[Lo'Dahr]]. Here is a list of all legendary items:
-
-## [[Emperor Anyr's Scepter]]
+### [[Emperor Anyr's Scepter]]
 
 | ![[Anyrscepter.webp]]{ width="48" } | Emperor Anyr's Scepter                                                                                                                                                                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -19,7 +18,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                            | Emperor Anyr was the last ruler of the ancient Avsohmic Empire, and made his home in the Golden Sands, which has since been renamed to Anyr'Nogur. When Avsohm fell, the military city of Sal'Anyr was attacked by Mael's forces, leaving only rubble and Anyr's tomb. This marked the beginning of the Dune Wars. |
 | **Obtain**                          | Break into Emperor Anyr's Tomb which is located next to the [Anyr'Nogur tower](/Towers).                                                                                                                                                                                                                           |
 
-## [[Flammer]]
+### [[Flammer]]
 
 | ![[Flammer.webp]]{ width="48" } | Flammer                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +27,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                        | Mael's generals have occupied Ebonrun for decades, forcing them into hard manual labor working in dangerous mines. This hammer is a mining tool used by the more respected of the slaves                                                                                                                                                                                   |
 | **Obtain**                      | At the bottom of a drop shaft in an abandoned mine found on the outer southwest slope of the main volcano of [[Mt. Ebonfire]]                                                                                                                                                                                                                                              |
 
-## [[The Frostfang]]
+### [[The Frostfang]]
 
 | ![[Frostfang.webp]]{ width="48" } | The Frostfang                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +35,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                          | When the Avsohmic Empire first began their Faehrcycle mining operation, the Frostfang Tribes were displeased. Tensions grew and culminated in Homli Tahsgan, ruler of the tribes, freezing over the entire north in what became known as the Frostfang Catastrophe. Nowadays, the Tribe has mostly disbanded, spreading to nearby regions to separate themselves from it. |
 | **Obtain**                        | At Homli Tahsgan's grave in the southern part of [[Faehrcyle]]                                                                                                                                                                                                                                                                                                            |
 
-## [[The Heartaxe]]
+### [[The Heartaxe]]
 
 | ![[Heartaxe.webp]]{ width="48" } | The Heartaxe                                                                                                                                                                                                                                                                                        |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +43,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                         | The Heartwood has always been incredibly difficult to live in because of the rapid growth rate of the flora in the region. Roots, vines and weeds completely overrun anything that is built within the forest. This axe was made by a fool who believed they could single-handedly stop the growth. |
 | **Obtain**                       | In a small ruin in the [[Underwood]], the western caverns of the [[Heartwood]]                                                                                                                                                                                                                      |
 
-## [[Hovadchear's Greathammer]]
+### [[Hovadchear's Greathammer]]
 
 | ![[Hovadchearsgreathammer.webp]]{ width="48" } | Hovadchear's Greathammer                                                                                                                                                                                              |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +51,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                                       | Hovadchear Myrik, one of the founders of the Order of Insohm, was a master architect. Towards the end of his life he valued transparency above all else, which did not coincide with the Insohmnic Council's motives. |
 | **Obtain**                                     | At Hovadchear's grave in the southwestern part of the [[Spearhead Forest]]                                                                                                                                            |
 
-## [[Masayoshi]]
+### [[Masayoshi]]
 
 | ![[Masayoshi.webp]]{ width="48" } | Masayoshi                                                                                                                                                                                                                              |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +59,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                          | The Tide Queen was one of few born with unlimited potentia, allowing her to heal wounds in the blink of an eye and shield herself from attacks. She lived for thousands of years and spent them training herself with this very blade. |
 | **Obtain**                        | The garden of the Tidal Palace in [[Firteid]]                                                                                                                                                                                          |
 
-## [[One Thousand Scars]]
+### [[One Thousand Scars]]
 
 | ![[Onethousandscars.webp]]{ width="48" } | One Thousand Scars                                                                                                                                                                                                                      |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,7 +67,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                                 | The First Avihm is shrouded in mystery. Nothing is known about it other than that it was remade after the Primal Tree burnt down. This mighty blade, along with the rest of Mt. Scarstone, is said to be a surviving piece of that era. |
 | **Obtain**                               | Atop of the black pyramid underneath the [[Scarred Castle]], on the mountain range between the [[Heartwood]] and the [[Spearhead Forest]]                                                                                               |
 
-## [[Orchidaceae]]
+### [[Orchidaceae]]
 
 | ![[Orchidaceae.webp]]{ width="48" } | Orchidaceae                                                                                                                                               |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +75,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                            | Whoever crafted this scepter must've had a penchant for treasure-hunting. Fitting for them to be buried in long forgotten crypts once filled with riches. |
 | **Obtain**                          | In the [[Crypts of Akhlo'Rohma]] northwest of the [Akhl'rohma tower](/Towers)                                                                             |
 
-## [[Osteogenesis]]
+### [[Osteogenesis]]
 
 | ![[Osteogenesis.webp]]{ width="48" } | Osteogenesis                                                                                                                                                                                                                                          |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,7 +83,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                             | During the Dune Wars, Mael's Skullbeasts were a terrifying threat that could level a city in minutes. This chain blade excretes a red, bone-melting substance designed specifically to counter one. Regrettably, they never got the chance to use it. |
 | **Obtain**                           | In a hidden chamber under [[Nimahj Citadel]]'s Blacksmith                                                                                                                                                                                             |
 
-## [[Peace Treaty]]
+### [[Peace Treaty]]
 
 | ![[Peacetreaty.webp]]{ width="48" } | Peace Treaty                                                                                                                                                                                       |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +91,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                            | Mossfield was the capital city of the Order of Insohm, the union that binded together the nations of the Third Avihm. Their diplomatic success was how they grew to control most of the continent. |
 | **Obtain**                          | Inside the [[Old Library]], on an island adjacent to the ruins of Old [[Mossfield]]                                                                                                                |
 
-## [[Ultva's Bowblade]]
+### [[Ultva's Bowblade]]
 
 | ![[Bowblade.webp]]{ width="48" } | Ultva's Bowblade                                                                                                                                                                                                                                                                                     |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +100,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                         | When faced with retaliation from Maelihs, the Order of Insohm begun a research campaign into the powerful energy source that was utilized by the ancient Avsohmic Empire to fuel magic weaponty. Ultva Utofal, one of Insohm's founders, went insane on one of Avsohm's vaults searching for answers |
 | **Obtain**                       | In an [[Avsohmic vault]] located on an island off the west coast of the [[Casai]]                                                                                                                                                                                                                    |
 
-## [[Voidtear Dagger]]
+### [[Voidtear Dagger]]
 
 | ![[Voidteardagger.webp]]{ width="48" } | Voidtear Dagger                                                                                                                                                                      |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -110,7 +109,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                               | This odd purple dagger is theorized to be a Blue Exodus assassin's weapon of choice. Now that the powerful Avsohmic organization is gone, the blade's full capabilities are unknown. |
 | **Obtain**                             | In the [[Exodus Citadel]] located in the [[Nimahj Swamp]]                                                                                                                            |
 
-## [[Crystal Digging Claws]]
+### [[Crystal Digging Claws]]
 
 | ![[Crystalclaw.webp]]{ width="48" } | Crystal Digging Claws                                                                                                                                                                                 |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -118,7 +117,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                            | The crystals on the Islands of Dusk and Dawn are an incredibly useful magical material. These digging claws were used to extract the massive stones from the ground by removing the soil around them. |
 | **Obtain**                          | In a mining site located nearby the [[Island of Dusk]] tower                                                                                                                                          |
 
-## [[Rehntite Plate Mail]]
+### [[Rehntite Plate Mail]]
 
 | ![[Rehntiteplatemail.webp]]{ width="48" } | Rehntite Plate Mail                                                                                                                                                                                                                            |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -126,7 +125,7 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                                  | Rehntite, the mystical mineral utilized by the Avsohmic Empire, allowed them to harness energy so powerful they could compete with Maelihs himself. The recipe for Rehntite was lost to time, when all who knew it vanished, taken by nothing. |
 | **Obtain**                                | In the [[Lost Caverns]], in the northern part of [[Akhlo'Rohma]]                                                                                                                                                                               |
 
-## [[Avsohm'Kohl]] (25% SPOILERS)
+### [[Avsohm'Kohl]] (25% SPOILERS)
 
 | ![[Avsohmkohl.webp]]{ width="48" } | Avsohm'Kohl                                                                                                                                                                                                                                                                                                |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -136,6 +135,22 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Obtain**         
 | In the [[Temporal Ruins]], South-East of Purity Peaks                                                                                                                                                                                                                               
 
-## [[Warphorse Armor]] (50% SPOILERS)
+### [[X39 Equine Augmentation Assembly]] (50% SPOILERS)
 
-## [[Warphorse Receiver]] (50% SPOILERS)
+### [[WarpHorse Receiver MkII]] (50% SPOILERS)
+
+## List (75% SPOILERS, [[Lo'Dahr]])
+
+6 legendary items can be obtained on Lo'Dahr. Here is a list of them all:
+
+### Aeongale
+
+### Eldermead
+
+### Magestep
+
+### Proxigea
+
+### Stasis Bolt
+
+### Thundercrux

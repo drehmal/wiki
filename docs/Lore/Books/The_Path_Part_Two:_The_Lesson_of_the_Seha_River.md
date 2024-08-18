@@ -9,7 +9,7 @@ tags:
 |4675  |174   |5455  |
 
 ### Location/Summary:
-This book can be found in a chest at a tower in [[Sahd]]. It is the second of three books in "The Path," and stresses the importance of cooperation between people with diverse skill sets through a tale of four people attempting to complete the rite of boating up the violent Seha River.
+This book can be found in a chest at a tower in [[Sahd]]. It is the second of three books in "The Path," and stresses the importance of hard work and determination, through a tale of four people attempting to complete the rite of boating up the violent Seha River.
 
 ### Transcription:
 > While one Drehmari with a rowboat can navigate the placid Ohgai River, the roiling Seha requires a crew of at least four to portage the rafts up its steep waterfalls.

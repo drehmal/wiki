@@ -143,14 +143,14 @@ There are 25 legendary items that can be obtained on Drehmal. Here is a list of 
 
 6 legendary items can be obtained on Lo'Dahr. Here is a list of them all:
 
-### Aeongale
+### [[Aeongale]]
 
-### Eldermead
+### [[Eldermead]]
 
-### Magestep
+### [[Magestep]]
 
-### Proxigea
+### [[Proxigea]]
 
-### Stasis Bolt
+### [[Stasis Bolt]]
 
-### Thundercrux
+### [[Thundercrux]]

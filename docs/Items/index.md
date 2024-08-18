@@ -1,3 +1,5 @@
+(75% SPOILERS FURTHER DOWN)
+
 --8<-- "spoiler.md"
 
 # Items
@@ -24,12 +26,13 @@ Legendary items are rare and exceptionally powerful items that are found at impo
 
 There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
 
-## [[Fervor Stones]](α, β, Δ)
-A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the bottom of [[Drehmal]]'s tower in [[Ytaj]], with each of the items applying a different stat boost.
-
 ## [Trinket[Trinkets]]
 
 Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They may have their own sprite.
+
+## [[Fervor Stones]](75% SPOILERS, α, β, Δ)
+
+A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the bottom of [[Drehmal]]'s tower in [[Ytaj]], with each of the items applying a different stat boost.
 
 ## Other Named Weapons and Armor
 

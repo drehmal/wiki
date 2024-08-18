@@ -4,8 +4,11 @@ tags:
 ---
 
 --8<-- "spoiler.md"
+
 --8<-- "spoiler.md"
+
 --8<-- "spoiler.md"
+
 --8<-- "spoiler.md"
 
 ### Coordinates:

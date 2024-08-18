@@ -1,3 +1,5 @@
+(75% SPOILERS FURTHER DOWN, LATE-GAME SPOILERS AT END)
+
 --8<-- "spoiler.md"
 
 # Artifacts

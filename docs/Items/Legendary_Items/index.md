@@ -126,11 +126,16 @@ There are 31 legendary items in the game. 25 can be obtained on [Drehmal[Drehmal
 | **Lore**                                  | Rehntite, the mystical mineral utilized by the Avsohmic Empire, allowed them to harness energy so powerful they could compete with Maelihs himself. The recipe for Rehntite was lost to time, when all who knew it vanished, taken by nothing. |
 | **Obtain**                                | In the [[Lost Caverns]], in the northern part of [[Akhlo'Rohma]]                                                                                                                                                                               |
 
-## [[Avsohm'Kohl]]
+## [[Avsohm'Kohl]] (25% SPOILERS)
 
 | ![[Avsohmkohl.webp]]{ width="48" } | Avsohm'Kohl                                                                                                                                                                                                                                                                                                |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stats**                          | Obtained with Unbreaking IV                                                                                                                                                                                                                                                                                |
 | **Special**                        | Technological Wings: Tap jump while falling to slowly glide forward or down. This item is an elytra, and can be repaired with Empyrean membranes. <br>NOTE: Attempting to use fireworks while gliding will halt your momentum and set you on fire with the message, _"Your glider catches on fire..."_     |
 | **Lore**                           | A strange technological artifact gifted by [[AvSys]], constructed by the brilliant scientists housed here thousands of years ago. Despite the cutting edge technology used in its construction, its weaknesses are hard to ignore, mainly being prone to combustion and an aversion to water-based magics. |
-| **Obtain**                         | In the [[Temporal Ruins]], South-East of Purity Peaks                                                                                                                                                                                                                               
+| **Obtain**         
+| In the [[Temporal Ruins]], South-East of Purity Peaks                                                                                                                                                                                                                               
+
+## [[Warphorse Armor]] (50% SPOILERS)
+
+## [[Warphorse Receiver]] (50% SPOILERS)

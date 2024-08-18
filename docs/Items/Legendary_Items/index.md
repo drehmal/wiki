@@ -153,4 +153,4 @@ There are 25 legendary items that can be obtained on Drehmal. Here is a list of 
 
 ### [[Stasis Bolt]]
 
-### [[Thundercrux]] Thundercrux
+### [[Thundercrux]]

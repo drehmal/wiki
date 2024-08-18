@@ -9,7 +9,7 @@ tags:
 |4478  |118   |-3257  |
 
 ### Location/Summary:
-This book can be found on a lectern in the Grimm Troupe, in the far west of the [[Frozen Bite]]. It is a reference to the 57 Precepts of Zote from Hollow Knight.
+This book can be found on a lectern in the Grimm Troupe, in the far west of [[The Frozen Bite]]. It is a reference to the 57 Precepts of Zote from Hollow Knight.
 
 ### Transcription:
 > Precept One: 'Always Win Your Battles'. Losing a battle earns you nothing and teaches you nothing. Win your battles, or don't engage in them at all!

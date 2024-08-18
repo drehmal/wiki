@@ -158,3 +158,20 @@ This book can be found on a lectern in the facility beneath [[Teiruun Monastery]
 > We have found that taking away the senses brings our kindred closer to Virtuo for a time, but our sovereign minds are lost after too long a period.
 >
 > It is clear this treatment is not sufficient.
+
+***
+
+## Seeing Things At Sea
+
+### Coordinates
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|3253 |62   |3555  |
+
+### Location:
+This book can be found in a ship at the dock of the [[Kiln of Virtuo]]. 
+
+### Transcription:
+> You can see strange things when you're out at sea. Things that don't exist. That don't YET exist. I dreamt a spire, towering out of the seabed. I dreamt the waters falling on all sides like rain off our sails. I dreamt. I dream. I will dream.
+
+***

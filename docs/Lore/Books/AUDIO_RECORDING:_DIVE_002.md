@@ -21,7 +21,7 @@ This book can be found in a chest in the [[Resonant Halls]]. It is a transcripti
 
 ### Transcription:
 *U1 = User 1, Orix
-*AR = Audio Recorder/Receptor
+*AR = Audio Receptor
 > [U1] This is Chief Observer Orix Cehein of Avsohm, reaching out to any entities that might hear this call.
 >
 > [AR] (Static)

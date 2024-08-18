@@ -1,3 +1,5 @@
+(END-GAME SPOILERS AT END)
+
 ---
 tags:
   - The Three Deities
@@ -15,12 +17,22 @@ tags:
 
 ## Characteristics
 
-## Virmari
+*...*
+
+## [[Virmari]]
+
+*...*
 
 ## Grand Parish
 
+*...*
+
 ## History
 
-## Future
+*...*
+
+## Future (END-GAME SPOILERS)
+
+*...*
 
 

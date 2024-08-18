@@ -125,7 +125,10 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/solid/dragon
+      link: https://www.drehmal.net/
+      name: "The Official Drehmal: APOTHEOSIS Web Page"
     - icon: fontawesome/brands/discord
       link: https://discord.gg/drehmal
-      name: The official Drehmal Discord
+      name: The Official Drehmal Discord
   generator: false

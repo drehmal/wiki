@@ -29,7 +29,7 @@ This book can be found on a lectern in what looks to be a ruined chapel between 
 
 ------------------------------------------------------------------------
 
-## Barvama Doh
+## Barhvama Doh
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

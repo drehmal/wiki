@@ -1,17 +1,17 @@
 ---
 tags:
   - Books
+  - Devotion Books
 ---
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
-|4279  |30   |-926 |
+|4279.5  |30   |-926.5 |
 
 ### Location/Summary:
-This book can be found on a lectern in the ruins of [[Wokonori]], the sacred place of the Land-fall Drake [[Taihgel]], describing the process of mining Taihryte to worship the land aspect. 
+This book can be found in an item frame in the ruins of [[Wokonori]], the sacred place of the Land-fall Drake [[Taihgel]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for Taihgel.
 
 ### Transcription:
-> We, the devout, mine the taihryte, sacred to Taihgel, deep under this town, and bury our thoughts, our dreams, the fruits of our labor, within its ancient, formless red marbled stone, which burns within and burns without, if ignited, it shall burn forever, may our offerings be brought
-> into the virgin stone, the first stone, may they be incorporated forever, may they gain the favor of the great Land-fall Drake, on six tired, volcanic legs, may it walk the land again.
-> 
+> We, the devout, mine the **taihryte**, sacred to Taihgel, deep under this town, and **bury our desires within its ancient, formless red marbled stone, which burns within and burns without, if ignited, shall burn forever**, may our offerings be incorporated into the virgin stone, the first stone, and may the land walk again.
+

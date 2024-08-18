@@ -1,3 +1,5 @@
+(75% SPOILERS FURTHER DOWN)
+
 --8<-- "spoiler.md"
 
 # Artisan Items

@@ -1,6 +1,7 @@
 ---
 tags:
   - Books
+  - Devotion Books
 ---
 
 ### Coordinates:

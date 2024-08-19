@@ -12,7 +12,7 @@ title: "Insohmic Civil War"
 
 ![[Insohmiccivilwar.png]]{ align=right width="300" }
 
-The Insohmic Civil War was a conflict fought between separatist member states wanting to secede from the Order of Insohm and loyalist member states wanting to keep the alliance together. The Tidal Dynasty also joined the war partway through against the loyalists. The timeline of the war is recounted in detail by the book [[The Insohmic Civil War]]. 
+The Insohmic Civil War was a conflict fought between separatist member states wanting to secede from the Order of Insohm and loyalist member states wanting to keep the alliance together. The Tidal Dynasty also joined partway through against the loyalists. The timeline of the war is recounted in detail by the book [[The Insohmic Civil War]]. 
 
 
 

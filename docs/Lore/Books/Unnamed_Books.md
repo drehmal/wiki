@@ -142,3 +142,24 @@ This book can be found in a ship at the dock of the [[Kiln of Virtuo]].
 > You can see strange things when you're out at sea. Things that don't exist. That don't YET exist. I dreamt a spire, towering out of the seabed. I dreamt the waters falling on all sides like rain off our sails. I dreamt. I dream. I will dream.
 
 ***
+
+--8<-- "spoiler.md"
+
+--8<-- "75_spoiler.md"
+
+!!! danger "The following section contains unnamed books from late-game spoiler areas. Reader discretion is advised."
+
+## gaming 2
+
+### Coordinates:
+| **X** | **Y**| **Z** |
+|:-----:|:----:|:-----:|
+|-48 |106   |139  |
+
+### Location/Summary:
+Hidden in a secret room on [[The Aphelion]]'s lower level that is inaccessible to a player in adventure mode, gaming 2 is the long-awaited sequel to gaming. Daring, bold, highly emotionally charged, and infinitely more ambitious than its highly-touted predecessor from the library of the great Painted City of [[Dusps]]. 
+
+The fullest extents of this text's meaning are not within the scope of this wiki, but it is sufficient to say that this book is among the most important, moving, and groundbreaking pieces of lore in the entirety of the Drehmal universe, if not the single most important. If anything could truly encapsulate the feeling of Apotheosis, summarizing this world not only through a thorough depiction of its rich story but also by communicating the emotions it intends to evoke as a work of art, it is this book.
+
+### Transcription:
+> gaming 2

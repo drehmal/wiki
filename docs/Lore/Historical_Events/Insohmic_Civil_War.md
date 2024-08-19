@@ -5,6 +5,13 @@ tags:
 title: "Insohmic Civil War"
 ---
 
+- 600th Massacre
+- Tidal Dynasty joins
+- 609: Battle of Kozdan, Tidal Dynasty leaves war
+- 610: Siege of Highfall ends
+- 611: Battle of Sahvoltha, war ends
+
+
 # Insohmic Civil War
 
 > - **Beginning:** Av3 596/600
@@ -31,6 +38,3 @@ For one reason or another, the separatist nations allowed their militias to slau
 
 After joining the war, the Tidal Dynasty attacked the Gozaki city of Kozdan. In Av3 609, they were pushed out in a devastating defeat. That was their only contribution to the war, however their defeat provided a significant morale boost to the Loyalists. With this, they pushed northward and laid siege to [[Highfall]]. By Av3 610 they were victorious, and continued their journey westward through the [[Veruhkt Plateau]]. The forces pushed deep into Duspian territory, capturing the city of Sahvoltha on the [[Resting River]]. Dusps subsequently capitulated, and the Remanents of old Faehrcylian Tribes followed suit.
 
-## Aftermath
-
-The civil war left a sour taste in the mouths of many nations. It influenced the Tidal people's dislike of Insohm, which would later erupt in the Tidal War. This war showed the instability of Insohm - it would never stay at peace for longer than a decade.

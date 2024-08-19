@@ -26,7 +26,7 @@ The Tidal Dynasty attempted to invade Gozaki terriory, but were soundly defeated
 
 ## Impact
 
-The Insohmic Civil War was the greatest threat to the stability of the Order. The loyalist's victory meant that the Order of Insohm continued to exist, and would go on to fight the [[Tidal War]] less than a decade after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.
+The Insohmic Civil War was the greatest threat to the stability of the Order (until its collapse at the end of the Third Avihm). The loyalist's victory meant that the Order of Insohm continued to exist, and would go on to fight the [[Tidal War]] less than a decade after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.
 
 
 

@@ -3,15 +3,9 @@ tags:
   - Books
 ---
 
+--8<-- "spoiler.md"
+
 --8<-- "postyav_spoiler.md"
-
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

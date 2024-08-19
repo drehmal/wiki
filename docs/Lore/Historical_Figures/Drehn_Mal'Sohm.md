@@ -1,6 +1,7 @@
 (END-GAME SPOILERS AT END)
 
 # Drehn Mal'Sohm
+
 > - **Life Duration:** (Unknown year, probably Av2 1500s) - (Unknown year, probably late Av2 1600s or Av2 1700s)
 
 Drehn Mal'Sohm was the last king of the [[Chosen Kingdom]] and the first and founding emperor of the [[Empire of Avsohm]]. He is held responsible for the empire's early discoveries that fueled its rapid technological and territorial growth. Drehn had democratic and peaceful ideals that differed from many other monarchs, including the future Avsohmic emperors. He was known for rarely using brute force to subjugate land, instead often relying on negotiations. He is revered by many as the greatest leader in the realm's history, even in the present day.

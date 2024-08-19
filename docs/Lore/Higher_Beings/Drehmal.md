@@ -9,13 +9,13 @@ ___
 
 For the planet, see [[Drehmal (Place)]]
 
-![[Drehmal-The_Final_Aspect.webp]]{ align=right width="300" }
-
 > - **Titles:** The Serpent, The Realmbinder, The Last Divine, The Final Aspect [misleading], God of Preservation, God of Neutrality
 > - **Classification:** Deity
 > - **Parent:** [[Primal Tree]]
 > - **Year of Birth:** Final Year of Av1
 > - **Devotion Site:** [[Drehua Temple]]
+
+![[Drehmal-The_Final_Aspect.webp]]{ align=right width="300" }
 
 Drehmal is the most powerful of the three deities born from the Primal Tree upon its collapse at the end of the First Avihm. With most of the land being destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The new land, which is the one present in-game, is named "Drehmal", after the deity.
 

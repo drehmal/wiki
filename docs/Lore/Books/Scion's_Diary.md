@@ -57,4 +57,4 @@ This book can be found in a chest at the eastern extent of the swamp in [[Dahr's
 > She never even told me her name.
 
 ### Trivia:
-The Drehmari pyromancer referenced in this book cannot be found in-game, but is based on an OC named Nemeta by Drehmal developer Tetrahedron.
+The Drehmari pyromancer referenced in this book cannot be found in-game. She is based on an OC named Nemeta by Drehmal developer Tetrahedron.

@@ -5,4 +5,4 @@
 
 Zorhis Ifeihl was the second emperor of the [[Empire of Avsohm]]. His unwarlike attitude and interest in the arts made him initially popular amongst younger generations, but his reign was characterized by an economic recession. His popularity took another major blow by a disastrous battle against the loose, savage undead hordes of the former [[Tri-Moon Theocracy]]. It was ultimately decided that he should be replaced by a new emperor. Ifeihl's role in history is often overshadowed by those of the other two emperors of Avsohm.
 
-## Reign
+## Reign as Emperor

@@ -3,7 +3,7 @@
 > - **Duration:** (unknown year, probably Av2 1380s or 1390s) - Av2 1748
 > - **Location:** Lorahn'Kahl
 > - **Capital City:** Sal'Lorahn
-> - **Government Type:** Theocracy (ruled by multiple High Priests)
+> - **Form of Government:** Theocracy (ruled by multiple High Priests)
 > - **Rulers:** Saint Raene (founder and first leader)
 > - **Religion:** Worship of the Lorahn, Loruhn and Lo'Dahr
 #

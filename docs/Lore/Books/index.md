@@ -14,33 +14,35 @@ Lore books typically take the form of a writable book, or a "book and quill" wit
 
 Books are found almost exclusively in chests, on lecterns, and inside of item frames, in decreasing order of prevalence. On occasion, they will be written/signed books, which do not have the quill texture and do have an added glow.
 
-Books within chests are the most common, and will typically appear in the center tile of the chest, as shown here. Sometimes, chests will contain only a book, but they may also contain other loot, as in this case. ![[chest_book1.png]]{ align=right width="300" }
+
+![[chest_book1.png]]{ align=right width="300" }
+
+Books within chests are the most common, and will typically appear in the center tile of the chest, as shown here. Sometimes, chests will contain only a book, but they may also contain other loot, as in this case. 
 
 
+![[chest_book2.png]]{ align=left width="300" } 
+
+When you hover over a writable/written book, it will show you its title. On this wiki section, you can find information about that book by finding its title, listed alphabetically. 
 
 
+![[lectern_book.png]]{ align=right width="300" }
 
-![[chest_book2.png]]{ align=left width="300" } When you hover over a writable/written book, it will show you its title. On this wiki section, you can find information about that book by finding its title, listed alphabetically. 
-
-
-
+Lecterns are the second most common type of container for books, and books on these can be read by right-clicking them. 
 
 
-Lecterns are the second most common type of container for books, and books on these can be read by right-clicking them. ![[lectern_book.png]]{ align=right width="300" }
+![[if_book1.png]]{ align=left width="300" } 
 
-
-
-
-
-![[if_book1.png]]{ align=left width="300" } Books within item frames will show their name when hovered over, such as the Stasis Subject Roster in this image. They can be obtained by punching (left-clicking) them while in Survival or Adventure mode.
-
-
+Books within item frames will show their name when hovered over, such as the Stasis Subject Roster in this image. They can be obtained by punching (left-clicking) them while in Survival or Adventure mode.
 
 
 ## Wiki Formatting
 On this wiki, all book pages are formatted uniformly, according to the following template:
 
-Any spoiler warnings will go here, at the very beginning of the page. If there are potential major story spoilers, then an image of a large, forboding door should block your view of the article without scrolling down, ensuring that you have proper time to react to the spoiler warning and click off if you do not want spoilers. After this image, any additional spoiler tags about specific areas or in-game benchmarks will be applied as necessary. 
+# Title
+The title of the book. (i haven't actually done this yet, just decided to when i saw preview so it'll be in by the first real pr)
+
+### Spoilers
+Any spoiler warnings will go here, at the beginning of the page just after the title. If there are potential major story spoilers, then an image of a large, forboding door should block your view of the article without scrolling down, ensuring that you have proper time to react to the spoiler warning and click off if you do not want spoilers. After this image, any additional spoiler tags about specific areas or in-game benchmarks will be applied as necessary. 
 
 
 For example, here is what the beginning of a page with spoilers for the 50% completion story event would look like (there are not actually any spoilers on this index page):

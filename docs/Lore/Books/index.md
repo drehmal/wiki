@@ -68,6 +68,37 @@ If the book is very short or has no real interesting content, only the location 
 
 That should be all you need to know about this tab of the wiki! As always, be very mindful of the spoilers if you have not completed the map yourself.
 
+# (Preview Only) Spoiler Tag List:
+lmk what you think of these, if they should be tweaked/are too redundant/new ones should be added
+
+Default Story Spoiler:
+
+--8<-- "spoiler.md"
+
+25% Story Spoiler:
+
+--8<-- "25_spoiler.md"
+
+50% Story Spoiler:
+
+--8<-- "50_spoiler.md"
+
+75% Story Spoiler (basically just aphelion stuff):
+
+--8<-- "75_spoiler.md"
+
+Lo'Dahr Spoiler (this one is gonna be on a LOT of pages):
+
+--8<-- "LD_spoiler.md"
+
+Post-Yav/Endgame Spoiler:
+
+--8<-- "postyav_spoiler.md"
+
+Minor Regional Spoiler:
+
+--8<-- "minor_spoiler.md"
+
 
 
 

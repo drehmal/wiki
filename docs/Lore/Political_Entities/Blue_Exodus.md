@@ -1,9 +1,4 @@
----
-tags:
-  - Lore
-  - Entities
-  - Faction
----
+
 
 # Blue Exodus
 
@@ -16,6 +11,4 @@ tags:
 > - **Leaders:** [[Kahmas Tuhs]] (final CEO)
 
 
-**Blue Exodus** was a secret Avsohmic organization that was part of the exclusive group known as the "Big Three", along with Red Dawn and Green Serpent. It was a military and construction organization, taking contracts directly from the government.
-
-Blue Exodus HQ was the [[Exodus Citadel]], an underwater facility located under the waters of Lake Nimahj. Today, the lake has dried up and the Citadel is only a remnant of what it once was.
+Blue Exodus was a corporation focused on producing military equipment and a member of [Avsohm[Empire of Avsohm]]'s Big Three, becoming an essential part of the empire's industry and deeply intwined with its government. Most Blue Exodus officials disappeared during the events of the [fall of Avsohm[Fall of Avsohm]], causing the organization's abrupt end.

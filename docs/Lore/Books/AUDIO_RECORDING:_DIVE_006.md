@@ -5,11 +5,7 @@ tags:
 
 --8<-- "spoiler.md"
 
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
+--8<-- "postyav_spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
@@ -20,8 +16,9 @@ tags:
 This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the sixth dive. It establishes that Tethlaen entered the Nothing for noble reasons, as he felt that he would only be able to hold the tear closed from the inside, protecting the realm of Drehmal.
 
 ### Transcription:
-*U1 = User 1, Orix
-*AR = Audio Receptor
+\*U1 = User 1 (Orix)
+
+\*AR = Audio Receptor (Tethlaen)
 > [U1] Attention, Harbinger. This is Chief Observer Cehein. Can you hear me?
 > 
 > [AR] Indeed. Your people have finally finished their work, and I am alone again.

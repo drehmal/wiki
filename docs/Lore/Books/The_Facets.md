@@ -9,13 +9,17 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-# The Facets (ENDGAME SPOILER BOOKS)
+!!! danger "These books contain MASSIVE story spoilers for the late-game and end-game. Even if you have found them in your playthrough, we recommend that you do not read this page until AFTER you have fully finished the map, as detailed above."
+
+# The Facets 
 
 The Facets are a collection of seven (7) signed, written books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials. 
 
 The facets are written as verses of scripture, containing prophecies foreseen by [[Rihelma]].
 
-The exact meaning behind these books is not 100% confirmed, but it has been speculated by the community that each individual Facet describes what would happen if one of the characters in the Drehmal universe were to complete [[The Ambition]], effectively dethroning The [[Mythoclast]] and becoming the ultimate ruler of the multiverse. The text then portrays what would ultimately happen to the realm of Drehmal in this scenario.
+The exact meaning behind these books is not 100% confirmed, but the widely accepted interpretation within the community is that each individual Facet describes what would happen if one of the characters in the Drehmal universe were to complete [[The Ambition]], effectively dethroning The [[Mythoclast]] and becoming the ultimate ruler of all existence. 
+
+Under this interpretation, each respective text portrays what would ultimately happen to the realm of Drehmal under their new ruler.
 
 *** 
 

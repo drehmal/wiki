@@ -9,7 +9,7 @@ tags:
 
 ![[Exodus_citadel_night.webp]]{ align=right width="300" }
 
-> - **Duration:** (Unknown year, probably between Av2 1100 - Av2 1600) - Av2 1820
+> - **Duration:** (Unknown year, probably between Av2 1200 - Av2 1600) - Av2 1820
 > - **City of Origin:** Stromnar
 > - **Headquarters:** [[Exodus Vault]]
 > - **Form of Organization:** Corporation

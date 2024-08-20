@@ -5,11 +5,7 @@ tags:
 
 --8<-- "spoiler.md"
 
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
-
---8<-- "spoiler.md"
+--8<-- "postyav_spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
@@ -20,8 +16,9 @@ tags:
 This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of the conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
 
 ### Transcription:
-*U1 = User 1, Orix
-*AR = Audio Receptor
+\*U1 = User 1 (Orix)
+
+\*AR = Audio Receptor (Tethlaen)
 > [U1] This is Chief Observer Orix Cehein of Avsohm, reaching out to any entities that might hear this call.
 >
 > [AR] (Static)

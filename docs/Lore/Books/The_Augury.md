@@ -13,7 +13,7 @@ tags:
 |107  |90   |1190  |
 
 ### Location/Summary:
-This book can be found in a chest in the ruins of Arkeje, in the southeastern extent of [[Dahr's Domain]]. It is a 43-page story about a group of four [[Tehrmari]]—two noble La'Tehrmari siblings and two Ro'Tehrmari—who venture into [[The Augury]] to attempt to peek into the mind of [[Rihelma]] as she receives prophecies. They are successful in doing so, but the experience is so overwhelming that Derria, one of the La'Tehrmari, accidentally kills Okej, one of the Ro in their company, while still in Rihelma's mind. She then kills the other Ro, Honac, in defense of her brother, and the two depart to Arkeje to warn them of their leader's fate, which they learned of in one of the visions.
+This book can be found in a chest in the ruins of Arkeje, in the southeastern extent of [[Dahr's Domain]]. It is a 43-page story about a group of four [[Tehrmari]]—two noble La'Tehrmari siblings and two Ro'Tehrmari—who venture into [[The Augural Tangle]] to attempt to peek into the mind of [[Rihelma]] as she receives prophecies. They are successful in doing so, but the experience is so overwhelming that Derria, one of the La'Tehrmari, accidentally kills Okej, one of the Ro in their company, while still in Rihelma's mind. She then kills the other Ro, Honac, in defense of her brother, and the two depart to Arkeje to warn them of their leader's fate, which they learned of in one of the visions.
 
 ### Transcription:
 > Mumbling the Abyssal Hymn to herself, Derria nervously scanned the placid waters of the cave. The familiar words could not quell the anxious energy which threatened to send her sprawling  onto the banded rock. Thankfully, no lancefish lurked in the clear, shallow pool.

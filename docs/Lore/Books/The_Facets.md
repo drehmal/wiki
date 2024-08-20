@@ -9,17 +9,17 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-!!! danger "These books contain MASSIVE story spoilers for the late-game and end-game. Even if you have found them in your playthrough, I cannot recommend strongly enough that you do not read this page until AFTER you have fully finished the map, as detailed above."
+!!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above." 
 
 # The Facets 
 
-The Facets are a collection of seven (7) signed, written books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials. 
+The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials. 
 
-The facets are written as verses of scripture, containing prophecies foreseen by [[Rihelma]].
+The facets are written as verses of scripture, containing apocalyptic prophecies foreseen by [[Rihelma]].
 
-The exact meaning behind these books is not 100% confirmed, but the widely accepted interpretation within the community is that each individual Facet describes what would happen if one of the characters in the Drehmal universe were to complete [[The Ambition]], effectively dethroning The [[Mythoclast]] and becoming the ultimate ruler of all existence. 
+The exact meaning behind these books is not 100% confirmed, but the widely accepted interpretation within the community is that each individual Facet describes what would happen if one of the characters in the Drehmal universe were to complete [[The Ambition]], effectively becoming the ultimate ruler of all existence. 
 
-Under this interpretation, each respective text portrays what would ultimately happen to the realm of Drehmal under their new ruler.
+Under this interpretation, each respective text portrays what may ultimately happen to the realm of Drehmal under their new ruler.
 
 *** 
 
@@ -56,13 +56,26 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 ### Coordinates (After Trial):
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
-|(x)  |(y)   |(z)  |
+|1125  |83   |1069  |
 
 ### Location/Summary:
-This book can be found in a chest in [[Location]], upon completion of the trial at that location. 
+This book can be found in a chest in the [[Star-Rise Orrery]], upon completion of the trial at that location. 
+
+It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the fall of [[Empire of Avsohm|Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge.
 
 ### Transcription:
-> [Full Book Text]
+> 2:1 - The sky will blacken and shadows will grow longer than ever before. Tendrils of dark will seep into every corner of the world, grasping at forbidden knowledge.
+>
+> 2:2 - And Those Beyond will enter, perfect and circular. They will devour all in their path. They will, even consume themselves.
+>
+> 2:3 - For one day and one night, a golden oculus dripping with blackness will grace the very sky. It will not be a creation of the Star-Rise Drake. It will see all, and all will see it.
+>
+> 2:4 - The Blasphemous Eye will havoc the world, scorching and abducting every last opposer.
+>
+> 2:5 - When the Eye closes, so too will the eyes of all who have witnessed it for three days and three nights. They will think it all a distant dream.
+>
+> 2:6 - And the interlopers will be no longer.
+
 
 ***
 
@@ -76,9 +89,7 @@ This book can be found in a chest in [[Location]], upon completion of the trial 
 ### Location/Summary:
 This book can be found in a chest in the [[Hypogean Labyrinth]], upon completion of the trial at that location. 
 
-Due to the repeated references to silence in this facet, it has been posited that this is the timeline in which the nearly unmentioned [[Verrhys]], Aspect of Silence, completes the Ambition and brings the realm to a state of total silence and peace.
-
-However, much more prominently, this facet is a near-direct reflection of the actual fate of Drehmal in the main storyline. In particular, the awakening of [[Drehmal]], as foretold in 3:3, the formation of vast sand dunes across the world as foretold in 3:4, and the final being standing alone to observe the end, then being offered closure, as shown in 3:5, is a perfect match for the final sequence of the map. This has sparked conversation about the potential ties between [[Verrhys]] and the [[Mythoclast]], but at this point, there are no concrete ties between these two entities, with sparingly few details existing at all in regards to the former.
+Due to the repeated references to silence in this facet, it has been posited that this is the timeline in which the nearly unmentioned [[Verrhys]], Aspect of Silence, completes the Ambition and brings the realm to a state of total silence and peace. This can be supported by the fact that Lahrs, an aspect often referred to as the counterpart to Verrhys, is the presumptive subject of Facet VI.
 
 ### Transcription:
 > 3:1 - Silence will creep into every corner of the realm. It will be a quiet and peaceful passing.
@@ -179,15 +190,28 @@ It is believed that this book represents a reality in which [[Lahrs]], Aspect of
 
 ***
 
-## Facet VII
+## Facet VII 
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
-|(x)  |(y)   |(z)  |
+|1923  |25   |1865  |
 
 ### Location/Summary:
-This book can be found in a chest in [[Yriel's Tomb]], alongside the [[Syzygy]] mythical weapon.
+This book can be found in a chest at [[Yriel's Tomb]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
+
+The final facet seems to be Rihelma's prophecy for what would happen to the world if the player were to succeed in the Ambition. In this timeline, "children of quartz and glass" awaken, likely referring to the resurrection of Avsohm (figuratively and/or literally through the resurrection of important figures and rebuilding of its ruins). They proceed to take "the treasures of the tomb," likely referring to the [[Mythbreaker]], successfully using it to tear through and peer beyond the Veil. This ends on a positive note: "millions of flowers will bloom like golden sand on a placid seashore" may refer to the fulfillment of [[Anyr]]'s goal of conquering and ruling over all of existence as a god-emperor, or it may be something else.
 
 ### Transcription:
-> [Full Book Text]
+> 7:1 - Children of quartz and glass shall awaken, removing the cord that attaches them to the corpse of their hideous mother.
+>
+> 7:2 - Mewling and gnashing, they will be fed by the rays of a dying Torahn in the crimson sky.
+>
+> 7.3 - Crawling unsupervised, their shins shall be stained by the mud of their ancestors.
+>
+> 7:4 - Lifted by wing and claw, they will grow in six bursts until their feet drag on the ground and their toes take root in the soil.
+>
+> 7:5 - Given the treasures of the tomb, they will take aim and fire. A bolt of devastation echoes in birdsong.
+>
+> 7:6 - A family reunited, and around them millions of flowers will bloom like golden sand on a placid seashore.
+

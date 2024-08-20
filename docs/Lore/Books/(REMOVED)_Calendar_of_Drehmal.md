@@ -1,7 +1,10 @@
 ---
 tags:
   - Books
+  - Removed Books
 ---
+## Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not be taken as canon.
+
 ### Location/Summary:
 This book is **no longer on the map**, but in previous versions, was found in the library of [[Okeke]], and defines some terminology in Drehmal's calendar system.
 

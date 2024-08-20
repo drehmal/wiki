@@ -16,8 +16,9 @@ tags:
 This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the 27th attempted dive. At this point, the two appear to have developed a strong rapport, and Tethlaen informs Orix that if at some point he is no longer able to hold the tear closed, primal energy will leak from the Nothing into Drehmal, causing the inevitable destruction of the realm.
 
 ### Transcription:
-*U1 = User 1, Orix
-*AR = Audio Receptor
+\ *U1 = User 1 (Orix)
+
+\*AR = Audio Receptor (Tethlaen)
 > [U1] Attention, Harbinger. Any interesting observations on your side today?
 >
 > [AR] Drehmari. It is good as ever to hear your voice. I witnessed a group of creatures like bundles of wire in a purpled fog swim as if one entity some time ago. Days mean nothing to me, as you must understand by now.

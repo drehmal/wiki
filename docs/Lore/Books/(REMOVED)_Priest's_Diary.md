@@ -1,7 +1,10 @@
 ---
 tags:
   - Books
+  - Removed Books
 ---
+
+## Note: This book is removed content, which does not appear in the current version of the map (1.20.1).
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
@@ -9,7 +12,7 @@ tags:
 |-1266  |46   |-4067  |
 
 ### Location/Summary:
-This book can be found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
+This book can no longer be found on the map, but it was once in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
 
 ### Transcription:
 > Maelmaklah 16: 1820

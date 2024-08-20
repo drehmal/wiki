@@ -15,41 +15,16 @@ Lore books typically take the form of a writable book, or a "book and quill" wit
 Books are found almost exclusively in chests, on lecterns, and inside of item frames, in decreasing order of prevalence. On occasion, they will be written/signed books, which do not have the quill texture and do have an added glow.
 
 
-![[chest_book1.png]]{ align=right width="300" }
+![[chest_book1.png|Books within chests are the most common, and will typically appear in the center tile of the chest, as shown here. Sometimes, chests will contain only a book, but they may also contain other loot, as in this case. ]]{ align=right width="300" }
 
 
-
-Books within chests are the most common, and will typically appear in the center tile of the chest, as shown here. Sometimes, chests will contain only a book, but they may also contain other loot, as in this case. 
-
+![[chest_book2.png|When you hover over a writable/written book, it will show you its title. On this wiki section, you can find information about that book by finding its title, listed alphabetically. ]]{ align=left width="300" } 
 
 
-
-![[chest_book2.png]]{ align=left width="300" } 
-
+![[lectern_book.png|Lecterns are the second most common type of container for books, and books on these can be read by right-clicking them.]]{ align=right width="300" }
 
 
-When you hover over a writable/written book, it will show you its title. On this wiki section, you can find information about that book by finding its title, listed alphabetically. 
-
-
-
-
-![[lectern_book.png]]{ align=right width="300" }
-
-
-
-Lecterns are the second most common type of container for books, and books on these can be read by right-clicking them. 
-
-
-
-
-![[if_book1.png]]{ align=left width="300" } 
-
-
-
-Books within item frames will show their name when hovered over, such as the Stasis Subject Roster in this image. They can be obtained by punching (left-clicking) them while in Survival or Adventure mode.
-
-
-
+![[if_book1.png|Books within item frames will show their name when hovered over, such as the Stasis Subject Roster in this image. They can be obtained by punching (left-clicking) them while in Survival or Adventure mode.]]{ align=left width="300" } 
 
 ## Wiki Formatting
 On this wiki, all book pages are formatted uniformly, according to the following template:

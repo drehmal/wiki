@@ -9,11 +9,12 @@ tags:
 
 ![[Exodus_citadel_night.webp]]{ align=right width="300" }
 
-> - **Type of government:** Organization
-> - **Capital:** [[Exodus Citadel]]
-> - **Date of establishment:** Unknown - Prior to Av2 1535
-> - **Date of dissolution:** Av2 1820
-> - **Era(s):** Second Avihm
+> - **Duration:** (Unknown year, probably between Av2 1100 - Av2 1600) - Av2 1820
+> - **City of Origin:** Stromnar
+> - **Headquarters:** [[Exodus Vault]]
+> - **Form of Organization:** Corporation
+> - **Leaders:** [[Kahmas Tuhs]] (final CEO)
+
 
 **Blue Exodus** was a secret Avsohmic organization that was part of the exclusive group known as the "Big Three", along with Red Dawn and Green Serpent. It was a military and construction organization, taking contracts directly from the government.
 

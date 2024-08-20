@@ -1,4 +1,4 @@
-
+(50% SPOILERS AT END)
 
 # Blue Exodus
 
@@ -12,3 +12,9 @@
 
 
 Blue Exodus was a corporation focused on producing military equipment and a member of [Avsohm[Empire of Avsohm]]'s Big Three, becoming an essential part of the empire's industry and deeply intwined with its government. Because of this strong relation, most Blue Exodus officials disappeared during the events of [Avsohm's collapse[Fall of Avsohm]], causing the organization's abrupt end.
+
+## Origins
+
+## History
+
+## Exodus Citadel and Vault (50% SPOILERS)

@@ -16,11 +16,26 @@ Books are found almost exclusively in chests, on lecterns, and inside of item fr
 
 Books within chests are the most common, and will typically appear in the center tile of the chest, as shown here. Sometimes, chests will contain only a book, but they may also contain other loot, as in this case. ![[chest_book1.png]]{ align=right width="300" }
 
+
+
+
+
 ![[chest_book2.png]]{ align=left width="300" } When you hover over a writable/written book, it will show you its title. On this wiki section, you can find information about that book by finding its title, listed alphabetically. 
+
+
+
+
 
 Lecterns are the second most common type of container for books, and books on these can be read by right-clicking them. ![[lectern_book.png]]{ align=right width="300" }
 
+
+
+
+
 ![[if_book1.png]]{ align=left width="300" } Books within item frames will show their name when hovered over, such as the Stasis Subject Roster in this image. They can be obtained by punching (left-clicking) them while in Survival or Adventure mode.
+
+
+
 
 ## Wiki Formatting
 On this wiki, all book pages are formatted uniformly, according to the following template:

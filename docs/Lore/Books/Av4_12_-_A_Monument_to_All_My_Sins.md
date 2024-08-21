@@ -2,8 +2,9 @@
 tags:
   - Books
 ---
+# Av4 12 - A Monument to All My Sins
 
---8<-- "75_spoiler.md"
+--8<-- "spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

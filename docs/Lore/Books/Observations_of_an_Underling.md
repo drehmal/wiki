@@ -1,4 +1,3 @@
-Book template:
 ---
 tags:
   - Books

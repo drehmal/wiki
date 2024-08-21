@@ -9,7 +9,7 @@ tags:
 |-3668  |48   |1994  |
 
 ### Location/Summary:
-This book can be found in a chest in the Temple of Dahroehl in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
+This book can be found in a chest in the Temple of [[Dahroehl]] in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
 
 ### Transcription:
 > Dahroehl, Water Wyrm

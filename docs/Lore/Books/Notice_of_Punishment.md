@@ -40,7 +40,8 @@ This book can be found in a chest within a cage dangling from a floating island 
 > 7. Terrorism (3 counts)
 >
 > 8. Tax Evasion (Naharja)
-> --------------------
+>    
+> ***
 > For these crimes and other improper and indecent behavior, Kungahs shall not be allowed to leave this cage. Any who aid or abet in his escape shall be given the same sentence.
 >
 > Signed, Aylin Makohva,

@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Diary of the Tree-Maris
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

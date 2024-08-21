@@ -3,15 +3,13 @@ tags:
   - Books
 ---
 
---8<-- "spoiler.md"
-
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |2427  |80   |-3473  |
 
 ### Location/Summary:
-This book can be found in a chest in [[Faehrcyle]]. It portrays fear as a necessary emotion, and a protector of the realm, both concerning the emotion and the actions of [[Tethlaen]], Aspect of Fear.
+This book can be found in a chest in [[Faehrcyle]]. It portrays fear as a necessary emotion that protects people from danger, as well as characterizing the actions of [[Tethlaen]], Aspect of Fear, as heroic and protective.
 
 ### Transcription:
 > Throughout countless generations, my family had lived life guarded by fear, protected by caution and our natural intuition. It is the crux of survival, not just for Drehmari, but for all the realm's creations. That is what the Aspect of Fear taught us. He was our guardian, our considerate overseer.

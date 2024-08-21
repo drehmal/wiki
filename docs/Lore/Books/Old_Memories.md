@@ -9,7 +9,7 @@ tags:
 |-483  |74   |-1955  |
 
 ### Location/Summary:
-This book can be found in a lectern in a room at the bottom of the [[I.C.S. Arbiter]]. It tells the story of how [[Master Vahid]] came to become the head of the [[Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
+This book can be found in a lectern in a room at the bottom of the [[I.C.S. Arbiter]]. It tells the story of how [[Vahid]] came to become the head of the [[Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
 
 ### Transcription:
 > It was not too long ago that this cramped room housed one of the greatest leaders in world history. He isn't thought kindly of now, but Master Vahid really did save Insohm aboard this very ship.

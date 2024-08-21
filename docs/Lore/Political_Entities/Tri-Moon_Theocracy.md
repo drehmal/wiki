@@ -6,9 +6,9 @@
 > - **Government Type:** Theocracy (ruled by multiple High Priests)
 > - **Rulers:** Saint Raene (founder and first leader)
 > - **Religion:** Worship of the Lorahn, Loruhn and Lo'Dahr
-#
-![image](https://github.com/user-attachments/assets/875748b8-7fca-481a-8ab6-7d20b3a90768)
-> #### Ruins of Sal'Lorahn with a depiction of the three moons in the center (from left to right: Lorahn, Lo'Dahr, Loruhn)
+
+![[ruins_of_sallorahn.png]]
+> Ruins of Sal'Lorahn with a depiction of the three moons in the center (from left to right: Lorahn, Lo'Dahr, Loruhn)
 
 ## Formation
 
@@ -21,10 +21,10 @@ The early years of the Theocracy were mostly peaceful. Children given up by paid
 ## Collapse and Aftermath
 
 Avsohm, trying to prevent aggression against their own empire or a war with Maelihs (which could result in his success), supported assassinations of the Theocracy's High Priests. After the collapse of the government, Avsohm quickly invaded and occupied all of Lorahn'Kahl. The undead army, with an uncontrollable bloodlust, escaped captivity and with the most powerful necromancers now dead at the hands of Avsohm, they were free to embark on a deadly and destructive rampage across Lorahn'Kahl, soon spreading to the southern Tharhan plains and approaching the Central Plains. Surviving necromancers convened one final time at a church in the Moonspires, beneath the skeleton of a Skullbeast, the same site where Saint Raene put a captive through a necromantic loop in order to call out to all allies. Here, the Theocracy was officially disbanded. The incoming undead posed a major problem for Avsohm, who had to engage in a costly war with the loose, bloodthirsty hordes. All Necrotic Engines in Lorahn'Kahl were destroyed, except for those hidden in the Moonlight Sanctum. Eventually, the Undead Horde was eradicated, but Emperor Ifeihl's decline in popularity was in part due to his poor management of this battle, and the conflict ultimately paved the way for Anyr's rise to power.
-#
-![image](https://github.com/user-attachments/assets/34157348-f135-4686-945d-dcb54ab51278)
-> #### The Moonlight Sanctum, a cluster of underground Necrotic Engines utilizing the blade "Ascendance" to repeatedly kill the undead
-#
-![image](https://github.com/user-attachments/assets/96e8ff14-d9b7-4e72-8928-659cbe7da368)
-> #### The site of the Tri-Moon Theocracy's origin and end
+
+![[moonlight_sanctum.png]]
+> The Moonlight Sanctum, a cluster of underground Necrotic Engines utilizing the blade "Ascendance" to repeatedly kill the undead
+
+![[trimoon_origin.png]]
+> The site of the Tri-Moon Theocracy's origin and end
 

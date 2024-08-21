@@ -9,7 +9,7 @@ tags:
 |-2975  |144   |-161  |
 
 ### Location/Summary:
-This book can be found in a chest, in the house in [[Ebonrun]] nearest to the fenced-off tunnel.
+This book can be found in a chest, in the house in [[Ebonrun]] nearest to the fenced-off tunnel. It hints at the location of a mine on the [[Island of Dusk]].
 
 ### Transcription:
 > Seems like the crew stationed on the eastern side of the Island of Dusk has stopped responding to any of our letters or magic transmissions.

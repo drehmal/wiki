@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+--8<-- "spoiler.md"
+
 --8<-- "75_spoiler.md"
 
 ### Coordinates:
@@ -11,7 +13,7 @@ tags:
 |-77  |102   |118  |
 
 ### Location/Summary:
-This book can be found on a lectern in [[The Aphelion]], beside Anyr's throne. It contains the full official title of [[Anyr|Emperor Anyr]], proclaiming that Anyr is to become ruler of all that he sees, and elevate Avsohm above the [[Aspects]].
+This book can be found on a lectern in [[The Aphelion]], beside Anyr's throne. It contains the full official title of [[Anyr|Emperor Anyr]], and proclaims that Anyr is to become ruler of all that he sees, elevating Avsohm above the [[Aspects]].
 
 ### Transcription:
 > All Hail Anyr Kalkorahm Al'Drehn Avsohm I, Third Emperor of the Avsohmic Empire!

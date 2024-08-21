@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Activity Log - Project Panopticon
 
 --8<-- "spoiler.md"
 

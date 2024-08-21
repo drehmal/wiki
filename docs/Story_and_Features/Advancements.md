@@ -1,4 +1,4 @@
-!!! warning "Please note that this page contains MAJOR spoilers."
+()
 
 # Advancements
 

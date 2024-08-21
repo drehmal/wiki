@@ -42,4 +42,4 @@ This book can be found in a chest in the [[Resonant Halls]]. It is a transcripti
 >
 > [U1] I have a new understanding of you, Harbinger. However, time runs short. I must say goodbye for now.
 >
-> [AR] Farewell, Drehmari. 
+> [AR] Farewell, Drehmari.

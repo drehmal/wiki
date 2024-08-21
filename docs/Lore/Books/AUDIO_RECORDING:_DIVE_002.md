@@ -2,7 +2,7 @@
 tags:
   - Books
 ---
-
+# AUDIO RECORDING: DIVE 002
 --8<-- "spoiler.md"
 
 --8<-- "postyav_spoiler.md"
@@ -13,7 +13,7 @@ tags:
 |26972  |30   |-140  |
 
 ### Location/Summary:
-This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of the conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
 
 ### Transcription:
 \*U1 = User 1 (Orix)

@@ -9,7 +9,7 @@ tags:
 |-2801  |70   |5265  |
 
 ### Location/Summary:
-This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Brightwyrm Lai|Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
+This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Lai|Brightwyrm Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
 
 ### Transcription:
 > My brethren,
@@ -21,7 +21,7 @@ This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws th
 > Although Lai would never subject Himself to the call of any deity, we believe that by instructing His child, Infernal Lailoehn, to aid our Maelmari brethren in burning a grand swathe through this Realm with her
 imperfect terrestrial fire, He has lent His support to our people and to the Burnt Father's cause.
 >
-> Therefore, though we rightly spend much of our time in devout meditation over the mysteries and revelations in the pure chaos of our Sacred Flame, we should not lose sight of our secondary duty to Maehlis. While our creed prevents us from venturing into his holy sanctuary, we should still find the time to send our thoughts and prayers towards the deity which brought us the gift of Ascension.
+> Therefore, though we rightly spend much of our time in devout meditation over the mysteries and revelations in the pure chaos of our Sacred Flame, we should not lose sight of our secondary duty to Maelihs. While our creed prevents us from venturing into his holy sanctuary, we should still find the time to send our thoughts and prayers towards the deity which brought us the gift of Ascension.
 >
 > Brethren, this twin loyalty between the Burnt Father and the Brightwyrm responsible for his burning will be the crucible which forges our spirits into true Primal Souls. Do not take this duty lightly.
 >

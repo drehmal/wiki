@@ -9,7 +9,7 @@ tags:
 |454  |73   |1252  |
 
 ### Location/Summary:
-This book can be found in a chest in a cave just southwest of the [[Capital Valley Tower]], detailing the harrowing experience of another traveler who stayed the night in this cave and warning the reader not to attempt to do the same.
+This book can be found in a chest in a cave just southwest of the [[Capital Valley]] Tower, detailing the harrowing experience of another traveler who stayed the night in this cave and warning the reader not to attempt to do the same.
 
 ### Transcription:
 > To whoever,

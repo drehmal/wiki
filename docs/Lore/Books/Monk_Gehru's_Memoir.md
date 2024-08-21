@@ -35,8 +35,8 @@ This book can be found in a chest outside the [[Kiln of Virtuo]], in the Kiln At
 > The first thing I did was order the dismantling of the old Grand Parish. I had come to hate the warlike and vicious role it had begun to play in global affairs. I settled for a small cottage near the Kiln for myself and fellow devout Virmari and Drehmari monks at which we could live while teaching. Similarly, I encouraged the people of Firteid to form a representative government instead of ruling as a tyrant.
 >
 > All of this has worked, to my immense satisfaction. The faith of Virtuo continues to thrive throughout the realm in cities, towns, and rural areas alike. Firteid has continued to have its ups and downs through the decades, but it has settled on a constitution which appoints a council to make policy and run its affairs. That has been a lot of stress off my plate! And the monks who live at the Kiln have become dear friends. We talk every night about the ways that Virtuo shows her love. The orderflame lanterns still have not burnt out!
-
-There is much left to do, so I will stop this memoir for now. A businessman from Firteid plans to open a hotel on the Eye of Vir itself!
-
-Luvic, if you read this, have a tellingly totally terrific time touring my tasteless tiny town!
+>
+> There is much left to do, so I will stop this memoir for now. A businessman from Firteid plans to open a hotel on the Eye of Vir itself!
+>
+> Luvic, if you read this, have a tellingly totally terrific time touring my tasteless tiny town!
 

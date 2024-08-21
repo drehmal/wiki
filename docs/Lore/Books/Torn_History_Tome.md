@@ -3,13 +3,15 @@ tags:
   - Books
 ---
 
+--8<-- "minor_spoiler.md"
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |1523  |141   |-1975  |
 
 ### Location/Summary:
-This book can be found on a lectern in [[Ancehl Castle]].The text is concerned with the history of the castle. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books.
+This book can be found on a lectern in [[Ancehl Castle]].The text is concerned with the history of the castle. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
 
 ### Transcription:
 > Though Dohval Castle was once known by another name, that name has been lost to time. Recent archaeological study of nearby foundations suggests that ancient Aklo’Rohmans kept a large castle made primarily from diorite on the clifftop site alongside a very large mud brick city mostly built upon a portion of the peninsula which no longer exists.

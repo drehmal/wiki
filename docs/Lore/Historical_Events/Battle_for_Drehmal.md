@@ -4,7 +4,7 @@
 > - **Belligerents:** [Insohmic Coalition[Order of Insohm]] ([[Casain Empire]], [[Republic of Merijool]], [[United Townships of Dreh'Noha]], [[Kingdom of Dusps]], [[Gozaki Union]], [[Parochial Enclave of Firteid]], [[Kingdom of Highfall]], Insohmic Commonwealth) vs. [[Empire of Maelihs]]
 > - **Leaders:** [[Hovadchear Myrik]] (Insohmic Coalition, until Av3 847), [[Ultva Utofal]] (Insohmic Coalition, until unknown year, probably shortly after Av3 847), [[Vahid]] (Insohmic Coalition, after unknown year, mid/late 800s), Independent Leaders of Insohmic Countries (Insohmic Coalition), [[Maelihs]] (Empire of Maelihs), [[Burnt Generals]] (Empire of Maelihs)
 
-The Battle of Drehmal was a long war waged by the Order of Insohm against the Empire of Maelihs, with the goal of freeing the territories from Maelihs that he conquered in the [[Dune Wars]]. It resulted in a brief period of Insohmic subjugation of western [Drehmal[Drehmal (Place)]], before the lands were swiftly reacquired by Maelihs.
+The Battle of Drehmal was a long war waged by the Order of Insohm against the Empire of Maelihs, with the goal of liberating the territories that Maelihs conquered during the [[Dune Wars]] from his control. It resulted in a brief period of Insohmic subjugation of western [Drehmal[Drehmal (Place)]], before the Order collapsed the lands were swiftly reacquired by Maelihs.
 
 ## Background
 

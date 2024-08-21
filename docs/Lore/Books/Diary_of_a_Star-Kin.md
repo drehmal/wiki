@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Diary of a Star-Kin
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

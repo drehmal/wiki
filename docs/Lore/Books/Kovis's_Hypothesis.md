@@ -3,6 +3,10 @@ tags:
   - Books
 ---
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

@@ -1,5 +1,4 @@
 ---
-title: Heixueh’s Teachings
 tags:
   - Books
 ---
@@ -19,7 +18,7 @@ This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Dreh
 >
 > "Small one, why did you seek harm upon my sibling's child?"
 >
->Shame rising up my face, I stared at a nearby clump of grass. "I... I just wanted that gemstone. It would fetch a good price at market. I would be able to eat well for weeks". My stomach gurgled in agreement.
+> Shame rising up my face, I stared at a nearby clump of grass. "I... I just wanted that gemstone. It would fetch a good price at market. I would be able to eat well for weeks". My stomach gurgled in agreement.
 >
 > The Serpent nodded slightly, and curled the tip of Their gargantuan tail around the end of a long vine which dangled from Their chin. "I see. You seek your own sustenance at the expense of another's."
 >

@@ -5,6 +5,8 @@ tags:
 
 --8<-- "spoiler.md"
 
+--8<-- "postyav_spoiler.md"
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

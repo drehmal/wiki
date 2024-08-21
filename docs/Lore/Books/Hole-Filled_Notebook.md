@@ -3,12 +3,16 @@ tags:
   - Books
 ---
 
+--8<-- "spoiler.md"
+
+--8<-- "yav_spoiler.md"
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |26907  |79   |-167  |
 
-### Location/Summary:
+### Location:
 Hole-Filled Notebook can be found in a chest in [[Mt. Yavhlix]].
 
 ### Transcription:

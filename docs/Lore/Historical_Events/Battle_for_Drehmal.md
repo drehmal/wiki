@@ -4,6 +4,8 @@
 > - **Belligerents:** [Insohmic Coalition[Order of Insohm]] ([[Casain Empire]], [[Republic of Merijool]], [[United Townships of Dreh'Noha]], [[Kingdom of Dusps]], [[Gozaki Union]], [[Parochial Enclave of Firteid]], [[Kingdom of Highfall]], Insohmic Commonwealth) vs. [[Empire of Maelihs]]
 > - **Leaders:** [[Hovadchear Myrik]] (Insohmic Coalition, until Av3 847), [[Ultva Utofal]] (Insohmic Coalition, until unknown year, probably shortly after Av3 847), [[Vahid]] (Insohmic Coalition, after unknown year, mid/late 800s), Independent Leaders of Insohmic Countries (Insohmic Coalition), [[Maelihs]] (Empire of Maelihs), [[Burnt Generals]] (Empire of Maelihs)
 
+The Battle of Drehmal was a long war waged by the Order of Insohm against the Empire of Maelihs, with the goal of freeing the territories from Maelihs that he conquered in the [[Dune Wars]]. It resulted in a brief period of Insohmic subjugation of western [Drehmal[Drehmal (Place)]], before the lands were swiftly reacquired by Maelihs.
+
 ## Background
 
 Masters Ultva and Hovadchear, the founders of the Order of Insohm, were greatly inspired by the immense power and success of the [Avsohmic Empire[Empire of Avsohm]] in the Second Avihm. Their intention for the Order was to be an alliance of many countries participating in a unified struggle against the Empire of Maelihs in the West. Insohm paid a lot of effort to the research and recreation of Avsohmic technology, which the masters believed was the key to a successful war against Maelihs's forces. The early years of the Order were plagued with war and internal conflict. However, the alliance ultimately remained intact, and after a period of peace and preparation, the Coalition began their campaign in the West.

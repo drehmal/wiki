@@ -2,9 +2,11 @@
 
 # Advancements
 
-It is suggested to read the advancement descriptions as you obtain them in game. They may obtain extra lore, easter eggs, or coordinates and story progression.
+The Drehmal map adds many new advancements to the geme that indicate points of interest, game mechanics or story progression.
 
-Here is a list of the advancements and how to obtain them: 
+All advancements are sorted into these 4 categories: Drehmal, Discoveries, ???  Primordial and Lo'Dahr
+
+# List
 
 ??? warning "Spoiler: Civilization"
     |              **Achievement**              |                                                                        **Description**                                                                         |               **How-to**               |

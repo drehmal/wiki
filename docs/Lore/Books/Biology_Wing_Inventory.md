@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+--8<-- "spoiler.md"
+
 --8<-- "75_spoiler.md"
 
 ### Coordinates:
@@ -40,7 +42,7 @@ This book can be found on a lectern in the now-overgrown Hydroponics Lab section
 > -------------------
 > OVERVIEW:
 >
-> Ever since Avsohmic ships first touched down on the surface of the Divine Moon, biologists have obtained samples of the local flora and fauna. Although not all of the plants found on Lo'Dahr are compatable with soil from Drehmal, those which are compatable are maintained by the Aphelion Biology Wing for study by researchers in this facility. Right now, these include:
+> Ever since Avsohmic ships first touched down on the surface of the Divine Moon, biologists have obtained samples of the local flora and fauna. Although not all of the plants found on Lo'Dahr are compatible with soil from Drehmal, those which are compatible are maintained by the Aphelion Biology Wing for study by researchers in this facility. Right now, these include:
 >
 > "Khivan Roots"
 >

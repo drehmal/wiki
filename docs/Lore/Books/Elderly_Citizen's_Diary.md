@@ -9,7 +9,7 @@ tags:
 |-146  |89   |1482  |
 
 ### Location/Summary:
-This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, the [[Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband. The book serves as a likely first mention of the Aphelion to the player.
+This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, [[The Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband. 
 
 ### Transcription:
 > I reckon I maybe shouldn’t be writing about this, but Lil Tuhli and her soon-to-be sibling will be old enough someday to take some pride in their old grandma’s actions in service of the Empire!

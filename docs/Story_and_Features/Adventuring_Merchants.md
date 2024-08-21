@@ -1,19 +1,28 @@
----
-tags:
-  - "2.2"
----
+()
 
---8<-- "upcoming.md"
+# Adventuring Merchant
 
-**Adventuring Merchants** are a new feature coming with 2.2.
+Adventuring Merchants are special merchants, one of which can be found in each official [town/city[Settlements]] on [Drehmal[Drehmal (Place)]]. An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of Drehmal that displays all official towns on the continent (except for [[New Sahd]], a bundle and another special item that is unique to the merchant, and usually is associated with their area. There is also one instance of a "___ Merchant" on the map.
 
-They run shops inside the [settlements](/Settlements) and sell Artisans, which are special items, such as custom maps and runic-related items.
+In the lore, Adventuring Merchants lie under the protection of [[Green Serpent]].
+
+## Map of Drehmal
+
+## Adventuring Merchants
+
+| Location | Regional Map | Special Trade |
+|-|-|-|
+
+## Regional Maps
+
+| Region | Image |
+|-|-|
+
+## ___ Merchant
+
+There is one variant of the Adventuring Merchant called the "___" Merchant, which can be found in the ___ store in [[Naharja]].
 
 
-## [[Drabyel]] Adventuring Merchant
-![[adv_merch_drabyel.webp]]{ align=right width="300" }
 
-* Capital Valley map for 24 Scale
-* Map of Drehmal for 64x Scale and 1x Diamond
-* Runic Vessel for 32x Scale and 8x Runic Catalyst
-* Saddle for 12x Scale
+## Map of [[Lo'Dahr]] (75% SPOILERS)
+

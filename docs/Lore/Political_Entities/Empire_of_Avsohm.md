@@ -1,21 +1,15 @@
----
-tags:
-  - Lore
-  - Entities
-  - Faction
----
+()
 
 # Empire of Avsohm
 
 ![[AvsohmicEmpirecAv21800.webp]]{ align=right width="300" }
 
-> - **Type of government:** Empire
-> - **Head of State:** [[Emperors of Avsohm]]
-> - **Capital:** Ihted (1535-1600), [[Av'sal]] (1600-1820)
-> - **State religious body:** Emperor Worship (Primarily), regional beliefs
-> - **Date of establishment:** Av2 1535
-> - **Date of dissolution:** Av2 1820
-> - **Era(s):** Second Avihm
+> - **Duration:** (Unknown year, probably late Av2 1500s or early Av2 1600s) - Av2 1820
+> - **Location:** Central [Drehmal[Drehmal (Place)]], Western Drehmal (other than southwest), Islands of [Dawn[Island of Dawn]] and [Dusk[Island of Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood
+> - **Capital City:** [[Av'Sal]]
+> - **Form of Government:** Empire (ruled by an emperor and a senate)
+> - **Rulers:** [[Drehn Mal'Sohm]], [[Zorhis Ifeihl]], [[Uffhiel Anyr]]
+> - **Religion:** Worship of [[Drehmal]] (or [[Virtuo]], depending on region)
 
 The Empire of Avsohm was an immensely powerful state that stretched from [[Faehrcyle]] to [[Anyr'Nogur]]. Its main goal was to unite the continent of Drehmal, and prepare it for another Diety War. It was reformed from the [[Chosen Kingdom]], a strong Kingdom that ruled the [[Capital Valley|Central Plains]][^1]. Prior to Av2 1615, Avsohm had access to primarily medieval technology[^2]. After this time period however, Avsohm gained access to high potentia crystals, allowing them to rapidly increase technologically. They powered this technology using [[Av2 1813 - Uses of Primal Energy|Primal Energy]], tapped into at [[Mt. Yavhlix]][^3]. At their peak, their power was comparable to that of the gods. The [[Dune Wars]] marked the downfall of the Empire.
 

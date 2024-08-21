@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# AUDIO RECORDING: DIVE 006
 
 --8<-- "spoiler.md"
 
@@ -13,7 +14,7 @@ tags:
 |26935  |2   |-109  |
 
 ### Location/Summary:
-This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the sixth dive. It establishes that Tethlaen entered the Nothing for noble reasons, as he felt that he would only be able to hold the tear closed from the inside, protecting the realm of Drehmal.
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the sixth dive. It establishes that Tethlaen entered the Nothing of his own will, as he felt that he would only be able to hold the tear closed from the inside, protecting the realm of Drehmal.
 
 ### Transcription:
 \*U1 = User 1 (Orix)

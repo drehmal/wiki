@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# A Bridge to Prosperity?
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
@@ -9,7 +10,7 @@ tags:
 |2650  |113   |3930  |
 
 ### Location/Summary:
-This book can be found in a chest in the ruins of the town of Espinor, in the [[South Heartwood]], at the western end of the ruined bridge between that region and the [[The Black Jungle|Black Jungle]]. Within, a merchant hopes that this newly built bridge will help them become wealthy by trading with the [[Tidal Dynasty]].
+This book can be found in a chest in the ruins of the town of Espinor, in the [[South Heartwood]], at the western end of the ruined bridge between that region and the [[Black Jungle]]. Within, a merchant hopes that this newly built bridge will help them become wealthy by trading with the [[Tidal Dynasty]].
 
 ### Transcription:
 > To my surprise, the Avsohmic bridge didn't ruin Espinor after all. The Tidemari of Zovan haven't tried to take us over yet, and the amount of goods and capital flowing in might just make my wallet sing!

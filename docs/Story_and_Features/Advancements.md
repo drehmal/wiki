@@ -1,4 +1,4 @@
-()
+(25%, 50%, 75%, LATE-GAME SPOILERS FURTHER DOWN, END-GAME SPOILERS AT END)
 
 # Advancements
 

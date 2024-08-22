@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# The Daily Brunt: Fires, Fires, and More Fires!
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

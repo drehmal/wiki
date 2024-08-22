@@ -9,9 +9,9 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-!!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above." 
-
 # The Facets 
+
+!!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above." 
 
 The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials. 
 

@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# The Fifty-Seven Precepts of Zote
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

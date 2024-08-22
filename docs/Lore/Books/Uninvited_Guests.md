@@ -14,7 +14,7 @@ This book can be found on a lectern in [[Hevhlak]]. It contains a story told by 
 ### Transcription:
 > We Ro of Hevhlak are far from beloved by the Scalebound of Naharja, and we would rather die than bend a knee to an officer of Talon or Moonsworn. But we remain a pious people, and when Aspect faith thrives, Wingmakers are never far behind. We try to offer them hospitality when they come, but these are difficult times.
 >
-> So when party of three Wingmakers arrived in town yesterday afternoon, you could have cut the tension with a knife. Issah Soo and Mazak were common enough guests, clad in the bright colors of their order and armed with lute and clarinet. But the third was a rare sight indeed: Arjen Silvermoon, former consort to the Founder Froslea, and legendary storyteller.
+> So when a party of three Wingmakers arrived in town yesterday afternoon, you could have cut the tension with a knife. Issah Soo and Mazak were common enough guests, clad in the bright colors of their order and armed with lute and clarinet. But the third was a rare sight indeed: Arjen Silvermoon, former consort to the Founder Froslea, and legendary storyteller.
 >
 > Only Arjen’s eyes betrayed his age. He was wiry and far more agile than any of the villagers, except perhaps the children, whom he chased around until dusk in a chaotic game of Sheep and Dragons that left us elders frantically counting heads.
 >

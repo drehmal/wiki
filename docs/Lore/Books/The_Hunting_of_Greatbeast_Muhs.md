@@ -9,7 +9,7 @@ tags:
 |2273  |51   |2431  |
 
 ### Location/Summary:
-This book can be found in a chest in one of the buildings in [[Gozak]]. Across 27 in-game pages, this book tells the epic tale of the hunting of [Greatbeast Muhs|Muhs], the Aspect of Beasts, in Av2 1702.
+This book can be found in a chest in one of the buildings in [[Gozak]]. Across 27 in-game pages, this book tells the epic tale of the hunting of [Muhs|Greatbeast Muhs], the Aspect of Beasts, in Av2 1702.
 
 ### Transcription:
 > "Sire! I’ve found a trail!” shouted the Tracker, just returning from an hour-long search for tracks.

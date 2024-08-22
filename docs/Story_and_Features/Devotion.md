@@ -1,3 +1,5 @@
+(75% SPOILERS AT END)
+
 # Devotion
 
 Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called [relics[Relics]], as well as other rewards, by depositing specific items at specific altars. Each Major Aspect and deity has their own altar in a different location on the map.

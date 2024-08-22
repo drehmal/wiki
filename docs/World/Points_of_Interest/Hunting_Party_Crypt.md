@@ -13,7 +13,7 @@ The Hunting Party Crypt is the burial place of members of the Party, most notabl
 Its entrance is located in the North of the [[Capital Valley]] [region](/Regions), below a cliff.
 
 
-### Trivia
+## Trivia
 
 This place is an homage to the previous spawning point of the player (in 2.1 and before), being a perfect replica of it ant containing the [class boots](/Class_Boots) that were given to the player along with their class.
 

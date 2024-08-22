@@ -2,16 +2,16 @@
 tags:
   - Books
 ---
+# The Tri-Moon Theocracy
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-8  |73   |5300  |
-
-### Location/Summary:
 This book can be found in a chest in [[Mohta]], and contains a history of the [[Tri-Moon Theocracy]].
 
-### Transcription:
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -8   |  73   | 5300  |
+
+## Transcription
 > The Tri-Moon Theocracy was an ancient civilization that was founded before even the Avsohmic Empire rose to power, and were the source of several conflicts throughout Av2 1700.
 >
 > Not much is known about their early history, but it is known that in Av2 1383, Lunar Necromancers left the Chosen Kingdom because of the Kingdom's increasing hatred towards all things involving necromancy.

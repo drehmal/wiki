@@ -3,15 +3,14 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|980  |66   |-2844  |
-
-### Location/Summary:
 Located in the chest in a tent on the forested western coast of [[Faehrcyle]], just south of [[Schlonko]], this book describes a Drehmari's account of turning after being cursed by a necromancer in [[Lorahn'Kahl]].
 
-### Transcription:
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  980  |  66   | -2844 |
+
+## Transcription
 > Day 3,
 >
 > I do not know when the infection will take hold. My hand's turned a sickly green and begun to rot. I tremble at the sight of it. I never should have travelled to [[Lorahn'Kahl Region|Lorahn'Kahl]]. I should've stayed in [[Dusps]]. That necromancer cursed me with this... disease, turning me into an undead. I keep telling myself that I should have allowed myself to be executed back in Dusps but I couldn't let my children see that. I do not know if going out here into the wilderness was the better alternative, but... at least I don't have a risk of hurting others.

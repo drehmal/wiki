@@ -3,15 +3,18 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|26949  |98   |-153  |
+--8<-- "spoiler.md"
 
-### Location/Summary:
-Letter from Gohri can be found in a chest within [[Mt. Yavhlix]], written from [[Gohri Zed]] to [[Thresa Vera]].
+--8<-- "yav_spoiler.md"
 
-### Transcription:
+This book can be found in a chest within [[Mt. Yavhlix]], written from [[Gohri Zed]] to [[Thresa Vera]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26949 |  98   | -153  |
+
+## Transcription
 > Dear Thresa,
 >
 > My part of the plan is finished. Seeing as I am one of the few permitted to work on the code for avSYS, it was relatively easy compared to you and Vehmil's jobs. Luckily, they trust me enough here where they won't look over my journal or personal belongings. I suppose it's nice to work here then... especially over that hellhole you have to deal with in Yavhlix.

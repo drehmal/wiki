@@ -9,6 +9,7 @@ All advancements are sorted into these 4 categories: Drehmal, Discoveries, ???, 
 **Drehmal:** General and vanilla advancements.
 **Discoveries:** Advancements achieved by visiting significant locations.
 **???:** - Secret advancements, the ??? tab isn't revealed until one is obtained. They require advanced knowledge.
+**Fabled Equipment:** Gotten upon receiving [legendary[Legendary Items]] or [mythical[Mythical Weapons]] items.
 **Primordial:** Unlocked by completing tasks as part of the storyline.
 **Lo'Dahr:** Spoilers, see 75% spoiler list.
 

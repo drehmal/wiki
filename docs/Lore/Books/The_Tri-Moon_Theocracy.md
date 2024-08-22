@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# The Tri-Moon Theocracy
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

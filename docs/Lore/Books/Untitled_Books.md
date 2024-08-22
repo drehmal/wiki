@@ -2,12 +2,11 @@
 tags:
   - Books
 ---
+# Untitled Books
 
 --8<-- "spoiler.md"
 
-# Unnamed Books
-
-Unnamed books that are (at least somewhat) relevant to the world are contained within this page, along with given titles that describe their contents.
+Untitled books that are (at least somewhat) relevant to the world are contained within this page, along with given titles that describe their contents.
 
 ------------------------------------------------------------------------
 
@@ -75,19 +74,19 @@ The book can be found in the [[Faehrcyle]] region on a lectern under a white she
 ### Location/Summary:
 These four identical books can be found on lecterns in the [[Faehrcyle]] region, sitting on top of the ice and beneath a large quartz structure. Their text contains the words "symmetrysymmetry" repeated for 25 pages, followed by "asymmetryasymmetry" repeated for another 25 pages.
 
-------------------------------------------------------------------------
+***
 
 ## gaming
 
-### gaming:
+### where:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |2082  |111   |-809  |
 
-### Summary:
+### why:
 gaming
 
-### Transcription:
+### what:
 > gaming
 
 ***
@@ -157,14 +156,16 @@ This book can be found in a ship at the dock of the [[Kiln of Virtuo]].
 |-48 |106   |139  |
 
 ### Location/Summary:
-Hidden in a secret room on [[The Aphelion]]'s lower level that is inaccessible to a player in adventure mode, gaming 2 is the long-awaited sequel to gaming. Daring, bold, highly emotionally charged, and infinitely more ambitious than its highly-touted predecessor from the library of the great Painted City of [[Dusps]]. 
+Hidden in a secret room on [[The Aphelion]]'s lower level that is inaccessible to a player in adventure mode, gaming 2 is the long-awaited sequel to gaming. Daring, bold, highly emotionally charged, and infinitely more ambitious than its highly-touted predecessor from the library of the great Painted City of [[Dusps]], it asks its reader to step beyond contemporary understandings of literature and art, pushing the boundary in a way that very few others in history can claim to have even tried.
 
-The fullest extents of this text's meaning are not within the scope of this wiki, but it is sufficient to say that this book is among the most important, moving, and groundbreaking pieces of lore in the entirety of the Drehmal universe, if not the single most important. If anything could truly encapsulate the feeling of Apotheosis, summarizing this world not only through a thorough depiction of its rich story but also by communicating the emotions it intends to evoke as a work of art, it is this book.
+The fullest extents of this text's meaning and impact are not within the scope of this wiki, but it is sufficient to say that this book is among the most important, moving, and groundbreaking pieces of lore in the entirety of the Drehmal universe, if not the single most important. If anything could truly encapsulate the feeling of Apotheosis, summarizing this world not only through a thorough depiction of its rich story but also by communicating the emotions it intends to evoke as a work of art, it is this book.
 
 ### Transcription:
 > gaming 2
 
 ***
+
+--8<-- "spoiler.md"
 
 --8<-- "LD_spoiler.md"
 

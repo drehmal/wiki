@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# Tharhan: A Land of Conquest (Chapter 4)
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

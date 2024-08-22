@@ -3,9 +3,9 @@ tags:
   - Books
 ---
 
---8<-- “spoiler.md”
+--8<-- "spoiler.md"
 
---8<-- “LD_spoiler.md”
+--8<-- "LD_spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

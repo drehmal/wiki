@@ -68,7 +68,7 @@ This book can be found in a chest in [[Faehrcyle]]. In the form of an epic poem,
 >
 > Saw the Maelihs in the fool King's eyes.
 >
-> Falcon Clan told Avhsom "no"!
+> Falcon Clan told Avsohm "no"!
 >
 > And away that cowardly king did go
 >
@@ -142,7 +142,7 @@ This book can be found in a chest in [[Faehrcyle]]. In the form of an epic poem,
 >
 > If the clans joined him, they must suffice!
 >
-> Against Avhsom they would suffice!
+> Against Avsohm they would suffice!
 >
 > The seven clans, joined as one
 >

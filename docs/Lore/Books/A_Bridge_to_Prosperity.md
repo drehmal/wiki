@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+
 # A Bridge to Prosperity?
 
 ### Coordinates:

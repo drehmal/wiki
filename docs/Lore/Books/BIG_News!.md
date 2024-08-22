@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2136  |65   |3638  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2136 |  65   | 3638  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Tharxax City]], written by a traveler looking for some of the biggest features on the continent. The book compares the walls of [[Rhaveloth]] to the great wall of [[Maehrn'Vhos]], and ends with the goal of visiting [[Akhlo'Rohma]] to see the megaflora of the region.
 
-### Transcription:
+## Transcription
 > My name is Guhstav, and I like things BIG. Bigger is better, as far as I’m concerned, so I’ve traveled all over the land looking for the largest trees, mountains, buildings, infrastructure, you name it.
 >
 > I just came back from Rhaveloth, and I'd say that the walls there are definitely some of the biggest I’ve seen. Bigger than the ones around Fort Nimahj, certainly, although not as tall or detailed as Maehrn’Vhos.

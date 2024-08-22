@@ -5,15 +5,15 @@ tags:
 
 # What Lies Beyond the Veil?
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|0.5  |72   |5280.5  |
+## Coordinates
+| **X** | **Y** | **Z**  |
+| :---: | :---: | :----: |
+|  0.5  |  72   | 5280.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame in the center of [[Mohta]], containing a meditation on the nature of outer space in Drehmal, what lies beyond the Veil that prevents observation beyond the moons of the realm.
 
-### Transcription:
+## Transcription
 > Whether we wanted it or not, the culture and religious beliefs of Lorahn'Kahl's people has been influenced to revolve around Drehmal's outer bodies: Lorahn, Loruhn, Lo'Dahr, and the Torahn.
 >
 > Yet, the question is - what lies beyond? The veil that surrounds this realm. What is it, exactly? What are the stars that dot the night sky, why do they only appear at night? Why is it black? What lies beneath the realm?

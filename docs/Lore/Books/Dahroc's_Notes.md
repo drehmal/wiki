@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-4015  |60   |5941  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -4015 |  60   | 5941  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against the [[Order of Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
 
-### Transcription:
+## Transcription
 > Av3 678, 6th of Ohmamari
 >
 > Insohm's use of Avsohmic technology has us somewhat worried, but we believe that usage of the Mother will be able to repel them and render their lands uninhabitable. We now have her nested at the Birthing Grounds to prepare a small legion of Skullbeasts.

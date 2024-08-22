@@ -7,15 +7,15 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|15  |119   |150  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  15   |  119  |  150  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in Room B4 on [[The Aphelion]]. It contains an anecdote in which the author, a member of the Aphelion's crew, is summoned before Emperor [[Anyr]].
 
-### Transcription:
+## Transcription
 > I’m quickly learning that life aboard the Aphelion is never dull. Earlier today, we spotted the imperial palanquin making its way over to the landing bay! It was the first time since I was chosen to join the research team that Emperor Anyr has graced us with his presence.
 >
 > And what a presence it was. The whole crew gathered in the Emperor’s throne room and knelt on either side of the aisle, our foreheads touching the cold marble floor. Several minutes passed.

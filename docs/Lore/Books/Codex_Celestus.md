@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-963  |245   |-946  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -963  |  245  | -946  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern at the very top of [[Ihted Academy]]. The text found itself is deprecated at many points, but community efforts to reconstruct the document paint a nearly complete picture. This book, written by [[Khive]] themselves, offers perspective on some of the most secretive inner workings of the world of Drehmal, including their creation of divine magic and runic magic, their relation to some of the mortals and fellow Aspects of the realm, the nature of souls and potentia, and the likely destruction of the realm due to the tear at [[Mt. Yavhlix]].
 
-### Transcription:
+## Transcription
 > Our rea-m is vast, to be sure, but wh-- lies beyond? This is a questi-- for which n-ne should know the ans---. I have already failed at sa------ing it once, and --nnot afford to do so again.
 >
 > I have h-ard wh----s and caught glimpses -- --- --swer myself ---pite my parent's wishes. There may come a time when another's learning of them could save our re--- from de--ruction. After all, kn------- unknown is not tr-e ----ledge. It is ---haps h-bris, but I feel the ---ger of this kno----ge falling into unwor--y hands is very low unless t-- ---lm has al-eady itself --llen.

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1811  |42   |-4288  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1811  |  42   | -4288 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Faehrcyle]], just outside the door to [[Mt. Yavhlix]]. It describes the duty of the Yavhlix Gatewatch, whose orders are to immediately seal off the facility in the event of communication loss to prevent any potential catastrophe from escaping the mountain.
 
-### Transcription:
+## Transcription
 > We are that which maintains.
 >
 > We are that which waits.
@@ -36,13 +36,13 @@ This book can be found in a chest in [[Faehrcyle]], just outside the door to [[M
 > All costs.
 >
 > ----ANNIHILATION----
-> 
+>
 > -----PROTOCOL-----
 >
 > In the event of a COMPLETE COMMUNICATION LOSS (CCL), Gatewatch is to enact the Annihilation Protocol (AP). A CCL most likely means some catastrophe has struck. This is our ultimate defense.
-> 
+>
 > [1.] ENACT THE SEAL
-> 
+>
 > [2.] SEND FINAL TRANSMISSION
 >
 > [3.] TAKE UP ARMS

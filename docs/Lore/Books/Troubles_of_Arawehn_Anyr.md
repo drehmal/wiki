@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3447  |140   |2230  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3447 |  140  | 2230  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in the pyramid at [[Sal'Anyr]]. It is written by a sibling of future Emperor [[Anyr]] shortly after their house was assigned control of the [[Anyr'Nogur]] region. The locals, descended from [[Casains|Casai]] who worship [[Voynahla]], hold a significant distaste for their new Avsohmic superiors, and so Arawehn decides to rename the city to Sal'Anyr and convert the pyramid to the Anyr family mausoleum to encourage assimilation.
 
-### Transcription:
+## Transcription
 > The reception to our noble House taking command in this city has been… muted at best. At worst, it has been downright hostile! I swear, those northerners stare daggers at our backs whenever we turn to leave. If looks could kill, we would have been dead the moment we arrived.
 >
 > No wonder they are so grim- Sal'Iloh (or Azen'nath as the locals call it) is nothing but a monument to death! From shrines in every home to the great pyramidal Nathus in its core, the Casain make their devotion to Voynahla quite clear. It all sends a chill down my spine.

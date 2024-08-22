@@ -5,15 +5,15 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1525  |141   |-1979  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1525  |  141  | -1979 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Ancehl Castle]]. Its text gives an overview of the study of alchemy. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
 
-### Transcription:
+## Transcription
 > Alchemy is the study of truth. While arcanists conquer the land and artificers seek to fill their own pockets, alchemists pursue wisdom and the betterment of their souls.
 >
 > What nobler pursuit exists than that of understanding? It is to discover what the purpose is of our existence so that we all can fulfill that purpose.

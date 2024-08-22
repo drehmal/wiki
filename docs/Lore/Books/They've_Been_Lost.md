@@ -7,15 +7,15 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|26894  |85   |-128  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26894 |  85   | -128  |
 
-### Location/Summary:
+## Location/Summary
 They've Been Lost can be found in a chest in [[Mt. Yavhlix]]. It describes the corruption of one of the workers at the [[Primary Collection Facility]], Theru, being corrupted by forces beyond her control.
 
-### Transcription:
+## Transcription
 > Theru's been taken. I don't know by what, but her mind is no longer present. It's clear that she has some purpose, but... not her own. Her eyes glow a faint yellow now. She tried to kill me, so they threw her down the pit. She managed to crawl back up, half alive, legs broken, and to the portal.
 >
 > Then she just stood there.

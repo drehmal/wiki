@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|6365  |100   |-3002  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6365  |  100  | -3002 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern, in a building on an island off the east coast of the [[Frozen Bite]]. Over 33 in-game pages, it provides a (not-so-brief) overview of the history of art in the Avsohmic Empire, including the different movements influenced by different rulers, as well as discussing multiple different mediums.
 
-### Transcription:
+## Transcription
 > The Avsohmic Empire is notable for many reasons, but industrial and alchemical feats such as the Miracle of Avsohm often overshadow the creative and visual arts. Avsohmic art changed significantly throughout the hundreds of years of its existence.
 > No polity before or since saw such a massive diversity of style and medium.
 >
@@ -45,5 +45,5 @@ This book can be found on a lectern, in a building on an island off the east coa
 >
 > I would like to thank my benefactor, the Green Serpent Trade Guild, for sponsoring this work. Due to the Empire's sudden and absolute collapse, the arts have never been explored to such a degree again, and we as a species are poorer for it.
 
-### Trivia:
+## Trivia
 The discussed painting of Drehmal the Realmbinder before the burnt Primal Tree appears to be the very same portrait of Drehmal available for purchase in real life on the Merch page of the website: [Portrait of Drehmal Poster](https://www.drehmal.net/product-page/portrait-of-drehmal)

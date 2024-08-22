@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-435  |104   |1626  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -435  |  104  | 1626  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in a ruined house in southwestern [[Av'Sal]], just north of the large statue. WIthin, a parent wonders how they will explain to their daughter why Avsohm is so great, and ultimately settles on the efforts of founder [[Drehn Mal'Sohm]] as the primary reason for their patriotism.
 
-### Transcription:
+## Transcription
 > Yesterday, my daughter approached me and asked me why Avsohm is really as great as I say it is. Like many young ladies of her age, she is chafing at the boundaries that society (and especially her parents) have set for her.
 >
 > It made me stop and think. I had grown so accustomed to reciting “Hail to Avsohm” to anyone I met that I had not thought about the foundations for my patriotism in many long years.

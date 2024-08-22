@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2896  |74   |1265  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2896  |  74   | 1265  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Helmshire]]. It describes a series of disappearances that fractured the community, resulting in about half of the village choosing to leave for a supposed sanctuary to the north.
 
-### Transcription:
+## Transcription
 > I suppose in retrospect it really shouldn’t have been such a shock when half of Helmshire up and left, but it still doesn’t sit right with me how things went down.
 >
 > Times weren’t good, to be sure. Ever since the Second Order fell and that blasted one-eyed fox left for who-knows-where, our poor town has had to fend for itself, without so much as a single visit from our “rulers” in Mossfield. And visits were certainly necessary with over ten children going missing.

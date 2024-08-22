@@ -5,15 +5,15 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 2)
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2109  |115   |3578  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2109 |  115  | 3578  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the Lord Magister's Residence atop [[Tharxax City]]. It is the second of four books in the "Tharhan: A Land of Conquest" series, and focuses on the emergence of the Six Tharhan Kingdoms in early Av2, including their wars with the [[Casain Empire]].
 
-### Transcription:
+## Transcription
 > From its inception, Caer Adacia was not like its predecessor. Rather than being ruled by kings, the City of Shadow was matrilineal and controlled largely by a powerful line of queens. With a carefully controlled population fed by fungi cultivation, the Drehmari of Caer Adacia had no need to leave the safety of their home. Indeed, fearing retaliation from more powerful neighbors, the queens allowed very few to leave.
 >
 > And yet, the young are often restless, and thus some is known about what occurred above the ground. When supplemented by other relics from the period, we have a reasonably clear picture. Six feuding Tharhan states emerged from the wreck of the first empire. Dehar thrived in Ebonfire. Salahnar continued occupying the southern lowlands alongside the Mael-worshipping Erxsival. Mighty Nimahj grew powerful in the northern highlands alongside Loraga. And Avakea, kingdom of the canyon oases, thrived as a center of mineral wealth in modern day Anyr'Nogur.

@@ -8,15 +8,15 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|26897  |77   |-39  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26897 |  77   |  -39  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a shulker box in the [[Resonant Halls]]. It describes the process of establishing contact with [[Tethlaen]] through the Resonant Eye, as written by [[Orix Cehein]].
 
-### Transcription:
+## Transcription
 > Activity Log- Project Panopticon
 >
 > CONFIDENTIAL BY ORDER OF EMPEROR ANYR

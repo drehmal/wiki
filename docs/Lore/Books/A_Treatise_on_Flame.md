@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|186  |116   |-816  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  186  |  116  | -816  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in a house in southwestern [[Naharja]]. It discusses the five known types of flame: regular, chaotic flame claimed by [[Maelihs]], [[Virtuo]]'s Orderflame, [[Lai]]'s Sacred Flame, [[Lailoehn]]'s powerful flame, and a unique kind of flame from a noble pyromancer family in [[Lai's Domain]].
 
-### Transcription:
+## Transcription
 > There are five flames known by the learned scholars. The lowly and chaotic flame, claimed by Maelihs, is the easiest to create, requiring no more than a flint and steel. Many Maelmari rebuke this flame, flocking to the Sacred Flame. Maelihs, to his credit, is not a jealous god, and accepts worship of Lai. Many ignorant Drehmari are shocked by the knowledge that the brutish Maelmari could worship the same Aspects they do, but it is as common as it is in our civilized society.
 >
 > Then, there is the Orderflame of Virtuo. This was developed by the Goddess as a means to light the rooms of her Kiln, as the chaotic fire of Mael was unfit for the edifice. It burns with a cool blue radiance, barely marking the surface it burns upon. Its light is dimmer than most, but all accounts show that it burns ceaselessly once lit.

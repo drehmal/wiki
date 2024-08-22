@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4517  |148   |5576  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4517  |  148  | 5576  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Morah]]. It describes a resident of Morah's decision to finally leave the village and pursue The Path, becoming a religious pilgrim in old age.
 
-### Transcription:
+## Transcription
 > I started to wonder whether it would ever happen. Only a couple years, I'd thought, living here in Morah, and then I'd be away.
 >
 > But months flew by, and years turned into decades. I met Karve. The kids came and left beyond the Arc. Karve followed. For two months I grieved.

@@ -5,15 +5,15 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 4)
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1688  |69   |3885  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1688 |  69   | 3885  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Semehol]]. It is the last of four books in the "Tharhan: A Land of Conquest" series, and focuses on the Tharhan experience under [[Avsohmic|Empire of Avsohm]] rule, up through the fall of Avsohm. It also establishes that this book series was written during the time of the [[Order of Insohm]], ending on the hope that Insohm can liberate the Tharhan Plains.
 
-### Transcription:
+## Transcription
 > Therefore, it was largely through a series of surrenders and alliances that Avsohm subdued the West. Caer Adacia was retained as a regional locus of command, but never again would an Empress hold absolute authority over the plains.
 >
 > Life under Avsohmic rule brought many changes for the Tharhan Drehmari. The former provinces of Erxsival and Salahnar were ironically reunited with the long-lost Tharhan lands of Anyr'Nogur under the rule of House Anyr at Sal'Anyr (formerly the Casain metropolis of Azen'nath). Meanwhile, Loraga was subsumed into Nimahj, where House Silar ruled Nimahj Citadel. Finally, Dahar and the Veldt were ruled by House Vera at Caer Adacia.

@@ -7,15 +7,15 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3230  |89   |-629  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3230  |  89   | -629  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Azimuth Labs]]. Written by [[Vohski Ottis]], it provides an account of a [[Red Dawn]] project that attempted to create an experimental anti-aging treatment, and ended in the death of a volunteer.
 
-### Transcription:
+## Transcription
 > Project Moonstrider: CONFIDENTIAL
 >
 > Overseen by Dr. Vohski Ottis
@@ -55,7 +55,7 @@ This book can be found in a chest in [[Azimuth Labs]]. Written by [[Vohski Ottis
 > Seeds crushed and injected into the blood stream
 >
 > Results:
-> 
+>
 > 8 experienced euphoria, dry mouths, and drowsiness for 5 to 6 hours post injection
 >
 > 5 experienced delusion, drowsiness, and itchiness for 5 to 6 hours post injection

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3668  |48   |1994  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3668 |  48   | 1994  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the Temple of [[Dahroehl]] in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
 
-### Transcription:
+## Transcription
 > Dahroehl, Water Wyrm
 >
 > How splendidly your scales must shine!

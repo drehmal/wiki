@@ -8,15 +8,15 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|26940  |58   |16  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26940 |  58   |  16   |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the 27th attempted dive. At this point, the two appear to have developed a strong rapport, and Tethlaen informs Orix that if at some point he is no longer able to hold the tear closed, primal energy will leak from the Nothing into Drehmal, causing the inevitable destruction of the realm.
 
-### Transcription:
+## Transcription
 \ *U1 = User 1 (Orix)
 
 \*AR = Audio Receptor (Tethlaen)

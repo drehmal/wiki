@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1275  |47   |-4063  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1275 |  47   | -4063 |
 
-### Location:
+## Location
 This book can be found on a lectern in the ruins of [[Xor'Huul]].
 
-### Transcription:
+## Transcription
 > Zarhe Uhd Aesreh...
 >
 > Vistreh Elh Dohr...

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1267  |49   |478 |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1267 |  49   |  478  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Caer Adacia]]. Written by [[Thresa Vera]], it recounts the majority of her life up to her early adulthood over the course of 46 in-game pages, from her origins as a noblewoman to her time at the university of [[Av'Sal]]. Particular focus is given to her friendship with [[Baen Vehmil]] and [[Gohri Zed]], eventually forming a romantic relationship with the latter.
 
-### Transcription:
+## Transcription
 > Before my father made me the sole ruler of one of the five wealthiest houses in all the former Chosen Kingdom, I was a relatively happy child. With him away and my mother dead, I was raised mostly by the sweet servants at our manor home. I loved to roam the gardens to find flowers for my tutor’s hair, or to learn about the history of Avsohm from the cantankerous gardener. Sometimes, I would even pretend to be Drehn Mal’Sohm, roaming the grounds while `single-handedly dispatching hordes of “Frostfang barbarians”.
 >
 > But then I turned twelve years old and everything changed. My father renounced his title as Lord of Vera and thrust it onto me. While Thresa the girl could dream about being a florist or a drone operator, Lady Thresa Vera was expected to attend functions, and practice politics, and start looking for a suitable partner. My father, who did nothing but drink, hunt, and play games in his free time, pressured me to be the leader he could not be. Today, I know that he was cruel and selfish. But back then, I did everything I could to be a woman he could rely on.

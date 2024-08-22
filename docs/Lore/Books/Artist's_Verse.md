@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|809  |116   |672  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  809  |  116  |  672  |
 
-### Location:
-This book can be found on a lectern, on an isolated floating island in the northern portion of [[Rihelma's Domain]]. 
+## Location
+This book can be found on a lectern, on an isolated floating island in the northern portion of [[Rihelma's Domain]].
 
-### Transcription:
+## Transcription
 > I gape, aghast, at events cruel,
 >
 > a family torn apart.

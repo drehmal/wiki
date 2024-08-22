@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4365  |109   |1614  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4365  |  109  | 1614  |
 
-### Location:
-This book can be found on a lectern in the ruins of Old Mossfield. 
+## Location
+This book can be found on a lectern in the ruins of Old Mossfield.
 
-### Transcription:
+## Transcription
 > Sacred fire, burning bright,
 >
 > Turn the darkness into light!

@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|507  |78   |-1377  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  507  |  78   | -1377 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Lopaja Town]]. It is an attempt to simply explain the concept of resonance, and in doing so, explain what the duty of the Aspect of Resonance, [[Lahrs]], is.
 
-### Transcription:
+## Transcription
 > It sometimes absolutely dazzles my gourd, but there are living Tehrmari on this very moon who cannot even comprehend the domain of Lahrs.
 >
 > He’s the Aspect of Resonance, man! How hard can that be? But I hear everything from “Aspect of Growth” to "Aspect of Cycles” to “Aspect of Mushrooms”. And even cats who do know the name of his domain don’t know what resonance is!

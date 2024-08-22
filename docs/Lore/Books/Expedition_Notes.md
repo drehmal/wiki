@@ -3,17 +3,17 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|5097  |75   |-2396  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5097  |  75   | -2396 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in a gatehouse on the road from [[Highfall Tundra]] to [[Faehrcyle]]. It is written by the [[Mihkmari]] inhabitants of the gatehouse, who were preparing to venture west into Faehrcyle in search of treasure.
 
-### Transcription:
+## Transcription
 > Day 16
-> 
+>
 > We found this old gatehouse which I assume was for keeping Frozen Bite barbarians out of Highfall. But if they are more barbarous than the people of Highfall, this thing won't last. Still, it will be a good resting point before we continue our travels.
 > ***
 > Day 20

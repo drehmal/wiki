@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-483  |74   |-1955  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -483  |  74   | -1955 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a lectern in a room at the bottom of the [[I.C.S. Arbiter]]. It tells the story of how [[Vahid]] came to become the head of the [[Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
 
-### Transcription:
+## Transcription
 > It was not too long ago that this cramped room housed one of the greatest leaders in world history. He isn't thought kindly of now, but Master Vahid really did save Insohm aboard this very ship.
 >
 > Highfall was first to complain, as always. The blasted Northerners threatened to pull their troops out of the west altogether, lambasting our "excessive" war spending. Dusps wasn't far behind, spreading rumors to any who would listen that it would also pull out to form a new alliance with Highfall. Things were dire. But the flow of history was to change. A fateful meeting occurred aboard the ICS Arbiter. A meeting that I myself witnessed as the Grand Council's stenographer. Vahid was just a territorial liaison to the Parochial Enclave of Firteid back then, and hardly ever spoke when not directly called upon. I was aware that he was a Virmari, and a Grand Pontiff of something or another, but his standing in the room felt closer to mine than to that of the Members of Council.

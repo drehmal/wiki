@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3737  |141   |3498  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3737  |  141  | 3498  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]] operated.
 
-### Transcription:
+## Transcription
 > Precepts of the Tidal Dynasty:
 >
 > 1. Mind the tides. Take territory when the ocean falls away, and reinforce what you have when it rises again.

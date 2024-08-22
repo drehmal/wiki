@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1566  |71   |-438  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1566 |  71   | -438  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at the [[Okeke]] inn. Its author is a practitioner of both arcanism and alchemy, and helps to explain the difference while asserting their personal preferences between the arts.
 
-### Transcription:
+## Transcription
 > I am an arcanist, yet I have pursued and studied the field of alchemy. While I am an arcanist, I still consider myself an alchemist. In many alchemical societies, this would be considered unacceptable. As an alchemist you undergo an immensely spiritual journey, you pledge an oath, adopt a creed, and adhere your practice to the rules defined by your society. On the other hand, anyone can be an arcanist. Simply by scribbling runes onto yourself or a catalyst, one can achieve immense power with little training. This is the major difference between alchemy and arcanism.
 >
 > If the ideologies of alchemy did not exist, it would be considered a school of arcanism known as ‘biomancy’, which I have studied rather extensively. Alchemy is merely the usage of arcanic concepts to manipulate life and organic material. Every other arcane school interacts with fundamental forces and energies like fire, air, light, water, and energy. Alchemy strictly interacts with the living, and as the living are infinitely more complex than the fundamental, alchemy is also infinitely more complex. Due to this fact, alchemists insist on biomancy being considered a field completely separate from standard arcanism due to how different its fundamentals and practices are. Although it is fundamentally linked to arcanism and the energy flow controlling runes gifted to us by Mystic Elder Khive, if you were to call an alchemist an arcanist you would quite possibly find yourself horribly disfigured and begging for mercy. Most alchemical societies come with the prerequisite that you abandon schools of arcanism you may have previously found yourself a part of, and fully devote your mind and body to the art of biomancy. There are exceptions to this rule, most notably being the Red Dawn Society, which fully accepted the link between alchemy and arcanism, encouraging its members to pursue both fields.

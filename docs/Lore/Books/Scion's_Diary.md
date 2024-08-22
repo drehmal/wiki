@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-479  |40   |203  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -479  |  40   |  203  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at the eastern extent of the swamp in [[Dahr's Domain]]. Written by a royal heir of a clan worshipping [[Lailoehn]] seeking tutorship from a rumored pyromancer somewhere in the swamp, it describes the author's experience convincing this mysterious [[Drehmari]] pyromancer to mentor them.
 
-### Transcription:
+## Transcription
 > Entry 1:
 > I've been lost in this aspect-damned swamp for nearly three days now. I'm almost certain I'm going in circles. All this for some shoddy swamp hermit. Father says she's some kind of pyromantic prodigy, but that must be a load of bollocks. Lailoehn only blesses members of our clan.
 >
@@ -43,7 +43,7 @@ This book can be found in a chest at the eastern extent of the swamp in [[Dahr's
 >
 > Entry 8:
 > Lessons are brief and infrequent, but are nonetheless illuminating. Her flame is unlike any I've seen before; not the roaring inferno of Lailoehn, nor the chromatic Sacred Flame of Lai - it is something entirely unique to her, surgical and precise.
-> 
+>
 > It may seem ridiculous to call a witch that can make fireballs the size of trees precise, but no other word does her justice. It reminds me of a finely honed blade, of an anvil strike, of the ticking clock in tune with the entire realm. It fills me with awe and fear. Just who is this master pyromancer?
 >
 > Entry 9:
@@ -56,5 +56,5 @@ This book can be found in a chest at the eastern extent of the swamp in [[Dahr's
 >
 > She never even told me her name.
 
-### Trivia:
+## Trivia
 The Drehmari pyromancer referenced in this book cannot be found in-game. She is based on an OC named Nemeta by Drehmal developer Tetrahedron.

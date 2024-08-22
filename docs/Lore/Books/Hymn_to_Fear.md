@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|949  |144   |482  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  949  |  144  |  482  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern on a floating island in the northern portion of [[Rihelma's Domain]]. It is a hymn to [[Tethlaen]], Aspect of Fear.
 
-### Transcription:
+## Transcription
 > Long-departed, but never gone
 >
 > Our darkest night and brightest dawn

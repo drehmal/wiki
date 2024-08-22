@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3145  |153   |762  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3145  |  153  |  762  |
 
-### Location/Summary:
-This book can be found in a chest at a church in western [[Spearhead Forest]]. 
+## Location/Summary
+This book can be found in a chest at a church in western [[Spearhead Forest]].
 
-### Transcription:
+## Transcription
 > I am sure of it! I heard footsteps! Why can I not see those intruders, for whoever's sake!
 >
 > I am stuck in here, in a endless cycle of fear and silence. One day, the intruders will barge in this place and cut me throat, and end my life. I cannot let this happen.

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2733  |125   |-1979  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2733  |  125  | -1979 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the ruins of Azaim, in northern [[Akhlo'Rohma]]. It describes the night of Avsohm's fall, and concludes that a simple life which does not invite unwanted forces is the best way to live.
 
-### Transcription:
+## Transcription
 > The sky was strange on that fateful night.
 >
 > I stood on my stoop and saw the stars

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-719  |71   |4605  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -719  |  71   | 4605  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern within the ruins of [[Eloa]]. A letter written from sibling to sibling, it informs Serosin, the sister living in Eloa, of her father's death. The letter states that he was found disheveled and emaciated in the middle of the road, and refused to eat anything for fear of poison, dying of starvation back home at [[Mossfield]]. This is likely connected to the [[Skeveraan Laboratory]].
 
-### Transcription:
+## Transcription
 > Dear Serosin,
 >
 > This is Enirick. Please make sure you are seated. I love you very much. This letter is difficult for me to write, and it will be even harder to read.

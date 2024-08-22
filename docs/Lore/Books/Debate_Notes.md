@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-252  |68   |1872  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -252  |  68   | 1872  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in southern [[Av'Sal]]. It contains a reflection on a debate between four Drehmari (likely children) about religion, in which the author comes to believe that [[Anyr]] may possess a fragment of the spirit of [[Drehmal]] due to his perceived ability to cover great distances nearly instantly (very likely by utilizing the [[Terminus]]).
 
-### Transcription:
+## Transcription
 > Cehra, Loam, Vehal and I were having one of our Rahlar Debate Clubs when the topic of religion came up, as usual. Loam spoke about the incredible beauty of Virtuo and her commitment to making the realm a safer and more peaceful place for all, arguing that her goals were the same as those of Avsohm.
 >
 > Cehra offered a snide remark about the real reasons for Loam’s devotion to the Lady of the Mirror, and then predictably began her diatribe against divinity in any form. If Aspects and Deities really created the world and were made to serve Drehmari, then why did they war and kill one another? Why do so many still suffer? Why did Drehmal abandon us?

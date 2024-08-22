@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2744  |81   |-389  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2744  |  81   | -389  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in an abandoned Tehrmian village in northeastern [[Purity Peaks]]/southeastern [[Akhlo'Rohma]]. It provides some insight on the history of the Purity Peaks/Tehrmia region, reminiscing over days when the [[Tehrmari]] presence on the continent was much stronger.
 
-### Transcription:
+## Transcription
 > It's hard not to get a little misty-eyed when you see the state of this place. The roofs are all falling in on themselves, the shrines are dusty and cracking, and there is no sign of laughter here anymore.
 >
 > The Tehrmari once had a much larger presence here in the region now called “Purity Peaks”. We would descend from the mountain temple when the sky was right, and spend a year among the Drehmari doing the will of the Aspects. Serving Drehmal was a huge part of everyone’s life, and it was a requirement upon Ascension.

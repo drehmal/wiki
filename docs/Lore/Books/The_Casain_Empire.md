@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2725  |54   |-1826  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2725 |  54   | -1826 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Athrah]] library, and tells a detailed history of the Casain Empire.
 
-### Transcription:
+## Transcription
 > The city of Athrah was founded sometime around Av2 1189 along the northern edges of the Redsteps. It was centered around the northern shores of Lake Athrah. A fierce warrior from the Zarha tribe of Southern Casai, Athrah Zarha, envisioned a grand kingdom that spanned across the Casain peninsula. The city of Athrah was the first step towards that goal.
 >
 > The next phase came as tribes that were not a part of Athrah's growing kingdom were denied trade with the kingdom unless they swore fealty. After a series of skirmishes and negotiations, the Casain Empire was finally born in Av2 1255. Unfortunately, Athrah Zarha did not live to see the coronation of the first Emperor, as he perished on the final day of battle against the last resisting northern tribe.

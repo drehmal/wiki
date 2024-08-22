@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-948  |132   |-1018  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -948  |  132  | -1018 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Ihted Academy]]. Written by a [[Blue Exodus]] soldier (possibly [[Orix Cehein]]) recruited to fight in the [[Divine Schism]], it shows that General Kahmas was one of the very few [[Drehmari]] to become truly respected by the inhabitants of [[Lo'Dahr]].
 
-### Transcription:
+## Transcription
 > We're leading the charge to free Sereven from the Palaesidans. Kahmas and I were conscripted through a friend of ours with connection to Brightwyrm Lai up in Faehrcyle, and now Kahmas has been truly cutting his teeth in this combat of deific drakes.
 >
 > We took a leave of absence from Blue Exodus together in order to participate in the combat here, especially with what the Aspects' representatives were paying. We're essentially making a full three years' worth of Blue Exodus wages in this one campaign at our rank.

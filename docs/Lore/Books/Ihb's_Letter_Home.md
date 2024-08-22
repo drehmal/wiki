@@ -3,19 +3,19 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1807  |108   |3311  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1807  |  108  | 3311  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. It is written by [[Devro Ihb]] to the people of his hometown, after his books describing his travels have made him a famous figure among the children of the town in particular.
 
-### Transcription:
+## Transcription
 > Children of Kazanni!
 >
 > Though salty brine is never seen
-> 
+>
 > Relish in your sea of green!
 >
 > I write to you from far, far away. I was rounding the Island of Dawn on the way home when I ran into my publisher, Soli. She had been searching far and wide to find me and my latest writings and was as heated as a tiger shark. But when the seas finally calmed aboard the Surly Duchess, she told me quite the tale!

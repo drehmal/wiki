@@ -6,15 +6,15 @@ tags:
 
 # Getting Warmer?
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1428.5  |85   |-1639.5  |
+## Coordinates
+|  **X**  | **Y** |  **Z**  |
+| :-----: | :---: | :-----: |
+| -1428.5 |  85   | -1639.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[Merijool]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Lai]].
 
-### Transcription:
+## Transcription
 > Kind Traveler,
 >
 > Though this sacred flame once burned longer and brighter than any other, it has sadly been extinguished.

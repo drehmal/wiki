@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-174  |69   |1915 |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -174  |  69   | 1915  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in southern [[Av'Sal]]. It contains a child's account of their father being promoted to a new, higher-ranking job within the Avsohmic government, but consequently not being able to return home until the day of the empire's fall.
 
-### Transcription:
+## Transcription
 > 3rd of Ohmamari:
 > Dad got a new job with the government today. He and Mom looked happy. I know he was trying to get this job for a while. Mom says he will be gone more now, which makes me sad. Before he left, he gave me this diary as a gift! He says that he will read it when he gets back from work.
 >

@@ -7,15 +7,15 @@ tags:
 
 --8<-- "25_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2447.5  |132   |1128.5  |
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 2447.5 |  132  | 1128.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame in [[Sal'Mevir]]. It details a discovery that leads to the [[DoS]] taking over Sal'Mevir and the creation of the Temporal Engine.
 
-### Transcription:
+## Transcription
 > ENTRY ONE: I've discovered a strange effect that corresponds to a certain class of runes, those which transmute materials. It seems that for the briefest of moments, the affected object takes on the appearance of its future version before actually physically transforming. Curious.
 >
 > ENTRY TWO: When I mentioned the glitch to her on a routine visit, CSO Thresa's eyes lit up, and she immediately called over Senior Researcher Vehmil. I cannot say I am terribly pleased about my work station being taken over, but Vehmil seemed so excited that I felt compelled to let him take my place. I hope I will get a cut of any profit that comes from MY discovery!

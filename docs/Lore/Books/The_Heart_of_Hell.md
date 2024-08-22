@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1724  |161   |1901  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1724 |  161  | 1901  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depiction of the domain of [[Maelihs]] in the far southwest of the continent: The [[Hellcrags]].
 
-### Transcription:
+## Transcription
 > Heed my words,
 > for I speak of truths unknown.
 >
@@ -20,7 +20,7 @@ This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depicti
 >
 > Listen closely,
 > lest you be consumed by ignorance.
-> 
+>
 > Throne of Maelihs!
 > The Burnt Palace!
 >

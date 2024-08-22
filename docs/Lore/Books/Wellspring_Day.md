@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3997  |82   |3449  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3997  |  82   | 3449  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Firteid]] library. It describes the regional holiday of Wellspring Day, from the traditional rituals performed on the day to the performances, foods, and cultural exchanges that came to be added to its festivities.
 
-### Transcription:
+## Transcription
 > When Lorahn begins to glow blue, the intensely pungent and spicy aroma of kehma begins flowing through the wide avenues of Firteid and Vulteid. Wellspring Day has come again!
 >
 > Among the very oldest and most revered traditions of the Southeast, Wellspring Day seems to have originated from an early command made by the Lady of the Mirror Herself during the Deity War. Legend has it that Virtuo looked out at Maelihs’s atrocities and noticed the precariousness of Drehmari. So many were infected by plagues, converted into mindless Maelmari, or made into pawns by bribery. Although Her Virmari could help them stave off these ailments, She knew that creating too many would increase the likelihood of weaker initiates betraying her or abandoning her faith. Wellspring Day was one way to ensure that Drehmari came to Her.

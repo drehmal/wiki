@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-589  |107   |4671  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -589  |  107  | 4671  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in a manor on the outskirts of [[Eloa]], containing one last message from the noblewoman who last inhabited the manor. She and her family fled Eloa after [[Maelmari]] forces began to re-assert control over the area, and leaves the hall and the [[Sharksbane]] artifact to whoever finds this book.
 
-### Transcription:
+## Transcription
 > Dear Stranger,
 >
 > We're penniless and destitute. All the people of Eloa are gone, moved to Mohta, Tharxax, and who knows where else. Grandfather assured us that Maelihs would never return after Master Vahid's victory in the Carmine. Finally, the House of Ayre would be free to fly its Tahvan banners of nobility, while Eloa would again be able to ship out yellowroot across all the ports of the East.

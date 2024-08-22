@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-192  |39   |-1598  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -192  |  39   | -1598 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in western [[Ytaj]]. It is a biography of Oriann, a [[Tehrmari]] woman who was the only known person to truly befriend the Sky Aspect [[Rihelma]], and was known for riding Rihelma in battle during the [[Divine Schism]].
 
-### Transcription:
+## Transcription
 > Ya’Kruul of the True Way. Commander Sereven. Amohn Aihura. Cehris Stonebreaker. Aside from being dead, these heroes of the Divine Schism all share another thing in common: being La’Tehrmari.
 >
 > But there was one other warrior who stood among them who never set foot on Drehmal- the Queen of the Infinite Sky, Dragon Rider Oriann. Born in the floating town of Rihanar to Zellos and Serinn of the Coven of Breeders, young Oriann grew up around phoenixes and obtained their trust from a young age. As Oriann grew into adulthood, she developed a passion for the written and spoken word. Enchanted by the savage beauty and transience of the phoenix, she saw parallels between their brief but powerful fire and the mortality of the Ro'Tehrmari. As a result, she became a staunch devotee of Voynalah, Rihalae, and Rihelma before attaining the age of twenty.

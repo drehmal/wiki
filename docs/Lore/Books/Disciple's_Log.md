@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2249.5  |7   |5583.5  |
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -2249.5 |   7   | 5583.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame, at the bottom of a deep cavern in the [[Birthing Grounds]], and describes an obsessive disciple's arrival at the site, as well as an attempted ritual to summon a Bonechild. This disciple can be inferred to be [[Ossein]].
 
-### Transcription:
+## Transcription
 > Day 1: Arrival
 >
 > I had only heard whispers about this place, but it seems that they have not led me astray! Some would be satisfied by books or the remarkably well preserved specimens in Lorahn'Kahl or the Black Jungle, but I know that my Kiln was here: The Birthing Grounds. This is likely where all the Bonechildren were born, crawling out from these reeking holes to wreak beautiful destruction. Oh how I wish I could have been there as Father and our village were disemboweled by glistening bones just like these. The stench is so... wonderful.

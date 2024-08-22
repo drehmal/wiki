@@ -7,15 +7,15 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2743  |29   |2150  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2743 |  29   | 2150  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a shulker box in the [[Exodus Vault]]. It contains some facts and some speculation on how the Resonant Eye functions from Kovis, a [[Blue Exodus]] staffer.
 
-### Transcription:
+## Transcription
 > Here at Blue Exodus, our technology is second to none.
 >
 > Well, perhaps second to the main Avsohmic Department of Science. Our funding might eclipse theirs now, but they have a massive head start. Before the DoS invented its inscription techniques and applied them to rehntite, a sword was probably the best infantry weapon around. We owe them a lot, and therefore take a keen interest in their projects.

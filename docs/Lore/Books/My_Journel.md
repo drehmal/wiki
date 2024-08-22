@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1258.5  |102   |-20.5  |
+## Coordinates
+|  **X**  | **Y** | **Z** |
+| :-----: | :---: | :---: |
+| -1258.5 |  102  | -20.5 |
 
-### Location:
-This book can be found in an item frame atop a tower at the southwestern tip of [[Khive's Domain]]. 
+## Location
+This book can be found in an item frame atop a tower at the southwestern tip of [[Khive's Domain]].
 
-### Transcription:
+## Transcription
 > [Much of the text is obscured by liquid stains of some kind. It's still wet.]
 >
 >Day......

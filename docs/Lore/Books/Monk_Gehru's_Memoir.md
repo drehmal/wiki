@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3357  |82   |3352  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3357  |  82   | 3352  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest outside the [[Kiln of Virtuo]], in the Kiln Attendants' Residence building. It is written by Monk Gehru, and contains Gehru's account of Virtuo's departure and their own subsequent appointment to the Grand Parish as the only remaining member, as well as their attempts to rebuild the Parish and the Kiln.
 
-### Transcription:
+## Transcription
 > Before the tragic dawn of the Fourth Avihm, there were so many Virmari. Although we didn't usually have children, we were largely impervious to age and disease. And so we had each other. I was particularly close to Luvic and Daydra, who were aides at the Kiln. As I was stationed far away from them at the ancient abbey, now Fort Nimahj, I only spoke to them via letter.
 >
 > We wrote to each other very often. Luvic kept a log of all the puns he could sneak into the services he ran for the people of Firteid and would gleefully report on particularly idiotic wordplay he managed to hide by his stern mannerisms. I would tell him about how many words starting with the same letter I could fit into my services, and he got a kick out of that.

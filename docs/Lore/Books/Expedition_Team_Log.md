@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3971.5  |120   |1613.5  |
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -3971.5 |  120  | 1613.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame at the Avsohmic Launch Site along the western coast of [[Anyr'Nogur]]. It is a document of the first Avsohmic mission to explore [[Eastern Xivrhynt]], the mysterious continent far to the east of Drehmal.
 
-### Transcription:
+## Transcription
 > Report #1
 >
 > After a several month long journey across the eastern ocean, we arrived at our destination. The fog was thick and the seas were warped. A few hours before our landing, we saw the twisting, dreamlike cliffs that dominated the horizon. We set up shelter and dedicated the rest of the day to fortifying it from any potential hostiles.

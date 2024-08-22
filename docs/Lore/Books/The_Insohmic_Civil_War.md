@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|5970  |77   |-1077  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5970  |  77   | -1077 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the library at [[Highfall]], and contains a historical account of the [[Insohmic Civil War]].
 
-### Transcription:
+## Transcription
 > The Order of Insohm was as much of a blessing as it was a curse. It was an unstable, imperfect union of nations. Before the Battle of Drehmal (when Insohm went on to reclaim the land lost to Maelihs in the Dune Wars over 900 years ago), the greatest threat to this flawed Order was the Insohmic Civil War, when separatist nations attempted to leave Insohm.
 >
 > The civil war started in Av3 600, when civilian militias were slaughtered by separatist militaries. This became known as the 600th Massacre, named after the year it took place. The Order immediately declared war against these separatist nations, being the Kingdom of Dusps, Highfall, and the remnants of old Faehrcylian tribes. The loyalists were the Provinces of Vir, the Federation of Faehrcylian Kingdoms, the Gozak Union, and of course, the Insohmic Commonwealth.

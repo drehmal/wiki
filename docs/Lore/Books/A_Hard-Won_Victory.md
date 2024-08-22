@@ -4,15 +4,15 @@ tags:
 ---
 # A Hard-Won Victory?
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1658  |6   |-2760  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1658  |   6   | -2760 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Rehntite Cave]]. It describes some of the fallout of the first major event that unfolded at the [[Primary Energy Collection Facility]], establishing that only five survived that initial incident, three of whom seemed to have been broken mentally by the ordeal.
 
-### Transcription:
+## Transcription
 > Ihnnes never was the same after coming back from the Primary Collection Facility. He was one of only five survivors from whatever occurred up there when most of the work crew and Department of Science researchers were sent home. It must have been incredibly harrowing, since only he and a high ranking newcomer to the DoS called Orix survived with their minds mostly intact.
 >
 > The other three were apparently discovered laughing, crying, and screaming about featherless wings, oozing bricks, and perfectly circular holes, among other things. Ihnnes refused to elaborate about what this all meant, instead simply telling us that he was lucky to have found Orix, and that the man had saved his life.

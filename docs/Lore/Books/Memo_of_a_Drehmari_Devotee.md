@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3166  |70   |5249  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3166 |  70   | 5249  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at a small camp in the [[Crimson Gorge]]. It is written by a [[Drehmari]] devotee of [[Maelihs]], in which they profess their reasons for switching allegiances from [[Virtuo]] to Mael.
 
-### Transcription:
+## Transcription
 > I cannot stop now.
 >
 > But I cannot press on for much longer: I have lost the strength to carry my equipment any further.

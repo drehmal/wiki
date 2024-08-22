@@ -5,15 +5,15 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3989  |90   |6021  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3989 |  90   | 6021  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Burnt Palace]]. It tells the tale of [[Klyhf Him'Lahk]], an alchemist from [[Red Dawn]] who defected to [[Maelihs]] in early Av3, and grew over time to become a genuine friend of the deity, working for him while also attempting to complete the [[Great Work]] on the side. This book establishes that the Great Work is the wielding of divine magic by a non-deity, and eventually, the author decides that the only way to complete the Great Work is to attempt to sacrifice Mael.
 
-### Transcription:
+## Transcription
 > Av3 9, 5th of Torahnlahu
 > ------
 > It seems as though I'm one step closer to the Great Work, my friend. I stared destruction itself in the eyes and yielded myself to him, and he accepted. Perhaps it was out of pity, as I clung to life from that treacherous fall out that damned airship. The looks on the faces of my former allies as I betrayed them and our mission... it was worth it. Besides, they got their intel and were making their escape. They didn't need me anymore, and I didn't need them. What I need, I can only get from him. I'm not the first Red Dawn alchemist to defect to Maelihs' legion, nor will I be the last. However, I believe with my unique methods, time, and the immense alchemical resources Maelihs can provide, I can do what no other known alchemist has done. I can complete the Great Work.

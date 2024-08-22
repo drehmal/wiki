@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-5  |29   |-1578  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -5   |  29   | -1578 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in eastern [[Ytaj]]. It serves as the Code of Conduct for the [[Tehrmari]] people living on [[Lo'Dahr]], giving them instructions on how to act in accordance with the will of the [[Aspects]].
 
-### Transcription:
+## Transcription
 > Lo’Dahr is hallowed ground; do your best to respect what thine Elders have so graciously created for us to thrive within.
 >
 > Word of thine Elders prevails above all else.

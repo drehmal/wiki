@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2175  |111   |-828  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2175  |  111  | -828  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the dark green building (Ehrmion's Home) in [[Dusps]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It has the exact same contents as [[Growing Fear]], with the exception of uncapitalized month abbreviations.
 
-### Transcription:
+## Transcription
 > virma. 17
 > A lone cornflower bloomed earlier than most this year, the rest still budded as summer isn't quite upon us. My volunteer, Deoan, recommended I trim it for the sake of consistency, and they have a better eye for presentation than me.
 >

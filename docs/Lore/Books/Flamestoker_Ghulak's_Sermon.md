@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2801  |70   |5265  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2801 |  70   | 5265  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Lai|Brightwyrm Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
 
-### Transcription:
+## Transcription
 > My brethren,
 >
 > As I walk from my dwellings in the Skyship Quarter to this humble chapel each day, I often pass the grand facade of the Burnt Father's holiest temple. As I do, I always pause for a moment to say a brief prayer for the souls of the reviled heretics brought for offering before I continue on my way.

@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2216  |80   |2927  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2216  |  80   | 2927  |
 
-### Location:
+## Location
 This book can be found on a lectern at a shrine to [[Rihalae]] in the [[North Heartwood]], south of [[Gozak]].
 
-### Transcription:
+## Transcription
 > I can feel it. They are coming back soon.
 >
 > The Zephyr Rihalae returns!

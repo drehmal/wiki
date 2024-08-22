@@ -7,15 +7,15 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2614  |70   |2324  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2614 |  70   | 2324  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at the [[Exodus Citadel]]. It is an FAQ for new employees of the Citadel, intended to answer questions about the [[Exodus Vault|vault]] beneath it.
 
-### Transcription:
+## Transcription
 > Q. The Exodus Citadel is already at the bottom of Lake Nihmaj. Why did Blue Exodus build an even more secretive facility underneath it?
 >
 > A. The primary reason that the Vault exists is to protect crucial personnel and technology from attacks directed at the Citadel proper. Redundancy is key to resilience in the face of the enemy.

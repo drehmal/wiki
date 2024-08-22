@@ -4,12 +4,12 @@ tags:
   - Removed Books
 ---
 # (Removed) - Calendar of Drehmal
-## Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not be taken as canon.
+> Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not be taken as canon.
 
-### Location/Summary:
+## Location/Summary
 This book is **no longer on the map**, but in previous versions, was found in the library of [[Okeke]], and defines some terminology in Drehmal's calendar system.
 
-### Transcription:
+## Transcription
 > The Realm of Drehmal, in its ever-fluctuating, turbulent history, has a fitting yearly cycle of moon phases and times of celebration.
 >
 > Torahnic Cycles are measured in 30 hour periods. The Torahn is a massive, pufferfish-esque creature that rotates around the realm, illuminating the world in a brilliant light (The Torahn was discovered to be living by Ranai Vuhnos, a controversial Casain researcher, during the Age of Magic). It is unknown how the Torahn is able to output such immense energy, but it is believed to gather strength while it is "resting" beneath the realm. It shines for 15 hours, then falls behind the horizon for another 15.

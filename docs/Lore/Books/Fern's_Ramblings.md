@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4170  |65   |1718  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4170  |  65   | 1718  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Mossfield]]. It contains the writing of a worried old teacher, who establishes that multiple young residents of the town have gone on pilgrimages and not returned, causing her to be concerned about [[Juniper's Journal|Juniper Quarryman's journey with her sickly younger brother]] to [[Teiruun Monastery]].
 
-### Transcription:
+## Transcription
 > Perhaps it is a tad cliche for an old woman to be so concerned about the young people of this city, but these pages shouldn't speak unless I allow them to!
 >
 > Yesterday, young Juniper Quarryman announced her intention to bring little Thom out of town to ask for the Serene Mother's blessed healing at the Order of Teiruun.

@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|107  |90   |1190  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  107  |  90   | 1190  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the ruins of Arkeje, in the southeastern extent of [[Dahr's Domain]]. It is a 43-page story about a group of four [[Tehrmari]]—two noble La'Tehrmari siblings and two Ro'Tehrmari—who venture into [[The Augural Tangle]] to attempt to peek into the mind of [[Rihelma]] as she receives prophecies. They are successful in doing so, but the experience is so overwhelming that Derria, one of the La'Tehrmari, accidentally kills Okej, one of the Ro in their company, while still in Rihelma's mind. She then kills the other Ro, Honac, in defense of her brother, and the two depart to Arkeje to warn them of their leader's fate, which they learned of in one of the visions.
 
-### Transcription:
+## Transcription
 > Mumbling the Abyssal Hymn to herself, Derria nervously scanned the placid waters of the cave. The familiar words could not quell the anxious energy which threatened to send her sprawling  onto the banded rock. Thankfully, no lancefish lurked in the clear, shallow pool.
 >
 > As Derria brought her orderflame lantern back up, she caught a glimpse of her traveling companions. The heavily-pierced spearman, Honac, and the gaunt arcanist, Okej, paid no notice as they debated whether La’Tehrmari should be allowed to join Arkeje if the Talon executed on their threats. Geimy, however, leaned down to face her, narrowing his eyes and smiling in his incredibly annoying way. “Don’t worry, Your Highness. We’ll just use the gem for an hour or two and be back before the Torahn sets.”

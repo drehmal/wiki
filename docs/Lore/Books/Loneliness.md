@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3156  |151   |761  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3156  |  151  |  761  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at a church in western [[Spearhead Forest]]. It is written by a person who has begun squatting in the abandoned church, and has appointed themselves its guardian.
 
-### Transcription:
+## Transcription
 > I'm now the resident of this place. It's sickeningly quiet in here, so different from what I lived back in the city.
 >
 > I still have an altar at least. Although I'm concerned about its size, and what it worships. With a white this pure, it can not be anything harmful.

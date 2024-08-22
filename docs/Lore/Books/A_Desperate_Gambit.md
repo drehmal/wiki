@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|5969  |76   |-1076  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5969  |  76   | -1076 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the library at [[Highfall]]. Allegedly based on a true story, it describes the destruction of the people of [[Fortahn]].
 
-### Transcription:
+## Transcription
 > Dahlin placed the final brick, and the entire living population of Fortahn was shrouded in darkness. No more uniforms, insignias of rank, or devices made from primal catalysts remained. Nothing but a huddled mass of fearful flesh.
 >
 > For a moment which could have been a minute or an hour, only the sounds of wind and thunder were audible, aside from the occasional nervously twitching leg or cough in the small cave turned hidden passage where they waited.

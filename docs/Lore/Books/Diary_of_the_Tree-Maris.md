@@ -4,15 +4,15 @@ tags:
 ---
 # Diary of the Tree-Maris
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1332  |127   |5563 |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1332 |  127  | 5563  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest atop a treehouse in western [[Lorahn'Kahl]], and tells the story of the people who inhabited it as they realized they were surrounded by monsters.
 
-### Transcription:
+## Transcription
 > The treehouse is finally finished! And it can stand way more than our three weights combined, this tree is something else ! We're gonna go fetch some furniture to put in here, and we'll finally have our first proper night in our very own treetop house ! I have such wonderful friends.
 >
 > We heard sounds at night, and woke up in fear of being attacked, but nothing is here, it's below us: a horde of monsters, hiding in the forest. If we go down at night, who knows who will find our corpses... We'll wait for the day to come down for sure.

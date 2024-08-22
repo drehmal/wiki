@@ -3,10 +3,10 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-86  |164   |2811  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -86  |  164  | 2811  |
 
 Also known as The Parable of the Orchard, as denoted by a sign above the book.
 

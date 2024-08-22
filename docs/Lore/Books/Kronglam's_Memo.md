@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-699  |66   |163  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -699  |  66   |  163  |
 
-### Location:
-This book can be found in a chest in Kronglam's Fort, in the swamp region of [[Dahr's Domain]]. 
+## Location
+This book can be found in a chest in Kronglam's Fort, in the swamp region of [[Dahr's Domain]].
 
-### Transcription:
+## Transcription
 > Not to worry, lads.
 >
 > I've left to go get some more of that good stuff. Rumor has it that Mama Vuxli's really outdone herself with this new batch.

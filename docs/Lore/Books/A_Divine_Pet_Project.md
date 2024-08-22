@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3319  |165   |2669  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3319  |  165  | 2669  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern, at the top of the [[Mihkmari]]-inhabited tower in the [[Verdant Labyrinth]] region. It contains lore on the aspects, including [[Khive]] and [[Tethlaen]], as well as rumination on the origins of [[Mt. Yavhlix]].
 
-### Transcription:
+## Transcription
 > Dear diary,
 >
 > Today I began my cataloguing of the Aspects. I plan on writing about each of them in extensive detail, in the event that we are forced to come face to face with one. After all, a bandit group controlling such a large area could be cause for alarm... not deity alarm, but it's still good to have.

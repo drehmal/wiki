@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2273  |51   |2431  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2273  |  51   | 2431  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in one of the buildings in [[Gozak]]. Across 27 in-game pages, this book tells the epic tale of the hunting of [Muhs|Greatbeast Muhs], the Aspect of Beasts, in Av2 1702.
 
-### Transcription:
+## Transcription
 > "Sire! I’ve found a trail!” shouted the Tracker, just returning from an hour-long search for tracks.
 > “Aye!? Saddle up the Redmounts! We got a Wyrm to find!” The Huntsman replied with vigor.
 > "Aye, Saddle up the Redmounts!" the rest of the Hunting Party responded in chorus.

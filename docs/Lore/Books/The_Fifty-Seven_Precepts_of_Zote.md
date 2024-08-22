@@ -4,15 +4,15 @@ tags:
 ---
 # The Fifty-Seven Precepts of Zote
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4478  |118   |-3257  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4478  |  118  | -3257 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in the Grimm Troupe, in the far west of The [[Frozen Bite]]. It is a reference to the 57 Precepts of Zote from Hollow Knight.
 
-### Transcription:
+## Transcription
 > Precept One: 'Always Win Your Battles'. Losing a battle earns you nothing and teaches you nothing. Win your battles, or don't engage in them at all!
 >
 > Precept Two: 'Never Let Them Laugh at You'. Fools laugh at everything, even at their superiors. But beware, laughter isn't harmless! Laughter spreads like a disease, and soon everyone is laughing at you. You need to strike at the source of this perverse merriment quickly!

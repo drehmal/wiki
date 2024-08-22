@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4884  |113   |-3361  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4884  |  113  | -3361 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Shivering Pines Inn]]. It details the recent history of the two owners of Shivering Pines Inn, Ga'ran and Elmlhi, painting a picture of their life together after founding the inn.
 
-### Transcription:
+## Transcription
 > Day 1:
 > ---
 > "Welcome to the Shivering Pines Inn", is what I'm dreaming to say to the first guest who walks through these lonely doors. Perhaps it wasn't such a good idea to set up a tavern and lodge in the Frozen Bite, but Rihalae teaches us to spread as far as the wind carries us, and a great southern gust took me and Elmlhi here. At least for a time, we should stay.

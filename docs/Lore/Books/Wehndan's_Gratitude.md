@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1697  |32   |-2776  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1697  |  32   | -2776 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Empire of Avsohm]].
 
-### Transcription:
+## Transcription
 > It cannot be overstated just how "lucky" we are to have found this cavern and the Yavhlix energy source in the span of just a few years.
 >
 > Among all minerals, rehntite has the highest potentia by far. It isn't really even close. Before discovering Mine #1, we were under the impression that it was also among the rarest minerals in the realm.

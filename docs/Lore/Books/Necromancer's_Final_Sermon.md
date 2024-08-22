@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1671  |18   |5231  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1671 |  18   | 5231  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in an underground necromantic church in the Moonspires region of [[Lorahn'Kahl]]. It is the last sermon of a necromancer, explaining why the [[Tri-Moon Theocracy]] has fallen, and encouraging those who would listen to continue to pursue the Great Work.
 
-### Transcription:
+## Transcription
 > Brethren, we gather today for our final meeting below the Skullbeast's remains.
 >
 > In many ways, we have failed. Hundreds of the brightest lights in alchemy have been extinguished, and much of Lorahn'Kahl and the southern Tharxax plains have been ravaged by the mad

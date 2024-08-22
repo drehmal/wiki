@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|268  |166   |-819  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  268  |  166  | -819  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in the observatory atop [[Naharja]]. It documents the orbit cycles of the known lunar bodies, but notes a new celestial body, which the author believes to be a new star, orbiting Lo'Dahr several times a day. This may be [[The Aphelion]].
 
-### Transcription:
+## Transcription
 > Most of the objects in the night sky follow a standard progression, with each star taking exactly a day to circle to its previous position. The moons are synchronized to the Torahn, with Lorahn orbiting antipodal to it. Loruhn and the hidden moon Lo'Veruhkt orbit every fourteen days.
 >
 > However, I've sighted an unusual star the past few weeks. It is *exceedingly* dim, barely noticeable with the naked eye, and difficult to sight even with a telescope as powerful as mine. It whizzes around Lo'Dahr much faster than any star, several times per day.

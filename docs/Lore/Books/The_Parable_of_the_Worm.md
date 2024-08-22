@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-90  |154   |2798  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -90  |  154  | 2798  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in a secret room in [[Drehua Temple]], hidden beneath the room with the other four Parables. It tells the ancient origin story of [[Drehmal]] themselves, beginning as a humble worm and being granted divinity when they were in the roots of the [[Primal Tree]] at the end of the First Avihm.
 
-### Transcription:
+## Transcription
 > There once was a worm unlike all the others. Like many creatures of the earth, the worm slithered upon the ground; like many creatures of the earth, the worm was meek and unassuming. But unlike its brethren, this worm had potential.
 >
 > One day, while the worm was going about its daily routine, it was approached by two others; a beast of the sky and a beast of the depths. The beast of the depths asked the worm: "Dear worm, do you not see your potential? Grab it! Take destiny in your own hands, and become all you are meant to be." The beast of the sky rebuked the beast of the depths: "Fool that you are, you cannot see that the worm is unfit for such heights. After all, the worm is a simple beast of the earth; not divine in the slightest." The worm, however, ignored both. It knew its time had not yet come, and that rash action would spell its doom. And yet it knew that its day would come and that it must be prepared for the opportunity.

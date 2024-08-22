@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-108  |67   |4802  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -108  |  67   | 4802  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest within a small structure directly off the path in [[Lorahn'Kahl]] between the [[Whale's Tale]] and [[Mohta]], alongside the Lorahn Sacrificial Blade Artifact. Its text calls upon the three moons of Drehmal in a necromantic rite, referencing the traditions of necromancy in the Lorahn'Kahl region.
 
-### Transcription:
+## Transcription
 > O, silnar-tuo Lorahn, creator of time,
 >
 > O, terhmis-tuo Loruhn, home of drakes,

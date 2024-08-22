@@ -8,15 +8,15 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-252  |36   |1653  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -252  |  36   | 1653  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the Administrative Wing of the [[Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
 
-### Transcription:
+## Transcription
 > I think, and it begins. Something alien to the landscape, yet rooted in nature. Something strong enough to support huge blocks of rehntite and currents of primal energy, yet fluid.
 >
 > An idea! Monumental, elegant archways of white static adorned with the vivid color of a warm Lorahn reef. I picture them arcing over a forest of conifers and the concept fully materializes.

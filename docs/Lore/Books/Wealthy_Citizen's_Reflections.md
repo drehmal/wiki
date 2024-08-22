@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|37  |84   |1664  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  37   |  84   | 1664  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in southeastern [[Av'Sal]]. It tells the story of a wealthy Avsohmic painter, who grew up the child of a lumberjack in [[Spearhead Forest]], but was sent away to study painting after her father discovered her talent for the art. She studied in several of the finest academies in the realm, and eventually made a strong name for herself as a painter in Av'Sal. She was able to transition using Avsohmic runic tattoo technology, married, and had children, and at the time of writing, ponders if she should bring her husband and children to meet their grandfather for the first time.
 
-### Transcription:
+## Transcription
 > I grew up with an axe in my hand and a flask at my hip; a wild boy with a foul mouth and a worse attitude. My old man was a woodcutter out in Spearhead Territory, and together we would wander for days on end in a group of five others, looking for the alciga pine that would fetch a decent price at market in Virsuhl.
 >
 > In Pa’s eyes, I would only ever be respected only for what I could carry. He wasn’t a cruel man, not really. But he was tragically strong, and a strong body can go a long way to mask a troubled heart. When he missed Ma, he would get drunk and play Heka with Ricky Stone and Lehnas, where they would tell jokes for hours about  “soft” Avsohmites fainting at the sight of sweat. Then, accompanied by the setting Torahn, I would be left alone in the woods with my thoughts. It was then that I'd take out my most prized possession- a sketchbook that I had bought myself from an old traveling merchant. Only then did I allow myself to become something more than a cog. Taking out pigments I would stash away in my jerkin, I spent my time painting the trees and their personalities. A thin trunk became a weak farmhand. A pine with a lightning-scarred trunk became a maimed widower. A young white cedar, a beautiful woman with auburn hair.

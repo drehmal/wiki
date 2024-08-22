@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-13  |70   |5256 |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -13  |  70   | 5256  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest by the Runic Blacksmith in [[Mohta]]. It describes a custom order for a set of gear for a caravan escort who is planning to travel from Mohta to [[Firteid]].
 
-### Transcription:
+## Transcription
 > ORDER #4698
 > ---------------
 > Ferida’s Forge

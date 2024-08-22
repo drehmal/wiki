@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-146  |89   |1482  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -146  |  89   | 1482  |
 
-### Location/Summary:
-This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, [[The Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband. 
+## Location/Summary
+This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, [[The Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband.
 
-### Transcription:
+## Transcription
 > I reckon I maybe shouldn’t be writing about this, but Lil Tuhli and her soon-to-be sibling will be old enough someday to take some pride in their old grandma’s actions in service of the Empire!
 >
 > You see, I was a welder working on the left flank of the greatest vessel Avsohm has ever commissioned, the Aphelion! If you can believe it, I worked there for five years and didn’t stay to see the project finished. Had a bit of a dispute with the shift manager over the treatment of my good friend and coworker, and we were shipped out of there lickety split!

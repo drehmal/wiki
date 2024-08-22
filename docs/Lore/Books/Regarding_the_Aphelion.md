@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-3958  |64   |6003  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3958 |  64   | 6003  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Burnt Palace]]. It contains intel on the [[Aphelion]], to be delivered to the [[Burnt Generals]].
 
-### Transcription:
+## Transcription
 > This is a report compiling all known information about the Aphelion and is to be delivered to Rhalon, the Third Burnt General.
 >
 > The airship known as the Aphelion was constructed by the Avsohmic Empire and is considered to be the crown jewel of Avsohm's fleets.

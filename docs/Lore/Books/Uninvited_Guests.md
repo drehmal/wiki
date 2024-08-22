@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2205  |69   |181  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2205  |  69   |  181  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Hevhlak]]. It contains a story told by the Wingmaker Arjen, warning the residents of Hevhlak about [[Tethlaen]] and assuring them that the Wingmakers have renounced him.
 
-### Transcription:
+## Transcription
 > We Ro of Hevhlak are far from beloved by the Scalebound of Naharja, and we would rather die than bend a knee to an officer of Talon or Moonsworn. But we remain a pious people, and when Aspect faith thrives, Wingmakers are never far behind. We try to offer them hospitality when they come, but these are difficult times.
 >
 > So when a party of three Wingmakers arrived in town yesterday afternoon, you could have cut the tension with a knife. Issah Soo and Mazak were common enough guests, clad in the bright colors of their order and armed with lute and clarinet. But the third was a rare sight indeed: Arjen Silvermoon, former consort to the Founder Froslea, and legendary storyteller.

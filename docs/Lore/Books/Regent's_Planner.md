@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1527  |157   |-1966  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1527  |  157  | -1966 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, presumably Ehzar, it shows that by the present day, the Duke of Ancehl has died, meaning a regent must take over for the child Duchess, and discusses Ehzar's ambition to complete the [[Great Work]].
 
-### Transcription:
+## Transcription
 > Daily Ledger: Av4 100, Drehmaklah 3
 >
 > Confirmation has just come in that blueprints for Avsohmic-era technology was found in the old Insohmic Aerie facility. While the Golden Order will doubtless have interest in conducting their own investigation, I should make a trip there posthaste before they learn any secrets that were intended for me.

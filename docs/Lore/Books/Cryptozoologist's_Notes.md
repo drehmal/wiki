@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4169  |64   |-4055  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4169  |  64   | -4055 |
 
-### Location:
+## Location
 This book can be found in a chest on the far northeastern coast of [[Faehrcyle]].
 
-### Transcription:
+## Transcription
 > Enzio's Journal
 >
 > Day 45

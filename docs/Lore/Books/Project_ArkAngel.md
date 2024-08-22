@@ -5,15 +5,15 @@ tags:
 
 --8<-- "spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3190.5  |88   |3241.5  |
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3190.5 |  88   | 3241.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It describes the creation of Project ArkAngel, which resulted in the creation of the facility that we find this book in, with the ultimate goal of creating a portal to [[Lo'Dahr]].
 
-### Transcription:
+## Transcription
 > Project ArkAngel
 > -------------------
 > Four years ago we discovered an anomalous object in an impact crater near Sal'Terhmis. It exhibited numerous anomalous properties, such as: Levitation, indestructibility, magnetic poles on a reversal interval, and an astonishingly high energy reading. Potentia within this object rivals that of a Rehntite catalyst's, though we cannot determine the composition. It's unlike anything we've ever seen. After some light experimentation, we noticed that when exposed to different types and strength of magic, the blue vein-like structures running down the surface of the anomaly glowed at different colors and intensities. When exposed to a captured sample of divine magic, energy readings spiked and the veins glowed the brightest we'd ever seen them. This discovery led us into Project ArkAngel.

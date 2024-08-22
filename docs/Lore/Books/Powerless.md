@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3208  |40   |3364  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3208  |  40   | 3364  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in a room beneath the [[Kiln of Virtuo]]. Written by [[Virtuo]], it expresses her frustration with her own inaction over the course of history.
 
-### Transcription:
+## Transcription
 > There is something wrong with me. For untold centuries, I have been content with this world’s flaws. I saw them as opportunities for improvement.
 >
 > No longer. Increasingly, the world’s problems are filling me with a horrible sense of revulsion. My brother seems to have no problem spreading chaos and warfare across the entire blasted realm, so why can’t I do the same? Shouldn’t I be rewarded for carrying on the Primal Tree’s legacy? Why do I feel so small and powerless.

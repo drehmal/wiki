@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-908  |50   |-223  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -908  |  50   | -223  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Ring Facility]]. Written by [[Baen Vehmil]], it reflects on his life to date, with emphasis on the positive impacts his work and friends—especially [[Gohri Zed]] and [[Thresa Vera]]—have had on his life. He also expresses his disdain for [[Anyr]] and other aspects of the Avsohmic government that he finds disturbing, such as [[Red Dawn]].
 
-### Transcription:
+## Transcription
 > I was resistant, at first, to outright join the DoS. It was a lot of fun to go all over the world, learning about ancient runes. My travels took me everywhere- from the forbidden land of Sahd, to the spectacular city of Athrah in Casai, to ancient cliff dwellings in Grand Pike Canyon.
 >
 > But one thing was always constant- I was alone.

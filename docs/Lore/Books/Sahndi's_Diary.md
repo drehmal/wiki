@@ -7,15 +7,15 @@ tags:
 
 --8<-- "25_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|2510  |153   |1185  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2510  |  153  | 1185  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Sal'Mevir]]. Written by a janitor at the facility who overheard a conversation involving [[Baen Vehmil]] and [[Thresa Vera]], the book recounts that janitor's best understanding of what was spoken about, including [[Mt. Yavhlix]].
 
-### Transcription:
+## Transcription
 > Dear Diary,
 >
 > I think I just overheard something HUGE. Something that I, a mere janitor, should never know. Momma always said that it isn’t polite to snoop into other people’s business, so I wouldn’t dare bring this home. But this thing is eating me alive, so I'm bringing it to your pages. Suppose that’s what a diary is for.

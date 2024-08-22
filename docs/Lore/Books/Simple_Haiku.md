@@ -7,23 +7,23 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-188  |30   |-1627  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -188  |  30   | -1627 |
 
-### Location:
-This book can be found on a lectern in western [[Ytaj]], in what seems to be [[Mari]]'s room. 
+## Location
+This book can be found on a lectern in western [[Ytaj]], in what seems to be [[Mari]]'s room.
 
-### Transcription:
+## Transcription
 > Ode to the People
 > -------------------
 >
 > Upward swim my school
-> 
+>
 > Ever reaching, learning
-> 
+>
 > O'er the Seha waves
-> 
+>
 > ------------------
 

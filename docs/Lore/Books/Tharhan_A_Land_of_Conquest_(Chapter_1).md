@@ -5,15 +5,15 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 1)
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1719  |161   |1901  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1719 |  161  | 1901  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found on a lectern in [[Fort Nimahj]]. It is the first of four chapters, and tells the story of the First Tharhan Empire. Particular focus is given to their practices of shipping criminals away, sending felons south to [[Rhaveloth]] to be converted to [[Maelmari]] and misdemeants north to [[The Ebony Veldt]], where they would go on to found [[Caer Adacia]].
 
-### Transcription:
+## Transcription
 > Tharhan: A Land of Conquest
 > -------------------
 > Though many outside the region are unaware, the name "Tharxax" is actually a Maelmari bastardization of "Tharhan", the name of two ancient Drehmari empires which thrived in western Drehmal.

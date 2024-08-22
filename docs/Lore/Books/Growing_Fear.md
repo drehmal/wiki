@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|1648  |92   |-1359  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1648  |  92   | -1359 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at Esipelli Vineyard in western [[Akhlo'Rohma]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It contains the exact same text as [[Previous Cultivator's Findings]] in [[Dusps]], with the exception of capitalized month abbreviations.
 
-### Transcription:
+## Transcription
 > Virma. 17
 > A lone cornflower bloomed earlier than most this year, the rest still budded as summer isn't quite upon us. My volunteer, Deoan, recommended I trim it for the sake of consistency, and they have a better eye for presentation than me.
 >

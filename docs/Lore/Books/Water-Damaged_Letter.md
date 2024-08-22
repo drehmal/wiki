@@ -8,15 +8,15 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-2722  |16   |2148  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2722 |  16   | 2148  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a shulker box in the [[Exodus Vault]]. Written by a deliveryperson between Exodus and [[The Foundry]], it mentions increasing military presence within and around the vault, as well as strange amounts of technology being shipped to [[Red Dawn]] and [[Green Serpent]].
 
-### Transcription:
+## Transcription
 > Dear Nahori,
 >
 > I hope you're doing well. You were right, writing letters really is the best way to stay in touch. There's something so satisfying about ripping open an envelope and unfolding the message inside.

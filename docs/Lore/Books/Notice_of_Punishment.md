@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|347  |42   |475  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  347  |  42   |  475  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest within a cage dangling from a floating island in [[Palaesida's Domain]]. It names the prisoner who was held in this cage as Kungahs, the Hateful Blade, listing his crimes and the punishment: life imprisonment within this gibbet-like cage.
 
-### Transcription:
+## Transcription
 > Here Hangs Kungahs, the Hateful Blade.
 >
 > Sentenced to Death By Captivity.
@@ -40,7 +40,7 @@ This book can be found in a chest within a cage dangling from a floating island 
 > 7. Terrorism (3 counts)
 >
 > 8. Tax Evasion (Naharja)
->    
+>
 > ***
 > For these crimes and other improper and indecent behavior, Kungahs shall not be allowed to leave this cage. Any who aid or abet in his escape shall be given the same sentence.
 >

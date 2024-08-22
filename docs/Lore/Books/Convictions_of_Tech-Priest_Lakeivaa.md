@@ -6,15 +6,15 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4109  |108   |-1524  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4109  |  108  | -1524 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest at the [[Altar of Insight]]. Written by a parent of [[Gohri Zed]], the book explains that the people of [[Veruhkt Plateau]] worshipped and sought ascension to the moon of [[Lo'Veruhkt]], which sits beneath the planet and is therefore seldom seen. It also reveals that Gohri's birth name is Gorui, and that she was sent by her people to study runic magic in [[Av'Sal]] to help them escape to the moon, but stopped communicating with her family after falling in love with [[Thresa Vera]].
 
-### Transcription:
+## Transcription
 > Lo’Verukht. The namesake of our people turns far below, as the other heavenly bodies spin above. A brilliant purple hue, so unlike any other thing in nature. On occasion I can catch glimpses of a blinding golden light. Hundreds of millions of souls, the majority of our people. One day, we shall arrive, and unite that-which-is and that-which-is-yet-to-be. So long as one of us survives, Poa's dream won't die.
 >
 > Though their leader was cruel and their armies were strong, not all was lost on the day of the Desecration. Three of the tech-priests lived, including myself, and the Lens was safe. Though we had lost our prototypes, our plans remained intact.

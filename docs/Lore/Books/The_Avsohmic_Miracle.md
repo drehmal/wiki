@@ -3,15 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|4553  |104   |1591  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4553  |  104  | 1591  |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in the [[Old Insohmic Library]]. It discusses the manner through which Avsohm was able to rise to such great power so quickly through an empirical lens, arguing that multiple alchemical fields underwent incredibly rapid revolutions, paving the way for Avsohmic domination, rather than divine intervention being the cause behind the empire's power.
 
-### Transcription:
+## Transcription
 > In recent years, historians and academics have come to fall prey to the myth of the "Avsohmic Miracle", a near mythological event that heralded the transformation of the Chosen Kingdom into the powerful and realm-spanning Avsohmic Empire. Many believe this to be the work of Deities, or ascribe other mystical reasonings to it. I propose that said "miracle" was an entirely material and empirical occurrence. Avsohm had simultaneous upheavals in the fields of Alchemy, Runicism, and Industrialism - and these revolutions set the stage for Avsohmic world domination.
 >
 > First, let us discuss the Avsohmic Alchemical Revolution. Some scholars of Alchemy actually refer to this as the Second Alchemical Revolution, the period of time after the foundation of the Doctrine of Spheres up until the first recorded instance of Necromancy in Av2.

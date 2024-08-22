@@ -5,15 +5,15 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-1152  |57   |-4107  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1152 |  57   | -4107 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in a chest in [[Xor'Huul]]. It paints a picture of the final days of the kingdom of Xor'Huul, after a mysterious plague began to quickly kill off the city's priests. This caused the nobles to attempt to barricade themselves in, resulting in a clash between the commoners and nobility that killed off the entirety of the city's population through direct conflict or infection.
 
-### Transcription:
+## Transcription
 > Tahsgantuo 31: 1821
 >
 > The deaths of most of our priests to this mysterious plague have sent the nobles panicking. Against King Xhuthro's wishes, they've taken matters into their own hands by hoarding food and materials, then barricading the royal quarters off from us commoners. You know, I was never one to be naive about where the nobles' motives lie. But now that this is all unfolding before us, I still find it hard to believe. Perhaps I was naive after all.

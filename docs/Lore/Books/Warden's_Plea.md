@@ -7,15 +7,15 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|460.5  |117   |253.5  |
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 460.5 |  117  | 253.5 |
 
-### Location/Summary:
+## Location/Summary
 This book can be found in an item frame at Okhran Prison, in the northern portion of [[Palaesida's Domain]]. It notes an uptick in violent crime across [[Lo'Dahr]] in recent years, and requests either a crackdown on crime or increase funding to the facility.
 
-### Transcription:
+## Transcription
 > Your Reverence Lord Ghian of the Naharja Scalebound,
 >
 > As you are aware, violent crime in violation of the Code has not historically been a major problem in Lo’Dahr. La’Tehrmari are hand-picked for their devotion to the Aspects by Wingmakers and then undergo extensive trials. And since almost no Ro’Tehrmari has the expertise in runic magic or arcanism to rival even a casual La’Tehrmari practitioner, few outside of combatants in the War of Generations have ever dared to raise a weapon against the Talon.

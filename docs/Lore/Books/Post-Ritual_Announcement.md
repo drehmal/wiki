@@ -3,6 +3,7 @@ tags:
   - Books
   - Devotion Books
 ---
+# Post-Ritual Announcement
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

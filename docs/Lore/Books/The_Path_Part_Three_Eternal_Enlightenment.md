@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# The Path - Part Three: Eternal Enlightenment
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

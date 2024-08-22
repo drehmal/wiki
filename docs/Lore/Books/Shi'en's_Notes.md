@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+--8<-- "minor_spoiler.md"
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

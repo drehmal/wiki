@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-Coordinates:
+### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|
 |-86  |164   |2807  |

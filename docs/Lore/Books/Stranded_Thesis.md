@@ -3,11 +3,9 @@ tags:
   - Books
 ---
 
---8<-- “spoiler.md”
+--8<-- "spoiler.md"
 
---8<-- “LD_spoiler.md”
-
---8<-- "postyav_spoiler.md"
+--8<-- "LD_spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |
@@ -24,8 +22,5 @@ This book can be found on a lectern in [[Castle Greyspire]].
 >
 > The second would simply indulge in the island’s resources to depletion, finding happiness before expiring on their own terms.
 >
-> And the third, and most foolish, would build a raft with all the resources aboard in vain hope of finding more happiness elsewhere before being dashed to pieces against the waves.\
-
-### Trivia:
-This book's text is identical to lines spoken to the player by The [[Mythoclast]] in an end-game sequence.
+> And the third, and most foolish, would build a raft with all the resources aboard in vain hope of finding more happiness elsewhere before being dashed to pieces against the waves.
 

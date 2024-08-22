@@ -2,108 +2,45 @@
 
 # Advancements
 
-The Drehmal map adds many new advancements to the geme that indicate points of interest, game mechanics or story progression.
+The Drehmal map adds many new advancements to the game that indicate points of interest, game mechanics or story progression.
 
-All advancements are sorted into these 4 categories: Drehmal, Discoveries, ???  Primordial and Lo'Dahr
+All advancements are sorted into these 4 categories: Drehmal, Discoveries, ???, Fabled Equipment, Primordial and Lo'Dahr
 
-#% List
+**Drehmal:** General and vanilla advancements.
+**Discoveries:** Advancements achieved by visiting significant locations.
+**???:** - Secret advancements, the ??? tab isn't revealed until one is obtained. They require advanced knowledge.
+**Primordial:** Unlocked by completing tasks as part of the storyline.
+**Lo'Dahr:** Spoilers, see 75% spoiler list.
 
-??? warning "Spoiler: Civilization"
-    |              **Achievement**              |                                                                        **Description**                                                                         |               **How-to**               |
-    |:-----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|
-    | Children of Drehmal                       | All Drehmari are welcome here. Stay and rest, tomorrow can wait                                                                                                | Discover [[Drabyel]]                       |
-    | City of Tides                             | Once ruled by a tyrannic Tide-Queen, now they are free                                                                                                         | Discover [[Firteid]]                       |
-    | It was made for me!                       | How far does this thing go...?                                                                                                                                 | Discover something below Tidal Palace  |
-    | The Old Guard                             | This fortress has remained standing since the reign of Avsohm, hundreds of years ago                                                                           | Discover [[Fort Nimahj]]                   |
-    | Jewel of Casai                            | Once an important trade port, thanks to their now-dysfunctional Teleportation Pier                                                                             | Discover [[Athrah]]                        |
-    | Children of Mael                          | Perhaps one day they will break free from the chains Maelihs has put on them                                                                                   | Discovered [[Ebonrun]]                     |
-    | WUPOM (Wealthy Under Protection of Mael)  | They believe themselves to be under 'protection' of Maelihs. How naive                                                                                         | Discover [[Tharxax City]]                  |
-    | Village of Three Moons                    | Lorahn'Kahl was once home to the Tri-Moon Theocracy, a cult-kingdom  of jungle necromancers. This village was established long after their  fall.              | Discover [[Mohta]]                         |
-    | People of the Heartwood                   | Once proud guardians of the forest, they now hide away after half of it was destroyed                                                                          | Discover [[Gozak]]                         |
-    | Village of Autumn                         | Merijool used to be a jungle, but with the Frostfang Catastrophe it slowly changed into an autumnal forest                                                     | Discover [[Okeke]]                         |
-    | The Painted City                          | Regarded as the largest and more beautiful city in present-day  Drehmal, Dusps is a marvel of architecture and commerce... if you aren't  in poverty, that is  | Discover [[Dusps]]                         |
-    | Children of Virtuo                        | Everything in the East is under the protection of Virtuo and her angelic Virmari                                                                               | Discover [[New Mossfield]]                 |
-    | The Forgotten City                        | The island of Sahd was wiped from history by Firteid's Tide-Queen, leaving them in isolation for hundreds of years.                                            | Discover [[New Sahd]]                      |
-    | Impoverished Nobles                       | Highfall was once exceptionally wealthy, but now trade has ceased and the once-noble people have fell to poverty                                               | Discover [[Highfall]]                      |
-	
-??? warning "Spoiler: Primordial"
-    | **Achievement **              | **Description **                                                                                                                                                                                            | **How-to **                                             |
-    |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-    | The Rogue                     | Deft and swift, The Rogue stalks the night. As a rogue you have gained notorious speed. Use it wisely.                                                                                                      | Choose the Rogue class.                                 |
-    | The Paladin                   | The Paladin, a holy crusader of light and purity. Through your  devotion to Virtuo you have been granted vitality far greater than the  average Drehmari's                                                  | Choose the Paladin class                                |
-    | The Warrior                   | A hulking brute with the temper of a Greybison in heat. As The  Warrior, you can deal blows faster and with more precision than any  other                                                                  | Choose the Warrior class                                |
-    | Mythbreaker                   | An eldritch secret rests at Drehmal's heart. With it lies the truth of an ancient civilization's fall.                                                                                                      | Welcome to Drehmal                                      |
-    | Place Between Places          | You feel like your atoms weren't properly rearranged. Oh well.                                                                                                                                              | Enter [[the Terminus]]                                     |
-    | Scientific Progress           | avSYS has requested your presence at an "Ancillary Research Facility"... whatever that means. lat2250 lon997                                                                                                | Restore [[Story Progression|Network Linkage to 25%]]                          |
-    | Hunt for Exodus               | avSYS has summoned you to the Exodus Citadel: lat-2588 lon2220                                                                                                                                              | Restore [[Story ProgressionNetwork Linkage to 50%]]                          |
-    | Administrative Privileges     | avSYS has deemed you worthy of additional Terminus privileges. You can now open the door to the Administrative Chamber.                                                                                     | Restore [[Story ProgressionNetwork Linkage to 75%]]                          |
-    | Mythbreaker Protocols Active  | avSYS has successfully executed Mythbreaker Protocols. The Mountain of Madness awaits: lat1841 lon-4266                                                                                                     | Achieve [[Story ProgressionFull Network Linkage]]                            |
-    | At The Mountain of Madness    | Here you will find only Nothing                                                                                                                                                                             | Enter [[Mt. Yavhlix]]                                       |
-    | Myth-Slayer                   | At what cost?                                                                                                                                                                                               | Defeat [[Tethlaen]] within [[Mt. Yavhlix]] and achieve Nothing  |
-    | Cast-Aside Thoughts           | What's Rightfully his has been reclaimed. Travel east of the painted city, a fallen fragment from the home of the deities.                                                                                  | [[Divine Ruins|Progress the main story]]                                 |
-    | Primal Mind                   | Why are you doing this? Deep within the mountain of holes, lies a place that will empty your soul.                                                                                                          | [[Resonant Halls|Progress the main story]]                                 |
-    | Primal Soul                   | Those halls sapped a part of your soul that you will never get back.  Atop the island of the rising sun, an entrance to the hall of a king. A  place where Nothing can be won, at the heart of everything.  | [[The Court|Progress the main story]]                                 |
-    | Primal Heart                  | As Hovadchear fell, you swear you heard him say "thank you". Return  to the place where you had risen, lest you wish not to be chosen.                                                                      | [[The Origin|Progress the main story]]                                 |
-	
-??? warning "Spoiler: Weapons of Legend - Mythical"
-    Few weapons achieve this status. Uncovering an immensely powerful [[Mythical Weapons|Mythical Weapon]] requires skill of the highest caliber. 
-	| **Achievement ** | **Description **                                                         | **How-to **        |
-    |------------------|--------------------------------------------------------------------------|--------------------|
-    | Calamity         | Recipe for Calamity, claws of a vanquished Skullbeast, unlocked          | Find [[Mythical Weapons#Calamity|Calamity]]      |
-    | Ascendance       | Recipe for the sword of the Ascendance, channeler of divinity, unlocked  | Find [[Mythical Weapons#Ascendence|Ascendence]]    |
-    | Malevolentia     | Recipe for Malevolentia, Maelihs' cast aside weapon, unlocked            | Find [[Mythical Weapons#Malevolentia|Malevolentia]]  |
-    | Oblivion         | Recipe for Oblivion, scythe of the Pawn of Nothing, unlocked             | Find [[Mythical Weapons#Oblivion|Oblivion]]      |
-    | Frenzy           | Recipe for Frenzy, the condensed hatred of Sahd, unlocked                | Find [[Mythical Weapons#Frenzy|Frenzy]]        |
-    | Mythbreaker      | Recipe for Mythbreaker, a gift to commemorate Nothing, unlocked          | Find [[Mythical Weapons#Mythbreaker|Mythbreaker]]   |
 
-??? warning "Spoiler: Weapons of Legend - Legendary"
-    [[Legendary Weapons|Some weapons are greater than your standard blade.]] One of a kind, only found in guarded or secret locations. 
-	| **Achievement **          | **Description **                                                                            | **How-to **                    |
-    |---------------------------|---------------------------------------------------------------------------------------------|--------------------------------|
-    | Avsohm'Kohl               | Recipe for Avsohm'Kohl, wings of a civilization long past, unlocked                         | Find [[Legendary Weapons#Avsohm'Kohl|Avsohm'Kohl]]               |
-    | The FrostFang             | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked                   | Find [[Legendary Weapons#Frostfang|Frostfang]]                  |
-    | Spider Bucker             | Recipe for the Spider Buckler, defender of Warriors, unlocked                               | Find [[Legendary Weapons#Spider Buckler|Spider Buckler]]             |
-    | Ultva's Bowblade          | Recipe for Ultva's Bowblade, Master Ultva of Insohm's weapon of choice, unlocked            | Find [[Legendary Weapons#Ultva's Bowblade|Ultva's Bowblade]]           |
-    | Peace Treaty              | Recipe for Peace Treaty, the symbol of undying alliances, unlocked                          | Find [[Legendary Weapons#Peace Treaty|Peace Treaty]]               |
-    | Rehntite Plate Mail       | Recipe for Rehntite Plate Mail, experimental armor of Avsohmic arcanists, unlocked          | Find [[Legendary Weapons#Rehntite Plate Mail|Rehntite Plate Mail]]        |
-    | Emperor Anyr's Scepter    | Recipe for the Emperor Anyr's Sceptor, the tool of the last emperor of Avsohm, unlocked     | Find [[Legendary Weapons#Emperor Anyr's Scepter|Emperor Anyr's Scepter]]     |
-    | Osteogenesis              | Recipe for Osteogenesis, the bane of Skullbeasts, unlocked                                  | Find [[Legendary Weapons#Osteogenesis|Osteogenesis]]               |
-    | Hovadchear's Greathammer  | Recipe for Hovadchear's Greathammer, famed weapon of Master Hovadchear of Insohm, unlocked  | Find [[Legendary Weapons#Hovadchear's Greathammer|Hovadchear's Greathammer]]   |
-    | Voidtear Dagger           | Recipe for the Voidtear Dagger, a weapon of odd interdimensional properties, unlocked       | Find [[Legendary Weapons#Voidtear Dagger|Voidtear Dagger]]            |
-    | One Thousand Scars        | Recipe for One Thousand Scars, the ancient blade of the First Avihm, unlocked               | Find [[Legendary Weapons#One Thousand Scars|One Thousand Scars]]         |
-    | The Heartaxe              | Recipe for the Heartaxe, weapon of fables, unlocked                                         | FInd [[Legendary Weapons#The Heartaxe|The Heartaxe]]               |
-    | Masayoshi                 | Recipe for Masayoshi, the deceased Queen's ancient blade, unlocked                          | Find [[Legendary Weapons#Masayoshi|Masayoshi]]                  |
-    | Falcon Shield             | Recipe for the Falcon Shield, protector of Rogues, unlocked                                 | Find [[Legendary Weapons#Falcon Shield|Falcon Shield]]              |
-    | Orchidaceae               | Recipe for the Orchidaceae, a treasure hunter's favorite, unlocked                          | Find [[Legendary Weapons#Orchidaceae|Orchidaceae]]                |
-    | Dragon Greatshield        | Recipe for the Dragon Greatshield, aegis of Paladins, unlocked                              | Find [[Legendary Weapons#Dragon Greatshield|Dragon Greatshield]]         |
-    | Crystal Digging Claw      | Recipe for the Crystal Digging Claw, tool of pride, unlocked                                | Find [[Legendary Weapons#Crystal Digging Claw|Crystal Digging Claw]]       |
-    | Flammer                   | Recipe for the Flammer, the explosive mining tool, unlocked                                 | Find [[Legendary Weapons#Flammer|Flammer]]                    |
-	
-??? warning "Spoiler: Discoveries"
-    | **Achievement **                          | **Description **                                                                                                                                                                   | **How-to **                                     |
-    |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-    | The Insohmic Library                      | After the disappearance of Castle Hovadchear, this was the Order of Insohm's Headquarters.                                                                                         | Discover the [[Insohmic Library|Old Library Tower]]                  |
-    | I'm on the moooon... it's made of cheese  | Why do I feel so much lighter?                                                                                                                                                     | Discover a [[sunken Astral Body]]                   |
-    | Divine Ruins                              | How did this get here...?                                                                                                                                                          | Discover a [[Divine Ruins|fragmented shrine of Lo'Dahr]]         |
-    | Domain of Maelihs                         | Burnt God of War, Chaos and Destruction                                                                                                                                            | Discover the [[Hellcrags]]                          |
-    | The Burnt Palace                          | Few have entered the Burnt Palace and left to tell the tale. May Virtuo be with ye                                                                                                 | Discover [[the Burnt Palace]]                       |
-    | Domain of Virtuo                          | Goddess of Peace, Purity, and Perfection                                                                                                                                           | Discovered [[The Kiln|The Kiln of Virtuo]]                   |
-    | Capital of War                            | Sal'Anyr's fall marked the beginning of the Dune Wars, and the start of the third Avihm                                                                                            | Discover the [[Anyr'Nogur|ruins of Sal'Anyr]]                  |
-    | Remnant of Avsohm                         | Once Avsohm's great capital city, it is now merely a remnant of an idyllic golden age                                                                                              | Discover [[Av'Sal]]                                 |
-    | Meat. They're made out of meat.           | Who wants to meet meat?                                                                                                                                                            | Discovered the [[The Carmine|Birthing Grounds]]                 |
-    | The Lost Cavern                           | Ages ago, Avsohm used this cave to gather Rehntite, and incredible  strong mineral with untold arcane potential. Unfortuntately, the method  of extraction has been lost to time.  | Discovered the [[Rehntite Cave]]                    |
-    | Wall of the West                          | BIG WALL                                                                                                                                                                           | Discovered [[Maerhn'Vhos]]                          |
-    | Vault of Knowledge                        | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm.                                                                                   | Discovered the last [[Avsohmic Vault]]              |
-    | A Mountain of Holes                       | This mountain emanates a strange, resonating energy. You feel... empty.                                                                                                            | Journey to [[Mt. Yavhlix]]                          |
-    | Resonant Walls                            | The emptiness of your soul feels strongest here.                                                                                                                                   | Discover the [[Resonant Halls|innermost halls of Mt. Yavhlix]]      |
-    | The Beast's Den                           | Greatbeast Muhs, Aspect of Beasts, was hunted down and murdered in  Av2 1583 by a group wishing to attain his power. In the end, they failed                                       | Discover [[the Underwood]], den of Greatbeast Muhs  |
-    | The Scarred Castle                        | The Order of Insohm used this castle as a base of operations as they  reconquered the land from Maelihs. The castle fell to ruin after  political instability destroyed the order  | Discover [[Castle Scarstone]]                       |
-    | The Court                                 | Face ultimate judgement                                                                                                                                                            | Enter the [[Court of Nothing]]                      |
-    | Chamber of Dreams                         | Drehmal Slumbers deep below, perhaps one day they will awaken                                                                                                                      | Step into the entrance of [[the Primal Caverns]]    |
-    | All That Remains                          | Avsohm was highly technologically advanced, yet they still fell to ruin                                                                                                            | Discover [[the Exodus Citadel]]                     |
-    | Disappearing Act                          | The Order of Insohm had their Headquarters here, now it's just a crater. What could have done this?                                                                                | Discover the [[Castle Hovadchear Crater]]           |
-    | Grave of Frost                            | A master arcanist of unlimited potentia, he froze the north in rebellion to Avsohm.                                                                                                | Discover the [[resting place of Homli Tahsgan]]     |
-    | Ohh, bouncy!                              | Do you think it's alive?                                                                                                                                                           | Discovered the [[Slime Island]]                     |
-    | The Moonlight Sanctum                     | The Tri-Moon Theocracy used this place as a necrotic engine. Using  the potentia of strange aquatic creatures, they performed abhorrent  rituals and raised thousands of undead    | Discover [[the Moonlight Sanctum]]                  |
-    | Temporal Ruins                            | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation                                                                            | Discover Sal'Mevir                              |
-    | This place was beautiful, once            | Half the Heartwood, gone in an instant                                                                                                                                             | Discover the epicentre of [[Mael's Desolation]]     |
+## List (No Story Spoilers)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+## List (25% SPOILERS)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+## List (50% SPOILERS)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+## List (75% SPOILERS)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+## List (LATE-GAME SPOILERS)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+## List (END-GAME SPOILERS)
+
+| Name | Category | Description | Method of Obtaining |
+|-|-|-|-|
+
+

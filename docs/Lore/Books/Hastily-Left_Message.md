@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Hastily-Left Message
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

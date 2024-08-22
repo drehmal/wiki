@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Transcription of Artiface CXE-445
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

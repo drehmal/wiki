@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Thought-recording of Ekari, Number 1870
 
 --8<-- "spoiler.md"
 

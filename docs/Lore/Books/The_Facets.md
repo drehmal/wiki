@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# The Facets 
 
 --8<-- "spoiler.md"
 
@@ -9,7 +10,7 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
-# The Facets 
+## Extra Warning
 
 !!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above." 
 

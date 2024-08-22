@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+# The Path - Part One: The Arc of Twilight
+
 ### Coordinates:
 | **X** | **Y**| **Z** |
 |:-----:|:----:|:-----:|

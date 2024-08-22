@@ -12,7 +12,7 @@ tags:
 This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Empire of Avsohm]].
 
 ### Transcription:
-> It cannot be overstated just how "lucky" we are to have found this cavern and the Yahvlix energy source in the span of just a few years.
+> It cannot be overstated just how "lucky" we are to have found this cavern and the Yavhlix energy source in the span of just a few years.
 >
 > Among all minerals, rehntite has the highest potentia by far. It isn't really even close. Before discovering Mine #1, we were under the impression that it was also among the rarest minerals in the realm.
 >
@@ -20,7 +20,7 @@ This book can be found in a chest in the [[Rehntite Cave]]. It provides some ins
 >
 > The second is the rune itself. To carve the very hard rehntite, we need crystals only found on the Islands of Dusk and Dawn. Of course, Avsohm already controlled those seas when the cave was found.
 >
-> The third is a source of energy. For most of history, the amount of energy capable of being added to a rune was thought to have an upper limit. But Yahvlix changed all of that. By injecting Primal Energy into a rune, we could supercharge runes to unprecedented levels.
+> The third is a source of energy. For most of history, the amount of energy capable of being added to a rune was thought to have an upper limit. But Yavhlix changed all of that. By injecting Primal Energy into a rune, we could supercharge runes to unprecedented levels.
 >
 > That's why discovering this cave and starting Mine #1 was such an important development.
 >

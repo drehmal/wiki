@@ -6,7 +6,7 @@ The Drehmal map adds many new advancements to the geme that indicate points of i
 
 All advancements are sorted into these 4 categories: Drehmal, Discoveries, ???  Primordial and Lo'Dahr
 
-# List
+#% List
 
 ??? warning "Spoiler: Civilization"
     |              **Achievement**              |                                                                        **Description**                                                                         |               **How-to**               |

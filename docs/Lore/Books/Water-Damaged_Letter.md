@@ -2,6 +2,11 @@
 tags:
   - Books
 ---
+# Water-Damaged Letter
+
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
 
 ### Coordinates:
 | **X** | **Y**| **Z** |

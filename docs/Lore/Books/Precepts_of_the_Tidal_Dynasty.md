@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]] operated.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3737  |  141  | 3498  |
-
-## Location/Summary
-This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]] operated.
 
 ## Transcription
 > Precepts of the Tidal Dynasty:

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in a secret room in [[Drehua Temple]], hidden beneath the room with the other four Parables. It tells the ancient origin story of [[Drehmal]] themselves, beginning as a humble worm and being granted divinity when they were in the roots of the [[Primal Tree]] at the end of the First Avihm.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -90  |  154  | 2798  |
-
-## Location/Summary
-This book can be found on a lectern in a secret room in [[Drehua Temple]], hidden beneath the room with the other four Parables. It tells the ancient origin story of [[Drehmal]] themselves, beginning as a humble worm and being granted divinity when they were in the roots of the [[Primal Tree]] at the end of the First Avihm.
 
 ## Transcription
 > There once was a worm unlike all the others. Like many creatures of the earth, the worm slithered upon the ground; like many creatures of the earth, the worm was meek and unassuming. But unlike its brethren, this worm had potential.

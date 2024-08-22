@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in a manor on the outskirts of [[Eloa]], containing one last message from the noblewoman who last inhabited the manor. She and her family fled Eloa after [[Maelmari]] forces began to re-assert control over the area, and leaves the hall and the [[Sharksbane]] artifact to whoever finds this book.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -589  |  107  | 4671  |
-
-## Location/Summary
-This book can be found in a chest in a manor on the outskirts of [[Eloa]], containing one last message from the noblewoman who last inhabited the manor. She and her family fled Eloa after [[Maelmari]] forces began to re-assert control over the area, and leaves the hall and the [[Sharksbane]] artifact to whoever finds this book.
 
 ## Transcription
 > Dear Stranger,

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in the ruins of Old Mossfield.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4365  |  109  | 1614  |
-
-## Location
-This book can be found on a lectern in the ruins of Old Mossfield.
 
 ## Transcription
 > Sacred fire, burning bright,

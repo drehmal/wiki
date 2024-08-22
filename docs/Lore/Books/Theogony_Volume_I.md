@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book, along with its other two volumes, can be found in a chest inside the [[Drabyel]] Bookstore. This volume contains information on the three major deities of the world: [[Virtuo]], [[Maelihs]], and [[Drehmal]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  571  |  63   | 1839  |
-
-## Location/Summary
-This book, along with its other two volumes, can be found in a chest inside the [[Drabyel]] Bookstore. This volume contains information on the three major deities of the world: [[Virtuo]], [[Maelihs]], and [[Drehmal]].
 
 ## Transcription
 > Introduction

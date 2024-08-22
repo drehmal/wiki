@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in an item frame atop [[Aldregakar]], near the large pit with a waterfall.
+
 ## Coordinates
 | **X** | **Y** | **Z**  |
 | :---: | :---: | :----: |
 | 961.5 |  194  | 1115.5 |
-
-## Location
-This book can be found in an item frame atop [[Aldregakar]], near the large pit with a waterfall.
 
 ## Transcription
 > I have to find it before they come back...

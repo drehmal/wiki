@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest at the eastern extent of the swamp in [[Dahr's Domain]]. Written by a royal heir of a clan worshipping [[Lailoehn]] seeking tutorship from a rumored pyromancer somewhere in the swamp, it describes the author's experience convincing this mysterious [[Drehmari]] pyromancer to mentor them.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -479  |  40   |  203  |
-
-## Location/Summary
-This book can be found in a chest at the eastern extent of the swamp in [[Dahr's Domain]]. Written by a royal heir of a clan worshipping [[Lailoehn]] seeking tutorship from a rumored pyromancer somewhere in the swamp, it describes the author's experience convincing this mysterious [[Drehmari]] pyromancer to mentor them.
 
 ## Transcription
 > Entry 1:

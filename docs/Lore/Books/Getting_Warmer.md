@@ -6,13 +6,12 @@ tags:
 
 # Getting Warmer?
 
+This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[Merijool]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Lai]].
+
 ## Coordinates
 |  **X**  | **Y** |  **Z**  |
 | :-----: | :---: | :-----: |
 | -1428.5 |  85   | -1639.5 |
-
-## Location/Summary
-This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[Merijool]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Lai]].
 
 ## Transcription
 > Kind Traveler,

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1553 |  66   | -473  |
-
-## Location/Summary
-This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal.
 
 ## Transcription
 > Lorahn

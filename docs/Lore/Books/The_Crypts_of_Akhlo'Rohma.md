@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the library in [[Dusps]], and contains information on the crypts below [[Ancehl]] Castle.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2081  |  115  | -802  |
-
-## Location/Summary
-This book can be found in a chest in the library in [[Dusps]], and contains information on the crypts below [[Ancehl]] Castle.
 
 ## Transcription
 > The city-state of Ancehl was one of the largest and wealthiest places in Drehmal in the early days of Av2. Growing rich during the Deity War by famously not taking sides, its monarchs were begrudgingly respected and despised in equal measure. Even in those early days, there are records of a tunnel system beneath Akhlo'Rohma. Home to countless corpses, there are also secondary sources from Avsohm that suggest that the arts of alchemy were first theorized deep within by the wise nobles of Ancehl. Whatever secrets they may have hid in those days, it is certainly true that the tunnels grew in importance during the reign of Emperor Zorhis Ifeihl of Avsohm. In a ceremonial gesture after the capture of the serial killer known only as "Lake Man", part of the Crypts of Akhlo'Rohma became infamous as Avsohm's highest security prison.

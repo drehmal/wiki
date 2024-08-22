@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame, at the bottom of a deep cavern in the [[Birthing Grounds]], and describes an obsessive disciple's arrival at the site, as well as an attempted ritual to summon a Bonechild. This disciple can be inferred to be [[Ossein]].
+
 ## Coordinates
 |  **X**  | **Y** | **Z**  |
 | :-----: | :---: | :----: |
 | -2249.5 |   7   | 5583.5 |
-
-## Location/Summary
-This book can be found in an item frame, at the bottom of a deep cavern in the [[Birthing Grounds]], and describes an obsessive disciple's arrival at the site, as well as an attempted ritual to summon a Bonechild. This disciple can be inferred to be [[Ossein]].
 
 ## Transcription
 > Day 1: Arrival

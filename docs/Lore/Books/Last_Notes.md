@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in an old Avsohmic ship wrecked in [[Nimahj Swamp]], pondering on the location of one of the ship's crewmembers who left to find help at the [[Exodus Citadel]]. The coordinates mentioned in the book as Dahmar's last known location point players to a chest and small tomb-like structure with a skeleton head.
+
 ## Coordinates
 |  **X**  | **Y** | **Z**  |
 | :-----: | :---: | :----: |
 | -2262.5 |  97   | 2112.5 |
-
-## Location/Summary
-This book can be found in an item frame in an old Avsohmic ship wrecked in [[Nimahj Swamp]], pondering on the location of one of the ship's crewmembers who left to find help at the [[Exodus Citadel]]. The coordinates mentioned in the book as Dahmar's last known location point players to a chest and small tomb-like structure with a skeleton head.
 
 ## Transcription
 > It's been seven days.

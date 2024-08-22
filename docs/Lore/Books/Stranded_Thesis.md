@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern in [[Castle Greyspire]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -825  |  188  |  490  |
-
-## Location
-This book can be found on a lectern in [[Castle Greyspire]].
 
 ## Transcription
 > If reality is a deserted island, then there are three types of castaway.

@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest within a cage dangling from a floating island in [[Palaesida's Domain]]. It names the prisoner who was held in this cage as Kungahs, the Hateful Blade, listing his crimes and the punishment: life imprisonment within this gibbet-like cage.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  347  |  42   |  475  |
-
-## Location/Summary
-This book can be found in a chest within a cage dangling from a floating island in [[Palaesida's Domain]]. It names the prisoner who was held in this cage as Kungahs, the Hateful Blade, listing his crimes and the punishment: life imprisonment within this gibbet-like cage.
 
 ## Transcription
 > Here Hangs Kungahs, the Hateful Blade.

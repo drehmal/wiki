@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest at a church in western [[Spearhead Forest]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3145  |  153  |  762  |
-
-## Location/Summary
-This book can be found in a chest at a church in western [[Spearhead Forest]].
 
 ## Transcription
 > I am sure of it! I heard footsteps! Why can I not see those intruders, for whoever's sake!

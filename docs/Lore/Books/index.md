@@ -43,12 +43,14 @@ The title of the book.
 ## Spoilers
 Any spoiler warnings will go here, at the beginning of the page just after the title. If there are potential major story spoilers, then an image of a large, forboding door should block your view of the article without scrolling down, ensuring that you have proper time to react to the spoiler warning and click off if you do not want spoilers. After this image, any additional spoiler tags about specific areas or in-game benchmarks will be applied as necessary.
 
-
 For example, here is what the beginning of a page with spoilers for the 50% completion story event would look like (there are not actually any spoilers on this index page):
 
 --8<-- "spoiler.md"
 
 --8<-- "50_spoiler.md"
+
+## Summary
+Next, a short summary of the book is provided, including a written description of its location in the world and a synopsis of its contents (if necessary). This section will almost always link to another article on the wiki, usually the section of the region or specific location within which the book is found. It will also state the type of container the book is found in.
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -57,8 +59,6 @@ For example, here is what the beginning of a page with spoilers for the 50% comp
 
 First, a table with the unique x, y, and z coordinates of the book's container is provided. Note that two books may have the same coordinates if they are in different dimensions (although this kind of conflict is very unlikely).
 
-## Location/Summary
-Next, a short summary of the book is provided, including a written description of its location in the world and a synopsis of its contents (if necessary). This section will almost always link to another article on the wiki, usually the section of the region or specific location within which the book is found. It will also state the type of container the book is found in.
 
 If the book is very short or has no real interesting content, only the location is provided in this section.
 

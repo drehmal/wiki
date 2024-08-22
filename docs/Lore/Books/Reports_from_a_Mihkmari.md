@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in a large building in northwestern [[Av'Sal]], and describes the [[Mihkmari]]'s attempts to pillage the ruins of the city, finding nothing functional except a large door.
+
 ## Coordinates
 | **X**  | **Y** | **Z**  |
 | :----: | :---: | :----: |
 | -475.5 |  113  | 1466.5 |
-
-## Location/Summary
-This book can be found in an item frame in a large building in northwestern [[Av'Sal]], and describes the [[Mihkmari]]'s attempts to pillage the ruins of the city, finding nothing functional except a large door.
 
 ## Transcription
 > Day 4:

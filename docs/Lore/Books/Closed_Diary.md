@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern in [[Virtuo]]'s chamber in [[Ytaj]]. Written by the Goddess herself, it contains her thoughts and future direction following the meeting with the Aspects that she initiated following the events of her previous diary, [[Powerless]]. Within, she resolves to travel to [[Eastern Xivrhynt]], as she believes she could do more good in that scarred land, and takes her Parish with her, partially to remove [[Vahid]] from the continent.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  17   |  153  | -1703 |
-
-## Location/Summary
-This book can be found on a lectern in [[Virtuo]]'s chamber in [[Ytaj]]. Written by the Goddess herself, it contains her thoughts and future direction following the meeting with the Aspects that she initiated following the events of her previous diary, [[Powerless]]. Within, she resolves to travel to [[Eastern Xivrhynt]], as she believes she could do more good in that scarred land, and takes her Parish with her, partially to remove [[Vahid]] from the continent.
 
 ## Transcription
 > Of course, even Ytaj is horribly marred by chaos, conflict, and corruption. None of the Aspects are physically present, of course, terrified as they are of their own deaths at the teeth and claws of siblings. And the Tehrmari population was notably lower from my last visit near the end of the so-called “Deity War”. Apparently, more had lived within the palace until recently, when the Aspects’ servant cut down dozens in what sounded like an effort to “restructure” the law enforcement body.

@@ -5,13 +5,12 @@ tags:
 
 # The Path - Part Three: Eternal Enlightenment
 
+This book can be found in a chest at a tower in [[Sahd]]. It is the last of three books comprising "The Path," and establishes the ultimate goal of this religion: To gain enough wisdom through the unique [[Drehmari]] ability to form complex memories and become like [[Mari]], The Laughing Dragon, having glimpsed the secrets that make the many cycles of the world function. It also recontextualizes the symbol of the salmon from the second book, as this fish is tattooed upon followers of The Path to represent the eternal struggle against the current to learn the inner machinations of the world.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4669  |  174  | 5449  |
-
-## Location/Summary
-This book can be found in a chest at a tower in [[Sahd]]. It is the last of three books comprising "The Path," and establishes the ultimate goal of this religion: To gain enough wisdom through the unique [[Drehmari]] ability to form complex memories and become like [[Mari]], The Laughing Dragon, having glimpsed the secrets that make the many cycles of the world function. It also recontextualizes the symbol of the salmon from the second book, as this fish is tattooed upon followers of The Path to represent the eternal struggle against the current to learn the inner machinations of the world.
 
 ## Transcription
 > As we have seen, us Drehmari are blessed with a keen power of memory. But we are also blessed with other powers in common with the other creatures: pain, pleasure, and fear.

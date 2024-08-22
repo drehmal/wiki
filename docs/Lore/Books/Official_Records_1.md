@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Thesund]]. It establishes that this village was established by the children of Avsohmic citizens shortly after the fall of the empire, who were attempting to distance themselves from their past and the perceived sins of their ancestors.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -364  |  107  |  773  |
-
-## Location/Summary
-This book can be found in a chest in [[Thesund]]. It establishes that this village was established by the children of Avsohmic citizens shortly after the fall of the empire, who were attempting to distance themselves from their past and the perceived sins of their ancestors.
 
 ## Transcription
 > We call ourselves the Republic of Drehmal. We have seven sixteen year-olds, one seventeen year old, and ten fifteen-year-olds in our ranks. I’m the only fourteen-year-old on the Grand Council, and you had better believe that I’m proud of it. We're survivors, but we’re also pretty strong in our own right. When we aren’t hunting for food, we do our best to help the little kids.

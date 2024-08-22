@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the library in [[Dusps]], providing insight to the Casain diaspora from their home region to Dusps, and the political ramifications of that event.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2080  |  112  | -802  |
-
-## Location/Summary
-This book can be found in a chest in the library in [[Dusps]], providing insight to the Casain diaspora from their home region to Dusps, and the political ramifications of that event.
 
 ## Transcription
 > Casai, a land far to the west, across the Gulf of Drehmal and beyond the autumnal Merijool Peninsula, faced a great crisis at the dawn of the Third Avihm when the Avsohmic Empire fell. Maelihs came to conquer everything from Lorahn'Kahl to Merijool. Many Casain, while dedicated to their homeland, planned an exodus before Maelihs could wreck havoc on their towns and cities. Though many doubted that Maelihs would be able to make his way all the way north to Casai, those thoughts were put to rest when the high stronghold of Sal'Anyr at the heart of Anyr'Nogur fell within a single day. Starting then, children of Casai began a great migration to the East. They spread across the land, but most came here - Akhlo'Rohma. Unfortunately for them, a new home meant a new set of written and unwritten rules to become acquainted with.

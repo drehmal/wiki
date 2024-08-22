@@ -8,13 +8,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern in the large chapel in [[Voynahla's Domain]]. It is an elegy to [[Voynahla]], the Aspect of Death, concerning his suicide and antithetical nature to the rest of the Aspects.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  379  |  82   |  964  |
-
-## Location/Summary
-This book can be found on a lectern in the large chapel in [[Voynahla's Domain]]. It is an elegy to [[Voynahla]], the Aspect of Death, concerning his suicide and antithetical nature to the rest of the Aspects.
 
 ## Transcription
 > the aspect of death that killed itself cannot simply die, even by his own hand

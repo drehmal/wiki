@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writings of a teenage girl who made the journey to Teiruun from [[Mossfield]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 5626  |  187  | 3010  |
-
-## Location/Summary
-This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writings of a teenage girl who made the journey to Teiruun from [[Mossfield]].
 
 ## Transcription
 > It was a long journey and a tall, tall mountain to climb, but we finally made it! Thom's face is all white, but his breathing is steadily evening out. The monks of the monastery are so friendly and accepting! I'm especially fond of Monk Gerus. He helped carry Thom up the long and winding path to Teiruun. I can't help but feel... something when his smile touches the dimple at the corner of his mouth. I could listen to Monk Gerus talk about the Goddess's teachings all day. Ms. Fern told me to seek out her old friend Abbot Balthysar, but I heard from Monk Al'i that he has been away from Teiruun for many weeks. Hopefully he will return soon so I can give him Ms. Fern's letter from Mossfield!

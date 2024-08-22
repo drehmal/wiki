@@ -5,13 +5,12 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 3)
 
+This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj Swamp]] region. It is the third of four books in the "Tharhan: A Land of Conquest" series, continuing the saga of the Tharhan Empires. This chapter's contents include the eventual victory over Casain invaders, the foundation of the Second Tharhan Empire, and the empire's eventual subjugation at the hands of the [[Empire of Avsohm]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2205 |  92   | 2497  |
-
-## Location/Summary
-This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj Swamp]] region. It is the third of four books in the "Tharhan: A Land of Conquest" series, continuing the saga of the Tharhan Empires. This chapter's contents include the eventual victory over Casain invaders, the foundation of the Second Tharhan Empire, and the empire's eventual subjugation at the hands of the [[Empire of Avsohm]].
 
 ## Transcription
 > Then, just as it seemed that Casai had won, a surprise attack took center stage for the second time in as many days. The daughters of the forgotten rose from the earth; Caer Adacia had come to rescue the countrymen who had once condemned them!

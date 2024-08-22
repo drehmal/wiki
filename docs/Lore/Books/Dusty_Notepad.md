@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in an item frame, in a barred-off room of [[Greyspire Castle]].
+
 ## Coordinates
 | **X**  | **Y** | **Z** |
 | :----: | :---: | :---: |
 | -867.5 |  193  | 537.5 |
-
-## Location
-This book can be found in an item frame, in a barred-off room of [[Greyspire Castle]].
 
 ## Transcription
 > I have been barred from teaching as of today.

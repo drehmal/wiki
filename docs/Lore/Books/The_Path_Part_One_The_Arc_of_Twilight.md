@@ -5,13 +5,12 @@ tags:
 
 # The Path - Part One: The Arc of Twilight
 
+This book can be found in a chest in a tower in [[Sahd]]. The first of three books in "The Path," this text establishes the concept of the "Arc of Twilight." Fundamentally, this idea relies on the concept of cycles, using the examples of the water cycle and the Torahn rising and setting every day, despite the fact that we can only directly observe part of that cycle. Therefore, there must be an invisible portion of the cycle, an Arc of Twilight, and this applies to the concept of reincarnation as well.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4681  |  174  | 5449  |
-
-## Location/Summary
-This book can be found in a chest in a tower in [[Sahd]]. The first of three books in "The Path," this text establishes the concept of the "Arc of Twilight." Fundamentally, this idea relies on the concept of cycles, using the examples of the water cycle and the Torahn rising and setting every day, despite the fact that we can only directly observe part of that cycle. Therefore, there must be an invisible portion of the cycle, an Arc of Twilight, and this applies to the concept of reincarnation as well.
 
 ## Transcription
 > As creatures blessed with memory, we can see the cycles in nature that the others cannot.

@@ -7,13 +7,12 @@ tags:
 
 --8<-- "50_spoiler.md"
 
+This book can be found in a shulker box in the [[Exodus Vault]]. It contains some facts and some speculation on how the Resonant Eye functions from Kovis, a [[Blue Exodus]] staffer.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2743 |  29   | 2150  |
-
-## Location/Summary
-This book can be found in a shulker box in the [[Exodus Vault]]. It contains some facts and some speculation on how the Resonant Eye functions from Kovis, a [[Blue Exodus]] staffer.
 
 ## Transcription
 > Here at Blue Exodus, our technology is second to none.

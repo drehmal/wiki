@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in a small chapel in [[Faehrcyle]]. It is a hymn written to the minor Aspect [[Loeleyhn]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2035  |  72   | -3031 |
-
-## Location/Summary
-This book can be found on a lectern in a small chapel in [[Faehrcyle]]. It is a hymn written to the minor Aspect [[Loeleyhn]].
 
 ## Transcription
 > O Loeleyhn, Lady in White, may your roar echo in the mountain peaks and bless our valleys with the waters of life.

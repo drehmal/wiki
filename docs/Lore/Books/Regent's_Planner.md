@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, presumably Ehzar, it shows that by the present day, the Duke of Ancehl has died, meaning a regent must take over for the child Duchess, and discusses Ehzar's ambition to complete the [[Great Work]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1527  |  157  | -1966 |
-
-## Location/Summary
-This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, presumably Ehzar, it shows that by the present day, the Duke of Ancehl has died, meaning a regent must take over for the child Duchess, and discusses Ehzar's ambition to complete the [[Great Work]].
 
 ## Transcription
 > Daily Ledger: Av4 100, Drehmaklah 3

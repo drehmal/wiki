@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Firteid]] Libary, and tells an abridged history of the [[Tidal Dynasty]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3990  |  94   | 3438  |
-
-## Location/Summary
-This book can be found in a chest in the [[Firteid]] Libary, and tells an abridged history of the [[Tidal Dynasty]].
 
 ## Transcription
 > The Black Jungle; a lawless land, plunged into chaos because of the fall of the Empire of Vir, sought a ruler strong enough to bind together the region. The Tide Queen, whose real name is unknown, seized this opportunity to create the Tidal Dynasty and conquer all of the Jungle. It was soon discovered that she held unlimited potentia. She would use this ability to make herself effectively immortal,  regenerating all of her wounds and eradicating any diseases.

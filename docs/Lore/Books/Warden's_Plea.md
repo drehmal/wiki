@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in an item frame at Okhran Prison, in the northern portion of [[Palaesida's Domain]]. It notes an uptick in violent crime across [[Lo'Dahr]] in recent years, and requests either a crackdown on crime or increase funding to the facility.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 460.5 |  117  | 253.5 |
-
-## Location/Summary
-This book can be found in an item frame at Okhran Prison, in the northern portion of [[Palaesida's Domain]]. It notes an uptick in violent crime across [[Lo'Dahr]] in recent years, and requests either a crackdown on crime or increase funding to the facility.
 
 ## Transcription
 > Your Reverence Lord Ghian of the Naharja Scalebound,

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Helmshire]]. It describes a series of disappearances that fractured the community, resulting in about half of the village choosing to leave for a supposed sanctuary to the north.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2896  |  74   | 1265  |
-
-## Location/Summary
-This book can be found on a lectern in [[Helmshire]]. It describes a series of disappearances that fractured the community, resulting in about half of the village choosing to leave for a supposed sanctuary to the north.
 
 ## Transcription
 > I suppose in retrospect it really shouldn’t have been such a shock when half of Helmshire up and left, but it still doesn’t sit right with me how things went down.

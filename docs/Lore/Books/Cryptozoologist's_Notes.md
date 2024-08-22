@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest on the far northeastern coast of [[Faehrcyle]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4169  |  64   | -4055 |
-
-## Location
-This book can be found in a chest on the far northeastern coast of [[Faehrcyle]].
 
 ## Transcription
 > Enzio's Journal

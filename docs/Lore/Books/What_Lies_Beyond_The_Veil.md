@@ -5,13 +5,12 @@ tags:
 
 # What Lies Beyond the Veil?
 
+This book can be found in an item frame in the center of [[Mohta]], containing a meditation on the nature of outer space in Drehmal, what lies beyond the Veil that prevents observation beyond the moons of the realm.
+
 ## Coordinates
 | **X** | **Y** | **Z**  |
 | :---: | :---: | :----: |
 |  0.5  |  72   | 5280.5 |
-
-## Location/Summary
-This book can be found in an item frame in the center of [[Mohta]], containing a meditation on the nature of outer space in Drehmal, what lies beyond the Veil that prevents observation beyond the moons of the realm.
 
 ## Transcription
 > Whether we wanted it or not, the culture and religious beliefs of Lorahn'Kahl's people has been influenced to revolve around Drehmal's outer bodies: Lorahn, Loruhn, Lo'Dahr, and the Torahn.

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in the Golden Order Star Center observatory at [[Dusps]]. It contains some records on the astronomical observations of the moons of Drehmal, and posits that the [[Aspects]] may still be alive.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2138  |  116  | -878  |
-
-## Location/Summary
-This book can be found on a lectern in the Golden Order Star Center observatory at [[Dusps]]. It contains some records on the astronomical observations of the moons of Drehmal, and posits that the [[Aspects]] may still be alive.
 
 ## Transcription
 > Lorahn’s many colors captivate the poets, and much ink has been spilt across the land over Loruhn for its auroras and lazy circles across the horizon. But my eye continues to be pulled toward radiant Lo’Dahr, ancient muse of our order, serenely beaming down from the southern sky.

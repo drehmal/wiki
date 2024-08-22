@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Hevhlak]]. It contains a story told by the Wingmaker Arjen, warning the residents of Hevhlak about [[Tethlaen]] and assuring them that the Wingmakers have renounced him.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2205  |  69   |  181  |
-
-## Location/Summary
-This book can be found on a lectern in [[Hevhlak]]. It contains a story told by the Wingmaker Arjen, warning the residents of Hevhlak about [[Tethlaen]] and assuring them that the Wingmakers have renounced him.
 
 ## Transcription
 > We Ro of Hevhlak are far from beloved by the Scalebound of Naharja, and we would rather die than bend a knee to an officer of Talon or Moonsworn. But we remain a pious people, and when Aspect faith thrives, Wingmakers are never far behind. We try to offer them hospitality when they come, but these are difficult times.

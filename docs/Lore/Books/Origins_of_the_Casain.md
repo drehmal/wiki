@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Athrah]] library, describing the formation of the Casain ethnic group out of earlier tribes.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2710 |  53   | -1834 |
-
-## Location/Summary
-This book can be found in a chest in the [[Athrah]] library, describing the formation of the Casain ethnic group out of earlier tribes.
 
 ## Transcription
 > The Casain ethnicity is an offshoot of the Ebohni tribe (direct descendants are called Ebonfolk), a group centered in the present-day Ebony Veldt and Southern Casai. They interacted a lot with the tribes around them, mostly the Ebohni but occasionally Merians (tribes of Merijool) and Tharhans.

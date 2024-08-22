@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against the [[Order of Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -4015 |  60   | 5941  |
-
-## Location/Summary
-This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against the [[Order of Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
 
 ## Transcription
 > Av3 678, 6th of Ohmamari

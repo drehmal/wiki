@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in [[Lajani]]. It describes, as told by an elderly citizen of the village, how Lajani was once extremely prosperous and powerful when [[Noha]] was still alive, but lost the majority of its population after the [[Divine Schism]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  997  |  59   | -175  |
-
-## Location/Summary
-This book can be found in a chest in [[Lajani]]. It describes, as told by an elderly citizen of the village, how Lajani was once extremely prosperous and powerful when [[Noha]] was still alive, but lost the majority of its population after the [[Divine Schism]].
 
 ## Transcription
 > Great-Great-Great-Great-Great-Grampa Sorom told me that Lajani was once the biggest town in all of Lo’Dahr. Back then, he said, the grass went all the way to the river and beyond, and Noha’s bones weren’t even here. Instead, there were lots and lots of buildings and more fields than there are today. Even Naharja could not hope to compete with the power of the people from around here.

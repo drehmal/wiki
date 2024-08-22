@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depiction of the domain of [[Maelihs]] in the far southwest of the continent: The [[Hellcrags]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1724 |  161  | 1901  |
-
-## Location/Summary
-This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depiction of the domain of [[Maelihs]] in the far southwest of the continent: The [[Hellcrags]].
 
 ## Transcription
 > Heed my words,

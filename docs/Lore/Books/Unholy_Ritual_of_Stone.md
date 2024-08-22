@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in the ruins of [[Xor'Huul]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1275 |  47   | -4063 |
-
-## Location
-This book can be found on a lectern in the ruins of [[Xor'Huul]].
 
 ## Transcription
 > Zarhe Uhd Aesreh...

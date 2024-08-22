@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+The Pawn is a book that can be found in the [[Frozen Bite]] region, in the [[Nihilist's Cabin]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 5819  |  75   | -2991 |
-
-## Location
-The Pawn is a book that can be found in the [[Frozen Bite]] region, in the [[Nihilist's Cabin]].
 
 ## Transcription
 > There is most definitely another pawn of this higher being. Avsohmic documents are missing letters, words, paragraphs, entire pages. Ripped out by something. But what, and for why? Why act in this way?

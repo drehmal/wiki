@@ -5,13 +5,12 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
+This book can be found on a lectern in [[Ancehl Castle]]. It contains a reflection from the Duke of Ancehl, the de facto leader of the [[Akhlo'Rohma]] region, and how a tomb raider named Ehzar became his most trusted advisor.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1507  |  169  | -1947 |
-
-## Location/Summary
-This book can be found on a lectern in [[Ancehl Castle]]. It contains a reflection from the Duke of Ancehl, the de facto leader of the [[Akhlo'Rohma]] region, and how a tomb raider named Ehzar became his most trusted advisor.
 
 ## Transcription
 > I spent many good years as the Grand Councillor representing Aklo'Rohma in the Insohmic Coalition, and it was always in lockstep with the Duspian Parliament. Not anymore.

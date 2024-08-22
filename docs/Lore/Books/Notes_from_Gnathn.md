@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in a wrecked Avsohmic ship in [[Nimahj Swamp]]. It states that the ship's captain has disappeared, and the rest of the crew is now stuck.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2250 |  86   | 2119  |
-
-## Location/Summary
-This book can be found in a chest in a wrecked Avsohmic ship in [[Nimahj Swamp]]. It states that the ship's captain has disappeared, and the rest of the crew is now stuck.
 
 ## Transcription
 > The captain... he's gone.

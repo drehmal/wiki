@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in a small camp outside [[Mt. Yavhlix]]. It is written by an Insohmic official who had been attempting to open the gate to the facility within the mountain, but has effectively given up after finding no way to enter.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1818  |  66   | -4183 |
-
-## Location/Summary
-This book can be found in a chest in a small camp outside [[Mt. Yavhlix]]. It is written by an Insohmic official who had been attempting to open the gate to the facility within the mountain, but has effectively given up after finding no way to enter.
 
 ## Transcription
 > This is it. The last day of excavations. How many years of my life have been lost out among these endless snowdrifts, howling winds, and no life to speak of aside from our team?

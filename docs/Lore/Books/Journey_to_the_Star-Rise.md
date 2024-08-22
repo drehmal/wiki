@@ -4,13 +4,12 @@ tags:
 ---
 # Journey to the Star-Rise
 
+This book can be found on a lectern in the [[Dusps]] library. It tells of a fantastical, forgotten land that was home to [[Rihelma]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2087  |  114  | -807  |
-
-## Location/Summary
-This book can be found on a lectern in the [[Dusps]] library. It tells of a fantastical, forgotten land that was home to [[Rihelma]].
 
 ## Transcription
 > My great-great grandfather tells a tale of a forgotten, mystical land, known only by the Aspects and their kin - Aldregakar, the Star-Rise. An enormous umber plateau that rises high into the clouds above a lush, exotic jungle. Waterfalls cascade down its impossibly tall cliffs, carving vertical paths in the dragon-forged stone.

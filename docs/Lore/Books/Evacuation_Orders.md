@@ -7,13 +7,12 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
+This book can be found in a chest in [[Mt. Yavhlix]], written by [[Orix Cehein]] to all staff at the facility.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 26901 |  121  | -141  |
-
-## Location/Summary
-This book can be found in a chest in [[Mt. Yavhlix]], written by [[Orix Cehein]] to all staff at the facility.
 
 ## Transcription
 > To all Yavhlix personnel: We are to begin evacuation tomorrow morning. We detected massive fluctuations in energy coming from the anomaly, conditions are now unsafe for all non-essential personnel. If you are designated as essential, you will be notified individually.

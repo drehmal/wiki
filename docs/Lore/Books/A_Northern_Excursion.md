@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the Casain Residences of [[Dusps]]. It references the large Avsohmic pipes found in the northern portion of [[Akhlo'Rohma]], and the author resolves to follow them to their origin to the north.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2142  |  117  | -831  |
-
-## Location/Summary
-This book can be found in a chest in the Casain Residences of [[Dusps]]. It references the large Avsohmic pipes found in the northern portion of [[Akhlo'Rohma]], and the author resolves to follow them to their origin to the north.
 
 ## Transcription
 > I just got back from Marahza, that greenhouse village far to the north of Dusps. It was a lovely time. After visiting with family and sampling some of the many new vintages of Duspian honey-wine (or “mead”, as the locals call it) that they are brewing, we went out on a trip across the wide Resting River. That ended up being the most memorable part of the trip for me!

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Drabyel]], along with [[The Rise of Avsohm]]. It contains a very abridged history of the end of the [[Empire of Avsohm]], from the death of [[Drehn Mal'Sohm]] to the reign of the final two emperors and eventual collapse.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  520  |  67   | 1835  |
-
-## Location/Summary
-This book can be found in a chest in [[Drabyel]], along with [[The Rise of Avsohm]]. It contains a very abridged history of the end of the [[Empire of Avsohm]], from the death of [[Drehn Mal'Sohm]] to the reign of the final two emperors and eventual collapse.
 
 ## Transcription
 > Avsohm saw much diplomatic success under Drehn's reign, but his life was untimely cut short during a devastating plague. This coincided with a major decline in stability, exemplified by the rulers that followed. Drehn's successor was Emperor Zorhis Ifeihl. Although massively

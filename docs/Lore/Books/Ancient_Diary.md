@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Fort Nimahj]]. It contains a first-hand account of [[Maelihs]]' invasion of Sal'Anyr in Av2 1820, the event that functionally marked the collapse of [[Empire of Avsohm|Avsohm]], and with it, the end of the Second Avihm.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1712 |  151  | 1885  |
-
-## Location/Summary
-This book can be found in a chest in [[Fort Nimahj]]. It contains a first-hand account of [[Maelihs]]' invasion of Sal'Anyr in Av2 1820, the event that functionally marked the collapse of [[Empire of Avsohm|Avsohm]], and with it, the end of the Second Avihm.
 
 ## Transcription
 > Maelmaklah 16: 1820, Av2

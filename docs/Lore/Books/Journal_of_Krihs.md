@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Faehrcyle]]. Written by a traveler seeking information about their Faehrcylian ancestors, the book hints at the location of a [[Runic Catalyst]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3062  |  71   | -3463 |
-
-## Location/Summary
-This book can be found in a chest in [[Faehrcyle]]. Written by a traveler seeking information about their Faehrcylian ancestors, the book hints at the location of a [[Runic Catalyst]].
 
 ## Transcription
 > I buried it only 25 paces south of my bed.

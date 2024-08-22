@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in [[Faehrcyle]].
+
 ## Coordinates
 | **X**  | **Y** |  **Z**  |
 | :----: | :---: | :-----: |
 | 3094.5 |  83   | -2616.5 |
-
-## Location
-This book can be found in an item frame in [[Faehrcyle]].
 
 ## Transcription
 > Ohhh kindred! Spirits of the howling gale, do come to me. Children of the endless storm, beloved of the blizzard. Our brothers and sisters, sit down, sit down. There is a warm pyre here for you. Come to my circle, if only for a night. I do not fear, I cannot. Frostfang tribesmen never fear.

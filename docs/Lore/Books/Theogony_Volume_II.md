@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the Major [[Aspects]], the more powerful of the minor gods in the realm of Drehmal.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  564  |  63   | 1851  |
-
-## Location/Summary
-This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the Major [[Aspects]], the more powerful of the minor gods in the realm of Drehmal.
 
 ## Transcription
 > The Aspects are minor gods that assisted the Primal Tree in the creation of the realm before Av2. They no longer have much influence over the realm, as they wish not to interfere with it anymore. All of them are reptilian in some way, many of them taking the form of great winged beasts.

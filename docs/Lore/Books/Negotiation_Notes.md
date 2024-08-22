@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It contains the initial negotiation between the Project ArkAngel researchers and the representatives of [[Virtuo]] for the former to utilize the space behind the Kiln for Project ArkAngel, with the [[Virmari]] ultimately accepting in the hopes that learning more about divine magic can help the [[Drehmari]].
+
 ## Coordinates
 | **X**  | **Y** | **Z**  |
 | :----: | :---: | :----: |
 | 3193.5 |  88   | 3256.5 |
-
-## Location/Summary
-This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It contains the initial negotiation between the Project ArkAngel researchers and the representatives of [[Virtuo]] for the former to utilize the space behind the Kiln for Project ArkAngel, with the [[Virmari]] ultimately accepting in the hopes that learning more about divine magic can help the [[Drehmari]].
 
 ## Transcription
 > The Goddess of the Turquoise Isle was surprisingly gracious. Although the Serpent is our muse, She welcomed us with open arms. After feasting on a meal of local rice adorned with fragrant herbs and spices and washing it down with cool purified water taken from the springs of the Kiln itself, we spoke with Her Grand Pontiff, Arjuni, about the artifact and our proposal.

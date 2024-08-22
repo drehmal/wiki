@@ -5,13 +5,12 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
+This book can be found in a chest in [[Xor'Huul]]. It paints a picture of the final days of the kingdom of Xor'Huul, after a mysterious plague began to quickly kill off the city's priests. This caused the nobles to attempt to barricade themselves in, resulting in a clash between the commoners and nobility that killed off the entirety of the city's population through direct conflict or infection.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1152 |  57   | -4107 |
-
-## Location/Summary
-This book can be found in a chest in [[Xor'Huul]]. It paints a picture of the final days of the kingdom of Xor'Huul, after a mysterious plague began to quickly kill off the city's priests. This caused the nobles to attempt to barricade themselves in, resulting in a clash between the commoners and nobility that killed off the entirety of the city's population through direct conflict or infection.
 
 ## Transcription
 > Tahsgantuo 31: 1821

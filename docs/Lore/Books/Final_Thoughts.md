@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in a small house just outside of the [[Mt. Yavhlix]] region.
+
 ## Coordinates
 | **X**  | **Y** |  **Z**  |
 | :----: | :---: | :-----: |
 | 2344.5 |  66   | -3979.5 |
-
-## Location
-This book can be found in an item frame in a small house just outside of the [[Mt. Yavhlix]] region.
 
 ## Transcription
 > nothing could be worse than this.

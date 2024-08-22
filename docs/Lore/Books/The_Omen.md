@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest underground in the ruins of [[Old Elvett]]. It was written by a barkeeper about an ominous, hooded figure wielding a scythe in the bar, who the author calls "an emissary of the empire's end."
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -3178 |  62   | 1341  |
-
-## Location/Summary
-This book can be found in a chest underground in the ruins of [[Old Elvett]]. It was written by a barkeeper about an ominous, hooded figure wielding a scythe in the bar, who the author calls "an emissary of the empire's end."
 
 ## Transcription
 > There was a stranger at the bar last night. It was late, nearly midnight, and only one table of party-going Foundry laborers remained alongside the regulars. I was polishing the old Tharhan granite countertop, admiring my reflection and minding my business, when I noticed the tall

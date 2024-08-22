@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern, in a building on an island off the eastern coast of The [[Frozen Bite]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 6365  |  100  | -3012 |
-
-## Location
-This book can be found on a lectern, in a building on an island off the eastern coast of The [[Frozen Bite]].
 
 ## Transcription
 > Our memories fade. Every single one - no matter how cherished, loved, or valuable - will eventually leave our consciousness. Fight all you like, write as many diaries as you want, but we all lose eventually. The images and movies replay over and over in our heads with small and subtle changes until they are no longer recognizable. And some memories fade away without even that.

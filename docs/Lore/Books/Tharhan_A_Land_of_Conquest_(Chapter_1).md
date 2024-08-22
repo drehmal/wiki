@@ -5,13 +5,12 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 1)
 
+This book can be found on a lectern in [[Fort Nimahj]]. It is the first of four chapters, and tells the story of the First Tharhan Empire. Particular focus is given to their practices of shipping criminals away, sending felons south to [[Rhaveloth]] to be converted to [[Maelmari]] and misdemeants north to [[The Ebony Veldt]], where they would go on to found [[Caer Adacia]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1719 |  161  | 1901  |
-
-## Location/Summary
-This book can be found on a lectern in [[Fort Nimahj]]. It is the first of four chapters, and tells the story of the First Tharhan Empire. Particular focus is given to their practices of shipping criminals away, sending felons south to [[Rhaveloth]] to be converted to [[Maelmari]] and misdemeants north to [[The Ebony Veldt]], where they would go on to found [[Caer Adacia]].
 
 ## Transcription
 > Tharhan: A Land of Conquest

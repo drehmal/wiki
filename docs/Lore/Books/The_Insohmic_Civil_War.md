@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the library at [[Highfall]], and contains a historical account of the [[Insohmic Civil War]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 5970  |  77   | -1077 |
-
-## Location/Summary
-This book can be found in a chest in the library at [[Highfall]], and contains a historical account of the [[Insohmic Civil War]].
 
 ## Transcription
 > The Order of Insohm was as much of a blessing as it was a curse. It was an unstable, imperfect union of nations. Before the Battle of Drehmal (when Insohm went on to reclaim the land lost to Maelihs in the Dune Wars over 900 years ago), the greatest threat to this flawed Order was the Insohmic Civil War, when separatist nations attempted to leave Insohm.

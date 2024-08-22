@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern in [[Naharja]]. It establishes that Patronage Day occurs once every week (five days in Naharja), and is placed directly in front of a simplified calendar showing the current day of the week.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  222  |  85   | -876  |
-
-## Location/Summary
-This book can be found on a lectern in [[Naharja]]. It establishes that Patronage Day occurs once every week (five days in Naharja), and is placed directly in front of a simplified calendar showing the current day of the week.
 
 ## Transcription
 > Hear ye, hear ye!

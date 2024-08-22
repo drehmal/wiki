@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in western [[Ytaj]]. It is a biography of Oriann, a [[Tehrmari]] woman who was the only known person to truly befriend the Sky Aspect [[Rihelma]], and was known for riding Rihelma in battle during the [[Divine Schism]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -192  |  39   | -1598 |
-
-## Location/Summary
-This book can be found in a chest in western [[Ytaj]]. It is a biography of Oriann, a [[Tehrmari]] woman who was the only known person to truly befriend the Sky Aspect [[Rihelma]], and was known for riding Rihelma in battle during the [[Divine Schism]].
 
 ## Transcription
 > Ya’Kruul of the True Way. Commander Sereven. Amohn Aihura. Cehris Stonebreaker. Aside from being dead, these heroes of the Divine Schism all share another thing in common: being La’Tehrmari.

@@ -7,13 +7,12 @@ tags:
 
 --8<-- "75_spoiler.md"
 
+This book can be found in an item frame in the Administrative Wing of the [[Av'Sal Repository]]. It contains both formal and informal logs of world events from an Avsohmic intelligence officer.
+
 ## Coordinates
 | **X**  | **Y** | **Z**  |
 | :----: | :---: | :----: |
 | -216.5 |   9   | 1621.5 |
-
-## Location/Summary
-This book can be found in an item frame in the Administrative Wing of the [[Av'Sal Repository]]. It contains both formal and informal logs of world events from an Avsohmic intelligence officer.
 
 ## Transcription
 > *This book is split into two columns; one is a formal draft, detailing events pertinent to global affairs, while the other is a margin, filled with scribbled notes and complaints of a more personal nature. The writing in the left column is flowing cursive, while the writing in the right is closer to scratch.*

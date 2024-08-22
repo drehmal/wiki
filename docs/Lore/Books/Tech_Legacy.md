@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in a lighthouse on the east coast of [[Highfall Tundra]], written by the keeper of the lighthouse.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 6218  |  139  | -1764 |
-
-## Location/Summary
-This book can be found on a lectern in a lighthouse on the east coast of [[Highfall Tundra]], written by the keeper of the lighthouse.
 
 ## Transcription
 > I've not long for this world, but I can rest assured that the proud Daar's Gap Light will forever keep the ships off that blasted Faehrcylian shore.

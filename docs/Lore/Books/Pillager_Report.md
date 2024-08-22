@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in one of the buildings in [[Gozak]], referencing pillager activity at [[Castle Scarstone]] to the northeast of Gozak.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2252  |  50   | 2476  |
-
-## Location/Summary
-This book can be found in a chest in one of the buildings in [[Gozak]], referencing pillager activity at [[Castle Scarstone]] to the northeast of Gozak.
 
 ## Transcription
 > I've received reports of pillagers from the [[The Verdant Labyrinth Region|Verdant Labyrinth]] moving into the old ruined castle on the black mountain northeast of here. Apparently it's quite the formidable force. We'll have to assemble a squad of guard to take them out or persuade them to leave.

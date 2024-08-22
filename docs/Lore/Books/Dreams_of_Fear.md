@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern atop the Cult of Fear's Tower, in [[The Frozen Bite]]. It describes [[Tethlaen]], the Aspect of Fear, speaking to a devotee in dreams.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4621  |  75   | -2812 |
-
-## Location/Summary
-This book can be found on a lectern atop the Cult of Fear's Tower, in [[The Frozen Bite]]. It describes [[Tethlaen]], the Aspect of Fear, speaking to a devotee in dreams.
 
 ## Transcription
 > The fallen God speaks to me through dreams. He does not speak, but I know his purpose. His cult is destroyed, His influence all but evaporated, and He is angered. Now, terror grips the realm by the neck. The people are choked and cannot breathe. A new age of the Ever-Fear here.

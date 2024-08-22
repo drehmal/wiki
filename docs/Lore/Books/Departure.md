@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Morah]]. It describes a resident of Morah's decision to finally leave the village and pursue The Path, becoming a religious pilgrim in old age.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4517  |  148  | 5576  |
-
-## Location/Summary
-This book can be found on a lectern in [[Morah]]. It describes a resident of Morah's decision to finally leave the village and pursue The Path, becoming a religious pilgrim in old age.
 
 ## Transcription
 > I started to wonder whether it would ever happen. Only a couple years, I'd thought, living here in Morah, and then I'd be away.

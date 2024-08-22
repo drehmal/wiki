@@ -8,13 +8,12 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 26972 |  30   | -140  |
-
-## Location/Summary
-This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
 
 ## Transcription
 \*U1 = User 1 (Orix)

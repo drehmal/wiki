@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be located in a chest in the [[Nihilist's Cabin]] in the [[Frozen Bite]] region.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 5823  |  69   | -2987 |
-
-## Location/Summary
-This book can be located in a chest in the [[Nihilist's Cabin]] in the [[Frozen Bite]] region.
 
 ## Transcription
 > After what I saw beneath the Highfall Castle, I knew it was over. What I found was what ended Avsohm. I thought it was only myth - holes, endless holes, consuming and encompassing all.

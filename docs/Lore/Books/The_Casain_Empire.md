@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Athrah]] library, and tells a detailed history of the Casain Empire.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2725 |  54   | -1826 |
-
-## Location/Summary
-This book can be found in a chest in the [[Athrah]] library, and tells a detailed history of the Casain Empire.
 
 ## Transcription
 > The city of Athrah was founded sometime around Av2 1189 along the northern edges of the Redsteps. It was centered around the northern shores of Lake Athrah. A fierce warrior from the Zarha tribe of Southern Casai, Athrah Zarha, envisioned a grand kingdom that spanned across the Casain peninsula. The city of Athrah was the first step towards that goal.

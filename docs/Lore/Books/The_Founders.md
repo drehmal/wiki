@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern in eastern [[Naharja]]. It describes three of the founders of [[Tehrmari]] orders: Tehra, the leader of the Scalebound Priests that rule over the Tehrmari; Sereven, artist and founder of the Talon, the "peacekeeping" faction; and Froslea, leader of the Wingmakers.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  349  |  129  | -844  |
-
-## Location/Summary
-This book can be found on a lectern in eastern [[Naharja]]. It describes three of the founders of [[Tehrmari]] orders: Tehra, the leader of the Scalebound Priests that rule over the Tehrmari; Sereven, artist and founder of the Talon, the "peacekeeping" faction; and Froslea, leader of the Wingmakers.
 
 ## Transcription
 > In the beginning, there were three.

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the dark green building (Ehrmion's Home) in [[Dusps]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It has the exact same contents as [[Growing Fear]], with the exception of uncapitalized month abbreviations.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2175  |  111  | -828  |
-
-## Location/Summary
-This book can be found in a chest in the dark green building (Ehrmion's Home) in [[Dusps]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It has the exact same contents as [[Growing Fear]], with the exception of uncapitalized month abbreviations.
 
 ## Transcription
 > virma. 17

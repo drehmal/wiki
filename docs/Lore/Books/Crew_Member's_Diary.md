@@ -7,13 +7,12 @@ tags:
 
 --8<-- "75_spoiler.md"
 
+This book can be found in a chest in room A3 on [[The Aphelion]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -7   |  119  |  106  |
-
-## Location
-This book can be found in a chest in room A3 on [[The Aphelion]].
 
 ## Transcription
 > Never in a million years would I have thought I would be soaring in the skies amongst the black veil. Born on the earthly soil, and to thrive so far above it... it's a dream come true.

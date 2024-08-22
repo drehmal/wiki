@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Shivering Pines Inn]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4888  |  104  | -3355 |
-
-## Location
-This book can be found in a chest in [[Shivering Pines Inn]].
 
 ## Transcription
 > Ga'ran was working out there all day in the cold brewery. I'm so pleased that she likes my gift so much, but I hope she comes in before too late. A blizzard is rolling in, and no wife of mine is going to freeze to death!

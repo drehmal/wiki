@@ -7,13 +7,12 @@ tags:
 
 --8<-- "50_spoiler.md"
 
+This book can be found in a chest at the [[Exodus Citadel]]. It is an FAQ for new employees of the Citadel, intended to answer questions about the [[Exodus Vault|vault]] beneath it.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2614 |  70   | 2324  |
-
-## Location/Summary
-This book can be found in a chest at the [[Exodus Citadel]]. It is an FAQ for new employees of the Citadel, intended to answer questions about the [[Exodus Vault|vault]] beneath it.
 
 ## Transcription
 > Q. The Exodus Citadel is already at the bottom of Lake Nihmaj. Why did Blue Exodus build an even more secretive facility underneath it?

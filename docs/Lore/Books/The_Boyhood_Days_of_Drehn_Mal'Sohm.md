@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in northeastern [[Av'Sal]]. It is something of a propaganda piece, glorifying the childhood of Avsohm's first emperor, [[Drehn Mal'Sohm]], in the form of a childrens' book. It paints Drehn as a near-prodigy, as well as a young boy of incredibly upstanding moral character that other children should aim to replicate.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -86  |  72   | 1486  |
-
-## Location/Summary
-This book can be found in a chest in northeastern [[Av'Sal]]. It is something of a propaganda piece, glorifying the childhood of Avsohm's first emperor, [[Drehn Mal'Sohm]], in the form of a childrens' book. It paints Drehn as a near-prodigy, as well as a young boy of incredibly upstanding moral character that other children should aim to replicate.
 
 ## Transcription
 > Now children, listen, so you'll learn:

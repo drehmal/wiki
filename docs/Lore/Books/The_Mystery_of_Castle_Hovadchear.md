@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in a building in [[Mossfield]], and references the crater in southwestern [[Spearhead Forest]] that used to be home to Castle Hovadchear.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4153  |  71   | 1706  |
-
-## Location/Summary
-This book can be found in a chest in a building in [[Mossfield]], and references the crater in southwestern [[Spearhead Forest]] that used to be home to Castle Hovadchear.
 
 ## Transcription
 > I decided to visit the Hovadchear Crater this week. It was somewhat of a trek, being deep within the woods, but it was worth it. I started by following the road to the Verdant Labyrinth, but as soon as I saw gray cliffs, I went around them and followed the foothills of the mountain range to the west.

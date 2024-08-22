@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in the library atop [[Ihted Academy]]. It contains a description of a monster from the sky that killed the Avsohmic officers at the [[Ring Facility]] on the day of the Empire's fall, which took the form of a creature with "knotted, repulsive wings" before transforming into a drill and descending upon the facility.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -946  |  208  | -965  |
-
-## Location/Summary
-This book can be found in a chest in the library atop [[Ihted Academy]]. It contains a description of a monster from the sky that killed the Avsohmic officers at the [[Ring Facility]] on the day of the Empire's fall, which took the form of a creature with "knotted, repulsive wings" before transforming into a drill and descending upon the facility.
 
 ## Transcription
 > The twisted thing was visible first in the clouded sky above the invaders’ building. For an instant it hovered there on knotted, repulsive wings, and light itself bent around fractals of matte black and deep crimson. Then, a sound echoed through the lakebed, across the dying village, and through the bones of all onlookers assembled. It was serene at first hearing, a single clear, metallic note which rang out much like the bell on the tip of the Scalespeaker’s staff. But instead of running its course and dissipating, the sound slowly began to pitch up and down into an unsettlingly beautiful vibrato.

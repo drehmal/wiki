@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the ruined city of [[Ihted]], home to the sacred ziggurat of Mystic Elder [[Khive]]. It was written by an archaeologist studying the ruins of the town, and offers some insight as to the history of the location.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1044  |  65   | 1100  |
-
-## Location/Summary
-This book can be found in a chest in the ruined city of [[Ihted]], home to the sacred ziggurat of Mystic Elder [[Khive]]. It was written by an archaeologist studying the ruins of the town, and offers some insight as to the history of the location.
 
 ## Transcription
 > Today's scholars might not like it, but there was a time before Avsohm. This city is proof-positive.

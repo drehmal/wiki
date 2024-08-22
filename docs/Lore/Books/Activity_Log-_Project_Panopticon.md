@@ -8,13 +8,12 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
+This book can be found in a shulker box in the [[Resonant Halls]]. It describes the process of establishing contact with [[Tethlaen]] through the Resonant Eye, as written by [[Orix Cehein]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 26897 |  77   |  -39  |
-
-## Location/Summary
-This book can be found in a shulker box in the [[Resonant Halls]]. It describes the process of establishing contact with [[Tethlaen]] through the Resonant Eye, as written by [[Orix Cehein]].
 
 ## Transcription
 > Activity Log- Project Panopticon

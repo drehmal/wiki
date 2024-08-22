@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Shivering Pines Inn]]. It details the recent history of the two owners of Shivering Pines Inn, Ga'ran and Elmlhi, painting a picture of their life together after founding the inn.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4884  |  113  | -3361 |
-
-## Location/Summary
-This book can be found on a lectern in [[Shivering Pines Inn]]. It details the recent history of the two owners of Shivering Pines Inn, Ga'ran and Elmlhi, painting a picture of their life together after founding the inn.
 
 ## Transcription
 > Day 1:

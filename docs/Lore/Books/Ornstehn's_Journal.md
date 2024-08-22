@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the large domed building on the central island of [[Av'Sal]]. Within, the Mihkmari Ornstehn ponders the nature of a picture he found of a large, foreboding door, but ultimately decides not to pursue it, instead looking towards the door in Av'Sal's ruins.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -207  |  106  | 1648  |
-
-## Location/Summary
-This book can be found in a chest in the large domed building on the central island of [[Av'Sal]]. Within, the Mihkmari Ornstehn ponders the nature of a picture he found of a large, foreboding door, but ultimately decides not to pursue it, instead looking towards the door in Av'Sal's ruins.
 
 ## Transcription
 > Found this old picture in the rubble. Seems to be the only thing left when we arrived. This place has been ransacked by every bandit group since the start of the Third Avihm. Strange that they left this behind... or they didn't find it.

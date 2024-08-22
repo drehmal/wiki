@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in northwestern [[Av'Sal]]. Poetically, it tells the story of the discovery, conquest, and exploitation of [[Mt. Yavhlix]] by the [[Empire of Avsohm]], ending on an ominous note.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -399  |  107  | 1461  |
-
-## Location/Summary
-This book can be found in a chest in northwestern [[Av'Sal]]. Poetically, it tells the story of the discovery, conquest, and exploitation of [[Mt. Yavhlix]] by the [[Empire of Avsohm]], ending on an ominous note.
 
 ## Transcription
 > It was the survey drones who found it, I heard.

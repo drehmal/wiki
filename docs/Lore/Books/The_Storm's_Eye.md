@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in [[Naharja]], on the second floor of the building home to Adventuring Merchant Eliana. It refers to the Heart of the Tempest in [[Palaesida's Domain]], which was once a sea but dried after the death of [[Palaesida|its Aspect]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  267  |  91   | -809  |
-
-## Location/Summary
-This book can be found in a chest in [[Naharja]], on the second floor of the building home to Adventuring Merchant Eliana. It refers to the Heart of the Tempest in [[Palaesida's Domain]], which was once a sea but dried after the death of [[Palaesida|its Aspect]].
 
 ## Transcription
 > The Storm Eye

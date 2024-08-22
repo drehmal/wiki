@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+Also known as *The Parable of the Riverside Crag*, as denoted by a sign above the book.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -94  |  164  | 2807  |
-
-## Location/Summary
-Also known as *The Parable of the Riverside Crag*, as denoted by a sign above the book.
 
 This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, Drehmal confronts a bandit who is about to rob a [[Virmari]] traveler, preventing them from doing so and leading them from a life of crime to a life of righteousness as a devotee of the Final Aspect.
 

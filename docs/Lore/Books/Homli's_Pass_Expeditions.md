@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the Cult of Fear's Tower, in The [[Frozen Bite]]. It describes difficulties in navigating [[Faehrcyle]] due to the snow covering previously made signposts.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4624  |  69   | -2815 |
-
-## Location/Summary
-This book can be found in a chest in the Cult of Fear's Tower, in The [[Frozen Bite]]. It describes difficulties in navigating [[Faehrcyle]] due to the snow covering previously made signposts.
 
 ## Transcription
 > Expeditions through Homli's Pass to the west have proved entirely unsuccessful. The Dreamer says the bird totems of the old cults point the way, but the snow through the pass has buried them entirely. We suspect that the one we've seen through the pass is the only one left in Faehrcyle.

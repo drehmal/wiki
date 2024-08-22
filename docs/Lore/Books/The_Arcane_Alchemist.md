@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest at the [[Okeke]] inn. Its author is a practitioner of both arcanism and alchemy, and helps to explain the difference while asserting their personal preferences between the arts.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1566 |  71   | -438  |
-
-## Location/Summary
-This book can be found in a chest at the [[Okeke]] inn. Its author is a practitioner of both arcanism and alchemy, and helps to explain the difference while asserting their personal preferences between the arts.
 
 ## Transcription
 > I am an arcanist, yet I have pursued and studied the field of alchemy. While I am an arcanist, I still consider myself an alchemist. In many alchemical societies, this would be considered unacceptable. As an alchemist you undergo an immensely spiritual journey, you pledge an oath, adopt a creed, and adhere your practice to the rules defined by your society. On the other hand, anyone can be an arcanist. Simply by scribbling runes onto yourself or a catalyst, one can achieve immense power with little training. This is the major difference between alchemy and arcanism.

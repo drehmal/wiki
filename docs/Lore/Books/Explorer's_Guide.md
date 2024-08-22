@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+The book can be found in a small camp on the road between the [[Primal Caverns]] and The Village of [[Drabyel]]. It serves as a guide to the player for early game exploration, providing a short description of four regions that neighbor the [[Capital Valley]] region.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  581  |  81   | 1501  |
-
-## Location/Summary
-The book can be found in a small camp on the road between the [[Primal Caverns]] and The Village of [[Drabyel]]. It serves as a guide to the player for early game exploration, providing a short description of four regions that neighbor the [[Capital Valley]] region.
 
 ## Transcription
 > **The Heartwood:**

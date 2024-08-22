@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern on the westward bridge from the center island of [[Av'Sal]]. It is the first in the "Travels of Captain Ihb" series spread throughout the world, written by [[Devro Ihb]], and tells the tale of his origin and his clash with other pirates in [[Palisades Heath]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -261  |  88   | 1624  |
-
-## Location/Summary
-This book can be found on a lectern on the westward bridge from the center island of [[Av'Sal]]. It is the first in the "Travels of Captain Ihb" series spread throughout the world, written by [[Devro Ihb]], and tells the tale of his origin and his clash with other pirates in [[Palisades Heath]].
 
 ## Transcription
 > In the fjords of Palisades Heath lies a devious society of pirates. A tenacious lot before all else; even the rise of Avsohm was not enough to dislodge them from their lofty perches amongst the cliffs. They raid, pillage, and steal all across the coast of the Mouth of Drehmal.

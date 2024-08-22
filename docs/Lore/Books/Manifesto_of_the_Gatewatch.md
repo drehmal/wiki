@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Faehrcyle]], just outside the door to [[Mt. Yavhlix]]. It describes the duty of the Yavhlix Gatewatch, whose orders are to immediately seal off the facility in the event of communication loss to prevent any potential catastrophe from escaping the mountain.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1811  |  42   | -4288 |
-
-## Location/Summary
-This book can be found in a chest in [[Faehrcyle]], just outside the door to [[Mt. Yavhlix]]. It describes the duty of the Yavhlix Gatewatch, whose orders are to immediately seal off the facility in the event of communication loss to prevent any potential catastrophe from escaping the mountain.
 
 ## Transcription
 > We are that which maintains.

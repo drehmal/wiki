@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Rhaveloth]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2894 |  83   | 5185  |
-
-## Location
-This book can be found in a chest in [[Rhaveloth]].
 
 ## Transcription
 > Aaaah. I’m so happy now that I’m writing down my sighs! It took a lotta years of work to build the meat factory to what it was.

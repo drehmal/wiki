@@ -7,13 +7,12 @@ tags:
 
 --8<-- "postyav_spoiler.md"
 
+This book can be found in a chest in [[Azimuth Labs]]. Written by [[Vohski Ottis]], it provides an account of a [[Red Dawn]] project that attempted to create an experimental anti-aging treatment, and ended in the death of a volunteer.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3230  |  89   | -629  |
-
-## Location/Summary
-This book can be found in a chest in [[Azimuth Labs]]. Written by [[Vohski Ottis]], it provides an account of a [[Red Dawn]] project that attempted to create an experimental anti-aging treatment, and ended in the death of a volunteer.
 
 ## Transcription
 > Project Moonstrider: CONFIDENTIAL

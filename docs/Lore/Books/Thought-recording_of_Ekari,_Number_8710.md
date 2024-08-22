@@ -8,13 +8,12 @@ tags:
 
 --8<-- "75_spoiler.md"
 
+This book can be found in a chest in the Administrative Wing of the [[Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -252  |  36   | 1653  |
-
-## Location/Summary
-This book can be found in a chest in the Administrative Wing of the [[Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
 
 ## Transcription
 > I think, and it begins. Something alien to the landscape, yet rooted in nature. Something strong enough to support huge blocks of rehntite and currents of primal energy, yet fluid.

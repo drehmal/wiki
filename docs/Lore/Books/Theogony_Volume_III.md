@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the Minor [[Aspects]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  561  |  64   | 1849  |
-
-## Location/Summary
-This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the Minor [[Aspects]].
 
 ## Transcription
 > This textbook, the final in its series, discusses the Minor Aspects that govern our world. Although technically they may be less powerful than their Major brethren, they are all vital to the continued function of our realm in their own ways, and should be worshipped and revered as such.

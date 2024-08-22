@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in Kronglam's Fort, in the swamp region of [[Dahr's Domain]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -699  |  66   |  163  |
-
-## Location
-This book can be found in a chest in Kronglam's Fort, in the swamp region of [[Dahr's Domain]].
 
 ## Transcription
 > Not to worry, lads.

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Caer Adacia]]. Written by [[Thresa Vera]], it recounts the majority of her life up to her early adulthood over the course of 46 in-game pages, from her origins as a noblewoman to her time at the university of [[Av'Sal]]. Particular focus is given to her friendship with [[Baen Vehmil]] and [[Gohri Zed]], eventually forming a romantic relationship with the latter.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1267 |  49   |  478  |
-
-## Location/Summary
-This book can be found in a chest in [[Caer Adacia]]. Written by [[Thresa Vera]], it recounts the majority of her life up to her early adulthood over the course of 46 in-game pages, from her origins as a noblewoman to her time at the university of [[Av'Sal]]. Particular focus is given to her friendship with [[Baen Vehmil]] and [[Gohri Zed]], eventually forming a romantic relationship with the latter.
 
 ## Transcription
 > Before my father made me the sole ruler of one of the five wealthiest houses in all the former Chosen Kingdom, I was a relatively happy child. With him away and my mother dead, I was raised mostly by the sweet servants at our manor home. I loved to roam the gardens to find flowers for my tutor’s hair, or to learn about the history of Avsohm from the cantankerous gardener. Sometimes, I would even pretend to be Drehn Mal’Sohm, roaming the grounds while `single-handedly dispatching hordes of “Frostfang barbarians”.

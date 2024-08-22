@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in an abandoned Tehrmian village in northeastern [[Purity Peaks]]/southeastern [[Akhlo'Rohma]]. It provides some insight on the history of the Purity Peaks/Tehrmia region, reminiscing over days when the [[Tehrmari]] presence on the continent was much stronger.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2744  |  81   | -389  |
-
-## Location/Summary
-This book can be found in a chest in an abandoned Tehrmian village in northeastern [[Purity Peaks]]/southeastern [[Akhlo'Rohma]]. It provides some insight on the history of the Purity Peaks/Tehrmia region, reminiscing over days when the [[Tehrmari]] presence on the continent was much stronger.
 
 ## Transcription
 > It's hard not to get a little misty-eyed when you see the state of this place. The roofs are all falling in on themselves, the shrines are dusty and cracking, and there is no sign of laughter here anymore.

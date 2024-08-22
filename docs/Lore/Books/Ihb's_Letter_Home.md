@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. It is written by [[Devro Ihb]] to the people of his hometown, after his books describing his travels have made him a famous figure among the children of the town in particular.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1807  |  108  | 3311  |
-
-## Location/Summary
-This book can be found in a chest in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. It is written by [[Devro Ihb]] to the people of his hometown, after his books describing his travels have made him a famous figure among the children of the town in particular.
 
 ## Transcription
 > Children of Kazanni!

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame at the Avsohmic Launch Site along the western coast of [[Anyr'Nogur]]. It is a document of the first Avsohmic mission to explore [[Eastern Xivrhynt]], the mysterious continent far to the east of Drehmal.
+
 ## Coordinates
 |  **X**  | **Y** | **Z**  |
 | :-----: | :---: | :----: |
 | -3971.5 |  120  | 1613.5 |
-
-## Location/Summary
-This book can be found in an item frame at the Avsohmic Launch Site along the western coast of [[Anyr'Nogur]]. It is a document of the first Avsohmic mission to explore [[Eastern Xivrhynt]], the mysterious continent far to the east of Drehmal.
 
 ## Transcription
 > Report #1

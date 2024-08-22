@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in the [[Numencore]]. Written by a researcher at the Numencore Facility, it pulls together different anecdotes about the life of [[Orix Cehein]], who has become something of a hero to the author. The book claims that Orix was a masterful arcanist, having previously served as a soldier in the [[Divine Schism]] and worked as a covert operative for the Empire before being assigned to [[Mt. Yavhlix]], where what he saw within the Resonant Eye changed him.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 27341 |  124  |  96   |
-
-## Location/Summary
-This book can be found in a chest in the [[Numencore]]. Written by a researcher at the Numencore Facility, it pulls together different anecdotes about the life of [[Orix Cehein]], who has become something of a hero to the author. The book claims that Orix was a masterful arcanist, having previously served as a soldier in the [[Divine Schism]] and worked as a covert operative for the Empire before being assigned to [[Mt. Yavhlix]], where what he saw within the Resonant Eye changed him.
 
 ## Transcription
 > It is difficult now to believe, but there was a time when Chief Observer Orix was not spending nineteen hours a day at the Resonant Eye, grimly searching and sending queries into the Nothing.

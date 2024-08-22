@@ -7,13 +7,12 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
+This book can be found in a chest inside [[Mt. Yavhlix]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 26898 |  117  | -139  |
-
-## Location
-This book can be found in a chest inside [[Mt. Yavhlix]].
 
 ## Transcription
 > I watched it kill Mirsu. My best friend. We got along so well, despite everything.

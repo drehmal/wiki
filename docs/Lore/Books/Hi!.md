@@ -5,13 +5,12 @@ tags:
 
 # Hi! :)
 
+This book can be found in a chest in [[Rhaveloth]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2875 |  73   | 5256  |
-
-## Location
-This book can be found in a chest in [[Rhaveloth]].
 
 ## Transcription
 > To my dearest Komsin,

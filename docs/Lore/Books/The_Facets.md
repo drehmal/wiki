@@ -193,13 +193,12 @@ It is believed that this book represents a reality in which [[Lahrs]], Aspect of
 
 ## Facet VII
 
+This book can be found in a chest at [[Yriel's Tomb]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1923  |  25   | 1865  |
-
-## Location/Summary
-This book can be found in a chest at [[Yriel's Tomb]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
 
 The final facet seems to be Rihelma's prophecy for what would happen to the world if the player were to succeed in the Ambition. In this timeline, "children of quartz and glass" awaken, likely referring to the resurrection of Avsohm (figuratively and/or literally through the resurrection of important figures and rebuilding of its ruins). They proceed to take "the treasures of the tomb," likely referring to the [[Mythbreaker]], successfully using it to tear through and peer beyond the Veil. This ends on a positive note: "millions of flowers will bloom like golden sand on a placid seashore" may refer to the fulfillment of [[Anyr]]'s goal of conquering and ruling over all of existence as a god-emperor, or it may be something else.
 

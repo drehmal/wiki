@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Firteid]] library. It describes the regional holiday of Wellspring Day, from the traditional rituals performed on the day to the performances, foods, and cultural exchanges that came to be added to its festivities.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3997  |  82   | 3449  |
-
-## Location/Summary
-This book can be found on a lectern in [[Firteid]] library. It describes the regional holiday of Wellspring Day, from the traditional rituals performed on the day to the performances, foods, and cultural exchanges that came to be added to its festivities.
 
 ## Transcription
 > When Lorahn begins to glow blue, the intensely pungent and spicy aroma of kehma begins flowing through the wide avenues of Firteid and Vulteid. Wellspring Day has come again!

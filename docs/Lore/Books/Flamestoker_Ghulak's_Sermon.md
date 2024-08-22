@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Lai|Brightwyrm Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2801 |  70   | 5265  |
-
-## Location/Summary
-This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Lai|Brightwyrm Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
 
 ## Transcription
 > My brethren,

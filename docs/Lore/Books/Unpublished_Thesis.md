@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in [[Castle Greyspire]]. It contains ruminations on the nature of the heart and mind, and the hypocrisy of the latter.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -827  |  204  |  497  |
-
-## Location/Summary
-This book can be found in a chest in [[Castle Greyspire]]. It contains ruminations on the nature of the heart and mind, and the hypocrisy of the latter.
 
 ## Transcription
 > The Heart is UNORDERED. It is the unconscious drive of creation. It is thoughtless, acting through body and body alone. It is an unordered object, one of many but the greatest of them. It cannot be judged as rational or irrational. It simply is.

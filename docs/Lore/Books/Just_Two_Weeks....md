@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in an item frame in a house in [[Sevick]], an island northeast of [[Mossfield]]. It tells the story of a Drehmari about to turn 16 years old as Sevick's plague craze hits, with the author's family quickly devolving to the point of attempting to surgically remove "infected" tissue from themselves, despite the fact there is likely no plague at all.
+
 ## Coordinates
 | **X**  | **Y** | **Z**  |
 | :----: | :---: | :----: |
 | 5024.5 |  79   | 1104.5 |
-
-## Location/Summary
-This book can be found in an item frame in a house in [[Sevick]], an island northeast of [[Mossfield]]. It tells the story of a Drehmari about to turn 16 years old as Sevick's plague craze hits, with the author's family quickly devolving to the point of attempting to surgically remove "infected" tissue from themselves, despite the fact there is likely no plague at all.
 
 ## Transcription
 > Dahrohma 3

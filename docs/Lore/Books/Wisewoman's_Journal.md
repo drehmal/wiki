@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest atop Mt. Mekta, in the northeastern area of the [[Merijool]] region. It appears to have been written on the day of Avsohm's fall.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -937  |  204  | -1684 |
-
-## Location/Summary
-This book can be found in a chest atop Mt. Mekta, in the northeastern area of the [[Merijool]] region. It appears to have been written on the day of Avsohm's fall.
 
 ## Transcription
 > Av2 1820, 15th of Drehmaklah

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern in the [[Burnt Palace]]. It contains the result of a [[Maelmari]] study on the [[Torahn]], concluding that it is, in fact, a pufferfish.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -3993 |  69   | 6051  |
-
-## Location/Summary
-This book can be found on a lectern in the [[Burnt Palace]]. It contains the result of a [[Maelmari]] study on the [[Torahn]], concluding that it is, in fact, a pufferfish.
 
 ## Transcription
 > We are the Sunchasers, the most highly esteemed branch of Lord Maelihs' scientific division. Our glorious task is to chart the path of the Torahn across the sky, in order to divine its secrets and determine its true nature. And finally, we have succeeded.

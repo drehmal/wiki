@@ -7,13 +7,12 @@ tags:
 
 --8<-- "50_spoiler.md"
 
+This book can be found in a chest in the [[Exodus Vault]], in which Kahmas ponders whether the continued expansionism of Avsohm is warranted, or if it will ultimately become too dangerous.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2650 |  32   | 2125  |
-
-## Location/Summary
-This book can be found in a chest in the [[Exodus Vault]], in which Kahmas ponders whether the continued expansionism of Avsohm is warranted, or if it will ultimately become too dangerous.
 
 ## Transcription
 > At first, the differences between Emperor Drehn and Emperor Anyr are blinding. Drehn was a peaceful ruler, chosen by the people. Anyr was a great general, chosen by a committee. While Drehn was eternally humble, Anyr is proud and ostentatious.

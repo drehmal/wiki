@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Empire of Avsohm]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1697  |  32   | -2776 |
-
-## Location/Summary
-This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Empire of Avsohm]].
 
 ## Transcription
 > It cannot be overstated just how "lucky" we are to have found this cavern and the Yavhlix energy source in the span of just a few years.

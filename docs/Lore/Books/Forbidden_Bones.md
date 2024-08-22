@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest beneath a hidden trapdoor in Ohmswil's Emporium, just outside [[Tharxax City]]. It discusses the power stored within the bones of arcanists, which can be incredibly valuable to other magic-users.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2158 |  73   | 3784  |
-
-## Location/Summary
-This book can be found in a chest beneath a hidden trapdoor in Ohmswil's Emporium, just outside [[Tharxax City]]. It discusses the power stored within the bones of arcanists, which can be incredibly valuable to other magic-users.
 
 ## Transcription
 > Their bones are valuable. More than any stick, stone, dawn-dusk crystal, gem, or ancient rehntite scrap. They are of marrow & magic, and it rots their very core. The more tattoos a blasphemous arcanist acquires - the more potentia they draw from themselves - the more abhorrent and powerful their osseous matter becomes. The body was not meant to be a catalyst. Did you know that if an arcanist overexerts themselves, they are consumed by a blaze of chromatic fury? They burn from the inside-out, their plasma vaporizes and their flesh becomes carbon dust. All they leave behind is a pile of bones blackened and stained with golden swirls, ripe for my taking. Forcing an arcanist past their limits is certainly no easy feat - especially for those born with inordinate potentia, or imbibed on debauch khivesbrew.

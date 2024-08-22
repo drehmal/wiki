@@ -5,13 +5,12 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
+This book can be found in a chest in the [[Burnt Palace]]. It tells the tale of [[Klyhf Him'Lahk]], an alchemist from [[Red Dawn]] who defected to [[Maelihs]] in early Av3, and grew over time to become a genuine friend of the deity, working for him while also attempting to complete the [[Great Work]] on the side. This book establishes that the Great Work is the wielding of divine magic by a non-deity, and eventually, the author decides that the only way to complete the Great Work is to attempt to sacrifice Mael.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -3989 |  90   | 6021  |
-
-## Location/Summary
-This book can be found in a chest in the [[Burnt Palace]]. It tells the tale of [[Klyhf Him'Lahk]], an alchemist from [[Red Dawn]] who defected to [[Maelihs]] in early Av3, and grew over time to become a genuine friend of the deity, working for him while also attempting to complete the [[Great Work]] on the side. This book establishes that the Great Work is the wielding of divine magic by a non-deity, and eventually, the author decides that the only way to complete the Great Work is to attempt to sacrifice Mael.
 
 ## Transcription
 > Av3 9, 5th of Torahnlahu

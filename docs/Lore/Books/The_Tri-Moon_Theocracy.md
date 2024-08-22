@@ -4,13 +4,12 @@ tags:
 ---
 # The Tri-Moon Theocracy
 
+This book can be found in a chest in [[Mohta]], and contains a history of the [[Tri-Moon Theocracy]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -8   |  73   | 5300  |
-
-## Location/Summary
-This book can be found in a chest in [[Mohta]], and contains a history of the [[Tri-Moon Theocracy]].
 
 ## Transcription
 > The Tri-Moon Theocracy was an ancient civilization that was founded before even the Avsohmic Empire rose to power, and were the source of several conflicts throughout Av2 1700.

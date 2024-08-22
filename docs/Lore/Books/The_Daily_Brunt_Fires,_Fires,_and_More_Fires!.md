@@ -5,13 +5,12 @@ tags:
 
 # The Daily Brunt: Fires, Fires, and More Fires!
 
+This book can be found in a chest in [[Rhaveloth]]. It is a community newspaper article, reporting on a building in eastern Rhaveloth burning down.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2813 |  73   | 5248  |
-
-## Location/Summary
-This book can be found in a chest in [[Rhaveloth]]. It is a community newspaper article, reporting on a building in eastern Rhaveloth burning down.
 
 ## Transcription
 > On the eastern side of Rhaveloth, multiple fires have sprung up, from a shack atop the critically acclaimed The Black Tree Restaurant and Bar to a small stairwell. Both have been in poorer residents homes, a rumor (that I'm making up) says that there may just be more than meets the eye...

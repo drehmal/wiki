@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in a chest in [[Lopaja Town]]. It is an attempt to simply explain the concept of resonance, and in doing so, explain what the duty of the Aspect of Resonance, [[Lahrs]], is.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  507  |  78   | -1377 |
-
-## Location/Summary
-This book can be found in a chest in [[Lopaja Town]]. It is an attempt to simply explain the concept of resonance, and in doing so, explain what the duty of the Aspect of Resonance, [[Lahrs]], is.
 
 ## Transcription
 > It sometimes absolutely dazzles my gourd, but there are living Tehrmari on this very moon who cannot even comprehend the domain of Lahrs.

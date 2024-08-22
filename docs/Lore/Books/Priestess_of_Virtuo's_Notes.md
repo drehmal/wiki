@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest at the Parish of Virtuo in [[Highfall]], expressing dissent against the worship of [[Virtuo]] as opposed to more traditional worship of [[Tethlaen]] in the far north.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 5907  |  71   | -1115 |
-
-## Location/Summary
-This book can be found in a chest at the Parish of Virtuo in [[Highfall]], expressing dissent against the worship of [[Virtuo]] as opposed to more traditional worship of [[Tethlaen]] in the far north.
 
 ## Transcription
 > I'm sick and tired of this day-by-day worship of Virtuo, the goddess who has abandoned us. My ancestors refused to worship her for a reason, and a good reason it was. In the north, Tethlaen worship is far more common, but in Highfall, they are blinded by a false hope of peace and prosperity, despite there being none since the dawn of the realm.

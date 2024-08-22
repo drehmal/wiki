@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Xor'Huul]]. It describes how the city came to be, explaining that its inhabitants were originally the final tribe in the far north of Casai to be assimilated under King Athrah Zarha in the founding of the Casain Empire. They were sent away to the far north, and landed on the [[Island of Dawn]], where they settled in a series of caverns and came to worship the Vorthrah (crystal mites) that inhabited the island.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -1221 |  66   | -4150 |
-
-## Location/Summary
-This book can be found in a chest in [[Xor'Huul]]. It describes how the city came to be, explaining that its inhabitants were originally the final tribe in the far north of Casai to be assimilated under King Athrah Zarha in the founding of the Casain Empire. They were sent away to the far north, and landed on the [[Island of Dawn]], where they settled in a series of caverns and came to worship the Vorthrah (crystal mites) that inhabited the island.
 
 ## Transcription
 > In the year Av2 1256, our ancestors, the mighty Clan Xorha Barbarians of Northern Casai, rightfully slew the Warrior-King Athrah Zarha in battle after years of religious discrimination and threats of forced assimilation. Our hands were forced, and yet, those who inherited his power were, to our greatest fears, far worse than the so-called uniter.

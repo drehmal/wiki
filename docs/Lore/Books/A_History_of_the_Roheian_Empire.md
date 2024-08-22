@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found in an item frame at Fort Aelon, in the northwestern portion of [[Nahyn's Domain]]. It describes the history of the [[Roheian Empire]], a [[Tehrmari]] political entity born from a group of people forced out of [[Naharja]].
+
 ## Coordinates
 | **X** | **Y** | **Z**  |
 | :---: | :---: | :----: |
 | 60.5  |  187  | -237.5 |
-
-## Location/Summary
-This book can be found in an item frame at Fort Aelon, in the northwestern portion of [[Nahyn's Domain]]. It describes the history of the [[Roheian Empire]], a [[Tehrmari]] political entity born from a group of people forced out of [[Naharja]].
 
 ## Transcription
 > Our history has tenuous and humble beginnings. Initially, our people lived in Naharja, but were exiled by the pious La'Tehrmari due to rebellious nature and unorthodox religious views. We settled here, and founded the Free Lands of Rohei, a sanctuary for all heterodox Tehrmari.

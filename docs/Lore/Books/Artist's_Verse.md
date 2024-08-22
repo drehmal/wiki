@@ -7,13 +7,12 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
+This book can be found on a lectern, on an isolated floating island in the northern portion of [[Rihelma's Domain]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  809  |  116  |  672  |
-
-## Location
-This book can be found on a lectern, on an isolated floating island in the northern portion of [[Rihelma's Domain]].
 
 ## Transcription
 > I gape, aghast, at events cruel,

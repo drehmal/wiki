@@ -7,13 +7,12 @@ tags:
 
 --8<-- "50_spoiler.md"
 
+This book can be found in a chest in the [[Exodus Vault]], with a Blue Exodus Sergeant gloating about their colossal weapons being used on [[The Aphelion]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -2677 |  33   | 2258  |
-
-## Location/Summary
-This book can be found in a chest in the [[Exodus Vault]], with a Blue Exodus Sergeant gloating about their colossal weapons being used on [[The Aphelion]].
 
 ## Transcription
 > They told me that my guns were too big.

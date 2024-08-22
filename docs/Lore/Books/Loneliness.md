@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest at a church in western [[Spearhead Forest]]. It is written by a person who has begun squatting in the abandoned church, and has appointed themselves its guardian.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 3156  |  151  |  761  |
-
-## Location/Summary
-This book can be found in a chest at a church in western [[Spearhead Forest]]. It is written by a person who has begun squatting in the abandoned church, and has appointed themselves its guardian.
 
 ## Transcription
 > I'm now the resident of this place. It's sickeningly quiet in here, so different from what I lived back in the city.

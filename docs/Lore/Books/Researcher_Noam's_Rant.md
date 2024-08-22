@@ -7,13 +7,12 @@ tags:
 
 --8<-- "25_spoiler.md"
 
+This book can be found in a chest in [[Sal'Mevir]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2570  |  181  | 1221  |
-
-## Location
-This book can be found in a chest in [[Sal'Mevir]].
 
 ## Transcription
 > Blue Exodus showed up on our doorstep today asking for us to take care of this fragment of Primal Energy. Serpent only knows what it's for.

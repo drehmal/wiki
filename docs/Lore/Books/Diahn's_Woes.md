@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in [[Marahza]]. Found in a house divided down the middle, with one red half growing plants on carnelian nylium and the other blue half growing plants on aventurine nylium, the book tells how this came to be, with the author and her husband disagreeing on which to cultivate and decorate with.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 2266  |  76   | -1592 |
-
-## Location/Summary
-This book can be found in a chest in [[Marahza]]. Found in a house divided down the middle, with one red half growing plants on carnelian nylium and the other blue half growing plants on aventurine nylium, the book tells how this came to be, with the author and her husband disagreeing on which to cultivate and decorate with.
 
 ## Transcription
 > My husband just has no taste! Our lives were nothing but marital bliss for the better part of a decade, but then Orae came to visit from her little village in Tehrmia.

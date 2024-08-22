@@ -5,13 +5,12 @@ tags:
 
 --8<-- "spoiler.md"
 
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It describes the creation of Project ArkAngel, which resulted in the creation of the facility that we find this book in, with the ultimate goal of creating a portal to [[Lo'Dahr]].
+
 ## Coordinates
 | **X**  | **Y** | **Z**  |
 | :----: | :---: | :----: |
 | 3190.5 |  88   | 3241.5 |
-
-## Location/Summary
-This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It describes the creation of Project ArkAngel, which resulted in the creation of the facility that we find this book in, with the ultimate goal of creating a portal to [[Lo'Dahr]].
 
 ## Transcription
 > Project ArkAngel

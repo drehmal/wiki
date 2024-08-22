@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Burnt Palace]]. It contains intel on the [[Aphelion]], to be delivered to the [[Burnt Generals]].
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -3958 |  64   | 6003  |
-
-## Location/Summary
-This book can be found in a chest in the [[Burnt Palace]]. It contains intel on the [[Aphelion]], to be delivered to the [[Burnt Generals]].
 
 ## Transcription
 > This is a report compiling all known information about the Aphelion and is to be delivered to Rhalon, the Third Burnt General.

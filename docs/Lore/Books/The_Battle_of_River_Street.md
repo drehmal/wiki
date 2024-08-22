@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest beneath a staircase within a house in [[Firteid]]. The author of the book lists several reasons why their neighbor planting a rose bush is destructive to the community, and threatens to personally remove it.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4024  |  80   | 3444  |
-
-## Location/Summary
-This book can be found in a chest beneath a staircase within a house in [[Firteid]]. The author of the book lists several reasons why their neighbor planting a rose bush is destructive to the community, and threatens to personally remove it.
 
 ## Transcription
 > Oh. My. Gosh. Siri Heipan just got a new red rose bush. This is a blatant violation of the neighborhood code. Let me just list a few reasons why she has ruined our whole community:

@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in the [[Old Insohmic Library]]. It documents the use of airships in Av3, from their rediscovery in Av3 509 by the [[Order of Insohm]] to their use in warfare, as well as information about some notable airships.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 4546  |  100  | 1582  |
-
-## Location/Summary
-This book can be found in a chest in the [[Old Insohmic Library]]. It documents the use of airships in Av3, from their rediscovery in Av3 509 by the [[Order of Insohm]] to their use in warfare, as well as information about some notable airships.
 
 ## Transcription
 > Ever since Professor Hemfihl reverse engineered Mael's airship technology in Av3 509, the people of Drehmal have been changed for the better with far more convenient trading and travelling.

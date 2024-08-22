@@ -4,13 +4,12 @@ tags:
 ---
 # TO-DO LIST
 
+This book can be found in an item frame on a tree within the main central domed building in [[Av'Sal]]. It is seemingly written by a [[Mihkmari]] inhabitant of the ruined capital.
+
 ## Coordinates
 | **X** | **Y** | **Z**  |
 | :---: | :---: | :----: |
 | -213  | 107.5 | 1645.5 |
-
-## Location/Summary
-This book can be found in an item frame on a tree within the main central domed building in [[Av'Sal]]. It is seemingly written by a [[Mihkmari]] inhabitant of the ruined capital.
 
 ## Transcription
 > **O** Restock at Drabyel

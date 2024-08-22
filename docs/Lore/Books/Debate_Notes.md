@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found in a chest in southern [[Av'Sal]]. It contains a reflection on a debate between four Drehmari (likely children) about religion, in which the author comes to believe that [[Anyr]] may possess a fragment of the spirit of [[Drehmal]] due to his perceived ability to cover great distances nearly instantly (very likely by utilizing the [[Terminus]]).
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -252  |  68   | 1872  |
-
-## Location/Summary
-This book can be found in a chest in southern [[Av'Sal]]. It contains a reflection on a debate between four Drehmari (likely children) about religion, in which the author comes to believe that [[Anyr]] may possess a fragment of the spirit of [[Drehmal]] due to his perceived ability to cover great distances nearly instantly (very likely by utilizing the [[Terminus]]).
 
 ## Transcription
 > Cehra, Loam, Vehal and I were having one of our Rahlar Debate Clubs when the topic of religion came up, as usual. Loam spoke about the incredible beauty of Virtuo and her commitment to making the realm a safer and more peaceful place for all, arguing that her goals were the same as those of Avsohm.

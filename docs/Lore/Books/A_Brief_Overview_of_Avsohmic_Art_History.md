@@ -3,13 +3,12 @@ tags:
   - Books
 ---
 
+This book can be found on a lectern, in a building on an island off the east coast of the [[Frozen Bite]]. Over 33 in-game pages, it provides a (not-so-brief) overview of the history of art in the Avsohmic Empire, including the different movements influenced by different rulers, as well as discussing multiple different mediums.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 6365  |  100  | -3002 |
-
-## Location/Summary
-This book can be found on a lectern, in a building on an island off the east coast of the [[Frozen Bite]]. Over 33 in-game pages, it provides a (not-so-brief) overview of the history of art in the Avsohmic Empire, including the different movements influenced by different rulers, as well as discussing multiple different mediums.
 
 ## Transcription
 > The Avsohmic Empire is notable for many reasons, but industrial and alchemical feats such as the Miracle of Avsohm often overshadow the creative and visual arts. Avsohmic art changed significantly throughout the hundreds of years of its existence.

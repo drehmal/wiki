@@ -21,12 +21,12 @@ Scattered throughout the map of Drehmal are many different settlements. These se
 | [[Fort Nimahj]] | [[North Tharxax]] | 24 | Yes
 | [[Okeke]] | [[Merijool]] | 32 | Yes |
 | [[ICS Arbiter]] | Merijool | 47 | No |
-| [[Thesund]] | [[Capital Valley]] |   | No |
+| [[Thesund]] | [[Capital Valley]] | 7 | No |
 | [[Mohta]] | [[Lorahn'Kahl]] | 50 | Yes |
 | [[New Drabyel]] | Capital Valley | 35 | Yes |
 | [[Tahva]] | [[South Heartwood]] | 16 | No |
 | [[Schlonko]] | [[Faehrcyle]] | 8 | No |
-| [[Solvei]] | Capital Valley |   | No |
+| [[Solvei]] | Capital Valley | 19 | No |
 | [[Port Solitude]] | South Heartwood | 47 | No |
 | [[Dusps]] | [[Akhlo'Rohma]] | 96 | Yes |
 | [[Hevhlak]] | [[Purity Peaks]] 24 | No |

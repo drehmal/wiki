@@ -37,7 +37,7 @@ Books within item frames will show their name when hovered over, such as the Sta
 On this wiki, all book pages are formatted uniformly, according to the following template:
 
 # Title
-The title of the book. (i haven't actually done this yet, just decided to when i saw preview so it'll be in by the first real pr)
+The title of the book.
 
 ### Spoilers
 Any spoiler warnings will go here, at the beginning of the page just after the title. If there are potential major story spoilers, then an image of a large, forboding door should block your view of the article without scrolling down, ensuring that you have proper time to react to the spoiler warning and click off if you do not want spoilers. After this image, any additional spoiler tags about specific areas or in-game benchmarks will be applied as necessary. 
@@ -57,7 +57,7 @@ For example, here is what the beginning of a page with spoilers for the 50% comp
 First, a table with the unique x, y, and z coordinates of the book's container is provided. Note that two books may have the same coordinates if they are in different dimensions (although this kind of conflict is very unlikely).
 
 ### Location/Summary:
-Next, a short summary of the book, including a written description of its location in the world and a synopsis of its contents (if necessary) are provided. This section will almost always link to another article on the wiki, usually the section of the region or specific location within which the book is found. It will also state the type of container the book is found in.
+Next, a short summary of the book is provided, including a written description of its location in the world and a synopsis of its contents (if necessary). This section will almost always link to another article on the wiki, usually the section of the region or specific location within which the book is found. It will also state the type of container the book is found in.
 
 If the book is very short or has no real interesting content, only the location is provided in this section.
 
@@ -66,39 +66,4 @@ If the book is very short or has no real interesting content, only the location 
 
 ## Get Reading!
 
-That should be all you need to know about this tab of the wiki! As always, be very mindful of the spoilers if you have not completed the map yourself.
-
-# (Preview Only) Spoiler Tag List:
-lmk what you think of these, if they should be tweaked/are too redundant/new ones should be added
-
-Default Story Spoiler:
-
---8<-- "spoiler.md"
-
-25% Story Spoiler:
-
---8<-- "25_spoiler.md"
-
-50% Story Spoiler:
-
---8<-- "50_spoiler.md"
-
-75% Story Spoiler (basically just aphelion stuff):
-
---8<-- "75_spoiler.md"
-
-Lo'Dahr Spoiler (this one is gonna be on a LOT of pages):
-
---8<-- "LD_spoiler.md"
-
-Post-Yav/Endgame Spoiler:
-
---8<-- "postyav_spoiler.md"
-
-Minor Regional Spoiler:
-
---8<-- "minor_spoiler.md"
-
-
-
-
+That should be all you need to know about this tab of the wiki! As always, be very mindful of the spoiler warnings if you have not completed the map yourself.

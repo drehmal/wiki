@@ -22,11 +22,11 @@ The Order of Insohm was less than a century old when it threatened to fracture. 
 
 For most of the decade, the two sides battled and raided each other with weaponized airships. A loyalist airship accidentally passed over the Tidal Dynasty at one point, and the Tide Queen thought they were being attacked, and so she declared war on the loyalists. 
 
-The Tidal Dynasty attempted to invade Gozaki terriory, but were soundly defeated at the Battle of Kozdan in Av3 609. A heavy blow was dealt to their forces, so they left the war. The loyalists, now with increased morale, pushed into the Kingdom of Highfall laid siege to [the capital[Highfall]]. They succeeded and occupied the city the following year. In Av3 611, the loyalist armies invaded the Kingdom of Dusps, who surrendered after the capture of the city Sahvoltha. The Faehrcylian tribes, now alone, followed soon after, officially ending the war.
+The Tidal Dynasty launched an invasion on the Gozaki Union. The Gozaki military destroyed the Tidal town of Zovan in retaliation. The Tidal Dynasty's incursion was halted when their armies were soundly defeated at the Battle of Kozdan in Av3 609. A heavy blow was dealt to their forces, so they left the war. The loyalists, now with increased morale, pushed into the Kingdom of Highfall and laid siege to [the capital[Highfall]]. They succeeded and occupied the city the following year. In Av3 611, the loyalist armies invaded the Kingdom of Dusps, who surrendered after the capture of the city Sahvoltha. The Faehrcylian tribes, now alone, followed soon after, officially ending the war.
 
 ## Impact
 
-The Insohmic Civil War was the greatest threat to the stability of the Order (until its collapse at the end of the Third Avihm). The loyalist's victory meant that the Order of Insohm continued to exist, and would go on to fight the [[Tidal War]] less than a decade after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.
+The Insohmic Civil War was the greatest threat to the stability of the Order (until its collapse at the end of the Third Avihm). The loyalists' victory secured the Order of Insohm's continued existence, and it would go on to fight the [[Tidal War]] less than a decade after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.
 
 
 

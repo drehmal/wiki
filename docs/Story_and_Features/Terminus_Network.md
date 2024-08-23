@@ -56,7 +56,7 @@ Upon using a tower's button, the message "// INITIATING PHASE WARP... /// will a
 
 ## Hidden Section and Docking Bay (75% SPOILERS)
 
-After visiting the admin wing in the [Repository[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for the [[Aphelion]] and [[Lo'Dahr]]. At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
+After visiting the admin wing in the [Repository[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for the [[Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
 
 ## Lore (75% SPOILERS)
 

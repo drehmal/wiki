@@ -3,14 +3,16 @@ tags:
   - Books
 ---
 
-Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|-86  |164   |2807  |
-
 Also known as The Parable of the Stone Tablet, as denoted by a sign above the book.
 
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -86  |  164  | 2807  |
+
 This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. This book sees an old Drehmari nun consult Drehmal when her town is running low on water, and being brought by the Realmbinder to an ancient rune. She is then instructed by the deity to ensure that her people's most important practices and teachings live on by using the written word to record their history, which in turn becomes the only reason that we have records of Drehmal's activity from the early second Avihm at all in Drehua Temple.
+
+## Transcription
 
 > It was well into my tenure as the head Teacher of Drehua when a year came that was uniquely hot and dry. Few children of the Ruxihuadel flowed at all, and even the mighty Erwu was nothing more than a lazy stream. It is said that when times are at their hardest, everyone seeks a grey head. And so it was that I found myself faced with a contingent of area farmers seeking advice for how they could save the season's harvest. My preliminary suggestions included diverting more water from the Erwu and trading with the Kahlans, but of course these had already been tried and were insufficient. Unsure and deeply troubled, I nonetheless assured the farmers that I would think of a solution.
 >

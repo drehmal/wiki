@@ -3,14 +3,15 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|3738  |73   |465  |
+--8<-- "spoiler.md"
 
-### Location:
-Found in a chest within the hollowed stump of a large tree in the northern portion of the [[Spearhead Forest]] region's large lake.
+Found in a chest within the hollowed stump of a tree in the northern portion of the [[Spearhead Forest]] region's large lake.
 
-### Transcription:
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3738  |  73   |  465  |
+
+## Transcription
 > Yeah, I killed that Tide Queen!
 

@@ -3,15 +3,18 @@ tags:
   - Books
 ---
 
-### Coordinates:
-| **X** | **Y**| **Z** |
-|:-----:|:----:|:-----:|
-|26867  |75   |-135  |
+--8<-- "spoiler.md"
 
-### Location:
+--8<-- "yav_spoiler.md"
+
 The Madman's Notes can be found in a chest in [[Mt. Yavhlix]], near the dungeon's entrance.
 
-### Transcription:
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26867 |  75   | -135  |
+
+## Transcription
 > I hear the voices of a dead god who wants freedom from Nothing.
 >
 > I hear the voices of a dead god who wants freedom from Nothing.

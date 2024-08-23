@@ -10,7 +10,7 @@ In order to progress through the story, the player must unlock certain numbers o
 
 ## Towers
 
-Terminus towers are recognizable with their late [Avsohmic[Empire of Avsohm]] architecture, consisting primarily of quartz, and having a purple-colored central pillar. The tops of the towers are small, partially-inclosed structures with bedrock floors and rooves of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
+Terminus towers are recognizable with their late [Avsohmic[Empire of Avsohm]] architecture, consisting primarily of quartz, and having a purple-colored central pillar. The tops of the towers are small, partially-inclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
 
 Different Terminus towers have different features, often being guarded by enemies or having parkour leading to the top. Most towers do not have direct access to the top, meaning players must pillar up or use some other means of reaching the button.
 

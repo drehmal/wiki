@@ -10,7 +10,8 @@ For the planet, see [[Drehmal (Place)]]
 > - **Year of Birth:** Final Year of Av1
 > - **Devotion Site:** [[Drehua Temple]]
 
-![[Drehmal-The_Final_Aspect.webp]]{ align=right width="300" }
+![image](https://github.com/user-attachments/assets/51d9d2ef-119a-4440-bdad-88b309de1842)
+> Statue of Drehmal in the [[Stasis Facility]]
 
 Drehmal is the most powerful of the three deities born from the Primal Tree upon its collapse at the end of the First Avihm. With most of the land being destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The new land, which is the one present in-game, is named "Drehmal", after the deity.
 

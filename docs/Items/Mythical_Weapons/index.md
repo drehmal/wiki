@@ -1,14 +1,14 @@
---8<-- "spoiler.md"
+(50%, 75% AND END-GAME SPOILERS AT END)
 
 # Mythical Weapons
 
 Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
 
-# List
+## List (Drehmal)
 
-There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are found on [Drehmal[Drehmal (Place]], and 1 on [[Lo'Dahr]]. Here is a list of every mythical weapon:
+There are 8 mythical weapons that can be found on [Drehmal[Drehmal (Place)]]. Here is a list of all of them:
 
-## Calamity
+### Calamity
 
 | ![[Calamity.webp]]{ width="48" } | Calamity                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -17,7 +17,7 @@ There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are fo
 | **Lore**                         | No mortal has ever come close to slaying a Skullbeast, meaning the one deployed in the Desolation has long since died of natural causes. Ossein happened upon its remains, and became fanatically obsessed. They carved numerous weapons of immense strength from the calamitous skeleton, with these claws being the most powerful. |
 | **Obtain**                       | Defeat [[Skull Disciple Ossein]] in the epicenter [[Mael's Desolation]]                                                                                                                                                                                                                                                              |
 
-## Frenzy
+### Frenzy
 
 | ![[Frenzy.webp]]{ width="48" } | Frenzy                                                                                                                                                                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@ There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are fo
     | Forge | Found in the mountains to the north, in a building over lava. Throw all 5 fragments into the forge to get the Frenzy |
     | Bell Shrine | Signs reading, "If a fragment or one's hope is lost, toss a Nether Star beneath a bell to receive the missing fragment." This is only suggested if you discord or otherwise lose a fragment. |
 
-## Oblivion
+### Oblivion
 
 | ![[Oblivion.webp]]{ width="48" } | Oblivion                                                                                                                                                                      |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are fo
 
     If you've been to the doors before, the location the notes refers to is slightly south west of the doors, and marked with a stone pillar with a sea lantern on top. Throw a copy of the Nihilist's Notes onto the black concrete which opens a hole. Jump down and you will be met with a dark labyrinth. You can mine through some walls, but the labyrinth is solvable and leads to a chest with Oblivion.
 
-## Ascendance
+### Ascendance
 
 | ![[Ascendance.webp]]{ width="48" } | Ascendance                                                                                                                                                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are fo
 
     Continue down the bridge and break the glass to continue into the next room. You will be met with a sign that says THE FIRST OF EACH RITE IS THE WAY TO THE LIGHT. Refer to the _Ancient Theocracy Rites_ and the first letter of each line. Line up the arrows to match and the puzzle is solved.
 
-## Malevolentia
+### Malevolentia
 
 | ![[Malevolentia.webp]]{ width="48" } | Malevolentia                                                                                                                                                                                |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,11 +84,12 @@ There are 9 mythical weapons in the game (including Inert Mythbreaker). 8 are fo
 | **Lore**                             | Mael cast aside this mythological weapon after Virtuo went dormant. It is said that he had lost his purpose and abandoned his palace, perhaps residing with the other deities upon Lo'Dahr. |
 | **Obtain**                           | Underneath the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Burnt General.                                                                                                        |
 
-## Mythbreaker
+### Inert Mythbreaker (50% SPOILERS)
 
-| ![[Mythbreaker.webp]]{ width="48" } | Mythbreaker                                                                                                                                                                   |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                           | Mythbreaker deals 30 base damage, has 0.7 attack speed, takes 4 max hp (2 hearts), and is obtained with Sharpness X                                                           |
-| **Ability**                         | **Timebreak**: Hold down crouch to defy time, greatly slowing all enemies within range. **Cooldown**: 45s after the ability ends                                              |
-| **Lore**                            | The Heart calls for a new beginning, the Crown cries for a change of hands. Treat this primordial blade as a reminder that He must be usurped, that He controls your destiny. |
-| **Obtain**                          | Complete the postgame quest.                                                                                                                                                  |
+## List (75% SPOILERS, [[Lo'Dahr]])
+
+There is only 1 mythical weapon that can be found on Lo'Dahr.
+
+### Syzygy
+
+## The Mythbreaker (END-GAME SPOILERS)

@@ -43,6 +43,9 @@ Maelihs's remorse deepens. As his empire continues to operate under the directio
 
 ## In-Game (75% SPOILERS)
 
+![image](https://github.com/user-attachments/assets/8d62a09b-a0fa-4ac4-be2a-59db57fa722e)
+> Maelihs in-game on his throne in Ytaj
+
 In-game, Maelihs can be found sitting on his throne at the top of his tower in Ytaj. The player can engage in multi-choice dialogue with him. The dialogue tree is as follows:
 
 ## Future (END-GAME SPOILERS)

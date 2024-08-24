@@ -1,20 +1,16 @@
----
-tags:
-  - Lore
-  - Entities
-  - NPC
----
-
---8<-- "spoiler.md"
+(END-GAME SPOILERS FURTHER DOWN)
 
 # avSYS
 
 ![[avSYS.webp]]{ align=right width="300" }
 
-AvSYS is an AI that tells the player where to go in the main story and operates the tower teleportation system. AvSYS also manages the material exchange unit in [[The Terminus]].
+avSYS is a virtual entity that operates [Avsohmic[Empire of Avsohm] 
+technological systems. It appears frequently throughout the story, communicating through chat and directing the player through the storyline.
 
-### Lore
+## Lore
 
-AvSYS was seemingly created by the Blue Exodus (see [[Blue, Red, and Green]]) organization on [[Emperors_of_Avsohm#Emperor Anyr]]'s orders, as part of the Mythbreaker Protocols. It was later reprogrammed by Gohri to send those put into stasis to [[Sal'Mevir]] and the [[Exodus Citadel]] to learn what happened and how to shut down the [[Primary Collection Facility]].
+avSYS was created as a project by Avsohmic scientists during the reign of [Emperor Anyr[Uffhiel Anyr]], and was considered to be one of Avsohm's most impressive inventions. It was designed to substitute manual work in maintaining the empire's complex technology. avSYS was sometimes used to operate home appliances (such as heating) for the wealthy.
 
-The recoding of avSYS is mentioned in the following books: [[Thresa's Journal]], [[Letter from Gohri]], [[Letter from Thresa]], while we can assume that the creation of the AI is part of the protocols mentioned in [[Av2 1812 - Mythbreaker Protocols]].
+## Role in Story (END-GAME SPOILERS)
+
+## Transcripts (END-GAME SPOILERS)

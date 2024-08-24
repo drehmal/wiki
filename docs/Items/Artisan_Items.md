@@ -1,18 +1,12 @@
----
-tags:
-  - "2.2"
----
-
---8<-- "upcoming.md"
---8<-- "spoiler.md"
+(75% SPOILERS FURTHER DOWN)
 
 # Artisan Items
 
-**Artisan items** are a new class of items introduced in 2.2.
+Artisan items are special items with custom names, descriptions, stat modifiers, and often enchantments that can be bought from [Runic Blacksmiths[Runic Blacksmith]] or one of their variants. Their descriptions often provide lore surrounding the the blacksmith's hometown or region.
 
-Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlements).
+# List: 
 
-## Drabyel Runic Blacksmith
+## [[New Drabyel]]
 
 ### Helmet of Neutrality
 
@@ -91,7 +85,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | A shield used by those who guarded the Primal Caverns long ago. |
 | **Cost** | Shield + 8 Emeralds                                             |
 
-## Solvei Runic Blacksmith
+## [[Solvei]]
 
 ### Hefty Barding
 
@@ -117,7 +111,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Magically infused horse armor to ensure your steed never falls. |
 | **Cost** | Iron Horse Armor + 12 Emeralds                                  |
 
-## Thesund Runic Blacksmith
+## [[Thesund]]
 
 ### Infused Birch Crossbow
 
@@ -170,7 +164,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Engraved with runes fit for an experienced warrior. |
 | **Cost** | Leather Boots + 13 Emeralds                         |
 
-## Fort Nimahj Runic Blacksmith
+## [[Fort Nimahj]]
 
 ### Survivor's Helmet
 
@@ -274,7 +268,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
 | **Cost** | 30 Scales + 32 Copper Ingots                                                                                                                                            |
 
-## Okeke Runic Blacksmith
+## [[Okeke]]
 
 ### Rythm-Chain Hood
 
@@ -376,7 +370,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
 | **Cost** | 30 Scales + 6 Pufferfish                                                                                                                                                                                                    |
 
-## Athrah Runic Blacksmith
+## [[Athrah]]
 
 ### Runic Amplifier
 
@@ -487,7 +481,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Chieftain Havehz instructed her master artificers to condition the sale of their greatest works on a written promise to make Casai one's home and to defend it in times of great need, no matter how far one must travel. These boots make the latter condition far less burdensome |
 | **Cost** | 23 Scales                                                                                                                                                                                                                                                                           |
 
-## Highfall Runic Blacksmith
+## [[Highfall]]
 
 ### Runic Amplifier
 
@@ -587,7 +581,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The ultimate in Highfall's time-tested mining technology. |
 | **Cost** | 40 Scales + 32 Diamonds                                   |
 
-## Sahd Runic Blacksmith
+## [[New Sahd]]
 
 ### Runic Amplifier
 
@@ -684,7 +678,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
 | **Cost** | 30 Scales + 16 Obsidian                                                                                                                                                                                                               |
 
-## Rhaveloth Runic Blacksmith
+## [[Rhaveloth]]
 
 ### Runic Amplifier
 
@@ -757,7 +751,7 @@ Artisan items can be bought from [[Runic Blacksmiths]] at [settlements](/Settlem
 | **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
 | **Cost** | 35 Gold Ingots + 40 Quartz                                                                                                                          |
 
-## Ytaj Runic Blacksmith
+## [[Ytaj]]
 
 ### Guard Trident
 |                  |     |

@@ -1,23 +1,32 @@
----
-tags:
-  - Lore
-  - Entities
-  - The Three Deities
----
+(75% AND END-GAME SPOILERS AT END)
 
 # Virtuo
 
-> - **Date of birth:** Av2 0
-> - **Species:** Deity
+> - **Titles:** Our Lady of the Mirror, Goddess of Purity, Goddess of Perfection, Goddess of Peace
+> - **Classification;** Deity
+> - **Year of Birth:** Final Year of Av1
+> - **Parent:** [[Primal Tree]]
+> - **Devotion Site:** [[Kiln of Virtuo]]
 
-**Virtuo**, one of The Three Deities, is the Goddess of Peace, Purity, and Perfection. Born from the destruction of the Primal Tree, she appears as a beautiful woman in a flowing blue gown, with purple hair and light pink eyes. She is worshipped by most of Drehmal's inhabitants for her benevolent nature, yet stays inaccessible because of her perfection. Unfortunately, she went dormant in Av3 978, marking the start of the Fourth Avihm.
+![image](https://github.com/user-attachments/assets/58b5716f-dab5-48c2-8db7-991c6ad84952)
+> Statue of Virtuo carved into the Verdant Mountains
 
-## The Virmari
+Virtuo is one of the three deities born upon the destruction of the Primal Tree at the end of the First Avihm. Virtuo is the most widely worshipped figure in the realm, although she left her Drehmari followers at the end of the Third Avihm, and her current whereabouts are unknown to them. She would provide advice and healing to those that approached her at her holy place, the Kiln of Virtuo.
 
-The Virmari are Drehmari that have been ascended by Virtuo. The process to become a Virmari involves making a pilgrimage across the continent to the Kiln of Virtuo and receiving judgement from Virtuo herself. Becoming a Virmari requires utmost, almost unrealistic perfection, so these graceful beings are uncommon. Since they are praised for their perfection, they have huge, inflated egos, yet are still respected by nearly everyone in the realm. They also very rarely have children out of fear that they will not be as perfect as Virtuo expects. In past ages of war, Virmari were commonly deployed as elite soldiers of purity to carry out Virtuo’s will and protect the land from Mael’s pursuit of control.
+## Characteristics
 
-They have crystalline horns (that can be cut off like Drehmari), fair skin tone that is occasionally a light bluish color, and are typically very physically fit. Average lifespan of a Virmari is up to 1500 years.
+Virtuo takes the form of a 12 foot tall humanoid figure with shimmering blue horns. She is known to be calm, wise and stunningly perfect.
 
-## Virtuo's Territory
+## [[Virmari]] and Grand Parish
 
-Virtuo does not really hold a region under her power: her influence is purely spiritual, spread by those who believe in her. Her sanctum is [[the Kiln]], located on an island near [[Firteid]] in the [[Black Jungle]] [region](/Regions).
+*...*
+
+## History
+
+*...*
+
+## Orderflame (75% SPOILERS)
+
+## Future (END-GAME SPOILERS)
+
+*...*

@@ -1,20 +1,24 @@
----
-tags:
-  - Lore
-  - Entities
-  - Faction
----
+(50% SPOILERS AT END)
 
 # Blue Exodus
 
-![[Exodus_citadel_night.webp]]{ align=right width="300" }
+![image](https://github.com/user-attachments/assets/8dd49cf5-def2-434d-8e2b-6d6faa721b7c)
+> Blue Exodus Logo
+-----------------------
+![image](https://github.com/user-attachments/assets/a178f448-225d-4a69-8740-5b8fffc843ea)
+> Blue Exodus Banner
 
-> - **Type of government:** Organization
-> - **Capital:** [[Exodus Citadel]]
-> - **Date of establishment:** Unknown - Prior to Av2 1535
-> - **Date of dissolution:** Av2 1820
-> - **Era(s):** Second Avihm
+> - **Duration:** (Unknown year, probably between Av2 1200 - Av2 1600) - Av2 1820
+> - **City of Origin:** Stromnar
+> - **Headquarters:** [[Exodus Vault]]
+> - **Form of Organization:** Corporation
+> - **Leaders:** [[Kahmas Tuhs]] (final CEO)
 
-**Blue Exodus** was a secret Avsohmic organization that was part of the exclusive group known as the "Big Three", along with Red Dawn and Green Serpent. It was a military and construction organization, taking contracts directly from the government.
 
-Blue Exodus HQ was the [[Exodus Citadel]], an underwater facility located under the waters of Lake Nimahj. Today, the lake has dried up and the Citadel is only a remnant of what it once was.
+Blue Exodus was a corporation focused on producing military equipment and a member of [Avsohm[Empire of Avsohm]]'s Big Three, becoming an essential part of the empire's industry and deeply intwined with its government. Because of this strong relation, most Blue Exodus officials disappeared during the events of [Avsohm's collapse[Fall of Avsohm]], causing the organization's abrupt end.
+
+## Origins
+
+## History
+
+## Exodus Citadel and Vault (50% SPOILERS)

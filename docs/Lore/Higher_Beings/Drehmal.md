@@ -1,19 +1,33 @@
----
-tags:
-  - Lore
-  - Entities
-  - The Three Deities
----
+(END-GAME SPOILERS AT END)
 
 # Drehmal
 
-![[Drehmal-The_Final_Aspect.webp]]{ align=right width="300" }
+For the planet, see [[Drehmal (Place)]]
 
-> - **Date of birth:** Av2 0
-> - **Species:** Deity
+> - **Titles:** The Serpent, The Realmbinder, The Last Divine, The Final Aspect [misleading], God of Preservation, God of Neutrality
+> - **Classification:** Deity
+> - **Parent:** [[Primal Tree]]
+> - **Year of Birth:** Final Year of Av1
+> - **Devotion Site:** [[Drehua Temple]]
 
-**Drehmal** (not to be confused with the land of Drehmal), one of The Three Deities, is the Final Aspect and represent neutrality, creation, and balance. Born from the destruction of the Primal Tree, they're described as a gargantuan white wyrm with great, tree-like antlers and a dangling leafy beard. They sometimes appear to pilgrims and worshippers, but also to thieves, and always give wise advice to those who listen to them. They rest now, but their influence is unthinkable, having the ability to reform the realm at will.
+![image](https://github.com/user-attachments/assets/3ee47ee8-38f0-4305-9e57-6073832d31c4)
+>Statue of Drehmal at Drehua Temple
 
-## Drehmal's Territory
+Drehmal is the most powerful of the three deities born from the Primal Tree upon its collapse at the end of the First Avihm. With most of the land being destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The new land, which is the one present in-game, is named "Drehmal", after the deity.
 
-As the creator of the land of Drehmal, their influence can be seen all over the map. However, most of their worshippers live in the [[Capital Valley]] or the [[Palisades Heath]], where their sanctum, the [[Drehua Temple]], is located.
+## Characteristics
+
+Drehmal takes the form of a gargantuan, pale green serpent with antlers, a beard and sharp teeth. They are known for their incredibly wise snd peaceful demeanor.
+
+## History (END-GAME SPOILERS)
+
+In the First Avihm, before being granted their current deific identity, Drehmal was merely a simple worm of some sorts. As recounted by the [[Parable of the Worm]], they were approached by two figures, a "beast of the sky" and a "beast of the depths". Both criticized the worm for not acting on their potential, yet they resolved to wait for the right time.
+During the Battle of Karesh, the worm nestled between the roots of the Primal Tree, and the Tree gifted a portion of its remaining essence to the worm, ascending them to the divine serpent Drehmal.
+
+Drehmal spent the early days of the Second  Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with Drehmari, especially the ancient Drehua people of Palisahd (modern day [[Palisade's Heath]]). After Drehmal's work was completed, they buried themselves far beneath the Primal Caverns and fell into a deep, dream-filled slumber. Drehmal continued to be worshiped throughout Palisade's Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of Avsohm, which originated in the Central Plains and spread its religion around the continent. Worship of the Aspects was banned in the empire under the reign of Zorhis Ifeihl, and Maelihs was an enemy of the state, meaning citizens paid homage to either Virtuo or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
+
+## Future (END-GAME SPOILERS)
+
+In the distant future, Drehmal emerges from their sleep and comes to the surface to watch the last days of the realm. There, they pass away peacefully and contentedly. At the end of the game's main story, the player witnesses the giant skeleton of Drehmal in a dead and sandy world after returning from their trip to the Heart of the Void.
+
+

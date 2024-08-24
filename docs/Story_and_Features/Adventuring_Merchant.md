@@ -3,7 +3,7 @@
 # Adventuring Merchant
 
 ![image](https://github.com/user-attachments/assets/6b2ffbe1-bae9-4240-8c16-ab6897829b85)
-> Adventuring Merchant in Drabyel
+> Adventuring Merchant in New Drabyel
 
 Adventuring Merchants are special merchants, one of which can be found in each official [town/city[Settlements]]. An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them (except for Adventuring Merchant Eliana) sells a map of the town's region, a map of [Drehmal[Drehmal (Place)]] that displays all official towns on the continent (except for [[New Sahd]], a bundle, a relic vessel and another special item that is unique to the merchant, and usually is associated with their area.
 

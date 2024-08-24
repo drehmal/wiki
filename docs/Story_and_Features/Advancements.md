@@ -13,7 +13,6 @@ All advancements are sorted into these 4 categories: Fabled Equipment, Drehmal, 
 - **Lo'Dahr:** Spoilers, see 75% spoiler list.
 - **???:** - Secret advancements, the ??? tab isn't revealed until one is obtained. They require advanced knowledge.
 
-
 ## List (No Story Spoilers)
 
 | Name | Category | Description | Method of Obtaining |

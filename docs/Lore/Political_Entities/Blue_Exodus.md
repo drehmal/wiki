@@ -2,7 +2,11 @@
 
 # Blue Exodus
 
-![[Exodus_citadel_night.webp]]{ align=right width="300" }
+![image](https://github.com/user-attachments/assets/8dd49cf5-def2-434d-8e2b-6d6faa721b7c)
+> Blue Exodus Logo
+
+![image](https://github.com/user-attachments/assets/a178f448-225d-4a69-8740-5b8fffc843ea)
+> Blue Exodus Banner
 
 > - **Duration:** (Unknown year, probably between Av2 1200 - Av2 1600) - Av2 1820
 > - **City of Origin:** Stromnar

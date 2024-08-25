@@ -16,25 +16,27 @@ Capital Valley has relatively flat terrain, with some hills and small cliffs. Th
 - thin valley with dense forest and podzol
 - rugged area with small lakes in east
 
-Capital Valley is home to the town of [[New Drabyel]] on the south coast, the smaller town of [[Solvei]] on the eastern edge of the region, and the very small village of [[Thesund]] at the foothills of the Burnt Mountains to the west.
+Capital Valley is home to the town of [[New Drabyel]] on the south coast, the smaller town of [[Solvei]] on the eastern edge of the region, and the very small village of [[Thesund]] at the foothills of the Burnt Mountains to the west. Drehmal is worshipped as the dominant religion in the region.
 
 ## Regional Map
 
 **Map of Capital Valley (sold by [[Adventuring Merchant]] in New Drabyel):**
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus]] Tower(s)
 
 Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the way.
+
+There is also a small Terminus tower on Av'Sal's central island. The area surrounding the tower is inhabited by [[Mihkmari]].
 
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
 | Hunter's Crypt |  |  | The Hunter's Crypt is a series of underground stone brick chambers, three of which contain the tombs of members of the hunting party that killed [Greatbeast Muhs[Muhs]]; Gahwyn the Hunter, Asrihk Clearbrook the Berserker and the Tracker (name unknown). The structure's purpose was as the player's initial spawn point before version 2.2.|
-| New Drabyel |  |  | New Drabyel is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its buildings take the form of grassy mounds with wooden features. Drabyel was the capital of the [[Chosen Kingdom]] in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was [wiped out[Fall of Avsohm]], which would be why the modern town is named "*New* Drabyel". |
+| New Drabyel |  |  | New Drabyel is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its typical buildings take the form of grassy mounds with features of spruce and oak wood. Drabyel was the capital of the [[Chosen Kingdom]] in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was [wiped out[Fall of Avsohm]], which would be why the modern town is named "*New* Drabyel". The residents of New Drabyel worship Drehmal. |
 | Primal Caverns |  |  | The Primal Caverns is a cave inside of a steep green mountain, which sits between a similar red mountain to the west and a purple mountain to the east. These three peaks represent the three deities. This may be the site where the [[Primal Tree]] stood in the First Avihm, and Drehmal sleeps deep underneath the Primal Caverns today. |
-| Ruins of Av'Sal |  |  | Av'Sal was a massive city which was ordered to be constructed by [[Drehn' Malsohm]] to serve as the capital of his newly founded Avsohmic Empire. Av'Sal's buildings ring a lake, and on a central island there is a Terminus tower and the [Repository[Av'Sal Repository]], an important story location. Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by [[Mihkmari]] scavengers. |
-| [[Ihted|Ruins of Ihted]] |  |  |  |
-| Ruins of Fortahn |  |  |  |
-| Solvei |  |  |  |
-| Thesund |  |  |  |
+| Ruins of Av'Sal |  |  | Av'Sal was a massive city which was ordered to be constructed by [[Drehn' Malsohm]] to serve as the capital of his newly founded Avsohmic Empire. Av'Sal's buildings ring a lake, and on a central island there is a Terminus tower and the capitol building above the [Repository[Av'Sal Repository]], an important story location. Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers. |
+| [Ruins of Ihted[Ihted]] |  |  | The original name of Ihted is unknown, but its ruins were named by archaeologists after a different city with similarities from the First Avihm. The town, sitting on the east bank of the Noroehl River, predates Avsohm, and it was left completely abandoned during the reign of [Emperor Ifeihl[Zorhis Ifeihl]] after its inhabitants were exiled for illegally worshiping Khive. The ancient ziggurat remains there until this day, being frequented by wandering mystics and serving as a [devotion[Devotion]] site for Khive. The ruins contain passageways and rooms hidden underground. |
+| Solvei |  |  | Solvei is a Drehmal-worshiping village lying on a small stream running from one lake to another near Purity Peaks. Its buildings are built mostly out of spruce, oak and grass. |
+| [[Stasis Facility]] |  |  | The Stasis Facility is an underground complex that hosts tens of Avsohmic stasis pods. The player wakes up in one after leaving the spawn tomb, and they can gather resources in an adjacent room with trees and figure out a way to access the staircase that leads to an opening in the surface on top of a hill, near the Primal Caverns. |
+| Thesund |  |  | Thesund is a tiny village perched atop a cliff overlooking a lake below the Burnt Mountains. The settlement only has five buildings, made of wood (spruce and oak) and grass, all surrounding a central square. The village was likely founded shortly after Avsohm's collapse by surviving children. |

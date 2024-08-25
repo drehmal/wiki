@@ -1,5 +1,7 @@
 # Virtuo
 
+--8<-- "under_construction.md"
+
 > - **Titles:** Our Lady of the Mirror, Goddess of Purity, Goddess of Perfection, Goddess of Peace
 > - **Classification;** Deity
 > - **Year of Birth:** Final Year of Av1

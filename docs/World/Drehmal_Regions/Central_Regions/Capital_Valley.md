@@ -28,7 +28,7 @@ Capital Valley's Terminus tower stands in the center of the region, next to the 
 
 There is also a small Terminus tower on Av'Sal's central island. The area surrounding the tower is inhabited by [[Mihkmari]].
 
-## Points of Interest
+## Points of Interest (No Story Spoilers)
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
@@ -38,5 +38,8 @@ There is also a small Terminus tower on Av'Sal's central island. The area surrou
 | Ruins of Av'Sal |  |  | Av'Sal was a massive city which was ordered to be constructed by [[Drehn' Malsohm]] to serve as the capital of his newly founded Avsohmic Empire. Av'Sal's buildings ring a lake, and on a central island there is a Terminus tower and the capitol building above the [Repository[Av'Sal Repository]], an important story location. Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers. |
 | [Ruins of Ihted[Ihted]] |  |  | The original name of Ihted is unknown, but its ruins were named by archaeologists after a different city with similarities from the First Avihm. The town, sitting on the east bank of the Noroehl River, predates Avsohm, and it was left completely abandoned during the reign of [Emperor Ifeihl[Zorhis Ifeihl]] after its inhabitants were exiled for illegally worshiping Khive. The ancient ziggurat remains there until this day, being frequented by wandering mystics and serving as a [devotion[Devotion]] site for Khive. The ruins contain passageways and rooms hidden underground. |
 | Solvei |  |  | Solvei is a Drehmal-worshiping village lying on a small stream running from one lake to another near Purity Peaks. Its buildings are built mostly out of spruce, oak and grass. |
-| [[Stasis Facility]] |  |  | The Stasis Facility is an underground complex that hosts tens of Avsohmic stasis pods. The player wakes up in one after leaving the spawn tomb, and they can gather resources in an adjacent room with trees and figure out a way to access the staircase that leads to an opening in the surface on top of a hill, near the Primal Caverns. |
 | Thesund |  |  | Thesund is a tiny village perched atop a cliff overlooking a lake below the Burnt Mountains. The settlement only has five buildings, made of wood (spruce and oak) and grass, all surrounding a central square. The village was likely founded shortly after Avsohm's collapse by surviving children. |
+
+## Points of Interest (END-GAME SPOILERS)
+
+| [[Stasis Facility]] |  |  | The Stasis Facility is an underground complex near the Primal Caverns that was created in the late Avsohmic era to host tens of stasis pods. These stasis pods would be used in the event of a major disaster to preserve the lives of the crew inside, in the hopes of allowing them to revive the empire at a later time. This plan comes to fruition when Avsohm is wiped out by "Him-Beyond" following [Emperor Anyr[Uffhiel Anyr]]'s ascension. Several pods are evacuated in the Fourth Avihm due to life support malfunctions, including that of the player(s). This is where the player spawns after leaving the spawn tomb, and they must escape via a staircase leading to an opening on the surface at the top of a hill. The player must return to the Stasis Facility at the end of the storyline, where they are introduced to the [Mythoclast[???]] (Him-Beyond), given the [[Mythbreaker]] and teleported to the [[Court of Nothing]]. |

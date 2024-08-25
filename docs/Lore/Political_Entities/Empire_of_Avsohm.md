@@ -1,6 +1,6 @@
-()
-
 # Empire of Avsohm
+
+--8<-- "under_construction.md"
 
 > - **Duration:** (Unknown year, probably late Av2 1500s or early Av2 1600s) - Av2 1820
 > - **Location:** Central [Drehmal[Drehmal (Place)]], Western Drehmal (other than southwest), Islands of [Dawn[Island of Dawn]] and [Dusk[Island of Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood
@@ -34,3 +34,5 @@ The Empire of Avsohm, also called the Avsohmic Empire or simply Avsohm, was a po
 ### Cities
 
 ### Facilities
+
+## Downfall

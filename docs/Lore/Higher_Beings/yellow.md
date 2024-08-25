@@ -4,6 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
+## Summary
 **The Mythoclast** (often informally referred to by the community as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal:Primordial. Referring to themselves as the "titanic power at the center of creation," they are implied to be the ruler of all existence, including innumerable other realms besides Drehmal. They first appear to the player upon completion of the [[Mt. Yavhlix]] dungeon, speaking with the name **"???"**. Their first words to the player indicate the start of the end-game.
 
 Although their influence is often hidden, The Mythoclast plays a central role in the story of Drhemal: Primordial, having directly intervened in the realm's history by personally smiting the [[Empire of Avsohm]], as well as functioning as the player's guide through the post-game sequence containing several revelations about the history of Avsohm and what ultimately spelled their doom.

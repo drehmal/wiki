@@ -1,6 +1,6 @@
-(END-GAME SPOILERS AT END)
-
 # Hovadchear Myrik
+
+--8<-- "under_construction.md"
 
 > - **Life Duration:** (Unknown year, probably Av3 400s) - Av3 847
 > - **Duration of Position of Master:** (Unknown year, probably early or mid Av3 500s) - Av3 847

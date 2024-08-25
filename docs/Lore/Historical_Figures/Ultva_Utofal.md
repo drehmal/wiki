@@ -1,6 +1,6 @@
-(END-GAME SPOILERS AT END)
-
 # Ultva Utofal
+
+--8<-- "under_construction.md"
 
 > - **Life Duration:** (Unknown year, probably Av3 400s) - (Unknown year, probably mid Av3 800s, after Av3 847)
 > - **Duration of Position as Master:** (Unknown year, probably early or mid Av3 500s) - (Unknown year, probably mid Av3 800s, after Av3 847)

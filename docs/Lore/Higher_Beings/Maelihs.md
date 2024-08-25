@@ -9,9 +9,9 @@
 ![[hellcrags_titan.png]]
 > Titan of Servitude (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].
 
-Maelihs (also referred less formally as Mael) is one of the three deities born from the Primal Tree upon its collapse, and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
+Maelihs (also referred to less formally as Mael) is one of the three deities born from the Primal Tree upon its collapse, and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
 
-## Appearance
+## Characteristics
 
 Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He is known for being wrathful and aggressive, constantly being in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
 
@@ -24,7 +24,7 @@ The [[Maelmari]] are Maelihs's ascended version of Drehmari. Maelmari have pale 
 [[Malevolentia]] was Maelihs's signature weapon, a red double-sided trident and sword. It was discarded by Maelihs, grieving the departure of [[Virtuo]], and it was left behind at his palace when he left, where it can still be found by the player in-game.
 
 
-## History (75% SPOILERS)
+## History 
 
 In the First Avihm, before his divine rebirth, Maelihs was a man named Naurduul, who was a member of the [[Maelruhn]] people of [[Western Xivhrynt]]. The details of this time are unclear, but it is known that he unwillingly received divine power from the Primal Tree upon its destruction, and the initial experience was agonizing (his whole body was probably severely burnt). 
 

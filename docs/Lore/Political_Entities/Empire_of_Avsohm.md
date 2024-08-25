@@ -9,10 +9,10 @@
 > - **Rulers:** [[Drehn Mal'Sohm]], [[Zorhis Ifeihl]], [[Uffhiel Anyr]]
 > - **Religion:** Worship of [[Drehmal]] (or [[Virtuo]], depending on region)
 
-![[AvsohmicEmpirecAv21800.webp]]{ align=right width="300" }
+![[AvsohmicEmpirecAv21800.webp]]
 > Map of the Empire of Avsohm
-------------------------------
-![[Empire_of_Avsohm_Banner.webp]]{ align=right width="200" }
+***
+![[Empire_of_Avsohm_Banner.webp]]
 > Banner of the Empire of Avsohm
 
 The Empire of Avsohm, also called the Avsohmic Empire or simply Avsohm, was a powerful empire spanning most of the continent in the late Second Avihm. Avsohm's discovery of plentiful sources of both rehnite, a powerful material fit for runic inscription, and primal energy spurred rapid technological growth that allowed the empire to expand its domain and achieve unprecedented levels of power. The empire collapsed due to a catastrophe caused by supernatural forces, marking the turning point between the Second and Third Avihm. Even in the modern day, the Empire of Avsohm is considered to have been the most advanced and impactful society in the realm's history. The ancient, secret affairs of Avsohm are the focus of the main story, with the player being an Avsohmic [[Drehmari]] that awoke from stasis in the lore.

@@ -1,6 +1,6 @@
 # Drehmal
 
-This page is about the deity, Drehmal. For the physical setting of the story by the same name, see [[Overworld|Drehmal]].
+This page is about the serpent deity. For the physical setting of the story by the same name, see [[Overworld|Drehmal]].
 
 > - **Titles:** The Serpent, The Realmbinder, The Last Divine, The Final Aspect [misleading], God of Preservation, God of Neutrality
 > - **Classification:** Deity
@@ -26,7 +26,7 @@ Drehmal spent the early days of the Second Avihm molding landforms and fostering
 
 --8<-- "spoiler.md"
 
---8<--"LD_spoiler.md"
+--8<-- "LD_spoiler.md"
 
 ## In-Game Interactions
 While Drehmal remains in their deep slumber for the entirety of the player's experience in the current day, there is one point at which the serpent can be somewhat directly interacted with, at the Tower of Drehmal in [[Ytaj]]. Here, the player climbs a tower while seemingly living through the dreams and thoughts of Drehmal themselves, while gradually ascending the tower to reach a second devotion shrine to Drehmal at its peak.

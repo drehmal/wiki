@@ -6,4 +6,10 @@ Palisades Heath is a region in central Drehmal. The region is characterized by i
 
 ## Geography
 
-## 
+Palisades Heath is divided into three segments by two rivers (plus one other one that separates the region from [[Capital Valley]].
+
+## History
+
+## [[Terminus Network|Terminus]] Tower
+
+## Points of Interest

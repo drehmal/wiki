@@ -4,6 +4,8 @@
 
 Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books[Written Books]], item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
+--8<-- "under_construction.md"
+
 ## [[Relics]]
 
 Relics are offhand stat-modifying items that are obtained via [devotion[Devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptons that often explain bits of lore pertaining to its related Aspect or deity.

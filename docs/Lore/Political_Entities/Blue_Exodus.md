@@ -1,5 +1,7 @@
 # Blue Exodus
 
+--8<-- "under_construction.md"
+
 ![[blue_e.png]]
 > Blue Exodus Logo
 ***

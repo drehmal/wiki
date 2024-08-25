@@ -1,4 +1,4 @@
-(END-GAME SPOILERS AT END)
+**(END-GAME SPOILERS AT END)**
 
 # Capital Valley
 

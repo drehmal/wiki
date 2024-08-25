@@ -28,7 +28,7 @@ Capital Valley is home to the town of [[New Drabyel]] on the south coast, the sm
 
 Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the way.
 
-There is also a small Terminus tower on Av'Sal's central island. The area surrounding the tower is inhabited by [[Mihkmari]].
+There is also a short Terminus tower on Av'Sal's central island. The area surrounding the tower is inhabited by [[Mihkmari]].
 
 ## Points of Interest (No Story Spoilers)
 

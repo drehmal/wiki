@@ -4,7 +4,7 @@
 
 !!! danger "This page contains information on an extremely spoiler-heavy end-game topic, beginning at the end of the Mt. Yavhlix dungeon."
 
-![[mytho_portrait|An artistic representation of the Mythoclast.]]
+![[mytho_portrait.png|An artistic representation of the Mythoclast.]]
 > Artistic representation of the Mythoclast
 
 The Mythoclast is the most poweful being in the universe, and the judge of all dead/unborn souls. Despite their immense power, they may be mortal due to the fact that they felt threatened by the advances of [[Anyr|Emperor Uffeihl Anyr]] of [[Empire of Avsohm|Avsohm]]. The Mythoclast has directly interfered in the history of Drehmal's realm.

@@ -6,8 +6,6 @@ The map of Drehmal adds its own main story to the game, which the player can tak
 
 The following sections provide an overview of the story's progression.
 
-## Spawn Tomb
-
 ## Stasis Facility
 
 ## Terminus

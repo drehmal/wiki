@@ -12,9 +12,6 @@ Capital Valley has relatively flat terrain, with some hills and small cliffs. Th
 
 **Environmental Sub-Regions:**
 - sprarse, tall forest with podzol in southwest
-- small birch wood north of [[Primal Caverns]]
-- thin valley with dense forest and podzol
-- rugged area with small lakes in east
 
 Capital Valley is home to the town of [[New Drabyel]] on the south coast, the smaller town of [[Solvei]] on the eastern edge of the region, and the very small village of [[Thesund]] at the foothills of the Burnt Mountains to the west. Drehmal is worshipped as the dominant religion in the region.
 

@@ -1,13 +1,13 @@
-(75% SPOILERS AT END)
-
 # Adventuring Merchant
 
-![image](https://github.com/user-attachments/assets/6b2ffbe1-bae9-4240-8c16-ab6897829b85)
+--8<-- "under_construction.md"
+
+![[drabyel_adventuring_merchant.png]]
 > Adventuring Merchant in New Drabyel
 
-Adventuring Merchants are special merchants, one of which can be found in each official [town/city[Settlements]]. An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them (except for Adventuring Merchant Eliana) sells a map of the town's region, a map of [Drehmal[Drehmal (Place)]] that displays all official towns on the continent (except for [[New Sahd]], a bundle, a relic vessel and another special item that is unique to the merchant, and usually is associated with their area.
+Adventuring Merchants are special merchants, one of which can be found in each official [[Settlements.md|towns/cities]]. An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of [[Overworld|Drehmal]] that displays all official towns on the mainland, a bundle, a relic vessel, and another special item that is unique to the merchant, and usually is associated with their area.
 
-In the lore, Adventuring Merchants stand under the protection of [[Green Serpent]].
+Adventuring Merchants stand under the protection of [[Green Serpent]].
 
 ## Map of Drehmal
 
@@ -28,7 +28,7 @@ Mohta [(light blue)]<br>
 Firteid [(cyan)]<br>
 Mossfield [(medium blue)]<br>
 Highfall [(magenta)]<br>
-Dusps [(pink)]"
+Dusps [(pink)]
 
 **Image:**
 
@@ -56,20 +56,25 @@ Regional maps show the region surrounding the Adventuring Merchant's town, as we
 | Region | Image |
 |-|-|
 
-## Adventuring Merchant Eliana (75% SPOILERS)
 
-Adventuring Merchant Eliana is a variant of regular Adventuring Merchants, who can be found at Eliana's Map and Compass in [[Naharja]]. Her trades differ from those of typical Adventuring Merchants.
+--8<-- "spoiler.md"
+
+--8<-- "LD_spoiler.md"
+
+## Adventuring Merchant Eliana 
+
+Adventuring Merchant Eliana is a [[Tehrmari]] variant of regular Adventuring Merchants, who can be found at Eliana's Map and Compass in [[Naharja]]. Her trades differ from those of typical Adventuring Merchants.
 
 **Trades:**
 
-| Price | Purchase |
+| Price | Item |
 |-|-|
 | 21x Amethyst Shard + 4x Diamond | Map of Lo'Dahr |
 | 28x Amethyst Shard + 12x Runic Catalyst | Runic Vessel |
 | 10x Amethyst Shard | Bundle |
 | 20x Amethyst Shard | Note Box: The Trials |
 
-## Map of [[Lo'Dahr]] (75% SPOILERS)
+Map of [[Lo'Dahr]]:
 
 The Map of Lo'Dahr is sold by Adventuring Merchant Eliana in place of a regional map.
 

@@ -303,11 +303,11 @@ Great Gain Message:
 | Lvl 9  | Aurastaff of Permafrost              |
 | Lvl 10 | Cryostatic +3                        |
 
+## Secondary Altars
+
 --8<-- "spoiler.md"
 
 --8<-- "LD_spoiler.md"
-
-## Secondary Altars
 
 In addition to their altars on [[Overworld|Drehmal]], each Aspect/deity has a secondary altar in their designated area within [[Ytaj]]. These altars are functionally the same as their overworld counterparts, and devotion progress is global.
 

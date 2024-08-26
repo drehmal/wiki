@@ -13,9 +13,6 @@ The region's landscape consists mostly of grasslands and oak and birch woods. Th
 **Environmental Sub-Regions:**
 
 - swamp in the west
-- rugged plains in the west
-- peninsula with steep pink rocks in the northwest
-- open area with few trees in the east
 
 There are no sizable settlements in the Gulf of Drehmal. Most inhabitants of the region worship [[Drehmal]].
 

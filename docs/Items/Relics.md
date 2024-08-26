@@ -1,6 +1,6 @@
 # Relics
 
-Relics are items obtained via [Devotion[devotion], gifted as rewards for reaching certain milestones. Each Aspect or deity has their own relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Relics grant stat boosts (and sometimes debuffs) when placed in the player's off-hand slot. Each level increases the stat boosts granted by the item and changes the sprite, with the final version often having a more detailed sprite with additional lore text.
+Relics are items obtained via [[Devotion|devotion]], gifted as rewards for reaching certain milestones. Each Aspect or deity has their own relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Relics grant stat boosts (and sometimes debuffs) when placed in the player's off-hand slot. Each level increases the stat boosts granted by the item and changes the sprite, with the final version often having a more detailed sprite with additional lore text.
 
 ## List:
 

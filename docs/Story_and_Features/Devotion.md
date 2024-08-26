@@ -46,102 +46,92 @@ Great Gain Message:
 
 ### Drehmal
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                         |
-  | -------------- | -------------------------------------------- |
-  | Slight         | Oak Sapling <br>Sweet Berries <br>Beds (any color) |
-  | Medium         | Spore Blossom <br>Milk Bucket                |
-  | Great          | Grass Block <br>Music Disc (Cat)             |
+| Value          | Item                                         |
+| -------------- | -------------------------------------------- |
+| Slight         | Oak Sapling <br>Sweet Berries <br>Beds (any color) |
+| Medium         | Spore Blossom <br>Milk Bucket                |
+| Great          | Grass Block <br>Music Disc (Cat)             |
 
 ### Virtuo
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                  |
-  | -------------- | ------------------------------------- |
-  | Slight         | Dried Kelp <br>Melon <br>Orderflame Lantern |
-  | Medium         | Cake <br>Axolotl Bucket               |
-  | Great          | Diamond <br>Music Disc (Far)          |
+
+| Value          | Item                                  |
+| -------------- | ------------------------------------- |
+| Slight         | Dried Kelp <br>Melon <br>Orderflame Lantern |
+| Medium         | Cake <br>Axolotl Bucket               |
+| Great          | Diamond <br>Music Disc (Far)          |
 
 ### Maelihs
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Redstone Block <br>Golden Carrot <br>Chain       |
-  | Medium         | Bell <br>TNT                                     |
-  | Great          | Respawn Anchor <br>Music Disc (Chirp)            |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Redstone Block <br>Golden Carrot <br>Chain       |
+| Medium         | Bell <br>TNT                                     |
+| Great          | Respawn Anchor <br>Music Disc (Chirp)            |
 
 ### Khive
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Ender Pearl <br>Book <br>Any Chiseled Bricks     |
-  | Medium         | Lapis Lazuli Block <br>Oculus of Nothing         |
-  | Great          | Unstable Primal Catalyst <br>Music Disc (mellohi) |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Ender Pearl <br>Book <br>Any Chiseled Bricks     |
+| Medium         | Lapis Lazuli Block <br>Oculus of Nothing         |
+| Great          | Unstable Primal Catalyst <br>Music Disc (mellohi) |
 
 ### Dahr
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Tropical Fish <br>Ink Sac <br>Sea Pickle         |
-  | Medium         | Pufferfish <br>Prismarine Shard                  |
-  | Great          | Nautilus Shell <br>Music Disc (Pigstep)          |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Tropical Fish <br>Ink Sac <br>Sea Pickle         |
+| Medium         | Pufferfish <br>Prismarine Shard                  |
+| Great          | Nautilus Shell <br>Music Disc (Pigstep)          |
 
 ### Rihelma
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Truesight Arrow <br>Copper Ingot <br>Feather     |
-  | Medium         | Spyglass <br>Clock                               |
-  | Great          | Moonstone <br>Music Disc (Stal)                  |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Truesight Arrow <br>Copper Ingot <br>Feather     |
+| Medium         | Spyglass <br>Clock                               |
+| Great          | Moonstone <br>Music Disc (Stal)                  |
 
 ### Taihgel
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Magma Block <br>Flint <br>Quartz                 |
-  | Medium         | Glowstone <br>Obsidian                           |
-  | Great          | Turtle Egg <br>Music Disc (Blocks)               |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Magma Block <br>Flint <br>Quartz                 |
+| Medium         | Glowstone <br>Obsidian                           |
+| Great          | Turtle Egg <br>Music Disc (Blocks)               |
 
 ### Vayniklah
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Sunflower <br>Egg <br>Cactus                     |
-  | Medium         | Honeycomb <br>Fermented Spider Eye               |
-  | Great          | Golden Apple <br>Music Disc (Strad)              |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Sunflower <br>Egg <br>Cactus                     |
+| Medium         | Honeycomb <br>Fermented Spider Eye               |
+| Great          | Golden Apple <br>Music Disc (Strad)              |
 
 ### Voynahla
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Dead Bush <br>Rotten Flesh <br>Bone              |
-  | Medium         | Poisonous Potato <br>Chthonic Rose               |
-  | Great          | Chthonic Skeleton Skull <br>Music Disc (Ward)    |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Dead Bush <br>Rotten Flesh <br>Bone              |
+| Medium         | Poisonous Potato <br>Chthonic Rose               |
+| Great          | Chthonic Skeleton Skull <br>Music Disc (Ward)    |
 
 ### Lai
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Lantern <br>Campfire <br>Gunpowder               |
-  | Medium         | Jack o'Lantern <br>Magma Cream                   |
-  | Great          | Lava Bucket <br>Music Disc (Wait)                |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Lantern <br>Campfire <br>Gunpowder               |
+| Medium         | Jack o'Lantern <br>Magma Cream                   |
+| Great          | Lava Bucket <br>Music Disc (Wait)                |
 
 ### Loe
 
-??? warning "Accepted Gifts"
-  | Value          | Item                                             |
-  | -------------- | ------------------------------------------------ |
-  | Slight         | Leather <br>Glow Lichen <br>Glass                |
-  | Medium         | Rabbit's Foot <br>Divine Ice                     |
-  | Great          | Poweder Snow Bucket <br>Music Disc (Mall)        |
+| Value          | Item                                             |
+| -------------- | ------------------------------------------------ |
+| Slight         | Leather <br>Glow Lichen <br>Glass                |
+| Medium         | Rabbit's Foot <br>Divine Ice                     |
+| Great          | Poweder Snow Bucket <br>Music Disc (Mall)        |
 
 ## Rewards
 

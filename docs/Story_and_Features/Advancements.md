@@ -21,8 +21,8 @@ Advancements are sorted into one of six (6) categories:
 
 ## Spoiler-Free: Drehmal (Vanilla Advancements)
 
-??? danger "Drehmal"
-  vanilla adv tab goes here
+??? warning "Drehmal"
+      vanilla adv tab goes here
   
 ## Moderate Spoilers: Fabled Equipment and Discoveries
 
@@ -30,34 +30,34 @@ Advancements are sorted into one of six (6) categories:
 
 !!! danger "The following sections contain advancements for discovering areas and powerful items throughout the entirety of Drehmal, including locations tied to late-game story areas. These advancements will be kept toward the end of their respective lists, but keep in mind that these categories do contain potential spoilers."
 
-??? danger "Fabled Equipment (Minimal Spoilers)"
-  //Put table with all fabled equipment from overworld here, in the format of this old table from 2.1:
-    | **Achievement**          | **Description**                                                                            | **Obtainment Method**                    |
-    |:---------------------------:|---------------------------------------------------------------------------------------------|--------------------------------|
-    | Avsohm'Kohl                 | Recipe for Avsohm'Kohl, wings of a civilization long past, unlocked                         | Find [[Legendary Weapons#Avsohm'Kohl|Avsohm'Kohl]]               |
-    | The FrostFang               | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked                   | Find [[Legendary Weapons#Frostfang|Frostfang]]                  |
-    | Spider Bucker               | Recipe for the Spider Buckler, defender of Warriors, unlocked                               | Find [[Legendary Weapons#Spider Buckler|Spider Buckler]]             |
-    | Ultva's Bowblade            | Recipe for Ultva's Bowblade, Master Ultva of Insohm's weapon of choice, unlocked            | Find [[Legendary Weapons#Ultva's Bowblade|Ultva's Bowblade]]           |
-    | Peace Treaty                | Recipe for Peace Treaty, the symbol of undying alliances, unlocked                          | Find [[Legendary Weapons#Peace Treaty|Peace Treaty]]               |
-    | Rehntite Plate Mail         | Recipe for Rehntite Plate Mail, experimental armor of Avsohmic arcanists, unlocked          | Find [[Legendary Weapons#Rehntite Plate Mail|Rehntite Plate Mail]]        |
-    | Emperor Anyr's Scepter      | Recipe for the Emperor Anyr's Sceptor, the tool of the last emperor of Avsohm, unlocked     | Find [[Legendary Weapons#Emperor Anyr's Scepter|Emperor Anyr's Scepter]]     |
-    | Osteogenesis                | Recipe for Osteogenesis, the bane of Skullbeasts, unlocked                                  | Find [[Legendary Weapons#Osteogenesis|Osteogenesis]]               |
-    | Hovadchear's Greathammer    | Recipe for Hovadchear's Greathammer, famed weapon of Master Hovadchear of Insohm, unlocked  | Find [[Legendary Weapons#Hovadchear's Greathammer|Hovadchear's Greathammer]]   |
-    | Voidtear Dagger             | Recipe for the Voidtear Dagger, a weapon of odd interdimensional properties, unlocked       | Find [[Legendary Weapons#Voidtear Dagger|Voidtear Dagger]]            |
-    | One Thousand Scars          | Recipe for One Thousand Scars, the ancient blade of the First Avihm, unlocked               | Find [[Legendary Weapons#One Thousand Scars|One Thousand Scars]]         |
-    | The Heartaxe                | Recipe for the Heartaxe, weapon of fables, unlocked                                         | FInd [[Legendary Weapons#The Heartaxe|The Heartaxe]]               |
-    | Masayoshi                   | Recipe for Masayoshi, the deceased Queen's ancient blade, unlocked                          | Find [[Legendary Weapons#Masayoshi|Masayoshi]]                  |
-    | Orchidaceae                 | Recipe for the Orchidaceae, a treasure hunter's favorite, unlocked                          | Find [[Legendary Weapons#Orchidaceae|Orchidaceae]]                |
-    | Crystal Digging Claw        | Recipe for the Crystal Digging Claw, tool of pride, unlocked                                | Find [[Legendary Weapons#Crystal Digging Claw|Crystal Digging Claw]]       |
-    | Flammer                     | Recipe for the Flammer, the explosive mining tool, unlocked                                 | Find [[Legendary Weapons#Flammer|Flammer]]                    |
+??? warning "Fabled Equipment (Minimal Spoilers)"
+    Put table with all fabled equipment from overworld here, in the format of this old table from 2.1:
+    | **Achievement**             | **Description**                                                                             | **Obtainment Method**                    |
+    |:---------------------------:|---------------------------------------------------------------------------------------------|------------------------------------------|
+    | Avsohm'Kohl                 | Recipe for Avsohm'Kohl, wings of a civilization long past, unlocked                         | Find [[Legendary Weapons#Avsohm'Kohl|Avsohm'Kohl]] |
+    | The FrostFang               | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked                   | Find [[Legendary Weapons#Frostfang|Frostfang]] |
+    | Spider Bucker               | Recipe for the Spider Buckler, defender of Warriors, unlocked                               | Find [[Legendary Weapons#Spider Buckler|Spider Buckler]] |
+    | Ultva's Bowblade            | Recipe for Ultva's Bowblade, Master Ultva of Insohm's weapon of choice, unlocked            | Find [[Legendary Weapons#Ultva's Bowblade|Ultva's Bowblade]] |
+    | Peace Treaty                | Recipe for Peace Treaty, the symbol of undying alliances, unlocked                          | Find [[Legendary Weapons#Peace Treaty|Peace Treaty]] |
+    | Rehntite Plate Mail         | Recipe for Rehntite Plate Mail, experimental armor of Avsohmic arcanists, unlocked          | Find [[Legendary Weapons#Rehntite Plate Mail|Rehntite Plate Mail]] |
+    | Emperor Anyr's Scepter      | Recipe for the Emperor Anyr's Sceptor, the tool of the last emperor of Avsohm, unlocked     | Find [[Legendary Weapons#Emperor Anyr's Scepter|Emperor Anyr's Scepter]] |
+    | Osteogenesis                | Recipe for Osteogenesis, the bane of Skullbeasts, unlocked                                  | Find [[Legendary Weapons#Osteogenesis|Osteogenesis]] |
+    | Hovadchear's Greathammer    | Recipe for Hovadchear's Greathammer, famed weapon of Master Hovadchear of Insohm, unlocked  | Find [[Legendary Weapons#Hovadchear's Greathammer|Hovadchear's Greathammer]] |
+    | Voidtear Dagger             | Recipe for the Voidtear Dagger, a weapon of odd interdimensional properties, unlocked       | Find [[Legendary Weapons#Voidtear Dagger|Voidtear Dagger]] |
+    | One Thousand Scars          | Recipe for One Thousand Scars, the ancient blade of the First Avihm, unlocked               | Find [[Legendary Weapons#One Thousand Scars|One Thousand Scars]] |
+    | The Heartaxe                | Recipe for the Heartaxe, weapon of fables, unlocked                                         | FInd [[Legendary Weapons#The Heartaxe|The Heartaxe]] |
+    | Masayoshi                   | Recipe for Masayoshi, the deceased Queen's ancient blade, unlocked                          | Find [[Legendary Weapons#Masayoshi|Masayoshi]] |
+    | Orchidaceae                 | Recipe for the Orchidaceae, a treasure hunter's favorite, unlocked                          | Find [[Legendary Weapons#Orchidaceae|Orchidaceae]] |
+    | Crystal Digging Claw        | Recipe for the Crystal Digging Claw, tool of pride, unlocked                                | Find [[Legendary Weapons#Crystal Digging Claw|Crystal Digging Claw]] |
+    | Flammer                     | Recipe for the Flammer, the explosive mining tool, unlocked                                 | Find [[Legendary Weapons#Flammer|Flammer]]|
 
-??? danger "Fabled Equipment (LATE-GAME SPOILERS)"
+??? warning "Fabled Equipment (LATE-GAME SPOILERS)"
   Put table with all fabled equipment from later areas here, in same format
 
-??? danger "Discoveries (Moderate Spoilers)"
+??? warning "Discoveries (Moderate Spoilers)"
   Put table with all discoveries from overworld here, including devotion sites, civilization, landmarks
 
-??? danger "Discoveries (LATE-GAME SPOILERS)"
+??? warning "Discoveries (LATE-GAME SPOILERS)"
   table with all discoveries from later areas
 
 ## MAJOR SPOILERS: Primordial, ???, [REDACTED]
@@ -66,13 +66,13 @@ Advancements are sorted into one of six (6) categories:
 
 --8<-- "LD_spoiler.md"
 
-??? danger "75% Area Advancements (MAJOR LATE-GAME SPOILERS)"
+??? warning "75% Area Advancements (MAJOR LATE-GAME SPOILERS)"
   all LD advancements go here
 
 --8<-- "postyav_spoiler.md"
 
-??? danger "Primordial: Story Advancements (FULL SPOILERS THROUGH END-GAME)"
+??? warning "Primordial: Story Advancements (FULL SPOILERS THROUGH END-GAME)"
   all story advancements go here
 
-??? danger "???: Secret Advancements (FULL END-GAME SPOILERS)"
+??? warning "???: Secret Advancements (FULL END-GAME SPOILERS)"
   all secret advancements

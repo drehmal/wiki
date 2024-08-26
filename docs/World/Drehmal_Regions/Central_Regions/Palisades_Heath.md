@@ -22,4 +22,8 @@ The Paliasades Heath Terminus tower stands inside a pit with a partially frozen 
 
 ## Points of Interest
 
-| POI | 
+| POI | Image | Coordinates | Description |
+|-|-|-|-|
+| Drehua Temple |  |  |  |
+| Drehuan Scupltures |  |  |  |
+| Whale's Tale |  |  |  |

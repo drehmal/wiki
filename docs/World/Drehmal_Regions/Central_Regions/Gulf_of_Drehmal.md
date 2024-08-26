@@ -19,6 +19,8 @@ The region's landscape consists mostly of grasslands and oak and birch woods. Th
 
 There are no sizable settlements in the Gulf of Drehmal. Most inhabitants of the region worship [[Drehmal]].
 
+## History
+
 ## [[Terminus Network|Terminus]] Tower
 
 The Gulf of Drehmal's Terminus tower sits atop a wooden boat in the middle of the coast's central inlet. There are several [[Mihkmari]] aboard the boat.

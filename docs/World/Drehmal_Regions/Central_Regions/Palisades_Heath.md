@@ -18,7 +18,7 @@ Palisades Heath was one of the first habitable areas created by Drehmal after th
 
 ## [[Terminus Network|Terminus]] Tower
 
-The Paliasades Heath Terminus tower stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
+The Paliasades Heath Terminus tower is located in the region's north, directly next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
 
 ## Points of Interest
 

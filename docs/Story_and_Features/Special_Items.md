@@ -1,8 +1,8 @@
-(75% AND END-GAME SPOILERS AT END)
-
 # Items
 
-Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books[Written Books]], item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
+--8<-- "under_construction.md"
+
+Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with written books, item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
 ## [[Relics]]
 
@@ -12,15 +12,15 @@ Relics are offhand stat-modifying items that are obtained via [devotion[Devotion
 
 Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptiond, which ususally detail an item's lore.
 
-## [Artisan[Artisan Items]]
+## [[Artisan Items]]
 
 Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths]] or one of its variants.
 
-## [Legendary[Legendary Items]]
+## Legendary Items
 
 Legendary items are rare and exceptionally powerful items that are found at important points of interest, usually being hidden or guarded. They have stat modifiers and descriptions, but also unique abilities and their own sprites.
 
-## [Mythical[Mythical Weapons]]
+## Mythical Weapons
 
 There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
 
@@ -223,10 +223,14 @@ Besides the items belonging to the groups listed above, there are some other uni
 > Dorn't terll mer yer dorn't ser irt.
 > Loork urp art ther skyr! Irt burrrns...
 
+--8<-- "spoiler.md"
+
+--8<-- "LD_spoiler.md"
+
 ## [[Fervor Stones]](75% SPOILERS, α, β, Δ)
 A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the bottom of [[Drehmal]]'s tower in [[Ytaj]], with each of the items applying a different stat boost.
 
-## [Trinket[Trinkets]] (END-GAME SPOILERS)
+## [[Trinkets]] (END-GAME SPOILERS)
 
 Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They may have their own sprite.
 

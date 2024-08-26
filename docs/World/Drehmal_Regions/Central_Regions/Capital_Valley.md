@@ -18,6 +18,8 @@ Capital Valley has relatively flat terrain, with some hills and small cliffs. Th
 
 Capital Valley is home to the town of [[New Drabyel]] on the south coast, the smaller town of [[Solvei]] on the eastern edge of the region, and the very small village of [[Thesund]] at the foothills of the Burnt Mountains to the west. Drehmal is worshipped as the dominant religion in the region.
 
+## History
+
 ## Regional Map
 
 **Map of Capital Valley (sold by [[Adventuring Merchant]] in New Drabyel):**

@@ -1,10 +1,10 @@
-(25% and 50% SPOILERS FURTHER DOWN, 75% SPOILERS AT END)
-
 # Legendary Items
+
+--8<-- "under_construction.md"
 
 Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
 
-## List ([Drehmal[Drehmal (Place)]])
+## ([[Overworld|Drehmal]]) Legendaries
 
 There are 25 legendary items that can be obtained on Drehmal. Here is a list of them all:
 
@@ -132,23 +132,4 @@ There are 25 legendary items that can be obtained on Drehmal. Here is a list of 
 | **Lore**                           | A strange technological artifact gifted by [[AvSys]], constructed by the brilliant scientists housed here thousands of years ago. Despite the cutting edge technology used in its construction, its weaknesses are hard to ignore, mainly being prone to combustion and an aversion to water-based magics. |
 | **Obtain**         
 | In the [[Temporal Ruins]], South-East of Purity Peaks                                                                                                                                                                                                                               
-
-### [[X39 Equine Augmentation Assembly]] (50% SPOILERS)
-
-### [[WarpHorse Receiver MkII]] (50% SPOILERS)
-
-## List (75% SPOILERS, [[Lo'Dahr]])
-
-6 legendary items can be obtained on Lo'Dahr. Here is a list of them all:
-
-### [[Aeongale]]
-
-### [[Eldermead]]
-
-### [[Magestep]]
-
-### [[Proxigea]]
-
-### [[Stasis Bolt]]
-
-### [[Thundercrux]]                                                                                                                                                                                                                              
+    

@@ -1,27 +1,27 @@
-(50%, 75% AND END-GAME SPOILERS AT END)
-
 # Mythical Weapons
+
+--8<-- "under_construction.md"
 
 Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
 
 ## List (Drehmal)
 
-There are 8 mythical weapons that can be found on [Drehmal[Drehmal (Place)]]. Here is a list of all of them:
+There are 8 mythical weapons that can be found on [[Overworld|Drehmal]]. Here is a list of all of them:
 
 ### Calamity
 
 | ![[Calamity.webp]]{ width="48" } | Calamity                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Stats**                        | Calamity deals 8 base damage, has 2.4 attack speed, gives the player 0.075 movement speed, takes 4 max hp (2 hearts), and is unbreakable.                                                                                                                                                                                            |
-| **Ability**                      | **True Catastrophe**: Hold crouch and then jump to channel the power of the Skullbeasts (switching weapons at any point during the charge will cancel the ability), releasing untold ruin upon foes. The player will slowly rise in the air before slamming down, bringing a flash of lightning with them. **Cooldown**: 60s         |
+| **Ability**                      | **True Catastrophe**: Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes. The player will slowly rise in the air before slamming down, bringing a flash of lightning with them. **Cooldown**: 60s         |
 | **Lore**                         | No mortal has ever come close to slaying a Skullbeast, meaning the one deployed in the Desolation has long since died of natural causes. Ossein happened upon its remains, and became fanatically obsessed. They carved numerous weapons of immense strength from the calamitous skeleton, with these claws being the most powerful. |
-| **Obtain**                       | Defeat [[Skull Disciple Ossein]] in the epicenter [[Mael's Desolation]]                                                                                                                                                                                                                                                              |
+| **Obtain**                       | Defeat [[Skull Disciple Ossein]] in the epicenter of [[South Heartwood|Mael's Desolation]]                                                                                                                                                                                                                                                              |
 
 ### Frenzy
 
 | ![[Frenzy.webp]]{ width="48" } | Frenzy                                                                                                                                                                                                                                                                                                  |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                      | Frenzy deals 11 base damage, has 2 attack speed, gives the player 0.04 movement speed, and takes 8 max hp (4 hearts)                                                                                                                                                                                    |
+| **Stats**                      | Frenzy deals 11 base damage, has 2 attack speed, gives the player 0.03 movement speed, and takes 8 max hp (4 hearts)                                                                                                                                                                                    |
 | **Ability**                    | **Fatal Rampage**: Killing an enemy grants you a damage buff (3 damage per kill), stacking up to three times and lasting for ten seconds. **Cooldown**: 60s after the Rampage ends                                                                                                                      |
 | **Lore**                       | Many centuries ago, Sahd was a cruel, war-torn land where the grass was stained with blood. An incredibly powerful arcanist channeled all of Sahd's rage into a single catalyst; Frenzy. Fueled by the power of generations of bloodshed, this blade will rip and tear through everything in the realm. |
 | **Obtain**                     | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and drop them in the Forge near the volcano on the island.                                                                                                                                                           |
@@ -82,7 +82,7 @@ There are 8 mythical weapons that can be found on [Drehmal[Drehmal (Place)]]. He
 | **Stats**                            | Malevolentia deals 17 base damage, has 0.8 attack speed, takes 0.04 movement speed, grants 100% knockback resistance, gives 14 max hp (7 hearts), and is obtained with Fire Aspect IV       |
 | **Ability**                          | **Burnt Aegis**: Hold down crouch to deploy a projectile deflecting flame shield. **Cooldown**: 25s after the ability ends                                                                  |
 | **Lore**                             | Mael cast aside this mythological weapon after Virtuo went dormant. It is said that he had lost his purpose and abandoned his palace, perhaps residing with the other deities upon Lo'Dahr. |
-| **Obtain**                           | Underneath the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Burnt General.                                                                                                        |
+| **Obtain**                           | Atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.                                                                                                        |
 
 ### Inert Mythbreaker (50% SPOILERS)
 

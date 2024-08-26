@@ -307,7 +307,7 @@ Great Gain Message:
 
 --8<-- "LD_spoiler.md"
 
-## [[Ytaj]] Altars
+## Secondary Altars
 
 In addition to their altars on [[Overworld|Drehmal]], each Aspect/deity has a secondary altar in their designated area within [[Ytaj]]. These altars are functionally the same as their overworld counterparts, and devotion progress is global.
 

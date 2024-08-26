@@ -2,9 +2,9 @@
 
 # Items
 
-Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books[Written Books]], item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
+!!! warning "The Items section is still under construction. The majority of this section's contents have been carried over from 2.1, with some information becoming obsolete and some new information missing. We are actively working to update this section, so stay tuned!"
 
---8<-- "under_construction.md"
+Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books[Written Books]], item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
 ## [[Relics]]
 

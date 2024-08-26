@@ -84,12 +84,3 @@ There are 8 mythical weapons that can be found on [[Overworld|Drehmal]]. Here is
 | **Lore**                             | Mael cast aside this mythological weapon after Virtuo went dormant. It is said that he had lost his purpose and abandoned his palace, perhaps residing with the other deities upon Lo'Dahr. |
 | **Obtain**                           | Atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.                                                                                                        |
 
-### Inert Mythbreaker (50% SPOILERS)
-
-## List (75% SPOILERS, [[Lo'Dahr]])
-
-There is only 1 mythical weapon that can be found on Lo'Dahr.
-
-### Syzygy
-
-## The Mythbreaker (END-GAME SPOILERS)

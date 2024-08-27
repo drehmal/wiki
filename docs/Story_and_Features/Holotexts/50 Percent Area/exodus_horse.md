@@ -1,5 +1,9 @@
 # Naskiki's Experiment
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 Found in a garage in [[Exodus Vault]]. This holotext hints at the [[X-35 Equine Assembly|warp horse]] legendary item found nearby.
 
 ## Coordinates

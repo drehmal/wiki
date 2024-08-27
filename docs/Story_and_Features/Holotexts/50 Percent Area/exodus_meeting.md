@@ -1,5 +1,9 @@
 # Meeting Excerpt
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 This holotext is found in a meeting room on the north side of [[Exodus Vault]]. It contains an excerpt of a [[Blue Exodus]] meeting concerning issues at [[Mt. Yavhlix]].
 
 ## Coordinates

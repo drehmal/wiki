@@ -1,5 +1,9 @@
 # Kovis on the Graviton Crucible
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 Found in a room next to [[exodus_concern.md|Kahmas' Concern]] within [[Exodus Vault]], this holotext 
 
 ## Coordinates

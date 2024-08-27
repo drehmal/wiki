@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-The repository entry for the [[Resupply Depot]].
+The repository entry for the [[Resupply Depot]]. These holotexts also appear in the Core Facility.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

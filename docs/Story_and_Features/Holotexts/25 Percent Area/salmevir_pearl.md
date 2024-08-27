@@ -1,5 +1,9 @@
 # The Primal Walkers
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 Found just outside the Temporal Engine, this holotext provides a massive hint to the Temporal Engine puzzle blocking advancement in [[Sal'Mevir]].
 
 ## Coordinates

@@ -1,5 +1,9 @@
 # Ponderings of Kahmas
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 This holotext can be found in an office in the north wing of [[Exodus Vault]], presumably the office of [[Kahmas Tuhs]]. It compares the two most notable Avsohmic Emperors, [[Drehn Mal'Sohm]] and [[Anyr]].
 
 ## Coordinates

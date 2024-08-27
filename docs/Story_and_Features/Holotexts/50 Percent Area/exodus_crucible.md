@@ -4,7 +4,7 @@
 
 --8<-- "50_spoiler.md"
 
-Found in a room next to [[exodus_concern.md|Kahmas' Concern]] within [[Exodus Vault]], this holotext 
+Found in a room next to [[exodus_concern.md|Kahmas' Concern]] within [[Exodus Vault]], this holotext contains some additional context on the Graviton Crucible, the tool that allowed [[Blue Exodus]] to forge [[Mythbreaker]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

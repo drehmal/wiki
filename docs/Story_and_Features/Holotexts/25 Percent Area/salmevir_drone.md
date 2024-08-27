@@ -1,5 +1,9 @@
 # About Survey Drones
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 Located relatively close to the entrance of [[Sal'Mevir]], this holotext contains some basic information on Avsohmic survey drones, a crucial technology used by the empire.
 
 ## Coordinates

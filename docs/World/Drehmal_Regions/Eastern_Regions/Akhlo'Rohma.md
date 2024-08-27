@@ -21,9 +21,11 @@ There is also the [[Sunken Astral Body]], a large, stone island riddled with cra
 - strip of land with purple flowers in south
 - Sunken Astral Body in southeast
 
-The city of Dusps is 
+The city of [[Dusps]] is located in south Akhlo'Rohma, along with the small village of [[Marahza]] to the north, on the south banks of the Resting River. [[Virtuo]] is the most commonly worshiped deity in the region, but worship of [[Voynahla]] is also prevalent among the local [[Casai|Casain]] communities. [[Vayniklah]] is also worshiped by a select few.
 
 ## History
+
+The city state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace.
 
 ## Regional Map
 

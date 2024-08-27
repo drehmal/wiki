@@ -1,8 +1,12 @@
----
-tags:
-  - Lore
-  - Transcripts
----
+--8<-- "spoiler.md"
+
+--8<-- "postyav_spoiler.md"
+
+!!! warning "WARNING! This transcript is from an older version of Drehmal, and is no longer a part of the map as of the 2.2 update."
+
+!!! warning "This page has been kept on the wiki for posterity, but the updated version of this interaction in the end-game has been changed significantly."
+
+In Drehmal: Primordial v2.1, this was the final interaction between the player and [[yellow|The Mythoclast]], in which the player received the [[Mythbreaker]] for the first time.
 
 > \[THROW THE PRIMAL HEART ONTO THE GLOWSTONE\]
 >

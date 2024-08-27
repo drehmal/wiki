@@ -1,5 +1,9 @@
 # Inscription Complex
 
+--8<-- "spoiler.md"
+
+--8<-- "LD_spoiler.md"
+
 The repository entry for the [[Inscription Complex]]. These holotexts also appear in the Core Facility.
 
 ## Coordinates

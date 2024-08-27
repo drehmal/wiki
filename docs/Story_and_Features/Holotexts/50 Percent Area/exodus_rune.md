@@ -23,7 +23,7 @@ Found below the [[Exodus Citadel]] at the entrance to the [[Exodus Vault]], this
 > Next Configuration
 
 | | | | | | | | |
-|---|---|---|---|---|---|---|---|
+|--|--|--|--|--|--|--|--|
 | 🟦 | - | - | 🟦 | - | 🟦 | 🟦 | - |
 | - | 🟦 | - | - | 🟦 | - | - | - |
 | - | - | 🟦 | - | - | - | 🟦 | - |

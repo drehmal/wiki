@@ -1,5 +1,9 @@
 # Ekoh's Parting Memo
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 Found in the northern wing of the [[Exodus Vault]], this holotext is written by an excited [[Blue Exodus]] employee named Ekoh, who has just been selected to join the crew of [[The Aphelion]].
 
 ## Coordinates

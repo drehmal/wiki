@@ -1,6 +1,6 @@
 # Kovis' Hypothesis
 
-Found in the back room of the [[Av'Sal Repository]], alongside the hilt of the [[Mythbreaker]]. This holotext establishes the early-game goal of assembling the Mythbreaker by finding its separate parts throughout the world.
+Found in the back room of the [[Av'Sal Repository]], alongside the hilt of the [[Mythbreaker]]. This holotext, alongside [[avsal_mythbreaker2.md|the other found in this room]], establishes the early-game goal of assembling the Mythbreaker by finding its separate parts throughout the world.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -23,7 +23,7 @@ Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be
 
 ## Holotext Wiki Organization
 
-There are a total of 140 individual holotexts found throughout 14 different in-game locations, each of which has a uniformly formatted page in this section. Due to the spoiler-heavy nature of holotexts, and the fact that they are found exclusively in story-relevant areas, this section of the wiki is divided into tiers based on progression level through the story. Holotexts are named according to the names of their respective files in the resource pack, so they will not necessarily appear alphabetically based on their in-game titles.
+There are a total of 139 individual holotexts found throughout 14 different in-game locations, each of which has a uniformly formatted page in this section. Due to the spoiler-heavy nature of holotexts, and the fact that they are found exclusively in story-relevant areas, this section of the wiki is divided into tiers based on progression level through the story. Holotexts are named according to the names of their respective files in the resource pack, so they will not necessarily appear alphabetically based on their in-game titles.
 
 ## Holotext Page Format
 

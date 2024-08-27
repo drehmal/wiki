@@ -1,5 +1,9 @@
 # Resonant Halls
 
+--8<-- "spoiler.md"
+
+--8<-- "postyav_spoiler.md"
+
 The repository entry for the [[Resonant Halls]].
 
 ## Coordinates

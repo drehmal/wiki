@@ -1,5 +1,9 @@
 # Elegy of the Dune Watcher
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 This holotext, found at the bottom of a tower with levitation elevators in [[Sal'Mevir]], contains a cryptic elegy.
 
 ## Coordinates

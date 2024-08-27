@@ -1,5 +1,9 @@
 # Kahmas' Concern
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 Found in the [[Exodus Vault]], this holotext expresses concern from [[Kahmas Tuhs]] over the [[Mythbreaker]] schematics' origins, presumably having been created by a higher intelligence, and references something called the "Resonant Eye" inside [[Mt. Yavhlix]].
 
 ## Coordinates

@@ -1,5 +1,9 @@
 # Spectographer Koen's Analysis
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 This holotext can be found in the early area of [[Sal'Mevir]], describing the process of Avsohm discovering a massive energy source at [[Mt. Yavhlix]].
 
 ## Coordinates

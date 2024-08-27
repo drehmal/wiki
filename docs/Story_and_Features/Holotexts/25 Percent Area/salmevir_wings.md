@@ -1,5 +1,9 @@
 # Spectographer Koen's Invention
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 Found at the top of the largest building in [[Sal'Mevir]] alongside [[Avsohm'Kohl]], this holotext documents the thoughts of the wings' inventor, Koen.
 
 ## Coordinates

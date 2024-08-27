@@ -1,5 +1,9 @@
 # Thresa's Collaboration
 
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
 This holotext, found deeper within [[Sal'Mevir]], details [[Thresa Vera]]'s plan for the [[Stasis Facility]].
 
 ## Coordinates

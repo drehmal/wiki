@@ -2,7 +2,9 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "This page contains spoilers for the late/end-game dungeon at Mt. Yavhlix. Do not read further if you have not played this sequence yourself, all the way through the dragon fight."
+!!! danger "This section contains moderate spoilers for the late/end-game dungeon at Mt. Yavhlix."
+
+!!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
 This holotext, found in the [[Primary Energy Collection Facility]], describes a mangled [[Drehmari]] emerging from the portal in the facility, giving the workers a cryptic warning before dissolving.
 

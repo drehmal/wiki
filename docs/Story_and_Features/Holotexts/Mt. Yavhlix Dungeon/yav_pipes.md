@@ -25,7 +25,7 @@ are interfering with efficiency and <br>
 energy stability. Volatility meters <br>
 are fluctuating rapidly, we’re <br>
 thinking that the pipes just ne[ed] to <br>
-be reinforced. The amount of [ raw] <br>
+be reinforced. The amount of [ ] <br>
 energy we’re pumping from the[  ] <br>
 an[omaly] is frankly absurd - I’m not <br>
 sur[e if] our current infrastructure <br>

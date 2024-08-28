@@ -31,6 +31,9 @@ energy, it is a tear ripped in the <br>
 fabric of time and space itself. And <br>
 now we control it. We stabilized it. We <br>
 bega[n dr]awing from it. And now we <br>
-have [beg]in to look through it. W[hat] <br>
+have [beg]in[^1] to look through it. W[hat] <br>
 will we find within the abundan[ce of    ] <br>
-the abyss? 
+the abyss?
+
+
+[^1]: [sic]

@@ -2,7 +2,9 @@
 
 --8<-- "spoiler.md"
 
---8<-- "LD_spoiler.md"
+!!! danger "This section contains moderate spoilers for the late/end-game dungeon at Mt. Yavhlix."
+
+!!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
 Found at the far western end of the [[Primary Energy Collection Facility]], this holotext asserts that within the center of the mountain is a tear in the fabric of space and time.
 

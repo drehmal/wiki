@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]].
+This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. This dive reveals trillions of energy signatures, which can be presumed to represent individual realms (effectively universes), beyond Drehmal.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

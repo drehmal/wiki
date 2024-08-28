@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.md"
 
---8<-- "LD_spoiler.md"
+!!! danger "This section contains spoilers for the late/end-game dungeon at Mt. Yavhlix. Do not read further if you have not played this section yourself, all the way through the dragon fight."
 
 This holotext is found in a small alcove in the [[Primary Energy Collection Facility]], stressing the importance of the facility to Avsohm and stating that it was worth the [[Frostfang Catastrophe|loss of the North]].
 

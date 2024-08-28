@@ -1,7 +1,7 @@
 # Written Books
 
 ## Introduction
-Over 380 lore books can be found scattered throughout the realm of Drehmal, and every one of them is represented in this section of the wiki. Custom-written by the dev team and placed in unique locations corresponding to their contents, these books are one of—if not the most—significant ways that you as a player can learn about the rich, fantastically interwoven story and history of Drehmal.
+Over 390 lore books can be found scattered throughout the realm of Drehmal, and every one of them is represented in this section of the wiki. Custom-written by the dev team and placed in unique locations corresponding to their contents, these books are one of—if not the most—significant ways that you as a player can learn about the rich, fantastically interwoven story and history of Drehmal.
 
 Books may be found in main story structures, although they typically provide more of a supplement to the mainline story experience provided by gameplay, holotexts, and chat-box interactions.
 

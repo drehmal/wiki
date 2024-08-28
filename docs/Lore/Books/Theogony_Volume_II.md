@@ -45,7 +45,7 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 > -------------------
 > Perhaps the most important aspect, Vayniklah’s domain has steadily eroded over time. Originally given the power to create life and heal souls, she could not create complex forms, but is still respected and venerated realmwide.
 >
-> Soulstealer Voynalah, Aspect of Death
+> Soulstealer Voynahla, Aspect of Death
 > -------------------
-> Voynalah is a much reviled Aspect with dominion over death itself. During the Divine Schism, the first and only war between the Aspects, Voynalah took his own life, but due to his own power over death continued to linger in our realm.
+> Voynahla is a much reviled Aspect with dominion over death itself. During the Divine Schism, the first and only war between the Aspects, Voynahla took his own life, but due to his own power over death continued to linger in our realm.
 

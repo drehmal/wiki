@@ -1,33 +1,61 @@
----
-tags:
-  - Lore
-  - Entities
-  - The Three Deities
----
-
 # Maelihs
 
-![[Mael.webp]]{ align=right width="300" }
+> - **Titles:** The Burnt Lord, God of Chaos, God of War, God of Destruction, His Radiance
+> - **Classification:** Deity
+> - **Parent:** [[Primal Tree]]
+> - **Year of Birth:** Final Year of Av1
+> - **Devotion Site:** Sepulchral Altar ([[Rhaveloth]])
 
-> - **Date of birth:** Av2 0
-> - **Species:** Deity
+![[hellcrags_titan.png]]
+> Titan of Servitude (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].
 
-**Maelihs** (or Mael), one of The Three Deities, is the God of Chaos, Conflict, and Corruption. Born from the destruction of the Primal Tree, he is described as a giant, 30-foot tall man covered head-to-toe in heavy metal armor. Curved horns sprout out the sides of his head and he wields a greatsword made of red metal. He works towards pure and utter evil, starting wars for the sake of war.
+Maelihs (also referred to less formally as Mael) is one of the three deities born from the Primal Tree upon its collapse, and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
 
-## The Maelmari
+## Characteristics
 
-The Maelmari are Drehmari and Virmari that have been twisted and corrupted by Maelihs to mock [[Virtuo]] and [[Drehmal]]'s creations. Drehmari are typically captured and brought to the Carmine, Mael’s hellish sanctum in the far southwest, and transformed using chaotic rites and runes. After their mutation, Maelmari are used as simple cannon fodder in Mael’s wars. Maelmari reproduce rapidly as to further expand the armies. They also try to escape frequently, but only a few are successful. After that, they live as outcasts and suffer from racism due to being the creation of the realm’s most despised being.
+Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He is known for being wrathful and aggressive, constantly being in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
 
-Maelmari have multiple skin tones, all based on reds, oranges, and yellows. They have multiple stubby horns sprouting out of their body, with larger ones being on their head. Because of their twisted form, they live to a max of 40 years if they are free from Mael. If not, the average would be five.
+## Maelmari
 
-## Mael's Wars
+The [[Maelmari]] are Maelihs's ascended version of Drehmari. Maelmari have pale red skin, yellow eyes, and gray bull-like horns. Many Maelmari are used as soldiers and guards for Maelihs's empire, and the more educated ones live in the city of [[Rhaveloth]] at the gateway to the [[Crimson Gorge]].
 
-- The Deities' War during the First Avihm
-- The [[Dune Wars]] during the Second Avihm
-- The War against Insohm and the Battle for Drehmal during the Third Avihm
+## Malevolentia
 
-## Mael's Territory
+[[Malevolentia]] was Maelihs's signature weapon, a red double-sided trident and sword. It was discarded by Maelihs, grieving the departure of [[Virtuo]], and it was left behind at his palace when he left, where it can still be found by the player in-game.
 
-Although Maelihs has been gone for centuries, his troops still hold most of the West: [[Tharxax Plains#South Tharxax]], the [[Ebony Veldt]], [[Mt. Ebonfire]], the [[Carmine]], the [[Crimson Gorge]] and the [[Hellcrags]] are under his domination. He also rules the cities of [[Ebonrun]] and [[Tharxax City]], where the population must serve him. His shrine, the [[Burnt Palace]], is located at the centre of the Hellcrags.
 
-He also permanently scarred the realm by wiping out half the [[Heartwood]] with a skullbeast, leaving behind what is now known as [[Mael's Desolation]] and destroying part of the west coast of [[Anyr'Nogur]].
+## History 
+
+In the First Avihm, before his divine rebirth, Maelihs was a man named Naurduul, who was a member of the [[Maelruhn]] people of [[Western Xivhrynt]]. The details of this time are unclear, but it is known that he unwillingly received divine power from the Primal Tree upon its destruction, and the initial experience was agonizing (his whole body was probably severely burnt). 
+
+In the early days of the Second Avihm, Maelihs established [[Empire of Maelihs|his own empire]] in the southwestern corner of Drehmal, centered around the [[Burnt Palace]] in the Hellcrags. He ascended his [[Drehmari]] worshipers and prisoners to Maelmari, who were used to fuel his war effort against [[Virtuo]] in the [[Deity War]]. The First Tharhan Empire supported Maelihs with supplies, money and people in order to dissuade an attack. The Deity War ended in Av2 1000 when a deal was struck between Maelihs and Virtuo. Later in the Avihm, Maelihs's conquest of the west was prevented by the [[Casain Empire]], the [[Six Tharhan Kingdoms|Tharhan kingdoms]], the [[Second Tharhan Empire]] and the [[Empire of Avsohm]]. Scientists working for Maelihs began to conduct experiments on the powers of the [[Skullmother]], an enormous, flying beast, which was viewed as having potential for military purposes.
+
+After the sudden collapse of Avsohm, Maelihs seized the opportunity to guide the Skullmother with airships up to the stronghold-city of Sal'Anyr to the north, obliterating any resistance along the way. The city was completely razed by the Skullmother, leaving few survivors. This marked the beginning of the [[Dune Wars]], wherein the Empire of Maelihs expanded its reach throughout the entire West. During this time, Maelihs was betrayed by Klyhf Him'lahk, a former [[Red Dawn]] [[Alchemy|alchemist]] that defected to his service and befriended the deity. Klyhf Him'lahk, in an attempt to complete the [[Great Work]], created a machine and attempted to use it to drain Maelihs's life force to be transferred to himself. Maelihs thwarted the trap, and in an intense fit of rage, he killed Klyhf and destroyed his whole tower in the Burnt Palace. Likely fuelled by this bitterness, Maelihs decided to deploy the Skullmother in the [[South Heartwood]] to unleash unmitigated ruin upon the region, in hopes of scaring Drehmari into subordination.
+
+Amidst the chaos of the [[Tidal War]], a conflict fought to determine the political state of [[Firteid]] after the [[Tide Queen]]'s death, Maelihs stormed the [[Kiln of Virtuo]] and battled Virtuo. He was unable to kill her, but badly injured her, burning her face and taking her eyeball as a trophy. He brought the eye to Rhaveloth and installed it into the shield [[Eyebiter]]. 
+
+The [[Order of Insohm]] engaged in war with the Empire of Maelihs, seeking to free the lands in the West from his rule and completely eliminate the empire. Initially, they faced setbacks, but after a series of important events, they gained momentum and started pushing back Maelihs's armies. During this time, Maelihs began exploring the remains of west Xivrhynt, the land from which he originally came. From his travels, he made discoveries and gained a new perspective on his past and Virtuo, realizing that she was not actually at fault for the misdeeds he had blamed her for. He started to regret his jealousy for her, and the great harm it drove him to do. Although the Skullmother could have been used against Insohm to permanently scar their lands, Maelihs had ordered for his [[Burnt Generals]] to hesitate before deploying her. They resolved not to use her, not wanting to anger him. Wishing to no longer inflict destruction, Maelihs eventually set the Skullmother free, to the dismay of the Generals. He remained indifferent as territory is rapidly lost to the Insohmic Coalition. 
+
+After the departure of Virtuo, Maelihs's remorse deepened greatly. As his empire continued to operate under the direction of the Burnt Generals and reconquered most of the West in the wake of the Order of Insohm's dissoluton, Maelihs lost interest in the realm, and eventually left the Burnt Palace. 
+
+## In-Game 
+
+--8<-- "spoiler.md"
+
+--8<-- "LD_spoiler.md"
+
+![[mael_chillin.png]]
+> Maelihs in-game on his throne in Ytaj
+
+It is discovered via his diaries at the top of the Burnt Palace that Maelihs moved to [[Ytaj]] in Av4 12 to isolate himself from his fanatics and gain proximity to his Aspect relatives. There, the player can find and speak with him, learning that the deity, stricken by guilt, wishes only to be able to right his wrongs by destroying his palace and purging the realm of his evil armies.
+
+Maelihs can be spoken to in-game via an in-game dialogue tree, which can be found in full [[Mael Dialogue|here]].
+
+Maelihs's ultimate fate is mentioned by [[yellow|???]] in the [[Story Progression|final sequence of the game]].
+
+
+
+
+
+
+

@@ -16,11 +16,11 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ![[eye_dive2.png]]{ width="384" }
 
 ## Transcription:
-> RESONANCE DIVE ESTABLISHED <br>
+> **RESONANCE DIVE ESTABLISHED** <br>
 19 Signals Sent… <br>
 23 Signals Received… <br>
 Anomalous entity detected! <br>
 Rihselch Speech Recognized!
 >
-> DIVE NOTES - Ch. Obs. Orix Cehein <br>
+> **DIVE NOTES - Ch. Obs. Orix Cehein** <br>
 > Entity Speaks in ancient Rihselch, does not seem to understand Common. Claims to be Tethlaen, the Ever-Fear, who has been presumed deceased for centuries. Signal marred by interference, could not maintain contact. We need to enter the Anomaly. Safety unknown.

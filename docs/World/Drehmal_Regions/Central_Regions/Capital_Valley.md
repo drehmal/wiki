@@ -17,7 +17,11 @@ Capital Valley is home to the town of [[New Drabyel]] on the south coast, the sm
 
 ## History
 
-Ancient Dreh'Nohan city states were abundant in modern-day Capital Valley in the early days of the Second Avihm. Despite being politically separated, the people of the region had a common culture. The first polity to unite the region's people was the [[Chosen Kingdom]], originating from Drahbes in the Gulf of Drehmal region, although the kingdom's capital was moved to Drabyel in the far south. When [[Drehn Mal'Sohm]] inherited the Chosen Throne, he reformed the government and commissioned a new capital city, Av'Sal. The newly born Avsohmic Empire ruled Capital Valley and most of the continent for a few centuries, a time during which quality of life massively improved for [[Drehmari]] due to discoveries in the field of technology. Being the empire's heartland, a severe blow was dealt with the [[Fall of Avsohm|catastrophe]] that ended Avsohm. Some time in the Third Avihm, the independent towns of Capital Valley (and the Gulf of Drehmal) united as the [[United Townships of Dreh'Noha]], which became a member state of the [[Order of Insohm]]. Even after Insohm's fall, this united Dreh'Nohan state continued to exist and does so in the current day.
+Ancient Dreh'Nohan city states were abundant in modern-day Capital Valley in the early days of the Second Avihm. Despite being politically separated, the people of the region had a common culture. The first polity to unite the region's people was the [[Chosen Kingdom]], originating from Drahbes in the Gulf of Drehmal region, although the kingdom's capital was moved to Drabyel in the far south. 
+
+When [[Drehn Mal'Sohm]] inherited the Chosen Throne, he reformed the government and commissioned a new capital city, Av'Sal. The newly born Avsohmic Empire ruled Capital Valley and most of the continent for a few centuries, a time during which quality of life massively improved for [[Drehmari]] due to discoveries in the field of technology. Being the empire's heartland, a severe blow was dealt with the [[Fall of Avsohm|catastrophe]] that ended Avsohm.
+
+Some time in the Third Avihm, the independent towns of Capital Valley (and the Gulf of Drehmal) united as the [[United Townships of Dreh'Noha]], which became a member state of the [[Order of Insohm]]. Even after Insohm's fall, this united Dreh'Nohan state continued to exist and does so in the current day.
 
 ## Regional Map
 

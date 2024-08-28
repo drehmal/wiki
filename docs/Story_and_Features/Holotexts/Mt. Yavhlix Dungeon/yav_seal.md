@@ -2,7 +2,9 @@
 
 --8<-- "spoiler.md"
 
---8<-- "LD_spoiler.md"
+!!! danger "This section contains moderate spoilers for the late/end-game dungeon at Mt. Yavhlix."
+
+!!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
 This holotext is found within the [[Primary Energy Collection Facility]], overlooking the entry bridge. It contains a plea to [[Orix Cehein]] to save the author.
 

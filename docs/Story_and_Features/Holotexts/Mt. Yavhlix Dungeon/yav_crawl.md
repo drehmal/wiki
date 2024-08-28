@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.md"
 
---8<-- "LD_spoiler.md"
+!!! danger "This section contains moderate spoilers for the late/end-game dungeon at Mt. Yavhlix. Do not read further if you have not played this section yourself, all the way through the dragon fight."
 
 This holotext, found in the [[Primary Energy Collection Facility]], describes a mangled [[Drehmari]] emerging from the portal in the facility, giving the workers a cryptic warning before dissolving.
 

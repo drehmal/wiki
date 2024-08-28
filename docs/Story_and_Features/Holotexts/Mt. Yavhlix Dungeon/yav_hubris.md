@@ -24,7 +24,7 @@ mani[a! C]urse his child! Curse his <br>
 enti[re b]lasted empire! If I was right <br>
 in the mind I would have mutilated his <br>
 beloved Eye, destroyed the thing <br>
-that gave him i[sigh]t to what lies <br>
+that gave him i[nsigh]t to what lies <br>
 beyond. Drehn was right to hesitate <br>
 at [co]nquering this damned mountain. <br>
 [We nev]er shoul[d h]ave interfered <br>

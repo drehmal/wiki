@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-Found at the end of a hallway in the [[Numencore]], this holotext contains the deduction that charging the [[Mythbreaker]] using the core would anger [[Khive]], ultimately dissuading Avsohm from attempting so before they fell.
+Found in a side room of the [[Numencore]], this holotext contains the deduction that charging the [[Mythbreaker]] using the core would anger [[Khive]], ultimately dissuading Avsohm from attempting so before they fell.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

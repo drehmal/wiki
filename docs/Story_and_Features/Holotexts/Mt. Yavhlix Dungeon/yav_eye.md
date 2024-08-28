@@ -2,7 +2,9 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "This page contains spoilers for the late/end-game dungeon at Mt. Yavhlix. Do not read further if you have not played this sequence yourself, all the way through the dragon fight."
+!!! danger "This section contains moderate spoilers for the late/end-game dungeon at Mt. Yavhlix."
+
+!!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
 This holotext can be found at the end of a hallway, near the entrance of the [[Primary Energy Collection Facility]]. It implies that through the Resonant Eye, Avsohm saw some fundamental truth about the universe.
 

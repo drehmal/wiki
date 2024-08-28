@@ -1,9 +1,5 @@
 # Final Transmission
 
---8<-- "spoiler.md"
-
---8<-- "LD_spoiler.md"
-
 This holotext, found in the gatehouse besides the [[Mt. Yavhlix]] door, contains the final transmission of the Yavhlix gatewatch, as well as establishing the means by which the seal can be destroyed.
 
 ## Coordinates

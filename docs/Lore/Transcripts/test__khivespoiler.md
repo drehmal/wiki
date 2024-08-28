@@ -1,3 +1,5 @@
+# Spoiler Test
+
 Danger: <br>
 !!! danger "*You feel an arcane presence...*"
 
@@ -9,3 +11,6 @@ Tip: <br>
 
 Example: <br>
 !!! example "*You feel an arcane presence...*"
+
+All would come immediately before the default spoiler message: <br>
+--8<-- "spoiler.md"

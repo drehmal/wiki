@@ -25,9 +25,17 @@ The city of [[Dusps]] is located in south Akhlo'Rohma, along with the small vill
 
 ## History
 
-The city state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace.
+The city state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace. All of Akhlo'Rohma was eventually united under the rule of Ancehl's duke. The first school of [[Alchemy|alchemy]], Asomatous Alchemy, was created by the nobles of Ancehl.
+
+Akhlo'Rohma was one of the first territories to be acquired by the [[Empire of Avsohm]]. It was in the mountains on the northern border of this region that a [[Rehnite Cave|cave]] yielding  an extraordinary amount of rehnite was found. This mining site would become integral to Avsohm's runic technology industry.
+
+After [[Fall of Avsohm|Avsohm's fall]], Ancehl resumed its position of power. The region was populated by an influx of [[Casai|Casain]] immigrants, seeking refuge from the [[Dune Wars]] in the west. These communities were met with discrimination, especially by the government in Ancehl, who scorned their worship of [[Voynahla]] and saw them as cursed. This led to the [[Dohval Civil War]], in which Casains rebelled against Ancehl and burned down the city, only leaving the [[Ancehl Castle|castle]]. The war resulted in a reformation of the government, lending a share of political power to a parliament based in Dusps (the state was renamed as the [[Kingdom of Dusps]]).
+
+The Kingdom of Dusps became a member of the [[Order of Insohm]], and they participated in the [[Battle for Drehmal]]. This allowed the kingdom to be allotted a colony in the [[Ebony Veldt]] by [[Vahid|Master Vahid]]. While the Order crumbled, and the Insohmic Council was in an incapacitated state, Akhlo'Rohma was raided by [[Maelmari]] in an event known as "[[Gendrik's Incursion]]". The Kingdom of Dusps's western territories were also reclaimed by the [[Empire of Maelihs]].
 
 ## Regional Map
+
+**Map of Akhlo'Rohma (sold by [[Adventuring Merchant]] in Dusps):**
 
 ## [[Terminus Network|Terminus]] Tower
 

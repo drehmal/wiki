@@ -28,5 +28,5 @@ We mu[st ]keep [it] in! W[e mu]st keep it in! <br>
 > The seal [is b]eing put in place, the <br>
 great orb of veilstone designed by <br>
 the great Orix! [O]rix will be our <br>
-savior! Orix will sav[e m]e! Please [??]t <br>
-m[e??????] Orix!
+savior! Orix will sav[e m]e! Please [le]t <br>
+m[e escape,] Orix!

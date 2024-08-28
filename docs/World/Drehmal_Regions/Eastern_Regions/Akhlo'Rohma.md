@@ -39,4 +39,16 @@ The Kingdom of Dusps became a member of the [[Order of Insohm]], and they partic
 
 ## [[Terminus Network|Terminus]] Tower
 
+Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. One hostile "[[Lahrs]] Adherent" can be found on a small, protruding wooden beam near the top.
+
 ## Points of Interest
+
+| POI | Image | Coordinates | Description |
+|-|-|-|-|
+| Ancehl Castle |  |  | Ancehl Castle is a large, extravagant palace on a bluff on the west coast of Akhlo'Rohma. It is the home of the Duke/Duchess of Ancehl and other nobles. Outside of its walls are small, diorite remnants of the city of Ancehl, which once existed alongside the castle. Ancehl Castle is heavily fortified and guarded. Underneath the palace are the Crypts of Akhlo'Rohma, a series of dangerous rooms and passages that were once used as a prison. |
+| Azimuth Labs |  |  |  |
+| Dusps |  |  |  |
+| Esipelli Vineyard |  |  |  |
+| Rehnite Cave |  |  |  |
+| Ruins of Azaim |  |  |  |
+| Sunken Astral Body |  |  |  |

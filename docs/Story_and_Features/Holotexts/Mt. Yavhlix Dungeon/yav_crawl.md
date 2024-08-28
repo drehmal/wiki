@@ -28,7 +28,7 @@ stark white eyes staring back at us. <br>
 She had no mouth. When she moved <br>
 her hands we heard her in our <br>
 minds[: ]“He sees you. He is <br>
-displeased. Leave before he takes <br>
+displeased. Leave before He takes <br>
 you. Please leave.” <br>
 That is all she said bef[or]e it <br>
 became a mere puddle.

@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.md"
 
---8<-- "LD_spoiler.md"
+!!! danger "This page contains spoilers for the late/end-game dungeon at Mt. Yavhlix. Do not read further if you have not played this sequence yourself, all the way through the dragon fight."
 
 This holotext, near the top of the [[Primary Energy Collection Facility]], curses Emperor [[Anyr]], blaming the death of this facility and fall of Avsohm on his hubris.
 

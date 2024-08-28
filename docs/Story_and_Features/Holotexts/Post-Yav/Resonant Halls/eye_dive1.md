@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]].
+This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. The first dive is aborted early after making out the vague shape of wings.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

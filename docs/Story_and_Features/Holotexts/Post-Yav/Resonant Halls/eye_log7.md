@@ -9,11 +9,11 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| *** |  ***  | *** |
+| 26914 |  2  | -48 |
 
 ## Image:
 
-![[filename.png]]{ width="384" }
+![[eye_log7.png]]{ width="384" }
 
 ## Transcription:
 > **Chief Science Officer Thresa**

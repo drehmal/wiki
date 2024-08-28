@@ -24,10 +24,10 @@ dispos[al] our emperor shall [achieve     ] <br>
 the apotheosis he is absol[utely                ] <br>
 d[estined] for! He shall spro[ut                ] <br>
 glo[rio]us wing[s! His han]ds sha[ll      ] <br>
-beco[m]e we[apons stronger] than any <br>
-oth[er! H]is [will shall comma]nd the wills <br>
+beco[m]e we[apons mightier] than any <br>
+oth[er! H]is [voice shall be]nd the wills <br>
 of millions! [He shall strik]e down the <br>
-monstrosity [that keep]s us here! <br>
+monstrosity [that hunt]s us here! <br>
 The[n he ]shall strike down its master! <br>
 H[ail to Av]so[hm!] Hai[l to Av]soh[m!] Hail <br>
 to [Avsohm]![ Hail t]o[ Avsohm]! [Hail t]o <br>

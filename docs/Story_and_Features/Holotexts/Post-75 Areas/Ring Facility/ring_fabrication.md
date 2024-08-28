@@ -1,4 +1,4 @@
-# Title (In-Game)
+# Inscriber Symis' Innovation
 
 --8<-- "spoiler.md"
 

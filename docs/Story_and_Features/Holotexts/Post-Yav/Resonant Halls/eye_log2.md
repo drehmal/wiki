@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. It confirms that the entity discovered in the second dive is [[Tethlaen]], and its author, C.S.O. Eleis, resolves to enter the Nothing to meet with the Aspect themselves.
+This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. It confirms that the entity discovered in the second dive is [[Tethlaen]], and its author, C.S.O. Eleis, resolves to lead the mission to enter the Nothing and meet with the Aspect herself.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

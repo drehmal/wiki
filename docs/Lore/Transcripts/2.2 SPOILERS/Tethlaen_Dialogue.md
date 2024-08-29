@@ -1,4 +1,4 @@
-# The Nothing
+# Tethlaen Dialogue
 
 --8<-- "spoiler.md"
 

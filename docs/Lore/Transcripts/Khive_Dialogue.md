@@ -14,9 +14,9 @@
 
 The following is a transcript of Mystic Elder [[Khive]]'s dialogue during the [[Mythbreaker]] run, beginning at the [[Numencore]] and ending at the door to the [[Primary Energy Collection Facility]].
 
-> \*Player returns to Core Facility from Numencore, with charged Mythbreaker*
->
 > *You feel an arcane presence...*
+>
+> \*Player returns to Core Facility from Numencore, with charged Mythbreaker*
 > 
 > [Mystic Elder Khive] Wretched destroyer!
 >

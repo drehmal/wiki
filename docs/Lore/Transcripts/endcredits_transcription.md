@@ -8,43 +8,43 @@ The following is a transcription of the end credits sequence for Drehmal: Apothe
 >
 > Ported to 1.20 by tworoundcats & playtested with help from RussellGeorgi
 > 
-> Created by Keeko100 & Rift
+> **Created by Keeko100 & Rift**
 >
-> Director:
+> **Director:**
 >
 > Keeko100
 >
-> Producer:
+> **Producer:**
 >
 > DomeMaster
 >
-> Manager:
+> **Manager:**
 > 
 > Rift
 >
-> Composers:
+> **Composers:**
 >
 > Chris Nesja <br>
 > Penngo
 >
-> Datapack Coders
+> **Datapack Coders**
 >
 > 1000hrcelebration <br>
 > Zerdguyyy <br>
 > ElectroDragon <br>
 > tworoundcats
 >
-> Installer Coders
+> **Installer Coders**
 >
 > MoutonDemocrate <br>
 > Major_Lue
 >
-> World Design
+> **World Design**
 >
 > Keeko100 <br>
 > NaterGator
 >
-> Builders:
+> **Builders:**
 > 
 > Keeko100 <br>
 > DomeMaster <br>
@@ -55,14 +55,14 @@ The following is a transcription of the end credits sequence for Drehmal: Apothe
 > milkmortem <br>
 > Yllusive
 >
-> Writers:
+> **Writers:**
 >
 > DomeMaster <br>
 > Rift <br>
 > Keeko100 <br>
 > greenTetrahedron
 >
-> Texture Artists:
+> **Texture Artists:**
 >
 > HiscottiBiscotti <br>
 > Keeko100 <br>
@@ -70,25 +70,25 @@ The following is a transcription of the end credits sequence for Drehmal: Apothe
 > 1000hrcelebration <br>
 > Naflaim
 >
-> Animator/Modeler:
+> **Animator/Modeler:**
 >
 > MoutonDemocrate
 > 
-> Promotional Artist:
+> **Promotional Artist:**
 >
 > HiscottiBiscotti
 > 
-> Associate Builders:
+> **Associate Builders:**
 >
 > Taillin101 <br>
 > H A D E S
 >
-> Associate Coders:
+> **Associate Coders:**
 >
 > HotElbows <br>
 > Xalveris
 >
-> Thank you to community members who submitted contest builds:
+> **Thank you to community members who submitted contest builds:**
 >
 > Xorhuul: Black Sabbath <br>
 Castle Tharxax (Loraga Keep): Pogo <br>
@@ -97,7 +97,7 @@ Firteid Buildings: Zgu, MoutonDemocrate, DaWolf <br>
 Firteid Airships: Goblin <br>
 Highfall Revamp: Maelhrizz
 > 
-> Thank you to all playtesters who helped us in closed alpha:
+> **Thank you to all playtesters who helped us in closed alpha:**
 >
 > White_Fang <br>
 > Asian of Chaos <br>

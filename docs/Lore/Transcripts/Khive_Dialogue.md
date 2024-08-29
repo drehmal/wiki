@@ -1,7 +1,5 @@
 # Khive Dialogue
 
---8<-- "spoiler.md"
-
 !!! danger "SPOILER WARNING!"
 
 !!! danger "This page contains a **full transcript** of a very late-game sequence, which can only be initiated after the 75% story mark."

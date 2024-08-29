@@ -14,6 +14,7 @@
 
 The following is a transcription of the dialogue given to the player by [[Tethlaen]] during his battle in the Nothing, after the main sequence at the [[Primary Energy Collection Facility]]. 
 
+## Transcription
 > \*Player enters the Nothing*
 >
 > …You… Drehmari…

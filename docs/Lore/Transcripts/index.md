@@ -4,4 +4,8 @@ In Drehmal, the player will sometimes be spoken to directly through the in-game 
 
 This directory contains all instances of such dialogue.
 
+Transcripts related to Drehmal with no or minimal spoilers are found directly in this folder.
+
+Dialogue transcripts from the 2.2 (current) version of the map can be found in the "2.2 SPOILERS" folder. These are all late-game spoilers.
+
 Outdated dialogue, which is no longer canon to the storyline or lore of Drehmal, can be found in the OBSOLETE folder. 

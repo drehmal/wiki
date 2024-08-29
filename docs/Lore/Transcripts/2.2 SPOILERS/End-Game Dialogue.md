@@ -419,7 +419,11 @@ The Mythoclast does not resume speaking until after the [[endcredits_transcripti
 > [Yes] <br>
 > [Not Yet]
 >
-> \*Player selects "Yes."*
+> \*Player selects "Not Yet"*
+>
+> [The Mythoclast] I understand. Whenever you're ready.
+> 
+> \*Player selects "Yes"*
 > 
 > [The Mythoclast] Very well.
 >

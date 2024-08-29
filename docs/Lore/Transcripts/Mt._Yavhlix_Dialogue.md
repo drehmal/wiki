@@ -16,6 +16,7 @@ Upon first entering the [[Primary Energy Collection Facility]], just after the [
 
 This dialogue does not transpire in the in-game chat, but rather, through the names of any item the player is holding being changed. Any item that the player has in their hand may have its name changed to one of these lines for a few seconds before being changed back, until the full sequence has ended.
 
+## Transcription
 > \*Player enters Mt. Yavhlix and begins walking down the bridge to the Facility*
 >
 > YOU.

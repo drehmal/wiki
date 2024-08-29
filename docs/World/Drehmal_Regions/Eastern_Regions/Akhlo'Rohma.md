@@ -46,9 +46,9 @@ Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it i
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
 | Ancehl Castle |  |  | Ancehl Castle is a large, extravagant palace on a bluff on the west coast of Akhlo'Rohma. It is the home of the Duke/Duchess of Ancehl and other nobles. Outside of its walls are small, diorite remnants of the city of Ancehl, which once existed alongside the castle. Ancehl Castle is heavily fortified and guarded. Underneath the palace are the Crypts of Akhlo'Rohma, a series of dangerous rooms and passages that were once used as a prison. |
-| Azimuth Labs |  |  |  |
-| Dusps |  |  |  |
-| Esipelli Vineyard |  |  |  |
-| Rehnite Cave |  |  |  |
-| Ruins of Azaim |  |  |  |
-| Sunken Astral Body |  |  |  |
+| Azimuth Labs |  |  | Azimuth Labs is a facility located beneath the Nahynaga Mountains, southwest of Akhlo'Rohma. It served as the headquarters of [[Red Dawn]] during Avsohmic times. |
+| Dusps |  |  | Dusps is a large city situated on a bluff in southern Akhlo'Rohma. Its nickname is the "Painted City", referring to its diversely colored buuildkngs and creative spirit. |
+| Esipelli Vineyard |  |  | Esipelli Vineyard is a now-abandoned farmhouse and vineyard in southwest Akhlo'Rohma. It is named after its founder, ___ Esipelli. |
+| Rehnite Cave |  |  | The rehnite cave is a vast, open cavern within the mountains to the north of Akhlo'Rohma. It was Avsohm's principal rehnite mine and a catalyst in the empire's technological growth. An empty facility remains there today. |
+| Ruins of Azaim |  |  | Azaim was a city in north Akhlo'Rohma that was settled by Casain migrants. It was destroyed in Gendrik's Incursion, leaving behind ruins. |
+| Sunken Astral Body |  |  | The Sunken Astral Body is a chunk of the moon [[Lo'Dahr]] that fell onto [[Drehmal (Place)|Drehmal]], forming a massive crater on impact. The mini-biome's ground consists of stone riddled with craters, and the effect of gravity there is reduced. |

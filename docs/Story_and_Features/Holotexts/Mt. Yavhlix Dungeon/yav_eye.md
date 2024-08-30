@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext can be found at the end of a hallway, near the entrance of the [[Primary Energy Collection Facility]]. It implies that through the Resonant Eye, Avsohm saw some fundamental truth about the universe.
 
 ## Coordinates

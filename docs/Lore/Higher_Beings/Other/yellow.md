@@ -33,7 +33,5 @@ In the Third Avihm, the [[Order of Insohm]] began heavily researching Avsohmic t
 
 After defeating [[Tethlaen]] and returning to Drehmal, a mysterious voice (shown as three yellow question marks, "???") begins to speak to the player in chat. They override [[avSYS]]'s compass dispensary to give the player three trinkets in total, which guide the player to [[Azimuth Labs]], then the [[Resonant Halls]], and finally back to the [[Stasis Facility]]. At the first two locations, the player receives details on Anyr's machinations with the Resonant Eye and God Machine from holotexts and additional information provided by the voice. At the Stasis Facility, the unnamed figure reveals their identity as the Mythoclast. They gift the player [[The Mythbreaker]] and teleport them to the Court of Nothing to fight Ultva and Hovadchear, who have been kept alive and under the Mythoclast's control. After the battle, the player is teleported to the [[Heart of the Void]], the center of the Mythoclast's domain. The end of this area sees the player fight The Emissary of the Void, revealed to be Avsohmic founder [[Drehn Mal'Sohm]], who is ultimately defeated by the player. The Mythoclast explains that Drehn's soul wished to see the end of his empire, and to grant his wish, Drehn was kept alive by the Mythoclast until now to see the player, the final living Avsohmic Drehmari. The Mythoclast then takes the player back to Drehmal for the very last sequence of the game, in which they explain the ultimate fates of the realm's Aspects and Deities, before offering the player closure.
 
-## Transcripts
-The following are the complete transcripts of The Mythoclast's dialogue from the end of the game.
-
-(wip)
+## Dialogue 
+A full transcript for all of The Mythoclast's dialogue from the end-game sequence can be found [[End-Game_Dialogue.md|here]] (full story spoilers).

@@ -6,7 +6,7 @@ Holotexts are holographic text images that appear in [[Empire of Avsohm|Avsohmic
 
 Typically containing brief messages written about important characters or concepts, they are one of the most important resources for any playthrough of the map. Holotexts also frequently hint at the solution to puzzles in their area, which is not true of lore books.
 
-In-game, holotexts can be recognized by the presence of a lime-colored concrete block on the ground emitting green particles upward, directly in front of two evenly spaced purple stained glass panes. When a player steps onto the concrete block, a sound effect will play and the holotext will be displayed in between the panes.
+In-game, holotexts can be recognized by the presence of a lime-colored concrete block on the ground emitting green particles upward, directly in front of two evenly spaced stained glass panes (usually purple). When a player steps onto the concrete block, a sound effect will play and the holotext will be displayed in between the panes.
 
 ![[holo_block.png]]
 > An example of a currently inactive holotext space.
@@ -16,7 +16,7 @@ In-game, holotexts can be recognized by the presence of a lime-colored concrete 
 
 ## Progression
 
-Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the 25%, 50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synced:
+Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the 25%, 50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synchronized:
 
 ![[holotext_corrupted.png]]
 > Corrupted holotext file, indicating player needs to progress further or find the reconnection node in the area.
@@ -27,7 +27,7 @@ There are a total of 139 individual holotexts found throughout 14 different in-g
 
 ## Holotext Page Format
 
-In-Game Title (First line, typically written in red.)
+Title: The holotext's title (usually the first line, written in red.)
 
 !!! warning "Applicable spoiler warnings are placed here."
 

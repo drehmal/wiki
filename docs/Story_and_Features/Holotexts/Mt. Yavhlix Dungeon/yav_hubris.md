@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext, near the top of the [[Primary Energy Collection Facility]], curses Emperor [[Anyr]], blaming the death of this facility and fall of Avsohm on his hubris.
 
 ## Coordinates

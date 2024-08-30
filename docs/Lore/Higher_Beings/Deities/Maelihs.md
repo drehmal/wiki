@@ -7,7 +7,7 @@
 > - **Devotion Site:** Sepulchral Altar ([[Rhaveloth]])
 
 ![[hellcrags_titan.png]]
-> Titan of Servitude (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].
+> Titan of Strength (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].
 
 Maelihs (also referred to less formally as Mael) is one of the three deities born from the Primal Tree upon its collapse, and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
 

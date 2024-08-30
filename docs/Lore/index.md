@@ -1,7 +1,9 @@
 # Lore
 
-The map of Drehmal has many intracies that are made to account for the world's expansive lore. Lore is mainly given by written books found throughout the map, descriptions of special items and holotexts. Subjects touched upon by Drehmal's lore are:
-- a long and eventful history of the world
-- a pantheon of deities
-- a system of magic
-- the celestial bodies and nature of the universe
+!!! warning "The Lore section is still under construction. At this time, the Books section is in a functionally completed state, but all other sub-categories are still very much a work in progress. Stay tuned for further updates!"
+
+Beyond the main story alone, Drehmal's world is richly populated with side content that deeply fleshes out its world, broadly categorized as lore. This section includes a significant amount of supplemental information found throughout the map, from a collection of every written lore book to pages containing all of the known information on specific figures in the history of the realm.
+
+Beware of spoilers throughout this section! This section aims to be a central resource for anyone who wants to get into the lore of this world, but it is always advised that you experience the map for yourself before looking extensively throughout the wiki. Individual pages and sections will be spoiler-tagged appropriately, but if you are still early in the experience, it's best to stay away from this section for the time being.
+
+

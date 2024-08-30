@@ -9,3 +9,4 @@ Transcripts related to Drehmal with no or minimal spoilers are found directly in
 Dialogue transcripts from the 2.2 (current) version of the map can be found in the "2.2 SPOILERS" folder. These are all late-game spoilers.
 
 Outdated dialogue, which is no longer canon to the storyline or lore of Drehmal, can be found in the OBSOLETE folder. 
+

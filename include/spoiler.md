@@ -1,3 +1,3 @@
-!!! danger "![Malevolentia](/assets/img/items/mythical/Malevolentia.webp){ width="24" } Please note that this page contains some potential major spoilers! Proceed with caution. ![Malevolentia](/assets/img/items/mythical/Malevolentia.webp){ width="24" }"
+??? danger "![Eye](/assets/img/oculus_of_nothing.png){ width="24" } *You feel an arcane presence...* ![Eye](/assets/img/oculus_of_nothing.png){ width="24" }"
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+    This page or section may contain significant spoilers for Drehmal:Apotheosis. Read the additional messages below for specific spoiler information.

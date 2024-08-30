@@ -49,7 +49,7 @@ After the departure of Virtuo, Maelihs's remorse deepened greatly. As his empire
 
 It is discovered via his diaries at the top of the Burnt Palace that Maelihs moved to [[Ytaj]] in Av4 12 to isolate himself from his fanatics and gain proximity to his Aspect relatives. There, the player can find and speak with him, learning that the deity, stricken by guilt, wishes only to be able to right his wrongs by destroying his palace and purging the realm of his evil armies.
 
-Maelihs can be spoken to in-game via an in-game dialogue tree, which can be found in full [[Mael Dialogue|here]].
+Maelihs can be spoken to at his chamber via an in-game dialogue tree, which can be found in full [[Mael_Dialogue.md|here]].
 
 Maelihs's ultimate fate is mentioned by [[yellow|???]] in the [[Story Progression|final sequence of the game]].
 

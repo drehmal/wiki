@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext is found in a small alcove in the [[Primary Energy Collection Facility]], stressing the importance of the facility to Avsohm and stating that it was worth the [[Frostfang Catastrophe|loss of the North]].
 
 ## Coordinates

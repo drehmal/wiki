@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext can be found at the eastern end of the dungeon, and is almost entirely consumed by a massive hole in its center, making it mostly unreadable.
 
 ## Coordinates

@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext is found within the [[Primary Energy Collection Facility]], overlooking the entry bridge. It contains a plea to [[Orix Cehein]] to save the author.
 
 ## Coordinates

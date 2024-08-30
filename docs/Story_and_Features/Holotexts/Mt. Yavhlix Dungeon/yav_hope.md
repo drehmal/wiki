@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 This holotext, found in a bedroom near the top of the [[Primary Energy Collection Facility]], is written by someone hopeful that Avsohm can still reign due to the prospect of [[Anyr]]'s ascension.
 
 ## Coordinates

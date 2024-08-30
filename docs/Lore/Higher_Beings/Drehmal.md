@@ -29,7 +29,9 @@ Drehmal spent the early days of the Second Avihm molding landforms and fostering
 --8<-- "LD_spoiler.md"
 
 ## In-Game Interactions
-While Drehmal remains in their deep slumber for the entirety of the player's experience in the current day, there is one point at which the serpent can be somewhat directly interacted with, at the Tower of Drehmal in [[Ytaj]]. Here, the player climbs a tower while seemingly living through the dreams and thoughts of Drehmal themselves, while gradually ascending the tower to reach a second devotion shrine to Drehmal at its peak.
+While Drehmal remains in their deep slumber for the entirety of the player's experience in the current day, there is one point at which the serpent can be somewhat directly interacted with, at the Tower of Drehmal in [[Ytaj]]. Here, the player climbs a tower while seemingly living through the dreams and thoughts of Drehmal themselves, while gradually ascending the tower to reach a second devotion shrine to Drehmal at its peak. 
+
+A transcript of the climb's dialogue can be found [[Dreams_of_the_Serpent.md|here]].
 
 Drehmal is also prominently featured in the [[Story Progression|final sequence of the game]], with their ultimate fate told to the player by [[yellow|???]].
 

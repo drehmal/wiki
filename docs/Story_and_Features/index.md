@@ -8,9 +8,9 @@ The map of Drehmal introduces many new features to the game as well as its own [
 
 Scattered around the map are Terminus towers, white and purple spires from the top of which you can teleport to the Terminus. The Terminus is a hub that allows you to teleport to any tower that you have unlocked previously by finding and using. Unlocking Terminus towers is the primary method through which the story is progressed.
 
-## Holotexts
+## [Holotexts](/Story_and_Features/Holotexts/)
 
-At major story locations, the player will discover holographic text images, known as [holotexts](/Story_and_Features/Holotexts/). These short pieces of writing provide important story information and hints for  puzzles in the area. A full list of all 139 holotexts found on Drehmal, organized by location with coordinates, descriptions, images, and alt text transcriptions, can be found in this section of the wiki.
+At major story locations, the player will discover holographic text images, known as holotexts. These short pieces of writing provide important story information and hints for  puzzles in the area. A full list of all 139 holotexts found on Drehmal, organized by location with coordinates, descriptions, images, and alt text transcriptions, can be found in this section of the wiki.
 
 ## Special Merchants
 

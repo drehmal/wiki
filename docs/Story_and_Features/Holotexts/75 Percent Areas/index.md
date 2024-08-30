@@ -4,4 +4,4 @@
 
 --8<-- "75_spoiler.md"
 
-Two main areas comprise the 75% story completion event. Their 22 total holotexts can all be found in this directory.
+The 75% completion event comprises two main areas. Their 22 total holotexts can all be found in this directory.

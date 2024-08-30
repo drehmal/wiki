@@ -1,4 +1,4 @@
-# Title (In-Game)
+# Overseer's Transcription
 
 --8<-- "spoiler.md"
 

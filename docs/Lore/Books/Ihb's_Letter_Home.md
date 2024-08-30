@@ -11,7 +11,7 @@ This book can be found in a chest in the ruins of Kazzani, at the southern edge 
 | 1807  |  108  | 3311  |
 
 ## Transcription
-> Children of Kazanni!
+> Children of Kazzani!
 >
 > Though salty brine is never seen
 >

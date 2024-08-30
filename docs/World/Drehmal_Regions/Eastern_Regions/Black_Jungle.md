@@ -23,7 +23,11 @@ The Black Jungle has a very diverse landscape. Most of the region is a large, th
 - area with red/orange-and-black striped ground and stump-like landforms with magma blocks on top in southeast
 - white and turquoise mountainous islands in southeast
 
+[[Firteid]], the largest city in the game, is located in the region's west. It straddles between the mainland's coast and inland riverbank, and the Turquoise Isle. Worship of [[Virtuo]] is the primary religious faith in the Black Jungle.
+
 ## History
+
+The oldest evidence of civilization in the Black Jungle is of a large, [[Verrhys]]-worshiping city that was ruled by a monarch, whose population was mysteriously exterminated. The region was subjugated under the [[Empire of Vir]] in the mid Second Avihm, and the land was held under a firm, protective grip, until the empire's eventual collapse. Due to the new lack of central authority, [[Sahdan|Sahd]] criminals were disposed of by being exiled across the sea to the Black Jungle. These rampant outlaws likely posed a problem for the native inhabitants of the region. The [[Tidal Dynasty]] soon rose to power, ruled by the tyrannical [[Tide Queen]] from the city Fiteid, and established control over the entire jungle. The region was never conquered by the [[Empire of Avsohm|Avsohmic Empire]] in order to not engage in a bloody and costly war with the Tidal Dynasty's vast army.
 
 ## Regional Map
 

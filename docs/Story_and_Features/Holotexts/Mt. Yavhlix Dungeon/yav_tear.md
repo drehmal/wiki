@@ -6,6 +6,8 @@
 
 !!! danger "DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 Found at the far western end of the [[Primary Energy Collection Facility]], this holotext asserts that within the center of the mountain is a tear in the fabric of space and time.
 
 ## Coordinates

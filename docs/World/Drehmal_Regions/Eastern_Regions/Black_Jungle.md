@@ -47,8 +47,8 @@ The Black Jungle's Terminus tower is located in the region's center, atop a mini
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Black Ruins |  |  |  |
-| Firteid |  |  |  |
+| Black Ruins |  | X: 4145, Y: 70, Z: 4136 | The mysterious ruins (still completely intact) of a large city comprised almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace containing an elevated throne. The city's inhabitants worshiped Verrhys, and and a statue of the Aspect is hidden in a large underground cavern. The residents died out for some unknown reason. |
+| Firteid |  |  | Firteid is the largest city, both in size and population, in the game. It is located by the western shore of the Black Jungle, with a small, isolated district on the Turquoise Isle outside of the Kiln of Virtuo. Its buildings are constructed of spruce and dark oak wood, with dark prismarine or carnelian wood roofs. The city is infamous for its history as the capital of the brutal Tidal Dynasty. Today, it is ruled by the Parochial Enclave of Firteid. |
 | [[Kiln of Virtuo]] |  |  |  |
 | Ruins of Vulteid |  |  |  |
 | Ruins of Zovan |  |  |  |

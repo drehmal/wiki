@@ -1,5 +1,9 @@
 # Tank Technician's Troubles
 
+--8<-- "spoiler.md"
+
+--8<-- "50_spoiler.md"
+
 Found near a suspended tank at the [[Exodus Vault]]'s main exit door, this holotext hints at the necessary steps for progression through the vault.
 
 ## Coordinates

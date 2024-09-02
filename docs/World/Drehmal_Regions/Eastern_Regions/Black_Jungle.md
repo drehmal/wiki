@@ -6,7 +6,9 @@ The Black Jungle is a relatively large region in southeast Drehmal, mostly cover
 
 ## Geography
 
-The Black Jungle has a very diverse landscape. Most of the region is a large, thick, tropical forest. The trees here are almost all jungle wood, but there are rare instances of acacia as well. The trees' heights vary, but most are taller than the average trees of other regions. There are volcanic zones on the east coast that are free of any forest cover and have ground of red, orange and black hues. Two separate areas within the jungle also contain pools of lava. The Black Jungle has many cliffs and spires composed of white-and-turquoise striped stone. Black sand is present on all of the region's coastlines.
+The Black Jungle is located in the southeast corner of the main continent. The Verdant Range separates the region from [[Spearhead Forest]] to the north and the [[North Heartwood]] away to the west, although the latter is still directly accessible through the [[Verdant Labyrnith]]. The region is also bordered by open ocean to the east and south, and a large gulf to the west. The Strait of Vir connects this bay to the southern ocean, and forms a narrow division between the Black Jungle's southwestern tip and the southeastern tip of the [[South Heartwood]].
+
+The Black Jungle has a very diverse landscape. Most of the region is a large, thick, tropical forest. The trees here are almost all jungle wood, but there are rare instances of acacia as well. The trees' heights vary, but most are taller than the average trees of other regions. There are volcanic zones on the east coast that are free of any forest cover and have ground of red, orange and black hues. Two separate areas within the jungle also contain pools of lava. The Black Jungle has many cliffs and spires composed of white-and-turquoise striped stone, and other cliffs are striped with black and red/orange. Black sand is present on all of the region's coastlines.
 
 **Environmental Sub-Regions:**
 

@@ -3,7 +3,9 @@ tags:
   - Books
 ---
 
-This book is not a part of the in-universe lore.
+!!! note "This book is not a part of the in-universe lore."
+
+Not to be confused with the [[endcredits_transcription.md|end credits of the map, which lists out all the developers of Drehmal]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

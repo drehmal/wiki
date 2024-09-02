@@ -1,29 +1,13 @@
----
-tags:
-  - Locations
-  - Regions
-  - Eastern Regions
----
+# Frozen Bite
 
-# The Frozen Bite
+The Frozen Bite is a region in northeastern [[Drehmal (Place)|Drehmal]]. The region consists of a range of tundras, woods, mountains and islands. The name "Frozen Bite" may refer to its mouth-shaped northeastern coast.
 
-![[Frozenbite1.webp]]{ align=right width="300" }
+## Geography
 
-## Geography 
+The Frozen Bite is located in Drehmal's northeast corner. It is separated from [[Faehrcyle]] to the west by a mountain range, and it borders [[Highfall Tundra]] to the south.
 
-The Frozen Bite is notable for its rugged terrain and the densest forest of the north. A large bay is present in the north of the region, and there are many islands along the coast.
+## History
 
-Regions bordering The Frozen Bite include:
+## [[Terminus Network|Terminus]] Tower
 
-- [[Faehrcyle]]
-- [[Highfall Tundra]]
-
-
-<figure markdown>
-  ![[Frozenbite2.webp]]{ width="500" }
-  <figcaption>The Frozen Bite tower lies inside a crater</figcaption>
-</figure>
-
-## In the Lore
-
-
+## Points of Interest

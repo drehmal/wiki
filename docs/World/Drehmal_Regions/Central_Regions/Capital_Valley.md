@@ -31,7 +31,11 @@ Some time in the Third Avihm, the independent towns of Capital Valley (and the G
 
 Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the way.
 
+**Coordinates:** (X: 557, Y: 129, Z: 1176)
+
 There is also a short Terminus tower on Av'Sal's central island. The area surrounding the tower is inhabited by [[Mihkmari]].
+
+**Coordinates:** (X: -256, Y: 119, Z: 1645)
 
 ## Points of Interest
 

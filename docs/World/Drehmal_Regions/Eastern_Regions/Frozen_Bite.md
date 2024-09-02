@@ -6,7 +6,9 @@ The Frozen Bite is a region in northeastern [[Drehmal (Place)|Drehmal]]. The reg
 
 The Frozen Bite is located in Drehmal's northeast corner. It is separated from [[Faehrcyle]] to the west by a mountain range, and it borders [[Highfall Tundra]] to the south. The region is surrounded by open, iceberg-filled waters on its north and east sides.
 
-The Frozen Bite's landscape varies greatly. Plants are more common in the east half, while the west half is more barren, snowy and rocky.
+The Frozen Bite's landscape varies greatly. Plants are more common in the east half, with spruce trees being widely present, while the west half is more barren, snowy and rocky. The eastern coastline is dotted with small islands.
+
+
 
 ## History
 

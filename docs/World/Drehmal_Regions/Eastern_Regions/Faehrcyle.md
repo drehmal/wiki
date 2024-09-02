@@ -21,7 +21,7 @@ The small town of [[Schlonko]] sits on Faehrcyle's west coast, amidst the region
 
 ## History
 
-Faehrcyle was originally a grassland, rather than the frozen wasteland it is today. The region is known to have been inhabited since the first decades of the Second Avihm, with the local peoples organized into tribes/clans. After the nearby disappearance of the Aspect [[Tethlaen]], fear was deeply ingrained into Faehrcylian culture.
+Faehrcyle was originally a moderately cold, grassy steppe, rather than the frozen wasteland it is today. The region is known to have been inhabited since the first decades of the Second Avihm, with the local peoples organized into tribes/clans. After the nearby disappearance of the Aspect [[Tethlaen]], fear was deeply ingrained into Faehrcylian culture.
 
 By late Second Avihm, Faehrcyle was divided between seven clans. They all joined together under the leadership of [[Homli Tahsgan]] in order to fend off an attack from the [[Empire of Avsohm]], who was trying to secure passage to Mt. Yavhlix to uncover the source of energy inside. Homli Tahsgan attempted to use magic against Avsohm's army, and unintentionally created a blizzard so strong that it would have a permanent environmental impact across northern Drehmal. Faehrcyle suffered a transformation into an inhospitable, frozen tundra. The majority of the tribespeople dispersed to surrounding areas that were less affected, and Avsohm took control of the region.
 

@@ -11,7 +11,6 @@ The Gulf of Drehmal region sits between the Gulf of Drehmal directly to the nort
 The region's landscape consists mostly of grasslands and oak and birch woods. The terrain is less flat than Capital Valley, with many bluffs with pink-colored cliffs and large, pink rocks. There are also sand beaches lining the north coast, and a small swamp in the west. Rivers from Akhlo'Rohma and Purity Peaks to the east conjoin and flow into an inlet in the middle of the region's coast.
 
 **Environmental Sub-Regions:**
-
 - swamp in the west
 
 There are no sizable settlements in the Gulf of Drehmal. Most inhabitants of the region worship [[Drehmal]].
@@ -27,6 +26,8 @@ In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional 
 ## [[Terminus Network|Terminus]] Tower
 
 The Gulf of Drehmal's Terminus tower sits atop a wooden boat in the middle of the coast's central inlet. There are several [[Mihkmari]] aboard the boat.
+
+**Coordinates:** (X: 460, Y: 97, Z: -393)
 
 ## Points of Interest
 

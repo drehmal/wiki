@@ -29,7 +29,6 @@ In the Third Avihm, several kingdoms arose in Avsohm's wake and united under the
 
 Today, the only known political state in Faehrcyle is the Duchy of Hishrin in the forested area on the region's west coast. It is ruled by the egotistical Archduke Hishrin Elsahr Ombahr Drehn-Anyr Hovadchear Vahidson I.
 
-
 ## [[Terminus Network|Terminus]] Tower
 
 Faehrcyle's Terminus tower is located in the region's center, and most of it is buried in snow and underground. There are no hostile entities present.
@@ -38,5 +37,5 @@ Faehrcyle's Terminus tower is located in the region's center, and most of it is 
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Homli Tahsgan's Grave |  |  | The burial site of Homli Tahsgan is in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers". |
-| Schlonko |  |  | Schlonko is a small port town on the western coast of Faehrcyle, and the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing a [devotion[Devotion]] altar, sits on a bluff above the town. |
+| Homli Tahsgan's Grave |  | X: 1105, Y: 65, Z: -3026 | The burial site of Homli Tahsgan is in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers". |
+| Schlonko |  | X: 2291 , Y: 40, Z: -2960 | Schlonko is a small port town on the western coast of Faehrcyle, and the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing a [devotion[Devotion]] altar, sits on a bluff above the town. |

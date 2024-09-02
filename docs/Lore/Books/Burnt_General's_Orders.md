@@ -5,7 +5,7 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-This book can be found in a chest near the top of the [[Burnt Palace]]. It is written by Tevus, the second [[Burnt General|Burnt Generals]], and contains the current assignments of the three Burnt Generals, informing the player on where they can be found.
+This book can be found in a chest near the top of the [[Burnt Palace]]. It is written by Tevus, the second [[Burnt Generals|Burnt General]], and contains the current assignments of the three Burnt Generals, informing the player on where they can be found.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

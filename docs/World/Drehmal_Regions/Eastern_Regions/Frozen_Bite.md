@@ -6,6 +6,8 @@ The Frozen Bite is a region in northeastern [[Drehmal (Place)|Drehmal]]. The reg
 
 The Frozen Bite is located in Drehmal's northeast corner. It is separated from [[Faehrcyle]] to the west by a mountain range, and it borders [[Highfall Tundra]] to the south.
 
+
+
 ## History
 
 ## [[Terminus Network|Terminus]] Tower

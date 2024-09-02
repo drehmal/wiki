@@ -1,6 +1,6 @@
 # Faehrcyle
 
-![[Faehrcyle1.webp]]{ align=right width="300" }
+![[Faehrcyle.png]]{ align=right width="300" }
 
 Faehrcyle is a relatively large region in the far north of [[Drehmal (Place)|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
 
@@ -20,6 +20,10 @@ Faehrcyle's terrain is mostly flat, and the vast majority of its land area is co
 The small town of Schlonko sits on Faehrcyle's west coast, amidst the region's only living forest. Its inhabitants worship the Aspect [[Loe]].
 
 ## History
+
+Faehrcyle was originally a grassland, rather than the frozen wasteland it is today. The region is known to have been inhabited since the first decades of the Second Avihm, with the local peoples organized into tribes/clans. After the nearby disappearance of the Aspect [[Tethlaen]], fear was deeply ingrained into Faehrcylian culture.
+
+By late Second Avihm, Faehrcyle was divided between seven clans. They all joined together under the leadership of [[Homli Tahsgan]] in order to fend off an attack from the [[Empire of Avsohm]], who was trying to secure passage to Mt. Yavhlix to uncover the source of energy inside. Homli Tahsgan attempted to use magic against Avsohm's army, and unintentionally created a blizzard so strong that it would have a permanent environmental impact across northern Drehmal. Faehrcyle suffered a transformation into an inhospitable, frozen tundra.
 
 ## [[Terminus Network|Terminus]] Tower
 

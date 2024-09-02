@@ -15,7 +15,6 @@ Akhlo'Rohma is densly populated with gigantic flowers. Based on the type of flow
 There is also the [[Sunken Astral Body]], a large, stone island riddled with craters, hidden in a lake surrounded by mountains. The Akhlo'Rohman landscape features bluffs and rocks with vividly-colored stone,  mostly dark pink and red, but also with some stripes of yellow, blue and green.
 
 **Ecological Sub-Regions:**
-
 - strip of land with white flowers in north
 - strip of land with pink flowers in center
 - strip of land with purple flowers in south
@@ -40,6 +39,8 @@ The Kingdom of Dusps became a member of the [[Order of Insohm]], and they partic
 ## [[Terminus Network|Terminus]] Tower
 
 Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. One hostile "[[Lahrs]] Adherent" can be found on a small, protruding wooden beam near the top.
+
+**Coordinates:** (X: 1898, Y: 161, Z: -1281)
 
 ## Points of Interest
 

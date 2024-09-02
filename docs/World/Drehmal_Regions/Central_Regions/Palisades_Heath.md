@@ -24,6 +24,8 @@ Little is known about the region's history in the Third Avihm, but its reputatio
 
 The Paliasades Heath Terminus tower is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
 
+**Coordinates:** (X: -156, Y: 101, Z: 2547)
+
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |

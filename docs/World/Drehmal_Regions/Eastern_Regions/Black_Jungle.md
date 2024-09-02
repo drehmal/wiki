@@ -11,7 +11,6 @@ The Black Jungle is located in the southeast corner of Drehmal's main continent.
 The Black Jungle has a very diverse landscape. Most of the region is a large, thick, tropical forest. The trees here are almost all jungle wood, but there are rare instances of acacia as well. The trees' heights vary, but most are taller than the average trees of other regions. There are volcanic zones on the east coast that are free of any forest cover and have ground of red, orange and black hues. Two separate areas within the jungle also contain pools of lava. The Black Jungle has many cliffs and spires composed of white-and-turquoise striped stone, and other cliffs are striped with black and red/orange. Black sand is present on all of the region's coastlines.
 
 **Environmental Sub-Regions:**
-
 - Turquoise Isle in west
 - area with few trees in northwest
 - area with podzol and white and turquoise stone spires in northwest
@@ -44,6 +43,9 @@ The [[Tidal War]] was fought between the Tidal military and Virtuo's Grand Paris
 ## [[Terminus Network|Terminus]] Tower
 
 The Black Jungle's Terminus tower is located in the region's center, atop a miniature volcano near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
+
+**Coordinates:** (X: 4428, Y: 154, Z: 3273)
+
 
 ## Points of Interest
 

@@ -11,7 +11,6 @@ Faehrcyle encompasses most of Drehmal's eastern north coast. The [[Mt. Yavhlix]]
 Faehrcyle's terrain is mostly flat, and the vast majority of its land area is covered in a thick sheet of snow and void of any plant life. The region is also home to many frozen lakes and rivers, and some of the stone cliffs are also encased in ice. Along the central north coast, there is a very distinct strip of gray and black land with scattered volcanoes and large lava pools. The heat here leaves very little snow on the ground.
 
 **Environmental Sub-Regions:**
-
 - living spruce forest on west coast
 - area with frozen rivers and lakes and massive, slanted ice spikes in east
 - black and gray volcanic zone with abundant lava in north
@@ -32,6 +31,8 @@ Today, the only known political state in Faehrcyle is the Duchy of Hishrin in th
 ## [[Terminus Network|Terminus]] Tower
 
 Faehrcyle's Terminus tower is located in the region's center, and most of it is buried in snow and underground. There are no hostile entities present.
+
+**Coordinates:** (X: 2595, Y: 98, Z: -3332)
 
 ## Points of Interest
 

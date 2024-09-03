@@ -39,4 +39,4 @@ Faehrcyle's Terminus tower is located in the region's center, and most of it is 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
 | Homli Tahsgan's Grave |  | X: 1105, Y: 65, Z: -3026 | The burial site of Homli Tahsgan is in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers". |
-| Schlonko |  | X: 2291 , Y: 40, Z: -2960 | Schlonko is a small port town on the western coast of Faehrcyle, and the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing a [devotion[Devotion]] altar, sits on a bluff above the town. |
+| Schlonko |  | X: 2291 , Y: 40, Z: -2960 | Schlonko is a small port town on the western coast of Faehrcyle, and is the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing her [devotion[Devotion]] altar, sits on a bluff above the town. |

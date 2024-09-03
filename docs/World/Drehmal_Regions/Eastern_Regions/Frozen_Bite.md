@@ -1,5 +1,7 @@
 # Frozen Bite
 
+![[Frozen_Bite.png]]{ align=right width="300" }
+
 The Frozen Bite is a region in northeastern [[Drehmal (Place)|Drehmal]]. The region consists of a range of tundras, woods, mountains and islands. The name "Frozen Bite" may refer to its mouth-shaped northeastern coast.
 
 ## Geography

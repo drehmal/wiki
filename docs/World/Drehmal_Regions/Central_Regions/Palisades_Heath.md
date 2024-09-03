@@ -30,6 +30,6 @@ The Paliasades Heath Terminus tower is located in the region's north, next to th
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Drehua Temple |  | X: -130, Y: 158, Z: 2876 | Drehua Temple is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [devotion](/Story_and_Features/Devotion) altar. The temple was founded by the ancient Drehua, but it was renovated more than a millenium later with funds from the Avsohmic emperor Drehn Mal'Sohm. |
+| Drehua Temple |  | X: -130, Y: 158, Z: 2876 | Drehua Temple is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [devotion](/Story_and_Features/Devotion/) altar. The temple was founded by the ancient Drehua, but it was renovated more than a millenium later with funds from the Avsohmic emperor Drehn Mal'Sohm. |
 | Drehuan Scupltures |  | X: 33, Y: 122, Z: 2395 | In the north of the region, off the side of the road in a patch of woods, there is a group of large ancient Drehuan stone sculptures and other small structures. The largest by far, overlooking the rest, is a statue of a bald [[Drehmari]] sitting cross-legged with one palm held outward and a four-pronged staff in the other hand.
 | Whale's Tale |  | X: -200, Y: 64, Z: 3606 | The Whale's Tale is a boat-shaped inn in the region's south, at the end of the road from Capital Valley. On the upper deck is a [[Runic Blacksmith]]. |

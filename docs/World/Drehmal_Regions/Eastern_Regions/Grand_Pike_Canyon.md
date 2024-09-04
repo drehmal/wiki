@@ -14,19 +14,20 @@ There are no settlements in Grand Pike Canyon.
 
 ## History
 
-The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the village of [[Wokonori]], maybe dating to the early Second Avihm. Its occupants were faithful to the earth-related Aspects [[Taihgel]], [[Nahyn]] and [[Koh]], and they concerned themselves with mining the sacred stone taihryte deep in the ground.
+The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the town of [[Wokonori]], maybe dating to the early Second Avihm. Its occupants were skillful in manipulating stone, and they were faithful to the earth-related Aspects [[Taihgel]], [[Nahyn]] and [[Koh]]. They concerned themselves with mining the sacred stone taihryte deep in the ground.
 
 In the early and mid Second Avihm, the region was likely ruled by the powerful and authoritative [[Empire of Vir]]. 
 
-Grand Pike Canyon was also likely incorporated into the Provinces of Vir in the Third Avihm, which became an early member state of the [[Order of Insohm]] and fought with the loyalists in the [[Insohmic Civil War]]. The large, formidable prison [[Shatterhorn Gulch]] was probably established during this time. Insohm's most dangerous prisoners were held here, including an inductee into the Insohmic Coven of Potentia who went rogue and had become an uncontrollable necromancer. Even with the Order now mostly dissipated, the prison continues to operate.
+Grand Pike Canyon was also likely incorporated into the Provinces of Vir in the Third Avihm, which became an early member state of the [[Order of Insohm]] and fought with the loyalists in the [[Insohmic Civil War]]. The large, formidable prison [[Shatterhorn Gulch]] was probably established during this time, in order to hold Insohm's countless prisoners. One extreme example was an inductee into the Insohmic Coven of Potentia who went rogue and had become an uncontrollable necromancer. Even with the Order now mostly dissipated, the prison continues to operate.
 
 ## [[Terminus Network|Terminus]] Tower
 
-
+Grand Pike's Terminus tower is located in the region's north. The majority of the tower is encased in a stepped-cone-shaped stone building, the interior of which contains urns, piles of bones and hostile "Grave Wardens". Two spiral staircases lead from the top of the building to the top of the tower.
 
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Shatterhorn Gulch |  |  | Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their highest-risk criminals.
-| Wokonori |  |  | Wokonori was a small, ancient village in northern Grand Pike Canyon. Its buildings are carved into a cliff's stone, and they still remain undamaged. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and Taihgel, the latter having a [devotion](/Story_and_Features/Devotion/) altar in an underground chamber. |
+| Frontier's Edge Gift Shop |  | X: 4133, Y: 43, Z: -531 | Frontier's Edge Gift Shop is a store in central Grand Pike Canyon with several archaeological relics on display. The shopkeeper, Sera Mahri, sells two artisan weapons. The building has three stories; the shop, the living quarters and the storage. |
+| Shatterhorn Gulch |  | X: 4652, Y: 77, Z: -753 | Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their criminals and prisoners of war.
+| Wokonori |  | X: , Y: , Z:  | Wokonori was an ancient settlement in northern Grand Pike Canyon. The town's dwellings appear to be carved into a the stone of a cliffside, and they still remain largely undamaged. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and Taihgel, the latter having a [devotion](/Story_and_Features/Devotion/) altar in an underground shrine. |

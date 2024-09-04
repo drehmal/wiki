@@ -37,7 +37,7 @@ At the top of the western tower in [[Ytaj]], the Burnt God [[Maelihs]] can be fo
 <br>
 From this point, the player is offered a dialogue tree, with five major conversation topics.
 
-### Path 1 (Why are you here?):
+### Path 1 (Why are you here?)
 > [Player] Why are you here?
 >
 > [Maelihs] Must I have some reason to act as I do?

@@ -29,7 +29,7 @@ Inside, the player finds a large repository containing information on important 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Ancillary Research Facility 
+## Ancillary Research Facility (25% SPOILERS)
 Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the [[Ancillary Research Facility]] in [[Sal'Mevir]]. The player can then follow that compass to the research facility in southeastern [[Purity Peaks]], where they can discover some old Avsohmic technology and research logs, documenting the advent of the very temporal stasis pods they woke up in. Through exploitation of the Temporal Engine, the player is able to gain access to the sealed-off main building, which contains the left blade fragment of the [[Mythbreaker]] and the [[Avsohm'Kohl]] legendary item (Drehmal's only version of the elytra).
 
 --8<-- "spoiler.md"
@@ -42,7 +42,7 @@ Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Exodus Vault 
+## Exodus Vault (50% SPOILERS)
 Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large underwater [[Exodus Vault]], the headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
 
 Within, the player can find several holotexts and books that dive further into Avsohm's inner machinations. The legendary [[Warp Horse]] items are also found in this location, as well as the right blade fragment of the [[Mythbreaker]]. The vault exits out into the [[Anyr'Nogur]] desert.
@@ -58,7 +58,7 @@ At any point after obtaining the two blade fragments, the player can return to t
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Admin Wing 
+## Admin Wing (75% SPOILERS BEGIN HERE)
 Upon reaching 75% tower linkage (24 towers), the player will be given one more compass by avSYS, pointing to the [[Admin Wing|Administrative Wing]] of the Av'Sal Repository. Here, the first portion of the 75% event takes place.
 
 At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named [[Verpyne]], requesting reinforcements aboard the greatest ship in the Avsohmic fleet: [[The Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
@@ -82,7 +82,7 @@ The player then manages to navigate around the outside of the ship, through the 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Core Facility 
+## Core Facility (POST-75% SPOILERS BEGIN HERE)
 Upon first landing on Lo'Dahr, a likely first step will be following a compass found on the Aphelion to the [[Core Facility]], just east of the town of [[Naharja]]. This facility, whose function is not immediately clear, appears small at first, containing only a slightly fuzzy map of the moon's habitable area, a few blank holotext spots, and a security checkpoint reminiscent of that at the entrance to the Admin Wing. 
 
 The map highlights three other Avsohmic facilities, which are the next intended story locations on the moon. Each of these three facilities is intended to teach a player a mechanic that can then be used in the Core Facility.
@@ -111,7 +111,7 @@ The Numencore, located deep within the center of the moon itself, is a massive s
 
 --8<-- "spoiler.md"
 
-!!! danger "All content past this point contains spoilers for end-game areas. At this point, if you have not seen the vanilla end credits, then it is recommended that you do not continue reading."
+!!! danger "All content past this point contains spoilers for late-game and end-game areas. At this point, if you have not seen the vanilla end credits, then it is recommended that you do not continue reading."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
@@ -119,7 +119,7 @@ The Numencore, located deep within the center of the moon itself, is a massive s
 
 !!! success "![Open Spoiler Door](/assets/img/yav_dooropen.png)"
 
-## Mythbreaker Run 
+## Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)
 Progression beyond this point requires the player to follow through on a version of Avsohm's plan found in the Numencore, charging the Inert Mythbreaker at the Numencore and engaging in a [[Khive_Dialogue.md|chase sequence]], evading enemies and magical airstrikes sent by the greatly angered [[Khive]]. The destination of this run can be ascertained before this point through exploration, or through a "Primal Energy Radar" found at the Core Facility, pointing to [[Mt. Yavhlix]]. 
 
 The mountain is referenced several times before this point as a pertinent Avsohmic location, but upon visiting it, the facility inside is blocked off by an indestructible veilstone door (the same door used for spoilers on this wiki!). However, several sources, including some just outside the door, suggest that a powerful blast of Primal Energy could blast the door down.
@@ -146,7 +146,7 @@ Inside the Nothing (very similar to the vanilla End dimension), the player is th
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Azimuth Labs
+## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE)
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 
 
 The voice instructs the player to return to the Terminus, where it takes control of avSYS and dispenses the Silent Thing, a [[trinket]] which directs the player to the [[Sunken Astral Body]] east of [[Dusps]].
@@ -162,7 +162,7 @@ Back at the Terminus, the player is given another trinket, the Resonant Thing, w
 
 Deep within the [[Primary Energy Collection Facility]], another veilstone seal can be found. At this point, the voice will once again dispose of the seal, granting the player access to the deepest recesses of Mt. Yavhlix: The [[Resonant Halls]]. These halls, guarded by unkillable enemies and protected by a massive labyrinth the player must navigate, contain one of Avsohm's greatest pieces of technology: the Resonant Eye.
 
-The Resonant Eye is an extremely powerful divining lens, capable of peering into other realities through the tear present at Mt. Yavhlix. At the Eye, [15 total holotexts](/Story_and_Features/Holotexts/Post-Yav/Resonant_Halls/) can be found, containing research logs and notes on the first dives through the Eye. It is discovered in this facility that Tethlaen initially ventured into the rift to hold it closed from the inside, preventing Primal Energy from seeping into the realm and ultimately causing its demise. The Aspect and Avsohmic researchers, particularly [[Orix Cehein]], developed a strong rapport and symbiotic relationship, but the premature firing of the God Machine and subsequent fall of Avsohm led Tethlaen to become isolated and uncared for once again, gradually breaking down his body and mind until he was killed by the player.
+The Resonant Eye is an extremely powerful divining lens, capable of peering into other realities through the tear present at Mt. Yavhlix. At the Eye, [15 total holotexts](/Story_and_Features/Holotexts/Post-Yav/Resonant%20Halls/) can be found, containing research logs and notes on the first dives through the Eye. It is discovered in this facility that Tethlaen initially ventured into the rift to hold it closed from the inside, preventing Primal Energy from seeping into the realm and ultimately causing its demise. The Aspect and Avsohmic researchers, particularly [[Orix Cehein]], developed a strong rapport and symbiotic relationship, but the premature firing of the God Machine and subsequent fall of Avsohm led Tethlaen to become isolated and uncared for once again, gradually breaking down his body and mind until he was killed by the player.
 
 With this revelation, the player is transported back outside the Halls, and instructed to return to the Terminus once again.
 

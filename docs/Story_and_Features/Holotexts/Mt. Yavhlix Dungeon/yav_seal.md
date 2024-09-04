@@ -13,13 +13,13 @@ This holotext is found within the [[Primary Energy Collection Facility]], overlo
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26933 |  102  | -157 |
+| 26933 |  102  | -157  |
 
-## Image:
+## Image
 
 ![[yav_seal.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Holes! Nothing but holes! Everyt[hi]ng <br>
 is being consumed! [It s]lithers, it <br>
 squirms! <br>

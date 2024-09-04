@@ -9,11 +9,11 @@ This holotext can be found in a detached room accessible only by solving the war
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -933 |  12  | -127 |
+| -933  |  12   | -127  |
 
-## Image:
+## Image
 
 ![[ring_core.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > When Symis figured out how to cast receiving rings, we celebrated. With their modified rune configurations we can send a condensed “package” of ring materials through an existing ring, where at the destination the package would expand and link to the sending ring as its receiver. We’ve already made all the calculations. After this first test, we’re now ready to reach the **massive primal energy source the Aphelion detected** so long ago. We’ll cast a ring to it, and begin sending construction materials and personnel through. Hail to Avsohm!

@@ -13,13 +13,13 @@ This holotext is found at the entrance to the [[Primary Energy Collection Facili
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26918 |  63  | -183 |
+| 26918 |  63   | -183  |
 
-## Image:
+## Image
 
 ![[yav_pipes.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The channeling crystal at the top <br>
 of the facility has been doing good <br>
 wo[rk,] but subsurface fractures <br>

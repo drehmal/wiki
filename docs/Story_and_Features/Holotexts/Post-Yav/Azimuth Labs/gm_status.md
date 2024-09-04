@@ -9,13 +9,13 @@ One of two holotexts to the left of the God Machine. This holotext contains the 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 3020 |  83  | -526 |
+| 3020  |  83   | -526  |
 
-## Image:
+## Image
 
 ![[gm_status.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > GRID CONNECTION: <br>
 >  -PREMATURE ACTIVATION APPROVED- <br>
 >     -SAFETY CHECKS BYPASSED- <br>

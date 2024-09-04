@@ -28,7 +28,7 @@ Under this interpretation, each respective text portrays what may ultimately hap
 
 ## Facet I ([[Khive]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -761  |  98   | -788  |
@@ -56,7 +56,7 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 
 ## Facet II
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1125  |  83   | 1069  |
@@ -84,7 +84,7 @@ It is not clear exactly whose possible future this text refers to, and in fact, 
 
 ## Facet III ([[Nahyn]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  530  |  123  |  15   |
@@ -112,7 +112,7 @@ Due to the repeated references to silence in this facet, it has been posited tha
 
 ## Facet IV ([[Dahr]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  198  |  18   | 1177  |
@@ -140,7 +140,7 @@ It is believed to be a description of a hypothetical world in which [[Maelihs]] 
 
 ## Facet V ([[Lai]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1108  |  70   | -1198 |
@@ -168,7 +168,7 @@ Its text appears to represent the timeline in which [[Virtuo]] achieves the Ambi
 
 ## Facet VI ([[Vayniklah]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -485  |  74   | -222  |

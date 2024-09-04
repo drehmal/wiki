@@ -9,11 +9,11 @@ This holotext is found in the Surveillance Room aboard [[The Aphelion]], and was
 ## Coordinates (Space Dimension)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 6 |  141  | 116 |
+|   6   |  141  |  116  |
 
-## Image:
+## Image
 
 ![[aphelion_anyr.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The last transmission we received detailed a huge military advance from Maelihs. He’s Taking advantage of all this chaos to finally move on Sal’Anyr. There have been no communications for over an hour. This is terrible. All we can do is sit and watch.

@@ -9,23 +9,23 @@ The repository entry for [[Sal'Mevir]].
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -181 |  12  | 1618 |
+| -181  |  12   | 1618  |
 
-## Partially Complete Image:
+## Partially Complete Image
 
 ![[repo_salmevirpart.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A large Avsohmic science facility that appears frozen in time. Experiments on stasis, advanced flight, and temporal mechanics were experimented with here.
 >
 > **There’s more to be discovered here.**
 
 
-## Complete Image:
+## Complete Image
 
 ![[repo_salmevir.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A large Avsohmic science facility that appears frozen in time. Experiments on stasis, advanced flight, and temporal mechanics were experimented with here.
 >
 > Autonomous “Survey Drones” discovered an **energy anomaly** within a mountain, spurning the creation of a **“Primary Energy Collection Facility.”**

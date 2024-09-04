@@ -9,11 +9,11 @@ This holotext can be found in the small room next to [[Anyr]]'s room on the lowe
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -30 |  102  | 109 |
+|  -30  |  102  |  109  |
 
-## Image:
+## Image
 
 ![[aphelion_kid.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Father said there was nothing to worry about, but I keep hearing scary sounds coming from the **painting in my room**… I know this sounds silly, but I hope it’s not a ghost from beyond the Veil…

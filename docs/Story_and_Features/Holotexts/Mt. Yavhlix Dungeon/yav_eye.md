@@ -13,13 +13,13 @@ This holotext can be found at the end of a hallway, near the entrance of the [[P
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26947 |  78  | -147 |
+| 26947 |  78   | -147  |
 
-## Image:
+## Image
 
 ![[yav_eye.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > What we saw [thr]ough it… this is so <br>
 much bigger than [us.] We are so, so <br>
 sma[ll.] <br>
@@ -29,5 +29,5 @@ sma[ll.] <br>
 >
 > The sky burns now. I cannot leave <br>
 this place. The stars are not stars. <br>
-> 
+>
 > I am the stars.

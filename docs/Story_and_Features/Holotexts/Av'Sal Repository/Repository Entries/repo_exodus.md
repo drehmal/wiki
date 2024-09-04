@@ -9,23 +9,23 @@ The repository entry for [[Exodus Vault]] and [[Exodus Citadel]].
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -175 |  12  | 1618 |
+| -175  |  12   | 1618  |
 
-## Partially Complete Image:
+## Partially Complete Image
 
 ![[repo_exoduspart.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A Blue Exodus military base deep within Nimahj Swamp.
 >
 > **There’s more to be discovered here.**
 
 
-## Complete Image:
+## Complete Image
 
 ![[repo_exodus.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A deceptively expansive Blue Exodus military base deep within Nimahj Swamp.
 >
 > **Mythbreaker** was forged here via the Graviton Crucible, its specifications derived from data received from a device called the **“Resonant Eye.”**

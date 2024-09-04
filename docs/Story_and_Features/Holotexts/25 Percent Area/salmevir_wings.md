@@ -9,13 +9,13 @@ Found at the top of the largest building in [[Sal'Mevir]] alongside [[Avsohm'Koh
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 2584 |  228  | 1208 |
+| 2584  |  228  | 1208  |
 
-## Image:
+## Image
 
 ![[salmevir_wings.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > I’m happy to be able to contribute to the **Aphelion** in some way, even back here on the mainland. These wings, Avsohm’Kohl, should aid the crew rather greatly in traversal on their expeditions. I think I’ll ship some prototypes to Sal’Anyr as well; the Kohlohmah riders would surely appreciate the inspiration I took from their mounts in designing this new tech.
 >
 > Hail to Avsohm!

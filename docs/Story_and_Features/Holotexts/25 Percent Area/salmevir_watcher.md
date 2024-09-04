@@ -9,13 +9,13 @@ This holotext, found at the bottom of a tower with levitation elevators in [[Sal
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 2447 |  119  | 1122 |
+| 2447  |  119  | 1122  |
 
-## Image:
+## Image
 
 ![[salmevir_watcher.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > O dunes, o dunes. <br>
 > Peering into our future. <br>
 > I watch and wait. <br>

@@ -9,23 +9,23 @@ The repository entry for [[The Aphelion]].
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -167 |  12  | 1618 |
+| -167  |  12   | 1618  |
 
-## Partially Complete Image:
+## Partially Complete Image
 
 ![[repo_aphelionpart.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A large spacecraft in orbit over the divine moon of **Lo’Dahr**. The Terminus was constructed in synchronous orbit with it.
 >
 > **There’s more to be discovered here.**
 
 
-## Complete Image:
+## Complete Image
 
 ![[repo_aphelion.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A large spacecraft in orbit over the divine moon of **Lo’Dahr**. The Terminus was constructed in synchronous orbit with it.
 >
 > “Eyes” aboard the ship were barred from peering through the abyss by something known as the “**Veil**”.

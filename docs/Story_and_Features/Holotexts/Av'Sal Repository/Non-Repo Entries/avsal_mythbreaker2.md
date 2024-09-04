@@ -5,11 +5,11 @@ Found in the back room of the [[Av'Sal Repository]], alongside the hilt of the [
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -115 |  8  | 1627 |
+| -115  |   8   | 1627  |
 
-## Image:
+## Image
 
 ![[avsal_mythbreaker2.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > One of the most fascinating features of this weapon is just how powerful it can become. While simply connecting the fragments would lead to a formidable blade, it only reveals its true strength when exposed to a significant quantity of Primal Energy. Current tests have failed to find an upper limit.

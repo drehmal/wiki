@@ -9,13 +9,13 @@ Found at the [[Core Facility]], this holotext provides an overview of the other 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 518 |  38  | -847 |
+|  518  |  38   | -847  |
 
-## Image:
+## Image
 
 ![[final_core_outside.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The **Warp Ring Installation** was once a hydroelectric facility in a **lake** within Khive’s Domain, now being repurposed to study the strange **ring structures** in that area.
 >
 > The **Inscription Complex** utilizes the **icy temperatures** of a **large cavern** in Loe’s Domain to supply rehntite catalysts to all of the other facilities here on the Divine Moon.

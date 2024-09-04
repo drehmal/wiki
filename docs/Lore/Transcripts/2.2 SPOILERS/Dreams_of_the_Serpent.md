@@ -18,7 +18,7 @@ Lines alternate between the in-game chat, which present as cues to the player to
 
 In this transcript, the in-game chat dialogue is written in *\*italics, surrounded by asterisks*\*, while Drehmal's dialogue is written in **bold**.
 
-## Transcription:
+## Transcription
 > *\*Dreams echo through your body and mind...*\*
 >
 > **In the absence of silence there is change. Change is good.**

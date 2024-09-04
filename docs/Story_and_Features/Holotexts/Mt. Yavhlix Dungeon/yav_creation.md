@@ -13,13 +13,13 @@ This holotext is found in a small alcove in the [[Primary Energy Collection Faci
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26929 |  87  | -151 |
+| 26929 |  87   | -151  |
 
-## Image:
+## Image
 
 ![[yav_creation.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The place may have cost [us] the <br>
 North, but it has given us so, so <br>
 much more. The drones found it, <br>

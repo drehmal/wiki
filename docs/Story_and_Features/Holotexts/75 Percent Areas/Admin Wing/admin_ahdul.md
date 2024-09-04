@@ -9,11 +9,11 @@ This holotext, found in the [[Admin Wing]] of the [[Av'Sal Repository]], notes t
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -230 |  8  | 1626 |
+| -230  |   8   | 1626  |
 
-## Image:
+## Image
 
 ![[admin_ahdul.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Our discovery of **Him-Beyond** spurned Lord Anyr into a frenzy. He swiftly promoted me, and granted immense funding unto Red Dawn which will allow us to accomplish goals our order has been pursuing for centuries. **Apotheosis** will be the most important work Red Dawn has ever done. Its centerpiece will be our grandest creation: a machine to rival the Aspects and Deities themselves.

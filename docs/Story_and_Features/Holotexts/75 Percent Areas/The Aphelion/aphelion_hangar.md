@@ -9,20 +9,20 @@ Found immediately upon exiting the shuttle to [[The Aphelion]], this holotext pr
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -59 |  117  | 114 |
+|  -59  |  117  |  114  |
 
-## Image:
+## Image
 
 ![[aphelion_hangar.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Welcome aboard the **Aphelion**, Officer
 >
 > Hangar Status: **3 Vessels Docked**<br>
 > 	[Terminus Shuttle]<br>
 > 	[Squidcraft]<br>
 > 	[Atmospheric Lander]
-> 
+>
 > Orbital Status: **Stable**<br>
 > 	[0.0000015% Daily Degradation]<br>
 > 	[Vector Thrust Active]

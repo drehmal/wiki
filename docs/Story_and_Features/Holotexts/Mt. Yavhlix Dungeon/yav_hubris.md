@@ -13,13 +13,13 @@ This holotext, near the top of the [[Primary Energy Collection Facility]], curse
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26890 |  121  | -125 |
+| 26890 |  121  | -125  |
 
-## Image:
+## Image
 
 ![[yav_hubris.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Curse [th]at blasphemed em[peror!       ] <br>
 Curse his obsession! Curse [his] <br>
 mani[a! C]urse his child! Curse his <br>

@@ -13,13 +13,13 @@ This holotext, found in the [[Primary Energy Collection Facility]], describes a 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26940 |  92  | -151 |
+| 26940 |  92   | -151  |
 
-## Image:
+## Image
 
 ![[yav_crawl.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The surface of the portal <br>
 stretched like a babe clawing from <br>
 its amniotic sac, and fro[m] it she <br>

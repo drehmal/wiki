@@ -9,11 +9,11 @@ Found in the upper portion of the [[Inscription Complex]], this holotext contain
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -1012 |  132  | 1072 |
+| -1012 |  132  | 1072  |
 
-## Image:
+## Image
 
 ![[inscription_eye.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > From one frigid place to another, I suppose. It’s a good thing I was built for the cold! Previously I managed inscription logistics in and out of **Mt. Yavhlix**. I was scarcely able to seek the warm on the interior of the mountain, I had to be at the **door** confirming shipments. I suppose that’s why they picked me for the Aphelion crew, though. But then they stationed me here! In the cold again! Ugh. Hail to Avsohm.

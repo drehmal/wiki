@@ -5,13 +5,13 @@ One of three holotexts found on a platform atop the [[Av'Sal Repository]]. This 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -166 |  21  | 1640 |
+| -166  |  21   | 1640  |
 
-## Image:
+## Image
 
 ![[avsal_status.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > CRASH LOG: <br>
 > avSYS Crash Detected! <br>
 > Error Code: GREYBISON <br>

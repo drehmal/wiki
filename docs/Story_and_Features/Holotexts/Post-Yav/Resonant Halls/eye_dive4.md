@@ -9,13 +9,13 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26919 |  13  | -18 |
+| 26919 |  13   |  -18  |
 
-## Image:
+## Image
 
 ![[eye_dive4.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > RESONANCE DIVE ESTABLISHED <br>
 Energy flood request received… <br>
 Focusing signal… <br>

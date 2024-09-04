@@ -13,13 +13,13 @@ This holotext, found in a bedroom near the top of the [[Primary Energy Collectio
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26907 |  121  | -141 |
+| 26907 |  121  | -141  |
 
-## Image:
+## Image
 
 ![[yav_hope.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > All is[ not ]lost! Lo[r]d Anyr remains! <br>
 With th[e] very God Machine at [his  ] <br>
 dispos[al] our emperor shall [achieve     ] <br>

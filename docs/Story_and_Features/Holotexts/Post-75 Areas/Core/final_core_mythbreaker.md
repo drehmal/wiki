@@ -9,11 +9,11 @@ Found in the [[Numencore]], this holotext establishes that the charging station 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 27315 |  122  | 2 |
+| 27315 |  122  |   2   |
 
-## Image:
+## Image
 
 ![[final_core_mythbreaker.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > I just let Kahmas know that the **Mythbreaker charging station** is fully implemented. After Thresa told him that he couldn’t connect it to the Yavhlix energy grid, he was… sullen. He’s really attached to that thing! I guess I can’t blame him. **That blade is our future**.

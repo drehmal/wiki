@@ -5,11 +5,11 @@ This holotext is found just outside the holodoor to the [[Av'Sal Repository]]. I
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -251 |  75  | 1646 |
+| -251  |  75   | 1646  |
 
-## Image:
+## Image
 
 ![[avsal_door.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > We set up that smoke detector system in the Stasis Facility in the event of any **fires** consuming the underground oxygen supply, so it only made sense to install one here too - given what we have stored down there.

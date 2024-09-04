@@ -5,13 +5,13 @@ This holotext, found in the same room that the player initially spawns in, conta
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 774 |  2  | 566 |
+|  774  |   2   |  566  |
 
-## Image:
+## Image
 
 ![[stasis_directive.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Attention all B-1 Rank Stasis personnel.
 >
 > An energy network collapse is imminent. Please enact stasis protocols immediately. This is not a drill.

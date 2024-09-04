@@ -9,11 +9,11 @@ This holotext is found in the largest building in Sal'Mevir, which cannot be acc
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 2580 |  180  | 1197 |
+| 2580  |  180  | 1197  |
 
-## Image:
+## Image
 
 ![[salmevir_fragment.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > We thought it best to keep the fragments separate, at least until we found a suitable method to charge the weapon. If it were to be activated prematurely the consequences would be… dire. I can rest easy knowing its fragments are in secure locations. We left the **other fragment** in the **Exodus Depot**, where it was originally forged with Kovis’ invention. Once we’re ready, we can take both fragments and **re-attach them to the hilt within the Repository under Av’Sal**.

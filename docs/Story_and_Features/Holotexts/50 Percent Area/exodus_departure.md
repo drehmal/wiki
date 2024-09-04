@@ -9,11 +9,11 @@ Found in the northern wing of the [[Exodus Vault]], this holotext is written by 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -2628 |  33  | 2129 |
+| -2628 |  33   | 2129  |
 
-## Image:
+## Image
 
 ![[exodus_departure.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Commander Verpyne personally invited me to join the **Aphelion** crew as their signal officer! To work aboard the crown ship of Avsohm, it’s honestly a dream come true. Now I get to do what I joined Blue Exodus for! I’m supposed to join a shipment through the tunnel towards Sal’Anyr tomorrow, and then from there receive a briefing and transport to the ship. To behold her storied golden sails in person… I can’t wait!

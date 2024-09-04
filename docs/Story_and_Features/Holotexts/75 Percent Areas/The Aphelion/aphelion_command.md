@@ -9,11 +9,11 @@ Found in the Command Center of [[The Aphelion]], this holotext establishes that 
 ## Coordinates (Space Dimension)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -74 |  135  | 122 |
+|  -74  |  135  |  122  |
 
-## Image:
+## Image
 
 ![[aphelion_command.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The Veil is preventing the eyes onboard from peering into the abyss. With progress there halted, our attention has been turned towards the **Divine Moon**.

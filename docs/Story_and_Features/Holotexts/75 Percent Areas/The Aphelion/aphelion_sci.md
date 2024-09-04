@@ -9,11 +9,11 @@ This holotext is found in the Research Station wing of [[The Aphelion]]'s top fl
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -39 |  138  | 140 |
+|  -39  |  138  |  140  |
 
-## Image:
+## Image
 
 ![[aphelion_sci.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Somehow, the **Aspects** are able to teleport to and from Lo’Dahr seemingly at will. Ihari thinks that the **ginormous energy signal we detected** is responsible. She theorizes that it **lies deep underground**, and the survey drones we’ve sent out seem to agree. **Digging doesn’t seem to be an option**, but I trust we’ll find some way to access it!

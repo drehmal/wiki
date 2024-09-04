@@ -5,11 +5,11 @@ This holotext can be found in a room above the main stasis chamber area, and con
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 755 |  20  | 620 |
+|  755  |  20   |  620  |
 
-## Image:
+## Image
 
 ![[stasis_seal.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > As we enter the final stages, numerous failsafes have been developed. Stasis, the seal, network collapse, the secondary source. I was a major part of the seal’s development, what I saw in that facility necessitated its creation. If that fails… stasis should be an acceptable alternative.

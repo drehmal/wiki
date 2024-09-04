@@ -9,13 +9,13 @@ This holotext is found just beside [[Anyr]]'s throne on the lower level of [[The
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -75 |  102  | 127 |
+|  -75  |  102  |  127  |
 
-## Image:
+## Image
 
 ![[aphelion_throne.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > “...and so the Chosen Empire was no more. Avsohm had risen in its stead, brought to glorious life by **Drehn Mal’Sohm** and the love of his people. Under his leadership the empire rapidly advanced culturally and technologically, its influence spreading across the continent. This paved the path for God-Emperor Anyr, and the Avsohmic Golden Age ushered in by our history’s greatest leader.”
 >
 > Does this please you, Lord Anyr? This is how the people of the future will know you, once all is complete.

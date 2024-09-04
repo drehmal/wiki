@@ -18,7 +18,7 @@ At the top of the western tower in [[Ytaj]], the Burnt God [[Maelihs]] can be fo
 > \*Player first enters Mael's chamber, and approaches him.*
 >
 > [Maelihs] This is hallowed ground, snakespawn. Speak or leave me in peace.
-> 
+>
 > [Player] Who are you?
 >
 > [Maelihs] Do you... really not know?
@@ -26,18 +26,18 @@ At the top of the western tower in [[Ytaj]], the Burnt God [[Maelihs]] can be fo
 > \*The player can then respond with one of two options:*
 >
 > [Player] I do not.
-> 
+>
 > [Maelihs] I am Maelihs, the deity known as the Burnt Lord. If you must disturb my rest, then speak.
 >
 > \OR
 >
 > [Player]  Are you Maelihs?
-> 
+>
 > [Maelihs] That I am. If you must disturb my rest, then speak.
 <br>
-From this point, the player is offered a dialogue tree, with five major conversation topics. 
+From this point, the player is offered a dialogue tree, with five major conversation topics.
 
-### Path 1 (Why are you here?): 
+### Path 1 (Why are you here?):
 > [Player] Why are you here?
 >
 > [Maelihs] Must I have some reason to act as I do?
@@ -79,10 +79,10 @@ From this point, the player is offered a dialogue tree, with five major conversa
 > [Maelihs] I was… I was curious myself. I… traveled far, to a place beyond our vision and our time, wreathed in chromatic fury.
 >
 > \*Player is presented with two options:*
-> 
+>
 > [Player] Where did you go?
 >
-> [Maelihs] That is all I am willing to say. 
+> [Maelihs] That is all I am willing to say.
 >
 > [Player] I see.
 >
@@ -96,12 +96,12 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > \*The player will then be presented with four new dialogue options.*
 
-#### 1-A (To Speak With You):
+#### 1-A (To Speak With You)
 > [Player] I came to speak with you.
 >
 > [Maelihs] Flattering. Allow us to speak, then. [Returns to main 5 options.]
 
-#### 1-B (The Fate of Avsohm):
+#### 1-B (The Fate of Avsohm)
 > [Player] I am trying to discover the true fate of Avsohm.
 >
 > [Maelihs] I see.
@@ -125,7 +125,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 > \*Two options are presented for further dialogue, as well as an option to return to main 5 options.*
 >
 > [Player] What do you mean, "all that remains?"
-> 
+>
 > [Maelihs] A child of Avsohm has not been witnessed by the realm in centuries.
 >
 > [Maelihs] You are an impossibility, little remnant.
@@ -144,7 +144,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] I would advise you to watch your back, lest you become tied up.
 
-#### 1-C (Behold the Aspects):
+#### 1-C (Behold the Aspects)
 > [Player] I wished to behold the Aspects.
 >
 > [Maelihs] Then you may find yourself out of luck.
@@ -161,7 +161,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] If you plan to spend more time here on the Divine Moon, you will surely come to learn of it.
 
-#### 1-D (idk lol):
+#### 1-D (idk lol)
 > [Player] I don't know.
 >
 > [Maelihs] Hah!
@@ -180,7 +180,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > Player may then ask, "How did you know I'm Avsohmic?", which leads to the same response as in the next section.
 
-### Path 2 (Why aren't you attacking me?):
+### Path 2 (Why aren't you attacking me?)
 > [Player] Why aren’t you attacking me?
 >
 > [Maelihs] *\*Laughs*\*
@@ -209,7 +209,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] Very well.
 
-### Path 3 (What do you do?):
+### Path 3 (What do you do?)
 > [Player] What do you do here all day?
 >
 > [Maelihs] In times past, I would have said that I was plotting.
@@ -272,7 +272,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Player] I want to ask you something else.
 
-### Path 4 (The Aspects):
+### Path 4 (The Aspects)
 > [Player] What do you think of the Aspects?
 >
 > [Maelihs] They are, by and large, far wiser than I shall ever be.
@@ -289,7 +289,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] Regardless of their motivations, it appears to be an efficient arrangement, as they can focus on individual pursuits while being able to convene as-needed.
 
-### Path 5 (Virtuo):
+### Path 5 (Virtuo)
 > [Player] What happened to Virtuo?
 >
 > [Maelihs] You tread on dangerous ground, snakespawn.
@@ -353,7 +353,7 @@ If the player approaches Maelihs with [[Malevolentia]] in hand, then he will giv
 > \*The player is presented with two possible responses.*
 >
 > \*Option 1:*
-> 
+>
 > [Player] Uh...
 >
 > [Maelihs] Ahem.
@@ -393,7 +393,7 @@ If the player has reached maximum devotion to Maelihs prior to the first meeting
 > [Maelihs] Do you really revere the Burnt Lord so?
 >
 > \*Two options are given.*
-> 
+>
 > [Player] Who are you? [This option then follows the default intro branch.]
 >
 > [Player] I do. All hail his Radiance!
@@ -409,7 +409,7 @@ If the player has reached maximum devotion to Maelihs prior to the first meeting
 > \*The player has two options.*
 >
 > \*Option 1*
-> 
+>
 > [Player] Never! My Radiance shall conquer the realm! Hail the Burnt Lord!
 >
 > [Maelihs] *\*sigh*\*

@@ -9,13 +9,13 @@ Found in the [[Numencore]], this holotext contains part of a conversation betwee
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 27328 |  122  | 113 |
+| 27328 |  122  |  113  |
 
-## Image:
+## Image
 
 ![[final_core_veilstone.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > *Ekoh*: So… what happens if we charge it? <br>
 > *Kahmas*: We take the Aphelion to the edge, then use it to blow a hole in the Veil. <br>
 > *Ekoh*: Ain’t Veilstone the same stuff we used for the **Yavhlix seal**? <br>

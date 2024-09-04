@@ -5,13 +5,13 @@ Found just outside the player's spawn room, this holotext contains an automated 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 778 |  11  | 630 |
+|  778  |  11   |  630  |
 
-## Image:
+## Image
 
 ![[stasis_info.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > **Only displaying critical logs…** <br>
 > [19:59 01-W01]: Facility breached, unknown entity detected. <br>
 > [20:27 01-W01]: Unknown entity no longer detected. <br>

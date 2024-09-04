@@ -9,11 +9,11 @@ Found in one of the quadrants of a large chamber in [[Azimuth Labs]], this holot
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 3236 |  88  | -605 |
+| 3236  |  88   | -605  |
 
-## Image:
+## Image
 
 ![[gm_domination.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The empire’s use for Maelihs is quickly running out. The fear he mongers amongst the citizens has been useful in maintaining control, increasing support for militarization and funding towards weapons research. With the advent of Anyr’s ascension, however, there will be no reason to keep him and his legions around. With these new mechanical suits of armor, Blue Exodus will have the Hellcrags in a day. And further beyond that, none will ever be able to stand against our glorious empire. We will dominate this realm and far beyond. Hail to Avsohm, hail to Anyr!

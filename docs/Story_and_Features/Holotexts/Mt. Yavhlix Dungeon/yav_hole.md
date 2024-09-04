@@ -13,13 +13,13 @@ This holotext can be found at the eastern end of the dungeon, and is almost enti
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26965 |  97  | -127 |
+| 26965 |  97   | -127  |
 
-## Image:
+## Image
 
 ![[yav_hole.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > W[e a]re [the] beings that lie [beyon]d. <br>
 We are the [beginning and] we are the <br>
 end. We [are ???????????????]are <br>

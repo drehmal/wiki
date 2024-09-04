@@ -9,13 +9,13 @@ This holotext is found in a meeting room on the north side of [[Exodus Vault]]. 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -2615 |  33  | 2145 |
+| -2615 |  33   | 2145  |
 
-## Image:
+## Image
 
 ![[exodus_meeting.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > *Cmdr. Sita*: Kahmas, are reports of increased disturbance **within the mountain** true?
 >
 > *Gen. Kahmas*: I’m afraid so. C.S.O. Thresa has requested my presence at Stasis tomorrow, just in case.

@@ -1,4 +1,4 @@
-# - FACILITY STATUS - 
+# - FACILITY STATUS -
 
 --8<-- "spoiler.md"
 
@@ -9,13 +9,13 @@ Found in the south wing of the [[Exodus Vault]], this holotext gives an overview
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -2741 |  33  | 2257 |
+| -2741 |  33   | 2257  |
 
-## Image:
+## Image
 
 ![[exodus_status.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > ENERGY NETWORK CONNECTION: <br>
 > -Facility experiencing extreme energy fluctuations.
 >

@@ -5,11 +5,11 @@ One of three holotexts found on a platform atop the [[Av'Sal Repository]]. This 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -171 |  21  | 1635 |
+| -171  |  21   | 1635  |
 
-## Image:
+## Image
 
 ![[avsal_avsys.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > This is the most advanced piece of technology we have ever created. An intelligent, adaptive computational system. We’ve placed it in control of major systems like the **Terminus network**, where it manages diagnostics and makes sure everything stays running. If it were to ever go down… no, that’s not worth thinking about. **As long as Avsohm stands tall, avSYS should remain operational**. Hail to Avsohm!

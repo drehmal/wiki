@@ -9,23 +9,23 @@ The repository entry for the [[Resupply Depot]]. These holotexts also appear in 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -159 |  12  | 1662 |
+| -159  |  12   | 1662  |
 
-## Partially Complete Image:
+## Partially Complete Image
 
 ![[repo_depotpart.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A small spaceport perched on a floating island above a dry seabed in Rihelma’s domain is Avsohm’s main gateway to the divine moon.
 >
 > **There’s more to be discovered here.**
 
 
-## Complete Image:
+## Complete Image
 
 ![[repo_depot.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > A small spaceport perched on a floating island above a dry seabed in Rihelma’s domain is Avsohm’s main gateway to the divine moon.
 >
 > Shuttles transport personnel from the Aphelion and Terminus to the Resupply Depot, and from there to other Lo’Dahr facilities.

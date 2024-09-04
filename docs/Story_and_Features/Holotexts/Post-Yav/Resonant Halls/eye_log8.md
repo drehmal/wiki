@@ -9,13 +9,13 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26907 |  2  | -41 |
+| 26907 |   2   |  -41  |
 
-## Image:
+## Image
 
 ![[eye_log8.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > **Chief Observer Orix**
 >
 > When we delivered our report of dives three and four to Emperor Anyr, his eyes grew wide and a grand smile crept across his face. Rather than the horror many of my colleagues experienced, Anyr was simply elated. He said to me very plainly. “Orix, my dear friend. Don’t you see what powerful news this is? Our empire need not be limited only to the realm of Drehmal, but to every realm that lies outside of it too. Hail to Avsohm!” <br>

@@ -11,22 +11,22 @@ The repository entry for the [[Primary Energy Collection Facility]]. This holote
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -181 |  12  | 1662 |
+| -181  |  12   | 1662  |
 
-## Partially Complete Image:
+## Partially Complete Image
 
 ![[repo_yavpart.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > At the base of Mt. Yavhlix lies a massive door, sealed with a giant orb that can only be broken with a highly concentrated blast of primal energy. Something important may lie inside.
 >
 > **There’s more to be discovered here.**
 
-## Complete Image:
+## Complete Image
 
 ![[repo_yav.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Mt. Yavhlix is home to a Primal Energy production facility which supplied the vast majority of all energy needed by the Avsohmic Empire.
 >
 > The infrastructure could not handle the amount of primal energy being extracted for the empire’s use.

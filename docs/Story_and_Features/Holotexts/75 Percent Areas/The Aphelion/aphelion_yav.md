@@ -9,11 +9,11 @@ This holotext can be found in the surveillance room aboard [[The Aphelion]]. It 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 12 |  141  | 112 |
+|  12   |  141  |  112  |
 
-## Image:
+## Image
 
 ![[aphelion_yav.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Davehl was watching the **Yavhlix** feed… I watched him disappear. **Holes** began appearing all throughout his body until nothing was left. We’ve since lost contact with Yavhlix, and comms are malfunctioning all across the board. **What have we done?**

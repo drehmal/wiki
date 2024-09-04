@@ -9,11 +9,11 @@ Located relatively close to the entrance of [[Sal'Mevir]], this holotext contain
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 2355 |  124  | 1083 |
+| 2355  |  124  | 1083  |
 
-## Image:
+## Image
 
 ![[salmevir_drone.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Survey drones are truly a marvel of Avsohmic engineering! These autonomous surveillance units are made of pure rehntite catalysts, and were one of Avsohm’s first technological innovations. This technology is so old, it was actually used to help locate the **tear** which supplies all of our **primal energy**.

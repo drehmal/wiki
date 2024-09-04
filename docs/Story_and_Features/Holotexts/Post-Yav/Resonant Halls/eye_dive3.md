@@ -9,13 +9,13 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26919 |  13  | -38 |
+| 26919 |  13   |  -38  |
 
-## Image:
+## Image
 
 ![[eye_dive3.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > **RESONANCE DIVE ESTABLISHED** <br>
 Energy Flood request received… <br>
 WARN: Flooding catalyst beyond safe levels! <br>

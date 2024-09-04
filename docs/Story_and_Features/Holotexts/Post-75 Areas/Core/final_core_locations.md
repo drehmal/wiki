@@ -9,13 +9,13 @@ Found at the end of a hallway in the [[Numencore]], this holotext establishes th
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 27353 |  122  | 16 |
+| 27353 |  122  |  16   |
 
-## Image:
+## Image
 
 ![[final_core_locations.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The **hilt** is to be kept in the **Repository under Av’Sal**, with a **blade reattachment apparatus** for when the time comes.
 >
 > The **left blade** will be left in Sal’Mevir’s main tower, among the ivory-capped Purity Peaks. The material will be studied there.

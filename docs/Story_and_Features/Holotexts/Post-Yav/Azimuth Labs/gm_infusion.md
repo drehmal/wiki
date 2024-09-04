@@ -9,11 +9,11 @@ Found in one of the quadrants of a large chamber in [[Azimuth Labs]], this holot
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 3242 |  88  | -638 |
+| 3242  |  88   | -638  |
 
-## Image:
+## Image
 
 ![[gm_infusion.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > We’ve pulled hundreds of criminals serving eternal sentences within stasis from the Crypts, and I fear it’s the length of their stasis that is interfering with our results. They are aware the whole time in stasis. Not only does it break their mind, it breaks their soul. Their connection to the Spheres are unequivocally severed, and so they don’t take to the enchantments as well as say, a child would. Lord Anyr’s soul, however, is strong. He will take to the enchantments just fine. His ascension will be glorious.

@@ -5,13 +5,13 @@ This holotext can be found just before the exit of the [[Stasis Facility]]. It c
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 783 |  31  | 660 |
+|  783  |  31   |  660  |
 
-## Image:
+## Image
 
 ![[stasis_emergency.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Vehmil: This is very, very bad. <br>
 > Gohri: What is happening?! <br>
 > Thresa: Stay calm. Get everyone that’s here into their pods. We prepared for this. <br>

@@ -9,11 +9,11 @@ Found in the tower bay of [[The Aphelion]], this holotext provides insight as to
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -6 |  104  | 140 |
+|  -6   |  104  |  140  |
 
-## Image:
+## Image
 
 ![[aphelion_energy.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > The very first prototype of these phase warp towers lies deep within the halls of **Mt. Yavhlix**. We hope that with this initial spire, we can create a wireless energy transmission network through the Terminus. Energy goes to the Yavhlix tower, then to the Terminus, and then to every other tower that we drop across Drehmal. No more costly pipelines necessary!

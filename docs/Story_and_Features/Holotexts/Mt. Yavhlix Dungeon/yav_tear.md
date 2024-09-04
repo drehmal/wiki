@@ -13,13 +13,13 @@ Found at the far western end of the [[Primary Energy Collection Facility]], this
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| 26863 |  96  | -124 |
+| 26863 |  96   | -124  |
 
-## Image:
+## Image
 
 ![[yav_tear.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Once we had dug deep enough, the <br>
 mountain’s thi[ck ca]rapace opened to <br>
 a massive cav[ern.] Within lied a <br>

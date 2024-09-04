@@ -5,11 +5,11 @@ This holotext can be found in the large domed building on [[Av'Sal]]'s central i
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-| -201 |  109  | 1645 |
+| -201  |  109  | 1645  |
 
-## Image:
+## Image
 
 ![[avsal_memo.png]]{ width="384" }
 
-## Transcription:
+## Transcription
 > Ever since Emperor Drehn first secured passage to **Mt. Yavhlix**, Avsohm has grown at a lightning pace. Now, two emperors later, we are far too big to fail! We’re gonna be making scales at a pace never seen since before Drehmal reforged the world!

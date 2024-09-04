@@ -16,7 +16,7 @@ Faehrcyle's terrain is mostly flat, and the vast majority of its land area is co
 - black and gray volcanic zone with abundant lava in north
 - snowy plain with many small, icy cracks in northeast
 
-The small town of [[Schlonko]] sits on Faehrcyle's west coast, amidst the region's only living forest. Its inhabitants worship the Aspect [[Loe]].
+The small town of [[Schlonko]] sits on Faehrcyle's west coast, amidst the region's only living forest. Its inhabitants worship the [Aspect](/Lore/Higher_Beings/Aspects/) [[Loe]].
 
 ## History
 

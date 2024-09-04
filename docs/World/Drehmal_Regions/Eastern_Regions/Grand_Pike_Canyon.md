@@ -14,7 +14,7 @@ There are no settlements in Grand Pike Canyon.
 
 ## History
 
-The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the town of [[Wokonori]], maybe dating to the early Second Avihm. Its occupants were skillful in manipulating stone, and they were faithful to the earth-related Aspects [[Taihgel]], [[Nahyn]] and [[Koh]]. They concerned themselves with mining the sacred stone taihryte deep in the ground.
+The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the town of [[Wokonori]], maybe dating to the early Second Avihm. Its occupants were skillful in manipulating stone, and they were faithful to the earth-related [Aspects](/Lore/Higher_Beings/Aspects/) [[Taihgel]], [[Nahyn]] and [[Koh]]. They concerned themselves with mining the sacred stone taihryte deep in the ground.
 
 In the early and mid Second Avihm, the region was likely ruled by the powerful and authoritative [[Empire of Vir]]. 
 

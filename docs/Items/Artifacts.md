@@ -4,9 +4,9 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 --8<-- "under_construction.md"
 
-# List:
+# List
 
-## Absolute Ruin 
+## Absolute Ruin
 
 |             |                                                          |
 | ----------- | -------------------------------------------------------- |
@@ -32,10 +32,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Air Sailor's Runehat
 
-|             |                             |
-| ----------- | --------------------------- |
-| Armor       | 1                           |
-| Enchants    | Respiration 9, Unbreaking 5 |
+|          |                             |
+| -------- | --------------------------- |
+| Armor    | 1                           |
+| Enchants | Respiration 9, Unbreaking 5 |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,10 +49,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants    | Unbreaking 2                           |
 | Bonus Stats | -0.02 Movement Speed, +2 Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | This shield is emblazoned with the crest of Diore I Alvira, the great Virmari conqueror and Emperor. So long as his standard was in Virsuhl, the Southern Empire of Vir was said to possess coequal authority to Highfall itself. Without Diore and his kin, however, the great city soon fell to opportunists.  |
-| **Obtain** | Located in [[Spearhead Forest]]. Chest located at **(3984, 82, -12)**                                                                                                                                                                                                                                            |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | This shield is emblazoned with the crest of Diore I Alvira, the great Virmari conqueror and Emperor. So long as his standard was in Virsuhl, the Southern Empire of Vir was said to possess coequal authority to Highfall itself. Without Diore and his kin, however, the great city soon fell to opportunists. |
+| **Obtain** | Located in [[Spearhead Forest]]. Chest located at **(3984, 82, -12)**                                                                                                                                                                                                                                           |
 
 ## Ancient Crown
 
@@ -175,10 +175,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants | Protection 4, Fire Protection 5, Depth Strider 3, Unbreaking 7 |
 | Armor    | 1                                                              |
 
-|            | **Lore and how to Obtain**                                                                    |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| **Lore**   | Powerful boots gifted to members of Dahr's covenant. It roughly translates to 'Grand Waves.'  |
-| **Obtain** | Located in [[Heartwood]]. Chest located at **(60, 57, 3830)**                                 |
+|            | **Lore and how to Obtain**                                                                   |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| **Lore**   | Powerful boots gifted to members of Dahr's covenant. It roughly translates to 'Grand Waves.' |
+| **Obtain** | Located in [[Heartwood]]. Chest located at **(60, 57, 3830)**                                |
 
 ## As Foretold
 
@@ -252,10 +252,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 0.8                                 |
 | Enchants      | Efficiency 3, Unbreaking 3, Mending |
 
-|            | **Lore and how to Obtain**                                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------------ |
-| **Lore**   | One's growth is paramount to their journey. Let this axe grow alongside you.                           |
-| **Obtain** | Found inside the roof of the Temple of Split Deities in Drabyel. Chest located at **(530, 77, 1858)**  |
+|            | **Lore and how to Obtain**                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| **Lore**   | One's growth is paramount to their journey. Let this axe grow alongside you.                          |
+| **Obtain** | Found inside the roof of the Temple of Split Deities in Drabyel. Chest located at **(530, 77, 1858)** |
 
 ## Battlesign
 
@@ -313,11 +313,11 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Boots of the Honorable
 
-|                 |                   |
-| --------------- | ----------------- |
-| Armor           | 1                 |
-| Enchants        | Unbreaking 3      |
-| Bonus Stats     | +2 Maximum Health |
+|             |                   |
+| ----------- | ----------------- |
+| Armor       | 1                 |
+| Enchants    | Unbreaking 3      |
+| Bonus Stats | +2 Maximum Health |
 
 |            | **Lore and how to Obtain**                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -326,11 +326,11 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Boots of the Ruthless
 
-|                 |                   |
-| --------------- | ----------------- |
-| Armor           | 1                 |
-| Enchants        | Unbreaking 3      |
-| Bonus Stats     | +0.2 Attack Speed |
+|             |                   |
+| ----------- | ----------------- |
+| Armor       | 1                 |
+| Enchants    | Unbreaking 3      |
+| Bonus Stats | +0.2 Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                        |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -339,11 +339,11 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Boots of the Scheming
 
-|                 |                     |
-| --------------- | ------------------- |
-| Armor           | 1                   |
-| Enchants        | Unbreaking 3        |
-| Bonus Stats     | +0.01 Movement Speed |
+|             |                      |
+| ----------- | -------------------- |
+| Armor       | 1                    |
+| Enchants    | Unbreaking 3         |
+| Bonus Stats | +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -396,10 +396,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 5                               |
 | Bonus Stats | +2 Max Health, +1 Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                         |
-| ---------- | -------------------------------------------------------------------------------------------------- |
-| **Lore**   | My gift to you, seeker. Take it! Cherish it, hold it close. Remember it for when I call upon you.  |
-| **Obtain** | Located in [[Anyr'Nogur]]. Item frame located at **(-4589, 71, 2903)**                             |
+|            | **Lore and how to Obtain**                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------- |
+| **Lore**   | My gift to you, seeker. Take it! Cherish it, hold it close. Remember it for when I call upon you. |
+| **Obtain** | Located in [[Anyr'Nogur]]. Item frame located at **(-4589, 71, 2903)**                            |
 
 ## Comedically Large Spoon
 
@@ -486,10 +486,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 1.6                                         |
 | Enchants      | Knockback 2, Sweeping Edge 5, Unbreaking 10 |
 
-|            | **Lore and how to Obtain**                                                                                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | A heavy blade used by the ancient leader of the Mekta tribe, before the first unification at the Arijoor Forks.  |
-| **Obtain** | Located in [[Merijool]]. Chest located at **(-819, 225, -1828)**                                                 |
+|            | **Lore and how to Obtain**                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | A heavy blade used by the ancient leader of the Mekta tribe, before the first unification at the Arijoor Forks. |
+| **Obtain** | Located in [[Merijool]]. Chest located at **(-819, 225, -1828)**                                                |
 
 ## Crown of Peace
 
@@ -498,10 +498,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor           | 2   |
 | Armor Toughness | 6   |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The Grand Pontiff of Peace was the kindest of the Parish's three leaders, regarded as a natural extension of the Goddess' love. Unfortunately, when she expressed distaste towards the Pontiff of Perfection's aspirations, she was swiftly disposed of.  |
-| **Obtain** | Located in [[Black Jungle]]. Chest located at **(3888, 52, 3586)**                                                                                                                                                                                        |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                               |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The Grand Pontiff of Peace was the kindest of the Parish's three leaders, regarded as a natural extension of the Goddess' love. Unfortunately, when she expressed distaste towards the Pontiff of Perfection's aspirations, she was swiftly disposed of. |
+| **Obtain** | Located in [[Black Jungle]]. Chest located at **(3888, 52, 3586)**                                                                                                                                                                                       |
 
 ## Cryptkeeper's Boots
 
@@ -513,7 +513,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                      |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, these Avsohmic guard’s boots were built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word. |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1510, 135, -1941)**                                                                                                                                        |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1510, 135, -1941)**                                                                                                                                             |
 
 ## Cryptkeeper's Chestplate
 
@@ -522,10 +522,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 6                 |
 | Bonus Stats | +8% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, this Avsohmic guard’s chestplate was built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word.  |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1549, 147, -1945)**                                                                                                                                                 |
+|            | **Lore and how to Obtain**                                                                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, this Avsohmic guard’s chestplate was built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word. |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1549, 147, -1945)**                                                                                                                                                |
 
 ## Cryptkeeper's Helmet
 
@@ -534,10 +534,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 2                 |
 | Bonus Stats | +8% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                      |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, this Avsohmic guard’s helmet was built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word.  |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1513, 160, -1934)**                                                                                                                                             |
+|            | **Lore and how to Obtain**                                                                                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, this Avsohmic guard’s helmet was built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word. |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1513, 160, -1934)**                                                                                                                                            |
 
 ## Cryptkeeper's Leggings
 
@@ -546,22 +546,22 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 5                 |
 | Bonus Stats | +8% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, these Avsohmic guard’s leggings were built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word.  |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Dispenser located at **(1524, 151, -1978)**                                                                                                                                             |
+|            | **Lore and how to Obtain**                                                                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, these Avsohmic guard’s leggings were built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word. |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Dispenser located at **(1524, 151, -1978)**                                                                                                                                            |
 
 ## Crystalline Greatshield
 
-|             |                                                                                                        |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| Enchants    | Unbreaking 2 |
-| Bonus Stats | +0.015 Movement Speed                                                                                  |
+|             |                       |
+| ----------- | --------------------- |
+| Enchants    | Unbreaking 2          |
+| Bonus Stats | +0.015 Movement Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | This gigantic, but somehow lightweight shield oozes with divine energy. An irresponsible gift to the Frostfang tribes in thanks for helping make a dragon's wildest dreams into reality.  |
-| **Obtain** | Located in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**                                                                                                                          |
+|            | **Lore and how to Obtain**                                                                                                                                                               |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | This gigantic, but somehow lightweight shield oozes with divine energy. An irresponsible gift to the Frostfang tribes in thanks for helping make a dragon's wildest dreams into reality. |
+| **Obtain** | Located in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**                                                                                                                         |
 
 ## Damaged Vorpal Greatsword
 
@@ -571,10 +571,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 1.2                                                      |
 | Enchants      | Sharpness 1, Smite 3, Bane of Arthropods 3, Unbreaking 1 |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**   | Half of the sword wielded by Eoglef, a great Frostfang hero. A gleaming gray heirloom that supposedly split from the hero brute's strength when Eoglef decapitated the kraken-serpent Krendahl.  |
-| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(6171, 83, -1103)**                                                                                                                           |
+|            | **Lore and how to Obtain**                                                                                                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Half of the sword wielded by Eoglef, a great Frostfang hero. A gleaming gray heirloom that supposedly split from the hero brute's strength when Eoglef decapitated the kraken-serpent Krendahl. |
+| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(6171, 83, -1103)**                                                                                                                          |
 
 ## Deharian Longsword
 
@@ -584,10 +584,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 1.8                    |
 | Enchants      | Unbreaking 10, Mending |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The isolated Tharhan kingdom of Dehar once thrived in the heart of Ebonfire, and was well known for their distinctive runic metalworking techniques. After Dehar fell to the Nightwalkers, Deharian steel remained a mystery that even Avsohm couldn't solve.  |
-| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3049, 222, 343)**                                                                                                                                                                                            |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The isolated Tharhan kingdom of Dehar once thrived in the heart of Ebonfire, and was well known for their distinctive runic metalworking techniques. After Dehar fell to the Nightwalkers, Deharian steel remained a mystery that even Avsohm couldn't solve. |
+| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3049, 222, 343)**                                                                                                                                                                                           |
 
 ## Disciple's Greaves
 
@@ -597,10 +597,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor Toughness | 1                               |
 | Enchants        | Fire Protection 7, Unbreaking 9 |
 
-|            | **Lore and how to Obtain**                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | What crazed lunatic would seek out such beasts? Who would go as far as to call out for the ruinous Mother, knowing that she is gone, away at the end of the world?  |
-| **Obtain** | Located in [[The Carmine]]. Chest located at **(-2250, 7, 5585)**                                                                                                       |
+|            | **Lore and how to Obtain**                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | What crazed lunatic would seek out such beasts? Who would go as far as to call out for the ruinous Mother, knowing that she is gone, away at the end of the world? |
+| **Obtain** | Located in [[The Carmine]]. Chest located at **(-2250, 7, 5585)**                                                                                                  |
 
 ## Dragonslayer Sword
 
@@ -624,10 +624,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants      | Knockback 2 |
 | Bonus Stats   | +2 Armor    |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                    |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Drehn Mal’Sohm rose to power through purely defensive tactics, allowing the prosperity of Avsohm to speak for itself while keeping his enemies at arm's length. This classic design is emblematic of his swordless strategy.  |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1488, 187, -1964)**                                                                                                                                                           |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                   |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Drehn Mal’Sohm rose to power through purely defensive tactics, allowing the prosperity of Avsohm to speak for itself while keeping his enemies at arm's length. This classic design is emblematic of his swordless strategy. |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1488, 187, -1964)**                                                                                                                                                          |
 
 ## Drehuan Macrochisel
 
@@ -637,10 +637,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 0.6        |
 | Enchants      | Silk Touch |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                          |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The large Drehuan scultor's tool has sat undisturbed within a statue since before the Chosen Kingdom was founded. The statue was refurbished by the order of Emperor Drehn of Avsohm, but its secrets were not divulged until now.  |
-| **Obtain** | Found inside the large Drehuan Statue in [[Palisades Heath]]. Chest located at **(24, 105, 2435)**                                                                                                                                  |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                         |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The large Drehuan scultor's tool has sat undisturbed within a statue since before the Chosen Kingdom was founded. The statue was refurbished by the order of Emperor Drehn of Avsohm, but its secrets were not divulged until now. |
+| **Obtain** | Found inside the large Drehuan Statue in [[Palisades Heath]]. Chest located at **(24, 105, 2435)**                                                                                                                                 |
 
 ## Drinking Hat
 
@@ -663,10 +663,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants    | Unbreaking 5                    |
 | Bonus Stats | +6 Health, -0.01 Movement Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                           |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | A reminder of more peaceful times. After the Battle of Drehmal, Master Vahid attempted to divide the West into provinces under the control of the Council members. After his sudden departure, the Duspian territories in the Veldt slowly fell into internal strife and external conquest from the Burnt Generals.  |
-| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2212, 75, 745)**                                                                                                                                                                                                                                                    |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | A reminder of more peaceful times. After the Battle of Drehmal, Master Vahid attempted to divide the West into provinces under the control of the Council members. After his sudden departure, the Duspian territories in the Veldt slowly fell into internal strife and external conquest from the Burnt Generals. |
+| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2212, 75, 745)**                                                                                                                                                                                                                                                   |
 
 ## Eidolon's Gamble
 
@@ -689,21 +689,21 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants    | Fire Protection 5                                       |
 | Bonus Stats | +4 Max Health, +10% Attack Damage, -0.04 Movement Speed |
 
-|            | **Lore and how to Obtain**                                                                                             |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | While the Avatars of the Cycle have left the minds of Merijool's peoples, the impact of their conflicts still linger.  |
-| **Obtain** | Located in [[Merijool]]. Chest located at **(-1752, 143, -1647)**                                                      |
+|            | **Lore and how to Obtain**                                                                                            |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | While the Avatars of the Cycle have left the minds of Merijool's peoples, the impact of their conflicts still linger. |
+| **Obtain** | Located in [[Merijool]]. Chest located at **(-1752, 143, -1647)**                                                     |
 
 ## Endless Catch
 
-|             |                                                         |
-| ----------- | ------------------------------------------------------- |
-| Enchants    | Lure 4, Mending                                         |
+|          |                 |
+| -------- | --------------- |
+| Enchants | Lure 4, Mending |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Larkihn Erigal, a boy of twelve from a Loe-worshipping tribe, brought hope to a starving order of Lai monks after the Frostfang Catastrophe when he caught them three hundred fish in twelve hours. Since then, Okeke has remained a relatively peaceful place.  |
-| **Obtain** | Located in [[Merijool]]. Chest located at **(-1564, 78, -439)**                                                                                                                                                                                                  |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Larkihn Erigal, a boy of twelve from a Loe-worshipping tribe, brought hope to a starving order of Lai monks after the Frostfang Catastrophe when he caught them three hundred fish in twelve hours. Since then, Okeke has remained a relatively peaceful place. |
+| **Obtain** | Located in [[Merijool]]. Chest located at **(-1564, 78, -439)**                                                                                                                                                                                                 |
 
 ## Equinox
 
@@ -722,10 +722,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | ----- | --- |
 | Armor | 1   |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The Swamp King originally declared himself "Supreme Grand Over-Ruler-Lord Sultan Viscount Tsar Baron Von Duke of the Greatswamp of Blessed Nimahj�. It was shortened after he realized that the Swampfolk were having immense trouble remembering this title.  |
-| **Obtain** | Located in [[Nimahj Swamp]]. Chest located at **(-2499, 135, 2858)**                                                                                                                                                                                           |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The Swamp King originally declared himself "Supreme Grand Over-Ruler-Lord Sultan Viscount Tsar Baron Von Duke of the Greatswamp of Blessed Nimahj�. It was shortened after he realized that the Swampfolk were having immense trouble remembering this title. |
+| **Obtain** | Located in [[Nimahj Swamp]]. Chest located at **(-2499, 135, 2858)**                                                                                                                                                                                          |
 
 ## Flamberge
 
@@ -748,10 +748,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Attack Speed  | 4                     |
 | Enchants      | Unbreaking 2, Mending |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**   | An attached note to this sturdy jade hoe reads in delicate looping prose: Blood to sap and lungs to leaves. Rest below our outstretched eaves! Roots from legs and bark from skin. Join the rites of germination!  |
-| **Obtain** | Located in [[Heartwood]]. Chest located at **(2017, 61, 1913)**                                                                                                                                                    |
+|            | **Lore and how to Obtain**                                                                                                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | An attached note to this sturdy jade hoe reads in delicate looping prose: Blood to sap and lungs to leaves. Rest below our outstretched eaves! Roots from legs and bark from skin. Join the rites of germination! |
+| **Obtain** | Located in [[Heartwood]]. Chest located at **(2017, 61, 1913)**                                                                                                                                                   |
 
 ## Foot Easels
 
@@ -761,21 +761,21 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Enchants    | Unbreaking 4                        |
 | Bonus Stats | -10% Max Health, +10% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | This unusual work of footwear was created for Kazabar, chieftain of Zarha so that he could be completely surrounded at all times by the art he loved so much. He perished by his own hand after consuming the toxic pigments within a particularly vibrant oil painting.  |
-| **Obtain** | Located in [[Casai]]. Chest located at **(-3037, 63, -735)**                                                                                                                                                                                                              |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | This unusual work of footwear was created for Kazabar, chieftain of Zarha so that he could be completely surrounded at all times by the art he loved so much. He perished by his own hand after consuming the toxic pigments within a particularly vibrant oil painting. |
+| **Obtain** | Located in [[Casai]]. Chest located at **(-3037, 63, -735)**                                                                                                                                                                                                             |
 
 ## Foreigner's Lodestar
 
-|             |                                     |
-| ----------- | ----------------------------------- |
-| Enchants    | Unbreaking 10                       |
+|          |               |
+| -------- | ------------- |
+| Enchants | Unbreaking 10 |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | An old fisherman cast his line into the ocean and almost immediately felt a tug like nothing he had ever felt before. It threatened to pull him off of his feet, but he refused to concede. Unmooring, he allowed the beast to pull his craft westward. He never returned.  |
-| **Obtain** | Located in [[Frozen Bite]]. Chest located at **(6603, 83, -2821)**                                                                                                                                                                                                          |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | An old fisherman cast his line into the ocean and almost immediately felt a tug like nothing he had ever felt before. It threatened to pull him off of his feet, but he refused to concede. Unmooring, he allowed the beast to pull his craft westward. He never returned. |
+| **Obtain** | Located in [[Frozen Bite]]. Chest located at **(6603, 83, -2821)**                                                                                                                                                                                                         |
 
 ## Form-fitting Leggings
 
@@ -815,11 +815,11 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Freebooter's Breeches
 
-|                 |                    |
-| --------------- | ------------------ |
-| Armor           | 2                  |
-| Enchants        | Unbreaking 2       |
-| Bonus Stats     | +5% Movement Speed |
+|             |                    |
+| ----------- | ------------------ |
+| Armor       | 2                  |
+| Enchants    | Unbreaking 2       |
+| Bonus Stats | +5% Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -855,10 +855,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Glorybringer
 
-|               |                      |
-| ------------- | -------------------- |
-| Attack Damage | 15                   |
-| Attack Speed  | 0.4                  |
+|               |     |
+| ------------- | --- |
+| Attack Damage | 15  |
+| Attack Speed  | 0.4 |
 
 |            | **Lore and how to Obtain**                                                   |
 | ---------- | ---------------------------------------------------------------------------- |
@@ -867,29 +867,29 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Goh's Plate
 
-|                 |                              |
-| --------------- | ---------------------------- |
-| Armor           | 5                            |
-| Armor Toughness | 1                            |
-| Enchants        | Unbreaking 6                 |
+|                 |              |
+| --------------- | ------------ |
+| Armor           | 5            |
+| Armor Toughness | 1            |
+| Enchants        | Unbreaking 6 |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**   | This advanced Avsohmic plate was clearly well cared-for, but part of the inscription inside is illegible: "Goh......ase use this! It's all I can... to p....... ou when y... et into... hts. I lo...... - Thr..."  |
-| **Obtain** | Located in [[Gulf of Drehmal]]. Chest located at **(315, 68, -127)**                                                                                                                                               |
+|            | **Lore and how to Obtain**                                                                                                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | This advanced Avsohmic plate was clearly well cared-for, but part of the inscription inside is illegible: "Goh......ase use this! It's all I can... to p....... ou when y... et into... hts. I lo...... - Thr..." |
+| **Obtain** | Located in [[Gulf of Drehmal]]. Chest located at **(315, 68, -127)**                                                                                                                                              |
 
 ## Goh's Plate (duplicate)
 
-|                 |                              |
-| --------------- | ---------------------------- |
-| Armor           | 5                            |
-| Armor Toughness | 1                            |
-| Enchants        | Unbreaking 6                 |
+|                 |              |
+| --------------- | ------------ |
+| Armor           | 5            |
+| Armor Toughness | 1            |
+| Enchants        | Unbreaking 6 |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**   | This advanced Avsohmic plate was clearly well cared-for, but part of the inscription inside is illegible: "Goh......ase use this! It's all I can... to p....... ou when y... et into... hts. I lo...... - Thr..."  |
-| **Obtain** | Located in [[Gulf of Drehmal]]. Chest located at **(370, 65, -93)**                                                                                                                                                |
+|            | **Lore and how to Obtain**                                                                                                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | This advanced Avsohmic plate was clearly well cared-for, but part of the inscription inside is illegible: "Goh......ase use this! It's all I can... to p....... ou when y... et into... hts. I lo...... - Thr..." |
+| **Obtain** | Located in [[Gulf of Drehmal]]. Chest located at **(370, 65, -93)**                                                                                                                                               |
 
 ## Gravedigger's Spade
 
@@ -915,7 +915,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | If one were to witness a power so great it tore through gods and empires with ease, what else could one do than revere it? |
-| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(4397, 141, -3886)**                                                               |
+| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(4397, 141, -3886)**                                                         |
 
 ## Gumption
 
@@ -951,10 +951,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 1                                                     |
 | Bonus Stats | +2 Max Health, +0.01 Movement Speed, +1 Attack Damage |
 
-|              | **Lore and how to Obtain**                                                                                                                                                                                       |
-| ----------   | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**     | An old, faded cap that nonetheless bears the insignia of a full Avsohmic admiral. Nearby paperwork suggests that whoever wore it must have overseen countless secret voyages to the Aphelion, Avsohm's flagship. |
-| **Obtain**   | Located in [[Anyr'Nogur]]. Chest located at **(-3979, 112, 1626)**                                                                                                                                               |
+|            | **Lore and how to Obtain**                                                                                                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | An old, faded cap that nonetheless bears the insignia of a full Avsohmic admiral. Nearby paperwork suggests that whoever wore it must have overseen countless secret voyages to the Aphelion, Avsohm's flagship. |
+| **Obtain** | Located in [[Anyr'Nogur]]. Chest located at **(-3979, 112, 1626)**                                                                                                                                               |
 
 ## Harvester's Overalls
 
@@ -979,7 +979,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                               |
 | ---------- | ------------------------------------------------------------------------ |
 | **Lore**   | The King of Glass speaks to no one, for his death would come too easily. |
-| **Obtain** | Located in [[Black Jungle]]. Chest located at **(4088, 228, 3834)**              |
+| **Obtain** | Located in [[Black Jungle]]. Chest located at **(4088, 228, 3834)**      |
 
 ## Her Truth
 
@@ -992,15 +992,15 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | There exists a prophet who lives on the moon out of sight. She sees visitations from all, even those beyond, for her visions are boundless. |
-| **Obtain** | Located in [[Veruhkt Plateau]]. Chest located at **(4285, 123, -1719)**                                                                                |
+| **Obtain** | Located in [[Veruhkt Plateau]]. Chest located at **(4285, 123, -1719)**                                                                     |
 
 ## Ignus Scythe
 
-|               |                                                         |
-| ------------- | ------------------------------------------------------- |
-| Attack Damage | 8                                                       |
-| Attack Speed  | 2                                                       |
-| Enchants      | Fire Aspect 3                                           |
+|               |               |
+| ------------- | ------------- |
+| Attack Damage | 8             |
+| Attack Speed  | 2             |
+| Enchants      | Fire Aspect 3 |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1042,13 +1042,13 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | If you hold a hand to its scarred, lukewarm breast, you can feel the slow rumbling beat of a heart that refuses to die. |
-| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(3373, 70, -4032)**                                                             |
+| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(3373, 70, -4032)**                                                       |
 
 ## Inspector's Crossbow
 
-|             |                                                       |
-| ----------- | ----------------------------------------------------- |
-| Enchants    | Quick Charge 2                                        |
+|          |                |
+| -------- | -------------- |
+| Enchants | Quick Charge 2 |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1067,7 +1067,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Two zippers break the uniformity of this padded mask's exterior, enough for one eye to see and the mouth to consume. |
-| **Obtain** | Located in [[Spearhead Forest]]. Chest located at **(3124, 25, 1270)**                                                           |
+| **Obtain** | Located in [[Spearhead Forest]]. Chest located at **(3124, 25, 1270)**                                               |
 
 ## Insurance
 
@@ -1095,10 +1095,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 ## Jack's Jacket
 
-|             |                                  |
-| ----------- | -------------------------------- |
-| Armor       | 3                                |
-| Enchants    | Thorns 4, Unbreaking 10, Mending |
+|          |                                  |
+| -------- | -------------------------------- |
+| Armor    | 3                                |
+| Enchants | Thorns 4, Unbreaking 10, Mending |
 
 |            | **Lore and how to Obtain**                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
@@ -1116,7 +1116,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Along with the military might of Emperor Diore I and his Vanguard, the other secret to Vir's steely grip over the East was the construction of sturdy stone forts in each province where the people could take shelter from attackers. This heavy crushing axe was used to cripple enemy ships when their occupants attempted to lay siege. |
-| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(5269, 122, -2086)**                                                                                                                                                                                                                                                                                |
+| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(5269, 122, -2086)**                                                                                                                                                                                                                                                                     |
 
 ## Leliouria
 
@@ -1294,7 +1294,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Ariell Havehz, the young but ingenious current Chieftan of Athrah, was the first to think about mining the Gorahn Buttes for gold. To carry all the ore, this sleeved vest is outfitted with dozens of large, sturdy pockets. |
-| **Obtain** | Located in [[Casai]]. Chest located at **(-2550, 100, -1562)**                                                                                                                                                                 |
+| **Obtain** | Located in [[Casai]]. Chest located at **(-2550, 100, -1562)**                                                                                                                                                                |
 
 ## Loe'Othrah
 
@@ -1307,7 +1307,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                |
 | ---------- | ------------------------------------------------------------------------- |
 | **Lore**   | Loe, Avatar of Ash, created the truest of ice to be used by her disciples |
-| **Obtain** | Located in [[Merijool]]. Chest located at **(-656, 97, -1729)**               |
+| **Obtain** | Located in [[Merijool]]. Chest located at **(-656, 97, -1729)**           |
 
 ## Lomach's Warplate
 
@@ -1318,7 +1318,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Born an especially weak Mikhmari, Lomach'sparents decided to volunteer him for Red Dawn experimentation at the Burnt Palace. Reborn in a new form through innovative necromancy, he relearned speech and later carried the great hero Deigh as he traveled the realm to unite their people. |
-| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-1174, 70, 802)**                                                                                                                                                                                                                                  |
+| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-1174, 70, 802)**                                                                                                                                                                                                                           |
 
 ## Lookout Legwear
 
@@ -1331,7 +1331,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Named for the phrase uttered by bystanders on each of the four occasions that a guard fell off an unsafe bridge or balcony into the canyon below. Now considrred cursed, but probably wearable. |
-| **Obtain** | Located in [[The Carmine]]. Chest located at **(-2079, 154, 5977)**                                                                                                                                    |
+| **Obtain** | Located in [[The Carmine]]. Chest located at **(-2079, 154, 5977)**                                                                                                                             |
 
 ## Lorahn Sacrificial Blade
 
@@ -1344,7 +1344,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | A jagged stone dagger, made specifically for sacrifices. It is said to have been an integral part of a necrotic engine's operations. |
-| **Obtain** | Located in [[Lorahn'Kahl]]. Chest located at **(-108, 67, 4802)**                                                                           |
+| **Obtain** | Located in [[Lorahn'Kahl]]. Chest located at **(-108, 67, 4802)**                                                                    |
 
 ## Luminous Diadem
 
@@ -1365,10 +1365,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | -------- | ------------ |
 | Enchants | Unbreaking 8 |
 
-|            | **Lore and how to Obtain**                                   |
-| ---------- | ------------------------------------------------------------ |
+|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Designed by Blue Exodus's Military Technology Division (MTD), this lethal anti-infantry crossbow was a relatively lightweight and inexpensive alternative to the energy rifle. Produced and tested at the Foundry, its lethality is only 18.7% less for a fraction of the runes. |
-| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3174, 122, 942)**  |
+| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3174, 122, 942)**                                                                                                                                                                                                              |
 
 ## Malevolentius
 
@@ -1382,7 +1382,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                       |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | A woman's carefully crafted gift to the lord of desolation. Despite its great craftsmanship, it was met with no embrace, for Mael had been forsaken once before. |
-| **Obtain** | Located in [[South Heartwood]]. Chest located at **(946, 151, 5052)**                                                                                                       |
+| **Obtain** | Located in [[South Heartwood]]. Chest located at **(946, 151, 5052)**                                                                                            |
 
 ## Mantle of the Calamitous
 
@@ -1395,7 +1395,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The raw, absolute power of a Skullbeast can drive one to fiendish hysterics in pursuit of further strength. This toothy mantle was an early project of one such pursuer, but was cast aside in favor of armor featuring the ribs of a Skullbeast. Now fully gripped by madness, they have completed their magnum opus. |
-| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2145, 67, 412)**                                                                                                                                                                                                                                                             |
+| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2145, 67, 412)**                                                                                                                                                                                                                                                      |
 
 ## Marred Masterwork
 
@@ -1421,7 +1421,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                      |
 | ---------- | ------------------------------------------------------------------------------- |
 | **Lore**   | As said by the eidolic whispers, "HERE YOU SHALL DREAM OF TEETH AND ONLY TEETH" |
-| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(4464, 42, -2110)**                     |
+| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(4464, 42, -2110)**          |
 
 ## Mirage
 
@@ -1434,7 +1434,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------- |
 | **Lore**   | Like the brooding and vain Water Wynm themselves, Drahroehl's blessings are often double-edged. |
-| **Obtain** | Located in [[Anyr'Nogur]]. Rewarded upon solving the Temple of Dahroehl's puzzle. |
+| **Obtain** | Located in [[Anyr'Nogur]]. Rewarded upon solving the Temple of Dahroehl's puzzle.               |
 
 ## Mirrorhelm of Stars
 
@@ -1448,7 +1448,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This helmet was meticulously crafted out of dozens of pieces of finely polished silver, creating a dazzling reflective surface. The monks of the Starrise Bastion claim that it blocks otherworldly interference which, when combined with heightened focus, could allow one to directly query Rihelma. |
-| **Obtain** | Located in [[Island of Dawn]]. Chest located at **(-913, 182, -4146)**                                                                                                                                                                                                                                            |
+| **Obtain** | Located in [[Island of Dawn]]. Chest located at **(-913, 182, -4146)**                                                                                                                                                                                                                                  |
 
 ## Mud-Caked Chainmail
 
@@ -1461,7 +1461,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The letters "S" and "D" are inscribed on this neglected piece, the only sign of what happened to a foolhardy Tharxacian lady who would not bend a knee to Maelihs and so built a castle in a swamp instead. |
-| **Obtain** | Located in [[Nihmaj Swamp]]. Chest located at **(-2261, 93, 2517)**                                                                                                                                                 |
+| **Obtain** | Located in [[Nihmaj Swamp]]. Chest located at **(-2261, 93, 2517)**                                                                                                                                         |
 
 ## Mystic Vow
 
@@ -1473,7 +1473,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Shortly after the Frostfang Catastrophe, a strange mystic individual hid beneath Ihted, pursued by the fangs of drakes. |
-| **Obtain** | Located in [[Capital Valley]]. Chest located at **(1084, 58, 1141)**                                                              |
+| **Obtain** | Located in [[Capital Valley]]. Chest located at **(1084, 58, 1141)**                                                    |
 
 ## Nautical Boots
 
@@ -1486,7 +1486,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | An ancient pair of heeled boots in excellent condition. Belong to a solitary, melancholy hermit. Adorned with deictions of warships, waves, and dramatic clouds at sea. |
-| **Obtain** | Located in [[Grand Pike Canyon]]. Chest located at **(3775, 93, -393)**                                                                                                              |
+| **Obtain** | Located in [[Grand Pike Canyon]]. Chest located at **(3775, 93, -393)**                                                                                                 |
 
 ## Nullblade
 
@@ -1521,9 +1521,9 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | Armor       | 1                                    |
 | Bonus Stats | -2 Max Health, +0.015 Movement Speed |
 
-|            | **Lore and how to Obtain**                                 |
-| ---------- | ---------------------------------------------------------- |
-| **Lore**   | Always on the run. Always got a plan.                      |
+|            | **Lore and how to Obtain**                                            |
+| ---------- | --------------------------------------------------------------------- |
+| **Lore**   | Always on the run. Always got a plan.                                 |
 | **Obtain** | Located in [[South Heartwood]]. Chest located at **(1436, 62, 3839)** |
 
 ## Oversized Scalpel
@@ -1536,7 +1536,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                              |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | While at first conventional surgical scalpals were used for cutting flesh and inserting powdered bluegrape after the Provider arrived, increasingly grapemad members of the court began using larger implements to pack more of the seeds within their body cavities. Perhaps, then, they could see the euphoric visions one more time. |
-| **Obtain** | Located under Loraga Keep in [[South Tharxax]] on the path traveling north from Tharxax City. Chest located at **(-1765, 138, 3036)**                                                                                                                                                                                                                                                                            |
+| **Obtain** | Located under Loraga Keep in [[South Tharxax]] on the path traveling north from Tharxax City. Chest located at **(-1765, 138, 3036)**                                                                                                                                                                                                   |
 
 ## Pearlessence
 
@@ -1576,7 +1576,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | When a green-skinned Drehmari washed up on the shores of isolated Sevick, the villagers were cast into agonizing fear. After disarming, imprisoning, and later stoning the Gozaki trader, they each became convinced they were dying of pestilence. Though three perished from crude attempts at surgery, the rest fled and never returned. |
-| **Obtain** | Located in Sevick on a small island to the east of [[Spearhead Forest]]. Chest located at **(5039, 97, 1070)**                                                                                                                                                                                                                                                                                  |
+| **Obtain** | Located in Sevick on a small island to the east of [[Spearhead Forest]]. Chest located at **(5039, 97, 1070)**                                                                                                                                                                                                                              |
 
 ## Prismatic Helmet
 
@@ -1599,7 +1599,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The exhibit reads: "We know from Sal'Mevir that Avsohm had probes which could fly autonomously. This appears to be an early experiment wherin the user could fire a small probe to perform limited surveillance and then recall it via runic magic that has been lost to time." |
-| **Obtain** | Located within the Timberhearth Observatory & Museum in [[Spearhead Forest]]. Chest located at **(4141, 135, 280)**                                                                                                                                                                                                          |
+| **Obtain** | Located within the Timberhearth Observatory & Museum in [[Spearhead Forest]]. Chest located at **(4141, 135, 280)**                                                                                                                                                             |
 
 ## Quailfeather Helm
 
@@ -1650,7 +1650,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | This helmet shines a brilliant yellow and green, with rocky protrusions covering its surface. It was crafted by the high priest of Xorhuul in an early, unsuccessful attempt to commune with Koh |
-| **Obtain** | Located in [[Island of Dawn]]. Chest located at **(-1263, 46, -4060)**                                                                                                                                     |
+| **Obtain** | Located in [[Island of Dawn]]. Chest located at **(-1263, 46, -4060)**                                                                                                                           |
 
 ## Rootfinder
 
@@ -1663,7 +1663,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                              |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Craving the savory spice of Paroto roots, Seylon Klemelli first journeyed across Drehmal to the wild Ebony Veldt forty years ago. Since then, without missing a single year, she has returned every year to harvest more. This perfectly balanced shovel has a runic sensor which detects the telltale soil acidity of a tuber cluster. |
-| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2339, 107, 1484)**                                                                                                                                                                                                                                                                            |
+| **Obtain** | Located in [[Ebony Veldt]]. Chest located at **(-2339, 107, 1484)**                                                                                                                                                                                                                                                                     |
 
 ## Runecatcher
 
@@ -1687,7 +1687,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | These incredible durable boots are all that are left of the Soldier Nemynar, legendary leader of the Hunting Party who perished victorious in his quest for vengeance. |
-| **Obtain** | Located in [[North Heartwood]]. Chest located at **(1073, 79, 2934)**                                                                                                             |
+| **Obtain** | Located in [[North Heartwood]]. Chest located at **(1073, 79, 2934)**                                                                                                  |
 
 ## S21A-"Dragon"
 
@@ -1735,7 +1735,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                         |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The treasured trousers of the eminent Captain Ihb himself. Originally an adventure novelist from the hinterland town of Kazanni, he lived a legendary life of adventure aboard his great ship, the Sharkfin, before disappearing along with Avsohm |
-| **Obtain** | Located in [[North Heartwood]]. Chest located at **(1787, 121, 3211)**                                                                                                                                                                                        |
+| **Obtain** | Located in [[North Heartwood]]. Chest located at **(1787, 121, 3211)**                                                                                                                                                                             |
 
 ## Sepelitem
 
@@ -1754,10 +1754,10 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 | -------- | ------- |
 | Enchants | Punch 4 |
 
-|            | **Lore and how to Obtain**                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| **Lore**   | There are a total of 86 tallies carved into the varnished wood of this proud Eloan family heirloom.  |
-| **Obtain** | Located in [[Lorahn'Kahl]]. Item frame located at **(-597, 108, 4675)**                                   |
+|            | **Lore and how to Obtain**                                                                          |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| **Lore**   | There are a total of 86 tallies carved into the varnished wood of this proud Eloan family heirloom. |
+| **Obtain** | Located in [[Lorahn'Kahl]]. Item frame located at **(-597, 108, 4675)**                             |
 
 ## Shock
 
@@ -1784,7 +1784,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | It's an oft-ignored fact that Maelmari and Drehmari are cut from the same cloth. Both have a penchant for destruction. To spur their destructive tendencies, leaders of each race need only utter two words: "Lay siege" |
-| **Obtain** | Located in [[Carmine]]. Chest located at **(-2890, 124, 5211)**                                                                                                                                                             |
+| **Obtain** | Located in [[Carmine]]. Chest located at **(-2890, 124, 5211)**                                                                                                                                                          |
 
 ## Skullhammer
 
@@ -1798,7 +1798,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | A crude bludgeoning weapon, wielded by only the most bloodthirsty of Maelmari. A horned skull is affixed to the top, with blunted crystal horns. Spoils of war, to be certain. |
-| **Obtain** | Located in [[North Tharxax]]. Chest located at **(-1648, 66, 2232)**                                                                                                                    |
+| **Obtain** | Located in [[North Tharxax]]. Chest located at **(-1648, 66, 2232)**                                                                                                           |
 
 ## Slime Chrysalis
 
@@ -1848,7 +1848,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This sturdy rune-emblazoned shovel radiates with an inner warmth. Developed by commission from the King of Highfall himself, these powerful artifacts are a modern necessity when living on the frozen tundra |
-| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(5087, 79, -2394)**                                                                                                                                                   |
+| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(5087, 79, -2394)**                                                                                                                                        |
 
 ## Soilsplitter
 
@@ -1861,7 +1861,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Celiah Esipelli, the legendary founder of Esipelli Vineyard, reportedly obtained this hoe from Noha herself before her death on Lo'Dahr. An inscription on its varnished handle reads: "Continue my legacy." |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1648, 91, -1349)**                                                                                                                                                  |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(1648, 91, -1349)**                                                                                                                                           |
 
 ## Sparkstoker
 
@@ -1874,7 +1874,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Lailoehn is known to have as much greed as the fire of his domain and twice as much pride, but he repays those who stroke with ego with light and protection. This tool was used to stoke a flame which burned throughout three consecutive Avihms. |
-| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3565, 162, 342)**                                                                                                                                                                                         |
+| **Obtain** | Located in [[Mt. Ebonfire]]. Chest located at **(-3565, 162, 342)**                                                                                                                                                                                 |
 
 ## Spherewalkers
 
@@ -1888,7 +1888,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | None expected that Raene, most devout among the alchemists, would turn to necromancy after conquering her third Sphere. Yet, by repeatedly killing a single prisoner, she broadcast a whisper to every serious practitioner: "Come to Lorahn'Kahl! The Great Work begins!" |
-| **Obtain** | Located in [[Lorahn'Kahl]]. Chest located at **(-1671, 22, 5232)**                                                                                                                                                                                                                |
+| **Obtain** | Located in [[Lorahn'Kahl]]. Chest located at **(-1671, 22, 5232)**                                                                                                                                                                                                         |
 
 ## Spiderweb Rod
 
@@ -1914,7 +1914,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Rosefather Xenoh, friend of Noha, was buried here. After her premature demise, he traveled across the realm planting roses and watering them with his tears. |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(2997, 81, -1622)**                                                                                                  |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(2997, 81, -1622)**                                                                                           |
 
 ## Starpiercer
 
@@ -1927,7 +1927,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Members of the Coven of Koh speak in hushed whispers about the fabled pickaxe which finally broke the Star of Alanys, a brutally jagged rock from elsewhere that glittered green and gold. |
-| **Obtain** | Located in [[Island of Dusk]]. Chest located at **(-2332, 87, -3804)**                                                                                                                               |
+| **Obtain** | Located in [[Island of Dusk]]. Chest located at **(-2332, 87, -3804)**                                                                                                                     |
 
 ## Steelspinner
 
@@ -1939,7 +1939,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Only the bravest of the Seldom-Seen are assigned to watch over the caverns so close to the surface. To protect the throne of the Underliege from probing Two-Eyes is a solemn duty that is not taken lightly. |
-| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(3627, 13, -2548)**                                                                                                                                                   |
+| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(3627, 13, -2548)**                                                                                                                                             |
 
 ## Stoneshaper
 
@@ -1964,7 +1964,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This uniquely bifurcated crossbow belongs to one of the Benefactors, the La'Tehrmari leaders of the Wingmakers. The first Benefactor Froslea, always taught that a Wingmaker should travel as far as the bird can fly, so that no qualified Tehrmari candidate should ever be missed. |
-| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(2731, 86, -414)**                                                                                                                                                                                                                            |
+| **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(2731, 86, -414)**                                                                                                                                                                                                                     |
 
 ## Sword of Artohris
 
@@ -1977,7 +1977,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | This stored blade belonged to Artohris of Ancehl. Though he was the son of a nobleman, he was strong and virtuous. On his final mission, he attempted to make a journey alone to the Burnt Palace to fight Maelihs. Instead, he found his was to the Sepulchral Alter and became one of Maelihs' most trusted servants, before meeting his end on the battlefield. |
-| **Obtain** | Located on the Maerhn'Vos wall separating the [[Ebony Veldt]] and [[Merijool]]. Chest located at **(-2253, 119, -140)**                                                                                                                                                                                                                                                                                                       |
+| **Obtain** | Located on the Maerhn'Vos wall separating the [[Ebony Veldt]] and [[Merijool]]. Chest located at **(-2253, 119, -140)**                                                                                                                                                                                                                                            |
 
 ## Talisman of Endless Growth
 
@@ -1988,13 +1988,13 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Chipped murals on ancient walls tell the story of the Great Revel. While Vayniklah's faithful hoped to revive the soul of the world, instead they opened the door to something far more sinister. |
-| **Obtain** | Located in [[Merijool]]. Chest located at **(-991, 77, -346)**                                                                                                                                        |
+| **Obtain** | Located in [[Merijool]]. Chest located at **(-991, 77, -346)**                                                                                                                                    |
 
 ## Temporal Bow
 
-|             |          |
-| ----------- | -------- |
-| Enchants    | Infinity |
+|          |          |
+| -------- | -------- |
+| Enchants | Infinity |
 
 |            | **Lore and how to Obtain**                                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -2012,7 +2012,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Archduke Hishrin Elsahr Ombahr Drehn-Anyr Hovadchear Vahidson I is the sole monarch of the noble lands in West Faehrcycle. This sacred staff is proof of his noble lineage and Aspect-blessed wisdom. |
-| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(1027, 99, -2999)**                                                                                                                                           |
+| **Obtain** | Located in [[Faehrcycle]]. Chest located at **(1027, 99, -2999)**                                                                                                                                     |
 
 ## The Immortal Slap Fish
 
@@ -2048,17 +2048,17 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | One day, an Avsohmic scholar challenged themselves to create the most convoluted method at preventing injuries from heights - and thus these boots were made. |
-| **Obtain** | Located in [[Purity Peaks]]. Chest located at **(2218, 142, 515)**                                                                                                    |
+| **Obtain** | Located in [[Purity Peaks]]. Chest located at **(2218, 142, 515)**                                                                                            |
 
 ## Totem of Dying
 
-|             |     |
-| ----------- | --- |
+|             |                                                          |
+| ----------- | -------------------------------------------------------- |
 | Bonus Stats | +??? Max Health, +??? Movement Speed, +??? Attack Damage |
 
-|            | **Lore and how to Obtain**                                   |
-| ---------- | ------------------------------------------------------------ |
-| **Lore**   | Nihil! Nihil! NIHIL!                                                         |
+|            | **Lore and how to Obtain**                                          |
+| ---------- | ------------------------------------------------------------------- |
+| **Lore**   | Nihil! Nihil! NIHIL!                                                |
 | **Obtain** | Located in [[Akhlo'Rohma]]. Chest located at **(2839, 114, -2046)** |
 
 ## Unlimited Power
@@ -2081,7 +2081,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | The nations of Akhlo'Rohma have long been an oppressor to surrounding regions. Veruhkt, the most affected by their tyranny, has had their culture and people all but forgotten |
-| **Obtain** | Located at the top of the tallest tower within the ruins of Sal'Veruhkt in [[Veruhkt Plateau]]. Chest located at **(3588, 96, -1360)**                                                                                                                    |
+| **Obtain** | Located at the top of the tallest tower within the ruins of Sal'Veruhkt in [[Veruhkt Plateau]]. Chest located at **(3588, 96, -1360)**                                         |
 |            |                                                                                                                                                                                |
 
 ## Vuxli's Stirring Rod
@@ -2120,7 +2120,7 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                             |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | A pure white shortbow, fabled weapon of an old Virmari hero. During the Deity Wars, they were one of Virtuo's greatest crusaders against Maelihs and his armies. Though their name was forgotten, their heroic became the spirit of the Empire of Vir. |
-| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(4740, 126, -1169)**                                                                                                                                                                                           |
+| **Obtain** | Located in [[Highfall Tundra]]. Chest located at **(4740, 126, -1169)**                                                                                                                                                                                |
 
 ## Worn Ironreed Rod
 

@@ -14,6 +14,8 @@ tags:
 
 !!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above."
 
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
 
 The facets are written as verses of scripture, containing apocalyptic prophecies foreseen by [[Rihelma]].
@@ -26,7 +28,7 @@ Under this interpretation, each respective text portrays what may ultimately hap
 
 ## Facet I ([[Khive]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -761  |  98   | -788  |
@@ -54,7 +56,7 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 
 ## Facet II
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1125  |  83   | 1069  |
@@ -82,7 +84,7 @@ It is not clear exactly whose possible future this text refers to, and in fact, 
 
 ## Facet III ([[Nahyn]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  530  |  123  |  15   |
@@ -110,7 +112,7 @@ Due to the repeated references to silence in this facet, it has been posited tha
 
 ## Facet IV ([[Dahr]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  198  |  18   | 1177  |
@@ -138,7 +140,7 @@ It is believed to be a description of a hypothetical world in which [[Maelihs]] 
 
 ## Facet V ([[Lai]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1108  |  70   | -1198 |
@@ -166,7 +168,7 @@ Its text appears to represent the timeline in which [[Virtuo]] achieves the Ambi
 
 ## Facet VI ([[Vayniklah]]'s Trial)
 
-## Coordinates (After Trial):
+## Coordinates (After Trial)
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | -485  |  74   | -222  |

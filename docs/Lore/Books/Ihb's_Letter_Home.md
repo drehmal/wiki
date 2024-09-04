@@ -11,7 +11,7 @@ This book can be found in a chest in the ruins of Kazzani, at the southern edge 
 | 1807  |  108  | 3311  |
 
 ## Transcription
-> Children of Kazanni!
+> Children of Kazzani!
 >
 > Though salty brine is never seen
 >
@@ -27,7 +27,7 @@ This book can be found in a chest in the ruins of Kazzani, at the southern edge 
 >
 > Third, and last, I have a few words for my old ma and pa. I left never intending to see either of you again, and I’ve never looked back until now. If you are still kicking, know that I have grown into my boots and my beard. I’m a strong man now, experienced, wise, and kind. I hope that you can come to see that.
 >
-> To all: My next journey will be to visit you in Kazanni, and after that, I shall leave on my greatest adventure yet.
+> To all: My next journey will be to visit you in Kazzani, and after that, I shall leave on my greatest adventure yet.
 >
 > (Though I would like to use a different sendoff, I feel like the kids would get a kick out of this one! Here goes.)
 >

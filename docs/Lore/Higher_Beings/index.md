@@ -17,33 +17,33 @@ Major Aspects are considered to be the most important Aspects and those with the
 
 Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exception to this is Lahrs, who was created by the Primal Tree and is the subject of debate for classification (Verrhys was also created by the Primal Tree, but their existence isn't known to people in the present day.)
 
-### List:
+### List
 
-| Aspect | Title | Gender |
-|-|-|-|
-| **[[Khive]]** | Aspect of Magic | N |
-| **[[Dahr]]** | Aspect of the Sea | M |
-| **[[Rihelma]]** | Aspect of the Sky | F |
-| **[[Taihgel]]** | Aspect of Land | N |
-| **[[Vayniklah]]** | Aspect of Life | F |
-| **[[Voynahla]]** | Aspect of Death | M |
-| **[[Lai]]** | Aspect of Warmth | M |
-| **[[Loe]]** | Aspect of the Cold | F |
-| **[[Verrhys]]** | Aspect of Silence | N (?) |
-| **[[Lahrs]]** | Aspect of Resonance | N |
-| **[[Moen]]** | Aspect of Pleasure | N (?) |
-| **[[Maen]]** | Aspect of Pain | N (?) |
-| **[[Tethlaen]]** | Aspect of Fear | N |
-| **[[Dahroehl]]** | Aspect of Freshwater | N |
-| **[[Palaesida]]** | Aspect of Storms | M |
-| **[[Rihalae]]** | Aspect of Wind | N |
-| **[[Nahyn]]** | Aspect of Mountains | M |
-| **[[Koh]]** | Aspect of Stone | ? | No |
-| **[[Noha]]** | Aspect of Harvest | F |
-| **[[Mari]]** | Aspect of People | M |
-| **[[Muhs]]** | Aspect of Beasts | M |
-| **[[Lailoehn]]** | Aspect of Fire | M |
-| **[[Loeleyhn]]** | Aspect of Snow | F |
+| Aspect            | Title                | Gender |
+| ----------------- | -------------------- | ------ |
+| **[[Khive]]**     | Aspect of Magic      | N      |
+| **[[Dahr]]**      | Aspect of the Sea    | M      |
+| **[[Rihelma]]**   | Aspect of the Sky    | F      |
+| **[[Taihgel]]**   | Aspect of Land       | N      |
+| **[[Vayniklah]]** | Aspect of Life       | F      |
+| **[[Voynahla]]**  | Aspect of Death      | M      |
+| **[[Lai]]**       | Aspect of Warmth     | M      |
+| **[[Loe]]**       | Aspect of the Cold   | F      |
+| **[[Verrhys]]**   | Aspect of Silence    | N (?)  |
+| **[[Lahrs]]**     | Aspect of Resonance  | N      |
+| **[[Moen]]**      | Aspect of Pleasure   | N (?)  |
+| **[[Maen]]**      | Aspect of Pain       | N (?)  |
+| **[[Tethlaen]]**  | Aspect of Fear       | N      |
+| **[[Dahroehl]]**  | Aspect of Freshwater | N      |
+| **[[Palaesida]]** | Aspect of Storms     | M      |
+| **[[Rihalae]]**   | Aspect of Wind       | N      |
+| **[[Nahyn]]**     | Aspect of Mountains  | M      |
+| **[[Koh]]**       | Aspect of Stone      | ?      | No |
+| **[[Noha]]**      | Aspect of Harvest    | F      |
+| **[[Mari]]**      | Aspect of People     | M      |
+| **[[Muhs]]**      | Aspect of Beasts     | M      |
+| **[[Lailoehn]]**  | Aspect of Fire       | M      |
+| **[[Loeleyhn]]**  | Aspect of Snow       | F      |
 
 ## The Three Deities
 

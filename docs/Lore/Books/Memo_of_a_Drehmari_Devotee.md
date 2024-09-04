@@ -37,7 +37,7 @@ the proof that I had been badly misguided in my faith.
 > We cannot be peaceful, pure, or perfect, so why should we try? The Maelmari priests heard my yearning call and generously told me all they knew.
 >
 > Now I must complete my journey to the south-west. I will not stop until I reach the Titans of Strength and Servitude at the mouth of the Hellcrags. Only then can I become a true
-Drehmari prophet of Maehlis.
+Drehmari prophet of Maelihs.
 >
 > If some traveler miraculously comes upon my encampment, please take this journal and continue my mission.
 >

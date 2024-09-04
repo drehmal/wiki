@@ -65,7 +65,7 @@ m--lves. Whil- - -u-- --- p--s-cal-- --te-f--e wit- the-r ---airs, I ---- tha- -
 >
 > If y-u -re re--i-- th--e w-rds, then my o--y l-y-- ap---n--ce r--ai--ng will have j--g-d you w-r--y. If we do not h--e tim- or oc--s-on to sp--k, I --pe th-- you w--l -a-e the i-t----ty to h-lp me in -- ---st -o ri--t the --ny wrongs I ha-- c---i--ed.
 
-### Reconstruction:
+### Reconstruction
 > Our realm is vast, to be sure, but what lies beyond? This is a question for which none should know the answer. I have already failed at safekeeping it once, and cannot afford to do so again.
 >
 > I have heard whispers and caught glimpses of the answer myself despite my parent's wishes. There may come a time when another's learning of them could save our realm from destruction. After all, knowledge unknown is not true knowledge. It is perhaps hubris, but I feel the danger of this knowledge falling into unworthy hands is very low unless the realm has already itself fallen.

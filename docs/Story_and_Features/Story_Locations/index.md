@@ -14,7 +14,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 **25% Completion Event Location:** <br>
 [[Ancillary Research Facility]]
 
-**50% Completion Event Location:**
+**50% Completion Event Location:** <br>
 [[Exodus Vault]]
 
 **75% Completion Event Locations:** <br>

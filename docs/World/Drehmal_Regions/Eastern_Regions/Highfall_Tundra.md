@@ -6,9 +6,9 @@ Highfall Tundra is a cold region in northeastern [[Drehmal|Drehmal (Place)]] wit
 
 ## Geography
 
-Highfall Tundra is situated in Drehmal's east coast. 
+Highfall Tundra is situated on Drehmal's east coast. It borders the [[Frozen Bite to the north, [[Veruhkt Plateau]] to the west and [[Spearhead Forest]] to the southwest.
 
-The region is split by a river and lake into north and south sections. At the mouth of the river is an island, upon which Highfall sits.
+The region is split by a river and lake into north and south segmente. Highfall sits on an island at the mouth of the river. 
 
 ## History
 

@@ -14,18 +14,18 @@ Towers are grouped into four categories inside the Terminus; Western Towers, Eas
 
 In order to progress through the story, the player must unlock certain numbers of Terminus towers. The compass dispensary inside of the Terminus is also where the player receives story-related directions from avSYS, in the form of specially-oriented compasses or other items.
 
-In the center of the terminus, below a transparent floor, there is a rough physical map of [Drehma[Drehmal (Place)]] with the locations of towers marked by light rods.
+In the center of the terminus, below a transparent floor, there is a rough physical map of [[Overworld|Drehmal]] with the locations of towers marked by light rods.
 
 ## Towers
 
-Terminus towers are recognizable with their late [Avsohmic[Empire of Avsohm]] architecture, consisting primarily of quartz, and having a purple-colored central pillar. The tops of the towers are small, partially-inclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
+Terminus towers are recognizable with their late [[Empire of Avsohm|Avsohmic]] architecture, consisting primarily of quartz, and having a purple-colored central pillar. The tops of the towers are small, partially-inclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
 
 Different Terminus towers have different features, often being guarded by enemies or having parkour leading to the top. Most towers do not have direct access to the top, meaning players must pillar up or use some other means of reaching the button.
 
 Players at the top of towers will receive the Feather Falling II effect for 15 seconds (continuously replenished until 
 they exit.), allowing a safe descent to the ground. If the player has unlocked every tower and gotten the (*...*) advancement, they will also be given (*...*) at towers.
 
-The locations of Terminus towers are given by the map in the Terminus, and more precisely by the regional maps sold by [Adventuring Merchants[Adventuring Merchant]].
+The locations of Terminus towers are given by the map in the Terminus, and more precisely by the regional maps sold by [[Adventuring Merchant|Adventuring Merchants]].
 
 Upon using a tower's button, the message "//INITIATING PHASE WARP...// will appear in chat. If the tower is being used for the first time, this message will be followed by (*...*).
 
@@ -72,7 +72,7 @@ Upon using a tower's button, the message "//INITIATING PHASE WARP...// will appe
 
 ## Hidden Section and Docking Bay 
 
-After visiting the admin wing in the [[Repository|Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for [[The Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
+After visiting the admin wing in the [[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for [[The Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
 
 ## Lore (75% SPOILERS)
 

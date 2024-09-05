@@ -60,7 +60,7 @@ If the book is very short or has no real interesting content, only the location 
 
 Next, a table with the unique x, y, and z coordinates of the book's container is provided. Note that two books may have the same coordinates if they are in different dimensions (although this kind of conflict is very unlikely).
 
-## Transcription
+### Transcription
 > This section is a copy of the entirety of the book's text.
 
 

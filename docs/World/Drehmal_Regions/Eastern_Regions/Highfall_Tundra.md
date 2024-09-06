@@ -2,7 +2,7 @@
 
 ![[Highfalltundra1.webp]]{ align=right width="300" }
 
-Highfall Tundra is a cold region in northeastern [[Drehmal|Drehmal (Place)]] with plains, sparse woods and tundra. It is named after the city [[Highfall]], the region's center of attention.
+Highfall Tundra is a cold region in northeastern [[Drehmal|Drehmal (Place)]]. Despite its name, it is only partially tundra, also having plains and sparse woods. It is named after the city [[Highfall]], the region's center of attention.
 
 ## Geography
 
@@ -33,5 +33,5 @@ Highfall Tundra's Terminus tower is located in the region's center, nearby the m
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Highfall |  |  | Highfall is a large city on the region's east coast, and the capital of the Kingdom of Highfall. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. The city's buildings are large but thinly dispersed, and are built primarily of stone, oak and spruce. |
-| Virmari Crypt |  |  |  |
+| Highfall |  | X: 6014, Y: 71, Z: -1083 | Highfall is a large city on the region's east coast, and the capital of the Kingdom of Highfall. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. The city's buildings are large but thinly dispersed, and are built primarily of stone, oak and spruce. |
+| Virmari Crypt |  | X: 4740, Y: 125, Z: -1195 | A series of of stone hallways are built into a mountain's interior in western Highfall Tundra. This crypt is filled with many bones, skulls and tombs, including that of an ancient, unnamed Virmari hero from the [[Deity War]]. A single hostile entity called the "Crypt Belcherest" guards the area. |

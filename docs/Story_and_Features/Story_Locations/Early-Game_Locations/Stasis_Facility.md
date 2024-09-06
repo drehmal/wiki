@@ -18,13 +18,14 @@ Upon entering the world, the player awakes in a temporal stasis pod, being infor
 After the facility is brought back online by the player, the first [holotexts](/Story_and_Features/Holotexts/) can be found, which inform the player of their current situation. By reading these holotexts, the player will learn that they entered stasis due to some sort of emergency involving the "Ever-Fear," and that they had been in stasis for an incredibly long, but unclear, amount of time. 
 
 ![[drehmal_realmbinder.png]]
-> The statue of Drehmal found in the Stasis Facility.
+> The statue of Drehmal found in the Stasis Facility. <br>
+
 In the upper rooms of the facility, between office rooms and living quarters, a wall gives way to a room containing a statue of [[Drehmal]], as well as murals depicting the origins of the world. Taking a hint from one of the holotexts near the large unbreakable holo-door at the facility's exit, the player is able to deactivate the door, climbing a spiral staircase to the surface.
 
 ## Gameplay
 Being the first location in the game, the Stasis Facility contains instances of some of Drehmal's core gameplay functions. Just past the very first room, a small node (similar to the one used to start the game) can be right-clicked to re-link the facility's holotext database. This mechanic reappears at other Avsohmic facilities throughout the story, restoring their holotext databases if adequate tower linkage has been achieved.
 
-Along the top row of rooms, a wall with a single chiseled stone brick ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } can be found, just below a stone pickaxe in an item frame, named "DIG". This is the first instance of chiseled block variants being used to signal a secret to the player, as digging through this wall is required to progress to the mural/statue room and exit the facility.
+Along the top ring of rooms, a wall with a single chiseled stone brick ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } can be found, just below a stone pickaxe in an item frame, named "DIG". This is the first instance of chiseled block variants being used to signal a secret to the player, as digging through this wall is required to progress to the mural/statue room and exit the facility.
 
 At the holodoor, which cannot be broken normally, the game's first minor puzzle is given to the player. Taking a hint from one of the nearby holotexts, "Gohri's Safety Design," will allow the player to escape.
 

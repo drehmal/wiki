@@ -8,10 +8,6 @@
 > - **Parent:** [[Primal Tree]]
 > - **Devotion Site:** [[Kiln of Virtuo]]
 
-![[virtuo_collar.png]]
-> An image of Virtuo tied to her secret devotion reward.
-
-
 ![[virtuo_statue.png]]
 > Statue of Virtuo carved into the Verdant Mountains
 

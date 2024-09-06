@@ -1,7 +1,5 @@
 # Terminus Network
 
---8<-- "under_construction.md"
-
 ![[cv_tower.png]]
 > Capital Valley Terminus Tower
 ---------
@@ -66,15 +64,34 @@ Upon using a tower's button, the message "//INITIATING PHASE WARP...// will appe
 | The Frozen Bite          | 5460    | 105   | -3024   |Eastern   |
 | Veruhkt Plateau          | 3953    | 245   | -1881   |Eastern   |
 
+## Story (Up to 75%)
+Typically, the Terminus is first accessed through the [[Capital Valley]] tower, found just off of the road between the [[Stasis Facility]] and [[Drabyel]], but almost any tower can be the first. Upon the player's first arrival in the Terminus, the inside halls are dark and inactive, except for the compass dispensary at the end of the Central Towers wing. When the player enters this area, avSYS will check their credentials and activate the facility, turning lights back on and prompting the player to manually re-link all towers, establishing the connection between network linkage and story progression.
+
+At the 25%, 50%, and 75% milestones, the player will be given a lodestone compass at the compass directory, pointing them towards the locations of those story events. The Terminus plays a particularly significant role in the 75% event, detailed in the section below (beware of spoilers).
+
+## Hidden Section (75% Event Spoilers)
+
 --8<-- "spoiler.md"
 
 --8<-- "75_spoiler.md"
 
-## Hidden Section and Docking Bay 
+After visiting the [[Admin Wing]] in the [[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for [[The Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
 
-After visiting the admin wing in the [[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for [[The Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
+## Lore (Post-75% SPOILERS)
 
-## Lore (75% SPOILERS)
+--8<-- "spoiler.md"
+
+!!! danger "This section contains information found in the later game, particularly the late-game area tied to the 75% completion event."
+
+!!! danger "If you have not reached this area yet (as denoted by obtaining the "Apotheosis" advancement), then this section may spoil some of the discoveries from that area, as well as the identity of that area. Proceed with caution!"
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+The Terminus was born out of Avsohm's efforts to [[Ring Research Installation#Lore|study the warp rings]] in [[Khive's Domain]], the source of the ampire's initial knowledge on teleportation magic. By studying and reverse-engineering the rings' magic runes, Avsohm was eventually able to create rudimentary versions of the warp towers found across the map, which were gradually perfected and spread across the realm.
+
+However, the warp tech was deemed inefficient due to the fact that each ring could only connect to its one linked ring, and vice versa. Thus, [[Vortu]], an Avsohmic officer aboard the Aphelion, came up with the idea of a central hub, where important locations could all be linked to, allowing for extremely rapid transfer of personnel, cargo, and energy around the empire. 
+
+The Terminus itself was built as a satellite to [[The Aphelion]], allowing for direct access of Avsohm's flagship from the Terminus.
 
 ## Late-Game Towers
 
@@ -84,6 +101,11 @@ After visiting the admin wing in the [[Av'Sal Repository]] and upgrading their r
 | Aphelion | Space | -26 | 142 | 122 |
 | Lo'Dahr | Lo'Dahr | 61 | 69 | -717 |
 
-## Role in Story (END-GAME SPOILERS)
+## Story (END-GAME SPOILERS)
 
+--8<-- "spoiler.md"
+
+--8<-- "postyav_spoiler.md"
+
+Upon defeating [[Tethlaen]] in [[The Nothing]], the player will begin the end-game sequence, in which they are spoken to by [[yellow|a mysterious voice]]. This sequence sees the player return to the Terminus three times, each time being given a trinket that leads them to one of the main [end-game locations](/Story_and_Features/Story_Locations/End-Game_Locations/). During this time, avSYS appears to be possessed by the being speaking to the player.
 

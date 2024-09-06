@@ -8,7 +8,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 
 **Early-Game Areas:** <br>
 [[Stasis Facility]] <br>
-[[Terminus|The Terminus]] <br>
+[[Terminus Network|The Terminus]] <br>
 [[Av'Sal Repository]]
 
 **25% Completion Event:** <br>

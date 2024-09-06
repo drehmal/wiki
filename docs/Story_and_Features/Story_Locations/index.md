@@ -8,16 +8,16 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 
 **Early-Game Areas:** <br>
 [[Stasis Facility]] <br>
-[[Terminus Network|Terminus]] <br>
+[[Terminus|The Terminus]] <br>
 [[Av'Sal Repository]]
 
-**25% Completion Event Location:** <br>
+**25% Completion Event:** <br>
 [[Ancillary Research Facility]]
 
-**50% Completion Event Location:** <br>
+**50% Completion Event:** <br>
 [[Exodus Vault]]
 
-**75% Completion Event Locations:** <br>
+**75% Completion Event:** <br>
 [[Admin Wing|Part 1: Administrative Wing]] <br>
 [[The Aphelion|Part 2: The Ship]]
 
@@ -28,7 +28,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 [[Ring Facility]] <br>
 [[Numencore]]
 
-**Late-Game Locations:** <br>
+**Late-Game Dungeon:** <br>
 [[Primary Energy Collection Facility]] <br>
 [[The Nothing]]
 

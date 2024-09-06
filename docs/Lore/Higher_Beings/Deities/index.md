@@ -2,6 +2,9 @@
 
 In Drehmal, there are three higher beings whose status is above those of the Aspects, and they are known as Deities. These three figures—[[Drehmal]], [[Maelihs]], and [[Virtuo]]—were all born from some fragment of the [[Primal Tree]] upon its felling at the end of Av1, inheriting greater portions of the Tree's spirit and power than the Aspects had. As such, they take different appearances than the Aspects, and have greater levels of power, although they are younger than the Aspects.
 
+![[stasis_deities.png]]
+> A mural found in the [[Stasis Facility]] depicting the three deities: Maelihs (left), Virtuo (right), and Drehmal (top).
+
 ## Drehmal
 [[Drehmal]] is the colossal serpentine creator deity of the realm, responsible for reshaping the land after the cataclysm that occurred at the end of Av1, making it inhabitable again. They are widely worshipped throughout the continent, although they have not been physically present in the realm for millennia by the time that the player emerges from stasis.
 

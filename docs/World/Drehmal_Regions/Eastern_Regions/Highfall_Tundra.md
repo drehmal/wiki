@@ -33,5 +33,5 @@ Highfall Tundra's Terminus tower is located in the region's center, nearby the m
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Highfall |  |  | Highfall is a large city on the region's east coast. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. |
+| Highfall |  |  | Highfall is a large city on the region's east coast, and the capital of the Kingdom of Highfall. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. The city's buildings are large but thinly dispersed, and are built primarily of stone, oak and spruce. |
 | Virmari Crypt |  |  |  |

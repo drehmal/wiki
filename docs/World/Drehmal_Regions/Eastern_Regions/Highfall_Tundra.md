@@ -27,6 +27,11 @@ Highfall has been the center of power in the region since the early days of the 
 
 ## [[Terminus Network|Terminus]] Tower
 
-
+Highfall Tundra's Terminus tower is located in the region's center, nearby the main road. Four stone towers with tops shaped like bird heads surround it on each side. The southern one, the shortest, has a spiral staircase on its interior leading to its top. A bridge connects the top of this tower to the eastern tower, which is taller. A stairwell inside this tower climbs from the point where the bridge intersects with it, up to its top, where another bridge connects to the taller northern tower. This pattern repeats up until the roof of the western and tallest stone tower, which provides direct access to the top of the Terminus tower. This complex is guarded by hostile "Tower Defenders".
 
 ## Points of Interest
+
+| POI | Image | Coordinates | Description |
+|-|-|-|-|
+| Highfall |  |  | Highfall is a large city on the region's east coast. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. |
+| Virmari Crypt |  |  |  |

@@ -4,6 +4,9 @@
 
 The **Av'Sal Repository** is a central location in the story of Drehmal: Apotheosis, located beneath the ruins of the central island of [[Av'Sal]]. This area features a large hall with holotexts describing each of the main Avsohmic story locations, which are updated as the player finds and explores these areas.
 
+![[avsal_repo_inside.png]]
+> The main hall of the Repository.
+
 There are 12 total repository entries, ranging from the [[Stasis Facility|very beginning]] of the story to the [[Resonant Halls|final Avsohmic location]]. The holotexts each provide a brief overview of the pertinent information learned at that location, appearing vague until all information is found (all holotexts at that site are read). For a full list of the holotexts at the repository, see [Repository Entries](/Story_and_Features/Holotexts/Av%27Sal_Repository/Repository_Entries/).
 
 The Repository is also home to the hilt of the [[Mythbreaker]], Avsohm's greatest weapon, as well as the contraption that can be used to reassemble the weapon in its inert form. Once the other two fragments of the blade have been obtained, they can be reunited to form the full weapon in this location.

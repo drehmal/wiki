@@ -41,7 +41,7 @@ The North Heartwood's Terminus tower is situated on elevated ground in the regio
 | Castle Scarstone |  |  | Castle Scarstone is a ruined castle in the mountains east of the North Heartwood. It was originally used by the Insohmic Coalition as a military base during the [[Battle for Drehmal]], but it fell out of use after the Order of Insohm dissolved. Today, the ruins are scavenged by [[Mihkmari]]. An immense cavern in the mountains beneath the castle conceals a mysterious pyramid from the First Avihm. |
 | Gozak |  |  | Gozak is a town in the region's east, secluded by a wall and moat from the dangers of the forest outside. Its buildings are composed of mostly quartz and dark oak wood, with unique, curved roofs. Historically, Gozak has been the regional center of power, being the capital city of the Gozaki Union. |
 | Insohmic Research Center |  |  | A fortress atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology and history. Even today, the facility continues to be worked in by scientists and patrolled by mercenary guards. |
-| Rhaverik Inn & Trading Post |  |  |  |
-| Ruins of Kazzani |  |  |  |
+| Rhaverik Inn & Trading Post |  |  | Rhaverik Inn & Trading Post is located on the road outside the former town of Rhaverik. It consists of a walled market and a lodge. The market's vendors are all part of a trading puzzle, in which one _____ is initially purchased for 12 emeralds at the ____, which must be traded at the ____ for a ____, and so on until until the player obtains an item that can be traded for a runic catalyst at the ____. |
+| Ruins of Kazzani |  |  | Kazzani was a town on the south edge of the North Heartwood in the Second Avihm. It was the hometown of  |
 | Ruins of Rhaverik |  |  |  |
 | Underwood |  |  |  |

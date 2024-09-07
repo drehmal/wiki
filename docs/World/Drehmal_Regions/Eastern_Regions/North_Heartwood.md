@@ -38,9 +38,9 @@ The North Heartwood's Terminus tower is situated on elevated ground in the regio
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Castle Scarstone |  |  |  |
-| Gozak |  |  |  |
-| Insohmic Research Center |  |  |  |
+| Castle Scarstone |  |  | Castle Scarstone is a ruined castle in the mountains east of the North Heartwood. It was originally used by the Insohmic Coalition as a military base during the [[Battle for Drehmal]], but it fell out of use after the Order of Insohm dissolved. Today, the ruins are scavenged by [[Mihkmari]]. An immense cavern in the mountains beneath the castle conceals a mysterious pyramid from the First Avihm. |
+| Gozak |  |  | Gozak is a town in the region's east, secluded by a wall and moat from the dangers of the forest outside. Its buildings are composed of mostly quartz and dark oak wood, with unique, curved roofs. Historically, Gozak has been the regional center of power, being the capital city of the Gozaki Union. |
+| Insohmic Research Center |  |  | A fortress atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology and history. Even today, the facility continues to be worked in by scientists and patrolled by mercenary guards. |
 | Rhaverik Inn & Trading Post |  |  |  |
 | Ruins of Kazzani |  |  |  |
 | Ruins of Rhaverik |  |  |  |

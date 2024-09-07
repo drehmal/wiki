@@ -1,39 +1,39 @@
----
-tags:
-  - Locations
-  - Regions
-  - Eastern Regions
----
-
-# The Heartwood
+# North Heartwood
 
 ![[Heartwood1.webp]]{ align=right width="300" }
 
+The North Heartwood is a region in central-eastern [[Drehmal (Place)|Drehmal]], and the northern part of the greater Heartwood region. As its name suggests, its landscape is densely forested, to the point where the shade allows mobs to spawn at all times in most places.
+
 ## Geography
 
-The Heartwood is the thickest and largest forest in Drehmal, the region is split into 3 main parts. The Lesser Heartwood to the north, where rivers flow through the region, the Greater Heartwood south of the Lesser Heartwood, and the Heartwood exclave, which is a part of the Heartwood disconnected from the rest of the region with prismarine cliffs and caverns instead of the normal stone.
+The North Heartwood stretches from the eastern shores of the Mouth of Drehmal to the Nahynaga Mountains, Verdant Mountains and Eye of Vir to the east. The Nahynaga Range forms a boundary between this region and the [[Spearhead Forest]], and the [[Verdant Labyrinth]] provides a means of reaching the [[Black Jungle]] on its far side through the Verdant Mountains. The region also borders the [[South Heartwood]] to the south, [[Purity Peaks]] to the north and [[Capital Valley]] to the northwest.
 
-Regions bordering The Heartwood include:
+The North Heartwood's environment is relatively uniform. Nearly the entire region is covered in thick dark oak forest (with varying levels of density), also populated by tree-sized mushrooms with white stems and red, orange and yellow caps. A few oak and birch trees are also present. The typical trees that are found throughout the region are short and broad, with drooping foliage. The terrain is dominated by many plateaus, and purple or brown cliffs and rocks. A small section of land in the region's southeastern corner, on the coast of the Eye of Vir, consists of grassland and small patches of woods. Sand beaches can also be found across the region's coasts.
 
-- [[Capital Valley]]
-- [[Purity Peaks]]
-- The [[Verdant Labyrinth]]
-- [[Mael's Desolation]]
-
-## Notable Locations
-
-- The village of [[Gozak]]
-- The [[Underwood]]
-- [[Castle Scarstone]]
-
-<figure markdown>
-  ![[Heartwood2.webp]]{ width="500" }
-  <figcaption>The Heartwood tower stands prominently from the surrounding vegetation.</figcaption>
-</figure>
-
-## In the Lore 
-
-> This forest is a thick collection of hardy trees that grow wildly. These trees are very difficult to maneuver around and have come to encompass a huge region. Most of the area remains unexplored because of the dense canopy and the difficulty of traversal. The people that inhabit this area, the Gozaki, have long struggled with the never ending growth. Eventually they began constructing out of the tree’s strong roots because the stone they used to build became embedded with them. There are two sides to the people of the Heartwood; those that wish to become more intune with the nature around them and embrace it, while others wish to try and develop a method of halting the growth. They primarily serve Virtuo and Drehmal, though the worship of Lahrs, the Aspect of Growth, is also common. The Gozaki are said to hate Maelihs more than all, because of the crimes he has committed against them.
+The North Heartwood is home to the [[Drehmal]]-worshiping town of [[Gozak]] in the eastern forest.
 
 ## History
 
+In the Second Avihm, several different kingdoms emerged in the Heartwood. One of these was the [[Gozaki Union]] (centered in Gozak), which was likely formed as a result of multiple states merging, as implied by its name. The [[Tidal Dynasty]] clashed with the Gozaki Union and seized some of its territory. Soon, the rest of the North Heartwood came under [[Empire of Avsohm|Avsohmic]] rule.
+
+After the [[fall of Avsohm|Fall of Avsohm]], the Gozaki Union and other kingdoms were revived. Gozak joined the [[Order of Insohm]] in its early years, and fought with the loyalists in the [[Insohmic Civil War]].
+
+## Regional Map
+
+**Map of the North Heartwood (sold by [[Adventuring Merchant]] in Gozak):**
+
+## [[Terminus Network|Terminus]] Tower
+
+The North Heartwood's Terminus tower is situated on elevated ground in the region's center, protruding from the forest below with giant vines wrapping around it. There are no hostile entities present.
+
+## Points of Interest
+
+| POI | Image | Coordinates | Description |
+|-|-|-|-|
+| Castle Scarstone |  |  |  |
+| Gozak |  |  |  |
+| Insohmic Research Center |  |  |  |
+| Rhaverik Inn & Trading Post |  |  |  |
+| Ruins of Kazzani |  |  |  |
+| Ruins of Rhaverik |  |  |  |
+| Underwood |  |  |  |

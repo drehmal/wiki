@@ -18,15 +18,15 @@ Many La'Tehrmari did not enjoy staying on Drehmal, and the [[Scalebound]] eventu
 
 ## [[Terminus Network|Terminus]] Tower
 
-Coordinates: X: 2040, Y: 116, Z: 606
-
 Purity Peak's Terminus tower is located in a small swampy patch in the region's center. Its lower half is ringed by a quartz structure, atop which is a pressure plate that gives the player levitation 5 for 7 seconds, allowing for an easy ascent to the top. There are no hostile entities present.
+
+**Coordinates:** (X: 2040, Y: 116, Z: 606)
 
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |
 |-|-|-|-|
-| Abandoned Tehrmian Village |  |  |  |
-| [[Hevhlak]] |  |  |  |
-| Scalebound Monastery |  |  |  |
+| Abandoned Tehrmian Village |  |  | A dilapidated village in the region's northeast corner, in the shadow of the Nahynaga mountains, was once home to a thriving community that was frequented by Tehrmari. It now lays empty. |
+| [[Hevhlak]] |  |  | Hevhlak is a town populated by Ro'Tehrmari in central Purity Peaks. Its residents worship [[Dahroehl]], Aspect of Freshwater. Its buildings consist of quartz and smooth stone, with slightly curved, birch wood roofs. |
+| Scalebound Monastery |  |  | A pale stone temple and living quarters sit high in the Nahynaga Mountains northeast of Purity Peaks. It once housed many La'Tehrmari pilgrims and Wingmakers, and was used for transporation between Drehmal and Lo'Dahr. Today, with the now-optional task of visiting Drehmal being unpopular for Tehrmari, its connection to Lo'Dahr is severed and the monastery is only home to a limited number of Scalebound Priests. |
 | Sal'Mevir |  |  |  |

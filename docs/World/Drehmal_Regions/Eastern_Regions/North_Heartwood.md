@@ -34,6 +34,8 @@ By the Fourth Avihm, the only kingdom remaining in the North Heartwood was Gozak
 
 The North Heartwood's Terminus tower is situated on elevated ground in the region's center, protruding from the forest below with giant vines wrapping around it. There are no hostile entities present.
 
+**Coordinates:** (X: 1706, Y; 232, Z: 2370)
+
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |

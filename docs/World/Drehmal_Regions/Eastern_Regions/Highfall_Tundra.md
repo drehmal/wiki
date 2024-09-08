@@ -21,7 +21,7 @@ Highfall Tundra is home to the city of Highfall. Worship of [[Virtuo]] is the mo
 
 [...]
 
-The Kingdom of Highfall joined the [[Order of Insohm]], however they were discontented with the alliance's conditions and fought in the [[Insohmic Civil War]] to secede and form a separate alliance with [[Kingdom of Dusps|Dusps]] and the remaining [[Faehrcyle|Faehrcylian]] tribes. Highfall capitulated after a siege of their capital, and the separatists ultimately lost the war, meaning the kingdom was forced to stay in the Order. The Kingdom of Highfall would go on to fight with the Insohmic Coalition in the lengthy [[Battle for Drehmal]], and
+The Kingdom of Highfall joined the [[Order of Insohm]], however they were discontented with the alliance's conditions, and fought in the [[Insohmic Civil War]] to secede. The separatists ultimately lost the war, meaning the kingdom was forced to stay in the Order. The Kingdom of Highfall would go on to fight with the Insohmic Coalition in the lengthy [[Battle for Drehmal]], before Insohm's fall. The kingdom still rules in the Fourth Avihm.
 
 ## Regional Map
 

@@ -24,6 +24,8 @@ Grand Pike Canyon was also likely incorporated into the Provinces of Vir in the 
 
 Grand Pike's Terminus tower is located in the region's north. The majority of the tower is encased in a stepped-cone-shaped stone building, the interior of which contains urns, piles of bones and hostile "Grave Wardens". Two spiral staircases lead from the top of the building to the top of the tower.
 
+**Coordinates:** (X: 3855, Y: 120, Z: -676)
+
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |

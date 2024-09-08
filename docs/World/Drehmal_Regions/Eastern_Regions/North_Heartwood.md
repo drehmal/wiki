@@ -1,6 +1,6 @@
 # North Heartwood
 
-![[Heartwood1.webp]]{ align=right width="300" }
+![[North_Heartwood.png]]{ align=right width="300" }
 
 The North Heartwood is a region in central-eastern [[Drehmal (Place)|Drehmal]], and the northern part of the greater Heartwood region. As its name suggests, its landscape is densely forested, to the point where the shade allows mobs to spawn at all times in most places.
 

@@ -123,13 +123,28 @@ Advancements are sorted into one of six (6) categories:
     | **Apotheosis**                     | *You find yourself among the gods of this realm. — Ascended to Lo'Dahr*                                             | Root Node (Reach Lo'Dahr) |
 
 ### ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="36" } Post-75% Area 
+This section contains 15 advancements, all related to exploration and specific gameplay feats in the [area unlocked](Lo'Dahr.md) at the 75% completion event.
 
 ??? example "**75% Area Advancements** (MAJOR LATE-GAME SPOILERS)"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | **Lo'Dahr**                        |  *Our dragons came from the moon!*                                                          | Root Node (Reach Lo'Dahr)                |
+    | A Gentle Slaughter                 |  Harvest slate from a Tremorlith                                                            | Harvest slate from a Tremorlith, found in [[Nahyn's Domain]], using a pickaxe enchanted with Silk Touch.  |
+    | A Throwaway Joke                   |  Throw a trident at something. Note: Throwing away your only weapon is not a good idea.     | Throw a trident at something (Vanilla).  |
+    | Very Very Frightening              |  Strike a villager with lightning                                                           | Throw a Channeling trident at a villager in a thunderstorm (Vanilla). |
+    | One Small Step                     |  Trek into the Lunar Wastes                                                                 | Step into the Lunar Wastes, outside the breathable boundary of Lo'Dahr. |
+    | Breath Holding Champion            |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
+    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter.md) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
+    | Local Traditions                   |  Receive a gift during the Day of Patronage                                                 | Visit [[Naharja]] on a Day of Patronage, and receive a present from a villager.  |
+    | Glimpse Into the Cosmos            |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of [[Aldregakar]]. |
+    | Invasive Species                   |  Recall a horse to Lo'Dahr                                                                  | Use Warp Horse to summon a horse to Lo'Dahr.  |
+    | Crazy Dragon Lady                  |  Tame every Pseudodragon variety                                                            | Tame all 5 Pseudodragon (Parrot) varieties found across Lo'Dahr. |
+    | The Sky Is Falling!                |  Find a fallen meteorite                                                                    | Approach a fallen piece of celestial debris.       |
+    | Stellar Refuse                     |  Obtain Celestial Debris                                                                    | Obtain celestial debris (ancient debris).                |
+    | Cover Me in Starstuff              |  Get a full suit of Celestial Armor                                                         | Obtain a full suit (Helmet, Chestplate, Leggings, Boots) of celestial (netherite) armor. |
+    | Catching Stars                     |  Be hit by a falling meteoroid                                                              | Be hit by a falling piece of celestial debris on Lo'Dahr. |
+    | Bundled Up                         |  Withstand the chill of a Freorig                                                           | Related to the Freorigs, golem-like mobs found in [[Loe's Domain]]. |
    
-
 ## END-GAME SPOILERS: Primordial, ???
 
 --8<-- "postyav_spoiler.md"

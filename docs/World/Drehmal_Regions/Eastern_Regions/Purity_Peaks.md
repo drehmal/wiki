@@ -6,7 +6,7 @@ Purity Peaks is a grassy, lightly-wooded region in central-east [[Drehmal (Place
 
 ## Geography
 
-Purity Peaks is located between the central plains ([[Capital Valley]] and the [[Gulf of Drehmal]] region) to the west and the Nahynaga mountains to the east, which separates the region from [[Spearhead Forest]]. It also borders [[Akhlo'Rohma]] to the north and the [[North Heartwood]] to the south.
+Purity Peaks is located between the Central Plains ([[Capital Valley]] and the [[Gulf of Drehmal]] region) to the west and the Nahynaga mountains to the east, which separates the region from [[Spearhead Forest]]. It also borders [[Akhlo'Rohma]] to the north and the [[North Heartwood]] to the south.
 
 Purity Peaks is recognizable for the isolated pure white crags that can be found scattered throughout the region. Stone of the same color can be found in the region's small cliffs. The landscape consists of plains and woods, the trees being birch and oak, as well as spruce at the base of the mountains in the east. The region is also filled with lakes and rivers.
 

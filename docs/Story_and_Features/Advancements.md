@@ -97,6 +97,7 @@ Advancements are sorted into one of six (6) categories:
     | The Mythbreaker             | Recipe for Mythbreaker, a gift to commemorate Nothing, unlocked.                            | Find the "true" [[Mythbreaker]] |
     
 ### ![Compass](/assets/img/adv/compass.webp){ width="36" } Discoveries 
+This section contains the 57 advancements contained in the bottom three root nodes of the "Discoveries" tab (11 in Devotion, 14 in Civilization, and 32 in Landmarks). Each of these advancements is given upon first entering its associated area.
 
 ??? warning "**Discoveries:** *Landmarks* (Significant Exploration Spoilers, Moderate Story Spoilers) - *These places are rich with history, what secrets might they hold?*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
@@ -109,6 +110,20 @@ Advancements are sorted into one of six (6) categories:
 ??? warning "**Discoveries:** *Civilization* (Moderate Exploration Spoilers) - *The age of grand empires and kingdoms within Drehmal has long passed. Now only few towns and cities remain.*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
+    | Children of Drehmal                | All Drehmari are welcome here. Stay and rest, tomorrow can wait. - Discovered Drabyel       | Enter [New Drabyel](Drabyel.md)          |
+    | Jewel of Casai                     | Once an important trade port, thanks to their now-dysfunctional Teleportation Pier. - Discovered Athrah | Enter [[Athrah]].            |
+    | The Painted City                   | The proud peoples of Akhlo'Rohma call this diverse hilltop city the center of all creation. - Discovered Dusps | Enter [[Dusps]].      | 
+    | Children of Mael                   | Perhaps one day they will break free from the chains Maelihs has put upon them. - Discovered Ebonrun | Enter [[Ebonrun]].              |
+    | City of Tides                      | Once ruled by a tyrannical Tide Queen, the most populous city in East Drehmal thrives despite its violent past and an uncertain future. - Discovered Firteid | Enter [[Firteid]]. |
+    | People of the Heartwood            | Once proud guardians of the forest, they now hide away after half of it was destroyed. - Discovered Gozak | Enter [[Gozak]].           |
+    | Impoverished Nobles                | Highfall was once exceptionally wealthy, but now trade has ceased and the once-noble people have fallen to poverty. - Discovered Highfall | Enter [[Highfall]]. |
+    | Village of Autumn                  | Merijool used to be a jungle, but with the Frostfang Catastrophe it slowly changed into an autumnal forest. - Discovered Okeke | Enter [[Okeke]]. |
+    | Village of Three Moons             | Lorahn'Kahl was once home to the Tri-Moon Theocracy, a cult-kingdom of jungle necromancers. This village was established long after their fall. - Discovered Mohta | Enter [[Mohta]]. |
+    | Children of Virtuo                 | Everything in the East is under the protection of Virtuo and her angelic Virmari. - Discovered New Mossfield | Enter [[Mossfield]].    |
+    | The Old Guard                      | Multiple ancient civilizations have held this ancient castle-town as a perpetual reminder to the world that Maelihs will never rule all of Drehmal. - Discovered Fort Nimahj | Enter [[Fort Nimahj]]. |
+    | The Forgotten City                 | The island of Sahd was wiped from history by Firteid's Tide-Queen, leaving them in isolation for hundreds of years. - Discovered New Sahd | Enter [[New Sahd]]. |
+    | WUPOM (Wealthy Under Protection of Mael) | They believe themselves to be under 'protection' of Maelihs. How naive. - Discovered Tharxax City | Enter [[Tharxax City]].      |
+    | City of Chaos                      | The more "civilized" and "intelligent" Maelmari call this place their home. How despicable. - Discovered Rhaveloth | Enter [[Rhaveloth]]. |
 
 ## POST-75% COMPLETION SPOILERS: Discoveries, [REDACTED]
 
@@ -202,7 +217,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | No Fear                            |  You have been the last dream of my soul. - Incurred the wrath of Khive                     | Began the Mythbreaker Run by charging the [[Mythbreaker]] at the [[Numencore]].     |
     | At the Mountain of Madness         |  Here you will find only Nothing. - Entered Mt. Yavhlix                                     | Opened the door to Mt. Yavhlix and entered the [[Primary Energy Collection Facility]].     |
     | Once More into the Breach          |  At last, it is time to face your fears. - Forced your way into the Nothing                 | Enter the Nothing from the tear in Mt. Yavhlix.         |
-    | Free the Ever-Fear                 |  You freed him from a fate worse than death. - Slew Tethlaen, Lost to Nothing               | Defeated [[Tethlaen]] in the Nothing.                   |
+    | Free the Ever-Fear                 |  You freed him from a fate worse than death. - Slew Tethlaen, Lost to Nothing               | Defeat [[Tethlaen]] in the Nothing.                   |
     | Alchemy Central                    |  The Sun Always Rises - Discovered Azimuth Labs, former headquarters of Red Dawn            | Enter [[Azimuth Labs]].     |
     | Rites of Ascension                 |  In pursuit of divinity, one must first be willing to sacrifice everything. - Found the God Machine  | Discover the God Machine deep within [[Azimuth Labs]]. |
     | The Resonant Halls                 |  The emptiness in your soul feels strongest here. - Discovered the innermost halls of Mt. Yavhlix  | Enter the [[Resonant Halls]].     |

@@ -34,8 +34,7 @@ Advancements are sorted into one of six (6) categories:
 
 ### ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="36" } Fabled Equipment 
 
-??? warning "Fabled Equipment: Legendary Weapons"
-    Root Node: Legendary Weapons - "*Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*" <br>
+??? warning "Fabled Equipment: Legendary Weapons - "*Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*"
     |    **Advancement**          | **Description**                                                                             | **Obtainment Method**                    |
     |:---------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Masayoshi                   | Recipe for Masayoshi, the deceased Tide Queen's ancient blade, unlocked.                    | Find [[Masayoshi]]                       |
@@ -117,16 +116,19 @@ Advancements are sorted into one of six (6) categories:
 
 ### ![Compass](/assets/img/adv/compass.webp){ width="36" } Discoveries (Post-75%)
 
-??? warning "Discoveries: Apotheosis (Post-75% Area Exploration Spoilers) - *You find yourself among the gods of this realm. — Ascended to Lo'Dahr*"
+??? warning "Discoveries: Apotheosis (Post-75% Area Exploration Spoilers)"
     |     **Advancement**                | **Description**                                                                             | **Obtainment Method**                    |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Distant Lights[^1]                 | A thriving city of trade, leisure, and worship is the beating heart of the most isolated civilization in the realm. | Find [[Naharja]] |
+    | **Apotheosis**                     | *You find yourself among the gods of this realm. — Ascended to Lo'Dahr*                                             | Root Node (Reach Lo'Dahr) |
 
 ### ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="36" } Post-75% Area 
 
-??? example "75% Area Advancements (MAJOR LATE-GAME SPOILERS) - *Our dragons came from the moon!*"
+??? example "75% Area Advancements (MAJOR LATE-GAME SPOILERS)"
     |     **Advancement**                | **Description**                                                                             | **Obtainment Method**                    |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
+    | **Lo'Dahr**                        |  *Our dragons came from the moon!*                                                          | Root Node (Reach Lo'Dahr)                |
+   
 
 ## END-GAME SPOILERS: Primordial, ???
 

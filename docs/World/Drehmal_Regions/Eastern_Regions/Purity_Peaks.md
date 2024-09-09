@@ -1,5 +1,7 @@
 # Purity Peaks
 
+![[Purity_Peaks.png]]{ align=right width="300" }
+
 Purity Peaks is a region in central-east [[Drehmal (Place)|Drehmal]]. The region is littered with pointed white crags, hence its name.
 
 ## Geography

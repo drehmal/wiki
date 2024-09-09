@@ -19,6 +19,8 @@ Advancements are sorted into one of six (6) categories:
 - ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="24" }**[REDACTED]:** Advancements from exploration and gameplay in a late-game area unlocked in the 75% completion event. <br>
 - ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - Secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.
 
+**_Advancements written in bold and italics_** are initially hidden.
+
 ## ![Scale](/assets/img/adv/scale.png){ width="36" } Spoiler-Free: Drehmal (Vanilla Advancements) 
 
 ??? warning "Drehmal"
@@ -133,23 +135,27 @@ This section contains 15 advancements, all related to exploration and specific g
     | A Throwaway Joke                   |  Throw a trident at something. Note: Throwing away your only weapon is not a good idea.     | Throw a trident at something (Vanilla).  |
     | Very Very Frightening              |  Strike a villager with lightning                                                           | Throw a Channeling trident at a villager in a thunderstorm (Vanilla). |
     | One Small Step                     |  Trek into the Lunar Wastes                                                                 | Step into the Lunar Wastes, outside the breathable boundary of Lo'Dahr. |
-    | Breath Holding Champion            |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
+    | **_Breath Holding Champion_**      |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
     | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter.md) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
     | Local Traditions                   |  Receive a gift during the Day of Patronage                                                 | Visit [[Naharja]] on a Day of Patronage, and receive a present from a villager.  |
-    | Glimpse Into the Cosmos            |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of [[Aldregakar]]. |
+    | **_Glimpse Into the Cosmos_**      |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of [[Aldregakar]]. |
     | Invasive Species                   |  Recall a horse to Lo'Dahr                                                                  | Use Warp Horse to summon a horse to Lo'Dahr.  |
     | Crazy Dragon Lady                  |  Tame every Pseudodragon variety                                                            | Tame all 5 Pseudodragon (Parrot) varieties found across Lo'Dahr. |
     | The Sky Is Falling!                |  Find a fallen meteorite                                                                    | Approach a fallen piece of celestial debris.       |
     | Stellar Refuse                     |  Obtain Celestial Debris                                                                    | Obtain celestial debris (ancient debris).                |
-    | Cover Me in Starstuff              |  Get a full suit of Celestial Armor                                                         | Obtain a full suit (Helmet, Chestplate, Leggings, Boots) of celestial (netherite) armor. |
-    | Catching Stars                     |  Be hit by a falling meteoroid                                                              | Be hit by a falling piece of celestial debris on Lo'Dahr. |
+    | **_Cover Me in Starstuff_**        |  Get a full suit of Celestial Armor                                                         | Obtain a full suit (Helmet, Chestplate, Leggings, Boots) of celestial (netherite) armor. |
+    | **_Catching Stars_**               |  Be hit by a falling meteoroid                                                              | Be hit by a falling piece of celestial debris on Lo'Dahr. |
     | Bundled Up                         |  Withstand the chill of a Freorig                                                           | Related to the Freorigs, golem-like mobs found in [[Loe's Domain]]. |
+    | REMOVED ADVANCEMENTS               | \* The following two advancements were in the 1.17 version of Drehmal: Apotheosis, but are not present in the current patch. | |
+    | **_Otherworldly Expedition_**      | Explore every Aspect Domain                                                                 | Explore all 15 Aspect Domains on Lo'Dahr. |
+    | **_Now You're Thinking With..._**  | Find all Lo'Dahr Portals                                                                    | Find all 12 portals between Lo'Dahr and Drehmal (6, each with one portal in each dimension). |
    
 ## END-GAME SPOILERS: Primordial, ???
 
 --8<-- "postyav_spoiler.md"
 
 ### ![Oculus](/assets/img/oculus_of_nothing.png){ width="36" } Primordial: Story Advancements
+This section contains the 29 advancements tied to the main story of Drehmal: Apotheosis.
 
 ??? danger "**Primordial**: Story Advancements (FULL SPOILERS THROUGH END-GAME) - *This realm cries out to your soul. What will you discover within?*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
@@ -157,7 +163,7 @@ This section contains 15 advancements, all related to exploration and specific g
     | Rude Awakening                     |  Did you dream of anything nice? - Emerged from Temporal Stasis                             | Emerge from the [[Stasis Facility]] to the surface.     |
     | Place Between Places               |  You feel like your atoms weren't properly rearranged. Oh well. - Entered the Terminus      | Enter the [Terminus](Terminus_Network.md) for the first time.   |
     | Information Galore                 |  A wellspring of knowledge, all for yourself! Seems like there's room for it to grow as well. - Uncovered the Repository | Enter the [[Av'Sal Repository]].   |
-    | Completed Codex                    |  Knowledge unbound! - Complete the Repository beneath Av'Sal                                | Fully uncover [all 12 repository holotexts](/Story_and_Features/Holotexts/Av%27Sal_Repository/Repository_Entries/) by reading all holotexts. This is not attainable until the end-game. |
+    | **_Completed Codex_**              |  Knowledge unbound! - Complete the Repository beneath Av'Sal                                | Fully uncover [all 12 repository holotexts](/Story_and_Features/Holotexts/Av%27Sal_Repository/Repository_Entries/) by reading all holotexts. This is not attainable until the end-game. |
     | Scientific Progress                |  avSYS has requested your presence at an "Ancillary Research Facility". - Restored Network Linkage to 25%. | Awarded upon reaching 25% linkage.       |
     | Timelord                           |  Wibbly-wobbly timey-wimey... stuff. - Exploited the Temporal Engine                        | Solve the main puzzle at [[Sal'Mevir]].                 |
     | Left Blade Fragment                |  The cutting edge of this half-spearhead slices through tough canvas on contact. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade.   | Claim the Left Blade Fragment at [[Sal'Mevir]].  |
@@ -185,6 +191,8 @@ This section contains 15 advancements, all related to exploration and specific g
     | Closure                            |  There is nothing left. - Paid your dues at the Final Grave                                 | Complete the story at the [[True End]].     |
 
 ### ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="36" } Secret Advancements
+This section contains the 7 advancements on the secret tab.
+
 ??? danger "???: **Secret Advancements** (FULL END-GAME SPOILERS) - *Achievements for those who display a great understanding of Drehmal and mastery over the realm.*"
     |     **Advancement**                | **Description/Requirement**                                                                             |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------------------|

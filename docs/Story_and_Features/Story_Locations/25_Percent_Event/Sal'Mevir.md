@@ -1,4 +1,4 @@
-# Sal'Mevir
+# Sal'Mevir (Ancillary Research Facility)
 
 --8<-- "under_construction.md"
 
@@ -6,72 +6,55 @@
 
 --8<-- "25_spoiler.md"
 
-**Sal'Mevir**
-
-## Story 
-
-## Gameplay
-
-## Original Writing
-
-## Lore
-
-## Extras
-
-
----
-tags:
-  - Locations
-  - Story Locations
----
-
---8<-- "spoiler.md"
-
-# Sal'Mevir
-
 ![[Salmevir.webp]]{ align=right width="300" }
 
-**Sal'Mevir**, also known as the **Ancillary Research Facility**, was an Avsohmic research station in the [[Purity Peaks]] Region. Most of the facility is able to be explored if one finds it prior to the player's presence being requested by [[avSYS]], but the highest room with [[Items#Avsohm'Kohl]] is locked until one links 25% of the towers of [[The Terminus]]. At this level of linkage, avSYS will request the player's presence at Sal'Mevir and issue one coordinates leading there. The facility has many detailing scientists experiments with primal energy.
+**Sal'Mevir**, also referred to as the **Ancillary Research Facility**, is the location of the 25% completion event in Drehmal: Apotheosis. Situated in the southeast of the [[Purity Peaks]] region along the mountains, it can be located by following the compass given to the player by [[avSYS]] upon reaching 25% linkage. It can be found before the 25% mark, but its holotext database will not be legible until this benchmark is reached.
 
-| Approximate Coordinates & Advancement                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| X X X                                                                                                                               |
-| Arriving at Sal'Mevir grants the "Temporal Ruins" [advancement](/Advancements). |
+The site itself was once a location for Avsohmic research into temporal stasis that housed multiple pertinent historical figures, but like the rest of Avsohm, the structure has largely fallen to ruin. 
 
-## Chests and Loot
+The location is home to several pieces of writing that serve to further the player's understanding of the story, a puzzle mechanic unique to the location, a legendary item, and a fragment of the [[Mythbreaker]].
 
-| **Coordinates ** | **Loot **                                                                                                                                                                      |
-| :--------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2355, 124, 1081  | 2x Emerald <br>2x Sea Lantern (*Defective Primal Catalyst*) <br>1x Chiseled Quartz Block <br>1x Book and Quill ([[Av2 1621 - Notes on Survey Drones]])                               |
-| 2377, 123, 1084  | 5x Emerald <br>8x Arrow <br>1x Saddle <br>7x White Concrete <br>3x Bottle o' Enchanting <br>1x Bow                                                                             |
-| 2308, 149, 1164  | 1x Emerald <br>3x Smooth Quartz Block <br>2x Iron Ingot <br>1x Phantom Membrane <br>1x Book and Quill ([[Av2 1631 - New Energy Source]])                                          |
-| 2392, 145, 1147  | 1x Emerald <br>3x Iron Ingot <br>11x Block of Quartz <br>1x Sea Lantern (*Defective Primal Catalyst*) <br>1x Book and Quill ([[Av2 1640 - New Weaponry]])                            |
-| 2392, 162, 1172  | 2x Emerald <br>19x Quartz Pillar <br>1x Iron Nugget <br>1x Book and Quill ([[Vehmil's Journal]])                                                                                   |
-| 2389, 145, 1183  | 3x Emerald <br>2x Iron Ingot <br>18x Smooth Quartz Block <br>1x Sea Lantern (*Defective Primal Catalyst*) <br>1x Phantom Membrane <br>1x Book and Quill ([[Av2 1632 - Incredible!]]) |
-| 2444, 145, 1173  | 2x Emerald <br>4x Phantom Membrane <br>3x Sea Lantern (*Defective Primal Catalyst*) <br>16x Chiseled Quartz Block <br>1x Book and Quill ([[Av2 1647 - Frostfang Catastrophe]])       |
-| 2442, 163, 1163  | 2x Emerald <br>8x Smooth Quartz Block <br>2x Sea Lantern (*Defective Primal Catalyst*) <br>1x Book and Quill ([[Av2 1690 - Construction Halted]])                                    |
-| 2395, 181, 1265  | 3x Emerald <br>6x Iron Nugget <br>13x Quartz Bricks <br>1x Book and Quill ([[Av2 1617 - City of Wisdom]])                                                                          |
-| 2496, 146, 1153  | 1x Emerald <br>10x Block of Quartz <br>4x Phantom Membrane <br>2x Sea Lantern (*Defective Primal Catalyst*) <br>1x Book and Quill ([[Av1695 - Emperor Ifeihl]])                      |
-| 2499, 144, 1153  | 1x Emerald <br>2x Iron Ingot <br>4x Chiseled Quartz Block <br>1x Book and Quill ([[Av2 1675 - Top Secret]])                                                                        |
-| 2587, 229, 1208  | 2x Emerald <br>12x Smooth Quartz Block <br>1x Iron Nugget <br>2x Phantom Membrane <br>1x Book and Quill ([[Avsohmic Hi-Tech Glider]])                                              |
+## Story 
+Upon reaching 25% network linkage (8 towers), the player will be prompted by [[avSYS]] to enter the Terminus' compass dispensary, where they will be given a lodestone compass that points towards Sal'Mevir. 
 
-> An Item Frame near the chest at **2587, 229, 1208** contains the legendary item **[[Legendary Items#Avsohm'Kohl]]**.
+At the facility, the player must navigate through the broken ruins of the facility, with the option to read holotexts to further their understanding of the world's history, as well as solve the main puzzle of the facility (see below section). 
+
+Sal'Mevir contains some of the earliest mentions of the [[Primary Energy Collection Facility]], hinting at a highly pertinent location later in the story, as well as offering a deeper look into some of Avsohm's most useful inventions, such as the survey drones they used to discover [[Mt. Yavhlix]].
+
+The facility is also home to a large, hourglass-like strucutre known as the **Temporal Engine**, which appears to have some degree of control over time itself.
+
+After solving the location's main puzzle and gaining access to the large, domed building at the top of the site, the player recovers the left half of the [[Mythbreaker]], as well as the [[Avsohm'Kohl]] legendary wings.
+
+## Gameplay
+Sal'Mevir relies, perhaps more than any other Avsohmic facility, on levitation/slow-falling elevators, with the facility essentially being a large series of towers interconnected by bridges. Several of these bridges are broken and fragmented, but in the theme of the facility, they are frozen in time, allowing the player to traverse Sal'Mevir by freely jumping across them.
+
+Multiple custom types of enemies can be found at Sal'Mevir. Nameless humanoid guards wearing iron armor are commonplace in the facility, and they can drop iron armor or their heads on death. Re-skinned baby zombies named "Entropic Sycophants" come from a few scattered spawners, and can drop primal pearls on death.
+
+The facility's main puzzle revolves around the large domed building at the top of the facility, which appears to contain something important but is inaccessible to the player. Part of the dome appears eroded, but is blocked off by condensed veilstone (bedrock). [[salmevir_pearl.md|One holotext in particular]] provides a significant hint towards the solution to this puzzle.
+
+??? warning "Puzzle Hint"
+    This holotext references primal pearls (ender pearls), and wonders what might happen if someone threw one into the Temporal Engine. If the player throws a pearl into the center of the engine, they will be transported into an alternate version of Sal'Mevir, where the structure seems to have broken down even further. A ticking timer can be heard in the background, indicating to the player that they only have a certain amount of time to solve the puzzle, and at the end of the timer, the player will be transported back to the original version of Sal'Mevir.
+
+![[salmevir_temporal_engine.png]]
+> Sal'Mevir's temporal engine.
+
+??? warning "Puzzle Solution"
+    While in the alternate Sal'Mevir, the exposed bedrock on the large domed building is no longer present. The player must navigate up to this building within the allotted time, and be inside the building when the timer expires, transporting them into the building in the regular version of Sal'Mevir.
+
+After gaining entry to the large building, the player will gain the "Timelord" advancement. A lever near the door will open the bedrock seal, and the Mythbreaker fragment can be acquired from the nearby platform. Up two sets of stairs, the player can read about and obtain (behind a glass pane) the [[Avsohm'Kohl]] legendary item.
+
+## Original Writing
+Sal'Mevir is home to [7 holotexts](/Story_and_Features/Holotexts/25_Percent_Area/)
+
+Four lore books can also be found in this location:
+- [[Ecological Disaster Report]] is a report on the [[Frostfang Catastrophe]], written by [[Zevve Kai]]. <br>
+- [[Sahndi's Diary]] contains the writings of a janitor at the facility who overheard a conversation about sensitive Avsohmic research projects, including mention of [[Mt. Yavhlix]]. <br>
+- [[Researcher Arlea's Discovery Log]] details the creation of the Temporal Engine, as well as the discoveries that led to the full construction of a DoS facility at Sal'Mevir. <br>
+- [[Researcher Noam's Rant]] is found in the large building, along with the Mythbreaker fragment.
 
 ## Lore
+Sal'Mevir was seemingly an active Avsohmic research site before it was fully commissioned by the [[DoS]], and appears to have been [[Thought-recording of Ekari, Number 1870|initially designed]] by the architect [[Ekari]].
 
-![[Salmevir2.webp]]{ align=right width="300" }
+At some point in the late second Avihm, a researcher named Arlea made a discovery that spurred Avsohm to fully convert the site into a government-run Ancillary Research Facility, placing specific emphasis on the research of runes with power over time. Combining the discoveries of Arlea with [[Baen Vehmil|Vehmil]] and [[Thresa Vera|Thresa]]'s stasis technology, this facility saw the creation of the first temporal stasis pod prototypes. Eventually, these were improved upon to the point that they saw use throughout the empire, predominantly at the [[Stasis Facility]] and in the punishment of criminals.
 
-The story of Sal'Mevir is relayed by the books it contains. These records outline the role Sal'Mevir played in the history of [[Mt. Yavhlix]].
-
-### A brief timeline
-
-- Sal'Mevir is founded sometime in Av2 around the year 1500 - 1600.
-- A false alarm of a powerful energy source is detected and brushed off around Av2 1540, the origin of which likely being [[Mt. Yavhlix]].
-- In Av2 1621 the Avsohmic Scientists create the first survey drones, constructed of pure rehntite, which are later used for scouting purposes.
-- In Av2 1631, a sample from a mining crew operating near [[Mt. Yavhlix]] is found to disprove the false alarm from around Av2 1540, showing the presence of a strong source of energy. Survey drones are immediately dispatched to investigate.
-- Upon further inspection and experimentation, in Av2 1632 the energy obtained a year before is proven to be exceptional, pushing the limits of what rehntite can do using the new power source. The true source of the mysterious energy is further beneath the mountain, and further investigation is sparked.
-- A new weapon using the new power source, now called _Primal Energy_ is constructed in Av2 1640. The weapon being a powered railgun, which has insane range, with enough raw destructive force to level entire cities.
-- In Av2 1647, the Frostfang Catastrophe occurs due to the skirmishing between the Frostfang Tribes of [[Faehrcyle]], this causes a continental shift in climate, turning [[Faehrcyle]] into an uninhabitable snowy wasteland, and also altering the climates of the [[Gulf of Drehmal]], [[Casai]], and [[Merijool]] . This creates an opportunity for the Avsohmic Empire to have full access to [[Mt. Yavhlix]], due to their advanced technology to withstand the climate, while the Frostfang Tribes migrate away to more livable lands.
-- In Av2 1675, the Avsohmic High Court makes leaking information about the operation in [[Mt. Yavhlix]] punishable by eternal imprisonment in Temporal Stasis. This is despite the fact that it is well known that the operation in [[Mt. Yavhlix]] is happening and its where the energy is coming from. Around this time rumors start to spread about people within going insane.
-- In Av2 1690, the Avsohmic Emperor halts the construction and mining operation in [[Faehrcyle]] and [[Mt. Yavhlix]].
-- In Av2 1695, Emperor Ifeihl resumes the operation in [[Mt. Yavhlix]], in search for more Primal Energy to use in weapons to go to war with Maelhis.
+Sal'Mevir was, at one point or another, home to several prominent Avsohmic figures, including [[Baen Vehmil]], [[Thresa Vera]], and [[Zevve Kai]]. The facility appears to have been considered one of Avsohm's most secure R&D locations, hence why it was trusted with a fragment of the [[Mythbreaker]]. 

@@ -34,7 +34,8 @@ Advancements are sorted into one of six (6) categories:
 
 ### ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="36" } Fabled Equipment 
 
-??? warning "Fabled Equipment: Legendary Weapons - *Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*"
+??? warning "Fabled Equipment: Legendary Weapons"
+    Root Node: Legendary Weapons - "*Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*" <br>
     |    **Advancement**          | **Description**                                                                             | **Obtainment Method**                    |
     |:---------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Masayoshi                   | Recipe for Masayoshi, the deceased Tide Queen's ancient blade, unlocked.                    | Find [[Masayoshi]]                       |

@@ -2,13 +2,13 @@
 
 --8<-- "under_construction.md"
 
-!!! warning "This list contains spoilers for the entirety of the map, including the whole main story and nearly every major point of interest."
+!!! warning "This list contains spoilers for the entirety of the map, including the whole main story, almost all unique items, and nearly every major point of interest."
 
 !!! warning "There are a particularly high number of spoilers for events taking place after the 75% story completion event."
 
 !!! warning "This article will be split into sections, based on the potential spoiler content of that advancement section."
 
-The Drehmal map adds many new advancements to the game that indicate points of interest, game mechanics or story progression. Vanilla Minecraft advancements are mostly present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs.
+The Drehmal map adds many new advancements to the game that indicate points of interest, game mechanics or story progression. Vanilla Minecraft advancements are mostly present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs appear in advancements as they do in Drehmal (for example, endermen are Primal Walkers).
 
 Advancements are sorted into one of six (6) categories:
 

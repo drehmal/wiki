@@ -8,7 +8,7 @@ Purity Peaks is a grassy, lightly-wooded region in central-east [[Drehmal (Place
 
 Purity Peaks is located between the Central Plains ([[Capital Valley]] and the [[Gulf of Drehmal]] region) to the west and the Nahynaga mountains to the east, the latter separating the region from [[Spearhead Forest]]. It also borders [[Akhlo'Rohma]] to the north and the [[North Heartwood]] to the south.
 
-Purity Peaks is recognizable for the isolated pure white crags that can be found scattered throughout the region. Stone of the same color makes up the region's small cliffs. The landscape consists of plains and woods, the trees being birch and oak, as well as spruce at the base of the mountains in the east. The region is also filled with lakes and rivers.
+Purity Peaks is recognizable for the isolated pure white crags that can be found scattered throughout the region. Stone of the same type makes up the region's small cliffs. The landscape consists of plains and woods, the trees being birch and oak, as well as spruce at the base of the mountains in the east. The region is also filled with lakes and rivers.
 
 Purity Peaks is home to the [[Dahroehl]]-worshiping [[Tehrmari|Ro'Tehrmari]] town of Hevhlak in the region's center.
 

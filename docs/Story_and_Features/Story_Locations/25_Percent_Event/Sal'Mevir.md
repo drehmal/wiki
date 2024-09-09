@@ -44,7 +44,7 @@ The facility's main puzzle revolves around the large domed building at the top o
 After gaining entry to the large building, the player will gain the "Timelord" advancement. A lever near the door will open the bedrock seal, and the Mythbreaker fragment can be acquired from the nearby platform. Up two sets of stairs, the player can read about and obtain (behind a glass pane) the [[Avsohm'Kohl]] legendary item.
 
 ## Original Writing
-Sal'Mevir is home to [7 holotexts](/Story_and_Features/Holotexts/25_Percent_Area/)
+Sal'Mevir is home to [7 holotexts](/Story_and_Features/Holotexts/25_Percent_Area/).
 
 Four lore books can also be found in this location: <br>
 - [[Ecological Disaster Report]] is a report on the [[Frostfang Catastrophe]], written by [[Zevve Kai]]. <br>
@@ -53,7 +53,7 @@ Four lore books can also be found in this location: <br>
 - [[Researcher Noam's Rant]] is found in the large building, along with the Mythbreaker fragment.
 
 ## Lore
-Sal'Mevir was seemingly an active Avsohmic research site before it was fully commissioned by the [[DoS]], and appears to have been [[Thought-recording of Ekari, Number 1870|initially designed]] by the architect [[Ekari]].
+Sal'Mevir was seemingly an active Avsohmic research site before it was fully commissioned by the [[DoS]], and appears to have been [[Thought-recording_of_Ekari,_Number_8710.md|initially designed]] by the architect [[Ekari]].
 
 At some point in the late second Avihm, a researcher named Arlea made a discovery that spurred Avsohm to fully convert the site into a government-run Ancillary Research Facility, placing specific emphasis on the research of runes with power over time. Combining the discoveries of Arlea with [[Baen Vehmil|Vehmil]] and [[Thresa Vera|Thresa]]'s stasis technology, this facility saw the creation of the first temporal stasis pod prototypes. Eventually, these were improved upon to the point that they saw use throughout the empire, predominantly at the [[Stasis Facility]] and in the punishment of criminals.
 

@@ -117,12 +117,32 @@ Advancements are sorted into one of six (6) categories:
 --8<-- "LD_spoiler.md"
 
 ### ![Compass](/assets/img/adv/compass.webp){ width="36" } Discoveries (Post-75%)
+This section contains the 21 advancements found in the Discoveries tab under the "Apotheosis" root, tied to the post-75% area.
 
 ??? warning "**Discoveries:** *Apotheosis* (POST-75% AREA EXPLORATION SPOILERS)"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Distant Lights[^1]                 | A thriving city of trade, leisure, and worship is the beating heart of the most isolated civilization in the realm. | Find [[Naharja]] |
     | **Apotheosis**                     | *You find yourself among the gods of this realm. — Ascended to Lo'Dahr*                                             | Root Node (Reach Lo'Dahr) |
+    | Ancient Enterprise                 | What's in here? - Found the Core Base                                                       | Enter the [[Core Facility]].             | 
+    | Put a Ring on it                   | Weird place, weird magic. - Entered the Warp Ring Installation                              | Enter the [Ring Research Installation](Ring_Facility.md) |
+    | What Puzzles Do You Bear?          | Remember to bring a coat! - Found the Inscription Complex                                   | Enter the [[Inscription Complex]].       |
+    | A Bridge Between Worlds            | Every ship needs a harbor. - Discovered the Resupply Depot                                  | Enter the [[Resupply Depot]].            |
+    | Pantheon                           | You feel small. - Trespassed upon Ytaj, sacred place of all divinity                        | Discover [[Ytaj]].                       | 
+    | Some Hope For the Future?          | The Prismatic Council has entrusted you with the weapon of its fallen champion so that the realm might be saved from its direst fates. - Discovered Yriel's Sanctuary | Complete all 6 Lo'Dahr Trials and follow the portal from Ytaj to Yriel's Sanctuary. |
+    | Atop Paradise                      | Rihelma's most sacred lands lie atop the largest and highest single mountain in the realm. - Summitted Aldregakar, the Star-Rise | Reach the top of [[Aldregakar]] in southeast Lo'Dahr. |
+    | Augural Tangle                     | Its cosmic crystals are mysterious refractions of worlds and times unknown, seen by the piercing mind of the enigmatic Aspect of Sky. - Discovered the Augural Tangle | Enter the [[Augural Tangle]] inside of [[Aldregakar]]. |
+    | Heart of the Tempest               | After being interred, the bones of Palaesida grew restless. Bursting out of their casket, they formed a mindlessly destructive cloud which rendered a scenic land uninhabitable - Breached the Heart of the Tempest | Enter the large floating orb in the center of [[Palaesida's Domain]]. |
+    | Class in Session                   | Though it was the source of their greatest sorrow, Khive could not destroy a repository of so much runic knowledge. Transplanted onto Lo'Dahr, the lower floors are home to the Mystics and their pupils. - Discovered Ihted Academy | Discover [[Ihted Academy]] in [[Khive's Domain]]. |
+    | Greyspire Castle                   | While it is undisputed that this soaring fortification was once the headquarters of the Anti-Palaesidan faction during the Divine Schism, speculative whispers are more plentiful than facts about its current cloaked master. - Discovered Greyspire Castle | Discover [[Greyspire Castle]] in [[Loe's Domain]]. |
+    | Final Harvest                      | When Noha took her own life, she also stole the confidence and optimism of the other Aspects. Newly paranoid and filled with a sudden listlessness, the warring factions quickly began to broker a peace. Her bones continue to provide for many. - Discovered Noha of Meadows | Find [[Lajani]], the town in [[Noha's Domain]]. |
+    | Challenger's Grotto                | None who have entered have survived to tell the tale of what lurks in the sea cave wherein Dahr's treasure lies. - Discovered Challenger's Grotto | Enter the [[Challenger's Grotto]] in [[Dahr's Domain]]. |
+    | Abyssal Rise                       | Dahr tests your logic. - Discovered Abyssal Rise | Enter [[Abyssal Rise]] in [[Dahr's Domain]], one of 6 Lo'Dahr trials. |
+    | Star-Rise Orrery                   | Rihelma checks your perception. - Discovered Star-Rise Orrery | Enter the [[Star-Rise Orrery]] in [[Rihelma's Domain]], one of 6 Lo'Dahr trials. |
+    | Mystic Gallery                     | Khive appraises your accuracy. - Discovered the Mystic Gallery | Discover the [[Mystic Gallery]] in [[Khive's Domain]], one of 6 Lo'Dahr trials. |
+    | Hypogean Labyrinth                 | Nahyn evaluates your composure. - Discovered the Hypogean Labyrinth | Enter the [[Hypogean Labyrinth]] in [[Nahyn's Domain]], one of 6 Lo'Dahr trials. |
+    | Brightwyrm's Caldarium             | Lai assays your ingenuity. - Discovered Brightwyrm's Caldarium | Enter [[Brightwyrm's Caldarium]] in [[Lai's Domain]], one of 6 Lo'Dahr trials. |
+    | Temple of Life                     | Vayniklah tries your intuition. - Discovered the Temple of Life | Enter the [[Temple of Life]] in [[Vayniklah's Domain]], one of 6 Lo'Dahr trials. |
 
 ### ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="36" } Post-75% Area 
 This section contains 15 advancements, all related to exploration and specific gameplay feats in the [area unlocked](Lo'Dahr.md) at the 75% completion event.
@@ -136,7 +156,7 @@ This section contains 15 advancements, all related to exploration and specific g
     | Very Very Frightening              |  Strike a villager with lightning                                                           | Throw a Channeling trident at a villager in a thunderstorm (Vanilla). |
     | One Small Step                     |  Trek into the Lunar Wastes                                                                 | Step into the Lunar Wastes, outside the breathable boundary of Lo'Dahr. |
     | **_Breath Holding Champion_**      |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
-    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter.md) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
+    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
     | Local Traditions                   |  Receive a gift during the Day of Patronage                                                 | Visit [[Naharja]] on a Day of Patronage, and receive a present from a villager.  |
     | **_Glimpse Into the Cosmos_**      |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of [[Aldregakar]]. |
     | Invasive Species                   |  Recall a horse to Lo'Dahr                                                                  | Use Warp Horse to summon a horse to Lo'Dahr.  |

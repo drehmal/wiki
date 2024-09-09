@@ -12,7 +12,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 [[Av'Sal Repository]]
 
 **25% Completion Event:** <br>
-[[Ancillary Research Facility]]
+[[Sal'Mevir]]
 
 **50% Completion Event:** <br>
 [[Exodus Vault]]

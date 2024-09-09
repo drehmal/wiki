@@ -1,7 +1,28 @@
+# Sal'Mevir
+
+--8<-- "under_construction.md"
+
+--8<-- "spoiler.md"
+
+--8<-- "25_spoiler.md"
+
+**Sal'Mevir**
+
+## Story 
+
+## Gameplay
+
+## Original Writing
+
+## Lore
+
+## Extras
+
+
 ---
 tags:
   - Locations
-  - Points of Interest
+  - Story Locations
 ---
 
 --8<-- "spoiler.md"

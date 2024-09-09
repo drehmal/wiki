@@ -29,8 +29,8 @@ Inside, the player finds a large repository containing information on important 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Ancillary Research Facility (25% SPOILERS)
-Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the [[Ancillary Research Facility]] in [[Sal'Mevir]]. The player can then follow that compass to the research facility in southeastern [[Purity Peaks]], where they can discover some old Avsohmic technology and research logs, documenting the advent of the very temporal stasis pods they woke up in. Through exploitation of the Temporal Engine, the player is able to gain access to the sealed-off main building, which contains the left blade fragment of the [[Mythbreaker]] and the [[Avsohm'Kohl]] legendary item (Drehmal's only version of the elytra).
+## Ancillary Research Facility/Sal'Mevir (25% SPOILERS)
+Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in [[Sal'Mevir]]. The player can then follow that compass to the research facility in southeastern [[Purity Peaks]], where they can discover some old Avsohmic technology and research logs, documenting the advent of the very temporal stasis pods they woke up in. Through exploitation of the Temporal Engine, the player is able to gain access to the sealed-off main building, which contains the left blade fragment of the [[Mythbreaker]] and the [[Avsohm'Kohl]] legendary item (Drehmal's only version of the elytra).
 
 --8<-- "spoiler.md"
 

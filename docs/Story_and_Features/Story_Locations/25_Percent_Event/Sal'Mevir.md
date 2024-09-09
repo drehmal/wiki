@@ -36,7 +36,7 @@ The facility's main puzzle revolves around the large domed building at the top o
     This holotext references primal pearls (ender pearls), and wonders what might happen if someone threw one into the Temporal Engine. If the player throws a pearl into the center of the engine, they will be transported into an alternate version of Sal'Mevir, where the structure seems to have broken down even further. A ticking timer can be heard in the background, indicating to the player that they only have a certain amount of time to solve the puzzle, and at the end of the timer, the player will be transported back to the original version of Sal'Mevir.
 
 ![[salmevir_temporal_engine.png]]
-> Sal'Mevir's temporal engine.
+> Sal'Mevir in the daytime, including the temporal engine (center-right).
 
 ??? warning "Puzzle Solution"
     While in the alternate Sal'Mevir, the exposed bedrock on the large domed building is no longer present. The player must navigate up to this building within the allotted time, and be inside the building when the timer expires, transporting them into the building in the regular version of Sal'Mevir.
@@ -46,7 +46,7 @@ After gaining entry to the large building, the player will gain the "Timelord" a
 ## Original Writing
 Sal'Mevir is home to [7 holotexts](/Story_and_Features/Holotexts/25_Percent_Area/)
 
-Four lore books can also be found in this location:
+Four lore books can also be found in this location: <br>
 - [[Ecological Disaster Report]] is a report on the [[Frostfang Catastrophe]], written by [[Zevve Kai]]. <br>
 - [[Sahndi's Diary]] contains the writings of a janitor at the facility who overheard a conversation about sensitive Avsohmic research projects, including mention of [[Mt. Yavhlix]]. <br>
 - [[Researcher Arlea's Discovery Log]] details the creation of the Temporal Engine, as well as the discoveries that led to the full construction of a DoS facility at Sal'Mevir. <br>

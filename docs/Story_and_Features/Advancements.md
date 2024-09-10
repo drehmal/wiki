@@ -12,7 +12,7 @@ Advancements are sorted into one of six (6) categories:
 
 - ![Scale](/assets/img/adv/scale.png){ width="24" } **Drehmal:** General and vanilla advancements. <br>
 - ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="24" } **Fabled Equipment:** Granted upon first acquiring legendary or mythical items. <br>
-- ![Compass](/assets/img/adv/compass.webp){ width="24" } **Discoveries:** Advancements achieved by visiting significant locations. <br>
+- ![Compass](/assets/img/adv/compass.webp){ width="24" } **Discoveries:** Advancements unlocked by visiting significant locations. <br>
 - ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" } **Primordial:** Unlocked by completing tasks as part of the storyline. <br>
 - ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="24" }**[REDACTED]:** Advancements from exploration and gameplay in a late-game area unlocked in the 75% completion event. <br>
 - ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - Secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.

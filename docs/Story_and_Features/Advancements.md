@@ -6,16 +6,16 @@
 
 !!! warning "This article will be split into sections, based on the potential spoiler content of that advancement section."
 
-The Drehmal map adds many new advancements to the game that indicate points of interest, game mechanics or story progression. Vanilla Minecraft advancements are mostly present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs appear in advancements as they do in Drehmal (for example, endermen are Primal Walkers).
+Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, endermen are Primal Walkers).
 
 Advancements are sorted into one of six (6) categories:
 
-- ![Scale](/assets/img/adv/scale.png){ width="24" } **Drehmal:** General and vanilla advancements. <br>
-- ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="24" } **Fabled Equipment:** Granted upon first acquiring legendary or mythical items. <br>
-- ![Compass](/assets/img/adv/compass.webp){ width="24" } **Discoveries:** Advancements unlocked by visiting significant locations. <br>
-- ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" } **Primordial:** Unlocked by completing tasks as part of the storyline. <br>
-- ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="24" }**[REDACTED]:** Advancements from exploration and gameplay in a late-game area unlocked in the 75% completion event. <br>
-- ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - Secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.
+- ![Scale](/assets/img/adv/scale.png){ width="24" } **Drehmal:** 48 general and vanilla advancements. <br>
+- ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="24" } **Fabled Equipment:** 39 advancements, granted upon first acquiring legendary or mythical items. <br>
+- ![Compass](/assets/img/adv/compass.webp){ width="24" } **Discoveries:** 78 advancements, unlocked by visiting significant locations. <br>
+- ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" } **Primordial:** 29 advancements unlocked by completing tasks as part of the storyline. <br>
+- ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="24" }**[REDACTED]:** 15 advancements from exploration and gameplay in a late-game area unlocked in the 75% completion event. <br>
+- ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - 7 secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.
 
 **_Advancements written in bold and italics_** are initially hidden.
 
@@ -83,6 +83,7 @@ This section contains the 48 advancements in the "Drehmal" tab, which are almost
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ### ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="36" } Fabled Equipment 
+This section contains the 39 advancements found in the "Fabled Equipment" tab (15 Legendary Weapons, 10 Legendary Armor, 5 Legendary Gear, 9 Mythicals).
 
 ??? warning "**Fabled Equipment:** *Legendary Weapons* - "*Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*"
     |    **Advancement**          | **Description**                                                                             |             **Requirement**              |

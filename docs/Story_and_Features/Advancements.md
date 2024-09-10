@@ -24,7 +24,7 @@ Advancements are sorted into one of six (6) categories:
 ## ![Scale](/assets/img/adv/scale.png){ width="36" } Almost Spoiler-Free: Drehmal (Vanilla Advancements) 
 This section contains the 48 advancements in the "Drehmal" tab, which are almost entirely vanilla Minecraft advancements.
 
-??? warning "Drehmal"
+??? warning "Drehmal - *Set forth and explore a vast realm!*"
     |    **Advancement**          | **Description**                                                                             |             **Requirement**              |
     |:---------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Best Friends Forever | Tame an animal | |

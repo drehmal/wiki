@@ -4,6 +4,14 @@ Artifacts are unique items that have custom names, descriptions, stat modifiers,
 
 --8<-- "under_construction.md"
 
+--8<-- "spoiler.md"
+
+!!! danger "WARNING! The contents of this page were auto-generated, and have NOT all been manually checked by a person! This means that some artifacts may be missing, and all artifacts are listed in alphabetical order without spoiler tags or separation."
+
+!!! danger "For this reason, if you have not at least reached the late-game area associated with the 75% completion event (which you will know you have done when you gain the "Apotheosis" advancement), we strongly recommend that you do NOT continue reading this article."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 # List
 
 ## Absolute Ruin

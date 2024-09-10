@@ -1,6 +1,6 @@
 # Story Locations
 
-The main story of Drehmal:Primordial takes place across over several distinct locations, whose individual pages can be found in this section. This page contains links to each page in approximate sequential order, including markers that denote roughly how far along in the story each location is. More detailed spoiler tags can be found on the individual pages, so be sure to read those before continuing on to the actual body of each page.
+The main story of Drehmal: Apotheosis takes place across over several distinct locations, whose individual pages can be found in this section. This page contains links to each page in approximate sequential order, including markers that denote roughly how far along in the story each location is. More detailed spoiler tags can be found on the individual pages, so be sure to read those before continuing on to the actual body of each page.
 
 For a more detailed (and very spoiler-heavy) overview of the story, see [[Story Progression]].
 

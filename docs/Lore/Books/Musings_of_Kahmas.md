@@ -7,7 +7,7 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-This book can be found in a chest in the [[Exodus Vault]], in which Kahmas ponders whether the continued expansionism of Avsohm is warranted, or if it will ultimately become too dangerous.
+This book can be found in a chest in the [[Exodus Vault]], in which [[Kahmas Tuhs]] ponders whether the continued expansionism of Avsohm is warranted, or if it will ultimately become too dangerous.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

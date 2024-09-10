@@ -1,7 +1,5 @@
 # Advancements
 
---8<-- "under_construction.md"
-
 !!! warning "This list contains spoilers for the entirety of the map, including the whole main story, almost all unique items, and nearly every major point of interest."
 
 !!! warning "There are a particularly high number of spoilers for events taking place after the 75% story completion event."
@@ -24,7 +22,7 @@ Advancements are sorted into one of six (6) categories:
 ## ![Scale](/assets/img/adv/scale.png){ width="36" } Almost Spoiler-Free: Drehmal (Vanilla Advancements) 
 This section contains the 48 advancements in the "Drehmal" tab, which are almost entirely vanilla Minecraft advancements.
 
-??? warning "Drehmal - *Set forth and explore a vast realm!*"
+??? question "Drehmal - *Set forth and explore a vast realm!*"
     |    **Advancement**          | **Description**                                                                             |             **Requirement**              |
     |:---------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Best Friends Forever | Tame an animal | |

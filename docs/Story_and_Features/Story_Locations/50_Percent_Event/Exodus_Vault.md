@@ -27,7 +27,7 @@ The player can leave the facility at any point through the way they came, but it
 ## Gameplay
 Access to the Vault is initially blocked by a large vault door beneath the northern wing of the Exodus Citadel, and the player must solve the puzzle nearby in order to enter the vault. In this room is one holotext (seen below), which depicts a pattern of blue squares and dashes. 
 
-![[exodus_rune.png]]
+![[exodus_rune.png]]{ width="384" }
 > The holotext at the entrance to the vault.
 
 ??? question "Hint"

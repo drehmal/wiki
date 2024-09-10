@@ -102,6 +102,39 @@ This section contains the 57 advancements contained in the bottom three root nod
 ??? warning "**Discoveries:** *Landmarks* (Significant Exploration Spoilers, Moderate Story Spoilers) - *These places are rich with history, what secrets might they hold?*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
+    | Remnant of Avsohm | Once Avsohm's great capital city, it is now merely a remnant of an idyllic golden age. - Discovered Av'Sal | Enter [[Av'Sal]] (parent advancement for next 9 advancements, through "A Mountain of Holes"). | 
+    | The Foundry | This bridge was said to be an important part of Avsohm's industry, but its purpose has been lost to time. - Discovered the Foundry | Discover the outside of [[The Foundry]]. |
+    | Rip & Tear | They... are rage. Brutal, without mercy. But you... you will be worse. - Entered the Arena | Enter the Arena within [[The Foundry]]. |
+    | Supersoldier Certification | Now you'll be known as 'Captain Drehmal'. - Cleared all 6 waves of the Arena | Complete all 6 waves of the Arena within [[The Foundry]]. |
+    | Temporal Ruins | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation. - Discovered Sal'Mevir | Enter [[Sal'Mevir]]. |
+    | All That Remains | Avsohm was highly technologically advanced, yet they still fell to ruin. - Discovered the Exodus Citadel | Enter the [[Exodus Citadel]]. |
+    | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Sunken Astral Body]]. |
+    | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Last Avsohmic Vault]] off the Casain coast. |
+    | The Lost Cavern | Ages ago, Avsohm used this cave to gather Rehntite, an incredibly strong mineral with untold arcane potential. Unfortunately, the method of extraction has been lost to time. - Discovered the Rehntite Cave | Enter the [[Rehntite Cave]]. |
+    | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |
+    | Chamber of Dreams | Drehmal slumbers deep below; perhaps one day they will awaken. - Stepped into the entrance of the Primal Caverns | Enter the [[Primal Caverns]]. |
+    | Glade of the Giant | Deep within the uncharted jungles of old Merijool lies a being of great power. - Discovered the wellspring of a forgotten remnant | Discover the [[Primal Sapling]]. |
+    | This place was beautiful, once | Half the Heartwood, gone in an instant. - Discovered the epicenter of Mael's Desolation | Enter the [[Rock Maw]], epicenter of [Mael's Desolation](South Heartwood). |
+    | Lofty Laboratory | On High Arch, over Tharxax City, perches the estate of an eccentric nobleman reliant on Maelihs to secure new Avsohmic technology for him to tinker with. - Discovered the Lord Magister’s Residence. | Enter the Lord Magister's Residence in [[Tharxax City]]. |
+    | Ohh, bouncy! | Do you think it's alive? - Discovered the Slime Island | Enter the [[Slime Island]]. |
+    | Underground Fortress | Settled by exiled prisoners, this deep city grew to become the capital of the Second Tharhan Empire before being annexed by Avsohm, then Maelihs, then Insohm, and then finally falling to ruin. - Discovered Caer Adacia. | Enter [[Caer Adacia]]. |
+    | Meat. They're made out of meat. | Who wants to meet meat? - Discovered the Birthing Grounds | Enter the [[Birthing Grounds]]. |
+    | Domain of Maelihs | Burnt God of War, Chaos, and Destruction. - Simply walked into the Hellcrags | Enter the [[Hellcrags]]. |
+    | The Burnt Palace | Few have entered the Burnt Palace and left to tell the tale. May Virtuo be with ye. - Discovered the Burnt Palace | Discover the [[Burnt Palace]]. |
+    | The Beast's Den | Greatbeast Muhs, Aspect of Beasts, was hunted down and murdered in Av2 1583 by a group wishing to attain his power. In the end, they failed. - Discovered the Underwood, den of Greatbeast Muhs | Enter the [[Underwood]]. |
+    | The Scarred Castle | The Order of Insohm used this castle as a base of operations as they reconquered the land from Maelihs. The castle fell to ruin after political instability destroyed the order. - Discovered Castle Scarstone | Discover [[Castle Scarstone]]. |
+    | Shatterhorn Gulch | It is unclear when the prison at Shatterhorn Gulch was first built, but it has operated since before the apex of the Insohmic Coalition and is thought to be the most secure detention facility in the realm. - Discovered Shatterhorn Gulch | Discover [[Shatterhorn Gulch]]. |
+    | Disappearing Act | The Order of Insohm had their headquarters here, now it’s just a crater. What could have done this? - Discovered the Castle Hovadchear Crater | Discover the crater that once held [[Castle Hovadchear]]. |
+    | I.C.S. Arbiter | Insohm’s influence once spanned the entire continent, now they are confined to one city and this measly vessel. Oh, how the great have fallen. - Discovered the I.C.S. Arbiter | Board the [[ICS Arbiter]]. |
+    | Upper-Upper Class | A historic palace-fortress, it is the traditional nexus of Akhlo’Rohman political and alchemical power. What strange and sinister events may be occurring behind its multicolored walls? - Discovered Ancehl Castle | Enter [[Ancehl Castle]]. |
+    | Secret Sanctum | A civilization lost to the ravages of time and conquest still retained one secret, until now - Discovered the true Altar of Insight | Discover the [[Altar of Insight]]. |
+    | Monastery of Virtuo | A devout order of Drehmari founded this austere monastery long ago to follow the teachings of Virtuo. What secrets lie within its lofty towers and crystal caverns? - Discovered Teiruun | Discover [[Teiruun Monastery]]. |
+    | The Insohmic Library | After the disappearance of Castle Hovadchear, this was the Order of Insohm's headquarters. - Discovered the Old Library Tower | Discover the [[Old Insohmic Library]]. |
+    | Grave of Frost | A master arcanist of unlimited potentia, he froze the North in rebellion to Avsohm. - Discovered the resting place of Homli Tahsgan | Discover [[Homli's Grave]]. |
+    | Wall of the West | BIG WALL. - Discovered Maehrn'Vhos | Discover [[Maehrn'Vhos]]. |
+    | Capital of War | Sal'Anyr's fall marked the beginning of the Dune Wars, and the start of the third Avihm. - Discovered the ruins of Sal'Anyr | Enter the ruins of [[Sal'Anyr]]. |
+    | The Moonlight Sanctum | The Tri-Moon Theocracy used this place as a necrotic engine. Using the potentia of strange aquatic creatures, they performed abhorrent rituals and raised thousands of undead. - Discovered the Moonlight Sanctum | Enter the [[Moonlight Sanctum]]. |
+
 
 ??? warning "**Discoveries:** *Devotion* (Moderate Exploration Spoilers) - *Drehmal has many sacred places to commune with powerful beings, willing to offer you their aid in return for service and sacrifices.*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |

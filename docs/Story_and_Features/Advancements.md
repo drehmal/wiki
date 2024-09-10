@@ -21,10 +21,60 @@ Advancements are sorted into one of six (6) categories:
 
 **_Advancements written in bold and italics_** are initially hidden.
 
-## ![Scale](/assets/img/adv/scale.png){ width="36" } Spoiler-Free: Drehmal (Vanilla Advancements) 
+## ![Scale](/assets/img/adv/scale.png){ width="36" } Almost Spoiler-Free: Drehmal (Vanilla Advancements) 
+This section contains the 48 advancements in the "Drehmal" tab, which are almost entirely vanilla Minecraft advancements.
 
 ??? warning "Drehmal"
-    vanilla adv tab goes here - maybe don't include?
+    |    **Advancement**          | **Description**                                                                             |             **Requirement**              |
+    |:---------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
+    | Best Friends Forever | Tame an animal | |
+    | Sweet Dreams | Sleep in a bed to change your respawn point | |
+    | Ol' Betsy | Shoot a crossbow | |
+    | Who's the Mihkmari Now? | Give a Mihkmari a taste of their own medicine | Shoot a Mihkmari (pillager) with a crossbow. |
+    | **_Two Birds, One Arrow_** | Kill two Skullchildren with a piercing arrow | Kill two Skullchildren (phantoms) with an arrow shot from a crossbow enchanted with Piercing. |
+    | **_Arbalistic_** | Kill five unique mobs with one crossbow shot | |
+    | Alchemy | Brew a potion | |
+    | Necromantic Reversal | Reverse the necromancy of a Drehmari | Cure a zombie villager. |
+    | **_A Furious Cocktail_** | Have every potion effect applied at the same time | |
+    | **_How Did We Get Here?_** | Have every effect applied at the same time | |
+    | Diamonds! | Acquire diamonds | |
+    | Cover Me With Diamonds | Diamond armor saves lives | Have a full set of diamond armor. |
+    | **_Return To Sender_** | Destroy a Charbelcher with a fireball | Kill a Charbelcher (ghast) with a fireball, by hitting or shooting one back at it. |
+    | No Place Like Home | Travel using a Khivian Scroll of Sanctuary | NOT Vanilla! |
+    | Whatever Floats Your Goat! | Get in a Boat and float with a Goat | |
+    | Monster Hunter | Kill any hostile monster | |
+    | Postmortal | Use a Totem of Undying to cheat death | |
+    | Take Aim | Shoot something with an arrow | Hit a mob with an arrow. |
+    | **_Bullseye!_** | Hit the bullseye of a target block from at least 30 meters away | |
+    | **_Sniper Duel_** | Kill a Skeleton from at least 50 meters away | |
+    | **_Monsters Hunted_** | Kill at least one of every hostile monster | Kill one of each of the 34 types of hostile monster. |
+    | Spooky Scary Skeleton | Obtain a Chthonic Skeleton's skull | Obtain a wither skull. |
+    | Soulgrafting | Summon the Soulgrafted | Summon the wither. |
+    | Bring Home the Asterial Array | Construct and place a beacon | |
+    | Asterial Arrayinator | Bring a beacon to full power | |
+    | The Parrots and the Bats | Breed two animals together | |
+    | **_Two By Two_** | Breed all the animals! | Breed all 21 types of breedable animals together. |
+    | Is It a Bird? | Look at a parrot through a spyglass | |
+    | Is It a Balloon? | Look at a ghast through a spyglass | |
+    | Is It a Plane? | Look at Tethlaen, Lost to Nothing through a spyglass | |
+    | What a Deal! | Successfully trade with a villager | |
+    | Hired Help | Summon a Runic Golem to help defend a village | Build an Iron Golem. |
+    | Fishy Business | Catch a fish | |
+    | Tactical Fishing | Catch a fish... without a fishing rod! | |
+    | The Cutest Predator | Catch an axolotl in a bucket | |
+    | The Healing Power of Friendship | Team up with an axolotl and win a fight | |
+    | Voluntary Exile | Kill a Mihkmari Captain and take on its curse. Might be best to stay away from villages for now... | |
+    | **_Drehmari Hero_** | Successfully defend a village from a raid | |
+    | A Seedy Place | Plant a seed and watch it grow | |
+    | **_A Balanced Diet_** | Eat everything that is edible, even if it's not good for you | Eat all 39 edible items. |
+    | **_Serious Dedication_** | Use a Celestial Alloy to upgrade a hoe, and then reevaluate your life choices | Obtain a Celestial Hoe. |
+    | Surge Protector | Protect a villager from an undesired shock without starting a fire | |
+    | Bee Our Guest | Use a Campfire to collect Honey from a Beehive using a Bottle without aggravating the bees | |
+    | Light as a Rabbit | Walk on powder snow... without sinking in it | |
+    | Runic Magic | Inscribe an item at a Runic Inscription Table | Enchant an item at an enchanting table. |
+    | Oh Shiny | Distract Maelmari with gold | Distract a [[Maelmari]] (piglin) by throwing gold. |
+    | Sticky Situation | Jump into a honey block to break your fall | Jump into the side of a honey block and slide down it, breaking your fall. |
+    | Total Beelocation | Move a Bee Nest, with 3 bees inside, using Silk Touch | |
   
 ## Moderate Exploration Spoilers: Fabled Equipment and Discoveries
 

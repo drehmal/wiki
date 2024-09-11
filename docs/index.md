@@ -11,8 +11,6 @@ icon: material/home
 
 !!! tip "**New here? Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!**"
 
-!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
-
 <figure markdown>
   ![[drehmal_realmbinder.png]]{ width="600" }
 </figure>
@@ -20,6 +18,8 @@ icon: material/home
 Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is v2.2.1: Apotheosis, built for Minecraft Java Edition 1.20.1.
 
 Our wiki is a collaborative effort to document the wonders of Drehmal for new and experienced players alike, spearheaded entirely by highly invested community members. 
+
+!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
 
 * **Official Drehmal Website (Download the Map From Here!):** [https://drehmal.net](https://drehmal.net)
 * **Official Discord:** [https://discord.gg/drehmal](https://discord.gg/drehmal) OR [https://discord.drehmal.net](https://discord.drehmal.net)

@@ -2,7 +2,7 @@
 
 --8<-- "under_construction.md"
 
-The Stasis Facility is the first major story location in Drehmal, located in [[Capital Valley]] just south of the [[Primal Caverns]]. When a playthrough is begun by toggling the "Initialize" button in the settings room, any players will be transported to this facility, in one of eight temporal stasis pods. 
+The **Stasis Facility** is the first major story location in Drehmal, located in [[Capital Valley]] just south of the [[Primal Caverns]]. When a playthrough is begun by toggling the "Initialize" button in the settings room, any players will be transported to this facility, in one of eight temporal stasis pods. 
 
 ![[stasis_outside.png]]
 > The outside of the Stasis Facility, facing north towards the [[Primal Caverns]].

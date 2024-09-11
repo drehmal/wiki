@@ -2,7 +2,7 @@
 
 --8<-- "under_construction.md"
 
-**The Aphelion** was the flagship of Avsohm, acting at different points in the empire's history as a central piece of its command structure, a hub for research efforts, and the crown jewel of its military. The Aphelion is mentioned several times throughout the map, including prominently in holotexts and books throughout the early game. At the point that the player has awoken from stasis in the fourth Avihm, the whereabouts and ultimate fate of the ship are unknown. 
+The **Aphelion** was the flagship of Avsohm, acting at different points in the empire's history as a central piece of its command structure, a hub for research efforts, and the crown jewel of its military. The Aphelion is mentioned several times throughout the map, including prominently in holotexts and books throughout the early game. At the point that the player has awoken from stasis in the fourth Avihm, the whereabouts and ultimate fate of the ship are unknown. 
 
 It is left unclear initially whether the Aphelion was a seafaring vessel or an airship. Search efforts for the ship by several factions, including the forces of [[Maelihs]] and the [[Order of Insohm]], proved fruitless, finding no evidence of the ship in the waters surrounding Drehmal or on land.
 

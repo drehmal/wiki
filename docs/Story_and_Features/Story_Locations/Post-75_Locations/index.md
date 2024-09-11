@@ -4,5 +4,5 @@
 
 --8<-- "LD_spoiler.md"
 
-This section contains 5 pages on the main Avsohmic facilities on the divine moon of [[Lo'Dahr]].
+This section contains 5 pages on the main Avsohmic facilities in the late-game area unlocked after the 75% completion event.
 

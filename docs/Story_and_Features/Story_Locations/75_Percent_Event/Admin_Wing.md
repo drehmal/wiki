@@ -10,7 +10,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The Administrative (Admin) Wing of the [[Av'Sal Repository]] is the setting for the first portion of the 75% completion event, unlocked after reaching 75% tower linkage (24 towers). A comparatively small area compared to the other story locations, the Admin Wing is an extension of the Repository, offering a few small teasers towards the rest of the 75% completion event and the future of the story, as well as establishing another puzzle mechanic that appears again later in the map's story.
+The **Administrative (Admin) Wing** of the [[Av'Sal Repository]] is the setting for the first portion of the 75% completion event, unlocked after reaching 75% tower linkage (24 towers). A comparatively small area compared to the other story locations, the Admin Wing is an extension of the Repository, offering a few small teasers towards the rest of the 75% completion event and the future of the story, as well as establishing another puzzle mechanic that appears again later in the map's story.
 
 The Admin Wing can be accessed through a somewhat hidden room in the lower levels of Av'Sal's central island. Entry is possible before the 75% milestone, but requires knowledge that is strongly hinted at by holotexts which are only readable after reaching 75% network linkage.
 

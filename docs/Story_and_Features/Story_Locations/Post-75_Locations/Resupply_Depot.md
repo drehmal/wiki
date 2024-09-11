@@ -41,7 +41,7 @@ Getting up to the Resupply Depot alone can be difficult, as the facility is 100 
 At the facility, the main puzzle revolves around the transfer of energy from the Terminus. The Terminus is in synchronous orbit with the Aphelion around Lo'Dahr, and as such, is at a different point in the sky at any given moment. A [holotext](depot_transfer.md) provides a very strong hint toward the solution to this puzzle.
 
 ??? question "Hint: Resupply Depot Energy Transfer"
-    The holotext states that sometimes, energy transfer must be recalibrated, which can only be done when the Terminus and Aphelion are directly overhead, roughly once every 75 seconds. 
+    The holotext states that sometimes, energy transfer must be recalibrated, which can only be done when the Terminus and Aphelion are directly overhead, roughly once every 75 seconds. <br>
     ![[depot_transfer.png]]
 
 ??? warning "Puzzle Solution"

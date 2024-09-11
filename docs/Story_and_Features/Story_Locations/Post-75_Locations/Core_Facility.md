@@ -38,20 +38,20 @@ It is not readily apparent what, if anything, can be done in this room, which is
 ## Gameplay
 Upon arriving at the Core Facility, players may immediately notice the security checkpoint. The solution to passing through this is the same as it was at the [[Admin Wing]]:
 
-??? warning "Puzzle Solution"
+??? warning "Checkpoint Solution"
     Removing all armor and standing still on the platform for about 10-15 seconds will open the passageway down to the interior room.
 
 In the interior room, as previously mentioned, the player is not intended to know what to do on first arrival. It is HIGHLY recommended that you figure out this puzzle for yourself, as exploring Lo'Dahr is one of the most rewarding parts of the map, and the mechanics should become clear once you have completed the other three locations.
 
 If you have completed all of these locations and are still uncertain what to do, the following hints and solution may be helpful.
 
-??? warning "Hint: Inscription Complex Lesson"
+??? question "Hint: Inscription Complex Lesson"
     The Inscription Complex's main puzzle revolves around how runic machinery is powered. Nearly everything in Avsohm is powered by some form of runic technology, and this includes the Core Facility, which shares a key design element with the Inscription Complex.
 
-??? warning "Hint: Resupply Depot Lesson"
+??? question "Hint: Resupply Depot Lesson"
     The Resupply Depot was the hub for Avsohmic transport on Lo'Dahr, and as such, required a significant amount of energy. This was solved by transmission of energy directly from the orbiting Aphelion and Terminus, although this is still most efficient at close range.
 
-??? warning "Hint: Ring Installation Lesson"
+??? question "Hint: Ring Installation Lesson"
     The Ring Research Installation was built to study Khive's warp rings, and it primarily exists to teach the player how to use these warp rings when active. Rings do still need power to be activated, though...
 
 If you have completed all of these locations on your own and still don't know what to do, here's the solution:

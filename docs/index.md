@@ -9,19 +9,18 @@ icon: material/home
 
 # Welcome to the Official Drehmal Wiki!
 
-Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is v2.2.1: Apotheosis, built for Minecraft Java Edition 1.20.1.
-
-Our wiki is a collaborative effort to document the wonders of Drehmal for new and experienced players alike, spearheaded entirely by highly invested community members. Anyone, including you, can help to build and expand this website!
-
-* **Official Website:** [https://drehmal.net](https://drehmal.net)
-* **Download the map here:** [https://www.drehmal.net/downloads](https://www.drehmal.net/downloads)
-* **Official Discord:** [https://discord.gg/drehmal](https://discord.gg/drehmal) OR [https://discord.drehmal.net](https://discord.drehmal.net)
+!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
 
 <figure markdown>
   ![[drehmal_realmbinder.png]]{ width="600" }
 </figure>
 
-!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
+Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is v2.2.1: Apotheosis, built for Minecraft Java Edition 1.20.1.
+
+Our wiki is a collaborative effort to document the wonders of Drehmal for new and experienced players alike, spearheaded entirely by highly invested community members. 
+
+* **Official Drehmal Website (Download the Map From Here!):** [https://drehmal.net](https://drehmal.net)
+* **Official Discord:** [https://discord.gg/drehmal](https://discord.gg/drehmal) OR [https://discord.drehmal.net](https://discord.drehmal.net)
 
 ## Spoilers, the Wiki, and You!
 Drehmal is a fantastic experience, and while this wiki is here to help you navigate and learn more about it, we CANNOT stress enough that you should attempt to find things for yourself on this map! There are many huge moments in the map's story, incredible hidden areas, and progression-locked abilities that are cool to read about, but much more fun to discover on your own!

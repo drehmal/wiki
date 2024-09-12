@@ -120,7 +120,7 @@ The Numencore, located deep within the center of the moon itself, is a massive s
 !!! success "![Open Spoiler Door](/assets/img/yav_dooropen.png)"
 
 ## Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)
-Progression beyond this point requires the player to follow through on a version of Avsohm's plan found in the Numencore, charging the Inert Mythbreaker at the Numencore and engaging in a [[Khive_Dialogue.md|chase sequence]], evading enemies and magical airstrikes sent by the greatly angered [[Khive]]. The destination of this run can be ascertained before this point through exploration, or through a "Primal Energy Radar" found at the Core Facility, pointing to [[Mt. Yavhlix]]. 
+Progression beyond this point requires the player to follow through on a version of Avsohm's plan found in the Numencore, charging the Inert Mythbreaker at the Numencore and engaging in a [[Khive_Dialogue.md|chase sequence]], evading enemies and magical projectiles sent from the sky by the greatly angered [[Khive]]. The destination of this run can be ascertained before this point through exploration, or through a "Primal Energy Radar" found at the Core Facility, pointing to [[Mt. Yavhlix]]. 
 
 The mountain is referenced several times before this point as a pertinent Avsohmic location, but upon visiting it, the facility inside is blocked off by an indestructible veilstone door (the same door used for spoilers on this wiki!). However, several sources, including some just outside the door, suggest that a powerful beam of Primal Energy could blast the door down.
 

@@ -1,6 +1,6 @@
 # South Heartwood
 
-![[South_Heartwood.png]]{
+![[South_Heartwood.png]]{ align=right width="300" }
 
 The South Heartwood, also known as [[Maelihs|Mael's]] Desolation, is a region in south [[Drehmal (Place)|Drehmal]], and the southern part of the greater Heartwood region. It has a dry, barren landscape, with deformed terrain and almost no living plant life.
 

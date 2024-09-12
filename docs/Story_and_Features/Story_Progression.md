@@ -107,7 +107,7 @@ At any point after arriving on Lo'Dahr, the player can solve the puzzle at the [
 
 After passing through the Admin Wing-like security checkpoint, the player comes to a hall with an inactive warp ring. By activating the warp ring using the solution from the Inscription Facility and applying the knowledge of the other two locations, the player can use this warp ring to access the Numencore, an extension of the Core Facility that was Avsohm's true main operation on the moon. 
 
-The Numencore, located deep within the center of the moon itself, is a massive source of Primal Energy—the source of [[Khive|Mystic Elder Khive]]'s power. There are holotexts and books throughout the facility which establish that Avsohm's plan was to charge the Mythbreaker at the Numencore, use the spear's power to tear a hole in the Veil, and peer beyond the edges of the realm, but this operation was indefinitely postponed for fear of incurring Khive's wrath, and Avsohm fell before they had the chance to attempt this plan.
+The Numencore, located deep within the center of the moon itself, is a massive source of Primal Energy—the source of [[Khive|Mystic Elder Khive]]'s power. There are holotexts throughout the facility which establish that Avsohm's plan was to charge the Mythbreaker at the Numencore, use the spear's power to tear a hole in the Veil, and peer beyond the edges of the realm, but this operation was indefinitely postponed for fear of incurring Khive's wrath, and Avsohm fell before they had the chance to attempt this plan.
 
 --8<-- "spoiler.md"
 

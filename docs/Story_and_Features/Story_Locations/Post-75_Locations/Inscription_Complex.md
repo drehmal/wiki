@@ -10,7 +10,7 @@
 
 !!! danger "Unless you have FINISHED the 75% Completion sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
-!!! danger "Additionally, this article itself is about a story location at this late-game area. If you have not yet discovered and completed the Inscription Complex (as denoted by the "What Puzzles Do You Bear?" and "Master of Maintenance" advancements, respectively), this page will contain spoilers you have not seen."
+!!! danger "Additionally, this article itself is about a story location at this late-game area. If you have not yet discovered and completed the Inscription Complex (as denoted by the "What Puzzles Do You Bear?" and "Master of Maintenance" advancements, respectively), this page will contain spoilers for content you have not seen."
 
 !!! danger "You have been warned."
 

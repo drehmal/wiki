@@ -56,6 +56,8 @@ The Numencore was created as [[Khive]]'s primary reserve of [[Primal Energy]], a
 
 The Numencore likely went physically untouched until Avsohm's colonization of the moon in the late second Avihm, at which point they utilized their [[Ring Facility#Lore|reverse-engineered warp rings]] to establish a physical gateway to the Numencore. Avsohm built a small facility around the core, with the ultimate goal of harnessing it as an energy source to charge the Mythbreaker with.
 
+Several prominent Avsohmic characters are known to have spent time at the Numencore facility, including [[Kahmas Tuhs]], [[Ekoh]], [[Cehva]], and [[Marto]].
+
 ## Extras
 Boundary-breaking in the Numencore can reveal two easter eggs.
 

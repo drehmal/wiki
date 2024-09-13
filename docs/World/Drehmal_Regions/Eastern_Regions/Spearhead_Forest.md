@@ -8,7 +8,7 @@ Spearhead forest is a relatively large region in eastern [[Drehmal (Place)|Drehm
 
 Spearhead forest is located on and encompasses a large portion of the east coast of Drehmal. The region is bordered by the Nahynaga Mountains to the west, separating it from [[Purity Peaks]] and the [[North Heartwood]], and the Verdant Mountains (including the [[Verdant Labyrinth]]) to the south, forming a boundary with the [[Black Jungle]] and Eye of Vir. It also borders [[Grand Pike Canyon]] to the northwest and [[Highfall Tundra]] to the northeast.
 
-The western, inland section and majority of the region's land area is covered in forest with tall spruce trees and partial-podzol floor. The areas near the northern and mid shore are more open and grassy, and the spruces are thinly dispersed. Two large islands lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone.
+The western, inland section and majority of the region's land area is covered in forest with tall spruce and oak trees and partial-podzol floor. The areas near the northern and mid shore are more open and grassy, and the spruces are thinly dispersed. Two large islands lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone. Beaches of gravel, dirt and clay line the coast.
 
 Spearhead Forest is home to the coastal town of [[New Mossfield]] on a peninsula in the southeast and the small village of [[Helmshire]] in the western forest, below the Nahynaga mountains. [[Virtuo|Virtuo's]] faith is the region's dominant religion.
 
@@ -30,21 +30,23 @@ After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third
 
 Spearhead Forest's Terminus tower is located by the region's central east coast. Its bottom half is enveloped by the hollow base of a tree trunk. There are no hostile entities present.
 
+**Coordinates:** (X: 4125, Y: 174, Z: 1194)
+
 ## Points of Interest
 
 ### Castle Hovadchear Crater
 
-
+Castle Hovadchear was once the grand headquarters of the Order of Insohm and likely the home of [[Hovadchear Myrik|Master Hovadchear]] himself. In the late Third Avihm, the entire building as well as the ground beneath it suddenly vanished, leaving only a large crater behind. Today, a small, stone building overlooking the crater contains a memorial to Hovadchear Myrik, which is guarded by "The Mourner".
 
 ### Helmshire
 
-
+Helmshire is a small village within the forest of the region's west. Its buildings use various types of wood, as well as brick, stone and concrete. The village experienced a period of time in the late Third and early Fourth Avihm in which children were frequently abducted by a local Skeveraan for experimentation. Half of the population eventually left for [[Akhlo'Rohma]].
 
 ### Insohmic Coven of Potentia
 
 
 
-### [[Insohmic Council Tower]]
+### [[Insohmic Library Tower]]
 
 
 

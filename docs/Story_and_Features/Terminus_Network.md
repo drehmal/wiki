@@ -1,10 +1,9 @@
 # Terminus Network
 
-![[cv_tower.png]]
-> Capital Valley Terminus Tower
----------
+--8<-- "under_construction.md"
+
 ![[central_towers.png]]
-> Central Towers Hall in the Terminus
+> The Central Towers Hall in the Terminus
 
 The Terminus is a transporation hub that the player can use to teleport between different locations across the map. Many distinct white and purple towers can be found scattered throughout the world (typically one per region), and at the top of them are buttons that will teleport the player to the Terminus. The Terminus is a central hub where players can teleport to any tower that has already been used via buttons lining the walls. Each button is placed in a room with scenery resembling its corresponding tower's region. If a tower has not yet been used, its room in the Terminus will be walled off by gray stained glass.
 
@@ -16,16 +15,20 @@ In the center of the terminus, below a transparent floor, there is a rough physi
 
 ## Towers
 
-Terminus towers are recognizable with their late [[Empire of Avsohm|Avsohmic]] architecture, consisting primarily of quartz, and having a purple-colored central pillar. The tops of the towers are small, partially-inclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
+![[cv_tower.png]]
+> The [[Capital Valley]] Terminus tower, often the first that the player will come across. 
+
+Terminus towers are recognizable by their late [[Empire of Avsohm|Avsohmic]] architecture, consisting primarily of quartz, with a purple-colored central pillar. The tops of the towers are small, partially-enclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
 
 Different Terminus towers have different features, often being guarded by enemies or having parkour leading to the top. Most towers do not have direct access to the top, meaning players must pillar up or use some other means of reaching the button.
 
-Players at the top of towers will receive the Feather Falling II effect for 15 seconds (continuously replenished until 
-they exit.), allowing a safe descent to the ground. If the player has unlocked every tower and gotten the (*...*) advancement, they will also be given (*...*) at towers.
+Players at the top of towers will receive the Feather Falling II effect for 15 seconds (continuously replenished until they exit), allowing for safe descent to the ground. If the player has unlocked every tower and gotten the "*Fully Online!*" advancement, they will also be given 90 seconds of Speed II upon teleporting to a tower from the Terminus.
+
+Locating, climbing, and linking towers is the primary method of story progression early in the map, and towers can be visited in nearly any order. Three towers are locked behind story progression, some at the 75% milestone and one by the end-game Mt. Yavhlix dungeon, but all others can be found in the open world and accessed before the end-game, in whatever order the player likes.
 
 The locations of Terminus towers are given by the map in the Terminus, and more precisely by the regional maps sold by [[Adventuring Merchant|Adventuring Merchants]].
 
-Upon using a tower's button, the message "//INITIATING PHASE WARP...// will appear in chat. If the tower is being used for the first time, this message will be followed by (*...*).
+Upon using a tower's button, the message "//INITIATING PHASE WARP...// will appear in chat. If the tower is being used for the first time, this message will be followed by a message updating the player on their total linkage % (each tower increases linkage by 3.1%).
 
 ![[terminus_map.png]]
 > Tower Map in the Terminus

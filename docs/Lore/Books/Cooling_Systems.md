@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-This book can be found in a chest in [[Mt. Yavhlix]]. It elaborates on the need for a cooling system in the [[Primary Energy Collection Facility]].
+This book can be found in a chest in the [[Primary Energy Collection Facility]]. It elaborates on the need for a cooling system in the [[Primary Energy Collection Facility]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

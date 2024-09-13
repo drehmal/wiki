@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-The Madman's Scrawl can be found in a chest in [[Mt. Yavhlix]], near the top of the facility.
+The Madman's Scrawl can be found in a chest in the [[Primary Energy Collection Facility]], near the top of the facility.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -28,7 +28,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 [[Ring Facility]] <br>
 [[Numencore]]
 
-**Late-Game Dungeon:** <br>
+**Mt. Yavhlix Dungeon:** <br>
 [[Primary Energy Collection Facility]] <br>
 [[The Nothing]]
 

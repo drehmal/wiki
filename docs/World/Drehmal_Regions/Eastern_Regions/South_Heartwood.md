@@ -33,6 +33,8 @@ The South Heartwood was resettled by a few groups of people after this calamity,
 
 The South Heartwood's Terminus tower is located in the desert in the region's east. A small slope of sand leans against its base, allowing access to the first of the protruding beams of red sandstone that are scattered across the tower's eastern side. These beams collectively form a parkour course that can be climbed to the top of the tower. There are no hostile entities present.
 
+**Coordinates:** (X: 1884, Y: 76, Z: 3731)
+
 ## Points of Interest
 
 | POI | Image | Coordinates | Description |

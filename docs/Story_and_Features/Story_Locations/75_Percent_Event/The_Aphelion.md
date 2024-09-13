@@ -93,10 +93,14 @@ Many important characters are known to have spent time aboard the Aphelion, incl
 In the Aphelion's Command Center, miniature versions of the Resonant Eye can be found, which were initially put on board in an attempt to peer beyond the veil at the realm's edge. When this failed, another Resonant Eye scan revealed an extremely concentrated source of [[Primal Energy]] inside of the moon of Lo'Dahr, prompting the Avsohmic efforts to study that moon, eventually leading to the discovery of the [[Numencore]].
 
 ## Extras
+
 There is an extremely well-hidden target block in the throne room on the lowest level, which will trigger an easter egg if found and shot.
 
 ??? warning "Secret Easter Egg"
     Just through the gap at the top of the first column to the right of the throne (left of someone sitting in the throne), a target block is barely visible, and can be shot. If shot, it will give the dialogue line, "[@] Royal Flush!"
     This will also spawn a new room elsewhere in the Aphelion, adding a bathroom to the first floor near the A rooms.
 
-[^1]: i don't have to be impartial in footnotes so i will just say: please don't hurt them they are friends :(
+### Trivia
+The term "*Aphelion*" is a [real English word](https://simple.wikipedia.org/wiki/Aphelion), and is a term used to refer to the furthest point in a planet's orbit from the sun. A generic term for such a point (if not orbiting the sun) is an *apsis*.
+
+[^1]: i don't have to be impartial in footnotes: if you kill the roombots, you will NOT be granted favorable reincarnation by Voynahla! Do NOT hurt them they are my friends :(

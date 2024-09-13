@@ -138,7 +138,7 @@ Inside the Nothing (very similar to the vanilla End dimension), the player is th
 
 !!! danger "WARNING!!! This section contains EXTREMELY SIGNIFICANT spoilers for end-game areas (after the Mt. Yavhlix dungeon)."
 
-!!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
+!!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT continue to read the contents of this article."
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
@@ -149,7 +149,7 @@ Inside the Nothing (very similar to the vanilla End dimension), the player is th
 ## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE)
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 
 
-The voice instructs the player to return to the Terminus, where it takes control of avSYS and dispenses the Silent Thing, a [[trinket]] which directs the player to the [[Sunken Astral Body]] east of [[Dusps]].
+The voice instructs the player to return to the Terminus, where it takes control of avSYS and dispenses the Silent Thing, a [[trinket]] which directs the player to the Sunken Astral Body east of [[Dusps]].
 
 At the Sunken Astral Body, the voice will manifest once again, summoning a bolt of energy to destroy a veilstone seal in the ground and grant the player access to [[Azimuth Labs]], the secret headquarters of Avsohm's alchemical branch, [[Red Dawn]]. Here, the player can find evidence of unethical experimentation and advanced military plans, making clear Avsohm's intention to completely overtake the Aspects and rule over all realms.
 

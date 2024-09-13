@@ -50,7 +50,7 @@ The primary mode of progression within Mt. Yavhlix is finding three override swi
     The third lever is found near the top of the facility, along the front outside wall, in a heavily guarded area - approximately (26928, 112, -136).
 
 ![[yav_portal.png]]
-> The opened portal.
+> The portal room, with an opened portal.
 
 Players familiar with the Minecraft base game will instantly recognize the structure of this primal energy tear: the Minecraft End Portal. Scattered throughout the facility in chests are Oculi of Nothing ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" }, Drehmal's version of Eyes of Ender. Just as in the Minecraft base game, filling the empty portal frame with 12 Oculi of Nothing will override the seal on the tear, allowing entry into the Nothing by jumping into the opened portal.
 

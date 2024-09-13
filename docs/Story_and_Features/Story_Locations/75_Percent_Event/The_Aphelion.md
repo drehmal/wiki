@@ -99,4 +99,4 @@ There is an extremely well-hidden target block in the throne room on the lowest 
     Just through the gap at the top of the first column to the right of the throne (left of someone sitting in the throne), a target block is barely visible, and can be shot. If shot, it will give the dialogue line, "[@] Royal Flush!"
     This will also spawn a new room elsewhere in the Aphelion, adding a bathroom to the first floor near the A rooms.
 
-[^1] i don't have to be impartial in footnotes so i will just say: please don't hurt them they are friends :(
+[^1]: i don't have to be impartial in footnotes so i will just say: please don't hurt them they are friends :(

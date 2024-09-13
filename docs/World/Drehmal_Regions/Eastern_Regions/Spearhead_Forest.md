@@ -68,5 +68,10 @@ Spearhead Forest's Terminus tower is located by the region's central east coast.
 
 
 
+
+### Skeveraan's House
+
+
+
 ### Timberhearth Observatory & Museum
 

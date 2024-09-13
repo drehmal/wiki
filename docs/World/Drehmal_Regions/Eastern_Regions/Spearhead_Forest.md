@@ -16,7 +16,11 @@ Spearhead Forest is home to the coastal town of [[New Mossfield]] on a peninsula
 
 [...]
 
-In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and instated as headquarters. The Order of Insohm was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield f
+In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and instated as headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
+
+The Order was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. Both the Insohmic Commonwealth and Provinces of Vir fought against separatists to secure the Order's unity during the [[Insohmic Civil War]], and emerged victorious. It is also probable that they acquired territory in the West during the [[Battle for Drehmal]].
+
+After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third Avihm, the Order of Insohm devolved into chaos, resulting in the destruction of Mossfield and the alliance's dissolution. Today, only the Insohmic Commonwealth in the smaller town of New Mossfield claims affiliation with the Order.
 
 ## Regional Map
 
@@ -24,7 +28,45 @@ In the mid Third Avihm, the introduction of airships used for trading brought ab
 
 ## [[Terminus Network|Terminus]] Tower
 
-
+Spearhead Forest's Terminus tower is located by the region's central east coast. Its bottom half is enveloped by the hollow base of a tree trunk. There are no hostile entities present.
 
 ## Points of Interest
+
+### Castle Hovadchear Crater
+
+
+
+### Helmshire
+
+
+
+### Insohmic Coven of Potentia
+
+
+
+### [[Insohmic Council Tower]]
+
+
+
+### Lily Meadows Inn
+
+
+
+### New Mossfield
+
+
+
+### Ruins of Mossfield
+
+
+
+### Ruins of Sevick
+
+
+
+### Ruins of Virsuhl
+
+
+
+### Timberhearth Observatory & Museum
 

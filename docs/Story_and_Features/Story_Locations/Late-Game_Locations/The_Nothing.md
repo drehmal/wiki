@@ -27,6 +27,9 @@ This is not, however, the end of the story, as the return to Mt. Yavhlix sees th
 ## Gameplay
 Mechanically, the Tethlaen fight is nearly identical to the vanilla Ender Dragon fight. The player emerges to the surface from a small stone building to find multiple discrete, but interconnected end islands. Tethlaen takes a physical form extremely similar to the Ender Dragon, and has very similar behaviors, with the exception of a couple new ranged attacks. He is healed by Unstable Primal Catalysts (end crystals) atop obsidian pillars around the arena, but in addition to the regular crystals, there are also three towers around the arena which each hold one crystal, and are guarded by a very strong enemy.
 
+![[the_nothing.png]]
+> The arena in The Nothing.
+
 Near the end of the fight, Tethlaen will begin to summon additional fear-themed enemies, including Ravager variants and other strong humanoid enemies.
 
 Players can fall into the void off the edge of any one of the islands, and will be instantly killed if they attempt to leave the bounds of the arena (as denoted by the yellow stained glass around the islands). These are possibly the only types of damage that the NoFail setting does not provide immunity to.

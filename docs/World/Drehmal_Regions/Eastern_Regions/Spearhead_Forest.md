@@ -65,15 +65,15 @@ New Mossfield is a port town on Spearhead Forest's southern east coast. Its buil
 
 ### Ruins of Mossfield
 
-Mossfield was originally built as a port for an unknown kingdom some time in the Second Avihm. It rose to prominence in the early Av3 500s when the new innovation of airship trade made it an optimal center of commerce. It quickly grew in size, and became the capital of the Order of Insohm (shortly) and Insohmic Commonwealth. As the Order expanded, the city developed into the largest city in Drehmari history and a center of industry, art and knowledge. Mossfield was mostly destroyed 
+Mossfield was originally built as a port for an unknown kingdom some time in the Second Avihm. It rose to prominence in the early Av3 500s, when the new innovation of airship trade made it an optimal hub of commerce. It quickly grew in size, and became the capital of the Order of Insohm (shortly) and Insohmic Commonwealth. As the Order expanded, Mossfield developed into the largest city in Drehmari history and a center of industry, art and knowledge. It was mostly destroyed at the end of the Third Avihm by intense riots, as Insohm fractured following the departure of Master Vahid. The grand city's stone ruins lay nearby the modern town of New Mossfield.
 
 ### Ruins of Sevick
 
-
+Sevick was an isolated town on a small, solitary island in the eastern ocean. Its inhabitants were driven into a frenzied paranoia about a supposed deadly plague after a diseased [[Gozak|Gozaki]] trader washed up on the shore. Three died from attempts to perform surgery on themselves, and the rest permanently evacuated the island. The remnants of the abandoned town still remain.
 
 ### Ruins of Virsuhl
 
-
+Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest
 
 ### Skeveraan's House
 

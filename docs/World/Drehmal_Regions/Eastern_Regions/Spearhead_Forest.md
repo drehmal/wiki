@@ -41,7 +41,7 @@ Spearhead Forest's Terminus tower is located by the region's central east coast.
 
 ### Castle Hovadchear Crater
 
-Castle Hovadchear was once the grand headquarters of the Order of Insohm and likely the home of [[Hovadchear Myrik|Master Hovadchear]] himself. In the late Third Avihm, the entire building as well as the ground beneath it suddenly vanished, leaving only a large crater behind. Today, a small, stone building overlooking the crater contains a memorial to Hovadchear Myrik, which is guarded by "The Mourner".
+Castle Hovadchear were once the grand headquarters of the Order of Insohm and likely the home of [[Hovadchear Myrik|Master Hovadchear]] himself. In the late Third Avihm, the entire building as well as the ground beneath it suddenly vanished, leaving only a large crater behind. Today, a small, stone building overlooking the crater contains a memorial to Hovadchear Myrik, which is guarded by "The Mourner".
 
 ### Helmshire
 

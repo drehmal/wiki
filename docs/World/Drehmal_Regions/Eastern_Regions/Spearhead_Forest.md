@@ -8,7 +8,12 @@ Spearhead forest is a relatively large region in eastern [[Drehmal (Place)|Drehm
 
 Spearhead forest is located on and encompasses a large portion of the east coast of Drehmal. The region is bordered by the Nahynaga Mountains to the west, separating it from [[Purity Peaks]] and the [[North Heartwood]], and the Verdant Mountains (including the [[Verdant Labyrinth]]) to the south, forming a boundary with the [[Black Jungle]] and Eye of Vir. It also borders [[Grand Pike Canyon]] to the northwest and [[Highfall Tundra]] to the northeast.
 
-The western, inland section and majority of the region's land area is covered in forest with tall spruce and oak trees and partial-podzol floor. The areas near the northern and mid shore are more open and grassy, and the spruces are thinly dispersed. Two large islands lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone. Beaches of gravel, dirt and clay line the coast.
+The western, inland section and majority of the region's land area is covered in forest with tall spruce and oak trees and partial-podzol floor. The areas near the northern and mid shore are more open and grassy, and the spruces here are thinly dispersed. A large lake filled with gigantic lilypads and flowers lies in the region's center. Two large islands lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone. Beaches of gravel, dirt and clay line the coast.
+
+**Environmental Sub-Regions:**
+- spruce and oak coniferous forest in west
+- sparsely wooded grassland in east
+- wooded islands in southeast
 
 Spearhead Forest is home to the coastal town of [[New Mossfield]] on a peninsula in the southeast and the small village of [[Helmshire]] in the western forest, below the Nahynaga mountains. [[Virtuo|Virtuo's]] faith is the region's dominant religion.
 
@@ -44,7 +49,7 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 ### Insohmic Coven of Potentia
 
-
+The Coven of Potentia was a group of [[Drehmari]] selected by the Order of Insohm for having relatively high perceived potentia (power of soul). They were trained at a facility on the eastern shore of an island far to the east of continental Spearhead Forest. 
 
 ### [[Insohmic Library Tower]]
 
@@ -67,7 +72,6 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 
 ### Ruins of Virsuhl
-
 
 
 

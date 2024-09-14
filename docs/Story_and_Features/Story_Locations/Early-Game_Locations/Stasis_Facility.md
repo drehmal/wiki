@@ -13,6 +13,7 @@ Within the story of the map, the Stasis Facility is a site where high-ranking [[
     | **X** | **Y** | **Z** |
     |:-----:|:-----:|:-----:|
     | 778   |   31  | 668   |
+    
     These coordinates correspond to the inside of the facility, just inside the holo-door.
 
 ## Story (Early-Game)

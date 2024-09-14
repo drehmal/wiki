@@ -53,7 +53,7 @@ The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by
 
 ### [[Insohmic Library Tower]]
 
-The Insohmic Library Tower stands on an island to the east of the ruins of Mossfield. It was used as the headquarters of the Order of Insohm after the disappearance of Castle Hovadchear, and the old Insohmic Council members continue to reside here.
+The Insohmic Library Tower is a small stone tower that stands on an island to the east of the ruins of Mossfield, connected by a bridge to the mainland peninsula. It was used as the headquarters of the Order of Insohm after the disappearance of Castle Hovadchear, and the old Insohmic Council members continue to reside here.
 
 ### Lily Meadows Inn
 
@@ -61,7 +61,7 @@ Lily Meadows Inn is a colorful inn in central Spearhead Forest, on a small islan
 
 ### New Mossfield
 
-
+New Mossfield is a port town 
 
 ### Ruins of Mossfield
 

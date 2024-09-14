@@ -26,7 +26,7 @@
 
 The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s dialogue in Drehmal: Apotheosis, from the end of the [[Primary Energy Collection Facility]] all the way through the true ending of the storyline.
 
-## Primary Collection Facility
+## [[Primary Energy Collection Facility]]
 > \*Player emerges from the Nothing after the vanilla Minecraft end credits.*
 > 
 > *A voice permeates your being.*

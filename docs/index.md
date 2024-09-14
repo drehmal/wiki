@@ -55,6 +55,15 @@ At the top of your screen, you should see 6 main tabs besides the current one, w
 
 Navigating through these tabs is the cleanest way to use this wiki, but there is also a built-in search function! Just be aware, this search bar will reveal **all** matches for a term, including matches for early-game terms on very late-game spoiler articles, so it is recommended that you stay away from that feature if you are at all concerned about spoilers.
 
+??? note "Progress Notes: Finished Sections"
+    The following sections are the ONLY parts of this wiki that have been thoroughly updated with new content and edited to a final-ish state. EVERYTHING except these sections should be considered unfinished, and carries a much higher risk of having inaccurate information or untagged spoilers. This will be updated as further progress is made. <br>
+    - (Lore) Books <br>
+    - (Lore) Transcripts <br>
+    - (Story & Features) Holotexts <br>
+    - (Story & Features) Devotion <br>
+    - (Story & Features) Advancements <br>
+    - (Story & Features) Story Progression + Story Locations
+
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!
 

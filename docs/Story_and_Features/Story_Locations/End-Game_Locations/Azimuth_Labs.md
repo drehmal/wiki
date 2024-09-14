@@ -4,7 +4,7 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "WARNING!!! This article/section contains EXTREMELY SIGNIFICANT spoilers for end-game areas (after the Mt. Yavhlix dungeon)."
+!!! danger "WARNING!!! This article contains EXTREMELY SIGNIFICANT spoilers for an end-game area (after Mt. Yavhlix)."
 
 !!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
 

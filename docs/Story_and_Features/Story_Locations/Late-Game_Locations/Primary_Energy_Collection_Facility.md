@@ -54,6 +54,8 @@ The primary mode of progression within Mt. Yavhlix is finding three override swi
 
 Players familiar with the Minecraft base game will instantly recognize the structure of this primal energy tear: the Minecraft End Portal. Scattered throughout the facility in chests are Oculi of Nothing ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" }, Drehmal's version of Eyes of Ender. Just as in the Minecraft base game, filling the empty portal frame with 12 Oculi of Nothing will override the seal on the tear, allowing entry into the Nothing by jumping into the opened portal.
 
+At the bottom of the facility, there is a bedrock seal which, when approached, gives the player the message: "The emptiness in your soul is strongest here." This area is not accessible during the initial visit to Mt. Yavhlix, but will be relevant later.
+
 ## Original Writing
 There are [11 holotexts](/Story_and_Features/Holotexts/Mt._Yavhlix_Dungeon/) to be found at the Primary Collection Facility, all in various states of disrepair after being partially (or, in some cases, mostly) consumed by holes, the same fate as most of the people at this location.
 

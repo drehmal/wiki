@@ -10,6 +10,8 @@ theme:
   favicon: assets/favicon.gif
   icon:
     repo: fontawesome/brands/github
+    admonition: 
+      abstract: fontawesome/solid/map-location
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

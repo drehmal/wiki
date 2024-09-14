@@ -9,6 +9,11 @@ The **Stasis Facility** is the first major story location in Drehmal, located in
 
 Within the story of the map, the Stasis Facility is a site where high-ranking [[Empire of Avsohm|Avsohmic]] officials were to be frozen in time in the event of an empire-wide catastrophe, released a few years later in order to rebuild the empire. The player assumes the identity of one of [[Stasis Eight|the eight officers on the bottom floor]], who are the only known survivors of the empire's collapse, after an unknown amount of time has passed.
 
+??? abstract "Coordinates[^1]"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 778   |   31  | 668   |
+
 ## Story (Early-Game)
 Upon entering the world, the player awakes in a temporal stasis pod, being informed by [[avSYS]] that several pods have flatlined, and they are being manually evacuated. After breaking out of the pod, the player will find themselves in a chamber with 23 other stasis pods, many of which contain the corpses of Avsohmic officials. 
 
@@ -60,3 +65,4 @@ As seen on the "[[stasis_info.md|-STASIS SYSTEM LOG-]]" holotext, four other pod
 
 Upon finishing the end-game sequence at the [[Resonant Halls]], the player will be instructed to return to the Stasis Facility. Here, the [[yellow|end-game guide]] reveals their true identity, as well as opening a portal to the [[Court of Nothing]], pushing the player toward the final main sequence of the map.
 
+[^1]: These coordinates correspond to the inside of the Stasis Facility, just inside the holodoor.

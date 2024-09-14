@@ -73,11 +73,12 @@ Sevick was an isolated town on a small, solitary island in the eastern ocean. It
 
 ### Ruins of Virsuhl
 
-Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest
+Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
 
 ### Skeveraan's House
 
-
+A large, lakeside house was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practicioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which support its owner's friendly guise. 
 
 ### Timberhearth Observatory & Museum
 
+Timberhearth Observatory & Museum is a building situated on a bluff in the region's northeastern grasslands. It

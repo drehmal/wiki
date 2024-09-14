@@ -21,7 +21,7 @@ Spearhead Forest is home to the coastal town of [[New Mossfield]] on a peninsula
 
 [...]
 
-In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and instated as headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
+In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Order of Insohm]] was established, it was initially baysed here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and instated as headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
 
 The Order was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. Both the Insohmic Commonwealth and Provinces of Vir fought against separatists to secure the Order's unity during the [[Insohmic Civil War]], and emerged victorious. It is also probable that they acquired territory in the West during the [[Battle for Drehmal]].
 
@@ -61,11 +61,11 @@ Lily Meadows Inn is a colorful inn in central Spearhead Forest, on a small islan
 
 ### New Mossfield
 
-New Mossfield is a port town 
+New Mossfield is a port town on Spearhead Forest's southern east coast. Its buildings are built of spruce wood and stone, with moss-covered roofs. The town came into being after the older and larger city of Mossfield fell into ruin at the end of the Third Avihm
 
 ### Ruins of Mossfield
 
-
+Mossfield was originally built as a port for an unknown kingdom some time in the Second Avihm. It rose to prominence in the early Av3 500s when the new innovation of airship trade made it an optimal center of commerce. It quickly grew in size, and became the capital of the Order of Insohm (shortly) and Insohmic Commonwealth. As the Order expanded, the city developed into the largest city in Drehmari history and a center of industry, art and knowledge. Mossfield was mostly destroyed 
 
 ### Ruins of Sevick
 

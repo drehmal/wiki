@@ -70,7 +70,7 @@ Upon reaching 75% tower linkage (24 towers), the player will be given one more c
 At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named [[Verpyne]], requesting reinforcements aboard the greatest ship in the Avsohmic fleet: [[Aphelion|The Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
 
 ## The Aphelion 
-When returning to the Terminus after being prompted to do so in the Admin Wing, the player will gain access to a new wing in the Outer Towers section of the Terminus. At the end of this wing is a small space shuttle that takes the player to [[The Aphelion|the Aphelion]]. 
+When returning to the Terminus after being prompted to do so in the Admin Wing, the player will gain access to a new wing in the Outer Towers section of the Terminus. At the end of this wing is a small space shuttle that takes the player to the [[Aphelion]]. 
 
 ![[aphelion_outside.png]]
 > The Aphelion.

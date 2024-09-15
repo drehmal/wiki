@@ -19,7 +19,7 @@ For a more detailed (and very spoiler-heavy) overview of the story, see [[Story 
 
 **75% Completion Event:** <br>
 [[Admin Wing|Part 1: Administrative Wing]] <br>
-[[The Aphelion|Part 2: The Ship]]
+[[Aphelion|Part 2: The Ship]]
 
 **Post-75% Locations:** <br>
 [[Core Facility]] <br>

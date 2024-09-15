@@ -20,9 +20,8 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-!!! info "So be it."
-
-!!! success "![Open Spoiler Door](/assets/img/yav_dooropen.png)"
+???+ success "So be it."
+    ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
 The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s dialogue in Drehmal: Apotheosis, from the end of the [[Primary Energy Collection Facility]] all the way through the true ending of the storyline.
 

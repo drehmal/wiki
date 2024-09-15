@@ -5,11 +5,9 @@ search:
 
 # The True End
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
-!!! danger "WARNING!!! This article contains EXTREMELY SIGNIFICANT spoilers for the final area in the story of Drehmal (after Mt. Yavhlix)."
+!!! danger "WARNING!!! This article contains EXTREMELY SIGNIFICANT spoilers for the final area in the story of Drehmal."
 
 !!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
 
@@ -32,9 +30,9 @@ The **True End** is the name for the final location in the main story of Drehmal
 
 ## Story
 ![[true_end_realmbinder.png]]
-> The Realmbinder statue in the True End, with its sign partially faded.
+> The Stasis Facility Realmbinder statue in the True End, with its sign partially faded.
 
-After defeating the [[Emissary of the Void]], the player is given one final portal to step through, transporting them back to the Stasis Facility.  However, the player will notice that the facility is different—quieter, grayer, and worn-down. As they progress toward the surface just as they did at the beginning of the map, the player will notice sand that has leaked in from the surface, and see that much of the facility appears to have decayed.
+After defeating the [[Emissary of the Void]], the player is given one final portal to step through, transporting them back to the Stasis Facility. However, the player will notice that the facility is different—quieter, grayer, and worn-down. As they progress toward the surface just as they did at the beginning of the map, the player will notice sand that has leaked in from the surface, and see that much of the facility appears to have decayed.
 
 ![[true_end_primal_caverns.png]]
 > The Primal Caverns within the dune.
@@ -53,8 +51,8 @@ The [Aspects](/Lore/Higher_Beings/Aspects/) refused to settle their differences,
 
 [[Drehmal]] finally awoke and emerged from the caverns, only to find the world they had created was almost entirely dead—dead except for them. However, at the very same time, the player, experiencing time much differently while in the Nothing, was still alive: the last of their [[Drehmari]], alive and fighting at the end of time, and with this, the creator deity felt peace in their final moments.
 
-![[true_end_drehmal.png]]
-> Drehmal, at their final place of rest.
+??? danger "Drehmal, at their final place of rest. "
+    ![[true_end_drehmal.png]]
 
 The Mythoclast then offers the player closure, asking if they are ready to move on. If the player selects "Yes," then they will be killed and taken away to the end credits room. If they select "Not Yet," then they may wander the dunes for as long as they like, before returning to Drehmal's skeleton and moving on. Either way, the player is the final being alive in the realm of Drehmal, and is offered closure.
 

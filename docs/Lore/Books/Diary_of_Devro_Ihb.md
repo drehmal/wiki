@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in [[Port Solitude]]. Written by [[Devro Ihb]], it comes before Ihb was offered a position within the [[Empire of Avsohm]] as a pilot.
+This book can be found on a lectern in [[Port Solitude]]. Written by [[Devro Ihb]], it comes before Ihb was offered a position within the [[Avsohm|Avsohmic government]] as a fighter pilot.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -10,7 +10,7 @@ Av2 1200s or 1300s) - (Unknown year, probably late Av2 1500s or early Av2 1600s)
 > - **Rulers:** Drehn Mal'Sohm (final king)
 > - **Religion:** Worship of [[Drehmal]].
 
-The Chosen Kingdom was a kingdom located in the Central Plains during the Second Avihm, and the predecessor to the [[Empire of Avsohm]]. 
+The Chosen Kingdom was a kingdom located in the Central Plains during the Second Avihm, and the predecessor to [[Avsohm]]. 
 
 ## Origins
 

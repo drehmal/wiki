@@ -18,7 +18,7 @@ In the center of the terminus, below a transparent floor, there is a rough physi
 ![[cv_tower.png]]
 > The [[Capital Valley]] Terminus tower, often the first that the player will come across. 
 
-Terminus towers are recognizable by their late [[Empire of Avsohm|Avsohmic]] architecture, consisting primarily of quartz, with a purple-colored central pillar. The tops of the towers are small, partially-enclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
+Terminus towers are recognizable by their late [[Avsohm|Avsohmic]] architecture, consisting primarily of quartz, with a purple-colored central pillar. The tops of the towers are small, partially-enclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
 
 Different Terminus towers have different features, often being guarded by enemies or having parkour leading to the top. Most towers do not have direct access to the top, meaning players must pillar up or use some other means of reaching the button.
 

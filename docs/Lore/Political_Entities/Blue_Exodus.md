@@ -16,7 +16,7 @@
 > - **Leaders:** [[Kahmas Tuhs]] (final CEO)
 
 
-Blue Exodus was a corporation focused on producing military equipment and a member of the [[Empire of Avsohm]]'s Big Three, becoming an essential part of the empire's industry and deeply entwined with its government. Because of this strong relation, most Blue Exodus officials disappeared during the events of Avsohm's collapse, causing the organization's abrupt end.
+Blue Exodus was a corporation focused on producing military equipment and a member of the [[Avsohm|Empire of Avsohm]]'s Big Three, becoming an essential part of the empire's industry and deeply entwined with its government. Because of this strong relation, most Blue Exodus officials disappeared during the events of Avsohm's collapse, causing the organization's abrupt end.
 
 ## Origins
 

@@ -1,7 +1,7 @@
 # Dune Wars
 
 > - **Duration:** Av2 1820 - (unknown year, early Av3, after Av3 21)
-> - **Belligerents:** [[Empire of Maelihs]] vs. Remnants of [Avsohm[Empire of Avsohm]], Other Resistance
+> - **Belligerents:** [[Empire of Maelihs]] vs. Remnants of [[Avsohm|Empire of Avsohm]], Other Resistance
 > - **Leaders:** [[Maelihs]] (Empire of Maelihs)
 
 The Dune Wars were a series of conflicts fought between the Empire of Maelihs and unorganized resistance in the remains of the Empire of Avsohm, as Maelihs conquered the majority of West in the wake of [Avsohm's collapse[Fall of Avsohm]].
@@ -16,4 +16,4 @@ After the sudden disappearence of Avsohm's government and much of its military, 
 
 ## War and Effects
 
-Few details are known about the ensuing war. After Sal'Anyr, a city that was once regarded as an invincible stronghold, succumbed so quickly to Maelihs's forces, it became clear that it wouldn't be long until almost the entire West fell under his control. Many [Casains[Casai]], anticipating an invasion, evacuated their homeland, most of whom fled across the Gulf of Drehmal to [[Akhlo'Rohma]]. This mass-migration would ultimately lead to the [[Dohval Civil War]] and have a lasting effect on Akhlo'Rohman history. Maelihs's armies encountered loose resistance against their conquest. During the war, they continued to utilize airships as well as employing destructive Skullbeasts, the offspring of the Skullmother. Toward the end of the Dune Wars, Maelihs himself was present on the frontlines to lead his troops. In the end, the Empire of Maelihs successfully had subjugated the Tharhan Plains (now renamed to Tharxax), [[Nimahj Swamp]], Anyr'Nogur, the [[Ebony Veldt]], [[Mt. Ebonfire]] and Casai.
+Few details are known about the ensuing war. After Sal'Anyr, a city that was once regarded as an invincible stronghold, succumbed so quickly to Maelihs's forces, it became clear that it wouldn't be long until almost the entire West fell under his control. Many [[Casai|Casains]], anticipating an invasion, evacuated their homeland, most of whom fled across the Gulf of Drehmal to [[Akhlo'Rohma]]. This mass-migration would ultimately lead to the [[Dohval Civil War]] and have a lasting effect on Akhlo'Rohman history. Maelihs's armies encountered loose resistance against their conquest. During the war, they continued to utilize airships as well as employing destructive Skullbeasts, the offspring of the Skullmother. Toward the end of the Dune Wars, Maelihs himself was present on the frontlines to lead his troops. In the end, the Empire of Maelihs successfully had subjugated the Tharhan Plains (now renamed to Tharxax), [[Nimahj Swamp]], Anyr'Nogur, the [[Ebony Veldt]], [[Mt. Ebonfire]] and Casai.

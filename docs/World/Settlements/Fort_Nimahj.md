@@ -62,6 +62,6 @@ Several homestay rooms, market, blacksmith, stable, throne, and watch towers.
 
 ## Lore
 
-Fort Nimahj is a fortress constructed during the [[Empire_of_Avsohm|Avsohmic]] Era in order to secure their western provinces. It has remained standing for hundreds of years, despite being captured for a few centuries by [[Maelihs]] after the [[Dune Wars]]. The [[Siege of Fort Nimahj]] caused considerable damage, however the fort stood strong. It was recaptured by the [[Insohm|Order of Insohm]] in the Third Avihm, and used as a base of operation for the [[Reconquest of the West]].
+Fort Nimahj is a fortress constructed during the [[Avsohm|Avsohmic]] Era in order to secure their western provinces. It has remained standing for hundreds of years, despite being captured for a few centuries by [[Maelihs]] after the [[Dune Wars]]. The [[Siege of Fort Nimahj]] caused considerable damage, however the fort stood strong. It was recaptured by the [[Insohm|Order of Insohm]] in the Third Avihm, and used as a base of operation for the [[Reconquest of the West]].
 
 Ever since then, Fort Nimahj has remained strong and welcomed those in need, even when neighboring regions fell to the [[Empire of Mael]] in recent years. It is a beacon of hope for Drehmari throughout the realm.

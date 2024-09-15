@@ -10,7 +10,7 @@
 ![[ruins_of_sallorahn.png]]
 > #### Ruins of Sal'Lorahn with a depiction of the three moons in the center (from left to right: Lorahn, Lo'Dahr, Loruhn).
 
-The Tri-Moon Theocracy was a theocratic state in Lorahn'Kahl that lasted several centuries in the Second Avihm, predating [[Empire of Avsohm|Avsohm]]. It was formed by outcast [[Necromancy|necromancers]], and was an enemy to both of its geographical neighbors, the Empire of Avsohm and [[Empire of Maelihs]]. Because of this tension, several armed conflicts centered around the Theocracy occurred in the early Av2 1700s.
+The Tri-Moon Theocracy was a theocratic state in Lorahn'Kahl that lasted several centuries in the Second Avihm, predating [[Avsohm]]. It was formed by outcast [[Necromancy|necromancers]], and was an enemy to both of its geographical neighbors, the Empire of Avsohm and [[Empire of Maelihs]]. Because of this tension, several armed conflicts centered around the Theocracy occurred in the early Av2 1700s.
 
 ## Formation
 

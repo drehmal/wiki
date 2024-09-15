@@ -68,7 +68,7 @@ After the Emissary fight has concluded, the player can step into the final porta
 ## Lore
 The Heart of the Void appears to be the core of the Nothing, where the Mythoclast creates realms, and where they are ultimately pulled back at the end of their lifespans. The skybox in this area shows numerous bright spots resembling stars in all directions, although the knowledge unveiled in Avsohm's third dive would suggest that these are all other realms, effectively contained universes. To the south, the player can see a disc resembling Drehmal, which appears barren and covered in sand. To the north, a massive swirling cluster of purple and orange, somewhat reminiscent of an eye, looms over the backdrop of the Path.
 
-This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Great Work]] but believes there is still one more Sphere to ascend to, describing visions of the Heart of the Void and whispers pushing him there, presumably from [[Aok]].
+This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Great Work]] but believes there is still one more step to true apotheosis, describing visions of the Heart of the Void and eidolic whispers pushing him there, presumably from [[Aok]].
 
 ## Extras
 The enemies along the path whose names cannot be read normally do have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend."

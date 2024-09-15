@@ -14,7 +14,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-!!! danger "Because of the gravity of this article, just in case you haven't beaten the map and are still here, here's another spoiler warning."
+!!! danger "Just in case you haven't beaten the map and are still here, because of the gravity of this article, here's another spoiler warning."
 
 !!! danger "This is LITERALLY the **ENTIRE END OF THE STORY**!!!"
 

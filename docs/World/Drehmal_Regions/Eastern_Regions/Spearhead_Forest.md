@@ -1,6 +1,6 @@
 # Spearhead Forest
 
-
+![[Spearhead_Forest.png]]{ align=right width="300" }
 
 Spearhead forest is a relatively large region in eastern [[Drehmal (Place)|Drehmal's]]. The region's landscape is comprised of spruce forest and grassland. Its name references the pointed, coniferous trees that heavily populate the area.
 

@@ -81,4 +81,4 @@ A large, lakeside house was home to a Skeveraan who was responsible for abductin
 
 ### Timberhearth Observatory & Museum
 
-Timberhearth Observatory & Museum is a building situated on a bluff in the region's northeastern grasslands. It
+Timberhearth Observatory & Museum is a building positioned on a bluff in the region's northeastern grasslands. It

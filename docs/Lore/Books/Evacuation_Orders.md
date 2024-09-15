@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-This book can be found in a chest in [[Mt. Yavhlix]], written by [[Orix Cehein]] to all staff at the facility.
+This book can be found in a chest in the [[Primary Energy Collection Facility]], written by [[Orix Cehein]] to all staff at the facility.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -8,7 +8,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found in a chest in the Administrative Wing of the [[Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
+This book can be found in a chest in the [[Admin Wing|Administrative Wing of the Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

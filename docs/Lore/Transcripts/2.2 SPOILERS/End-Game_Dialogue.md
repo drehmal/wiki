@@ -14,19 +14,18 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-!!! danger "Because of the gravity of this article, just in case you haven't beaten the map and are still here, here's another spoiler warning."
+!!! danger "Just in case you haven't beaten the map and are still here, because of the gravity of this article, here's another spoiler warning."
 
 !!! danger "This is LITERALLY the **ENTIRE END OF THE STORY**!!!"
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-!!! info "So be it."
-
-!!! success "![Open Spoiler Door](/assets/img/yav_dooropen.png)"
+???+ success "So be it."
+    ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
 The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s dialogue in Drehmal: Apotheosis, from the end of the [[Primary Energy Collection Facility]] all the way through the true ending of the storyline.
 
-## Primary Collection Facility
+## [[Primary Energy Collection Facility]]
 > \*Player emerges from the Nothing after the vanilla Minecraft end credits.*
 > 
 > *A voice permeates your being.*
@@ -326,7 +325,7 @@ The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s 
 >
 > \*Player steps through the portal, emerging onto the Maddened Path.*
 
-## The [[Maddened Path]]/Heart of Nothing
+## The [[Maddened Path]]/Heart of the Void
 > [The Mythoclast] Behold. The beating heart of beyond. At its center, my throne. Past its borders, the primordial nothing and pockets of chromatic fury. It is the seedbed of all things.
 >
 > [The Mythoclast] It is the heart to my mind. We drift ever closer, tidal forces tearing apart anything that comes near.

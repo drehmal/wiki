@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-The Madman's Notes can be found in a chest in [[Mt. Yavhlix]], near the dungeon's entrance.
+The Madman's Notes can be found in a chest in the [[Primary Energy Collection Facility]], near the dungeon's entrance.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

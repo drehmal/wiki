@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-They've Been Lost can be found in a chest in [[Mt. Yavhlix]]. It describes the corruption of one of the workers at the [[Primary Collection Facility]], Theru, being corrupted by forces beyond her control.
+They've Been Lost can be found in a chest in the [[Primary Energy Collection Facility]]. It describes the corruption of one of the workers at the [[Primary Collection Facility]], Theru, being corrupted by forces beyond her control.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

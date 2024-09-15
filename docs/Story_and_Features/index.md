@@ -2,7 +2,15 @@
 
 !!! warning "The Story & Features section is currently a work in progress. Pages may be incomplete, and several more are yet to be added. Stay tuned!"
 
-The map of Drehmal introduces many new features to the game as well as its own [[Story Progression|storyline]].
+The map of Drehmal fundamentally revolves around its story, and the fundamental mechanics that it adds to the game of Minecraft. Articles relating to the main story of Drehmal: Apotheosis and the unique features tied to that story are found in this section of the wiki.
+
+## Main Story
+
+The main story of Drehmal takes place in many different locations, linked directly to exploration. Story progression is linked to Terminus Network linkage in the early game, with milestones at 25%, 50%, and 75% linkage prompting the player to visit a story area. Towers can be linked in almost any order, and while the story events are intended to be experienced in order, you may explore the map at your own pace and with your own unique path.
+
+For a summary of the main story, see [[Story Progression]].
+
+Individual pages on each story location, including a summary of the story events there, gameplay tips, and lore on the location in-universe, can be found [here](/Story_and_Features/Story_Locations/).
 
 ## [[Terminus Network]]
 
@@ -10,7 +18,7 @@ Scattered around the map are Terminus towers, white and purple spires from the t
 
 ## [Holotexts](/Story_and_Features/Holotexts/)
 
-At major story locations, the player will discover holographic text images, known as holotexts. These short pieces of writing provide important story information and hints for  puzzles in the area. A full list of all 139 holotexts found on Drehmal, organized by location with coordinates, descriptions, images, and alt text transcriptions, can be found in this section of the wiki.
+At major story locations, the player will discover holographic text images, known as holotexts. These short pieces of writing provide important story information and hints for puzzles in the area. A full list of all 139 holotexts found on Drehmal, organized by location with coordinates, descriptions, images, and alt text transcriptions, can be found in this section of the wiki.
 
 ## Special Merchants
 
@@ -20,7 +28,7 @@ Runic Blacksmiths are present in most settlements, and some other populated stru
 
 [Adventuring Merchants[Adventuring Merchsnt]] are present at all official towns on [[Overworld|Drehmal]], indicated by striped red and orange canvas. They sell a map of the town's region (showing some nearby landmarks), a map of Drehmal showing the locations of all official towns on the mainland continent, bundles and an additional item that differs with each merchant.
 
-## [[Special Items]]
+## Special Items
 
 Many custom items can be found around the map, and these items have different classes; trinket, artifact, artisan, relic, legendary and mythical. Special items each have their own descriptions and usually stat modifiers, and some classes of items have unique sprites/models.
 
@@ -28,8 +36,8 @@ Many custom items can be found around the map, and these items have different cl
 
 Devotion is a mechanic that allows players to give offerings to certain Aspects and Deities, in the form of specific items that appease them. Offers are given at devotion altars dedicated to the recipient. The more items offered, the more the player's devotion to that aspect/deity increases, and as it increases they will be gifted rewards, including [[Relics]] (offhand stat-modifying items).
 
-## [[Soundtrack]]
+## Soundtrack
 
-Drehmal boasts a custom OST created by Chris Nesja and Penngo, with tracks corresponding to individual towns and areas, as well as general exploration music. Every official town on the map has its own theme song. There are also leitmotifs for certain entities that are present throughout multiple tracks. Many tracks can be listened to at any time in-game with the item [[AvPod]], as long as the player has heard them at some point before.
+Drehmal boasts a [custom OST](https://www.youtube.com/playlist?list=PLXvAOqL1yGd2s1dBYMoNzLDnpJNK6nWvm) created by Chris Nesja and Penngo, with tracks corresponding to individual towns and areas, as well as general exploration music. Every official town on the map has its own theme song. There are also leitmotifs for certain entities that are present throughout multiple tracks. Many tracks can be listened to at any time in-game with the item [[AvPod]], as long as the player has heard them at some point before.
 
 

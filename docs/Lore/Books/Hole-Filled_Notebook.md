@@ -8,7 +8,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-Hole-Filled Notebook can be found in a chest in [[Mt. Yavhlix]].
+Hole-Filled Notebook can be found in a chest in the [[Primary Energy Collection Facility]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

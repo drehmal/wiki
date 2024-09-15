@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-This book can be found in a chest within [[Mt. Yavhlix]], written from [[Gohri Zed]] to [[Thresa Vera]].
+This book can be found in a chest within the [[Primary Energy Collection Facility]], written from [[Gohri Zed]] to [[Thresa Vera]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

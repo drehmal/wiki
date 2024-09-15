@@ -7,7 +7,7 @@ tags:
 
 --8<-- "yav_spoiler.md"
 
-This book can be found in a chest inside [[Mt. Yavhlix]].
+This book can be found in a chest inside the [[Primary Energy Collection Facility]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

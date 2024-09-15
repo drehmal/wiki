@@ -58,7 +58,7 @@ Little is known about the First Avihm. It is clear that it ended with the destru
 -   Year 100 - Maelihs sends outrider parties to cause chaos in the weakened Drehmari kingdoms. Kingdoms become more militaristic in response.
 -   Year 125 - The ironically named Peace Wars begin between the kingdoms due to disagreements on how the outriders should be dealt with.
 -   Year 150 - Maelihs finishes construction of a legion to invade the East and is forced to go through the Verdant Labyrinth. He fails, then goes on to attack a nearby city in anger.
--   Year 560 - After centuries of war, [[Hovadchear Myrik and Ultva Utofahl]] found the [[Order of Insohm]], a different approach to the ways of the Avsohmic Empire. It is constructed more as a loose union rather than an empire with one source of law. Many kingdoms join the Order in hopes that they will regain their strength through unity.
+-   Year 560 - After centuries of war, [[Hovadchear|Hovadchear Myrik]] and [[Ultva|Ultva Utofal]] found the [[Insohm|Order of Insohm]], a different approach to the ways of the Avsohmic Empire. It is constructed more as a loose union rather than an empire with one source of law. Many kingdoms join the Order in hopes that they will regain their strength through unity.
 
 **The Order of Insohm** _With the newly-created Order of Insohm, the people of Drehmal gain hope to take back the West and defeat Maelihs._
 

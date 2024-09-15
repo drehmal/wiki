@@ -191,7 +191,7 @@ At the Terminus, a final trinket is dispensed: The Rhythmic Thing. This item dir
 At this point, the voice reveals their true identity: [[yellow|The Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including Drehmal, with far more power than any of the Aspects or Deities. The Mythoclast gives the player a new rendition of the [[Mythbreaker]] (known in the community as the "True" Mythbreaker), and invites the player to their court, where the player is told that guests are expecting them.
 
 ## Court of Nothing
-Upon stepping through the portal in the Stasis Facility, the player is transported to the [[Court of Nothing]], the Mythoclast's Court in which they judge all souls. Within the court, the player fights the reanimated forms of [[Ultva Utofal]] and [[Hovadchear Myrik]], the two leaders of the Order of [[Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the [[Maddened Path]].
+Upon stepping through the portal in the Stasis Facility, the player is transported to the [[Court of Nothing]], the Mythoclast's Court in which they judge all souls. Within the court, the player fights the reanimated forms of [[Ultva|Ultva Utofal]] and [[Hovadchear|Hovadchear Myrik]], the two leaders of the Order of [[Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the [[Maddened Path]].
 
 The player is warned before entering that this is their final journey, as time flows differently where they're headed.
 

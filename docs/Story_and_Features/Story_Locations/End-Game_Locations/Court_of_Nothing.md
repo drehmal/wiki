@@ -45,7 +45,7 @@ This room contains a mural of the Mythoclast, which he[^1] claims does not direc
 ![[court_of_nothing.png]]
 > The main room of the Court of Nothing.
 
-Once the player is ready, they may proceed through the portal, where they are teleported to the Court. Proceeding upwards along a long walkway, the player eventually ends up in the Court itself, in a large room with a yellow throne and an eye positioned directly above it. In this room, the player is thrust into a boss battle against [[Ultva Utofal|Ultva, Genocide of One]] and [[Hovadchear Myrik|Hovadchear, Master of the Order]], the two founders of [[Insohm]]. These two, whose disappearances threw Insohm into chaos and effectively ended advanced civilization on Drehmal, have been kept alive by the Mythoclast.
+Once the player is ready, they may proceed through the portal, where they are teleported to the Court. Proceeding upwards along a long walkway, the player eventually ends up in the Court itself, in a large room with a yellow throne and an eye positioned directly above it. In this room, the player is thrust into a boss battle against [[Ultva|Ultva, Genocide of One]] and [[Hovadchear|Hovadchear, Master of the Order]], the two founders of [[Insohm]]. These two, whose disappearances threw Insohm into chaos and effectively ended advanced civilization on Drehmal, have been kept alive by the Mythoclast.
 
 When the player defeats these two, the Mythoclast laments their ultimate fate, and states that they will now be reborn. He then calls the player forward through one more portal, ending the section by taking the player to the [[Maddened Path]].
 

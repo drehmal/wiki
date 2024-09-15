@@ -326,7 +326,7 @@ The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s 
 >
 > \*Player steps through the portal, emerging onto the Maddened Path.*
 
-## The [[Maddened Path]]/Heart of Nothing
+## The [[Maddened Path]]/Heart of the Void
 > [The Mythoclast] Behold. The beating heart of beyond. At its center, my throne. Past its borders, the primordial nothing and pockets of chromatic fury. It is the seedbed of all things.
 >
 > [The Mythoclast] It is the heart to my mind. We drift ever closer, tidal forces tearing apart anything that comes near.

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Story Progression
 
 --8<-- "under_construction.md"

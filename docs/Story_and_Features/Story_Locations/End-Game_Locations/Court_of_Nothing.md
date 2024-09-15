@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 # Court of Nothing
 
 --8<-- "under_construction.md"
@@ -62,4 +67,4 @@ At the very top of the room is a massive orb, strongly resembling an eye. It is 
 The dialogue transcript from this section can be found [[End-Game_Dialogue.md|here]]. This article contains sections 6-8 (**Terminus (Post-Halls)** through **Court of Nothing**).
 
 
-[^1]: From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" to describe Mytho and his voice are purely for spoiler protection at that point in the story.
+[^1]: From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" or "they" to describe Mytho and his voice are purely for spoiler protection at that point in the story.

@@ -178,7 +178,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Upper-Upper Class | A historic palace-fortress, it is the traditional nexus of Akhlo’Rohman political and alchemical power. What strange and sinister events may be occurring behind its multicolored walls? - Discovered Ancehl Castle | Enter [[Ancehl Castle]]. |
     | Secret Sanctum | A civilization lost to the ravages of time and conquest still retained one secret, until now - Discovered the true Altar of Insight | Discover the [[Altar of Insight]]. |
     | Monastery of Virtuo | A devout order of Drehmari founded this austere monastery long ago to follow the teachings of Virtuo. What secrets lie within its lofty towers and crystal caverns? - Discovered Teiruun | Discover [[Teiruun Monastery]]. |
-    | The Insohmic Library | After the disappearance of Castle Hovadchear, this was the Order of Insohm's headquarters. - Discovered the Old Library Tower | Discover the [[Old Insohmic Library]]. |
+    | The Insohmic Library | After the disappearance of Castle Hovadchear, this was the Order of Insohm's headquarters. - Discovered the Old Library Tower | Discover the [[Insohmic Library]]. |
     | Grave of Frost | A master arcanist of unlimited potentia, he froze the North in rebellion to Avsohm. - Discovered the resting place of Homli Tahsgan | Discover [[Homli's Grave]]. |
     | Wall of the West | BIG WALL. - Discovered Maehrn'Vhos | Discover [[Maehrn'Vhos]]. |
     | Capital of War | Sal'Anyr's fall marked the beginning of the Dune Wars, and the start of the third Avihm. - Discovered the ruins of Sal'Anyr | Enter the ruins of [[Sal'Anyr]]. |

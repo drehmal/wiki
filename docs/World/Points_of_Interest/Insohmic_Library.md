@@ -29,4 +29,4 @@ A chest at **4565, 106, 1587** contains the legendary item [[Mythical Weapons|Pe
 
 ## Lore
 
-After [[The Mystery of Castle Hovadchear|the disappearance of Castle Hovadchear]], Mossfield became the capital of the [[Order of Insohm]], the greatest power of the Third Avihm. This tower was the Insohmic Council’s Headquarters during that time.
+After the disappearance of [[Castle Hovadchear]], Mossfield became the capital of the [[Insohm|Order of Insohm]], the greatest power of the Third Avihm. This tower was the Insohmic Council’s Headquarters during that time.

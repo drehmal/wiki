@@ -17,33 +17,33 @@ Major Aspects are considered to be the most important Aspects and those with the
 
 Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exception to this is Lahrs, who was created by the Primal Tree and is the subject of debate for classification (Verrhys was also created by the Primal Tree, but their existence isn't known to people in the present day.)
 
-### List
+### Aspect List
 
-| Aspect            | Title                | Gender |
-| ----------------- | -------------------- | ------ |
-| **[[Khive]]**     | Aspect of Magic      | N      |
-| **[[Dahr]]**      | Aspect of the Sea    | M      |
-| **[[Rihelma]]**   | Aspect of the Sky    | F      |
-| **[[Taihgel]]**   | Aspect of Land       | N      |
-| **[[Vayniklah]]** | Aspect of Life       | F      |
-| **[[Voynahla]]**  | Aspect of Death      | M      |
-| **[[Lai]]**       | Aspect of Warmth     | M      |
-| **[[Loe]]**       | Aspect of the Cold   | F      |
-| **[[Verrhys]]**   | Aspect of Silence    | N (?)  |
-| **[[Lahrs]]**     | Aspect of Resonance  | N      |
-| **[[Moen]]**      | Aspect of Pleasure   | N (?)  |
-| **[[Maen]]**      | Aspect of Pain       | N (?)  |
-| **[[Tethlaen]]**  | Aspect of Fear       | N      |
-| **[[Dahroehl]]**  | Aspect of Freshwater | N      |
-| **[[Palaesida]]** | Aspect of Storms     | M      |
-| **[[Rihalae]]**   | Aspect of Wind       | N      |
-| **[[Nahyn]]**     | Aspect of Mountains  | M      |
-| **[[Koh]]**       | Aspect of Stone      | ?      | No |
-| **[[Noha]]**      | Aspect of Harvest    | F      |
-| **[[Mari]]**      | Aspect of People     | M      |
-| **[[Muhs]]**      | Aspect of Beasts     | M      |
-| **[[Lailoehn]]**  | Aspect of Fire       | M      |
-| **[[Loeleyhn]]**  | Aspect of Snow       | F      |
+| **Aspect**        | **Title/Domain**     |  **Gender (Pronouns)**[^1]  |
+|:------------------|:--------------------:|----------------------------:|
+| **[[Khive]]**     | Aspect of Magic      | M (he/him or they/them)     |
+| **[[Dahr]]**      | Aspect of Sea        | M (he/him)                  |
+| **[[Rihelma]]**   | Aspect of Sky        | F (she/her)                 |
+| **[[Taihgel]]**   | Aspect of Land       | N (it/its or they/them)     |
+| **[[Vayniklah]]** | Aspect of Life       | F (she/her or it/its)       |
+| **[[Voynahla]]**  | Aspect of Death      | M (he/him or it/its)        |
+| **[[Lai]]**       | Aspect of Warmth     | M (he/him)                  |
+| **[[Loe]]**       | Aspect of Cold       | F (she/her)                 |
+| **[[Verrhys]]**   | Aspect of Silence    | N (it/they)                 |
+| **[[Lahrs]]**     | Aspect of Resonance  | M/F (he/him or she/her)     |
+| **[[Moen]]**      | Aspect of Pleasure   | F (she/her or they/them)    |
+| **[[Maen]]**      | Aspect of Pain       | M (he/him or it/its)        |
+| **[[Tethlaen]]**  | Aspect of Fear       | M (he/him or they/them)     |
+| **[[Dahroehl]]**  | Aspect of Freshwater | M/F (he/him or she/her)[^2] |
+| **[[Palaesida]]** | Aspect of Storms     | M (he/him)                  |
+| **[[Rihalae]]**   | Aspect of Wind       | F (she/her or it/its)       |
+| **[[Nahyn]]**     | Aspect of Mountains  | M (he/him)                  |
+| **[[Koh]]**       | Aspect of Stone      | N (it/its or they/them)     |
+| **[[Noha]]**      | Aspect of Harvest    | F (she/her or they/them)    |
+| **[[Mari]]**      | Aspect of Drehmari (People)   | M (he/him)         |
+| **[[Muhs]]**      | Aspect of Beasts     | M (he/him or they/them)     |
+| **[[Lailoehn]]**  | Aspect of Fire       | M (he/him)                  |
+| **[[Loeleyhn]]**  | Aspect of Snow       | F (she/her)                 |
 
 ## The Three Deities
 
@@ -56,3 +56,7 @@ The origins of the [[Primal Tree]] are unclear, but it was most likely the first
 ## Other Higher Beings
 
 There are presumed to be [[yellow|other higher beings]] above the realm of Drehmal's plane of existence, but very little is known about them.
+
+
+[^1]: Aspects' gender is extrapolated from the pronouns used to refer to them in-game, which are canon. M = Masculine, F = Feminine, N = Neither/Nonbinary
+[^2]: References to Dahroehl typically alternate between both use of masculine and feminine pronouns, implying that the Aspect is genderfluid.

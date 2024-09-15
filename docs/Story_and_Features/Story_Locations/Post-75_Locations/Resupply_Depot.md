@@ -1,7 +1,5 @@
 # Resupply Depot
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "SPOILER WARNING!"
@@ -19,6 +17,13 @@
 The **Resupply Depot** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the southeast of the moon's habitable area, in [[Rihelma's Domain]]. The facility is found on a floating island in the far east of the northern sub-region of Rihelma's Domain, over 100 blocks above ground level. It was the first Avsohmic facility built on Lo'Dahr, and served as a transportation hub in the empire's efforts to colonize the moon.
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    |  1192 |  149  |  328  |
+
+    Within the Lo'Dahr dimension, these coordinates place the player at the surface of the Resupply Depot, atop the floating island.
 
 ## Story
 After reaching the Core Facility, the player will likely find the map depicting the four main Avsohmic facilities on Lo'Dahr, one of which is the Resupply Depot. There is no correct or intended order to visit the other three facilities, as long as the player eventually learns the lessons from each one. 

@@ -1,18 +1,23 @@
 # Administrative Wing
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "This article contains spoilers for the first portion of the 75% completion story event."
 
-!!! danger "If you have not reached 75% completion or finished the sequence in the Admin Wing (through the "**Heightened Clearance**" advancement), we strongly advise that you do not continue to read this article."
+!!! danger "If you have not reached 75% completion or finished the sequence in the Admin Wing (through the "**Heightened Clearance**" advancement), we advise that you do not continue to read this article."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The **Administrative (Admin) Wing** of the [[Av'Sal Repository]] is the setting for the first portion of the 75% completion event, unlocked after reaching 75% tower linkage (24 towers). A comparatively small area compared to the other story locations, the Admin Wing is an extension of the Repository, offering a few small teasers towards the rest of the 75% completion event and the future of the story, as well as establishing another puzzle mechanic that appears again later in the map's story.
 
 The Admin Wing can be accessed through a somewhat hidden room in the lower levels of Av'Sal's central island. Entry is possible before the 75% milestone, but requires knowledge that is strongly hinted at by holotexts which are only readable after reaching 75% network linkage.
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | -242  |  53   | 1632  |
+
+    These coordinates are directly in front of the entrance to the Admin Wing.
 
 ## Story (75% Completion Event)
 Upon reaching 75% network linkage (24 towers), the player will be prompted by [[avSYS]] to enter the Terminus' compass dispensary, where they will be given a lodestone compass that points towards the entrance to the Admin Wing. At the entrance to the Admin Wing, the player can re-sync the area's holotext database if they have 75% linkage, with one holotext positioned at the entrance that provides a hint for how to get in.

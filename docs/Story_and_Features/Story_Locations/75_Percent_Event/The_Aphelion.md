@@ -1,10 +1,8 @@
 # The Aphelion
 
---8<-- "under_construction.md"
-
 The **Aphelion** was the flagship of Avsohm, acting at different points in the empire's history as a central piece of its command structure, a hub for research efforts, and the crown jewel of its military. The Aphelion is mentioned several times throughout the map, including prominently in holotexts and books throughout the early game. At the point that the player has awoken from stasis in the fourth Avihm, the whereabouts and ultimate fate of the ship are unknown. 
 
-It is left unclear initially whether the Aphelion was a seafaring vessel or an airship. Search efforts for the ship by several factions, including the forces of [[Maelihs]] and the [[Order of Insohm]], proved fruitless, finding no evidence of the ship in the waters surrounding Drehmal or on land.
+It is left unclear initially whether the Aphelion was a seafaring vessel or an airship. Search efforts for the ship by several factions, including the forces of [[Maelihs]] and the Order of [[Insohm]], proved fruitless, finding no evidence of the ship in the waters surrounding Drehmal or on land.
 
 --8<-- "spoiler.md"
 
@@ -43,7 +41,7 @@ Further progression requires the player to perform a spacewalk, following a seri
 ![[aphelion_tower_bay.png]]
 > The tower bay, after the tower has been deployed.
 
-Pressing the button will warp the player to the tower's landing spot, granting the "Apotheosis" advancement and ending the 75% completion event, as the player finds themselves in a lake on [[Lo'Dahr]], hallowed ground where sparingly few Drehmari have found themselves before. 
+Pressing the button will warp the player to the tower's landing spot, granting the "Apotheosis" advancement and ending the 75% completion event, as the player finds themselves in a lake on [[Lo'Dahr]], hallowed ground where sparingly few Drehmari have walked before. 
 
 ## Gameplay
 While in the Aphelion, the player remains in Adventure Mode, preventing the destruction or placement of blocks.

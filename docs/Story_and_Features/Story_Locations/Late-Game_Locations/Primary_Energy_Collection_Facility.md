@@ -1,7 +1,5 @@
 # Primary Energy Collection Facility (Mt. Yavhlix)
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "This page contains SIGNIFICANT spoilers for the late-game dungeon at Mt. Yavhlix. DO NOT read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement." 
@@ -12,6 +10,13 @@
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
 The **Primary Energy Collection Facility** (also referred to simply as the **Primary Collection Facility**, or misleadingly as **Mt. Yavhlix**) is an Avsohmic facility built within [[Mt. Yavhlix]], built to harness the power of a tear that supplied the vast majority of the empire's [[Primal Energy]]. It is a major milestone in the story of Drehmal, typically being done after the player has explored the majority of the world, and marking the beginning of the [end-game](/Story_and_Features/Story_Locations/End-Game_Locations/).
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 26907   |  61   | -192  |
+
+    These coordinates will take the player to the front of the Primary Collection Facility, inside the seal. Do not teleport to these coordinates prematurely (before completing the Mythbreaker run), as this risks sequence-breaking the map.
 
 ## Story
 Throughout the realm of Drehmal, several passing references are made to Mt. Yavhlix and to this facility in particular, concerning the events that unfolded here preceding and during the [[Fall of Avsohm]]. The events at Mt. Yavhlix are suggested to have been pivotal in the fall of Avsohm, with the empire's doom perhaps even originating in this facility, and the majority of its story can be pieced together before ever entering this facility. All of this information is brought together within the facility, tying together some of the final strings.

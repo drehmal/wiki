@@ -64,7 +64,7 @@ The area which the player can actually explore is primarily restrained to the [[
 After The Mythoclast offers closure, if the player refuses, then they can trigger this dialogue option again by stepping on the yellow pillar of light near the skeleton. Alternatively, using the command `/trigger finality` will select the "Yes" option and transport the player to the end credits room.
 
 ## Lore
-The True End is foreshadowed by the [[The Facets#Facet III|Third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the forces behind the death of the realm, and why it took place when it did. Some signs point toward this being an indication that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and [[yellow|The Mythoclast]].
+The True End is foreshadowed by the [[The Facets#Facet III|Third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the forces behind the death of the realm, and why it took place when it did. Some signs point toward this being an indication that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and [[yellow|The Mythoclast]]. However, these ties are not concrete, as there is so little information on the Aspect.
 
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of Sal'Mevir covered in a vast dune. 
 

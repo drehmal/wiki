@@ -1,7 +1,5 @@
 # Exodus Vault
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 --8<-- "50_spoiler.md"
@@ -9,6 +7,13 @@
 The **Exodus Vault** is an Avsohmic facility deep beneath Lake Nimahj, which serves as the setting for the 50% completion event. Situated along the border between [[Nimahj Swamp]] and [[Anyr'Nogur]], the entirely underground facility once served as the headquarters for [[Blue Exodus]], the group that effectively made up the bulk of Avsohm's military. The vault is connected to the [[Exodus Citadel]], another Blue Exodus facility at the surface of the lake, and through which players must first progress in order to reach the vault. 
 
 Within the vault, the player can find numerous advanced weapons and machines created by Blue Exodus for Avsohmic use, which appear to have been manufactured and/or stored at this location. The vault is home to two linked legendary items, as well as one half of the [[Mythbreaker]]'s blade.
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | -2589 |  35   | 2282  |
+
+    These coordinates correspond to the entrance to the vault.
 
 ## Story (50% Completion Event)
 Upon reaching 50% network linkage (16 towers), the player will be prompted by [[avSYS]] to enter the Terminus' compass dispensary, where they will be given a lodestone compass that points towards the Exodus Citadel. At the Citadel, the player can re-link the facility's holotext database before falling down to the entrance to the vault, in the northern wing of the citadel.

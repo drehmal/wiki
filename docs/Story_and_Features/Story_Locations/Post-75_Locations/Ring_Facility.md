@@ -1,7 +1,5 @@
 # Warp Ring Research Installation
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "SPOILER WARNING!"
@@ -19,6 +17,13 @@
 The **Warp Ring Research Installation**, also known as the **Ring Research Installation** or simply the **Ring Facility**, is one of five main story locations on the divine moon of [[Lo'Dahr]]. It is located in the western portion of the moon, inside of Lake Khanak, part of the southern half of [[Khive's Domain]].
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | -918  |  73   | -216  |
+
+    Within the Lo'Dahr dimension, these coordinates place the player at the top of the Ring Research Installation, at the lake's surface.
 
 ## Story
 After reaching the Core Facility, the player will likely find the map depicting the four main Avsohmic facilities on Lo'Dahr, one of which is the Ring Installation. There is no correct or intended order to visit the other three facilities, as long as the player eventually learns the lessons from each one. 

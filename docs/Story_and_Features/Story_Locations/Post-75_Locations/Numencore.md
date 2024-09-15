@@ -1,7 +1,5 @@
 # The Numencore
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "SPOILER WARNING!"
@@ -19,6 +17,13 @@
 The **Numencore** is the fifth and final main story location on the divine moon of [[Lo'Dahr]]. The Numencore is accessed by solving the main puzzle at the [[Core Facility]], using information from the other three locations on the moon's surface. 
 
 The Numencore is a massive concentration of [[Primal Energy]] utilized by [[Khive]], the Aspect of Magic, as his source of power, and by extension, the source of primal energy for all of the [Aspects](/Lore/Higher_Beings/Aspects/). The core was accessed by Avsohm in the later years of their reign, and the player's time at the Numencore is spent in the facility they built to attempt to harness its power.
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 27378  |  122   | 55  |
+
+    Within the Lo'Dahr dimension, these coordinates place the player in the Numencore, just in front of the warp ring.
 
 ## Story (Arrival)
 After solving the [[Core Facility#Gameplay|Core Facility puzzle]], the player is directly transported to the Numencore, gaining the "Apex of Divinity" advancement. 

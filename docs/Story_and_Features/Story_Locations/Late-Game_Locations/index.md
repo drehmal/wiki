@@ -1,4 +1,4 @@
-# Late-Game: Mt. Yavhlix Dungeon 
+# Late-Game: Mt. Yavhlix
 
 --8<-- "spoiler.md"
 
@@ -8,3 +8,4 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+This section contains articles on the two major story locations in the late-game inside of Mt. Yavhlix.

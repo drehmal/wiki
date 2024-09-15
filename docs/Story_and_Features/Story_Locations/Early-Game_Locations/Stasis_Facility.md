@@ -1,7 +1,5 @@
 # Stasis Facility
 
---8<-- "under_construction.md"
-
 The **Stasis Facility** is the first major story location in Drehmal, located in [[Capital Valley]] just south of the [[Primal Caverns]]. When a playthrough is begun by toggling the "Initialize" button in the settings room, any players will be transported to this facility, in one of eight temporal stasis pods. 
 
 ![[stasis_outside.png]]
@@ -65,4 +63,4 @@ As seen on the "[[stasis_info.md|-STASIS SYSTEM LOG-]]" holotext, four other pod
 
 --8<-- "postyav_spoiler.md"
 
-Upon finishing the end-game sequence at the [[Resonant Halls]], the player will be instructed to return to the Stasis Facility. Here, the [[yellow|end-game guide]] reveals their true identity, as well as opening a portal to the [[Court of Nothing]], pushing the player toward the final main sequence of the map.
+Upon finishing the end-game sequence at the [[Resonant Halls]], the player will be instructed to return to the Stasis Facility. Here, the player's end-game guide reveals their true identity, as well as opening a portal to the [[Court of Nothing]], pushing the player toward the final main sequence of the map.

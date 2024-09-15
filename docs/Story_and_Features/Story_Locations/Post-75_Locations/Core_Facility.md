@@ -1,7 +1,5 @@
 # Core Facility
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "SPOILER WARNING!"
@@ -17,6 +15,13 @@
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The **Core Facility** is one of five main story locations on the divine moon of [[Lo'Dahr]], and the closest to the player's initial starting point on the moon. It can be found in the west of [[Taihgel's Domain]], just east of the city of [[Naharja]]. The facility primarily serves as a link to another location in Lo'Dahr, and as a hub for exploration of the moon, containing information on the other three main Avsohmic facilities present there.
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 514   |  38   | -847  |
+
+    Within the Lo'Dahr dimension, these coordinates place the player in front of the map of the four Avsohmic facilities on the moon at the Core Facility.
 
 ## Story (Arrival)
 Upon arriving on Lo'Dahr, the player does not necessarily receive any information on where to go next, but the closest story location to the landing spot in [[Moen's Domain]] is the Core Facility, to the east in Taihgel's Domain. Aboard the Aphelion, a chest can also be found containing a lodestone compass, which points towards the Core Facility when on the moon, making this the intended method of progression.

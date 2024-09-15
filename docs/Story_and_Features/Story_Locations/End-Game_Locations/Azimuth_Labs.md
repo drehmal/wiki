@@ -1,7 +1,5 @@
 # Azimuth Labs
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "WARNING!!! This article contains EXTREMELY SIGNIFICANT spoilers for an end-game area (after Mt. Yavhlix)."
@@ -17,6 +15,14 @@
 **Azimuth Labs**, also referred to as **Alchemy Central**, is the first major story location in the end-game, and the former headquarters of the [[Red Dawn]] alchemical society, one of three major corporations that made up Avsohm's government. Azimuth Labs was the site of Red Dawn's (and by extension, some of Avsohm's) most secretive projects toward the end of the empire's lifespan.
 
 The entrance to Azimuth Labs is located at the Sunken Astral Body, east of the city of [[Dusps]], but it is blocked off by a veilstone seal until a dedicated story sequence directs the player to the facility.
+
+??? abstract "Coordinates"
+    | **Location** | **X** | **Y** | **Z** |
+    |:--------------------:|:-----:|:-----:|:-----:|
+    | Sunken Astral Body Surface | 3160 |  74  | -989  |
+    | Transportation Hub (Entrance) | 3274 | 36 | -664 |
+
+    The first set of coordinates can be accessed at any point from the open world, at the surface of the Sunken Astral Body near the entrance to Azimuth. The second set, however, is within Azimuth Labs, so it should not be prematurely teleported to before its dedicated story sequence, due to risk of sequence-breaking the map.
 
 ## Story
 Upon defeating [[Tethlaen]] in [[The Nothing]], the player is transported back to the [[Primary Energy Collection Facility]], just in front of the portal to the Nothing, and a voice speaks to them through the in-game chat. This voice, whose name appears at this point as three yellow question marks, informs the player that their actions have effectively doomed the realm, removing the only seal that was preventing the Nothing from seeping into Drehmal. Although the figure already believes that the player has learned too much, they resolve to help Avsohm's final remnant to weave together the final pieces of the puzzle. The voice instructs the player to return to the Terminus, and disappears.

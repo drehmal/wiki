@@ -3,9 +3,7 @@ search:
   boost: 0.5
 ---
 
-# The Maddened Path/Heart of the Void
-
---8<-- "under_construction.md"
+# The Maddened Path (Heart of the Void)
 
 --8<-- "spoiler.md"
 

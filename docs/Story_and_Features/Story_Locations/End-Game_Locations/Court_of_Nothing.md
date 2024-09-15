@@ -5,8 +5,6 @@ search:
 
 # Court of Nothing
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "WARNING!!! This article contains EXTREMELY SIGNIFICANT spoilers for a prominent end-game area (after Mt. Yavhlix)."
@@ -37,17 +35,17 @@ As the player returns to the overworld, the voice returns to speak to them once 
 
 When the player reaches the [[Stasis Facility]] once again and begins the descent from the surface, the voice returns, and begins to unveil some of their secrets to the player. It tells the player that it is "the titanic power at the center of creation," poetically describing its duties and raw power as the player makes their way back to the room in which they awoke. At this point, the voice blasts a hole in the far wall of this room, unveiling a small tunnel that leads to a new room.
 
-As the player enters this room, the voice reveals its true name, giving the player a brief nausea effect as their mind struggles to comprehend it: The Mythoclast[^1].
+As the player enters this room, the voice reveals its true name, giving the player a brief nausea effect as their mind struggles to comprehend it: The Mythoclast.
 
 ![[mytho_portrait.png]]
 > The portrait of the Mythoclast.
 
-This room contains a mural of the Mythoclast, which he claims does not directly reflect his true physical form, which is incredibly difficult to capture. At this point, he grants the player a tangible reward for the journey they have undergone: a copy of the [[Mythbreaker]], named "The Mythbreaker." This version of the spear is as powerful as the charged variant at baseline, and can be used indefinitely without fear of it breaking. The Mythoclast then opens a portal to his Court, beckoning the player forth, but warning that this is a point of no return, as time runs differently at the Court.
+This room contains a mural of the Mythoclast, which he[^1] claims does not directly reflect his true physical form, which is incredibly difficult to capture. At this point, he grants the player a tangible reward for the journey they have undergone: a copy of the [[Mythbreaker]], named "The Mythbreaker." This version of the spear is as powerful as the charged variant at baseline, and can be used indefinitely without fear of it breaking. The Mythoclast then opens a portal to his Court, beckoning the player forth, but warning that this is a point of no return, as time runs differently at the Court.
 
 ![[court_of_nothing.png]]
 > The main room of the Court of Nothing.
 
-Once the player is ready, they may proceed through the portal, where they are teleported to the Court. Proceeding upwards along a long walkway, the player eventually ends up in the Court itself, in a large room with a yellow throne and an eye positioned directly above it. In this room, the player is thrust into a boss battle against [[Ultva Utofal|Ultva, Genocide of One]] and [[Hovadchear Myrik|Hovadchear, Master of the Order]], the two founders of [[Order of Insohm|Insohm]]. These two, whose disappearances threw Insohm into chaos and effectively ended advanced civilization on Drehmal, have been kept alive by the Mythoclast.
+Once the player is ready, they may proceed through the portal, where they are teleported to the Court. Proceeding upwards along a long walkway, the player eventually ends up in the Court itself, in a large room with a yellow throne and an eye positioned directly above it. In this room, the player is thrust into a boss battle against [[Ultva Utofal|Ultva, Genocide of One]] and [[Hovadchear Myrik|Hovadchear, Master of the Order]], the two founders of [[Insohm]]. These two, whose disappearances threw Insohm into chaos and effectively ended advanced civilization on Drehmal, have been kept alive by the Mythoclast.
 
 When the player defeats these two, the Mythoclast laments their ultimate fate, and states that they will now be reborn. He then calls the player forward through one more portal, ending the section by taking the player to the [[Maddened Path]].
 

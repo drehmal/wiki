@@ -1,7 +1,5 @@
 # Sal'Mevir (Ancillary Research Facility)
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 --8<-- "25_spoiler.md"
@@ -13,6 +11,13 @@
 The site itself was once a location for Avsohmic research into temporal stasis that housed multiple pertinent historical figures, but like the rest of Avsohm, the structure has largely fallen to ruin. 
 
 The location is home to several pieces of writing that serve to further the player's understanding of the story, a puzzle mechanic unique to the location, a legendary item, and a fragment of the [[Mythbreaker]].
+
+??? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 2250  |  82   |  997  |
+
+    These coordinates correspond to the very first small tower in Sal'Mevir, at ground level.
 
 ## Story 
 Upon reaching 25% network linkage (8 towers), the player will be prompted by [[avSYS]] to enter the Terminus' compass dispensary, where they will be given a lodestone compass that points towards Sal'Mevir. 

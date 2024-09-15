@@ -1,7 +1,5 @@
 # The Nothing
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! danger "This page contains SIGNIFICANT spoilers for the late-game dungeon at Mt. Yavhlix. DO NOT read further if you have not completed this dungeon, all the way through the "Free the Ever-Fear" advancement." 
@@ -16,6 +14,13 @@
 After opening and traveling through the tear in the [[Primary Energy Collection Facility]], the player is able to enter a portion of **The Nothing**, a dimension which exists beyond The Veil, entirely outside the realm of Drehmal.
 
 The Nothing is the site of the first required major boss battle in Drehmal, and is only visited for this fight.
+
+?? abstract "Coordinates"
+    | **X** | **Y** | **Z** |
+    |:-----:|:-----:|:-----:|
+    | 26907   |  126   | -1  |
+
+    These coordinates are not actually within the Nothing, but rather, are just in front of the portal to the Nothing. The Nothing itself is its own dimension.
 
 ## Story
 The player enters the tear at the top of the Primary Energy Collection Facility and finds themselves in a small building in The Nothing, being given the "Once More Into the Breach" advancements for entering the Nothing. They are immediately thrust into a boss battle against [[Tethlaen|Tethlaen, Lost to Nothing]], the Aspect of Fear who has been missing and presumed dead for millennia.

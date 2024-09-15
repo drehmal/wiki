@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. It contains a worker's log during the fall of Avsohm, and a desperate plea for someone to rescue them.
+This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. It contains a worker's log during the [[Fall of Avsohm|fall of Avsohm]], and a desperate plea for someone to rescue them.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext is found in the Surveillance Room aboard [[The Aphelion]], and was written by a member of the ship after receiving news of [[Maelihs]]'s invasion of [[Sal'Anyr]] immediately after the fall of Avsohm.
+This holotext is found in the Surveillance Room aboard [[The Aphelion]], and was written by a member of the ship after receiving news of [[Maelihs]]'s invasion of [[Sal'Anyr]] immediately after the [[Fall of Avsohm|fall of Avsohm]].
 
 ## Coordinates (Space Dimension)
 | **X** | **Y** | **Z** |

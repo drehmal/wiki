@@ -5,7 +5,7 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 4)
 
-This book can be found in a chest in [[Semehol]]. It is the last of four books in the "Tharhan: A Land of Conquest" series, and focuses on the Tharhan experience under [[Avsohmic|Empire of Avsohm]] rule, up through the fall of Avsohm. It also establishes that this book series was written during the time of the [[Order of Insohm]], ending on the hope that Insohm can liberate the Tharhan Plains.
+This book can be found in a chest in [[Semehol]]. It is the last of four books in the "Tharhan: A Land of Conquest" series, and focuses on the Tharhan experience under [[Avsohm|Avsohmic]] rule, up through the [[Fall of Avsohm|fall of the empire]]. It also establishes that this book series was written during the time of the [[Insohm|Order of Insohm]], ending on the hope that Insohm can liberate the Tharhan Plains.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

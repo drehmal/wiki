@@ -1,8 +1,3 @@
----
-search:
-  boost: 2
----
-
 # Story Progression
 
 --8<-- "spoiler.md"

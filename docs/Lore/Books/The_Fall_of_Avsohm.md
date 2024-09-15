@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in [[Drabyel]], along with [[The Rise of Avsohm]]. It contains a very abridged history of the end of the [[Empire of Avsohm]], from the death of [[Drehn Mal'Sohm]] to the reign of the final two emperors and eventual collapse.
+This book can be found in a chest in [[Drabyel]], along with [[The Rise of Avsohm]]. It contains a very abridged history of the end of the [[Avsohm|Avsohmic Empire]], from the death of [[Drehn|Drehn Mal'Sohm]] to the reign of the final two emperors and eventual collapse.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

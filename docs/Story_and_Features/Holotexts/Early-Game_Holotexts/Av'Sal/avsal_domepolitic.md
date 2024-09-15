@@ -1,6 +1,6 @@
 # Imperial Resignation
 
-This holotext, found in the upper ring of the large domed building in [[Av'Sal]]'s central island, contains a message from [[Drehn Mal'Sohm]] announcing his resignation.
+This holotext, found in the upper ring of the large domed building in [[Av'Sal]]'s central island, contains a message from [[Drehn|Drehn Mal'Sohm]] announcing his resignation.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

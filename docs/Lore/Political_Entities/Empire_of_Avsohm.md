@@ -6,7 +6,7 @@
 > - **Location:** Central [Drehmal[Drehmal (Place)]], Western Drehmal (other than southwest), Islands of [Dawn[Island of Dawn]] and [Dusk[Island of Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood
 > - **Capital City:** [[Av'Sal]]
 > - **Form of Government:** Empire (ruled by an emperor and a senate)
-> - **Rulers:** [[Drehn Mal'Sohm]], [[Zorhis Ifeihl]], [[Uffhiel Anyr]]
+> - **Rulers:** [[Drehn|Drehn Mal'Sohm]], [[Ifeihl|Zorhis Ifeihl]], [[Anyr|Uffeihl Anyr]]
 > - **Religion:** Worship of [[Drehmal]] (or [[Virtuo]], depending on region)
 
 ![[AvsohmicEmpirecAv21800.webp]]

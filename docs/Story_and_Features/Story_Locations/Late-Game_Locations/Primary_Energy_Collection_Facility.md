@@ -78,7 +78,7 @@ Additionally, there are 9 different lore books to be found inside the Primary Co
 ## Lore
 The history of the Primary Collection Facility is quite possibly the most important piece to understanding the reason for Avsohm's meteoric rise to power, as well as their ultimate catastrophic fall. 
 
-The tear at Mt. Yavhlix was first discovered by Avsohmic survey drones early in the empire's history, under the reign of [[Drehn Mal'Sohm]]. Understanding the potential power that such a massive supply of [[Primal Energy]] could give them, Avsohm advanced on the mountain, waging war against the native tribes of [[Faehrcyle]], which ultimately resulted in the [[Frostfang Catastrophe]]. This event was an ecological disaster, making the entirety of Faehrcyle effectively uninhabitable and drastically changing the climate of several northern regions, but Avsohm was able to secure passage to the mountain nonetheless. 
+The tear at Mt. Yavhlix was first discovered by Avsohmic survey drones early in the empire's history, under the reign of [[Drehn|Drehn Mal'Sohm]]. Understanding the potential power that such a massive supply of [[Primal Energy]] could give them, Avsohm advanced on the mountain, waging war against the native tribes of [[Faehrcyle]], which ultimately resulted in the [[Frostfang Catastrophe]]. This event was an ecological disaster, making the entirety of Faehrcyle effectively uninhabitable and drastically changing the climate of several northern regions, but Avsohm was able to secure passage to the mountain nonetheless. 
 
 The mountain was dug into, and Avsohm discovered the tear that the survey drones had been picking up. The facility was constructed around the tear in order to draw from its power, and expeditions into the tear were conducted as well. 
 

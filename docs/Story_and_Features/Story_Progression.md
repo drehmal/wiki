@@ -203,7 +203,7 @@ The [[Maddened Path]] is the home of the penultimate story sequence, taking plac
 
 They also tell the player that they have one final person for them to meet, and that this person has specifically requested to see you, the player. The Mythoclast wishes the player luck before leaving them to the final boss fight.
 
-The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss appears like any other [[Drehmari]] wielding [[Oblivion]], but in his second phase, is revealed to be [[Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful man, realized too late that he had created an empire that would stop at nothing to attain power, and after his death, begged The Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's Pawn, up until his death at the player's hands.
+The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss appears like any other [[Drehmari]] wielding [[Oblivion]], but in his second phase, is revealed to be [[Drehn|Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful man, realized too late that he had created an empire that would stop at nothing to attain power, and after his death, begged The Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's Pawn, up until his death at the player's hands.
 
 After defeating the Emissary, one final portal is opened.
 

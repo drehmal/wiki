@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-One of two holotexts found just to the left of the God Machine, this holotext contains [[Anyr]]'s secret desires to be more like (and to eventually surpass) his predecessor, [[Drehn Mal'Sohm]].
+One of two holotexts found just to the left of the God Machine, this holotext contains [[Anyr]]'s secret desires to be more like (and to eventually surpass) his predecessor, [[Drehn|Drehn Mal'Sohm]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

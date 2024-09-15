@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext, found just outside the fabrication chamber on [[The Aphelion]], provides some context on veilstone (bedrock), the strongest material known to Avsohm.
+This holotext, found just outside the fabrication chamber on the [[Aphelion]], provides some context on veilstone (bedrock), the strongest material known to Avsohm.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

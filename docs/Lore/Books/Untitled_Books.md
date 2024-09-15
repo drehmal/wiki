@@ -146,7 +146,7 @@ This book can be found in a ship at the dock of the [[Kiln of Virtuo]].
 
 ## gaming 2
 
-Hidden in a secret room on [[The Aphelion]]'s lower level that is inaccessible to a player in adventure mode, gaming 2 is the long-awaited sequel to gaming. Daring, bold, highly emotionally charged, and infinitely more ambitious than its highly-touted predecessor from the library of the great Painted City of [[Dusps]], it asks its reader to step beyond contemporary understandings of literature and art, pushing the boundary in a way that very few others in history can claim to have even tried.
+Hidden in a secret room on the [[Aphelion]]'s lower level that is inaccessible to a player in adventure mode, gaming 2 is the long-awaited sequel to gaming. Daring, bold, highly emotionally charged, and infinitely more ambitious than its highly-touted predecessor from the library of the great Painted City of [[Dusps]], it asks its reader to step beyond contemporary understandings of literature and art, pushing the boundary in a way that very few others in history can claim to have even tried.
 
 The fullest extents of this text's meaning and impact are not within the scope of this wiki, but it is sufficient to say that this book is among the most important, moving, and groundbreaking pieces of lore in the entirety of the Drehmal universe, if not the single most important. If anything could truly encapsulate the feeling of Apotheosis, summarizing this world not only through a thorough depiction of its rich story but also by communicating the emotions it intends to evoke as a work of art, it is this book.
 

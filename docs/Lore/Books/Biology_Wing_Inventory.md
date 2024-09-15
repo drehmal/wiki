@@ -7,7 +7,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found on a lectern in the now-overgrown Hydroponics Lab section of [[The Aphelion]]. It contains an overview of this wing of the Aphelion's contents, including a small farm area, biological materials from [[Lo'Dahr]], and seed samples from several different species in an effort at conservationism.
+This book can be found on a lectern in the now-overgrown Hydroponics Lab section of the [[Aphelion]]. It contains an overview of this wing of the Aphelion's contents, including a small farm area, biological materials from [[Lo'Dahr]], and seed samples from several different species in an effort at conservationism.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

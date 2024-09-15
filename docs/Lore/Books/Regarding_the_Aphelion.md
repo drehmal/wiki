@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Burnt Palace]]. It contains intel on [[The Aphelion]], to be delivered to the [[Burnt Generals]].
+This book can be found in a chest in the [[Burnt Palace]]. It contains intel on the [[Aphelion]], to be delivered to the [[Burnt Generals]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

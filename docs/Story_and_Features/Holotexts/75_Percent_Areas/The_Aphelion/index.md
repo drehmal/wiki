@@ -4,4 +4,4 @@
 
 ![[aphelion_exampleholo.png]]
 
-The second portion of the 75% story event is home to 16 total holotexts, spread throughout [[The Aphelion]].
+The second portion of the 75% story event is home to 16 total holotexts, spread throughout the [[Aphelion]].

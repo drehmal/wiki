@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found just outside the Surveillance Room aboard [[The Aphelion]], this holotext hints at the method through which the player can access the surveillance room.
+Found just outside the Surveillance Room aboard the [[Aphelion]], this holotext hints at the method through which the player can access the surveillance room.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

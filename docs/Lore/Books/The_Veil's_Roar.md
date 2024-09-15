@@ -7,7 +7,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found in a chest in one of the maintenance tunnels aboard [[The Aphelion]].
+This book can be found in a chest in one of the maintenance tunnels aboard the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

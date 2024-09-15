@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found immediately upon exiting the shuttle to [[The Aphelion]], this holotext provides a brief overview of the ship's systems.
+Found immediately upon exiting the shuttle to the [[Aphelion]], this holotext provides a brief overview of the ship's systems.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

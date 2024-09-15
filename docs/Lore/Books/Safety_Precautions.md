@@ -7,7 +7,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found in a chest in the hallway outside of Room B4 on [[The Aphelion]]. It hints at the location of the blast doors on the Aphelion, which must be navigated around in some way while traversing the ship.
+This book can be found in a chest in the hallway outside of Room B4 on the [[Aphelion]]. It hints at the location of the blast doors on the Aphelion, which must be navigated around in some way while traversing the ship.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

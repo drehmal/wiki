@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, [[The Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband.
+This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, the [[Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

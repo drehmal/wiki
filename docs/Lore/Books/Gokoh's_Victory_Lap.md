@@ -7,7 +7,7 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-This book can be found in a chest in the [[Exodus Vault]], with a Blue Exodus Sergeant gloating about their colossal weapons being used on [[The Aphelion]].
+This book can be found in a chest in the [[Exodus Vault]], with a Blue Exodus Sergeant gloating about their colossal weapons being used on the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

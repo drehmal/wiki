@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in the reactor room of [[The Aphelion]], this holotext elaborates on the primal slag clogging the pipes in the ship.
+Found in the reactor room of the [[Aphelion]], this holotext elaborates on the primal slag clogging the pipes in the ship.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

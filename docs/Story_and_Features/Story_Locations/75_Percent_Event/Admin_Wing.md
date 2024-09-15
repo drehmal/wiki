@@ -27,7 +27,7 @@ When the puzzle is solved, the player can drop down a newly-opened shaft into th
 ![[admin_hallway.png]]
 > The main hallway of the Admin Wing.
 
-At the western end of the hallway is a room with two holotexts and a lever, sitting atop a piece of yellow concrete. Pulling this lever updates the player's security clearance with avSYS, and relays an SOS message from Commander [[Verpyne]] of [[The Aphelion]], directing the player towards the next phase of the 75% event:
+At the western end of the hallway is a room with two holotexts and a lever, sitting atop a piece of yellow concrete. Pulling this lever updates the player's security clearance with avSYS, and relays an SOS message from Commander [[Verpyne]] of the [[Aphelion]], directing the player towards the next phase of the 75% event:
 
 > ＡＤＭＩＮＩＳＴＲＡＴＩＶＥ ＴＥＲＭＩＮＡＬ ＲＥＢＯＯＴＩＮＧ．．．"
 > 

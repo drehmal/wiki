@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in the Command Center of [[The Aphelion]], this holotext establishes that people cannot look past the Veil, as well as the moment that Avsohm began looking towards [[Lo'Dahr]].
+Found in the Command Center of the [[Aphelion]], this holotext establishes that people cannot look past the Veil, as well as the moment that Avsohm began looking towards [[Lo'Dahr]].
 
 ## Coordinates (Space Dimension)
 | **X** | **Y** | **Z** |

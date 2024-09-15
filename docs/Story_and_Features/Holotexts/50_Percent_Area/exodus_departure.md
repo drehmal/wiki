@@ -4,7 +4,7 @@
 
 --8<-- "50_spoiler.md"
 
-Found in the northern wing of the [[Exodus Vault]], this holotext is written by an excited [[Blue Exodus]] employee named Ekoh, who has just been selected to join the crew of [[The Aphelion]].
+Found in the northern wing of the [[Exodus Vault]], this holotext is written by an excited [[Blue Exodus]] employee named Ekoh, who has just been selected to join the crew of the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

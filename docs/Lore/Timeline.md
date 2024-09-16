@@ -1,10 +1,10 @@
-# Timeline
+# Drehmal Lore Timeline
 
 --8<-- "under_construction.md"
 
 The history of the realm known as Drehmal is divided into four eras, each known as an “Avihm.” Each avihm is not a set amount of time, but rather, the end of an avihm is typically marked by an extremely significant, world-changing event. 
 
-The First Avihm (Av1) is mostly lost to history, but is known to contain the beginning of Drehmari civilization after the realm was created by the [[Primal Tree]] and [Aspects](/Lore/Higher_Beings/Aspects/), and ended with the destruction of the Primal Tree and subsequent creation of the big three deities. The Second Avihm (Av2) is marked by the dominance of the highly advanced [[Avsohm|Empire of Avsohm]], spanning nearly 2000 years and ending with the [[Fall of Avsohm|collapse of the empire]]. The Third Avihm (Av3) lasted just over a thousand years, and was defined by conflicts between the remaining political entities, primarily the Order of [[Insohm]] in the East, and the forces of [[Maelihs]] in the West, ending with the departure of the goddess [[Virtuo]] and dissolution of Insohm. The Fourth Avihm (Av4) is the current era, with little centralized power or advanced civilization to be found in the now-fragmented realm. A playthrough of Drehmal begins with the player’s awakening at the Stasis Facility, approximately 100 years into the Av4.
+The First Avihm (Av1) is mostly lost to time, but is known to contain the beginning of civilization after the realm was created by the [[Primal Tree]] and [Aspects](/Lore/Higher_Beings/Aspects/), and ended with the destruction of the Primal Tree and subsequent creation of the three deities. The Second Avihm (Av2) is marked by the meteoric rise of [[Drehmari]] civilization throughout the continent, and in particular, the dominance of the highly advanced [[Avsohm|Empire of Avsohm]] in its later centuries. Av2 spanned nearly 2000 years, and ended with the [[Fall of Avsohm|mysterious collapse of the Avsohmic empire]]. The Third Avihm (Av3) lasted just over a thousand years, and was defined by conflicts between the remaining political entities, primarily the Order of [[Insohm]] in the East and the forces of [[Maelihs]] in the West, ending with the departure of the goddess [[Virtuo]] and dissolution of Insohm. The Fourth Avihm (Av4) is the current era, with little centralized power or advanced civilization to be found in the now-fragmented realm. A playthrough of Drehmal begins with the player’s awakening at the Stasis Facility, approximately 100 years into the Av4.
 
 ## The First Avihm
 

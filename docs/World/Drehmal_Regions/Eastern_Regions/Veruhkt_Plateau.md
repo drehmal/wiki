@@ -30,9 +30,9 @@ Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A
 
 ## Points of Interest
 
-### Altar of Insight
+### [[Altar of Insight]]
 
-The Altar of Insight was an ancient stone Ziggurat that served as a religious site and held the Lens of Insight, a device capable of seeing through Drehmal's ground. The Lens was used to locate and observe Lo'Veruhkt.
+The Altar of Insight was an ancient stone Ziggurat that served as a religious site and held the Lens of Insight, a device capable of seeing through Drehmal's ground. The Lens was used to locate and observe Lo'Veruhkt. Parts of this area are guarded by hostile Golems of Insight.
 
 ### Battle Pizzazzle
 

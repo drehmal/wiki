@@ -38,7 +38,7 @@ The Kingdom of Dusps became a member of the [[Order of Insohm]], and they partic
 
 ## [[Terminus Network|Terminus]] Tower
 
-Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. One hostile "[[Lahrs]] Adherent" can be found on a small, protruding wooden beam near the top.
+Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. The sides of the tower and surrounding areas are guarded by hostile "[[Lahrs]] Adherents".
 
 **Coordinates:** (X: 1898, Y: 161, Z: -1281)
 

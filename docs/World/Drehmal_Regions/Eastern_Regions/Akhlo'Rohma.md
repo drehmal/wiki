@@ -2,7 +2,7 @@
 
 ![[Akhlo'Rohma.webp]]{ align=right width="300" }
 
-Akhlo'Rohma is a relatively large region in northeast [[Drehmal (Place)|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
+Akhlo'Rohma is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
 
 ## Geography
 

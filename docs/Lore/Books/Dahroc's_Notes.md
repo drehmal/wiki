@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against the [[Order of Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
+This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against [[Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

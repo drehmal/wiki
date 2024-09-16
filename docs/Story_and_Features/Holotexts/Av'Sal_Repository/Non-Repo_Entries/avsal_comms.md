@@ -1,6 +1,6 @@
 # Achet's Troubles
 
-One of three holotexts found on a platform atop the [[Av'Sal Repository]]. This holotext references [[The Aphelion]].
+One of three holotexts found on a platform atop the [[Av'Sal Repository]]. This holotext references the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

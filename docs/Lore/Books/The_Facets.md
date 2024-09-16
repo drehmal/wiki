@@ -64,7 +64,7 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 ### Location/Summary
 This book can be found in a chest in the [[Star-Rise Orrery]], upon completion of [[Rihelma]]'s trial at that location.
 
-It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the fall of [[Empire of Avsohm|Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge.
+It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the [[Fall of Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge.
 
 ### Transcription
 > 2:1 - The sky will blacken and shadows will grow longer than ever before. Tendrils of dark will seep into every corner of the world, grasping at forbidden knowledge.

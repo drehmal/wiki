@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-This holotext, found in the kitchen room of the [[Ring Facility]], recounts a heavily encrypted message from [[The Aphelion]], which turned out to be [[Vortu]] looking for fresh vegetables.
+This holotext, found in the kitchen room of the [[Ring Facility]], recounts a heavily encrypted message from the [[Aphelion]], which turned out to be [[Vortu]] looking for fresh vegetables.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

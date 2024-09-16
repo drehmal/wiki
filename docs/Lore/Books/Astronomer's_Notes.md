@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in the observatory atop [[Naharja]]. It documents the orbit cycles of the known lunar bodies, but notes a new celestial body, which the author believes to be a new star, orbiting Lo'Dahr several times a day. This may be [[The Aphelion]].
+This book can be found on a lectern in the observatory atop [[Naharja]]. It documents the orbit cycles of the known lunar bodies, but notes a new celestial body, which the author believes to be a new star, orbiting Lo'Dahr several times a day. This may be the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

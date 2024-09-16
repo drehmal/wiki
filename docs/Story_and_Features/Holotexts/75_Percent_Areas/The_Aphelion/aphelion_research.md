@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in the Research Station of [[The Aphelion]], this holotext hints at [[Numencore|an extremely powerful source of primal energy]] within the center of Lo'Dahr.
+Found in the Research Station of the [[Aphelion]], this holotext hints at [[Numencore|an extremely powerful source of primal energy]] within the center of Lo'Dahr.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

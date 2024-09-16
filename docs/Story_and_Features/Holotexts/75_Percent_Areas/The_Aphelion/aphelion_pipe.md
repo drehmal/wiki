@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext can be found just outside the door to the reactor & factory, on [[The Aphelion]]'s middle level.
+This holotext can be found just outside the door to the reactor & factory, on the [[Aphelion]]'s middle level.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found in a chest in Room B4 on [[The Aphelion]]. It contains an anecdote in which the author, a member of the Aphelion's crew, is summoned before Emperor [[Anyr]].
+This book can be found in a chest in Room B4 on the [[Aphelion]]. It contains an anecdote in which the author, a member of the Aphelion's crew, is summoned before Emperor [[Anyr]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

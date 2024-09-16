@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in [[Anyr|Emperor Anyr]]'s chambers on the lower level of [[The Aphelion]]. This holotext hints at something threatening the destruction of the realm, and Anyr resolves to hold it off forever by ruling over Avsohm forever.
+Found in [[Anyr|Emperor Anyr]]'s chambers on the lower level of the [[Aphelion]]. This holotext hints at something threatening the destruction of the realm, and Anyr resolves to hold it off forever by ruling over Avsohm forever.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

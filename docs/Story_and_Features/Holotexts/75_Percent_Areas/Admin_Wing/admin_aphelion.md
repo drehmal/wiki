@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext, found at the end of the [[Admin Wing]] of the [[Av'Sal Repository]], tells how [[The Aphelion]] has been refitted for combat, ending its tenure as a research vessel under [[Anyr]].
+This holotext, found at the end of the [[Admin Wing]] of the [[Av'Sal Repository]], tells how the [[Aphelion]] has been refitted for combat, ending its tenure as a research vessel under [[Anyr]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext is found in the Research Station wing of [[The Aphelion]]'s top floor. It provides more information on the colossal energy signal on Lo'Dahr.
+This holotext is found in the Research Station wing of the [[Aphelion]]'s top floor. It provides more information on the colossal energy signal on Lo'Dahr.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

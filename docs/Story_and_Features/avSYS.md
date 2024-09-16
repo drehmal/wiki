@@ -4,7 +4,7 @@
 
 ![[avSYS.webp]]{ align=right width="300" }
 
-avSYS is a virtual entity that operates multiple [[Empire of Avsohm|Avsohmic]] technological systems. It appears frequently throughout the story, communicating through chat and directing the player through the storyline.
+avSYS is a virtual entity that operates multiple [[Avsohm|Avsohmic]] technological systems. It appears frequently throughout the story, communicating through chat and directing the player through the storyline.
 
 ## Lore
 

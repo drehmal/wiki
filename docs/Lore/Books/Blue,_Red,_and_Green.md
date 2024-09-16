@@ -7,7 +7,7 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-This book can be found in a chest in the [[Exodus Citadel]], and describes the beginning of [[Blue Exodus]]'s official relationship with the [[Empire of Avsohm]].
+This book can be found in a chest in the [[Exodus Citadel]], and describes the beginning of [[Blue Exodus]]'s official relationship with the [[Avsohm|Empire of Avsohm]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

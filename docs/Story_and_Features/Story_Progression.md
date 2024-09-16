@@ -15,7 +15,7 @@ The following sections provide an overview of the story's progression, in (appro
 ![[stasis_inside.png]]
 > The room in the [[Stasis Facility]] where the player wakes up.
 
-After configuring the world's settings, the player awakens in a temporal stasis pod at the [[Stasis Facility]] to the news that several stasis pods have flatlined, and they are being evacuated. The player assumes the role of one of the [[Stasis Eight]], a group of eight high-ranking officials from the [[Empire of Avsohm]] who were frozen in time (this information is not directly told to the player, except through the [[Stasis Subject Roster]] book). From exploring the facility, the player finds that they entered stasis due to some kind of emergency, and that an extremely long amount of time (revealed later to be over a thousand years) has passed. The player is able to escape by taking a hint from one of the nearby holotexts, and emerges to the surface, just south of the [[Primal Caverns]].
+After configuring the world's settings, the player awakens in a temporal stasis pod at the [[Stasis Facility]] to the news that several stasis pods have flatlined, and they are being evacuated. The player assumes the role of one of the [Stasis Eight](Lore/Historical_Figures/Avsohm/Stasis_Eight/), a group of eight high-ranking officials from the [[Avsohm|Empire of Avsohm]] who were frozen in time (this information is not directly told to the player, except through the [[Stasis Subject Roster]] book). From exploring the facility, the player finds that they entered stasis due to some kind of emergency, and that an extremely long amount of time (revealed later to be over a thousand years) has passed. The player is able to escape by taking a hint from one of the nearby holotexts, and emerges to the surface, just south of the [[Primal Caverns]].
 
 ![[stasis_outside.png]]
 > The view that the player surfaces to.
@@ -67,10 +67,10 @@ At any point after obtaining the two blade fragments, the player can return to t
 ## Admin Wing (75% SPOILERS BEGIN HERE)
 Upon reaching 75% tower linkage (24 towers), the player will be given one more compass by avSYS, pointing to the [[Admin Wing|Administrative Wing]] of the Av'Sal Repository. Here, the first portion of the 75% event takes place.
 
-At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named [[Verpyne]], requesting reinforcements aboard the greatest ship in the Avsohmic fleet: [[The Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
+At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named [[Verpyne]], requesting reinforcements aboard the greatest ship in the Avsohmic fleet: [[Aphelion|The Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
 
 ## The Aphelion 
-When returning to the Terminus after being prompted to do so in the Admin Wing, the player will gain access to a new wing in the Outer Towers section of the Terminus. At the end of this wing is a small space shuttle that takes the player to [[The Aphelion|the Aphelion]]. 
+When returning to the Terminus after being prompted to do so in the Admin Wing, the player will gain access to a new wing in the Outer Towers section of the Terminus. At the end of this wing is a small space shuttle that takes the player to the [[Aphelion]]. 
 
 ![[aphelion_outside.png]]
 > The Aphelion.
@@ -191,7 +191,7 @@ At the Terminus, a final trinket is dispensed: The Rhythmic Thing. This item dir
 At this point, the voice reveals their true identity: [[yellow|The Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including Drehmal, with far more power than any of the Aspects or Deities. The Mythoclast gives the player a new rendition of the [[Mythbreaker]] (known in the community as the "True" Mythbreaker), and invites the player to their court, where the player is told that guests are expecting them.
 
 ## Court of Nothing
-Upon stepping through the portal in the Stasis Facility, the player is transported to the [[Court of Nothing]], the Mythoclast's Court in which they judge all souls. Within the court, the player fights the reanimated forms of [[Ultva Utofal]] and [[Hovadchear Myrik]], the two leaders of the Order of [[Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the [[Maddened Path]].
+Upon stepping through the portal in the Stasis Facility, the player is transported to the [[Court of Nothing]], the Mythoclast's Court in which they judge all souls. Within the court, the player fights the reanimated forms of [[Ultva|Ultva Utofal]] and [[Hovadchear|Hovadchear Myrik]], the two leaders of the Order of [[Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the [[Maddened Path]].
 
 The player is warned before entering that this is their final journey, as time flows differently where they're headed.
 
@@ -203,7 +203,7 @@ The [[Maddened Path]] is the home of the penultimate story sequence, taking plac
 
 They also tell the player that they have one final person for them to meet, and that this person has specifically requested to see you, the player. The Mythoclast wishes the player luck before leaving them to the final boss fight.
 
-The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss appears like any other [[Drehmari]] wielding [[Oblivion]], but in his second phase, is revealed to be [[Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful man, realized too late that he had created an empire that would stop at nothing to attain power, and after his death, begged The Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's Pawn, up until his death at the player's hands.
+The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss appears like any other [[Drehmari]] wielding [[Oblivion]], but in his second phase, is revealed to be [[Drehn|Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful man, realized too late that he had created an empire that would stop at nothing to attain power, and after his death, begged The Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's Pawn, up until his death at the player's hands.
 
 After defeating the Emissary, one final portal is opened.
 

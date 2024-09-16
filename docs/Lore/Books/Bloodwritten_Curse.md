@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame in Zovan, at the eastern end of the ruined bridge between the [[South Heartwood]] and [[Black Jungle|The Black Jungle]], seemingly written by a citizen of the [[Tidal Dynasty]] cursing the Gozaki and [[Order of Insohm|Insohm]].
+This book can be found in an item frame in Zovan, at the eastern end of the ruined bridge between the [[South Heartwood]] and [[Black Jungle|The Black Jungle]], seemingly written by a citizen of the [[Tidal Dynasty]] cursing the Gozaki and [[Insohm]].
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in the tower bay of [[The Aphelion]], this holotext provides insight as to the history of the Avsohmic warp towers, establishing that the first one was used in [[Mt. Yavhlix]] to transport primal energy.
+Found in the tower bay of the [[Aphelion]], this holotext provides insight as to the history of the Avsohmic warp towers, establishing that the first one was used in [[Mt. Yavhlix]] to transport primal energy.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. The first research log in this facility written by [[Thresa Vera]] as CSO, it details the efforts to peer directly beyond the Veil via [[The Aphelion]].
+This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls]]. The first research log in this facility written by [[Thresa Vera]] as CSO, it details the efforts to peer directly beyond the Veil via the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

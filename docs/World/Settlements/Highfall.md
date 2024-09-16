@@ -81,4 +81,4 @@ Additional unique merchants can also be found:
 
 ## Lore
 
-Highfall was once a prosperous and powerful trading city along major routes, powerful enough to abstain from joining the [[Empire of Avsohm]] at their peak. When [[the Frostfang Catastrophe]] occurred, trade was halted due to ice and treacherous climate. It is now no longer a major power on the continent. Despite joining the [[Order of Insohm]], Highfall remained a once influential and noble city reduced to poverty.
+Highfall was once a prosperous and powerful trading city along major routes, powerful enough to abstain from joining the [[Avsohm|Empire of Avsohm]] at their peak. When [[the Frostfang Catastrophe]] occurred, trade was halted due to ice and treacherous climate. It is now no longer a major power on the continent. Despite joining the [[Insohm|Order of Insohm]], Highfall remained a once influential and noble city reduced to poverty.

@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Empire of Avsohm]].
+This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Avsohm|Empire of Avsohm]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

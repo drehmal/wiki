@@ -8,7 +8,7 @@ tags:
 
 ![[Elvett.webp]]{ align=right width="300" }
 
-**Elvett** was once an [[Empire of Avsohm|Avsohmic]] city. Nowadays, only ruins remain, boarding a river in the Western Coast of the [[Ebony Veldt]] [region](/Regions).
+**Elvett** was once an [[Avsohm|Avsohmic]] city. Nowadays, only ruins remain, boarding a river in the Western Coast of the [[Ebony Veldt]] [region](/Regions).
 
 ## Lore
 

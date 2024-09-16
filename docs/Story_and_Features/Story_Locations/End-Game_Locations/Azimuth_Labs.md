@@ -37,7 +37,7 @@ Following this instruction will take the player to the Sunken Astral Body, as th
 ![[azimuth_entrance.png]]
 > The transit hub at the entrance to Azimuth Labs.
 
-The player then descends into the facility, first having to swim through a tunnel that leads to a large underground transit hub. During this sequence, the voice tells the player a story about the three Avsohmic heads of state: Emperors [[Drehn Mal'Sohm|Drehn]], [[Ifeihl]], and [[Anyr]]. It tells the player that these three men all gradually increased the penalty for attempted regicide in Avsohm, escalating to the point that the crime was punishable by indefinite partial stasis, in which the subject was physically paralyzed but forced to live forever as a prisoner inside their own body. The voice asks the player to consider the consequences of a successful regicide, and disappears as the player enters the facility proper.
+The player then descends into the facility, first having to swim through a tunnel that leads to a large underground transit hub. During this sequence, the voice tells the player a story about the three Avsohmic heads of state: Emperors [[Drehn]], [[Ifeihl]], and [[Anyr]]. It tells the player that these three men all gradually increased the penalty for attempted regicide in Avsohm, escalating to the point that the crime was punishable by indefinite partial stasis, in which the subject was physically paralyzed but forced to live forever as a prisoner inside their own body. The voice asks the player to consider the consequences of a successful regicide, and disappears as the player enters the facility proper.
 
 ![[azimuth_center.png]]
 > The central rooms of Azimuth Labs.

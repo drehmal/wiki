@@ -18,7 +18,7 @@ In the center of the terminus, below a transparent floor, there is a rough physi
 ![[cv_tower.png]]
 > The [[Capital Valley]] Terminus tower, often the first that the player will come across. 
 
-Terminus towers are recognizable by their late [[Empire of Avsohm|Avsohmic]] architecture, consisting primarily of quartz, with a purple-colored central pillar. The tops of the towers are small, partially-enclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
+Terminus towers are recognizable by their late [[Avsohm|Avsohmic]] architecture, consisting primarily of quartz, with a purple-colored central pillar. The tops of the towers are small, partially-enclosed platforms with bedrock floors, covered with roofs of stained glass divided into four quarters (red, blue, green and yellow), representing the four different tower categories. Inside this structure are four buttons on a single block that teleport the player to the Terminus, each with a sign above displaying the tower's name. 
 
 Different Terminus towers have different features, often being guarded by enemies or having parkour leading to the top. Most towers do not have direct access to the top, meaning players must pillar up or use some other means of reaching the button.
 
@@ -78,7 +78,7 @@ At the 25%, 50%, and 75% milestones, the player will be given a lodestone compas
 
 --8<-- "75_spoiler.md"
 
-After visiting the [[Admin Wing]] in the [[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for [[The Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
+After visiting the [[Admin Wing]] in the [[Av'Sal Repository]] and upgrading their rank, the player gains access to a new section of the Terminus at the end of the Outer Towers hallway that houses the buttons for the [[Aphelion]] and [[Lo'Dahr]] (not revealed until unlocked). At the end of this passage is a button which teleports the player to the Terminus's docking bay (actually in the space dimension, as opposed to the Drehmal dimension where the rest of the Terminus exists). Here, the player can board a space shuttle to be transported to the Aphelion and they can recall the shuttle with a button upon revisit.
 
 ## Lore (Post-75% SPOILERS)
 
@@ -94,7 +94,7 @@ The Terminus was born out of Avsohm's efforts to [[Ring Research Installation#Lo
 
 However, the warp tech was deemed inefficient due to the fact that each ring could only connect to its one linked ring, and vice versa. Thus, [[Vortu]], an Avsohmic officer aboard the Aphelion, came up with the idea of a central hub, where important locations could all be linked to, allowing for extremely rapid transfer of personnel, cargo, and energy around the empire. 
 
-The Terminus itself was built as a satellite to [[The Aphelion]], allowing for direct access of Avsohm's flagship from the Terminus.
+The Terminus itself was built as a satellite to the [[Aphelion]], allowing for direct access of Avsohm's flagship from the Terminus.
 
 ## Late-Game Towers
 

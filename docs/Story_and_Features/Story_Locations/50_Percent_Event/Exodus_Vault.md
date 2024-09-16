@@ -62,7 +62,7 @@ In addition, there are 4 lore books found at this location: <br>
 - [[Water-Damaged Letter]] is written by an unnamed deliveryperson who worked between the vault and [[The Foundry]], detailing some of the increased military presence in and around the vault at the time of writing.
 
 ## Lore
-The Exodus Vault was the headquarters of [[Blue Exodus]] during [[Empire of Avsohm|Avsohm]]'s reign. It was considered among the most secure locations in the empire, containing a significant amount of Blue Exodus' machinery and personnel. While the Exodus Vault has always been entirely underground, it was even harder to find in Avsohm's era, as the Exodus Citadel outside of it used to be at the bottom of the lake. Personnel who worked within the Citadel were not allowed to visit the vault unless given explicit permission.
+The Exodus Vault was the headquarters of [[Blue Exodus]] during [[Avsohm]]'s reign. It was considered among the most secure locations in the empire, containing a significant amount of Blue Exodus' machinery and personnel. While the Exodus Vault has always been entirely underground, it was even harder to find in Avsohm's era, as the Exodus Citadel outside of it used to be at the bottom of the lake. Personnel who worked within the Citadel were not allowed to visit the vault unless given explicit permission.
 
 The Vault was, at some point or another, home to many pertinent figures in Avsohmic history, including Blue Exodus leader [[Kahmas Tuhs]], researcher [[Kovis]], technician [[Vortu]], [[Ekoh]], [[Naskiki]], and others.
 

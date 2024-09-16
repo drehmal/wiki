@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext is found just beside [[Anyr]]'s throne on the lower level of [[The Aphelion]]. It contains a draft of a historian's account of Avsohmic history, followed by a message to Anyr requesting his approval.
+This holotext is found just beside [[Anyr]]'s throne on the lower level of the [[Aphelion]]. It contains a draft of a historian's account of Avsohmic history, followed by a message to Anyr requesting his approval.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

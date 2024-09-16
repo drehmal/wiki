@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Old Insohmic Library]], east of [[Mossfield|New Mossfield]]. In it, an Insohmic council member chronicles the mental decline of [[Ultva]], a co-founder of the [[Order of Insohm]], as he becomes infatuated with ancient [[Empire of Avsohm|Avsohmic]] technology.
+This book can be found in a chest in the [[Insohmic Library]], east of [[Mossfield|New Mossfield]]. In it, an Insohmic council member chronicles the mental decline of [[Ultva|Ultva Utofal]], a co-founder of the Order of [[Insohm]], as he becomes infatuated with ancient [[Avsohm|Avsohmic]] technology.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

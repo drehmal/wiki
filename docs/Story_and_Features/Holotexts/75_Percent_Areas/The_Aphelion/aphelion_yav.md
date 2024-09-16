@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-This holotext can be found in the surveillance room aboard [[The Aphelion]]. It recounts how a crew member watching the [[Mt. Yavhlix|Yavhlix]] camera feed during Avsohm's fall was consumed by holes himself, suggesting that anyone who saw the actions of Those Beyond were taken themselves.
+This holotext can be found in the surveillance room aboard the [[Aphelion]]. It recounts how a crew member watching the [[Mt. Yavhlix|Yavhlix]] camera feed during Avsohm's fall was consumed by holes himself, suggesting that anyone who saw the actions of Those Beyond were taken themselves.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

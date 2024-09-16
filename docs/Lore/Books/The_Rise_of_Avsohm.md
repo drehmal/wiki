@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in [[Drabyel]], and describes the rise of the [[Empire of Avsohm]].
+This book can be found in a chest in [[Drabyel]], and describes the rise of the [[Avsohm|Empire of Avsohm]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

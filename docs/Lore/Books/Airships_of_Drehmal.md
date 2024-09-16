@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Old Insohmic Library]]. It documents the use of airships in Av3, from their rediscovery in Av3 509 by the [[Order of Insohm]] to their use in warfare, as well as information about some notable airships.
+This book can be found in a chest in the [[Insohmic Library]]. It documents the use of airships in Av3, from their rediscovery in Av3 509 by the [[Insohm|Order of Insohm]] to their use in warfare, as well as information about some notable airships.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

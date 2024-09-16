@@ -5,7 +5,7 @@ tags:
 
 # Tharhan: A Land of Conquest (Chapter 3)
 
-This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj Swamp]] region. It is the third of four books in the "Tharhan: A Land of Conquest" series, continuing the saga of the Tharhan Empires. This chapter's contents include the eventual victory over Casain invaders, the foundation of the Second Tharhan Empire, and the empire's eventual subjugation at the hands of the [[Empire of Avsohm]].
+This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj Swamp]] region. It is the third of four books in the "Tharhan: A Land of Conquest" series, continuing the saga of the Tharhan Empires. This chapter's contents include the eventual victory over Casain invaders, the foundation of the Second Tharhan Empire, and the empire's eventual subjugation at the hands of [[Avsohm]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

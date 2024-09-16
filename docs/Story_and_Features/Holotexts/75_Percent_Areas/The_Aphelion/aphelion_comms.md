@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found next to the avSYS Materials Exchange Unit in [[The Aphelion]].
+Found next to the avSYS Materials Exchange Unit in the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

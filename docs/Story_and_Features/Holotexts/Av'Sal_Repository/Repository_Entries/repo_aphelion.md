@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-The repository entry for [[The Aphelion]].
+The repository entry for the [[Aphelion]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

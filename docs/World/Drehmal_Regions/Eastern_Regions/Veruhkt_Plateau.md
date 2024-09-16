@@ -18,7 +18,7 @@ There are no settlements in Veruhkt Plateau.
 
 ## History
 
-In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. The Veruhktian people were likely ruled by a centralized political power, based in the capital city of [[Sal'Veruhkt|Verukhaan]]. In an event known by the Verukhtians as the "Desecration", the region was conquered by [[Uffeihl Anyr|Emperor Anyr]] of [[Avsohm]], and its Tech-Priests were massacred, leaving only three alive and in hiding. Verukhaan was renamed to Sal'Veruhkt. 
+In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. The Veruhktian people were likely ruled by a centralized political power, based in the capital city of Verukhaan. In an event known by the Verukhtians as the "Desecration", the region was conquered by [[Uffeihl Anyr|Emperor Anyr]] of [[Avsohm]], and its Tech-Priests were massacred, leaving only three alive and in hiding. Verukhaan was renamed to Sal'Veruhkt. 
 
 After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty for an indefinite amount of time. Eventually the region came under the rule of the [[Kingdom of Dusps]], who subjected the Veruhktians to harsh oppression and were responsible for the extinction of their culture. 
 
@@ -32,16 +32,24 @@ Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A
 
 ### [[Altar of Insight]]
 
-The Altar of Insight was an ancient stone ziggurat that served as an portant religious site. The Lens of Insight, a device capable of seeing through Drehmal's ground, was held underneath the Alrar, and it was used to locate and observe Lo'Veruhkt. The Altar was devastated and looted by Avsohm during the Desecration.
+The Altar of Insight was an ancient stone ziggurat that and contained unique Veruhktian technology and served as an important religious site. The Lens of Insight, a device capable of seeing through Drehmal's ground, was held underneath the Altar, and it was used to locate and observe Lo'Veruhkt. The Altar was devastated and pillaged by Avsohm during the Desecration.
+
+**Coordinates:** (X: 4145, Y: 122, Z: -1546)
 
 ### Battle Pizzazzle
 
 The Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a challenge for adventurers by a wealthy man named Vihktor Ohna. The tower has a multitude of stories, each with a small challenge that must be surpassed in order to reach the stairs to the next level. A prize is kept at the top. The business idea was ultimately unsuccessful, as few to none showed up to compete.
 
+**Coordinates:** (X: 4106, Y: 185, Z: -2208)
+
 ### Ruins of Sal'Veruhkt
 
 Sal'Veruhkt, formerly Verukhaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was posssibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
 
+**Coordinates:** (X: 3577, Y: 65, Z: -1362)
+
 ### Solitary [[Runic Blacksmith]]
 
 Nearby the region's Terminus tower is a wood-and-stone cabin that houses a lone Runic Blacksmith, positioned at a small, outdoor workshop to the side of the house.
+
+**Coordinates:** (X: 4024, Y: 138, Z: -1864)

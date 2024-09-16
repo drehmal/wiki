@@ -2,7 +2,7 @@
 
 ![[Black_Jungle.png]]{ align=right width="300" }
 
-The Black Jungle is a relatively large region in southeast [[Drehmal (Place)|Drehmal]] , mostly covered in dense jungle. The region is also very volcanically active, meaning pits of lava are widely present throughout the terrain. The name "Black Jungle" is most likely derived from the black volcanic sand that exists in some areas, especially the coasts.
+The Black Jungle is a relatively large region in southeast [[Overworld|Drehmal]] , mostly covered in dense jungle. The region is also very volcanically active, meaning pits of lava are widely present throughout the terrain. The name "Black Jungle" is most likely derived from the black volcanic sand that exists in some areas, especially the coasts.
 
 ## Geography
 

@@ -5,7 +5,7 @@ The **Stasis Facility** is the first major story location in Drehmal, located in
 ![[stasis_outside.png]]
 > The outside of the Stasis Facility, facing north towards the [[Primal Caverns]].
 
-Within the story of the map, the Stasis Facility is a site where high-ranking [[Avsohm|Avsohmic]] officials were to be frozen in time in the event of an empire-wide catastrophe, released a few years later in order to rebuild the empire. The player assumes the identity of one of [[Stasis Eight|the eight officers on the bottom floor]], who are the only known survivors of the empire's collapse, after an unknown amount of time has passed.
+Within the story of the map, the Stasis Facility is a site where high-ranking [[Avsohm|Avsohmic]] officials were to be frozen in time in the event of an empire-wide catastrophe, released a few years later in order to rebuild the empire. The player assumes the identity of one of [the eight officers on the bottom floor](Lore/Historical_Figures/Avsohm/Stasis_Eight/), who are the only known survivors of the empire's collapse, after an unknown amount of time has passed.
 
 ??? abstract "Coordinates"
     | **X** | **Y** | **Z** |

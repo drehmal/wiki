@@ -5,7 +5,7 @@
 --8<-- "postyav_spoiler.md"
 
 ## Summary
-**The Mythoclast** (known to Avsohm as "Him-Beyond" and often informally referred to by the Drehmal ommunity as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
+**The Mythoclast** (known to Avsohm as "Him-Beyond" and often informally referred to by the Drehmal community as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
 
 Although his influence is often hidden, The Mythoclast plays a central role in the story of Drhemal, having directly intervened in the realm's history by personally smiting the [[Avsohm|Avsohmic Empire]], as well as functioning as the player's guide through the post-game sequence containing several revelations about the history of Avsohm and what ultimately spelled their doom.
 

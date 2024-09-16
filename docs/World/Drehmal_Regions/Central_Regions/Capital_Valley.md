@@ -2,7 +2,7 @@
 
 ![[Capital_Valley.webp]]{ align=right width="300" }
 
-Capital Valley is a region in central [[Drehmal (Place)|Drehmal]], and the first one to be explored by the player. The region's landscape consists mostly of temperate plains and woods. The name "Capital Valley" dates back to [[Avsohm|Avsohmic]] times, when the empire's capital [[Av'Sal]] was located in the west of this region.
+Capital Valley is a region in central [[Overworld|Drehmal]], and the first one to be explored by the player. The region's landscape consists mostly of temperate plains and woods. The name "Capital Valley" dates back to [[Avsohm|Avsohmic]] times, when the empire's capital [[Av'Sal]] was located in the west of this region.
 
 ## Geography
 

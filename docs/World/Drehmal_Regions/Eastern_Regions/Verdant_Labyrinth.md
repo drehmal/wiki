@@ -18,6 +18,6 @@ Some time in the Third Avihm, the hero Deigh the Dawnstrider united his fellow, 
 
 ### Mihkmari Fortress
 
-**Coordinates:** (X: 3321, Y: 141, Z: 2672)
-
 Over the water in the center of the Verdant Labyrinth is a fortified tower, situated on a chunk of land suspended in the air by giant chains anchored to the cliffs on either side. The fortress houses many Mihkmari warriors and crossbowmen. It was likely built by Deigh's clan of Mihkmari upon settling in the area.
+
+**Coordinates:** (X: 3321, Y: 141, Z: 2672)

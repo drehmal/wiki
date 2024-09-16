@@ -22,7 +22,7 @@ The small town of [[Schlonko]] sits on Faehrcyle's west coast, amidst the region
 
 Faehrcyle was originally a moderately cold, grassy steppe, rather than the frozen wasteland it is today. The region is known to have been inhabited since the first decades of the Second Avihm, with the local peoples organized into tribes/clans. After the nearby disappearance of the Aspect [[Tethlaen]], the Faehrcylian people began to worship him, and fear became ingrained into the region's culture.
 
-By late Second Avihm, Faehrcyle was divided between seven clans. They all joined together under the leadership of [[Homli Tahsgan]] in order to fend off an attack from the [[Empire of Avsohm]], who was trying to secure passage to Mt. Yavhlix to uncover the source of energy inside. Homli Tahsgan attempted to use magic against Avsohm's army, and unintentionally created a blizzard so strong that it would have a permanent environmental impact across northern Drehmal. Faehrcyle suffered a transformation into an inhospitable, frozen tundra. The majority of the tribespeople dispersed to surrounding areas that were less affected, and Avsohm took control of the region (or at least the western part).
+By the late Second Avihm, Faehrcyle was divided between seven clans. They all joined together under the leadership of [[Homli Tahsgan]] in order to fend off an attack from the [[Empire of Avsohm]], who was trying to secure passage to Mt. Yavhlix to uncover the source of energy inside. Homli Tahsgan attempted to use magic against Avsohm's army, and unintentionally created a blizzard so strong that it would have a permanent environmental impact across northern Drehmal. Faehrcyle suffered a transformation into an inhospitable, frozen tundra. The majority of the tribespeople dispersed to surrounding areas that were less affected, and Avsohm took control of the region (or at least the western part).
 
 In the Third Avihm, several kingdoms arose in Avsohm's wake and united under the Federation of Faehrcylian Kingdoms. This federation, along with the organized remnants of the Faehrcylian tribes, joined the [[Order of Insohm]]. In the [[Insohmic Civil War]], the Federation took sides with the loyalists and the tribes with the separatists. The tribes surrendered after the capitulation of both of their allies. 
 
@@ -36,7 +36,14 @@ Faehrcyle's Terminus tower is located in the region's center, and most of it is 
 
 ## Points of Interest
 
-| POI | Image | Coordinates | Description |
-|-|-|-|-|
-| Homli Tahsgan's Grave |  | X: 1105, Y: 65, Z: -3026 | The burial site of Homli Tahsgan is in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers". |
-| Schlonko |  | X: 2291 , Y: 40, Z: -2960 | Schlonko is a small port town on the western coast of Faehrcyle, and is the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing her [devotion](/Story_and_Features/Devotion/) altar, sits on a bluff above the town. |
+### [[Homli Tahsgan's Grave]]
+
+The burial site of Homli Tahsgan is in a pit in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers".
+
+**Coordinates:** (X: 1105, Y: 65, Z: -3026)
+
+### Schlonko
+
+Schlonko is a small port town on the western coast of Faehrcyle, and is the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing her [[Devotion|devotion]] altar, sits on a bluff above the town.
+
+**Coordinates:** (X: 2291 , Y: 40, Z: -2960)

@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the Major [[Aspects]], the more powerful of the minor gods in the realm of Drehmal.
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/), the more powerful of the minor gods in the realm of Drehmal.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

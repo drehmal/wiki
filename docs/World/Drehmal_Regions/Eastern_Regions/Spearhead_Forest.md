@@ -59,48 +59,48 @@ The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by
 
 ### [[Insohmic Library Tower]]
 
-**Coordinates:** (X: 4547, Y: 98, Z: 1587)
-
 The Insohmic Library Tower is a small stone tower that stands on an island to the east of the ruins of Mossfield, connected by a bridge to the mainland peninsula. It was used as the headquarters of the Order of Insohm after the disappearance of Castle Hovadchear, and the old Insohmic Council members continue to reside here.
+
+**Coordinates:** (X: 4547, Y: 98, Z: 1587)
 
 ### Lily Meadows Inn
 
-**Coordinates:** (X: 3707, Y: 66, Z: 901)
-
 Lily Meadows Inn is a colorful inn in central Spearhead Forest, on a small island amidst a large lake with giant lilypads and flowers. It contains many rooms and a restaurant, along with several traders.
+
+**Coordinates:** (X: 3707, Y: 66, Z: 901)
 
 ### New Mossfield
 
-**Coordinates:** (X: 4142, Y: 65, Z: 1725)
+New Mossfield is a port town on Spearhead Forest's southern east coast. Its buildings are built of spruce wood an.d stone, with moss-covered roofs. The town came into being after the older and larger city of Mossfield fell into ruin at the end of the Third Avihm
 
-New Mossfield is a port town on Spearhead Forest's southern east coast. Its buildings are built of spruce wood and stone, with moss-covered roofs. The town came into being after the older and larger city of Mossfield fell into ruin at the end of the Third Avihm
+**Coordinates:** (X: 4142, Y: 65, Z: 1725)
 
 ### Ruins of Mossfield
 
-**Coordinates:** (X: 4333, Y: 102, Z: 1574)
-
 Mossfield was originally built as a port for an unknown kingdom some time in the Second Avihm. It rose to prominence in the early Av3 500s, when the new innovation of airship trade made it an optimal hub of commerce. It quickly grew in size, and became the capital of the Order of Insohm (shortly) and Insohmic Commonwealth. As the Order expanded, Mossfield developed into the largest city in Drehmari history and a center of industry, art and knowledge. It was mostly destroyed at the end of the Third Avihm by intense riots, as Insohm fractured following the departure of Master Vahid. The grand city's stone ruins lay nearby the modern town of New Mossfield.
+
+**Coordinates:** (X: 4333, Y: 102, Z: 1574)
 
 ### Ruins of Sevick
 
-**Coordinates:** (X: 5030, Y: 86, Z: 1070)
-
 Sevick was an isolated town on a small, solitary island in the eastern ocean. Its inhabitants were driven into a frenzied paranoia about a supposed deadly plague after a diseased [[Gozak|Gozaki]] trader washed up on the shore. Three died from attempts to perform surgery on themselves, and the rest permanently evacuated the island. The remnants of the abandoned town still remain.
+
+**Coordinates:** (X: 5030, Y: 86, Z: 1070)
 
 ### Ruins of Virsuhl
 
-**Coordinates:** (X: 3971, Y: 72, Z: -43)
-
 Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
+
+**Coordinates:** (X: 3971, Y: 72, Z: -43)
 
 ### Skeveraan's House
 
-**Coordinates:** (X: 3130, Y: 30, Z: 1273)
-
 A large, lakeside house was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practicioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which supported its owner's friendly guise. 
+
+**Coordinates:** (X: 3130, Y: 30, Z: 1273)
 
 ### Timberhearth Observatory & Museum
 
-**Coordinates:** (X: 4138, Y: 127, Z: 288)
-
 Timberhearth Observatory & Museum is a building positioned on a bluff in the region's northeastern grasslands. A multitude of artifacts are set on display inside; a gravity-defying pillar from Avsohmic ruins, a set of alchemical supplies, a rehnite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
+
+**Coordinates:** (X: 4138, Y: 127, Z: 288)

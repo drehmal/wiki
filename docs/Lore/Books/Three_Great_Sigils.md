@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in [[Hevhlak]].
+This book can be found on a lectern in [[Hevhlak]], seeming to reference the Minor Aspect [[Dahroehl]], Aspect of Freshwater, apparently worshipped in this village.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -14,9 +14,9 @@ There are no sizable settlements in Palisades Heath. [[Drehmal]] is worshiped by
 
 ## History
 
-Palisades Heath was one of, if not the first habitable area created by Drehmal after the Felling of the [[Primal Tree]]. At the time, the land was referred to by the [[Rihselch]] name "Palisahd". The Drehmal-worshiping [[Ancient Drehua]] people emerged in this region, founding [[Drehua Temple]] and recording much of early history and accounts of interactions with Drehmal in their books. 
+Palisades Heath was one of, if not the first habitable area created by Drehmal after the [[Felling of the Primal Tree|Felling]] of the [[Primal Tree]]. At the time, the land was referred to by the [[Rihselch]] name "Palisahd". The Drehmal-worshiping [[Ancient Drehua]] people emerged in this region, founding [[Drehua Temple]] and recording much of early history and accounts of interactions with Drehmal in their books. 
 
-Later in the Second Avihm, the region would fall under the rule of the [Empire of Avsohm|Avsohmic Empire]. The first emperor, [[Drehn Mal'Sohm]], had an interest in the Drehuan culture, and was responsible for the refurbishment of Drehua Temple and many old Drehuan works of art. The region had also become a hotspot for pirates who raided the coasts along the Mouth of Drehmal, and they continued to inhabit the region during Avsohm's reign.
+Later in the Second Avihm, the region would fall under the rule of the [Avsohm|Avsohmic Empire]. The first emperor, [[Drehn Mal'Sohm]], had an interest in the Drehuan culture, and was responsible for the refurbishment of Drehua Temple and many old Drehuan works of art. The region had also become a hotspot for pirates who raided the coasts along the Mouth of Drehmal, and they continued to inhabit the region during Avsohm's reign.
 
 Little is known about the region's history in the Third Avihm, but its reputation of outlaws continues to stand until this day.
 
@@ -28,8 +28,20 @@ The Paliasades Heath Terminus tower is located in the region's north, next to th
 
 ## Points of Interest
 
-| POI | Image | Coordinates | Description |
-|-|-|-|-|
-| Drehua Temple |  | X: -130, Y: 158, Z: 2876 | Drehua Temple is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [devotion](/Story_and_Features/Devotion/) altar. The temple was founded by the ancient Drehua, but it was renovated more than a millenium later with funds from the Avsohmic emperor Drehn Mal'Sohm. |
-| Drehuan Scupltures |  | X: 33, Y: 122, Z: 2395 | In the north of the region, off the side of the road in a patch of woods, there is a group of large ancient Drehuan stone sculptures and other small structures. The largest by far, overlooking the rest, is a statue of a bald [[Drehmari]] sitting cross-legged with one palm held outward and a four-pronged staff in the other hand.
-| Whale's Tale |  | X: -200, Y: 64, Z: 3606 | The Whale's Tale is a boat-shaped inn in the region's south, at the end of the road from Capital Valley. On the upper deck is a [[Runic Blacksmith]]. |
+### Drehua Temple
+
+Drehua Temple is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [[Devotion|devotion]] altar. The temple was founded by the ancient Drehua, but it was renovated more than a millenium later with funds from the Avsohmic emperor Drehn Mal'Sohm.
+
+**Coordinates:** (X: -130, Y: 158, Z: 2876)
+
+### Drehuan Sculptures
+
+In the north of the region, off the side of the road in a patch of woods, there is a group of large ancient Drehuan stone sculptures and other small structures. The largest by far, overlooking the rest, is a statue of a bald [[Drehmari]] sitting cross-legged with one palm held outward and a four-pronged staff in the other hand.
+
+**Coordinates:** (X: 33, Y: 122, Z: 2395)
+
+### Whale's Tale
+
+The Whale's Tale is a boat-shaped, busy inn in the region's south, at the end of the road from Capital Valley. On the upper deck is a [[Runic Blacksmith]].
+
+**Coordinates:** (-200, Y: 64, Z: 3606)

@@ -32,14 +32,16 @@ Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A
 
 ### Altar of Insight
 
-
+The Altar of Insight was an ancient stone Ziggurat that served as a religious site and held the Lens of Insight, a device capable of seeing through Drehmal's ground. The Lens was used to locate and observe Lo'Veruhkt.
 
 ### Battle Pizzazzle
 
-
+The Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a challenge for adventurers by a wealthy man named Vihktor Ohna. The tower has a multitude of stories, each with a small challenge that must be surpassed in order to reach the stairs to the next level. A prize is kept at the top. The business idea was ultimately unsuccessful, as few to none showed up to compete.
 
 ### Ruins of Sal'Veruhkt
 
+Sal'Veruhkt, formerly Verukhaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was posssibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
 
+### Solitary [[Runic Blacksmith]]
 
-### Solitary Runic Blacksmith
+Nearby the region's Terminus tower is a wood-and-stone cabin that houses a lone Runic Blacksmith, positioned at a small, outdoor workshop to the side of the house.

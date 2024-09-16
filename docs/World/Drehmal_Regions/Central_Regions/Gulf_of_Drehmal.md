@@ -25,14 +25,26 @@ In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional 
 
 ## [[Terminus Network|Terminus]] Tower
 
-The Gulf of Drehmal's Terminus tower sits atop a wooden boat in the middle of the coast's central inlet. There are several [[Mihkmari]] aboard the boat.
+The Gulf of Drehmal's Terminus tower sits half-submerged in the middle of the coast's central inlet. A sinking boat full of [[Mihkmari]] that had crashed into the tower floats adjacent to it.
 
 **Coordinates:** (X: 460, Y: 97, Z: -393)
 
 ## Points of Interest
 
-| POI | Image | Coordinates | Description |
-|-|-|-|-|
-| Astorahnni Tower |  | X: -180, Y: 163, Z: -572 | The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is inhabited by the hostile Sun Apostles, members of the Order of Astorahn. The Order of Astorahn was created in West Merijool on the foundation of the Torahn being the world's true source of warmth, as opposed to [[Lai]], [Aspect](/Lore/Higher_Beings/Aspects/) of Warmth. Due to the Astorahnni's beliefs, which contradicted those of the Lai-worshiping people of West Merijool, they were banished from the land and resettled in the Gulf of Drehmal region.
-| Ruins of Drahbes |  | X: 1583, Y: 65, Z: -376 | Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilizaton that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region. Outside of the ruins is a small settlement with houses of grass and wood. |
-| Ruins of Fortahn |  | X: 341, Y: 66, Z: -85 | Fortahn was a major Avsohmic-era city that sat along a river delta feeding into the Gulf of Drehmal. The city was destroyed by the forces that caused the Fall of Avsohm, and despite an attempt to hide and barricade everyone, its people were massacred. The sprawling stone-brick-and-quartz ruins are still visible today. |
+### Astorahnni Tower
+
+The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is inhabited by the hostile Sun Apostles, members of the Order of Astorahn. The Order of Astorahn was created in West Merijool on the foundation of the Torahn being the world's true source of warmth, as opposed to [[Lai]], [Aspect](/Lore/Higher_Beings/Aspects/) of Warmth. Due to the Astorahnni's beliefs, which contradicted those of the Lai-worshiping people of West Merijool, they were banished from the land and they resettled in the Gulf of Drehmal region.
+
+**Coordinates:** (X: -180, Y: 163, Z: -572)
+
+### Ruins of Drahbes
+
+Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilizaton that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region. Outside of the ruins is a small settlement with houses of grass and wood.
+
+**Coordinates:** (X: 1583, Y: 65, Z: -376)
+
+### Ruins of Fortahn
+
+Fortahn was a major Avsohmic-era city that sat along a river delta feeding into the Gulf of Drehmal. The city was destroyed by the forces that caused the Fall of Avsohm, and despite an attempt to hide and barricade everyone, its people were massacred. The sprawling stone-brick-and-quartz ruins are still visible today.
+
+**Coordinates:** (X: 341, Y: 66, Z: -85)

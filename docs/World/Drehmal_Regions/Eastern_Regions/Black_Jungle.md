@@ -42,20 +42,57 @@ The [[Tidal War]] was fought between the Tidal military and Virtuo's Grand Paris
 
 ## [[Terminus Network|Terminus]] Tower
 
-The Black Jungle's Terminus tower is located in the region's center, atop a miniature volcano near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
+The Black Jungle's Terminus tower is located in the region's center, atop a miniature volcano with steps near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
 
 **Coordinates:** (X: 4428, Y: 154, Z: 3273)
 
 
 ## Points of Interest
 
-| POI | Image | Coordinates | Description |
-|-|-|-|-|
-| Black Ruins |  | X: 4145, Y: 70, Z: 4136 | The mysterious ruins (still completely intact) of a large city comprised almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace with an elevated throne. The city's inhabitants worshiped Verrhys, evident due to a statue of them hidden in a large underground cavern, and they were the only people who are known to have done so. The residents died out for some unknown reason. |
-| Divination Facility |  | X: 3197, Y: 87, Z: 3249 | The Divination Facility was a small, one-room Avsohmic facility situated in a cave behind the Kiln of Virtuo. It was used for Project ArkAngel, in which an unknown material was probed with primal energy in hopes of exposing its inner, high-energy core. The facility's location was chosen for its relatively high levels of ambient divine magic. The scientists working inside were killed during the [purge that ended Avsohm](/Lore/Historical_Events/Fall_of_Avsohm/), just before the machinery's final activation and the project's conclusion. |
-| Firteid |  | X: 3912, Y: 82, Z: 3482 | Firteid (also called the City of Tides) is the largest city, both in size and population, in the game. It is located by the western shore of the Black Jungle, with a small, isolated district on the Turquoise Isle outside of the Kiln of Virtuo. Its buildings are constructed of spruce and dark oak wood, with dark prismarine or carnelian wood roofs. The city is infamous for its history as the capital of the brutal Tidal Dynasty. Today, it is ruled by the Tidal Republic |
-| Kiln of Virtuo |  | X: 3260, Y: 85, Z: 3353 | The Kiln of Virtuo is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millenia. It contains statues of several members of Virtuo's Grand Parish, as well as a [devotion](/Story_and_Features/Devotion) altar. |
-| Ruins of Vulteid |  | X: 3772, Y: 86, Z: 3948 | Vulteid was a city in the west Black Jungle that was of religious importance to the local practicioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood. |
-| Ruins of Zovan |  | X: 3010, Y: 105, Z: 3931 | Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the [Gozaki](/Lore/Political_Entities/Gozaki_Union/) army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh opression and ultimately massacre. |
-| Sahdan Monastery |  | X: 4805, Y: 122, Z: 4567 | On an island off the region's south eastern coast is a monastery/library that was built by Sahdans in the mid Second Avihm. It holds two books containing information on Sahd's ancient history , as well as a compass pointing toward Sahd. |
-| [[Teiruun Monastery]] |  | X: 5595, Y: 178, Z: 3006 | Teiruun Monastery is a towering complex filled with hostile Virtuo-worshiping [[Drehmari]] priors and monks, located high in the Verdant Mountains to the northeast of the Black Jungle. The monastery's Parish secretly experimented with ways of potentially converting oneself into a [[Virmari]]. |
+### Black Ruins
+
+The mysterious ruins (still completely intact) of a large city comprised almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace with an elevated throne. The city's inhabitants worshiped Verrhys, evident due to a statue of them hidden in a large underground cavern, and they were the only people who are known to have done so. The residents died out for some unknown reason.
+
+**Coordinates:** (X: 4145, Y: 70, Z: 4136)
+
+### Divination Facility
+
+The Divination Facility was a small, one-room Avsohmic facility situated in a cave behind the Kiln of Virtuo. It was used for Project ArkAngel, in which an unknown material was probed with primal energy in hopes of exposing its inner, high-energy core. The facility's location was chosen for its relatively high levels of ambient divine magic. The scientists working inside were killed during the [[Fall of Avsohm|purge that ended Avsohm]], just before the machinery's final activation and the project's conclusion.
+
+**Coordinates:** (X: 3197, Y: 87, Z: 3249)
+
+### Firteid
+
+Firteid (also called the City of Tides) is the largest city, both in size and population, in the game. It is located by the western shore of the Black Jungle, with a small, isolated district on the Turquoise Isle outside of the Kiln of Virtuo. Its buildings are constructed of spruce and dark oak wood, with dark prismarine or carnelian wood roofs. The city is infamous for its history as the capital of the brutal Tidal Dynasty. Today, it is ruled by the Tidal Republic.
+
+**Coordinates:** (X: 3912, Y: 82, Z: 3482)
+
+### Kiln of Virtuo
+
+The Kiln of Virtuo is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millenia. Before she left, her followers could make pilgrimages to the Kiln to seek advice or healing from the Goddess herself. It contains statues of several members of Virtuo's Grand Parish, as well as a [[Devotion|devotion]] altar.
+
+**Coordinates:** (X: 3260, Y: 85, Z: 3353)
+
+### Ruins of Vulteid
+
+Vulteid was a city in the west Black Jungle that was of religious importance to the local practicioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood.
+
+**Coordinates:** (X: 3772, Y: 86, Z: 3948)
+
+### Ruins of Zovan
+
+Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the [[Gozaki Union|Gozaki]] army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh opression and ultimately massacre.
+
+**Coordinates:** (X: 3010, Y: 105, Z: 3931)
+
+## Sahdan Monastery
+
+On an island off the region's south eastern coast is a monastery/library that was built by Sahdans in the mid Second Avihm. It holds two books containing information on Sahd's ancient history, as well as a compass pointing toward Sahd.
+
+**Coordinates:** (X: 4805, Y: 122, Z: 4567)
+
+### [[Teiruun Monastery]]
+
+Teiruun Monastery is a towering complex filled with hostile Virtuo-worshiping [[Drehmari]] priors and monks, located high in the Verdant Mountains to the northeast of the Black Jungle. The monastery's Parish secretly experimented with ways of potentially converting oneself into a [[Virmari]].
+ 
+**Coordinates:** (X: 5595, Y: 178, Z: 300)

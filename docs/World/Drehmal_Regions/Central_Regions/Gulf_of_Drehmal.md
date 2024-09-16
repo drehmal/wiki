@@ -19,7 +19,7 @@ There are no sizable settlements in the Gulf of Drehmal. Most inhabitants of the
 
 In the early Second Avihm, the Gulf of Drehmal region was home to primitive Dreh'Nohan city states. Among these was Drahbes, which through unclear means, possibly by conquest, expanded into the [[Chosen Kingdom]].
 
-Eventually, under the leadership of [[Drehn Mal'Sohm]], the kingdom became the [[Empire of Avsohm]]. The coastal city of Fortahn flourished under the empire's rule, but was left in ruins after its [[Fall of Avsohm|collapse]].
+Eventually, under the leadership of [[Drehn Mal'Sohm]], the kingdom became the [[Avsohm|Empire of Avsohm]]. The coastal city of Fortahn flourished under the empire's rule, but was left in ruins after its [[Fall of Avsohm|collapse]].
 
 In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional political power. It was a member of the [[Order of Insohm]] until its collapse at the end of the Avihm. The union still exists today.
 

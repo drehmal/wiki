@@ -20,7 +20,7 @@ The North Heartwood is home to the [[Drehmal]]-worshiping town of [[Gozak]] in t
 
 ## History
 
-In the Second Avihm, several different kingdoms emerged in the Heartwood. One of these was the [[Gozaki Union]] (centered in Gozak), which was likely formed as a result of multiple states merging, as implied by its name. The Aspect [[Muhs]] also made his home in the North Heartwood. The [[Tidal Dynasty]] clashed with the Gozaki Union and seized some of its territory. Soon, the rest of the region came under [[Empire of Avsohm|Avsohmic]] rule.
+In the Second Avihm, several different kingdoms emerged in the Heartwood. One of these was the [[Gozaki Union]] (centered in Gozak), which was likely formed as a result of multiple states merging, as implied by its name. The Aspect [[Muhs]] also made his home in the North Heartwood. The [[Tidal Dynasty]] clashed with the Gozaki Union and seized some of its territory. Soon, the rest of the region came under [[Avsohm|Avsohmic]] rule.
 
 After the [[fall of Avsohm|Fall of Avsohm]], the Gozaki Union and other kingdoms were revived. Gozak joined the [[Order of Insohm]] in its early years, and fought with the loyalists in the [[Insohmic Civil War]]. It was during this war that they were invaded by the Tidal Dynasty again, who was defeated, and the separatists also ultimately surrendered. The North Heartwood served as an important region for the Order of Insohm's mining, research and military operations, until its collapse at the end of the Third Avihm. By the Fourth Avihm, Gozak was the only kingdom remaining in the North Heartwood.
 

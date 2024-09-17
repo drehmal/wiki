@@ -1,29 +1,55 @@
----
-tags:
-  - Locations
-  - Regions
-  - Eastern Regions
----
-
 # Veruhkt Plateau
 
-![[Veruhktplateau1.webp]]{ align=right width="300" }
+![[Veruhkt_Plateau.png]]{ align=right width="300" }
+
+Veruhkt Plateau is a small region in northeastern [[Overworld|Drehmal]], consisting of woods and elevated plains. As its name suggests, most of the region is encompassed by a large plateau. The name "Veruhkt" refers to the culture that was once present in the region, which drew heavy focus on the moon of [[Lo'Veruhkt]].
 
 ## Geography
 
-This region is sandwiched between mountains to the north and south. The central area is filled with trees, lakes and rivers flowing to a large waterfall. There are a handful of ruins and structures, but otherwise pretty sparse. Also the stone beneath the lakes is multicolored.
+Veruhkt Plateau is located between the Nahynaga Mountains to the south, separating the region from [[Grand Pike Canyon]], and another mountain range to the north, dividing it from [[Faehrcyle]]. The region also borders [[Akhlo'Rohma]] to the west and [[Highfall Tundra]] to the east.
 
-Regions the border the Veruhkt Plateau include:
+The region's west is covered in spruce woods with podzol ground, and it lays near sea level. The elevation climbs steeply eastward, forming one edge of a plateau. The highlands on the plateau are mostly flat, with grasslands and rocky plains. This area is also home to the Tinaxi Pools, which have vividly-colored red, orange, yellow, green and blue basins. They are also the source of the Resting River, which runs westward through western Veruhkt Plateau and Akhlo'Rohma. The plateau drops off suddenly at a steep cliff on the region's east side, forming the border with Highfall Tundra.
 
-- [[Akhlo'Rohma]]
-- [[Highfall Tundra]]
+**Environmental Sub-Regions:**
+- spruce woods with podzol floor in west and north
+- highland plains in east
 
-<figure markdown>
-  ![[Veruhktplateau2.webp]]{ width="500" }
-  <figcaption>The Veruhkt Plateaut tower sits on top of a hill</figcaption>
-</figure>
+There are no settlements in Veruhkt Plateau.
 
-## In the Lore
+## History
 
-Historically, the Veruhkt Plateau has been subject to the influence of their larger neighbors (namely [[Highfall]] and [[Dusps]]). Prior to the [[The Frostfang Catastrophe (book)|Frostfang Catastrophe]], this region was ruled by Highfall. However due to the economic devastation caused by the catastrophe, Highfall did not have enough resources to control the region. It remained a small independent nation until the Kingdom of Dusps invaded and captured it in Av3 200.
+In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. The Veruhktian people were likely ruled by a centralized political power, based in the capital city of Verukhaan. In an event known by the Verukhtians as the "Desecration", the region was conquered by [[Uffeihl Anyr|Emperor Anyr]] of [[Avsohm]], and its Tech-Priests were massacred, leaving only three alive and in hiding. Verukhaan was renamed to Sal'Veruhkt. 
 
+After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty for an indefinite but short amount of time. Eventually the region came under the rule of the [[Kingdom of Dusps]], who subjected the Veruhktians to harsh oppression and were responsible for the extinction of their culture and people. 
+
+## [[Terminus Network|Terminus]] Tower
+
+Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A winding set of wooden stairs and a ladder lead halfway up the tower. No hostile entities are present.
+
+**Coordinates:** (X: 3953, Y: 245, Z: -1885)
+
+## Points of Interest
+
+### [[Altar of Insight]]
+
+The Altar of Insight was an ancient, stone ziggurat that contained unique Veruhktian technology and served as an important religious site. The Lens of Insight, a device capable of seeing through Drehmal's ground, was held underneath the Altar, and it was used to locate and observe Lo'Veruhkt. The Altar was devastated and pillaged by Avsohm during the Desecration.
+
+**Coordinates:** (X: 4145, Y: 122, Z: -1546)
+
+### Battle Pizzazzle
+
+The Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a challenge for adventurers by a wealthy man named Vihktor Ohna. The tower has a multitude of stories, each with small hazards that must be surpassed in order to reach the stairs to the next level. A prize is kept at the top. The business idea was ultimately unsuccessful, as few to none showed up to compete.
+
+**Coordinates:** (X: 4106, Y: 185, Z: -2208)
+
+### Ruins of Sal'Veruhkt
+
+Sal'Veruhkt, formerly Verukhaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was posssibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
+
+**Coordinates:** (X: 3577, Y: 65, Z: -1362)
+
+### Solitary [[Runic Blacksmith]]
+
+Nearby the region's Terminus tower is a wood-and-stone cabin that houses a lone Runic Blacksmith, positioned at a small, outdoor workshop to the side of the house.
+
+**Coordinates:** (X: 4024, Y: 138, Z: -1864)

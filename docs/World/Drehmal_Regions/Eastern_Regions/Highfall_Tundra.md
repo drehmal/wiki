@@ -2,7 +2,7 @@
 
 ![[Highfall_Tundra.png]]{ align=right width="300" }
 
-Highfall Tundra is a cold region in northeastern [[Drehmal|Drehmal (Place)]]. Despite its name, it is only partially tundra, also having plains and sparse woods. It is named after the city [[Highfall]], the region's center of attention.
+Highfall Tundra is a cold region in northeastern [[Overworld|Drehmal]]. Despite its name, it is only partially tundra, also having plains and sparse woods. It is named after the city [[Highfall]], the region's center of attention.
 
 ## Geography
 

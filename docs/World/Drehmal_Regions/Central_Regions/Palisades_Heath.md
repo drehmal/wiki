@@ -1,14 +1,12 @@
 # Palisades Heath
 
-![[Palisades_Heath.webp]]{ align=right width="300" }
+![[Palisadesheath1.webp]]{ align=right width="300" }
 
 **Palisades Heath** is a region in central [[Overworld|Drehmal]]. The region is characterized by its deep fjords and rocky highlands. The region makes up most of the Mouth of Drehmal's west coast.
 
 ## Geography
 
 Palisades Heath lies between the Gulf of Drehmal to the east and the Burnt Mountains to the east (with [[South Tharxax]] on the other side). To the north is [[Capital Valley]] (specifically the city of [[Av'Sal]]) and to the south is the [[South Heartwood]].
-
-![[Palisadesheath1.webp]]
 
 Most of Palisades Heath is divided into three large plateaus by two rivers that run west-east, plus two more; one separating the region from Capital Valley in the north and one separating the southernmost plateau from the south lowlands. These plateau-shaped landforms have steep, white-and-gray striped cliffs that drop off into the surrounding rivers and sea. The same striped pattern is prevalent throughout many of the region's rocky surfaces. The two central rivers run off from glaciers flowing from the Burnt Mountains, out to the Mouth of Drehmal. The northernmost of these two is likely named the Erwu. The region's land is mostly plains, but there are some spruce and oak woods, mostly in the eastern half.
 

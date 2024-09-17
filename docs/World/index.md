@@ -1,8 +1,11 @@
 # World
 
-The map of Drehmal is full of diverse landscapes, structures and towns to explore. Many of these areas have their own history within the game's lore. Points of interest also often hide secrets to discover, such as [legendary[Legendary Items] or [mythical[Mythical Weapons]] items. The map also has several dimensions that the player must journey through during the storyline.
+The continent of Drehmal spans approximately 12,000 blocks in either direction, 
 
-## [Drehmal[Drehmal (Place)]
+## [[Overworld|Drehmal]]
+
+![[full_drehmal_map.png]]{ align=center width="800" }
+> The continent of Drehmal and outlying islands, as they appear in-game.
 
 Drehmal is the main and by far largest dimension in the game. This is the dimension that you spawn in and spend most of your time. According to the lore, Drehmal is a jagged cone-shaped object, and the land lived on by people is its flat face. Some other off-map locations are also in the Drehmal dimension.
 

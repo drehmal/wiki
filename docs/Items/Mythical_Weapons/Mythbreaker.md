@@ -2,6 +2,16 @@
 
 --8<-- "under_construction.md"
 
+--8<-- "spoiler.md"
+
+!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
+
+!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
+
+!!! danger "Additionally, this page in particular contains significant story spoilers, as the Mythbreaker is an important part of Drehmal's main story."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 ![[true_mb.png]]{ align=right width="300"}
 
 **The Mythbreaker** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.

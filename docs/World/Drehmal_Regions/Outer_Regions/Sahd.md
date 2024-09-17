@@ -5,7 +5,7 @@ tags:
   - Island Regions
 ---
 
-# Sahd (Island)
+# Sahd
 
 ![[Sahdisland1.webp]]{ align=right width="300" }
 

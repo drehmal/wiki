@@ -2,25 +2,31 @@
 
 --8<-- "under_construction.md"
 
-Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
+Mythical weapons are the strongest weapons in the game, obtained only in major dungeons, through unique questlines, or by progressing through the main story. 
+
+Mythical weapons have their own unique 3D models, descriptons, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic.
+
+Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
 
 ## List (Drehmal)
 
-There are 8 mythical weapons that can be found on [[Overworld|Drehmal]]. Here is a list of all of them:
+There are 7 mythical weapons that can be found on [[Overworld|Drehmal]].
 
-### Calamity
+### Calamity ![[Calamity.png]]{ width="36" }
+[[Calamity]] is the claw of a Skullbeast, wielded by an optional boss found in the [[South Heartwood]]. It grants the single largest speed boost of any item in Drehmal.
 
-| ![[Calamity.webp]]{ width="48" } | Calamity                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Stats**                        | Calamity deals 8 base damage, has 2.4 attack speed, gives the player 0.075 movement speed, takes 4 max hp (2 hearts), and is unbreakable.                                                                                                                                                                                            |
-| **Ability**                      | **True Catastrophe**: Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes. The player will slowly rise in the air before slamming down, bringing a flash of lightning with them. **Cooldown**: 60s         |
-| **Lore**                         | No mortal has ever come close to slaying a Skullbeast, meaning the one deployed in the Desolation has long since died of natural causes. Ossein happened upon its remains, and became fanatically obsessed. They carved numerous weapons of immense strength from the calamitous skeleton, with these claws being the most powerful. |
-| **Obtain**                       | Defeat [[Skull Disciple Ossein]] in the epicenter of [[South Heartwood|Mael's Desolation]]                                                                                                                                                                                                                                                              |
+??? warning "Calamity Details"
+    | ![[Calamity.png]]{ width="48" }  | Calamity               |
+    |:--------------------------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | **Stats**                        | -4 Max Health (-2 Hearts) <br> +0.07 Movement Speed <br> 24 Ability Damage <br> 9 Attack Damage <br> 2.2 Attack Speed        |
+    | **Ability**                      | **True Catastrophe**: *Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes.*  <br> The player will rise in the air before slamming down to the ground, striking nearby enemies with lightning. <br> **Cooldown**: 40s       |
+    | **Lore**                         | No mortal has ever come close to slaying a Skullbeast, yet so many throughout the years have developed a fascination with their power. Though Ossein carved numerous armaments from the bones of Skullbeasts, he carried a special affection for the claw of his beloved Femura. |
+    | **Obtain**                       | Defeat [[Ossein]] at the epicenter of Mael's Desolation in the [[South Heartwood]].  |
 
 ### Frenzy
 
 | ![[Frenzy.webp]]{ width="48" } | Frenzy                                                                                                                                                                                                                                                                                                  |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:------------------------------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stats**                      | Frenzy deals 11 base damage, has 2 attack speed, gives the player 0.03 movement speed, and takes 8 max hp (4 hearts)                                                                                                                                                                                    |
 | **Ability**                    | **Fatal Rampage**: Killing an enemy grants you a damage buff (3 damage per kill), stacking up to three times and lasting for ten seconds. **Cooldown**: 60s after the Rampage ends                                                                                                                      |
 | **Lore**                       | Many centuries ago, Sahd was a cruel, war-torn land where the grass was stained with blood. An incredibly powerful arcanist channeled all of Sahd's rage into a single catalyst; Frenzy. Fueled by the power of generations of bloodshed, this blade will rip and tear through everything in the realm. |

@@ -67,7 +67,7 @@ Stromnar was an Avsohmic-era city in the eastern South Heartwood with a "strong 
 
 **Coordinates:** (X: 498, Y: 64, Z: 4038)
 
-## Tahva
+### Tahva
 
 Tahva is a settlement of pirates located on the islands of the southwestern South Heartwood. It is formed by a cluster of niches in the steep, rocky slopes of the islands, with wooden (oak and spruce) supports and infrastructure. The Tahvan people often embark on voyages across the sea, and settle on whatever land they come across.
 

@@ -26,7 +26,7 @@ Very little is known about the history of the Frozen Bite. The [[Empire of Vir]]
 
 ## [[Terminus Network|Terminus]] Tower
 
-The Frozen Bite's Terminus tower in the region's east, inside of the large caldera. It stands in a large pit with a pool of lava at the bottom, and a parkour course made of floating chunks of ice leads from the edge of the pit to the tower's top. On the side of the pit's bottom is a small, abandoned cabin with a sign reading "Uhl Fahn Gonzo" next to its door. There are no hostile enemies present.
+The Frozen Bite's Terminus tower in the region's east, inside of a vast caldera. It stands in a large pit with a pool of lava at the bottom, and a parkour course made of floating chunks of ice leads from the edge of the pit to the tower's top. On the side of the pit's bottom is a small, abandoned cabin with a sign reading "Uhl Fahn Gonzo" next to its door. There are no hostile enemies present.
 
 **Coordinates:** (X: 5461, Y: 105, Z: -3027)
 
@@ -46,12 +46,12 @@ In the eastern Frozen Bite is a small settlement based around a large, red tent 
 
 ### Nihilist's Cabin
 
-Hidden between mountains on the Frozen Bite's east coast is an abandoned wooden cabin. It once belonged to a mysterious individual who investigated the forces that caused [Avsohm's demise](/Lore/Historical_Events/Fall_of_Avsohm/).
+Hidden between mountains on the Frozen Bite's east coast is an abandoned wooden cabin. It once belonged to a mysterious individual who investigated the forces that caused [[Fall of Avsohm|Avsohm's demise]].
 
 **Coordinates:** (X: 5824, Y: 63, Z: -2988)
 
 ### Shivering Pines Inn
 
-Shivering Pines Inn is a large lodge and brewery, founded and run by Ga'ran and Elmlhi. Despite its desolate location, it attracts attention for its specialty drink, Logger's Lager. A [[Runic Blacksmith]] is positioned by a tent outside its front door
+Shivering Pines Inn is a large lodge and brewery, founded and run by Ga'ran and Elmlhi. Despite its desolate location, it attracts attention for its specialty drink, Logger's Lager. A [[Runic Blacksmith]] is positioned by a tent outside its front door.
 
 **Coordinates:** (X: 4880, Y: 102, Z: -3359)

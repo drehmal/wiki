@@ -16,6 +16,11 @@
 
 Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Calamity is dropped by [[Ossein|Skull Disciple Ossein]] upon his defeat. 
 
+<br>
+<br>
+<br>
+<br>
+
 ## Gameplay
 
 | ![[Calamity.png]]{ width="48" }  | Calamity               |

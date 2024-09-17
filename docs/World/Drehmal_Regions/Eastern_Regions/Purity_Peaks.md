@@ -14,7 +14,7 @@ Purity Peaks is home to the [[Dahroehl]]-worshiping [[Tehrmari|Ro'Tehrmari]] tow
 
 ## History
 
-In the Second Avihm, Purity Peaks was known as "Tehrmia", due to the significant number of Tehrmari present in the region. It was mandatory for all La'Tehrmari to make a pilgrimage from their home on the moon [[LD|Lo'Dahr]] to Drehmal, and they would periodically descend from their monastery in the Nahynaga mountains to spend a year with the [[Drehmari]] in the region's many small villages. During this time, [[Wingmakers]] would seek Drehmari who were qualified for ascension to Tehrmari. Tehrmia was incorporated into the [[Empire of Avsohm]], who in their later years constructed the research complex [[Sal'Mevir]] in this region.
+In the Second Avihm, Purity Peaks was known as "Tehrmia", due to the significant number of Tehrmari present in the region. It was mandatory for all La'Tehrmari to make a pilgrimage from their home on the moon [[LD|Lo'Dahr]] to Drehmal, and they would periodically descend from their monastery in the Nahynaga mountains to spend a year with the [[Drehmari]] in the region's many small villages. During this time, [[Wingmakers]] would seek Drehmari who were qualified for ascension to Tehrmari. Tehrmia was incorporated into the [[Avsohm|Empire of Avsohm]], who in their later years constructed the research complex [[Sal'Mevir]] in this region.
 
 Many La'Tehrmari did not enjoy staying on Drehmal, and the [[Scalebound]] eventually made the journey optional. Visits by La'Tehrmari mostly ceased, although the monastery in the mountains continues to be inhabited by priests and a Ro'Tehrmari population still thrives in the region today.
 

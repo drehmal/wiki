@@ -2,7 +2,7 @@
 
 ![[Verdant_Labyrinth.png]{ align=right width="300" }
 
-The Verdant Labyrinth is a semi-region in southeastern [[Drehmal (Place)|Drehmal]] that serves as an obstacle when crossing between the [[North Heartwood]], the [[Black Jungle]] and [[Spearhead Forest]]. Although the Verdant Labyrinth lacks a Terminus tower and is technically part of the Verdant Mountaian range, it has its own distinct environment and can be considered separately.
+The Verdant Labyrinth is a semi-region in southeastern [[Overworld|Drehmal]] that serves as an obstacle when crossing between the [[North Heartwood]], the [[Black Jungle]] and [[Spearhead Forest]]. Although the Verdant Labyrinth lacks a Terminus tower and is technically part of the Verdant Mountaian range, it has its own distinct environment and can be considered separately.
 
 ## Geography
 
@@ -12,7 +12,7 @@ There are no major settlements in the Verdant Labyrinth, however there is a sign
 
 ## History
 
-Some time in the Third Avihm, the hero Deigh the Dawnstrider united his fellow, oppressed Mihkmari and led them to the Verdant Labyrinth to gain security from [[Maelihs|Maelihs's]] armies. It was here that they established a large clan, which continues to occupy the land until the present day.
+Some time in the Third Avihm, the hero Deigh the Dawnstrider united many of his fellow, oppressed Mihkmari and led them to the Verdant Labyrinth to gain security from [[Maelihs|Maelihs's]] armies. This clan continues to occupy the land until the present day.
 
 ## Points of Interest
 

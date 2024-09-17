@@ -101,6 +101,6 @@ A large, lakeside house was home to a Skeveraan who was responsible for abductin
 
 ### Timberhearth Observatory & Museum
 
-Timberhearth Observatory & Museum is a building positioned on a bluff in the region's northeastern grasslands. A multitude of artifacts are set on display inside; a gravity-defying pillar from Avsohmic ruins, a set of alchemical supplies, a rehnite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
+Timberhearth Observatory & Museum is a building positioned on a bluff in the region's northeastern grasslands. A multitude of artifacts are set on display inside; a gravity-defying pillar from [[Avsohm|Avsohmic]] ruins, a set of alchemical supplies, a rehnite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
 
 **Coordinates:** (X: 4138, Y: 127, Z: 288)

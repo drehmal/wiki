@@ -20,7 +20,7 @@ Little is known about the region's history in the Third Avihm, but its reputatio
 
 Today, the only remaining settlement of notable size is Drehua Temple, still populated by devotees of the serpent. [[Drehmal]] is worshipped by the region's people.
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus Tower]]
 
 ![[Palisadesheath2.webp]]
 

@@ -2,7 +2,7 @@
 
 ![[Faehrcyle.png]]{ align=right width="300" }
 
-Faehrcyle is a relatively large region in the far north of [[Overworld|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
+**Faehrcyle** (pronounced Fair-sigh-ull) is a relatively large region in the far north of [[Overworld|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
 
 ## Geography
 
@@ -10,13 +10,13 @@ Faehrcyle is the northernmost region in Drehmal, containing a significant portio
 
 Faehrcyle's terrain is mostly flat, and the vast majority of its land area is covered in a thick sheet of snow, devoid of any plant life. The region is also home to many frozen lakes and rivers, and some of the stone cliffs are also encased in ice. Along the central portion of the northern coast, there is a very distinct strip of gray and black land with scattered volcanoes and large lava pools, known as the Totoron Lakes. The heat here leaves very little snow on the ground.
 
-**Environmental Sub-Regions:**
-- Living spruce forest on western coast
-- Area with frozen rivers and lakes and massive, slanted ice spikes in east
-- Totoron Lakes - black and gray volcanic zone with abundant lava, along the northern coast
+**Environmental Sub-Regions:** <br>
+- Living spruce forest on western coast <br>
+- Area with frozen rivers and lakes and massive, slanted ice spikes in east <br>
+- Totoron Lakes - black and gray volcanic zone with abundant lava, along the northern coast <br>
 - Ice floes in northeast
 
-The small village of [[Schlonko]] sits on Faehrcyle's west coast, amidst the region's only living forest. Its inhabitants worship the [Aspect](/Lore/Higher_Beings/Aspects/) [[Loe]].
+The small village of [[Schlonko]] sits on Faehrcyle's west coast, in the region's only living forest. Its inhabitants worship the [Aspect](/Lore/Higher_Beings/Aspects/) [[Loe]].
 
 ## History
 
@@ -28,7 +28,7 @@ In the Third Avihm, several kingdoms arose in Avsohm's wake and united under the
 
 Today, the only known political state in Faehrcyle is the Duchy of Hishrin in the forested area on the region's west coast. It is ruled by the egotistical Archduke Hishrin Elsahr Ombahr Drehn-Anyr Hovadchear Vahidson I.
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus Tower]] 
 
 ![[Faehrcyle2.webp]]
 

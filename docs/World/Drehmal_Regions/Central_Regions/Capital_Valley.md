@@ -31,7 +31,7 @@ Worship of [[Drehmal]] is the dominant religion in the region, as it is througho
 
 ![[map_104.png]]{ width="256" }
 
-## [[Terminus Network|Terminus]] Towers
+## [[Terminus Network|Terminus Towers]]
 
 ![[Capitalvalley2.webp]]
 > The Capital Valley tower.

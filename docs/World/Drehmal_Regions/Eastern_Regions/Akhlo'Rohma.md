@@ -2,7 +2,7 @@
 
 ![[Akhlorohma1.webp]]{ align=right width="300" }
 
-**Akhlo'Rohma** (AWK-low-ro-ma) is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
+**Akhlo'Rohma** (pronounced AWK-low-row-ma) is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
 
 ## Geography
 
@@ -35,7 +35,7 @@ Today, Akhlo'Rohma is among the most populated regions in Drehmal. [[Virtuo]] is
 
 ![[map_112.png]]{ width="256" }
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus Tower]]
 
 ![[Akhlorohma2.webp]]
 

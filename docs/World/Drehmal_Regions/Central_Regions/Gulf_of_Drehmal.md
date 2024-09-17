@@ -23,7 +23,7 @@ Eventually, under the leadership of [[Drehn|Drehn Mal'Sohm]], the kingdom became
 
 In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional political power. It was a member of the [[Insohm|Order of Insohm]] until the latter's collapse at the end of the Avihm. The union still exists today.
 
-## [[Terminus Network|Terminus]] Tower
+## [[Terminus Network|Terminus Tower]]
 
 ![[Gulfofdrehmal2.webp]]
 

@@ -14,7 +14,7 @@ There are no settlements in Grand Pike Canyon.
 
 ## History
 
-The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the town of [[Wokonori]], maybe dating to the early Second Avihm. Its occupants were skillful in manipulating stone, and they were faithful to the earth-related [Aspects](/Lore/Higher_Beings/Aspects/) [[Taihgel]], [[Nahyn]] and [[Koh]]. They concerned themselves with mining the sacred stone taihryte deep in the ground.
+The history of Grand Pike Canyon is for the most part unclear. The earliest known civilization in the region was most likely the town of [[Wokonori]], dating to the early Second Avihm. Its occupants were skillful in manipulating stone, and they were faithful to the earth-related [Aspects](/Lore/Higher_Beings/Aspects/) [[Taihgel]], [[Nahyn]] and [[Koh]]. They concerned themselves with mining the sacred stone taihryte deep in the ground.
 
 In the early and mid Second Avihm, the region was likely ruled by the powerful and authoritative [[Empire of Vir]]. 
 
@@ -28,8 +28,20 @@ Grand Pike's Terminus tower is located in the region's north. The majority of th
 
 ## Points of Interest
 
-| POI | Image | Coordinates | Description |
-|-|-|-|-|
-| Frontier's Edge Gift Shop |  | X: 4133, Y: 43, Z: -531 | Frontier's Edge Gift Shop is a store in central Grand Pike Canyon with several archaeological relics on display. The shopkeeper, Sera Mahri, sells two artisan weapons. The building has three stories; the shop, the living quarters and the storage. |
-| Shatterhorn Gulch |  | X: 4652, Y: 77, Z: -753 | Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their criminals and prisoners of war.
-| Wokonori |  | X: , Y: , Z:  | Wokonori was an ancient settlement in northern Grand Pike Canyon. The town's dwellings appear to be carved into a the stone of a cliffside, and they still remain largely undamaged. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and Taihgel, the latter having a [devotion](/Story_and_Features/Devotion/) altar in an underground shrine. |
+### Frontier's Edge Gift Shop
+
+Frontier's Edge Gift Shop is a store in central Grand Pike Canyon with several archaeological relics on display. The shopkeeper, Sera Mahri, sells two artisan weapons. The building has three stories; the shop, the living quarters and the storage.
+
+**Coordinates:** (X: 4133, Y: 43, Z: -531)
+
+### Shatterhorn Gulch
+
+Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their criminals and prisoners of war.
+
+**Coordinates:** (X: 4652, Y: 77, Z: -753)
+
+### [[Wokonori]]
+
+Wokonori was an ancient settlement in northern Grand Pike Canyon. The town's dwellings appear to be carved into a the stone of a cliffside, and they still remain largely undamaged. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and Taihgel, the latter having a [[Devotion|devotion]] altar in an underground shrine.
+
+**Coordinates:** (X: 4305, Y: 47, Z: -926)

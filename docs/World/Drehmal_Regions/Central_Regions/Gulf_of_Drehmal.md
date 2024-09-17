@@ -25,6 +25,8 @@ In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional 
 
 ## [[Terminus Network|Terminus]] Tower
 
+![[Gulfofdrehmal2.webp]]
+
 The Gulf of Drehmal's Terminus tower sits half-submerged in the middle of the coast's central inlet. A sinking boat full of [[Mihkmari]] that had crashed into the tower floats adjacent to it.
 
 **Coordinates:** (X: 460, Y: 97, Z: -393)

@@ -33,6 +33,9 @@ Worship of [[Drehmal]] is the dominant religion in the region, as it is througho
 
 ## [[Terminus Network|Terminus]] Towers
 
+![[Capitalvalley2.webp]]
+> The Capital Valley tower.
+
 Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the tower.
 
 **Coordinates:** (X: 557, Y: 129, Z: 1176)

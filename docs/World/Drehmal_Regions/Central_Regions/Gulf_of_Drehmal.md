@@ -2,7 +2,7 @@
 
 ![[Gulf_of_Drehmal.webp]]{ align=right width="300" }
 
-The Gulf of Drehmal is a region in central [[Overworld|Drehmal]] forming the northern section of the Central Plains (Dreh'Noha). The landscape is similar to that of [[Capital Valley]] to the south, being mostly temperate plains and woods. It is named after the Gulf of Drehmal, a large body of water to the north that forms a coastline with the region.
+The **Gulf of Drehmal** is a region in central [[Overworld|Drehmal]] forming the northern section of the Central Plains (Dreh'Noha). The landscape is similar to that of [[Capital Valley]] to the south, being mostly temperate plains and woods. It is named after the Gulf of Drehmal, a large body of water to the north that forms a coastline with the region.
 
 ## Geography
 

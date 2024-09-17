@@ -2,7 +2,7 @@
 
 ![[Faehrcyle.png]]{ align=right width="300" }
 
-Faehrcyle is a relatively large region in the far north of [[Drehmal (Place)|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
+Faehrcyle is a relatively large region in the far north of [[Overworld|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
 
 ## Geography
 

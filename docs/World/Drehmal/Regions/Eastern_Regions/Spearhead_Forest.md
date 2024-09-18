@@ -34,7 +34,7 @@ After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third
 
 **Map of Spearhead Forest (sold by [[Adventuring Merchant]] in New Mossfield):**
 
-![[map_1005.png]]
+![[map_1005.png]]{ width="256" }
 
 ## [[Terminus Network|Terminus Tower]]
 
@@ -65,9 +65,9 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
 
-### [[Insohmic Library Tower]]
+### Insohmic Library Tower
 
-The Insohmic Library Tower is a small, stone tower that stands on an island to the east of the ruins of Mossfield, connected by a bridge to the mainland peninsula. It was used as the headquarters of the Order of Insohm after the disappearance of Castle Hovadchear, and the old Insohmic Council members continue to reside here. The [[Peace Treaty]] legendary weapon is found here.
+The [[Insohmic Library]] Tower is a small, stone tower that stands on an island to the east of the ruins of Mossfield, connected by a bridge to the mainland peninsula. It was used as the headquarters of the Order of Insohm after the disappearance of Castle Hovadchear, and the old Insohmic Council members continue to reside here. The [[Peace Treaty]] legendary weapon is found here.
 
 **Coordinates:** (X: 4547, Y: 98, Z: 1587)
 

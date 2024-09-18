@@ -26,7 +26,7 @@ Scattered throughout the map of Drehmal are many different settlements. These se
 | [[Gozak]]           | [[North Heartwood]]  | 28                                              | Yes      |
 | [[Helmshire]]       | [[Spearhead Forest]] | 11 | No |
 | [[Marahza]]         | Akhlo'Rohma          | 6                                               | No       |
-| [[Firteid]]         | [[Black Jungle]]     | 516 (including [Kiln[Kiln of Virtuo]] district) | Yes      |
+| [[Firteid]]         | [[Black Jungle]]     | 516 (including [[Kiln of Virtuo|Kiln]] district) | Yes      |
 | [[New Mossfield]]   | Spearhead Forest     | 40                                              | Yes      |
 | [[Morah]]           | [[Sahd]]             | 11                                              | No       |
 | [[New Sahd]]        | Sahd                 | 53                                              | Yes      |

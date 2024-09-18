@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Lo'Dahr Points of Interest
 
 --8<-- "spoiler.md"

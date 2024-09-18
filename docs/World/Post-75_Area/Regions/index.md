@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Aspect Domains
 
 --8<-- "spoiler.md"

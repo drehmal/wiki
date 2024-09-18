@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Lo'Dahr Settlements
 
 --8<-- "spoiler.md"

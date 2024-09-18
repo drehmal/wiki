@@ -12,17 +12,17 @@ Relics are offhand stat-modifying items that are obtained via [devotion[Devotion
 
 ## [[Artifacts]]
 
-Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptiond, which ususally detail an item's lore.
+Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptions, which ususally detail an item's lore.
 
-## [Artisan[Artisan Items]]
+## [[Artisan Items]]
 
-Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths]] or one of its variants.
+Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmiths]] or one of its variants.
 
-## [Legendary[Legendary Items]]
+## [Legendary Items](/Items/Legendary_Items/)
 
 Legendary items are rare and exceptionally powerful items that are found at important points of interest, usually being hidden or guarded. They have stat modifiers and descriptions, but also unique abilities and their own sprites.
 
-## [Mythical[Mythical Weapons]]
+## [Mythical Weapons](/Items/Mythical_Weapons/)
 
 There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
 
@@ -228,7 +228,7 @@ Besides the items belonging to the groups listed above, there are some other uni
 ## [[Fervor Stones]](75% SPOILERS, α, β, Δ)
 A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the bottom of [[Drehmal]]'s tower in [[Ytaj]], with each of the items applying a different stat boost.
 
-## [Trinket[Trinkets]] (END-GAME SPOILERS)
+## [[Trinkets]] (END-GAME SPOILERS)
 
 Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They may have their own sprite.
 

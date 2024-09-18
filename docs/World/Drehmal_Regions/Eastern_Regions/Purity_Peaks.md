@@ -22,7 +22,7 @@ Many La'Tehrmari did not enjoy staying on Drehmal, and the [[Scalebound]] eventu
 
 ![[Puritypeaks2.webp]]
 
-Purity Peak's Terminus tower is located in a small swampy patch in the region's center. Its lower half is ringed by a quartz structure and must be climbed by jumping across the beams of the structure, culminating in a pressure plate that gives the player levitation 5 for 7 seconds, allowing for an easy ascent to the top. There are no hostile entities present.
+The Purity Peaks Terminus tower is located in a small swampy patch in the region's center. Its lower half is ringed by a quartz structure and must be climbed by jumping across the beams of the structure, culminating in a pressure plate that gives the player levitation 5 for 7 seconds, allowing for an easy ascent to the top. There are no hostile entities present.
 
 **Coordinates:** (X: 2040, Y: 116, Z: 606)
 

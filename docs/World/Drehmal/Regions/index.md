@@ -21,7 +21,7 @@ In the Terminus, regions are categorized into four groups, each having a corresp
 
  ![[DrehmalRegionsLabeled.webp]]{ align=right width="400" }
 
-## Western Regions
+## Western Regions (Under Construction)
 
  - [[Anyr'Nogur]]
  - [[The Carmine]]
@@ -53,7 +53,7 @@ In the Terminus, regions are categorized into four groups, each having a corresp
  - [[Veruhkt Plateau]]
 
 
-## Outer Regions
+## Outer Regions (Under Construction)
 
  - [[Island of Dawn]]
  - [[Island of Dusk]]

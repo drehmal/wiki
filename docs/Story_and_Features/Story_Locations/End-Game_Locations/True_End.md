@@ -26,7 +26,7 @@ search:
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
-The **True End** is the name for the final location in the main story of Drehmal: Apotheosis. It is accessed directly after the [[Maddened Path]].
+The **True End**, or the **Final Grave**, is the name for the final location in the main story of Drehmal: Apotheosis. It is accessed directly after the [[Maddened Path]].
 
 ## Story
 ![[true_end_realmbinder.png]]

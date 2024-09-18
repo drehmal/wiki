@@ -1,23 +1,40 @@
 # World
 
-The map of Drehmal is full of diverse landscapes, structures and towns to explore. Many of these areas have their own history within the game's lore. Points of interest also often hide secrets to discover, such as [legendary[Legendary Items] or [mythical[Mythical Weapons]] items. The map also has several dimensions that the player must journey through during the storyline.
+!!! warning "The World section is currently under construction, and is one of our highest priorities. Many pages are unfinished or contain information written for Drehmal v2.1, and need to be updated or overhauled. Stay tuned for updates!"
 
-## [Drehmal[Drehmal (Place)]
+The sprawling, vibrant, and hand-designed realm of Drehmal is one of its largest strengths and player draws. This section of the wiki contains helpful information regarding exploration of Drehmal, from overviews of the realm's diverse regions to articles dedicated to the most intriguing points of interest scattered throughout the map.
 
-Drehmal is the main and by far largest dimension in the game. This is the dimension that you spawn in and spend most of your time. According to the lore, Drehmal is a jagged cone-shaped object, and the land lived on by people is its flat face. Some other off-map locations are also in the Drehmal dimension.
+## Wiki Organization
+The main explorable area of Drehmal: Apotheosis is Drehmal, the main 12,000 by 12,000 block continent where the player finds themselves at the beginning of the story and spends the vast majority of their time. In the [Drehmal](/World/Drehmal/) section, you can find a page dedicated to [[Overworld|the location of Drehmal itself]], as well as three folders: Regions, Points of Interest, and Settlements.
 
-## [[Lo'Dahr]]
+### Regions (Partially Under Construction)
+[Regions](/World/Drehmal/Regions/) is where you should start if you're just looking for some help in thoroughly exploring Drehmal's vast open world. There are 31 distinct regions in Drehmal, each with their own distinct terrain features and several unique points of interest. 
 
-Lo'Dahr is the second most important dimension, similar to Drehmal but smaller and more alien-like, but still housing many points of interest and settlements. The player must visit Lo'Dahr to progress in the later story. Lore-wise, Lo'Dahr is one of Drehmal's five natural satellites, and it was colonized by the Aspects.
+Divided into Central, Western, Eastern, and Outer groups, the region pages each contain a description of that region's terrain, what we know about its history within the broader scope of Drehmal, a description of its [[Terminus Network#Towers|Terminus tower]], if applicable, and a full list of major POIs in that region, with coordinates for all locations given. 
 
-## Space ([The Aphelion[Aphelion]])
+### Settlements (Under Construction)
+The [Settlements](/World/Drehmal/Settlements/) tab is where you'll find articles on the many towns, cities, and villages of Drehmal. From trades available at these locations to the unique facets of each location, these articles are your go-to for navigating Drehmal's centers of population.
 
-The space dimension is home to the Aphelion, a large spacecraft that serves as the location for a story event. In the lore, the [Terminus[Terminus Network]] is also in orbit with the Aphelion, but in-game it is in the Drehmal dimension (except for its docking bay).
+### Points of Interest (Under Construction)
+Finally, in the [Points of Interest](/World/Drehmal/Points_of_Interest/) folder, you'll find pages on the many notable POIs scattered throughout Drehmal—important, interesting locations that deserve a page of their own, but aren't a major settlement.
 
-## The Nothing
+## Other Dimensions
+In true Minecraft fashion, Drehmal is not the only dimension included in the map, but it does function as the overworld, being where almost everything you need is found. The Nether does not exist in Drehmal, but all Nether materials can be found somewhere in the world.
 
-In the lore, the Nothing is a vast void that exists between all realms in the universe, and is full of primal energy. In the game, the player must visit a floating rock within the Nothing for a story event.
+Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. There is one notable exception to this, however, which comes after the 75% milestone.
 
-## Future Drehmal
+--8<-- "spoiler.md"
 
-The Future Drehmal dimension is a replica of small parts of Drehmal, but void of all life and covered in sand. The player must visit this dimension twice during the story.
+!!! danger "SPOILER WARNING!"
+
+!!! danger "This section may contain significant spoilers for the 75% completion event and its associated late-game areas."
+
+!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+An additional dimension with an explorable open world similar to Drehmal, although smaller and vastly different, is unlocked at the end of the 75% completion event. As the very existence of this dimension, and particularly its identity within the universe, are considered massive story spoilers, this dimension is not mentioned by name on this wiki except for inside of the files directly pertaining to it.
+
+The World section also contains articles, structured in the exact same manner as the Drehmal folder, for this late-game area, with a Regions, Settlements, and POI folder dedicated specifically to this dimension.
+
+Other dimensions visited in the story are not openly explorable, and as such, can be found in the [Story Locations](/Story_and_Features/Story_Locations/) section instead of the World tab.

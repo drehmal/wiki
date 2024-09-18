@@ -2,7 +2,7 @@
 
 ![[Grandpikecanyon1.png]]{ align=right width="300" }
 
-Grand Pike Canyon is a small region in eastern [[Overworld|Drehmal]]. As its name suggests, the region is home to a network of canyons and valleys with forests, lakes and streams.
+**Grand Pike Canyon** is a small region in eastern [[Overworld|Drehmal]]. As its name suggests, the region is home to a network of canyons and valleys with forests, lakes and streams.
 
 ## Geography
 

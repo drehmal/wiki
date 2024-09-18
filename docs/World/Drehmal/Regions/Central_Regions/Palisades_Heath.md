@@ -1,6 +1,6 @@
 # Palisades Heath
 
-![[Palisadesheath1.webp]]{ align=right width="300" }
+![[PH_landscape.png]]{ align=right width="300" }
 
 **Palisades Heath** is a region in central [[Overworld|Drehmal]]. The region is characterized by its deep fjords and rocky highlands. The region makes up most of the Mouth of Drehmal's west coast.
 
@@ -22,7 +22,8 @@ Today, the only remaining settlement of notable size is Drehua Temple, still pop
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Palisadesheath2.webp]]
+![[PH_tower.png]]
+> The Palisades Heath tower.
 
 The Paliasades Heath Terminus tower is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
 

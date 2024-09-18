@@ -1,6 +1,6 @@
 # Frozen Bite
 
-![[Frozen_Bite.png]]{ align=right width="300" }
+![[FB_landscape.png]]{ align=right width="300" }
 
 The **Frozen Bite** is a region in northeastern [[Overworld|Drehmal]]. The region consists of a range of tundras, woods, mountains and islands. The name "Frozen Bite" may refer to its vaguely mouth-shaped northeastern coast.
 
@@ -25,6 +25,9 @@ There are no major settlements in the Frozen Bite.
 Very little is known about the history of the Frozen Bite. The [[Empire of Vir]] may have expanded into the region in the early/mid Second Avihm, however there isn't enough evidence to confirm. The region has largely consisted of wilderness that has seldom been explored by outsiders, being loosely populated by "barbarians" that the [[Kingdom of Highfall]] wished to keep out of their territory. The environment was likely warmer and more hospitable to flora and fauna before the [[Frostfang Catastrophe]], although its impact on the region was mitigated by the mountains between the Frozen Bite and Faehrcyle.
 
 ## [[Terminus Network|Terminus Tower]]
+
+![[FB_tower.png]]
+> The Frozen Bite tower.
 
 The Frozen Bite's Terminus tower sits in the region's east, inside of a vast caldera. It stands in a large pit with a pool of lava at the bottom, and a parkour course made of floating chunks of ice spirals upwards from the edge of the pit to the top of the tower. Along the bottom edge is a small, abandoned cabin with a sign reading "Uhl Fahn Gonzo" next to its door. There are no hostile enemies present.
 

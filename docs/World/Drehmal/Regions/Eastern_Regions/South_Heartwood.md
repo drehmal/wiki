@@ -1,6 +1,6 @@
 # South Heartwood
 
-![[South_Heartwood.png]]{ align=right width="300" }
+![[SH_landscape.png]]{ align=right width="300" }
 
 The **South Heartwood**, also known as **[[Maelihs|Mael's]] Desolation**, is a region in south [[Overworld|Drehmal]], and the southern part of the greater Heartwood region. It has a dry, barren landscape, with deformed terrain and almost no living plant life.
 
@@ -30,6 +30,9 @@ After [[Fall of Avsohm|Avsohm's fall]] at the end of the Second Avihm, the Kingd
 The South Heartwood was resettled by a few groups of people after this calamity, especially pirate communities on the southern coast who took advantage of the region's isolation and lawlessness.
 
 ## [[Terminus Network|Terminus Tower]]
+
+![[SH_tower.png]]
+> The South Heartwood tower.
 
 The South Heartwood's Terminus tower is located in the desert in the region's east. A small slope of sand leans against its base, allowing access to the first of the protruding beams of red sandstone that are scattered across the tower's eastern side. These beams collectively form a parkour course that can be climbed to the top of the tower. There are no hostile entities present.
 

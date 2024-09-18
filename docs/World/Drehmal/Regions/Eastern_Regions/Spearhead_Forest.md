@@ -1,6 +1,6 @@
 # Spearhead Forest
 
-![[Spearhead_Forest.png]]{ align=right width="300" }
+![[SF_landscape.png]]{ align=right width="300" }
 
 **Spearhead Forest** is a large region in eastern [[Overworld|Drehmal]]. The region's landscape is composed of spruce forest and grassland. Its name references the pointed, coniferous trees that heavily populate the area.
 
@@ -37,6 +37,9 @@ After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third
 ![[map_1005.png]]
 
 ## [[Terminus Network|Terminus Tower]]
+
+![[SF_tower.png]]
+> The Spearhead Forest tower.
 
 Spearhead Forest's Terminus tower is located on the region's eastern coast, just north and across the water from New Mossfield. Its bottom half is enveloped by the hollow base of a tree trunk. There are no hostile entities present.
 

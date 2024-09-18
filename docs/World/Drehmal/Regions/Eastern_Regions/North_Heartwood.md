@@ -1,6 +1,6 @@
 # North Heartwood
 
-![[Heartwood1.webp]]{ align=right width="300" }
+![[NH_landscape.png]]{ align=right width="300" }
 
 The **North Heartwood** is a region in central-eastern [[Overworld|Drehmal]], and the northern part of the greater Heartwood region. As its name suggests, its landscape is densely forested, to the point where the shade allows mobs to spawn at all times in most places.
 
@@ -32,7 +32,8 @@ After the [[Fall of Avsohm|fall of Avsohm]], the Gozaki Union and other kingdoms
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Heartwood2.webp]]
+![[NH_tower.png]]
+> The North Heartwood tower.
 
 The North Heartwood's Terminus tower is situated on a bluff in the region's center, protruding from the canopy below with giant vines wrapping around it. There are no hostile entities present.
 

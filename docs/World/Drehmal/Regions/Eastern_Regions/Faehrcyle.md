@@ -1,6 +1,6 @@
 # Faehrcyle
 
-![[Faehrcyle.png]]{ align=right width="300" }
+![[FC_landscape.png]]{ align=right width="300" }
 
 **Faehrcyle** (pronounced Fair-sigh-ull) is a relatively large region in the far north of [[Overworld|Drehmal]]. The region has a very harsh, icy environment, and most of its land is coated in a thick layer of snow.
 
@@ -30,7 +30,8 @@ Today, the only known political state in Faehrcyle is the Duchy of Hishrin in th
 
 ## [[Terminus Network|Terminus Tower]] 
 
-![[Faehrcyle2.webp]]
+![[FC_tower.png]]
+> The Faehrcyle tower.
 
 Faehrcyle's Terminus tower is located in the region's center, and most of it is buried in snow and underground. There are no hostile entities present.
 

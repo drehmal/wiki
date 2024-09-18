@@ -1,6 +1,6 @@
 # Highfall Tundra
 
-![[Highfalltundra1.webp]]{ align=right width="300" }
+![[HF_landscape.png]]{ align=right width="300" }
 
 Highfall Tundra is a cold region in northeastern [[Overworld|Drehmal]]. Despite its name, it is only partially tundra, also having plains and sparse woods. It is named after the city of [[Highfall]], the region's main point of interest.
 
@@ -33,7 +33,8 @@ Worship of [[Virtuo]] is the most common local religion.
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Highfalltundra2.webp]]
+![[HF_tower.png]]
+> The Highfall Tundra tower.
 
 Highfall Tundra's Terminus tower is located in the region's center, near the main road. Four stone towers with tops shaped like bird heads surround it on each side. The southern one, the shortest, has a spiral staircase on its interior leading to its top. A bridge connects the top of this tower to the eastern tower, which is taller. A stairwell inside this tower climbs from the point where the bridge intersects with it, up to its top, where another bridge connects to the taller northern tower. This pattern repeats up until the roof of the western and tallest stone tower, which provides direct access to the top of the Terminus tower. This complex is guarded by hostile strays named "Tower Defenders".
 

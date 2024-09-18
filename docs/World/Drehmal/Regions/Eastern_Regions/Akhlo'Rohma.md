@@ -1,6 +1,6 @@
 # Akhlo'Rohma
 
-![[Akhlorohma1.webp]]{ align=right width="300" }
+![[AK_landscape.png]]{ align=right width="300" }
 
 **Akhlo'Rohma** (pronounced AWK-low-row-ma) is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
 
@@ -37,7 +37,8 @@ Today, Akhlo'Rohma is among the most populated regions in Drehmal. [[Virtuo]] is
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Akhlorohma2.webp]]
+![[AK_tower.png]]
+> The Akhlo'Rohma tower.
 
 Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. The sides of the tower and surrounding areas are guarded by hostile "[[Lahrs]] Adherents".
 

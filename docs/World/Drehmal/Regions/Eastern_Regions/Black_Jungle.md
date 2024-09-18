@@ -1,6 +1,6 @@
 # Black Jungle
 
-![[Blackjungle1.webp]]{ align=right width="300" }
+![[BJ_landscape.png]]{ align=right width="300" }
 
 The **Black Jungle** is a relatively large region in southeast [[Overworld|Drehmal]], mostly covered in dense jungle. The region is also very volcanically active, meaning pits of lava are widely present throughout the terrain. The name "Black Jungle" is most likely derived from the black volcanic sand that exists in some areas, especially the coasts.
 
@@ -39,7 +39,8 @@ Worship of [[Virtuo]] is still the primary religious faith in the Black Jungle.
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Blackjungle3.webp]]
+![[BJ_tower.png]]
+> The Black Jungle tower.
 
 The Black Jungle's Terminus tower is located in the region's center, atop a miniature volcano with steps near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
 

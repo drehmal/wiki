@@ -1,6 +1,6 @@
 # Purity Peaks
 
-![[Puritypeaks1.webp]]{ align=right width="300" }
+![[PP_landscape.png]]{ align=right width="300" }
 
 **Purity Peaks** (formerly known as **Tehrmia**) is a grassy, lightly-wooded, and mountainous region in central-east [[Overworld|Drehmal]]. The region is littered with pointed white peaks from which it takes its name.
 
@@ -20,7 +20,8 @@ Many La'Tehrmari did not enjoy staying on Drehmal, and the [[Scalebound]] eventu
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Puritypeaks2.webp]]
+![[PP_tower.png]]
+> The Purity Peaks tower.
 
 The Purity Peaks Terminus tower is located in a small swampy patch in the region's center. Its lower half is ringed by a quartz structure and must be climbed by jumping across the beams of the structure, culminating in a pressure plate that gives the player levitation 5 for 7 seconds, allowing for an easy ascent to the top. There are no hostile entities present.
 

@@ -1,6 +1,6 @@
 # Grand Pike Canyon
 
-![[Grandpikecanyon1.png]]{ align=right width="300" }
+![[GPC_landscape.png]]{ align=right width="300" }
 
 **Grand Pike Canyon** is a small region in eastern [[Overworld|Drehmal]]. As its name suggests, the region is home to a network of canyons and valleys with forests, lakes and streams.
 
@@ -21,6 +21,9 @@ In the early and mid Second Avihm, the region was likely ruled by the powerful a
 Grand Pike Canyon was also likely incorporated into the Provinces of Vir in the Third Avihm, which became an early member state of the [[Insohm|Order of Insohm]] and fought with the loyalists in the [[Insohmic Civil War]]. The large, formidable prison [[Shatterhorn Gulch]] was probably established during this time, in order to hold Insohm's most dangerous prisoners. One extreme example was an inductee into the Insohmic Coven of Potentia who went rogue and had become an uncontrollable necromancer. Even with the Order now mostly dissipated, the prison continues to operate.
 
 ## [[Terminus Network|Terminus Tower]]
+
+![[GPC_tower.png]]
+> The Grand Pike Canyon tower.
 
 Grand Pike's Terminus tower is located in the region's northwest. The majority of the tower is encased in a stepped-cone-shaped stone building, the interior of which contains urns, piles of bones and hostile "Grave Wardens". Two spiral staircases lead from the top of the building to the top of the tower.
 

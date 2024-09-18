@@ -1,6 +1,6 @@
 # Gulf of Drehmal
 
-![[Gulf_of_Drehmal.webp]]{ align=right width="300" }
+![[GD_landscape.png]]{ align=right width="300" }
 
 The **Gulf of Drehmal** is a region in central [[Overworld|Drehmal]] forming the northern section of the Central Plains (Dreh'Noha). The landscape is similar to that of [[Capital Valley]] to the south, being mostly temperate plains and woods. It is named after the Gulf of Drehmal, a large body of water to the north that forms a coastline with the region.
 
@@ -25,7 +25,8 @@ In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional 
 
 ## [[Terminus Network|Terminus Tower]]
 
-![[Gulfofdrehmal2.webp]]
+![[GD_tower.png]]
+> The Gulf of Drehmal Terminus tower.
 
 The Gulf of Drehmal's Terminus tower sits half-submerged in the middle of the coast's central inlet. A sinking boat full of [[Mihkmari]] that had crashed into the tower floats adjacent to it.
 

@@ -1,6 +1,6 @@
 # Capital Valley
 
-![[Capital_Valley.webp]]{ align=right width="300" }
+![[CV_landscape.png]]{ align=right width="300" }
 
 **Capital Valley** is a region in central [[Overworld|Drehmal]], and the first one the player can explore. The region's landscape consists mostly of temperate plains and woods. The name "Capital Valley" dates back to [[Avsohm|Avsohmic]] times, when the empire's capital [[Av'Sal]] was located in the west of this region. 
 
@@ -33,7 +33,7 @@ Worship of [[Drehmal]] is the dominant religion in the region, as it is througho
 
 ## [[Terminus Network|Terminus Towers]]
 
-![[Capitalvalley2.webp]]
+![[CV_tower.png]]
 > The Capital Valley tower.
 
 Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the tower.

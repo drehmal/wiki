@@ -1,6 +1,6 @@
 # Veruhkt Plateau
 
-![[Veruhkt_Plateau.png]]{ align=right width="300" }
+![[VP_landscape2.png]]{ align=right width="300" }
 
 The **Veruhkt Plateau** is a small region in northeastern [[Overworld|Drehmal]], consisting of woods and elevated plains. As its name suggests, most of the region is encompassed by a large plateau. The name "Veruhkt" refers to the culture that was once present in the region, which drew great inspiration from the moon of [[Lo'Veruhkt]].
 
@@ -24,6 +24,9 @@ After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty 
 
 ## [[Terminus Network|Terminus Tower]] 
 
+![[VP_tower.png]]
+> The Veruhkt Plateau tower.
+
 Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A winding set of wooden stairs and a ladder lead halfway up the tower. No hostile entities are present.
 
 **Coordinates:** (X: 3953, Y: 245, Z: -1885)
@@ -31,6 +34,8 @@ Veruhkt Plateau's Terminus tower is located atop a hill in the region's north. A
 ## Points of Interest
 
 ### Altar of Insight
+
+![[VP_landscape1.png]]
 
 The [[Altar of Insight]] was an ancient, stone ziggurat by the Tinaxi Pools that contained unique Veruhktian technology and served as an important religious site. The Lens of Insight, a device capable of seeing through the land of Drehmal itself, was held underneath the Altar, and it was used to locate and observe Lo'Veruhkt hidden beneath the [[disc]]. The Altar was devastated and pillaged by Avsohm during the Desecration.
 

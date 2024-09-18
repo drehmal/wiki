@@ -15,7 +15,7 @@ Drehmal is functionally an open world, as once the player emerges from the [[Sta
 Drehmal's most advanced and largest civilizations have long since fallen by the time that the player's journey begins, with most regions being relatively isolated. Consequently, there are very few maintained roads to guide the player between regions, and those that do exist often trail off at certain points. This is an intentional design choice, as there are points of interest scattered throughout the world off the beaten path. 
 
 ![[map_103.png]]{ width="512" }
-> The map of Drehmal sold by [[Adventuring Merchant|Adventuring Merchants]] in major settlements throughout the map.
+> The map of Drehmal sold by [[Adventuring Merchant|Adventuring Merchants]] in major settlements throughout the continent, denoting major settlements with colored dots.
 
 Beyond the reaches of the continent, sea stretches out for a few hundred blocks before abruptly falling off into the void.
 

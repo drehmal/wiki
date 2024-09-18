@@ -1,6 +1,6 @@
 # Verdant Labyrinth
 
-![[Verdant_Labyrinth.png]{ align=right width="300" }
+![[Verdant_Labyrinth.png]]{ align=right width="300" }
 
 The **Verdant Labyrinth** is a small region in southeastern [[Overworld|Drehmal]] that serves as an obstacle when crossing between the [[North Heartwood]], the [[Black Jungle]] and [[Spearhead Forest]]. Although the Verdant Labyrinth lacks a Terminus tower and is technically part of the Verdant Mountaian range, it has its own distinct environment and can be considered a separate region.
 

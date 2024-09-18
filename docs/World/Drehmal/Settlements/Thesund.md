@@ -4,9 +4,6 @@ tags:
     - Cities
 ---
 
---8<-- "spoiler.md"
---8<-- "upcoming.md"
-
 # Dusps
 
 ![[Thesund1.webp]]{ align=right width="300" }

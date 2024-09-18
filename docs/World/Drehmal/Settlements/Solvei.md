@@ -4,9 +4,6 @@ tags:
     - Cities
 ---
 
---8<-- "spoiler.md"
---8<-- "upcoming.md"
-
 # Solvei
 
 ![[Solvei1.webp]]{ align=right width="300" }

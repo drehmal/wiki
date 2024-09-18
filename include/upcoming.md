@@ -1,1 +1,0 @@
-!!! example "This feature is not yet available and will be coming with version 2.2."

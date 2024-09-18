@@ -4,8 +4,6 @@ tags:
   - Points of Interest
 ---
 
---8<-- "upcoming.md"
-
 # Drehua Temple
 
 ![[Drehua.webp]]{ align=right width="300" }

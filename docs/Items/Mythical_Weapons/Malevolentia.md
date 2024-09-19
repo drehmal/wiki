@@ -38,6 +38,9 @@ The ability has 4 discrete levels of effectiveness, denoted by the color of the 
 - Level 3: If thrown towards the end of the meter but not at full charge, while the bar appears **light red**, the radius of the effect is approximately 5 blocks, and lasts for 20 seconds. <br>
 - Level 4: If thrown while fully charged up, while the bar appears **dark red**, the radius of the effect is nearly 6 blocks, and lasts for a full 30 seconds.
 
+??? warning "Late-Game Spoilers: Upgrades"
+    Like the other Mythicals, Malevolentia can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Malevolentia grants the player +14 Max Health (+7 Hearts), has a smaller movement speed penalty of -0.01, and has a special ability cooldown of only 15 seconds.
+
 ## How to Obtain
 Malevolentia is one of the more straightforward mythical weapons to obtain, simply being at the end of a dungeon. At the [[Burnt Palace]], in the center of the [[Hellcrags]], the player must fight their way through the [[Maelmari]] palace guards, climbing through the palace all the way to the chamber at its peak. Here, in Mael's bedchamber, there is a small balcony overlooking the entrance to the palace. Malevolentia is found floating here, at (-3983, 139, 5959), and can be picked up with a right click.
 

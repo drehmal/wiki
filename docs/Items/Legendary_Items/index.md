@@ -2,7 +2,7 @@
 
 --8<-- "under_construction.md"
 
-Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding it. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn.
+Legendary items are rare, powerful items that can be found throughout the map. They have their own item descriptions, sprites, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities. All legendary items are found at significant locations, especially ones with an advancement given upon finding them. They are typically relatively difficult to acquire, usually being well hidden and/or placed in dangerous areas. A few legendary items require the player to complete special challenges to earn them.
 
 ## ([[Overworld|Drehmal]]) Legendaries
 
@@ -122,6 +122,8 @@ There are 25 legendary items that can be obtained on Drehmal. Here is a list of 
 | **Stats**                                 | Rehntite Plate Mail provides 20 max HP (10 hearts), 100% knockback resistance, -50% movement speed, -50% attack speed, and -50% attack damage, 14 armor and 7 armor toughness, and is obtained with Unbreaking X.                              |
 | **Lore**                                  | Rehntite, the mystical mineral utilized by the Avsohmic Empire, allowed them to harness energy so powerful they could compete with Maelihs himself. The recipe for Rehntite was lost to time, when all who knew it vanished, taken by nothing. |
 | **Obtain**                                | In the [[Lost Caverns]], in the northern part of [[Akhlo'Rohma]]                                                                                                                                                                               |
+
+--8<-- spoiler75.md
 
 ### [[Avsohm'Kohl]] (25% SPOILERS)
 

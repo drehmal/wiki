@@ -14,6 +14,8 @@
 
 A mystical katana forged out of the condensed hate and suffering of the people of [[Sahd]], and a blade that claimed thousands of lives itself, Frenzy must be re-forged by the player from its 5 pieces, scattered across the island region.
 
+<br> <br> <br>
+
 ## Gameplay
 
 | Category | Description                 |

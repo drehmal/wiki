@@ -10,9 +10,19 @@
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-![[Oblivion.png]]{ align=right width="300"}
+![[Oblivion.png]]{ align=left width="300"}
 
 **Oblivion** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
+
+## Gameplay
+
+| Category | Description                 |
+|:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Stats**                        | +0.02 Movement Speed <br> 14 Attack Damage <br> 1.3 Attack Speed                                           |
+| **Enchantments**                 | Sweeping Edge IX                   |
+| **Ability**                      | **Force of Nothing**: "*Press your drop item key to pick up enemies and drain their life force. Crouch to launch held foes.*" <br> The Force of Nothing ability allows the player to pick up one enemy from a distance, move them around, and slowly drain their health. Crouching with a held enemy will launch them in the direction the player is facing. <br> **Cooldown**: 40s |
+| **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
+| **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
 
 ??? warning "Quest Guide"
     **Suggested Items:** Potions of Night Vision, Food, Weapons, General Adventuring Items

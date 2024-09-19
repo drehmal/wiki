@@ -12,7 +12,7 @@
 
 **Malevolentia** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis. 
 
-The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber at the top of the [[Burnt Palace]]. The weapon itself is a unique mix of a sword and a trident, with one side having a single standard blade and the other side culminating in a three-pronged fork.
+The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber at the top of the [[Burnt Palace]]. The weapon itself is a unique mix of a sword and a trident, as the main blade appears to be a standard sword, but a three-pronged fork sits beneath the hilt, on the opposite end from the blade.
 
 <br> <br> <br>
 
@@ -26,7 +26,7 @@ The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber 
 | **Lore**                             | Mael cast aside his signature trident-sword after Virtuo's flight. Fueled only by grief and a powerful ennui, he abandoned his palace, perhaps residing with the Aspects on Lo'Dahr. While the Burnt Generals feel his return is an inevitability, they do not mind their increased status in his absence. |
 | **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second [[Burnt General]].    |
 
-Malevolentia is a heavily NBT-customized netherite sword, and behaves as such.
+Malevolentia is a heavily NBT-modified netherite sword, and behaves as such.
 
 Malevolentia is optimal for a heavy tank build in Drehmal, as it gives the player complete immunity to knockback, adds 5 extra hearts to a player's max health, and deals significant damage, but has a slow attack speed. By default, the weapon is enchanted with Fire Aspect IV, two levels above the normal enchantment cap of Fire Aspect II. Practically, this means that a successful blow landed with Malevolentia will set the target on fire for twice as long as a hit from a sword enchanted with Fire Aspect II would, dealing a total of 15 fire damage (7.5 hearts) over the course of 16 seconds, in addition to the damage from the blow itself.
 
@@ -36,7 +36,7 @@ The ability has 4 discrete levels of effectiveness, denoted by the color of the 
 - Level 1: If thrown in roughly the first quarter of the charge-up, while the bar appears **yellow**, the radius of the effect is just under 2 blocks, and lasts for only 5 seconds. <br>
 - Level 2: If thrown while the meter is between roughly 25% and 60% full, while the bar appears **orange**, the radius of the effect is approximately 4 blocks, and lasts for 15 seconds. <br>
 - Level 3: If thrown towards the end of the meter but not at full charge, while the bar appears **light red**, the radius of the effect is approximately 5 blocks, and lasts for 20 seconds. <br>
-- Level 4: If thrown while fully charged up, while the bar appears **dark red**, the radus of the effect is nearly 6 blocks, and lasts for a full 30 seconds.
+- Level 4: If thrown while fully charged up, while the bar appears **dark red**, the radius of the effect is nearly 6 blocks, and lasts for a full 30 seconds.
 
 ## How to Obtain
 Malevolentia is one of the more straightforward mythical weapons to obtain, simply being at the end of a dungeon. At the [[Burnt Palace]], in the center of the [[Hellcrags]], the player must fight their way through the [[Maelmari]] palace guards, climbing through the palace all the way to the chamber at its peak. Here, in Mael's bedchamber, there is a small balcony overlooking the entrance to the palace. Malevolentia is found floating here, at (-3983, 139, 5959), and can be picked up with a right click.

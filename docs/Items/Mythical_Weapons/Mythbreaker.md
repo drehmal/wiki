@@ -12,7 +12,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-![[true_mb.png]]{ align=right width="300"}
+![[true_mb.png]]{ align=left width="300"}
 
 **The Mythbreaker** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 
@@ -20,7 +20,7 @@
 
 
 ??? warning "Inert Mythbreaker Details"
-    | ![[inert_mb.png]]{ width="48" } | Inert Mythbreaker                 |
+    | Category | Description                 |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats**                            | -4 Max Health (-2 Hearts) <br> -0.015 Movement Speed <br> 18 Attack Damage <br> 0.5 Attack Speed      |
     | **Ability**                          | N/A |
@@ -28,7 +28,7 @@
     | **Obtain**                           | Assembled by the player at the [[Av'Sal Repository]] through main story progression, with fragments found at [[Sal'Mevir]] and [[Exodus Vault]].  |
 
 ??? warning "Charged Mythbreaker Details (LATE-GAME SPOILERS)"
-    | ![[true_mb.png]]{ width="48" } | Mythbreaker                 |
+    | Category | Description                 |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats**                            | -4 Max Health (-2 Hearts) <br> 150 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
     | **Ability**                          | **Core Collapse**: "*Hold down right click for an extended period to collapse the innumerable possibilities before you into an impossibly strong blast of primal energy.*" <br> If successfully used without being interrupted, this ability can deal up to 150 damage, although this can be difficult to pull off. <br> **Cooldown:** 60s (shortened to 15s if interrupted mid-use). |
@@ -36,7 +36,7 @@
     | **Obtain**                           | Acquired by charging the Inert Mythbreaker at the [[Numencore]].  |
 
 ??? warning "True Mythbreaker Details (END-GAME SPOILERS)"
-    | ![[true_mb.png]]{ width="48" } | The Mythbreaker                 |
+    | Category | Description                 |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats**                            | -4 Max Health (-2 Hearts) <br> 250 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
     | **Enchantments**                     | Sharpness X |

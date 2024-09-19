@@ -10,10 +10,22 @@
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-![[Frenzy.png]]{ align=right width="300"}
+![[Frenzy.png]]{ align=left width="300"}
 
 **Frenzy** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 
+
+
+## Gameplay
+
+| Category | Description                 |
+|:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Stats**                        | -6 Max Health (-3 Hearts) <br> +0.03 Movement Speed <br> 10 Attack Damage <br> 2 Attack Speed       |
+| **Ability**                      | **Fatal Rampage**: "*Killing an enemy grants you a damage buff (3 damage per kill), stacking up to three times.*" <br> On a successful kill with Frenzy, the player gains +3 damage. This stacks up to 3 times for a total of 9 extra damage (19 total attack damage), and each stack lasts for 6 seconds before reverting to the previous damage tier. After the first tier (+3 damage) timer runs out, the ability goes on cooldown. <br> **Cooldown**: 60s                                                                                                                     |
+| **Lore**                         | In the aftermath of mutual slaughter of all three clans at Mt. Narukin, the legendary Osaigah bladesmith Irtheis crafted this sinister army-killing blade while surrounded by burning prisoners. Tens of thousands of deaths later, it was melted down and split into five fragments, which were hidden throughout the land. |
+| **Obtain**                       | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and throw them in the forge at the volcano on the island.             |
+
+## How to Obtain
 ??? warning "Fragment Location Guide"
     | Fragment | Location |
     | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

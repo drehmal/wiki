@@ -21,7 +21,7 @@ Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Cala
 
 ## Gameplay
 
-| ![[Calamity.png]]{ width="48" }  | Calamity               |
+| Category | Description                 |
 |:--------------------------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stats**                        | -4 Max Health (-2 Hearts) <br> +0.07 Movement Speed <br> 24 Ability Damage <br> 9 Attack Damage <br> 2.2 Attack Speed        |
 | **Ability**                      | **True Catastrophe**: "*Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes.*"  <br> The player will rise in the air before slamming down to the ground, striking nearby enemies with lightning. <br> **Cooldown**: 40s       |

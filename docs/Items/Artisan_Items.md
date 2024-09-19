@@ -2,7 +2,7 @@
 
 # Artisan Items
 
-Artisan items are special items with custom names, descriptions, stat modifiers, and often enchantments that can be bought from [Runic Blacksmiths[Runic Blacksmith]] or one of their variants. Their descriptions often provide lore surrounding the the blacksmith's hometown or region.
+Artisan items are special items with custom names, descriptions, stat modifiers, and often enchantments that can be bought from [[Runic Blacksmith|Runic Blacksmiths]] or one of their variants. Their descriptions often provide lore surrounding the blacksmith's hometown or region
 
 --8<-- "under_construction.md"
 

@@ -18,7 +18,6 @@ The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber 
 
 ## Gameplay
 
-| ![[Malevolentia.png]]{ width="48" } | Malevolentia                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | +10 Max Health (+5 Hearts) <br> 100% Knockback Resistance <br> -0.02 Movement Speed <br> 17 Attack Damage <br> 0.8 Attack Speed      |
 | **Enchantments**                     | Fire Aspect IV  |

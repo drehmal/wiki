@@ -20,6 +20,17 @@ Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be craft
 
 There are 7 mythical weapons that can be found on [[Overworld|Drehmal]].
 
+### Ascendance ![[ascendance.png]]{ width="36" }
+[[Ascendance]] is a mythical greatsword, found in the [[Moonlight Sanctum]] in [[Lorahn'Kahl]].
+
+??? warning "Ascendance Details"
+    | ![[Ascendance.png]]{ width="48" } | Ascendance                               |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +6 Max Health (+3 Hearts) <br> 50% Knockback Resistance <br> -0.01 Movement Speed <br> 18 Ability Damage <br> 15 Attack Damage <br> 1 Attack Speed  |
+    | **Ability**                      | **Holy Moonlight**: "*Press your drop item key to fire an armor-piercing wave of weakening moonlight.*" <br> **Cooldown**: 20s           |
+    | **Lore**                         | Deep within the flooded caverns of Lorahn'Kahl lies the Moonlight Sanctum, the crux of the Tri-Moon Theocracy's greater machinations. As said by the eidolic whispers, the sanctum was designed to create an endless necromantic loop. This blade was part of that cycle, having killed millions of undead souls. To what ambitious end the sanctum served was known only by its creators. |
+    | **Obtain**                       | Complete the [[Moonlight Sanctum]] dungeon, hidden in [[Lorahn'Kahl]].               |
+
 ### Calamity ![[Calamity.png]]{ width="36" }
 [[Calamity]] is the claw of a Skullbeast, wielded by an optional boss found in the [[South Heartwood]]. It grants the single largest speed boost of any item in Drehmal.
 
@@ -42,29 +53,6 @@ There are 7 mythical weapons that can be found on [[Overworld|Drehmal]].
     | **Lore**                         | In the aftermath of mutual slaughter of all three clans at Mt. Narukin, the legendary Osaigah bladesmith Irtheis crafted this sinister army-killing blade while surrounded by burning prisoners. Tens of thousands of deaths later, it was melted down and split into five fragments, which were hidden throughout the land. |
     | **Obtain**                       | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and throw them in the forge at the volcano on the island.             |
 
-### Oblivion ![[oblivion.png]]{ width="36" }
-[[Oblivion]] is a mythical scythe, obtained via a series of clues throughout the northeastern portion of the continent.
-
-??? warning "Oblivion Details"
-    | ![[Oblivion.png]]{ width="48" } | Oblivion                                                                                                                                                                     |
-    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Stats**                        | +0.02 Movement Speed <br> 14 Attack Damage <br> 1.3 Attack Speed                                           |
-    | **Enchantments**                 | Sweeping Edge IX                                                                                                                                                             |
-    | **Ability**                      | **Force of Nothing**: "*Press your drop item key to pick up enemies and drain their life force. Crouch to launch held foes.*" <br> The Force of Nothing ability allows the player to pick up one enemy from a distance, move them around, and slowly drain their health. Crouching with a held enemy will launch them in the direction the player is facing. <br> **Cooldown**: 40s |
-    | **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
-    | **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
-
-### Ascendance ![[ascendance.png]]{ width="36" }
-[[Ascendance]] is a mythical greatsword, found in the [[Moonlight Sanctum]] in [[Lorahn'Kahl]].
-
-??? warning "Ascendance Details"
-    | ![[Ascendance.png]]{ width="48" } | Ascendance                               |
-    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Stats**                        | +6 Max Health (+3 Hearts) <br> 50% Knockback Resistance <br> -0.01 Movement Speed <br> 18 Ability Damage <br> 15 Attack Damage <br> 1 Attack Speed  |
-    | **Ability**                      | **Holy Moonlight**: "*Press your drop item key to fire an armor-piercing wave of weakening moonlight.*" <br> **Cooldown**: 20s           |
-    | **Lore**                         | Deep within the flooded caverns of Lorahn'Kahl lies the Moonlight Sanctum, the crux of the Tri-Moon Theocracy's greater machinations. As said by the eidolic whispers, the sanctum was designed to create an endless necromantic loop. This blade was part of that cycle, having killed millions of undead souls. To what ambitious end the sanctum served was known only by its creators. |
-    | **Obtain**                       | Complete the [[Moonlight Sanctum]] dungeon, hidden in [[Lorahn'Kahl]].               |
-
 ### Malevolentia ![[malevolentia.png]]{ width="36" }
 [[Malevolentia]] is a mythical half-sword, half-trident, once wielded by the Deity [[Maelihs]]. It is found atop the [[Burnt Palace]].
 
@@ -75,7 +63,7 @@ There are 7 mythical weapons that can be found on [[Overworld|Drehmal]].
     | **Enchantments**                     | Fire Aspect IV  |
     | **Ability**                          | **Infernal Ground**: "*Crouch and use your drop item key to project a trident that grants a resistance-granting aura wherever it lands. Crouch longer for increased effectiveness.*" <br> The duration of the crouch determines both the duration of the effect, and its radius. <br> **Cooldown**: 20s after the ability ends |
     | **Lore**                             | Mael cast aside his signature trident-sword after Virtuo's flight. Fueled only by grief and a powerful ennui, he abandoned his palace, perhaps residing with the Aspects on Lo'Dahr. While the Burnt Generals feel his return is an inevitability, they do not mind their increased status in his absence. |
-    | **Obtain**                           | Atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.    |
+    | **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.    |
 
 ### Mythbreaker ![[true_mb.png]]{ width="36" }
 The [[Mythbreaker]] is a spear, forged by the Empire of [[Avsohm]] as their prospective greatest weapon. The player can reassemble it, in its inert form, through main story progression, and later, it can be charged to greatly increase its power.
@@ -95,6 +83,21 @@ The [[Mythbreaker]] is a spear, forged by the Empire of [[Avsohm]] as their pros
     | **Ability**                          | **Core Collapse**: "*Hold down right click for an extended period to collapse the innumerable possibilities before you into an impossibly strong blast of primal energy.*" <br> If successfully used without being interrupted, this ability can deal up to 150 damage, although this can be difficult to pull off. <br> **Cooldown:** 60s (shortened to 15s if interrupted mid-use). |
     | **Lore**                             | Seemingly infinite power arcs across this blade, burning your hands and quaking the ground beneath your feet. It seems as if reality itself wavers as the rawest form of existence seeps into the space around you. |
     | **Obtain**                           | Acquired by charging the Inert Mythbreaker at the [[Numencore]].  |
+
+### Oblivion ![[oblivion.png]]{ width="36" }
+[[Oblivion]] is a mythical scythe, obtained via a series of clues throughout the northeastern portion of the continent.
+
+??? warning "Oblivion Details"
+    | ![[Oblivion.png]]{ width="48" } | Oblivion                                                                                                                                                                     |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +0.02 Movement Speed <br> 14 Attack Damage <br> 1.3 Attack Speed                                           |
+    | **Enchantments**                 | Sweeping Edge IX                                                                                                                                                             |
+    | **Ability**                      | **Force of Nothing**: "*Press your drop item key to pick up enemies and drain their life force. Crouch to launch held foes.*" <br> The Force of Nothing ability allows the player to pick up one enemy from a distance, move them around, and slowly drain their health. Crouching with a held enemy will launch them in the direction the player is facing. <br> **Cooldown**: 40s |
+    | **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
+    | **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
+
+
+
 
 ### Zenith ![[zenith_sword.png]]{ width="36" }
 [[Zenith]] is a combination sword and laser gun, built by the Empire of [[Avsohm]]. It is unlocked by clearing the arena at the [[Foundry]].

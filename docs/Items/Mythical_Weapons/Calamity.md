@@ -10,7 +10,7 @@
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-![[Calamity.png]]{ align=right width="300"}
+![[Calamity.png]]{ align=left width="300"}
 
 **Calamity** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 

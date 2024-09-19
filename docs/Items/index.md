@@ -4,19 +4,19 @@
 
 !!! warning "The Items section is still under construction. The majority of this section's contents have been carried over from 2.1, with some information becoming obsolete and some new information missing. We are actively working to update this section, so stay tuned!"
 
-Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books[Written Books]], item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
+Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books](/Lore/Books/), item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
 ## [[Relics]]
 
-Relics are offhand stat-modifying items that are obtained via [devotion[Devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
+Relics are offhand, stat-modifying items that are obtained via [[Devotion|devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
 
 ## [[Artifacts]]
 
-Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptiond, which ususally detail an item's lore.
+Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptions, which ususally detail an item's lore.
 
 ## [Artisan[Artisan Items]]
 
-Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths]] or one of its variants.
+Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths|Runic Blacksmith]] or one of its variants.
 
 ## [Legendary[Legendary Items]]
 
@@ -24,7 +24,7 @@ Legendary items are rare and exceptionally powerful items that are found at impo
 
 ## [Mythical[Mythical Weapons]]
 
-There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
+There are very few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
 
 ## Other Named Weapons and Armor
 

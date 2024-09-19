@@ -40,12 +40,28 @@ Ascendance is found at the end of the Moonlight Sanctum dungeon, obtainable by d
 
 For a full dungeon guide, see the main [[Moonlight Sanctum]] article.
 
-The Moonlight Sanctum makes use of Elder Guardians ("Dahrkin Negators"), which, as in vanilla Minecraft, curse the player with a mining fatigue status effect. The player must defeat the three Elder Guardians in the sanctum, each housed in a separate tower within the flooded cavern. At this point, a button on a platform near one of the walls can be pressed to lift the magic ward, removing the mining fatigue effect. 
+The Moonlight Sanctum makes use of Elder Guardians ("Dahrkin Negators"), which, as in vanilla Minecraft, curse the player with a mining fatigue status effect. The player must defeat the three Elder Guardians in the sanctum, each housed in a separate tower within the flooded cavern. At this point, a button on a platform near one of the walls can be pressed to lift the magic ward, removing the mining fatigue effect and triggering a dialogue line:
 
-The player can then break the glass leading into the room behind this wall, and will find a piece of paper hinting at the solution to the puzzle. 
+> [Ascendant Voice] Elders slain. Magic ward lifted.
+
+The player can then break the glass leading into the room behind this wall, and will find a sign that reads "THE FIRST OF EACH RITE IS THE WAY TO THE LIGHT."
+
+The "rites" referred to here are the Ancient Theocracy Rites, a piece of paper found inside of the fourth tower, in the center of the sanctum. Before lifting the magic ward, this was inaccessible, but the ability to mine means that the player can reach inside the tower by breaking the glass. Inside of the glass is a structure with valuable blocks, hiding a chest with the Ancient Theocracy Rites, which read:
+
+> Dahr fahn Lorahn
+>
+> Ihb fahn Rihelma
+>
+> Voynath nylsh axh'malrih
+>
+> Ithlahr harhte
+>
+> Nari fahn tohsima
+>
+> Ertahn oul silnar
 
 ??? warning "Puzzle Solution"
-    The 6 arrows on the wall can each point towards one of 8 letters, parallel to the 6 lines on the piece of paper. If the player turns each arrow in its item frame to point toward the first letter of its respective line, spelling out the word "DIVINE," a flooded passageway will open in the ground. Ascendance is found at the end of this tunnel.
+    The 6 arrows on the wall can each point towards one of 8 letters, parallel to the 6 lines on the piece of paper. If the player turns each arrow in its item frame to point toward the first letter of its respective line in the Ancient Theocracy Rites, spelling out the word "DIVINE," a flooded passageway will open in the ground. Ascendance is found at the end of this tunnel.
 
 ## Lore
 

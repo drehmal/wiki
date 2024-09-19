@@ -1,6 +1,6 @@
 # Malevolentia
 
---8<-- "under_construction.md"
+--8<-- "spoiler.md"
 
 !!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
 
@@ -12,9 +12,9 @@
 
 **Malevolentia** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis. 
 
-The signature weapon of the chaos deity [[Maelihs]], it is found near his chambers at the top of the [[Burnt Palace]]. The weapon itself is a unique mix of a sword and a trident, with one side having a single standard blade and the other side culminating in a three-pronged fork.
+The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber at the top of the [[Burnt Palace]]. The weapon itself is a unique mix of a sword and a trident, with one side having a single standard blade and the other side culminating in a three-pronged fork.
 
-<br>
+<br> <br> <br>
 
 ## Gameplay
 

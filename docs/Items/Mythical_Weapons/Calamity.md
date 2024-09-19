@@ -1,7 +1,5 @@
 # Calamity
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."

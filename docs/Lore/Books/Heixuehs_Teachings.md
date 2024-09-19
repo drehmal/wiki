@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Heixueh's Teachings
 
 Also known as *The Parable of the Riverside Crag*, as denoted by a sign above the book.
 

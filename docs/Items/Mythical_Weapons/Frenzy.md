@@ -30,7 +30,7 @@ Frenzy is best suited for a fast-paced, highly aggressive playstyle, giving the 
 Frenzy's special ability, Fatal Rampage, increases its base damage by 3 on a successful kill, stacking up to 3 times for a total of 19 damage per hit. This effect lasts for 6 seconds within each tier, reverting to the next lowest tier if another kill is not made during that window. Kills with +9 damage active reset the timer. If the timer runs out while in Tier 1 (+3 damage), the ability goes on cooldown.
 
 ??? warning "Late-Game Spoilers: Upgrades"
-    Like the other Mythicals, Frenzy can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Frenzy takes away only 2 Max Health (-1 Heart), grants and +0.04 Movement Speed, and has a special ability cooldown of 45 seconds.
+    Like the other Mythicals, Frenzy can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Frenzy takes away only 2 Max Health (-1 Heart), grants +0.04 Movement Speed, and has a special ability cooldown of 45 seconds.
 
 ## How to Obtain
 After Frenzy's reign of terror in Sahd, it was melted down into five pieces and scattered across the region, and these pieces remain hidden to this day. The player must find all five of these fragments and toss them into the forge at the volcanic caldera in the north of the island in order to reunite them into the blade itself.
@@ -38,6 +38,9 @@ After Frenzy's reign of terror in Sahd, it was melted down into five pieces and 
 These fragments have different custom models, but share the same lore text:
 
 > Sahd's legends speak of a frenzied weapon that was split into five fragments, hidden across the island of Sahd. It is said that a powerful, runic forge exists somewhere on the island, perched within the caldera of a volcano. Toss all five fragments into the red bricked forge to recreate the mythical blade.
+
+![[frenzy_fragments.png]]
+> The five fragments of Frenzy as they appear in-game, alphabetically from left to right.[^1]
 
 ### Fragment of Fury
 The Fragment of Fury takes the form of a flaming stone. It is the only fragment not found on the main island of Sahd. It is a re-skinned piece of black dye.
@@ -97,3 +100,5 @@ Once all five fragments have been collected, the player can head to the volcanic
 The island of [[Sahd]] was very well-known in Drehmal for its bloody wars, and Frenzy lies at the core of that history. As its lore text implies, the weapon was first forged by a member of the Osaigah clan, one of the three main warring clans on the island in Av2, imbuing it with the collective suffering and hate of the clan's prisoners. The weapon was, as stated, used to claim tens of thousands of lives, and after the wars had ceased, it was melted into five separate pieces for safeguarding, spread throughout the island.
 
 There were unsuccessful attempts to reunite the blade's pieces before the player did so, as seen at the [[Emperor's Estate]]. Here, where the Fragment of Pain was kept, bandits encircled the estate for months, attempting to siege it and claim the fragment inside. This did not come to pass, as instead, the emperor cast a spell on the bandits that turned them into undead soldiers, forced to guard the estate and its fragment forever. These are the very same enemies found in the estate by the player.
+
+[^1]: The first fragment (Fragment of Fury) texture may be corrupted in this screenshot.

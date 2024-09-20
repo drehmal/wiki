@@ -16,9 +16,9 @@
 
 **Syzygy** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 
-An incredibly powerful crossbow with a draconic or shark-like mouth, Syzygy is found through a unique questline, entirely contained to the late-game area accessed after the 75% completion event. It was the weapon of a legendary [[Tehrmari]] figure who served as the servant of the [Aspects](/Lore/Higher_Beings/Aspects/).
+An incredibly powerful crossbow with a draconic or shark-like mouth, Syzygy is found through a unique questline, entirely contained to the moon of [[Lo'Dahr]]. It was the weapon of a legendary [[Tehrmari]] figure who served as the servant of the [Aspects](/Lore/Higher_Beings/Aspects/).
 
-<br> <br> <br>
+<br> <br> <br> <br>
 
 ## Gameplay
 

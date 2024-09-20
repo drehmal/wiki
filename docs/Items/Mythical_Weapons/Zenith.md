@@ -1,5 +1,7 @@
 # Zenith
 
+--8<-- "spoiler.md"
+
 !!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
 
 !!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
@@ -24,7 +26,7 @@ Located in the [[Foundry]], Zenith is a hybrid energy saber/laser gun, forged us
 
 Like some other Drehmal items with unique mechanics, Zenith is actually a warped fungus on a stick, heavily modified using NBT tags. 
 
-![[ontology_fp.gif]]{ align=left width="315" } ![[ontology_tp.gif]]{ align=right width="315" }
+![[ontology_fp.gif]]{ align=left width="325" } ![[ontology_tp.gif]]{ align=right width="325" }
 
 Zenith allows for a hybrid melee/ranged build, using its relatively weak but quick melee attacks to passively generate charges for its stronger ranged attack. Zenith's ranged attack fires out multiple projectiles in a ring (akin to a shotgun blast), dealing up to 30 damage if all projectiles hit the target.
 

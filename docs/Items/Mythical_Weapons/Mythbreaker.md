@@ -123,7 +123,7 @@ The final version of the spear, named "The Mythbreaker" in-game and sometimes re
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | -4 Max Health (-2 Hearts) <br> 250 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
 | **Enchantments**                     | Sharpness X |
-| **Ability**                          | **Core Collapse**: "*Hold down right click for an extended period to collapse the innumerable possibilities before you into an ultimate ray of death.*" <br> **Cooldown:** 60s (shortened to 15s if interrupted mid-use). |
+| **Ability**                          | **Core Collapse**: "*Hold down right click for an extended period to collapse the innumerable possibilities before you into an ultimate ray of death.*" <br> **Cooldown:** 60s (shortened to 15-45s if interrupted mid-use). |
 | **Lore**                             | In the endless cosmos beyond the veil, there exists the primordial battle between fundamental forces. Trillions of realms, held together by the hopeful defiance of entropy, ultimately nothing more than a balancing act in the face of inevitable, muted chaos. Those that fight to control it always forfeit their right to existence. |
 | **Obtain**                           | Progress to the [[Court of Nothing]] sequence in the end-game.  |
 

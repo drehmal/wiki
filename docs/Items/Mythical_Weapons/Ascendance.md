@@ -62,6 +62,9 @@ The "rites" referred to here are the Ancient Theocracy Rites, a piece of paper f
 
 ??? warning "Puzzle Solution"
     The 6 arrows on the wall can each point towards one of 8 letters, and there are 6 lines on the piece of paper. If the player turns each arrow in its item frame to point toward the first letter of its respective line in the Ancient Theocracy Rites, spelling out the word "DIVINE," a flooded passageway will open in the ground. Ascendance is found at the end of this tunnel.
+    
+![[ascendance_ig.png]]
+> Ascendance, as it appears in-game.
 
 ## Lore
 

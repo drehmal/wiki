@@ -36,6 +36,9 @@ Zenith is obtained quite simply, by clearing all 6 waves of the Arena at the [[F
 
 Inside the Foundry is an arena, in which the player will face 6 waves of strong enemies, including a miniboss in the final wave. After the player has defeated the final wave, a door will open in the east side of the room, leading down a staircase to a room containing the weapon.
 
+![[zenith_ig.png]]
+> Zenith as it initially appears to the player after completing the arena.
+
 ## Lore
 There seems to be very little lore surrounding Zenith beyond its own item description, which references the [[Fall of Avsohm]]. It is well-known that Avsohm's use of [[Primal Energy]] was the source of their power over the realm, as well as their ultimate doom, but outside of the [[Mythbreaker]], this seems to be the second strongest weapon that Avsohm created.
 

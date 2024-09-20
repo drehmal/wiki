@@ -44,6 +44,9 @@ The ability has 4 discrete levels of effectiveness, denoted by the color of the 
 ## How to Obtain
 Malevolentia is one of the more straightforward mythical weapons to obtain, simply being at the end of a dungeon. At the [[Burnt Palace]], in the center of the [[Hellcrags]], the player must fight their way through the [[Maelmari]] palace guards, climbing through the palace all the way to the chamber at its peak. Here, in Mael's bedchamber, there is a small balcony overlooking the entrance to the palace. Malevolentia is found floating here, at (-3983, 139, 5959), and can be picked up with a right click.
 
+![[malevolentia_ig.png]]
+> Malevolentia as it appears on the balcony.
+
 ## Lore
 
 The name "Malevolentia" is derived from the term "malevolent," meaning "having or showing a wish to do evil to others." This runs parallel to the Maelihs himself, derived from the word "malice." 

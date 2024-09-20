@@ -92,7 +92,12 @@ On a beach along Sahd's eastern coast, the player can find a small shrine with f
 **Shrine Coordinates:** (5356, 63, 6047)
 
 ### Forge
-Once all five fragments have been collected, the player can head to the volcanic caldera forge in the island's northern portion to reassemble the blade. Throwing all five fragments into the forge at once (on top of the magma blocks) will summon Frenzy, embedded in the magma blocks. It can be picked up by right-clicking.
+Once all five fragments have been collected, the player can head to the volcanic caldera forge in the island's northern portion to reassemble the blade. Throwing all five fragments into the forge at once (on top of the magma blocks) will summon Frenzy, embedded in the magma blocks. 
+
+![[frenzy_ig.png]]
+> Frenzy as it appears in-game, immediately after being forged.
+
+It can be picked up by right-clicking.
 
 **Forge Coordinates:** (4726, 149, 5325)
 

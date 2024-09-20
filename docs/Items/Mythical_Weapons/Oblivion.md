@@ -65,6 +65,9 @@ The labyrinth is dark and patrolled by custom enemies named "Emissary's Shade." 
     The following is a map of the Oblivion labyrinth, with a possible path to the weapon marked using purple arrows. Red arrows point toward the Stone of Worry at this location.
     ![[oblivion_labyrinth.png]]
 
+![[oblivion_ig.png]]
+> Oblivion, as it appears in-game at the end of the labyrinth.
+
 ## Lore
 
 !!! danger "The lore surrounding Oblivion concerns some significant end-game characters and concepts."

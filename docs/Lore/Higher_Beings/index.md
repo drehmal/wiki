@@ -2,20 +2,20 @@
 
 Powerful beings that govern the realm are responsible for many natural phenomena. Despite their inherent power, all higher beings appear to be mortal.
 
-## Aspects
+## [Aspects](/Lore/Higher_Beings/Aspects/)
 
 ![[aspects.png]]
 > Family tree of the Aspects and Deities of Drehmal. Each block represents an Aspect, besides the three at the very top, which represent the three deities ([[Maelihs]], [[Drehmal]], [[Virtuo]], left to right).
 
 Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are draconic deities who govern their own domains of nature, and some create children who inherit subcategories of their parent or parents' jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
 
-### Major Aspects
+### [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/)
 
-Major Aspects are considered to be the most important Aspects and those with the broadest domains. A subcategory of the Major Aspects are the Elder Aspects ([[Khive]], [[Dahr]], [[Rihelma]], and [[Taihgel]]), who are deemed to be the most powerful. All eight Major Aspects have [[devotion]] sites in-game, in addition to the three Deities.
+Major Aspects are considered to be the most important Aspects and those with the broadest domains, and they were directly created by the [[Primal Tree]]. A subcategory of the Major Aspects are the Elder Aspects ([[Khive]], [[Dahr]], [[Rihelma]], and [[Taihgel]]), who are deemed to be the most powerful. All eight Major Aspects have [[Devotion|devotion]] sites in-game, in addition to the three [Deities](/Lore/Higher_Beings/Deities/).
 
-### Minor Aspects
+### [Minor Aspects](/Lore/Higher_Beings/Aspects/Minor_Aspects/)
 
-Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exception to this is Lahrs, who was created by the Primal Tree and is the subject of debate for classification (Verrhys was also created by the Primal Tree, but their existence isn't known to people in the present day.)
+Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exception to this is [[Lahrs]], who was created by the Primal Tree and is the subject of debate for classification ([[Verrhys]] was also created by the Primal Tree, but their existence isn't known to people in the present day.)
 
 ### Aspect List
 
@@ -51,7 +51,7 @@ Upon the felling of the Primal Tree, marking the beginning of the Second Avihm, 
 
 ## The Primal Tree
 
-The origins of the [[Primal Tree]] are unclear, but it was most likely the first living thing to exist in the realm of Drehmal, and it created the first Aspects and Drehmari. The Primal Tree was a tree of gargantuan proportions, much taller than mountains, and it sat at the center of what is now the continent of Drehmal in the First Avihm. In the Battle of Karesh at the base of the Tree, fought between the Viruhn and Maelruhn, the Tree was burnt and uprooted, severely damaging the land and rendering it uninhabitable. The Primal Tree granted the last of its power to three figures, who became Maelihs, Virtuo and Drehmal. This event marked the beginning of the Second Avihm. The only remnant left of the Primal Tree today is the [[Primal Sapling]], which is a smaller (but still giant) and malicious version of the Tree that stands in southeast [[Merijool]].
+The origins of the [[Primal Tree]] are unclear, but it was most likely the first living thing to exist in the realm of Drehmal, and it created the first Aspects and [[Drehmari]]. The Primal Tree was a tree of gargantuan proportions, much taller than mountains, and it sat at the center of what is now the continent of Drehmal in the First Avihm. In the Battle of Karesh at the base of the Tree, fought between the [[Viruhn]] and [[Maelruhn]], the Tree was burnt and uprooted, severely damaging the land and rendering it uninhabitable. The Primal Tree granted the last of its power to three figures, who became Maelihs, Virtuo and Drehmal. This event marked the beginning of the Second Avihm. The only remnant left of the Primal Tree today is the [[Primal Sapling]], which is a smaller (but still giant) and malicious version of the Tree that stands in southeast [[Merijool]].
 
 ## Other Higher Beings
 

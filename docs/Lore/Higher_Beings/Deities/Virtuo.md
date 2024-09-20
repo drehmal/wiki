@@ -15,7 +15,7 @@ Virtuo is one of the three deities born upon the destruction of the Primal Tree 
 
 ## Characteristics
 
-Virtuo takes the form of a 12 foot tall humanoid figure with shimmering blue horns. She is known to be calm, wise and stunningly perfect.
+Virtuo takes the form of a 12 foot tall humanoid figure with shimmering blue horns, blue hair and orange skin. She is known to be calm, wise and stunningly perfect.
 
 ## [[Virmari]] and Grand Parish
 

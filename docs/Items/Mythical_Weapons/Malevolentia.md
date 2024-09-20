@@ -32,6 +32,8 @@ Malevolentia is optimal for a heavy tank build in Drehmal, as it gives the playe
 
 Malevolentia's special ability, Infernal Ground, allows the player to give themselves the Resistance effect in a certain radius of the weapon for up to 30 seconds by crouching and pressing their drop item key to throw the trident into the ground. This creates a copy of Malevolentia in the ground; the player can still use Malevolentia as a sword while this ability is in effect and during its cooldown.
 
+![[infernal_ground_fp.gif]]{ align=left width="315" } ![[infernal_ground_tp.gif]]{ align=right width="315" }
+
 The ability has 4 discrete levels of effectiveness, denoted by the color of the bar when charging up the trident spike. These levels vary in their duration and area of effect, denoted by a ring of red particles. The cooldown time is the same regardless of the strength of the Infernal Ground. <br>
 - Level 1: If thrown in roughly the first quarter of the charge-up, while the bar appears **yellow**, the radius of the effect is just under 2 blocks, and lasts for only 5 seconds. <br>
 - Level 2: If thrown while the meter is between roughly 25% and 60% full, while the bar appears **orange**, the radius of the effect is approximately 4 blocks, and lasts for 15 seconds. <br>

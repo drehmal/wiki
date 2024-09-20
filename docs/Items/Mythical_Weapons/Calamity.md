@@ -30,7 +30,9 @@ Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Cala
 
 Calamity functions like a sword (technically being a netherite sword) with significant stat boosts. Its base-level attack damage is relatively weak compared to the other mythical weapons, but it can make up for this defect with its high attack speed and excellent movement speed buff. Out of any one item in Drehmal, Calamity boasts the single largest movement speed buff that the player can receive, at +0.07 speed (a 70% increase from the baseline speed of 0.1.) This makes it incredibly useful not only for strafing, evasion, and quickly closing distance in combat, but also for traversal.
 
-Calamity's ability, **True Catastrophe**, is a strong AoE attack that can greatly damage and even kill multiple weaker enemies at a time. In the 2.1 version of Drehmal, Calamity's ability paused for longer at the peak of the jump, and could be canceled by scrolling off of the weapon at the peak. This does not appear to be possible in 2.2, as the attack is locked in once the jump begins, and spends less time at the apex.
+![[true_catastrophe_fp.gif]]{ align=left width="315" } ![[true_catastrophe_tp.gif]]{ align=right width="315" }
+
+Calamity's ability, True Catastrophe, is a strong AoE attack that can greatly damage and even kill multiple weaker enemies at a time. In the 2.1 version of Drehmal, Calamity's ability paused for longer at the peak of the jump, and could be canceled by scrolling off of the weapon at the peak. This does not appear to be possible in 2.2, as the attack is locked in once the jump begins, and spends less time at the apex.
 
 ??? warning "Late-Game Spoilers: Upgrades"
     Like the other Mythicals, Calamity can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Calamity does not take any health from the player, adds +0.08 Movement Speed, and has a special ability cooldown of only 30 seconds.

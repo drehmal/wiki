@@ -80,6 +80,8 @@ The Charged Mythbreaker (simply named "Mythbreaker" in-game) is the upgraded ver
 
 The charged variant of the Mythbreaker is markedly more powerful than its inert counterpart, and ditches the pale yellow color for a bright, vibrant yellow. This specific version of the Mythbreaker can only be obtained temporarily, as part of the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker run]]. It has 100 durability, which gradually drains over time (losing 1 durability roughly every 4-5 seconds), reverting back to the Inert form if its durability reaches zero.
 
+![[core_collapse_fp.gif]]{ align=left width="315" } ![[core_collapse_tp.gif]]{ align=right width="315" }
+
 This form of the spear has increased base damage, no movement speed, and the Core Collapse ability, making it much more powerful, although it is somewhat hindered by the specific circumstances under which it can be acquired. The Core Collapse ability allows the player to fire a devastating beam of energy forward over the span of approximately 10 seconds, dealing up to 150 damage over the course of its trajectory. This beam does not point directly forward, but rather, sprays out in multiple directions centered around the spear, making it difficult to maximize the beam's damage unless directly in front of an enemy, or aiming at a large group of enemies.
 
 It seems that the durability damage to this Mythbreaker causes the Core Collapse ability to be interrupted, making it difficult to complete this attack during its designated sequence. However, the cooldown time for the ability is shortened to as little as 15 seconds if the player does not fully complete the attack.

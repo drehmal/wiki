@@ -34,6 +34,8 @@ Syzygy is a crossbow with heavy NBT modifications.
 
 Syzygy is extremely powerful and is often used in addition to a player's melee weapon of choice. It can be used in either a very mobile or a more stationary tank build, due to the versatility its special ability offers. It deals 20 damage with a normal shot, and up to 100 with its special ability.
 
+![[draconitic_rebuke_fp.gif]]{ align=left width="315" } ![[draconitic_rebuke_tp.gif]]{ align=right width="315" }
+
 The weapon's special ability, Draconitic Rebuke, allows the player to press their swap-to-offhand key ("F" by default) while standing still to enter sniper mode. In this mode, the player can charge up an extremely powerful shot, which must be charged and fired while laying relatively still. This ability then goes on cooldown for 20 seconds.
 
 Syzygy comes with the Quick Charge I enchantment, and can support further crossbow enchantments such as higher levels of Quick Charge or Piercing.

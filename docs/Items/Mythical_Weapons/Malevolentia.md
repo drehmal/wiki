@@ -32,7 +32,7 @@ Malevolentia is optimal for a heavy tank build in Drehmal, as it gives the playe
 
 Malevolentia's special ability, Infernal Ground, allows the player to give themselves the Resistance effect in a certain radius of the weapon for up to 30 seconds by crouching and pressing their drop item key to throw the trident into the ground. This creates a copy of Malevolentia in the ground; the player can still use Malevolentia as a sword while this ability is in effect and during its cooldown.
 
-![[infernal_ground_fp.gif]]
+![[infernal_ground_fp.gif]]{ width="600" }
 
  ![[infernal_ground_tp.gif]]
 

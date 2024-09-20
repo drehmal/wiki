@@ -29,7 +29,7 @@ Ascendance is a heavily NBT-modified netherite sword.
 
 Ascendance is a greatsword, and provides a somewhat less committed approach to the tank-style build that [[Malevolentia]] allows. Ascendance gives the player only 50% knockback resistance instead of Malevolentia's full knockback resistance, grants the player 3 bonus hearts, and does not do as much damage. However, it also allows the player to be more mobile, with only a minor movement speed penalty, greater attack speed than its competitor, and a more aggressive special ability.
 
-![[holy_moonlight_fp.gif]] 
+![[holy_moonlight_fp.gif]]{ width="600" }
 
 ![[holy_moonlight_tp.gif]]
 

@@ -80,7 +80,7 @@ The Charged Mythbreaker (simply named "Mythbreaker" in-game) is the upgraded ver
 
 The charged variant of the Mythbreaker is markedly more powerful than its inert counterpart, and ditches the pale yellow color for a bright, vibrant yellow. This specific version of the Mythbreaker can only be obtained temporarily, as part of the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker run]]. It has 100 durability, which gradually drains over time (losing 1 durability roughly every 4-5 seconds), reverting back to the Inert form if its durability reaches zero.
 
-![[core_collapse_fp.gif]] 
+![[core_collapse_fp.gif]]{ width="600" } 
 
 ![[core_collapse_tp.gif]]
 

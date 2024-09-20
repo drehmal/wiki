@@ -27,7 +27,7 @@ A mystical katana forged out of the condensed hate and suffering of the people o
 
 Frenzy is best suited for a fast-paced, highly aggressive playstyle, giving the player movement speed buffs, a max health penalty, and quick attacks with weak base damage. It is built around its special ability, which allows its damage to increase to 19 per attack (nearly double its base damage) indefinitely, so long as the player is able to continuously kill enemies. This makes Frenzy incredibly powerful against large groups of weaker enemies, but somewhat ineffective against much stronger enemies that are fought alone.
 
-![[fatal_rampage_fp.gif]]
+![[fatal_rampage_fp.gif]]{ width="600" }
 
 ![[fatal_rampage_tp.gif]]
 

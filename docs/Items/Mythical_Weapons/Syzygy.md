@@ -34,7 +34,7 @@ Syzygy is a crossbow with heavy NBT modifications.
 
 Syzygy is extremely powerful and is often used in addition to a player's melee weapon of choice. It can be used in either a very mobile or a more stationary tank build, due to the versatility its special ability offers. It deals 20 damage with a normal shot, and up to 100 with its special ability.
 
-![[draconitic_rebuke_fp.gif]] 
+![[draconitic_rebuke_fp.gif]]{ width="600" } 
 
 ![[draconitic_rebuke_tp.gif]]
 

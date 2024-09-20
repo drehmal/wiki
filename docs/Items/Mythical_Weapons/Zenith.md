@@ -26,7 +26,7 @@ Located in the [[Foundry]], Zenith is a hybrid energy saber/laser gun, forged us
 
 Like some other Drehmal items with unique mechanics, Zenith is actually a warped fungus on a stick, heavily modified using NBT tags. 
 
-![[ontology_fp.gif]] 
+![[ontology_fp.gif]]{ width="600" } 
 
 ![[ontology_tp.gif]]
 

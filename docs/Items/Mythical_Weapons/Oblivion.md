@@ -30,7 +30,7 @@ Oblivion is a heavily NBT-customized netherite sword.
 
 Oblivion encourages a somewhat faster playstyle, giving the player extra movement speed and holding higher than average attack speed with competitive damage output. The Sweeping Edge IX enchantment, 3 times higher than the normal vanilla limit of Sweeping Edge III, makes the weapon extremely strong against tight clusters of enemies. Practically, this translates to sweeping attacks dealing 90% of the attack's initial damage to other entities in range, meaning it can hit large groups of enemies for near-full damage at once.
 
-![[force_of_nothing_fp.gif]] 
+![[force_of_nothing_fp.gif]]{ width="600" } 
 
 ![[force_of_nothing_tp.gif]]
 

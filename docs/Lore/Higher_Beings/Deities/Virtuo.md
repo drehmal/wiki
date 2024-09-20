@@ -11,7 +11,7 @@
 ![[virtuo_statue.png]]
 > Statue of Virtuo carved into the Verdant Mountains
 
-Virtuo is one of the three deities born upon the [[Felling|destruction of the Primal Tree]] at the end of the First Avihm. Virtuo is the most widely worshipped figure in the realm, although she left her Drehmari followers at the end of the Third Avihm, and her current whereabouts are unknown to them. 
+Virtuo is one of the three deities born upon the [[Felling|destruction of the Primal Tree]] at the end of the First Avihm. Virtuo is the most widely worshipped figure in the realm, although she left her [[Drehmari]] followers at the end of the Third Avihm, and her current whereabouts are unknown to them. 
 
 ## Characteristics
 

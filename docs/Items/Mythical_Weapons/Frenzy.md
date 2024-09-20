@@ -27,7 +27,7 @@ A mystical katana forged out of the condensed hate and suffering of the people o
 
 Frenzy is best suited for a fast-paced, highly aggressive playstyle, giving the player movement speed buffs, a max health penalty, and quick attacks with weak base damage. It is built around its special ability, which allows its damage to increase to 19 per attack (nearly double its base damage) indefinitely, so long as the player is able to continuously kill enemies. This makes Frenzy incredibly powerful against large groups of weaker enemies, but somewhat ineffective against much stronger enemies that are fought alone.
 
-![[fatal_rampage_fp.gif]]{ align=left width="315" } ![[fatal_rampage_tp.gif]]{ align=right width="315" }
+![[fatal_rampage_fp.gif]]{ align=left width="340" } ![[fatal_rampage_tp.gif]]{ align=right width="340" }
 
 Frenzy's special ability, Fatal Rampage, increases its base damage by 3 on a successful kill, stacking up to 3 times for a total of 19 damage per hit. This effect lasts for 6 seconds within each tier, reverting to the next lowest tier if another kill is not made during that window. Kills with +9 damage active reset the timer. If the timer runs out while in Tier 1 (+3 damage), the ability goes on cooldown.
 

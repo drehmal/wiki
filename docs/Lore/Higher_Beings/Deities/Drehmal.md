@@ -6,7 +6,7 @@ This page is about the serpent deity. For the physical setting of the story by t
 > - **Classification:** Deity
 > - **Parent:** [[Primal Tree]]
 > - **Year of Birth:** Final Year of Av1
-> - **Devotion Site:** [[Drehua Temple]]
+> - **[[Devotion]] Site:** [[Drehua Temple]]
 
 ![[drehmal_statue.png]]
 > Statue of Drehmal at Drehua Temple
@@ -22,7 +22,7 @@ Drehmal takes the form of a gargantuan, pale green serpent with antlers, a beard
 In the First Avihm, before being granted their current deific identity, Drehmal was merely a simple worm of some sorts. As recounted by [[The Parable of the Worm]], they were approached by two figures, a "beast of the sky" and a "beast of the depths". Both criticized the worm for not acting on their potential, yet they resolved to wait for the right time.
 During the Battle of Karesh, the worm nestled between the roots of the Primal Tree, and the Tree gifted a portion of its remaining essence to the worm, ascending them to the divine serpent Drehmal.
 
-Drehmal spent the early days of the Second Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with [[Drehmari]], especially the ancient Drehua people of Palisahd (modern day [[Palisades Heath]]). Four such interactions, as recorded by Drehua monks who became heralded as prophets, are recorded in the four Parables at Drehua Temple. After Drehmal's work was completed, they buried themselves far beneath the Primal Caverns and fell into a deep, dream-filled slumber. Drehmal continued to be worshipped throughout Palisades Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of [[Avsohm]], which originated in the Central Plains and spread its religion around the continent. Worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was banned in the empire under the reign of [[Zorhis Ifeihl]], and [[Maelihs]] was an enemy of the state, meaning citizens paid homage to either [[Virtuo]] or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
+Drehmal spent the early days of the Second Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with [[Drehmari]], especially the ancient Drehua people of Palisahd (modern day [[Palisades Heath]]). Four such interactions, as recorded by Drehua monks who became heralded as prophets, are recorded in the four Parables at Drehua Temple. After Drehmal's work was completed, they buried themselves far beneath the [[Primal Caverns]] and fell into a deep, dream-filled slumber. Drehmal continued to be worshipped throughout Palisades Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of [[Avsohm]], which originated in the Central Plains and spread its religion around the continent. Worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was banned in the empire under the reign of [[Zorhis Ifeihl]], and [[Maelihs]] was an enemy of the state, meaning citizens paid homage to either [[Virtuo]] or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
 
 --8<-- "spoiler.md"
 

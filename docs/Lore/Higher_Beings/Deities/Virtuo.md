@@ -6,7 +6,7 @@
 > - **Classification;** Deity
 > - **Year of Birth:** Final Year of Av1
 > - **Parent:** [[Primal Tree]]
-> - **Devotion Site:** [[Kiln of Virtuo]]
+> - **[[Devotion]] Site:** [[Kiln of Virtuo]]
 
 ![[virtuo_statue.png]]
 > Statue of Virtuo carved into the Verdant Mountains

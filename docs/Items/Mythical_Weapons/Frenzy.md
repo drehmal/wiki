@@ -44,7 +44,7 @@ These fragments have different custom models, but share the same lore text:
 > Sahd's legends speak of a frenzied weapon that was split into five fragments, hidden across the island of Sahd. It is said that a powerful, runic forge exists somewhere on the island, perched within the caldera of a volcano. Toss all five fragments into the red bricked forge to recreate the mythical blade.
 
 ![[frenzy_fragments.png]]
-> The five fragments of Frenzy as they appear in-game, alphabetically from left to right.[^1]
+> The five fragments of Frenzy as they appear in-game, alphabetically from left to right.
 
 ### Fragment of Fury
 The Fragment of Fury takes the form of a flaming stone. It is the only fragment not found on the main island of Sahd. It is a re-skinned piece of black dye.
@@ -109,5 +109,3 @@ It can be picked up by right-clicking.
 The island of [[Sahd]] was very well-known in Drehmal for its bloody wars, and Frenzy lies at the core of that history. As its lore text implies, the weapon was first forged by a member of the Osaigah clan, one of the three main warring clans on the island in Av2, imbuing it with the collective suffering and hate of the clan's prisoners. The weapon was, as stated, used to claim tens of thousands of lives, and after the wars had ceased, it was melted into five separate pieces for safeguarding, spread throughout the island.
 
 There were unsuccessful attempts to reunite the blade's pieces before the player did so, as seen at the [[Emperor's Estate]]. Here, where the Fragment of Pain was kept, bandits encircled the estate for months, attempting to siege it and claim the fragment inside. This did not come to pass, as instead, the emperor cast a spell on the bandits that turned them into undead soldiers, forced to guard the estate and its fragment forever. These are the very same enemies found in the estate by the player.
-
-[^1]: The first fragment (Fragment of Fury) texture may be corrupted in this screenshot.

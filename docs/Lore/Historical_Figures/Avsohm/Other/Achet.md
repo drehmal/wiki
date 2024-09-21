@@ -2,5 +2,5 @@
 
 --8<-- "under_construction.md"
 
-**Achet** was an Avsohmic officer, frequently mentioned between the [[Aphelion]] and [[Av'Sal]].
+**Achet** was an [[Avsohm|Avsohmic]] officer, frequently mentioned between the [[Aphelion]] and [[Av'Sal]].
 

@@ -11,7 +11,7 @@ This page is about the serpent deity. For the physical setting of the story by t
 ![[drehmal_statue.png]]
 > Statue of Drehmal at Drehua Temple
 
-Drehmal is the most powerful of the three deities born from the Primal Tree upon [[Felling|its collapse]] at the end of the First Avihm. With most of the land being destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The new land, which is the one present in-game, is named "Drehmal", after the deity.
+Drehmal is the most powerful of the three deities born from the Primal Tree upon [[Felling|its collapse]] at the end of the First Avihm. With most of the land destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The deity's name traces its roots to the [[Ancient Drehua|ancient Drehua]] people, who used their word "Drehmal", meaning the world, to refer to the Serpent.
 
 ## Characteristics
 

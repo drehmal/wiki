@@ -2,6 +2,6 @@
 
 --8<-- "under_construction.md"
 
-**Tempest Palaesida** was the Aspect of Storms. He is one of the only Aspects to die, being killed by [[Maen|Abominate Maen]] at the end the [[Divine Schism]].
+**Tempest Palaesida** was the Aspect of Storms. He is one of the only Aspects to die, being killed by [[Maen|Abominate Maen]] at the end of the [[Divine Schism]].
 
 Palaesida was the child of [[Dahr]] and [[Rihelma]].

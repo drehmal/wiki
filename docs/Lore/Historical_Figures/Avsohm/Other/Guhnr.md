@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Guhnr** was an Avsohmic officer stationed at the [[Inscription Complex]].
+**Guhnr** was an [[Avsohm|Avsohmic]] officer stationed at the [[Inscription Complex]].

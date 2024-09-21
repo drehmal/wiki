@@ -7,7 +7,7 @@ The **Frostfang Catastrophe** was an ecological event stemming from a conflict b
 
 ## Background
 
-During the reign of Emperor [[Drehn]], [[Avsohm]] sent survey drones to the far north of the continent, and discovered a massive source of [[Primal Energy]] at [[Mt. Yavhlix]]. However, they were unable to reach the mountain due to the presence of the Faehrcylian tribes, who were not a part of the empire and were willing to defend the mountain from the outsiders.
+During the reign of Emperor [[Drehn]], [[Avsohm]] sent survey drones to the far north of the continent, and discovered a massive source of [[Primal Energy]] at [[Mt. Yavhlix]]. However, they were unable to reach the mountain due to the presence of the [[Faehrcyle|Faehrcylian]] tribes, who were not a part of the empire and were willing to defend the mountain from the outsiders.
 
 ...
 

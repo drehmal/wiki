@@ -2,7 +2,7 @@
 
 --8<-- "under_construction.md"
 
-This article contains short descriptions of many individuals who were mentioned sparingly in holotexts as either royalty, or personnel for Avsohmic governmental departments or its partnering organizations.
+This article contains short descriptions of many individuals who were mentioned sparingly in [[Holotexts|holotexts]] as either royalty, or personnel for Avsohmic governmental departments or its partnering organizations.
 
 ## List
 

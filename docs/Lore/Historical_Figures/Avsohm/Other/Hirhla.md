@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Hirhla** was an Avsohmic officer specializing in the inscription of [[Arcanism|runic]] catalysts.
+**Hirhla** was an [[Avsohm|Avsohmic]] officer specializing in the inscription of [[Arcanism|runic]] catalysts.

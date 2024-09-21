@@ -1,7 +1,7 @@
 # Insohmic Civil War
 
 > - **Duration:** Av3 600 - Av3 611
-> - **Belligerents:** [Insohmic[Order of Insohm]] Loyalists (Provinces of Vir, Federation of Faehrcylian Kingdoms, [[Gozaki Union]], [[Insohmic Commonwealth]]) vs. Insohmic Separatists ([[Kingdom of Dusps]], [[Kingdom of Highfall]], Faehrcylian Tribes), [[Tidal Dynasty]] (joined later in war)
+> - **Belligerents:** [[Insohm|Insohmic]] Loyalists (Provinces of Vir, Federation of Faehrcylian Kingdoms, [[Gozaki Union]], [[Insohmic Commonwealth]]) vs. Insohmic Separatists ([[Kingdom of Dusps]], [[Kingdom of Highfall]], Faehrcylian Tribes), [[Tidal Dynasty]] (joined later in war)
 > - **Leaders:** [[Ultva|Ultva Utofal]] (Insohmic Loyalists), [[Hovadchear|Hovadchear Myrik]] (Insohmic Loyalists), Independent Leaders of Loyalist Countries (Insohmic Loyalists), [[Tide Queen]] (Tidal Dynasty), Independent Leaders of Separatist Countries (Insohmic Separatists)
 
 ![[Insohmiccivilwar.png]]{ align=right width="300" }
@@ -10,14 +10,14 @@ The Insohmic Civil War was a conflict fought between separatist member states wa
 
 ## Background
 
-The Order of Insohm was less than a century old when it threatened to fracture. For unknown reasons, the Kingdom of Dusps, Kingdom of Highfall and the remnants of old Faehrcylian tribes had intentions to leave the Order in the late Av3 500s. Non-governmental militias likely posed the greatest threat to any country that tried to break away. This resulted in the 600th Massacre in Av3 600, when these militias were slaughtered by the militaries of separatist states. The other Insohmic member states promptly declared war on the separatists.
+The Order of Insohm was less than a century old when it threatened to fracture. For unknown reasons, the Kingdom of Dusps, Kingdom of Highfall and the remnants of old [[Faehrcyle|Faehrcylian]] tribes had intentions to leave the Order in the late Av3 500s. Non-governmental militias likely posed the greatest threat to any country that tried to break away. This resulted in the 600th Massacre in Av3 600, when these militias were slaughtered by the militaries of separatist states. The other Insohmic member states promptly declared war on the separatists.
 
 ## War
 
 For most of the decade, the two sides battled and raided each other with weaponized airships. A loyalist airship accidentally passed over the Tidal Dynasty at one point, and the Tide Queen thought they were being attacked, and so she declared war on the loyalists. 
 
-The Tidal Dynasty launched an invasion on the Gozaki Union. The Gozaki military destroyed the Tidal town of Zovan in retaliation. The Tidal Dynasty's incursion was halted when their armies were soundly defeated at the Battle of Kozdan in Av3 609. A heavy blow was dealt to their forces, so they left the war. The loyalists, now with increased morale, pushed into the Kingdom of Highfall and laid siege to [the capital[Highfall]]. They succeeded and occupied the city the following year. In Av3 611, the loyalist armies invaded the Kingdom of Dusps, who surrendered after the capture of the city Sahvoltha. The Faehrcylian tribes, now alone, followed soon after, officially ending the war.
+The Tidal Dynasty launched an invasion on the Gozaki Union. The Gozaki military destroyed the Tidal town of Zovan in retaliation. The Tidal Dynasty's incursion was halted when their armies were soundly defeated at the Battle of Kozdan in Av3 609. A heavy blow was dealt to their forces, so they left the war. The loyalists, now with increased morale, pushed into the Kingdom of Highfall and laid siege to [[Highfall|the capital]]. They succeeded and occupied the city the following year. In Av3 611, the loyalist armies invaded the Kingdom of Dusps, who surrendered after the capture of the city Sahvoltha. The Faehrcylian tribes, now alone, followed soon after, officially ending the war.
 
 ## Impact
 
-The Insohmic Civil War was the greatest threat to the stability of the Order (until its collapse at the end of the Third Avihm). The loyalists' victory secured the Order of Insohm's continued existence, and it would go on to fight the [[Tidal War]] less than a decade after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.
+The Insohmic Civil War was the greatest threat to the stability of the Order (until its collapse at the end of the Third Avihm). The loyalists' victory secured the Order of Insohm's continued existence, and it would go on to fight the [[Tidal War]] soon after the end of the Civil War, and the large-scale [[Battle for Drehmal]] later still.

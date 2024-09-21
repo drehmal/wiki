@@ -79,6 +79,6 @@ Syzygy was the weapon of [[Yriel|Yriel Rezhad]], the Moonsworn, servant of the A
 Yriel used Syzygy many times over the course of their servitude, which appears to have lasted several centuries, but it fell out of use when Yriel was slain by [[Vahid]] at the [[Battle for Drehmal]]. Since that day hundreds of years ago, the Aspects have sought a new aspirant worthy of the weapon, and made it the reward for the completion of the Trials.
 
 ## Extras
-"Syzygy" is a real English word, and like many of the other obscure words used as item or location names in Drehmal, it is related to the field of astronomy. A syzygy refers to the alignment of three or more celestial bodies within a gravitational system, such as the alignment of Drehmal's moons as referenced in the [[Dreams_of_the_Serpent.md|Dream Dialogue]].
+"Syzygy" is a real English word, and like many of the other obscure words used as item or location names in Drehmal, it is related to the field of astronomy. A syzygy refers to [the alignment of three or more celestial bodies within a gravitational system](https://en.wikipedia.org/wiki/Syzygy_(astronomy)), such as the alignment of Drehmal's moons as referenced in the [[Dreams_of_the_Serpent.md|Dream Dialogue]].
 
 The term may also refer to philosophical concepts in the same vein, such as the conjunction of opposing ideas.

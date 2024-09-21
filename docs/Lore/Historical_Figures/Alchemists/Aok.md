@@ -1,4 +1,4 @@
-# Aok, The First Necromancer
+# Aok
 
 --8<-- "under_construction.md"
 

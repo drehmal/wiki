@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Muhslihr** was an Avsohmic officer working on the [[avSYS]] project.
+**Muhslihr** was an [[Avsohm|Avsohmic]] officer working on the [[avSYS]] project.

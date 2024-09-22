@@ -28,6 +28,10 @@ The ancient, secret affairs of Avsohm are the focus of the [[Story Progression|m
 
 ## Government and Politics
 
+### Department of Science
+
+The Avsohmic Department of Science (usually written as the acronym DoS) was Avsohm's primary government entity for scientific research. It was headed by the Chief Science Officer (CSO), of whom two are known: [[Eleis]] and [[Thresa Vera]].
+
 ## History
 
 ### Foundation

@@ -5,7 +5,7 @@
 > - **Capital City:** Sal'Lorahn
 > - **Form of Government:** Theocracy (ruled by multiple High Priests)
 > - **Rulers:** Saint Raene (founder and first leader)
-> - **Religion:** Worship of the Lorahn, Loruhn and Lo'Dahr
+> - **Religion:** Worship of the [[Lorahn]], [[Loruhn]] and [[LD|Lo'Dahr]]
 #
 ![[ruins_of_sallorahn.png]]
 > #### Ruins of Sal'Lorahn with a depiction of the three moons in the center (from left to right: Lorahn, Lo'Dahr, Loruhn).

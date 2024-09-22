@@ -2,7 +2,7 @@
 
 !!! warning "Holotexts are an inherently spoiler-heavy topic! Be wary of spoilers in this section."
 
-Holotexts are holographic text images that appear in [[Avsohm|Avsohmic]] facilities throughout the main story of Drehmal: Apotheosis. 
+Holotexts are holographic text images that appear in [[Avsohm|Avsohmic]] facilities throughout the [Story Progression|main story]] of Drehmal: Apotheosis. 
 
 Typically containing brief messages written about important characters or concepts, they are one of the most important resources for any playthrough of the map. Holotexts also frequently hint at the solution to puzzles in their area, which is not true of lore books.
 

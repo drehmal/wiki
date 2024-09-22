@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Lo'Veruhkt** is the fourth moon of Drehmal, hidden beneath the disc out of sight. Its existence on Drehmal was known primarily by the people of the [[Veruhkt Plateau]], who named themselves after it.
+**Lo'Veruhkt** is the fourth moon of Drehmal, hidden out of sight beneath the disc. Its existence was known on [[Overworld|Drehmal]] primarily by the people of [[Veruhkt Plateau]], who named themselves after it.

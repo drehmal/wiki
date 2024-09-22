@@ -4,4 +4,4 @@
 
 **Drehmari** are the predominant humanoid race on Drehmal. 
 
-Replacing vanilla Minecraft villagers, Drehmari appear as normal humans with horns or antlers. They have all normal functionality of Minecraft villagers, including trades.
+Drehmari are the predominant humanoid race that inhabits [[Overworld|Drehmal]], appearing as normal humans with antlers. Most Drehmari are represented by villagers with special skins in-game, however supposed hostile Drehmari are represented by other mobs.

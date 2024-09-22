@@ -1,4 +1,4 @@
-# Drehmal Lore Timeline
+# Drehmal Lore Timeline (OUTDATED)
 
 --8<-- "under_construction.md"
 

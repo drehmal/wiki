@@ -1,5 +1,11 @@
 # Mythical Weapons
 
+The 8 **Mythical Weapons** are the strongest weapons in the game, obtained only in major dungeons, through unique questlines, or by progressing through the main story. 
+
+Mythical weapons have their own unique 3D models, descriptons, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic. Some are enchanted by default, and most can have additional enchantments added as if they were a normal sword. Mythical weapons also carry significant lore implications, quite literally being mythical pieces of the world's history.
+
+Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
+
 --8<-- "spoiler.md"
 
 !!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
@@ -7,12 +13,6 @@
 !!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
-
-The 8 **Mythical Weapons** are the strongest weapons in the game, obtained only in major dungeons, through unique questlines, or by progressing through the main story. 
-
-Mythical weapons have their own unique 3D models, descriptons, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic. Some are enchanted by default, and most can have additional enchantments added as if they were a normal sword. Mythical weapons also carry significant lore implications, quite literally being mythical pieces of the world's history.
-
-Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
 
 ## Drehmal
 

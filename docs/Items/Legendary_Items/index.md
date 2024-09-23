@@ -1,7 +1,5 @@
 # Legendary Items
 
---8<-- "under_construction.md"
-
 --8<-- "spoiler.md"
 
 !!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
@@ -20,7 +18,7 @@ In this article, Legendaries are separated by spoiler level, as some of them are
 
 ## Open-World Legendaries
 
-The following 21 legendary items can be obtained in the open world of [[Overworld|Drehmal]], at any point after reaching the surface following the intro sequence at the [[Stasis Facility]].
+The following 22 legendary items can be obtained in the open world of [[Overworld|Drehmal]], at any point after reaching the surface following the intro sequence at the [[Stasis Facility]].
 
 ### AvPOD
 The [[AvPOD]] (Avsohmic Playback Organizer Device) is a legendary item found in [[Tharxax City]], which allows the player to listen to any song from the Drehmal OST during gameplay, so long as they have heard it before.
@@ -168,7 +166,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
 [[Osteogenesis]] is a sword found in [[North Tharxax]], designed to combat Skullbeasts. It is somewhat weak at baseline, but can be incredibly effective against undead enemies.
 
 ??? warning "Osteogenesis Details"
-    | ![[osteogenesis.png]]{ width="48" } | Osteogenesis                         |
+    | ![[osteo.png]]{ width="48" } | Osteogenesis                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Main Hand)**         | 4 Attack Damage <br> 0.6 Attack Speed         |
     | **Enchantments**              | Smite II <br> Unbreaking II |
@@ -316,7 +314,7 @@ The following two legendaries are found in locations that can technically be acc
 
 The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp Horse") is a legendary item that allows for the teleportation of one or more horses tamed by the player. It is found during the 50% completion event, and consists of two parts: a piece of diamond horse armor, and a receiver, the latter being a remote that can be used to recall the horse.
 
-??? warning "Warp Horse Armor Details"
+??? warning "Warp Horse Armor[^1] Details"
     | ![[warphorse_armor.png]]{ width="48" } | WarpHorse Armor MkIII           |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Applied to Horse)**  | +0.1 Speed <br> +0.1 Jump Strength <br> +10 Max Health (+5 Hearts) |
@@ -414,3 +412,6 @@ The [[Stasis Bolt]] is a legendary item found in [[Khive's Domain]]. It is a gif
     | **Ability**                   | **Bolt from the Blue**: "*The wearer gains a slight chance to critically hit, smiting enemies.*" |
     | **Lore**                      | Amohn Aihura was the greatest Tehrmari friend of Palaesida. Equally impetuous and brave, he perished alongside the Aspect of Storms at the Second Battle of Ytaj. Later, his fabled breastplate ironically reunited with the Tempest's storm-bound remains. |
     | **Obtain**                    | Found in the Heart of the Tempest, at the center of [[Palaesida's Domain]].   |    
+
+
+[^1]: This texture for the armor appears in the resource pack, but appears to be unused. This item appears as a vanilla piece of diamond horse armor.

@@ -6,7 +6,7 @@
 
 !!! warning "This article will be split into sections, based on the potential spoiler content of that advancement section."
 
-Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, endermen are Primal Walkers).
+Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into Drehmal's original advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, Endermen are Primal Walkers).
 
 Advancements are sorted into one of six (6) categories:
 

@@ -13,6 +13,7 @@ The **Crystal Digging Claws** are one of 30 Legendary Items obtainable in Drehma
 The Crystal Digging Claws are a legendary weapon and tool, which serve most prominently as a legendary shovel variant.
 
 <br> <br> <br> <br>
+
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> +0.01 Movement Speed <br> 2 Attack Damage <br> 4.5 Attack Speed            |

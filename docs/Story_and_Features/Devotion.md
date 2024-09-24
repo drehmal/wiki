@@ -3,7 +3,7 @@
 ![[drehmal_shrine.png]]
 > Drehmal's devotion altar at [[Drehua Temple]].
 
-Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called "[[Relics|relics]]", as well as other rewards, by depositing specific items at altars scattered throughout the world. Each Major Aspect and Deity has their own altar in a different location on the map.
+Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called "[[Relics|relics]]", as well as other rewards, by depositing specific items at altars scattered throughout the world. Each [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects) and [Deity](/Lore/Higher_Beings/Deities) has their own altar in a different location on the map.
 
 There is a set of items that each Aspect/Deity accepts as offerings, each one having one of three different values. Every offering increases the player's "devotion" to the Aspect/Deity that the altar is dedicated to.
 
@@ -44,7 +44,7 @@ Different items can increase devotion to an Aspect/Deity slightly, a medium amou
 **Great Gain Message:**
 > "Your offering fills the room with overwhelming joy. Your devotion to [Name] has deepened greatly."
 
-**List of Offerings by Recipient:**
+The following list records every accepted offering for each Aspect/Deity and their respective values:
 
 ### Drehmal
 
@@ -311,11 +311,11 @@ Different items can increase devotion to an Aspect/Deity slightly, a medium amou
 
 --8<-- "LD_spoiler.md"
 
-In addition to their altars on [[Overworld|Drehmal]], each Aspect/deity has a secondary altar in their designated area within [[Ytaj]]. These altars are functionally the same as their overworld counterparts, and devotion progress is global.
+In addition to their altars on [[Overworld|Drehmal]], each Aspect/Deity has a secondary altar in their designated area within [[Ytaj]]. These altars are functionally the same as their overworld counterparts, and devotion progress is global.
 
 ## Benefactor Zabuyah
 
-Benefactor Zabuyah is a trader that can be found in the eastern wing of Ytaj. They sell 11 chests (12 amethyst shards apiece), each with a book inside hinting to the location of an Aspect/deity's altar on Drehmal.
+Benefactor Zabuyah is a trader that can be found in the eastern wing of Ytaj. They sell 11 chests (12 amethyst shards apiece), each with a book inside hinting to the location of an Aspect/Deity's altar on Drehmal.
 
 
 

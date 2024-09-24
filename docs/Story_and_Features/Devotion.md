@@ -3,7 +3,7 @@
 ![[drehmal_shrine.png]]
 > Drehmal's devotion altar at [[Drehua Temple]].
 
-Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called [[Relics|relics]], as well as other rewards, by depositing specific items at altars scattered throughout the world. Each Major Aspect and deity has their own altar in a different location on the map.
+Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called [[Relics|"relics"]], as well as other rewards, by depositing specific items at altars scattered throughout the world. Each Major Aspect and deity has their own altar in a different location on the map.
 
 There is a set of items that each Aspect/deity accept as offerings, each one having one of three different values. Every offering increases the player's "devotion" to the Aspect/deity that the altar is dedicated to.
 

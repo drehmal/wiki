@@ -4,16 +4,16 @@
 
 In addition to its gameplay features and massive open world, Drehmal: Apotheosis adds a rich, original story spread across several different locations throughout the realm, slowly revealing more to the player about their origin, the fate of [[Avsohm|the powerful ancient empire]] that they came from, and the forces that govern the realm's existence.
 
-The story is most frequently divided into sections based on the player's network linkage percent, which is increased by finding, climbing, and linking [[Terminus Network#Towers|Avsohmic warp towers]] found throughout the continent, linking exploration to story progression. After reaching 25%, 50%, and 75% completion (8, 16, and 24 towers linked, respectively), the player will be prompted by [[avSYS]] to visit a pertinent location in the world, giving them a compass leading to that location in the Terminus' compass dispensary. The sequences which take place at these locations, mostly locked behind their respective completion percentages, are known as the 25%, 50%, and 75% completion events. Several spoiler warnings on this wiki, and in other discussions around this map, rely on these milestones. After completing the (spoiler-heavy) 75% event, the player can initiate an end-game sequence and does not necessarily have to link any more towers to finish the story.
+Much of the story is divided into sections based on the player's network linkage percentage, which is increased by finding, climbing, and linking [[Terminus Network#Towers|Avsohmic warp towers]] found throughout the world, linking exploration to story progression. After reaching 25%, 50%, and 75% completion (8, 16, and 24 towers linked, respectively), the player will be prompted by [[avSYS]] to visit a pertinent location in the world, giving them a compass leading to that location in the Terminus' compass dispensary. The sequences which take place at these locations, mostly locked behind their respective completion percentages, are known as the 25%, 50%, and 75% completion events. Several spoiler warnings on this wiki, and in other discussions around this map, rely on these milestones. After completing the (spoiler-heavy) 75% event, the player can initiate an end-game sequence and does not necessarily have to link any more towers to finish the story.
 
 The following sections provide an overview of the story's progression, in (approximate) chronological order. Distinct spoiler warnings are given for each section where applicable, and each section links to the page for that story location, which contains more in-depth information on the story at that location as well as more gameplay-oriented information.
 
 !!! warning "If you have not completed the map yourself, do NOT navigate to later headings using the outline feature on the right side of your screen! Spoiler warnings appear throughout this page before the *first* instance of spoilers for that portion of the game, not for every individual heading. If you skip ahead, you may miss a warning and accidentally spoil extremely significant story events for yourself!"
 
-## Stasis Facility
+## [[Stasis Facility]]
 
 ![[stasis_inside.png]]
-> The room in the [[Stasis Facility]] where the player wakes up.
+> The room in the Stasis Facility where the player wakes up.
 
 After configuring the world's settings, the player awakens in a temporal stasis pod at the [[Stasis Facility]] to the news that several stasis pods have flatlined, and they are being evacuated. The player assumes the role of one of the [Stasis Eight](Lore/Historical_Figures/Avsohm/Stasis_Eight/), a group of eight high-ranking officials from the [[Avsohm|Empire of Avsohm]] who were frozen in time (this information is not directly told to the player, except through the [[Stasis Subject Roster]] book). From exploring the facility, the player finds that they entered stasis due to some kind of emergency, and that an extremely long amount of time (revealed later to be over a thousand years) has passed. The player is able to escape by taking a hint from one of the nearby holotexts, and emerges to the surface, just south of the [[Primal Caverns]].
 
@@ -21,12 +21,12 @@ After configuring the world's settings, the player awakens in a temporal stasis 
 > The view that the player surfaces to.
 
 ## Terminus
-After briefly exploring the world, the player will find a white and purple Avsohmic warp tower (most likely the [[Capital Valley]] tower). Upon climbing this tower and pressing the button atop it, the player will be transported to the [[Terminus Network|Terminus]], a dormant fast travel hub used by Avsohm. The Terminus is initially dark, but upon entering the compass dispensary in the Central Towers wing, [[avSYS]]—the AI that runs the Terminus—will recognize the player-character's security clearance and reactivate the Terminus. It will then inform the player that due to a network linkage failure, all existing towers need to be manually re-linked, establishing the fundamental mode of story progression. 
+After briefly exploring the world, the player will find a white and purple Avsohmic warp tower (most likely the [[Capital Valley]] tower). Upon climbing this tower and pressing the button atop it, the player will be transported to the Terminus, a dormant fast travel hub used by Avsohm. The Terminus is initially dark, but upon entering the compass dispensary in the Central Towers wing, [[avSYS]]—the AI that runs the Terminus—will recognize the player-character's security clearance and reactivate the Terminus. It will then inform the player that due to a network linkage failure, all existing towers need to be manually re-linked, establishing the fundamental mode of story progression. 
 
-## Av'Sal Repository
-While this is not necessarily the next step in all playthroughs, the [[Av'Sal Repository]] is a likely next step for many players, as there are signs pointing the player toward [[Av'Sal|the ruined Avsohmic capital]], and there is no amount of tower linkage required to enter the repository. Beneath the city of Av'Sal itself, on its central island, the player can find another holo-door, similar to the one at the Stasis Facility, and it can be opened in the same way.
+## [[Av'Sal Repository]]
+While this is not necessarily the next step in all playthroughs, the Av'Sal Repository is a likely next step for many players, as there are signs pointing the player toward [[Av'Sal|the ruined Avsohmic capital]], and there is no amount of tower linkage required to enter the repository. Beneath the capitol building on the city's central island, the player can find another holo-door, similar to the one at the Stasis Facility, and it can be opened in the same way.
 
-Inside, the player finds a large repository containing information on important Avsohmic sites (story locations) throughout the realm, although only those that have been visited will have an active holotext entry. In the back of the repository, the hilt of an extremely powerful spear known as the [[Mythbreaker]] can be found floating in a chamber, along with notes describing the spear, which has been split into pieces held in other secure locations.
+Inside, the player finds a large repository containing information on important Avsohmic sites (story locations) throughout the realm, although only those that have been visited will have an active holotext entry. In the back of the repository, the hilt of an extremely powerful spear known as the [[Mythbreaker]] can be found floating in a chamber, along with notes describing the spear, which has been split into pieces that are held in other secure locations.
 
 !!! danger "WARNING! The next section contains spoilers related to the 25% Completion Story event." 
 
@@ -34,8 +34,8 @@ Inside, the player finds a large repository containing information on important 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Ancillary Research Facility/Sal'Mevir (25% SPOILERS)
-Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in [[Sal'Mevir]]. The player can then follow that compass to the research facility in southeastern [[Purity Peaks]]. 
+## Ancillary Research Facility/[[Sal'Mevir]] (25% SPOILERS)
+Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in Sal'Mevir. The player can then follow that compass to the research facility, which is in southeastern [[Purity Peaks]]. 
 
 ![[salmevir_temporal_engine.png]]
 > Sal'Mevir.
@@ -50,13 +50,13 @@ Here, they can discover some old Avsohmic technology and research logs, document
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Exodus Vault (50% SPOILERS)
-Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large underwater [[Exodus Vault]], the headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
+## [[Exodus Vault]] (50% SPOILERS)
+Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large, underwater Exodus Vault. This was former headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
 
 Within, the player can find several holotexts and books that dive further into Avsohm's inner machinations. The legendary [[Warp Horse]] items are also found in this location, as well as the right blade fragment of the [[Mythbreaker]]. The vault exits out into the [[Anyr'Nogur]] desert.
 
 ## Inert Mythbreaker
-At any point after obtaining the two blade fragments, the player can return to the Av'Sal Repository and connect the pieces together by throwing them onto the platform in front of the hilt. When both fragments have been re-attached, the player can claim the Inert Mythbreaker from the repository. This version of the Mythbreaker is relatively powerful, but is nowhere near its true potential strength, as it needs to be charged using a massive quantity of Primal Energy.
+At any point after obtaining the two blade fragments, the player can return to the Av'Sal Repository and connect the pieces together by throwing them onto the platform in front of the hilt. When both fragments have been re-attached, the player can claim the Inert Mythbreaker from the repository. Although this version of the Mythbreaker still holds [mythical](/Items/Mythical_Weapons) status, it is nowhere near its true potential strength, as it needs to be charged using a massive quantity of [[Primal Energy|primal energy]].
 
 !!! danger "The following sections contain spoilers for the 75% completion story event. This is a huge milestone that you specifically should NOT spoil yourself on through a wiki! It's not worth it!"
 

@@ -6,6 +6,8 @@
 
 !!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
 
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 ![[festering_strides.png]]{ align=left width="300"}
 
 **Festering Strides** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.

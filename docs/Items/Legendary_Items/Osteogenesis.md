@@ -6,6 +6,8 @@
 
 !!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
 
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 ![[osteo.png]]{ align=left width="300"}
 
 **Osteogenesis** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.

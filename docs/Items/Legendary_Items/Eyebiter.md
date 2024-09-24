@@ -6,13 +6,15 @@
 
 !!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
 
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
+
 ![[eyebiter.png]]{ align=left width="300"}
 
 **Eyebiter** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
 Eyebiter is the only legendary shield found in Drehmal. It is located in [[The Carmine]], at [[Maelihs]]'s devotion site, the [[Sepulchral Altar]].
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br>
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

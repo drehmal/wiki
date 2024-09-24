@@ -3,13 +3,13 @@
 ![[drehmal_shrine.png]]
 > Drehmal's devotion altar at [[Drehua Temple]].
 
-Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called [[Relics|"relics"]], as well as other rewards, by depositing specific items at altars scattered throughout the world. Each Major Aspect and deity has their own altar in a different location on the map.
+Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called "[[Relics|relics]]", as well as other rewards, by depositing specific items at altars scattered throughout the world. Each Major Aspect and Deity has their own altar in a different location on the map.
 
-There is a set of items that each Aspect/deity accept as offerings, each one having one of three different values. Every offering increases the player's "devotion" to the Aspect/deity that the altar is dedicated to.
+There is a set of items that each Aspect/Deity accepts as offerings, each one having one of three different values. Every offering increases the player's "devotion" to the Aspect/Deity that the altar is dedicated to.
 
 The player receives experience points for every offering. Every 100 exp. worth of offerings increases the player's devotion level by one, and they will be gifted certain items depending on the level. Among these rewards are 4 different levels (separate items) of a relic, each level scaling the magnitude of its effects. The first level of the relic is the first reward, and the fourth one is the final reward. 
 
-Some of the offerings accepted by an Aspect/deity can be found laying in invisible item frames in the area surrounding their altar. In the case of the deities, offerings can also be found in invisible item frames at statues of them throughout their respective domains. Near every Aspect's altar is a book placed in an item frame that hints at an item that is valued greatly by them.
+Some of the offerings accepted by an Aspect/Deity can be found laying in invisible item frames in the area surrounding their altar. In the case of the Deities, offerings can also be found in invisible item frames at statues of them throughout their respective domains. Nearby every altar is a book placed in an item frame that hints at additional items that are valued by them.
 
 ## Devotion Sites
 
@@ -18,31 +18,33 @@ Some of the offerings accepted by an Aspect/deity can be found laying in invisib
 | [[Drehmal]] | [[Drehua Temple]] |
 | [[Virtuo]] | [[Kiln of Virtuo]] |
 | [[Maelihs]] | [[Sepulchral Altar]] in [[Rhaveloth]] |
-| [[Khive]] | [[Nameless Ziggurat]] at [[Ihted]] |
+| [[Khive]] | [[Khive's Ziggurat]] in [[Ihted]] |
 | [[Dahr]] | [[Port Solitude]] |
 | [[Rihelma]] | [[Star-Rise Bastion]] |
 | [[Taihgel]] | [[Wokonori]] |
 | [[Vayniklah]] | [[Temple of Bloom and Bough]] in [[Marahza]] |
 | [[Voynahla]] | [[Perishing Well]] |
 | [[Lai]] | [[Shrine of Eternal Flame]] |
-| [[Loe]] | [[Crystalline Colonnade]] at [[Schlonko]] |
+| [[Loe]] | [[Crystalline Colonnade]] in [[Schlonko]] |
 
 ## Devotion Books
 
-Near every Aspect's devotion altar is a book (not a book and quill or written book, its writing is in its description) that gives clues to help the player to find accepted gifts for that shrine.
+Near every devotion altar is a book (not a book and quill or written book, its writing is in its description) that provides clues to help the player find other accepted gifts for that shrine that are not placed around the site.
 
 ## Offerings
 
-Different items can increase devotion to an Aspect/deity slightly, a medium amount or greatly. These values of items grant 7, 18 and 35 experience points respectively. At intervals of 100 XP, players will earn a new devotion level with the shrine's deity or aspect, and receive a new reward. All shrines have 10 devotion levels, with the exception of Rihelma, who has 13.
+Different items can increase devotion to an Aspect/Deity slightly, a medium amount, or greatly. These values of items grant 7, 18 and 35 experience points respectively. At intervals of 100 exp., players will earn a new devotion level with the shrine's Deity or Aspect, and receive a new reward. All shrines have 10 devotion levels, with the exception of Rihelma, who has 13.
 
-Slight Gain Message:
-> "Your offering fills the room with a pleasing aura. Your devotion to (NAME) has deepened slightly."
+**Slight Gain Message:**
+> "Your offering fills the room with a pleasing aura. Your devotion to [Name] has deepened slightly."
 
-Medium Gain Message:
-> "Your offering fills the room with bliss. Your devotion to (NAME) has deepened."
+**Medium Gain Message:**
+> "Your offering fills the room with bliss. Your devotion to [Name] has deepened."
 
-Great Gain Message:
-> "Your offering fills the room with overwhelming joy. Your devotion to (NAME) has deepened greatly."
+**Great Gain Message:**
+> "Your offering fills the room with overwhelming joy. Your devotion to [Name] has deepened greatly."
+
+**List of Offerings by Recipient:**
 
 ### Drehmal
 

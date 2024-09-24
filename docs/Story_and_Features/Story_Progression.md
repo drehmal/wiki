@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.md"
 
-In addition to its gameplay features and massive open world, Drehmal: Primordial adds a rich, original story spread across several different locations throughout the realm, slowly revealing more to the player about their origin, the fate of [[Avsohm|the powerful ancient empire]] that they came from, and the forces that govern the realm's existence.
+In addition to its gameplay features and massive open world, Drehmal: Apotheosis adds a rich, original story spread across several different locations throughout the realm, slowly revealing more to the player about their origin, the fate of [[Avsohm|the powerful ancient empire]] that they came from, and the forces that govern the realm's existence.
 
 The story is most frequently divided into sections based on the player's network linkage percent, which is increased by finding, climbing, and linking [[Terminus Network#Towers|Avsohmic warp towers]] found throughout the continent, linking exploration to story progression. After reaching 25%, 50%, and 75% completion (8, 16, and 24 towers linked, respectively), the player will be prompted by [[avSYS]] to visit a pertinent location in the world, giving them a compass leading to that location in the Terminus' compass dispensary. The sequences which take place at these locations, mostly locked behind their respective completion percentages, are known as the 25%, 50%, and 75% completion events. Several spoiler warnings on this wiki, and in other discussions around this map, rely on these milestones. After completing the (spoiler-heavy) 75% event, the player can initiate an end-game sequence and does not necessarily have to link any more towers to finish the story.
 

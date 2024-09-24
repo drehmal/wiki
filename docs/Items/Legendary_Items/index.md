@@ -397,7 +397,7 @@ The [[Stasis Bolt]] is a legendary item found in [[Khive's Domain]]. It is a gif
 ??? warning "Stasis Bolt Details"
     | ![[stasis_bolt.png]]{ width="48" } | Stasis Bolt                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Ability**                   | **Eig'aanju Aenir**: "*When fires, this arrow freezes the target in time for a short duration. Only deals 1 damage.*" |
+    | **Ability**                   | **Eig'aanju Aenir**: "*When fired, this arrow freezes the target in time for a short duration. Only deals 1 damage.*" |
     | **Lore**                      | With unprecedented generosity, the Mystic Elder offers a short arrow inlaid with runes which have not been carved by mortal hands since the First Avihm. |
     | **Obtain**                    | Obtained as a reward for completing the trial at the [[Mystic Gallery]], in Khive's Domain.  |   
 

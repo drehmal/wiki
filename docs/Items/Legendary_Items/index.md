@@ -394,8 +394,8 @@ The following 6 legendaries are located in a late-game area tied to the 75% comp
 ### Stasis Bolt
 The [[Stasis Bolt]] is a legendary item found in [[Khive's Domain]]. It is a gift from the Magic Aspect [[Khive]], and can be used as an alternative to regular arrows in any ranged weapon that uses arrows, briefly freezing targets in time on a hit.
 
-??? warning "Aeongale Details"
-    | ![[aeongale.png]]{ width="48" } | Aeongale                         |
+??? warning "Stasis Bolt Details"
+    | ![[stasis_bolt.png]]{ width="48" } | Stasis Bolt                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Ability**                   | **Eig'aanju Aenir**: "*When fires, this arrow freezes the target in time for a short duration. Only deals 1 damage.*" |
     | **Lore**                      | With unprecedented generosity, the Mystic Elder offers a short arrow inlaid with runes which have not been carved by mortal hands since the First Avihm. |

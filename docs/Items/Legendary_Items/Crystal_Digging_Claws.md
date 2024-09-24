@@ -12,7 +12,7 @@
 
 The **Crystal Digging Claws** are one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
-The Crystal Digging Claws are a legendary weapon and tool, which serve most prominently as a legendary shovel variant.
+The Crystal Digging Claws are a legendary weapon and tool, which serve most prominently as a legendary shovel variant. They are found at the [[Island of Dusk]], to the northwest of the mainland, and also can function as a very fast weapon if necessary.
 
 <br> <br> <br> <br> <br>
 

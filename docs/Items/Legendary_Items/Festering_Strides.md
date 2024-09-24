@@ -14,7 +14,7 @@
 
 Festering Strides is a pair of legendary boots, dropped by the Warden of [[Shatterhorn Gulch]] when slain for the first time.
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

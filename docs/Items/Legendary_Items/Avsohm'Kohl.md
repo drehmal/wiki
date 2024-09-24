@@ -40,7 +40,7 @@ Avsohm'Kohl is therefore best utilized for gliding short distances between nearb
 Avsohm'Kohl is located inside of a chest behind a stained glass pane in the final tower at [[Sal'Mevir]], at its highest room, which opens up upon player approach. This room is accessed by completion of the Temporal Engine puzzle at Sal'Mevir (see [[Sal'Mevir#Gameplay|Sal'Mevir Gameplay]]).
 
 ## Lore
-Avsohm'Kohl was created by an [[Avsohm|Avsohmic]] researcher named Koen, stationed at Sal'Mevir. Its name is a portmanteau of "Avsohm" and "Kohlohmah", gigantic vulture-like creatures that inhabited the [[Anyr'Nogur]] desert and were tamed by some of the people in that region, even used in battle.
+Avsohm'Kohl was created by an [[Avsohm|Avsohmic]] researcher named Koen, stationed at Sal'Mevir. Its name is a portmanteau of "Avsohm" and "Kohlohmah", the latter being gigantic vulture-like creatures that inhabited the [[Anyr'Nogur]] desert and were tamed by some of the people in that region, even used in battle.
 
 ## Extras
 While not exactly an intended mechanic for regular Drehmal exploration, Avsohm'Kohl's limitations do not prevent knockback-boosting. Therefore, a second player equipped with an item that has high knockback (such as [[Peace Treaty]]) may launch gliding players forward, or a single player can utilize the Sharksbane artifact can bowboost themselves.

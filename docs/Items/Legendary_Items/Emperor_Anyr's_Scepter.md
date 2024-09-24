@@ -23,10 +23,16 @@ The scepter is a legendary weapon, notable primarily for its damage, max health 
 | **Obtain**                    | Located deep within the large pyramid at [[Sal'Anyr]].   |
 
 ## Gameplay
+Anyr's Scepter is an NBT-modified golden sword, and inherits that item's very low durability, although its Unbreaking X enchantment makes the weapon still viable for regular combat use. 
 
+In combat, the scepter's ability activates when the player drops below 20% max health. This is denoted by swirling yellow and red particles around the player, indicating that they have a Strength II effect active.
 
 ## How to Obtain
+Emperor Anyr's Scepter is found in the pyramid which served as his family mausoleum, in the west of [[Sal'Anyr]], the large mesa-top city in [[Anyr'Nogur]].
+
+At the front entrance of the pyramid (entering from the town), which is partially buried in sand, the scepter is located at the end of the right (north) path, which is also accessible by dropping down into the staircase from the top of the pyramid. Beyond an arrow trap on the stairs, a spawner, and a wall with a chiseled quartz block, the player will find a room with a large tomb, containing a chiseled sandstone block on the front. Breaking this block will expose the trapped chest that holds this weapon.
+
+**Coordinates:** (-3437, 133, 2215)
 
 ## Lore
-
-## Extras
+This weapon belonged to [[Anyr]], the final emperor of [[Avsohm]], and a central figure in the lore of Drehmal. As a general in Avsohm's military, Anyr was experienced in combat, and wielded the scepter as a deceptive weapon, which appeared ceremonial at first glance. The scepter was likely discarded towards the end of his reign, as Anyr became more powerful and aspired to become ascended.

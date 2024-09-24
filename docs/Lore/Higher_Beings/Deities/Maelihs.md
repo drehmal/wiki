@@ -4,7 +4,7 @@
 > - **Classification:** Deity
 > - **Parent:** [[Primal Tree]]
 > - **Year of Birth:** Final Year of Av1
-> - **[[Devotion]] Site:** Sepulchral Altar ([[Rhaveloth]])
+> - **[[Devotion]] Site:** [[Sepulchral Altar]] ([[Rhaveloth]])
 
 ![[hellcrags_titan.png]]
 > Titan of Strength (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].

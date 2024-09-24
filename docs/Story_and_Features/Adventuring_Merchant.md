@@ -16,7 +16,6 @@ Adventuring Merchants stand under the protection of [[Green Serpent]].
 Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the shape of the continent and the relative locations of towns on it, as well as the positions of the four visible celestial bodies in the sky.
 
 **Description:**
-
 > A map of the entire continent of Drehmal, showing the locations of its towns, major rivers, coastlines and more.
 >
 > Towns & Cities:<br>
@@ -69,7 +68,6 @@ Regional maps show the region surrounding the Adventuring Merchant's town, as we
 Adventuring Merchant Eliana is a [[Tehrmari]] variant of a regular Adventuring Merchant, who can be found at Eliana's Map and Compass in [[Naharja]]. Her trades differ from those of typical Adventuring Merchants.
 
 **Trades:**
-
 | Price | Item |
 |-|-|
 | 21x Amethyst Shard + 4x Diamond | Map of Lo'Dahr |

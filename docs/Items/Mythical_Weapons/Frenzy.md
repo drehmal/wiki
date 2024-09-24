@@ -16,8 +16,6 @@ A mystical katana forged out of the condensed hate and suffering of the people o
 
 <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                        | -6 Max Health (-3 Hearts) <br> +0.03 Movement Speed <br> 10 Attack Damage <br> 2 Attack Speed       |
@@ -25,6 +23,7 @@ A mystical katana forged out of the condensed hate and suffering of the people o
 | **Lore**                         | In the aftermath of mutual slaughter of all three clans at Mt. Narukin, the legendary Osaigah bladesmith Irtheis crafted this sinister army-killing blade while surrounded by burning prisoners. Tens of thousands of deaths later, it was melted down and split into five fragments, which were hidden throughout the land. |
 | **Obtain**                       | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and throw them in the forge at the volcano on the island.             |
 
+## Gameplay
 Frenzy is best suited for a fast-paced, highly aggressive playstyle, giving the player movement speed buffs, a max health penalty, and quick attacks with weak base damage. It is built around its special ability, which allows its damage to increase to 19 per attack (nearly double its base damage) indefinitely, so long as the player is able to continuously kill enemies. This makes Frenzy incredibly powerful against large groups of weaker enemies, but somewhat ineffective against much stronger enemies that are fought alone.
 
 ![[fatal_rampage_fp.gif]]{ width="600" }

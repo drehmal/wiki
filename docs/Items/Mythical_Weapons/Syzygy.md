@@ -20,8 +20,6 @@ An incredibly powerful crossbow with a draconic or shark-like mouth, Syzygy is f
 
 <br> <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                        | +0.02 Movement Speed <br> 100 Ability Damage <br> 20 Ranged Damage |
@@ -30,6 +28,7 @@ An incredibly powerful crossbow with a draconic or shark-like mouth, Syzygy is f
 | **Lore**                         | Yriel the Moonsworn, greatest of all Tehrmari, was the Aspects' solution to mortal interference. Empowered by the blessings of the Prismatic Council, Yriel carried out the Elder Will and delivered it swiftly. Tragically, they were butchered by a falsely-pure fanatic of Virtuo at the climax of the Battle for Drehmal. For centuries, their hallowed weapon has sought a worthy set of hands. May yours serve it well. |
 | **Obtain**                       | Complete all 6 of the [[Lo'Dahr]] trials.               |
 
+## Gameplay
 Syzygy is a crossbow with heavy NBT modifications.
 
 Syzygy is extremely powerful and is often used in addition to a player's melee weapon of choice. It can be used in either a very mobile or a more stationary tank build, due to the versatility its special ability offers. It deals 20 damage with a normal shot, and up to 100 with its special ability.

@@ -16,8 +16,6 @@ Modeled after the moonlight greatswords of the Soulsborne series, Ascendance is 
 
 <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                        | +6 Max Health (+3 Hearts) <br> 50% Knockback Resistance <br> -0.01 Movement Speed <br> 18 Ability Damage <br> 15 Attack Damage <br> 1 Attack Speed  |
@@ -25,6 +23,7 @@ Modeled after the moonlight greatswords of the Soulsborne series, Ascendance is 
 | **Lore**                         | Deep within the flooded caverns of Lorahn'Kahl lies the Moonlight Sanctum, the crux of the Tri-Moon Theocracy's greater machinations. As said by the eidolic whispers, the sanctum was designed to create an endless necromantic loop. This blade was part of that cycle, having killed millions of undead souls. To what ambitious end the sanctum served was known only by its creators. |
 | **Obtain**                       | Complete the [[Moonlight Sanctum]] dungeon, hidden in [[Lorahn'Kahl]].               |
 
+## Gameplay
 Ascendance is a heavily NBT-modified netherite sword.
 
 Ascendance is a greatsword, and provides a somewhat less committed approach to the tank-style build that [[Malevolentia]] allows. Ascendance gives the player only 50% knockback resistance instead of Malevolentia's full knockback resistance, grants the player 3 bonus hearts, and does not do as much damage. However, it also allows the player to be more mobile, with only a minor movement speed penalty, greater attack speed than its competitor, and a more aggressive special ability.

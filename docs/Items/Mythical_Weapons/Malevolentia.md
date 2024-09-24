@@ -16,8 +16,6 @@ The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber 
 
 <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | +10 Max Health (+5 Hearts) <br> 100% Knockback Resistance <br> -0.02 Movement Speed <br> 17 Attack Damage <br> 0.8 Attack Speed      |
@@ -26,6 +24,7 @@ The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber 
 | **Lore**                             | Mael cast aside his signature trident-sword after Virtuo's flight. Fueled only by grief and a powerful ennui, he abandoned his palace, perhaps residing with the Aspects on Lo'Dahr. While the Burnt Generals feel his return is an inevitability, they do not mind their increased status in his absence. |
 | **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second [[Burnt General]].    |
 
+## Gameplay
 Malevolentia is a heavily NBT-modified netherite sword, and behaves as such.
 
 Malevolentia is optimal for a heavy tank build in Drehmal, as it gives the player complete immunity to knockback, adds 5 extra hearts to a player's max health, and deals significant damage, but has a slow attack speed. By default, the weapon is enchanted with Fire Aspect IV, two levels above the normal enchantment cap of Fire Aspect II. Practically, this means that a successful blow landed with Malevolentia will set the target on fire for twice as long as a hit from a sword enchanted with Fire Aspect II would, dealing a total of 15 fire damage (7.5 hearts) over the course of 16 seconds, in addition to the damage from the blow itself.

@@ -16,8 +16,6 @@ A scythe wielded by a cryptic, hooded figure known as The Pawn, Oblivion is foun
 
 <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                        | +0.02 Movement Speed <br> 14 Attack Damage <br> 1.3 Attack Speed                                           |
@@ -26,6 +24,7 @@ A scythe wielded by a cryptic, hooded figure known as The Pawn, Oblivion is foun
 | **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
 | **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
 
+## Gameplay
 Oblivion is a heavily NBT-customized netherite sword.
 
 Oblivion encourages a somewhat faster playstyle, giving the player extra movement speed and holding higher than average attack speed with competitive damage output. The Sweeping Edge IX enchantment, 3 times higher than the normal vanilla limit of Sweeping Edge III, makes the weapon extremely strong against tight clusters of enemies. Practically, this translates to sweeping attacks dealing 90% of the attack's initial damage to other entities in range, meaning it can hit large groups of enemies for near-full damage at once.

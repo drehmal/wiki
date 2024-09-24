@@ -23,7 +23,6 @@ All versions of the Mythbreaker are actually a warped fungus on a stick, heavily
 ## Inert Mythbreaker
 The Inert Mythberaker is the first version of the Mythbreaker that the player can obtain. 
 
-### Gameplay
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | -4 Max Health (-2 Hearts) <br> -0.015 Movement Speed <br> 18 Attack Damage <br> 0.5 Attack Speed      |
@@ -31,6 +30,7 @@ The Inert Mythberaker is the first version of the Mythbreaker that the player ca
 | **Lore**                             | While perfect in form, it is clear that the weapon lacks something. A blade with such infinite potential should not go to waste. |
 | **Obtain**                           | Assembled by the player at the Av'Sal Repository through main story progression, with fragments found at Sal'Mevir and Exodus Vault.  |
 
+### Gameplay
 Inert Mythbreaker deals significant damage, but its movement speed/max health penalties and very slow attack speed, combined with its complete lack of a special ability, make it a rather unenticing choice for regular combat.
 
 ### How to Obtain
@@ -70,7 +70,6 @@ Avsohm's ultimate goal with the blade was to charge it using a massive source of
 
 The Charged Mythbreaker (simply named "Mythbreaker" in-game) is the upgraded version of the Mythbreaker, charged with the [[Primal Energy]] of the [[Numencore]].
 
-### Gameplay
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | -4 Max Health (-2 Hearts) <br> 150 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
@@ -78,6 +77,7 @@ The Charged Mythbreaker (simply named "Mythbreaker" in-game) is the upgraded ver
 | **Lore**                             | Seemingly infinite power arcs across this blade, burning your hands and quaking the ground beneath your feet. It seems as if reality itself wavers as the rawest form of existence seeps into the space around you. |
 | **Obtain**                           | Acquired by charging the Inert Mythbreaker at the [[Numencore]].  |
 
+### Gameplay
 The charged variant of the Mythbreaker is markedly more powerful than its inert counterpart, and ditches the pale yellow color for a bright, vibrant yellow. This specific version of the Mythbreaker can only be obtained temporarily, as part of the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker run]]. It has 100 durability, which gradually drains over time (losing 1 durability roughly every 4-5 seconds), reverting back to the Inert form if its durability reaches zero.
 
 ![[core_collapse_fp.gif]]{ width="600" } 
@@ -121,8 +121,6 @@ The empire fell before they had the chance to see their greatest weapon at its f
 
 The final version of the spear, named "The Mythbreaker" in-game and sometimes referred to within the community as the "True Mythbreaker," is the weapon's strongest known form.
 
-### Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                            | -4 Max Health (-2 Hearts) <br> 250 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
@@ -131,6 +129,7 @@ The final version of the spear, named "The Mythbreaker" in-game and sometimes re
 | **Lore**                             | In the endless cosmos beyond the veil, there exists the primordial battle between fundamental forces. Trillions of realms, held together by the hopeful defiance of entropy, ultimately nothing more than a balancing act in the face of inevitable, muted chaos. Those that fight to control it always forfeit their right to existence. |
 | **Obtain**                           | Progress to the [[Court of Nothing]] sequence in the end-game.  |
 
+### Gameplay
 The True Mythbreaker is functionally identical to the Charged Mythbreaker in terms of gameplay features, with two notable exceptions. First, the ability damage for Core Collapse is increased significantly, from 150 to 250. Second, the weapon is enchanted with Sharpness X (double the regular vanilla limit of Sharpness V), which gives it an extra 5.5 base damage.
 
 The True Mythbreaker does not disappear upon use of its Core Collapse ability anywhere.

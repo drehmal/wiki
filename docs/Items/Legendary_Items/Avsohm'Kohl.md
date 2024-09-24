@@ -20,7 +20,6 @@ The only variant of the Minecraft elytra found in the Drehmal map, Avsohm'Kohl i
 
 <br> <br> <br>
 
-## Gameplay
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Enchantments**              | Unbreaking IV |
@@ -28,6 +27,7 @@ The only variant of the Minecraft elytra found in the Drehmal map, Avsohm'Kohl i
 | **Lore**                      | A strange technological artifact gifted by avSYS, constructed by the brilliant scientists housed here thousands of years ago. Despite the cutting edge technology used in its construction, its weaknesses are hard to ignore, mainly being prone to combustion and an aversion to water-based magics. |
 | **Obtain**                    | At the top of the tallest domed building in [[Sal'Mevir]].  |  
 
+## Gameplay
 Avsohm'Kohl is similar to a vanilla elytra, being a pair of wings that are equipped in the Body armor slot and allow the player to glide or fly. However, Avsohm'Kohl gives the player the Slow Falling status effect while active, causing the player to glide much more slowly than a vanilla pair of wings would, unless substantial momentum is built up first. The wings are also incompatible with common methods used to make elytras faster, as the ability to do so could trivialize exploration of the continent. 
 
 Attempting to use firework rockets while gliding will give the message "Your glider catches fire...," failing to propel the player forward and lighting them on fire.

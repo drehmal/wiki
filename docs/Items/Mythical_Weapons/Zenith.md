@@ -14,8 +14,6 @@
 
 Located in the [[Foundry]], Zenith is a hybrid energy saber/laser gun, forged using the power of [[Primal Energy]] by the [[Avsohm|Empire of Avsohm]]. The weapon is obtained by clearing the entirety of the combat challenge in the Foundry's arena.
 
-## Gameplay
-
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats**                        | +4 Max Health (+2 Hearts) <br> 15-30 Ranged Damage <br> 10 Attack Damage <br> 1.8 Attack Speed  |
@@ -24,6 +22,7 @@ Located in the [[Foundry]], Zenith is a hybrid energy saber/laser gun, forged us
 | **Lore**                         | Avsohm fabricated this blade of incredible strength using the power of Primal Energy, a mysterious substance from beyond this world. It is said that all matter and energy is derived from it. Distilling such a material into its rawest form for use in combat is exactly the reason why Avsohm was dealt such a harrowing fate. |
 | **Obtain**                       | Clear all 6 waves of the Arena at the [[Foundry]].               |
 
+## Gameplay
 Like some other Drehmal items with unique mechanics, Zenith is actually a warped fungus on a stick, heavily modified using NBT tags. 
 
 ![[ontology_fp.gif]]{ width="600" } 

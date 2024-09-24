@@ -13,8 +13,6 @@ The **Crystal Digging Claws** are one of 30 Legendary Items obtainable in Drehma
 The Crystal Digging Claws are a legendary weapon and tool, which serve most prominently as a legendary shovel variant.
 
 <br> <br> <br> <br>
-
-## Gameplay
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> +0.01 Movement Speed <br> 2 Attack Damage <br> 4.5 Attack Speed            |
@@ -23,6 +21,7 @@ The Crystal Digging Claws are a legendary weapon and tool, which serve most prom
 | **Lore**                      | Though very few have made their home on the isolated Islands of Dusk and Dawn, they are the sole producer of mendarum crystals, which are second in potentia only to rehntite among all minerals. This claw was designed by Insohmic artificers to efficiently dig around crystals for easier extraction. |
 | **Obtain**                    | Found in a large mine on the eastern side of the [[Island of Dusk]].   |
 
+## Gameplay
 The Claws are an NBT-modified diamond shovel, and inherit the base-level stats of that item, including durability and block breaking affinities.
 
 The claws are enchanted with Efficiency VIII, making them able to effectively insta-mine almost all dirt/sand/gravel-type blocks. Their special ability, Runic Magnet, increases the player's pickup radius to approximately 8 blocks (from around 1 at baseline).

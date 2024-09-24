@@ -19,8 +19,6 @@ Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Cala
 <br>
 <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Stats**                        | -4 Max Health (-2 Hearts) <br> +0.07 Movement Speed <br> 24 Ability Damage <br> 9 Attack Damage <br> 2.2 Attack Speed        |
@@ -28,6 +26,7 @@ Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Cala
 | **Lore Text**                    | No mortal has ever come close to slaying a Skullbeast, yet so many throughout the years have developed a fascination with their power. Though Ossein carved numerous armaments from the bones of Skullbeasts, he carried a special affection for the claw of his beloved Femura. |
 | **Obtain**                       | Defeat [[Ossein]] at the epicenter of Mael's Desolation in the [[South Heartwood]].  |
 
+## Gameplay
 Calamity functions like a sword (technically being a netherite sword) with significant stat boosts. Its base-level attack damage is relatively weak compared to the other mythical weapons, but it can make up for this defect with its high attack speed and excellent movement speed buff. Out of any one item in Drehmal, Calamity boasts the single largest movement speed buff that the player can receive, at +0.07 speed (a 70% increase from the baseline speed of 0.1.) This makes it incredibly useful not only for strafing, evasion, and quickly closing distance in combat, but also for traversal.
 
 ![[true_catastrophe_fp.gif]]{ width="600" } 

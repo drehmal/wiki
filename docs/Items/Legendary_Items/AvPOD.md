@@ -14,14 +14,13 @@ The AvPOD (short for Avsohmic Playback Organizer Device) is a legendary item tha
 
 <br> <br> <br>
 
-## Gameplay
-
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Ability**                   | **Music Player**: "*Records music as you explore. Right-click to see and play the many songs of Drehmal.*"
 | **Lore**                      | Under Avsohmic rule, leisure was a privilege afforded only to the wealthy and powerful. This strange artifact passed its way through many opulent hands before ending up in yours. |
 | **Obtain**                    | Located at the Lord Magister's Residence, atop the arch overlooking [[Tharxax City]].   |
 
+## Gameplay
 The AvPOD functions only for the player that is holding it, with its menu being contained to the in-game chat. The menu contains 4 main options:
 
 - **Browse Soundtracks**: Browses through all songs you have discovered. Click this option to see all your unlocked songs, and click any one of them to play it. <br>

@@ -12,7 +12,7 @@
 
 The scepter is a legendary weapon, notable primarily for its damage, max health boost, and ability, which gives its wielder a strength boost when on low health. It is found in [[Anyr'Nogur]].
 
-<br> <br> <br>
+<br> <br> <br> <br> <br>
 
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

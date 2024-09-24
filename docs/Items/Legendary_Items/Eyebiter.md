@@ -12,7 +12,7 @@
 
 Eyebiter is the only legendary shield found in Drehmal. It is located in [[The Carmine]], at [[Maelihs]]'s devotion site, the [[Sepulchral Altar]].
 
-<br> <br> <br>
+<br> <br> <br> <br> <br>
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

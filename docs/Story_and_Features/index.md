@@ -4,7 +4,7 @@
 
 The map of Drehmal fundamentally revolves around its story, and the special mechanics that it adds to the game of Minecraft. Articles relating to the main story of Drehmal: Apotheosis and the unique features tied to the map are found in this section of the wiki.
 
-## Main Story
+## [[Main Story]]
 
 The main story of Drehmal takes place in many different locations, linked directly to exploration. Story progression is tied to [[Terminus Network|Terminus network]] linkage in the early game, with milestones at 25%, 50%, and 75% linkage prompting the player to visit different story areas. Towers can be linked in almost any order, and while the story events are intended to be experienced in a particular sequence, you may explore the map at your own pace and with your own unique path.
 

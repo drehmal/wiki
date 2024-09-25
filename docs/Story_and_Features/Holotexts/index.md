@@ -16,7 +16,7 @@ In-game, holotexts can be recognized by the presence of a lime-colored concrete 
 
 ## Progression
 
-Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the 25%, 50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synchronized:
+Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the [25%](/Story_and_Features/Story_Locations/75%50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synchronized:
 
 ![[holotext_corrupted.png]]
 > Corrupted holotext file, indicating player needs to progress further or find the reconnection node in the area.

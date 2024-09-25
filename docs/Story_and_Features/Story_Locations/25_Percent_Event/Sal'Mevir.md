@@ -6,11 +6,11 @@
 
 ![[Salmevir.webp]]{ align=right width="300" }
 
-**Sal'Mevir**, also referred to as the **Ancillary Research Facility**, is the location of the 25% completion event in Drehmal: Apotheosis. Situated in the southeast of the [[Purity Peaks]] region along the mountains, it can be located by following the compass given to the player by [[avSYS]] upon reaching 25% linkage. It can be found before the 25% mark, but its holotext database will not be legible until this benchmark is reached.
+**Sal'Mevir**, also referred to as the **Ancillary Research Facility**, is the location of the 25% completion event in Drehmal: Apotheosis. Situated along the mountains in the southeast of the [[Purity Peaks]] region, it can be located by following the compass given to the player by [[avSYS]] upon reaching 25% linkage. It can be found before the 25% mark, but its holotext database will not be legible until this benchmark is reached.
 
-The site itself was once a location for Avsohmic research into temporal stasis that housed multiple pertinent historical figures, but like the rest of Avsohm, the structure has largely fallen to ruin. 
+The site itself was once a location for [[Avsohm|Avsohmic]] research into temporal stasis, housing multiple pertinent [historical figures](/Lore/Historical_Figures/Avsohm/), but like the rest of Avsohm, the structure has largely fallen to ruin. 
 
-The location is home to several pieces of writing that serve to further the player's understanding of the story, a puzzle mechanic unique to the location, a legendary item, and a fragment of the [[Mythbreaker]].
+The location is home to several pieces of writing that serve to further the player's understanding of the story, a puzzle mechanic unique to the location, a [legendary item](/Items/Legendary_Items/), and a fragment of the [[Mythbreaker]].
 
 ??? abstract "Coordinates"
     | **X** | **Y** | **Z** |
@@ -20,11 +20,11 @@ The location is home to several pieces of writing that serve to further the play
     These coordinates correspond to the very first small tower in Sal'Mevir, at ground level.
 
 ## Story 
-Upon reaching 25% network linkage (8 towers), the player will be prompted by [[avSYS]] to enter the Terminus' compass dispensary, where they will be given a lodestone compass that points towards Sal'Mevir. 
+Upon reaching 25% network linkage (8 towers), the player will be prompted by [[avSYS]] to enter the [[Terminus Network|Terminus's]] compass dispensary, where they will be given a lodestone compass that points towards Sal'Mevir. 
 
 At the facility, the player must navigate through the broken ruins of the facility, with the option to read holotexts to further their understanding of the world's history, as well as solve the main puzzle of the facility (see below section). 
 
-Sal'Mevir contains some of the earliest mentions of the [[Primary Energy Collection Facility]], hinting at a highly pertinent location later in the story, as well as offering a deeper look into some of Avsohm's most useful inventions, such as the survey drones they used to discover [[Mt. Yavhlix]].
+Sal'Mevir contains some of the earliest mentions of the [[Primary Energy Collection Facility]], hinting at a highly pertinent location later in the story, as well as offering a deeper look into some of Avsohm's most useful inventions, such as the survey drones they used to discover the source of [[Primal Energy|primal energy]] inside [[Mt. Yavhlix]].
 
 The facility is also home to a large, hourglass-like strucutre known as the **Temporal Engine**, which appears to have some degree of control over time itself.
 

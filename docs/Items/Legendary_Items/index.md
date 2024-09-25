@@ -175,7 +175,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
     | **Enchantments**              | Smite II <br> Unbreaking II |
     | **Ability**                   | **Cleaving Maelstrom**: "*After every third fully-charged strike, perform a circular chain slash that stuns undead and launches enemies. Especially effective against skeletal enemies.*" |
     | **Lore**                      | During the Dune Wars, Mael's Skullbeasts were a terrifying threat that could level a city in minutes. This chain-whip excretes a red bone-melting alchemical substance designed specifically to counter one. Regrettably, its inventor never got a chance to test it. |
-    | **Obtain**                    | In a hidden room behind a wall in [[Fort Nimahj]].   |                                                                                                             |
+    | **Obtain**                    | In a hidden room behind a wall in [[Fort Nimahj]].   |
 
 ### Parenchyma
 [[Parenchyma]] is a legendary chestplate, found in [[Merijool]]. It allows the wearer to regenerate health on successful kills.

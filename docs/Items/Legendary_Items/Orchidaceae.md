@@ -29,7 +29,7 @@ Orchidaceae is an NBT-modified diamond sword, and inherits the base durability o
 
 The weapon is relatively mediocre in terms of its base stats, but its strength lies in its Looting enchantment and special ability. Together, these effects make Orchidaceae extract the highest amount of loot and experience points from mobs of any weapon in the game, making it optimal if you decide to build a mob farm in Drehmal.
 
-Orchidaceae's special ability is passive, and applies to all mobs that the player kills which have an item drop or who drop XP. It increases XP drops by a factor of approximately 40%.
+Orchidaceae's special ability is passive, and applies to all mobs that the player kills which have an item drop or who drop XP. It gives a flat increase to XP drops.
 
 ## How to Obtain
 Orchidaceae is located in the crypts beneath [[Ancehl Castle]], in northwestern [[Akhlo'Rohma]].

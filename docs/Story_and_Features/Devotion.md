@@ -59,7 +59,7 @@ Great Gain Message:
     | **Value**      | **Item(s)**                                  |
     |:--------------:|---------------------------------------------:|
     | Slight         | Dried Kelp <br>Melon <br>Orderflame Lantern |
-    | Medium         | Cake <br>Axolotl Bucket               |
+    | Medium         | Orderflame Campfire <br>Glistering Melon Slice               |
     | Great          | Diamond <br>Music Disc (Far)          |
 
 ### Maelihs Offerings

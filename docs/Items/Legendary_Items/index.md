@@ -126,7 +126,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
     | **Stats (Main Hand)**         | +16 Max Health (+8 Max Health) <br> 100% Knockback Resistance <br> -0.03 Movement Speed <br> 20 Attack Damage <br> 0.45 Attack Speed         |
     | **Enchantments**              | Unbreaking IV |
     | **Ability**                   | **Unrelenting Shatter**: "*Shatters enemy armor, knockback resistance, and increases all damage on fully charged critical strikes.*" |
-    | **Lore**                      | Hovadchear Myrik, one of the founders of the Order of Insohm, was a master architect. Towards the end of his life he valued transparency above all else, which did not coincide with the Insohmnic Council's motives. |
+    | **Lore**                      | Hovadchear Myrik, one of the founders of the Order of Insohm, was a master architect. Towards the end of his life he valued transparency above all else, which did not coincide with the Insohmic Council's motives. |
     | **Obtain**                    | In a small building at the crater of [[Castle Hovadchear]], in the far southwest of the [[Spearhead Forest]] region.   |
 
 ### Masayoshi

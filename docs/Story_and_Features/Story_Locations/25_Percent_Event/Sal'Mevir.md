@@ -26,27 +26,27 @@ At the facility, the player must navigate through the broken ruins of the facili
 
 Sal'Mevir contains some of the earliest mentions of the [[Primary Energy Collection Facility]], hinting at a highly pertinent location later in the story, as well as offering a deeper look into some of Avsohm's most useful inventions, such as the survey drones they used to discover the source of [[Primal Energy|primal energy]] inside [[Mt. Yavhlix]].
 
-The facility is also home to a large, hourglass-like strucutre known as the **Temporal Engine**, which appears to have some degree of control over time itself.
+The facility is also home to a large, hourglass-like structure known as the "**Temporal Engine**", which appears to have some degree of control over time itself.
 
 After solving the location's main puzzle and gaining access to the large, domed building at the top of the site, the player recovers the left half of the [[Mythbreaker]], as well as the [[Avsohm'Kohl]] legendary wings.
 
 ## Gameplay
 Sal'Mevir relies, perhaps more than any other Avsohmic facility, on levitation/slow-falling elevators, with the facility essentially being a large series of towers interconnected by bridges. Several of these bridges are broken and fragmented, but in the theme of the facility, they are frozen in time, allowing the player to traverse Sal'Mevir by freely jumping across them.
 
-Multiple custom types of enemies can be found at Sal'Mevir. Nameless humanoid guards wearing iron armor are commonplace in the facility, and they can drop iron armor or their heads on death. Re-skinned baby zombies named "Entropic Sycophants" come from a few scattered spawners, and can drop primal pearls on death.
+Multiple custom types of enemies can be found at Sal'Mevir. Nameless humanoid guards called wearing iron armor are commonplace in the facility, and they can drop iron armor or their heads on death. Re-skinned baby zombies named "Entropic Sycophants" come from a few scattered spawners, and can drop primal pearls on death.
 
 The facility's main puzzle revolves around the large domed building at the top of the facility, which appears to contain something important but is inaccessible to the player. Part of the dome appears eroded, but is blocked off by condensed veilstone (bedrock). [[salmevir_pearl.md|One holotext in particular]] provides a significant hint towards the solution to this puzzle.
 
 ??? warning "Puzzle Hint"
-    This holotext references primal pearls (ender pearls), and wonders what might happen if someone threw one into the Temporal Engine. If the player throws a pearl into the center of the engine, they will be transported into an alternate version of Sal'Mevir, where the structure seems to have broken down even further. A ticking timer can be heard in the background, indicating to the player that they only have a certain amount of time to solve the puzzle, and at the end of the timer, the player will be transported back to the original version of Sal'Mevir.
+    This holotext references primal pearls (ender pearls), and wonders what might happen if someone threw one into the Temporal Engine. If the player throws a pearl into the center of the engine, they will be set to Adventure Mode and transported into a version of Sal'Mevir in the distant future (different in-game dimension), where the structure seems to have broken down even further. A ticking timer can be heard in the background, indicating to the player that they only have a certain amount of time to solve the puzzle, and at the end of the timer, the player will be transported to their exact position back in the original version of Sal'Mevir.
 
 ![[salmevir_temporal_engine.png]]
 > Sal'Mevir in the daytime, including the temporal engine (center-right).
 
 ??? warning "Puzzle Solution"
-    While in the alternate Sal'Mevir, the exposed bedrock on the large domed building is no longer present. The player must navigate up to this building within the allotted time, and be inside the building when the timer expires, transporting them into the building in the regular version of Sal'Mevir.
+    While in the alternate Sal'Mevir, the exposed bedrock on the large domed building is no longer present, leaving a large, gaping hole in the building's wall. The player must navigate up to this building within the allotted time, and be inside the building when the timer expires, transporting them into the building in the regular version of Sal'Mevir.
 
-After gaining entry to the large building, the player will gain the "Timelord" advancement. A lever near the door will open the bedrock seal, and the Mythbreaker fragment can be acquired from the nearby platform. Up two sets of stairs, the player can read about and obtain (behind a glass pane) the [[Avsohm'Kohl]] legendary item.
+After gaining entry to the large building, the player will gain the "Timelord" [[Advancements|advancement]]. A lever near the door will open the bedrock seal, and the Mythbreaker fragment can be acquired from the nearby platform in the center of the building. Up two sets of stairs, the player can read about and obtain (behind a glass pane) the Avsohm'Kohl legendary item.
 
 ## Original Writing
 Sal'Mevir is home to [7 holotexts](/Story_and_Features/Holotexts/25_Percent_Area/).

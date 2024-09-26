@@ -360,7 +360,7 @@ The following 6 legendaries are located in a late-game area tied to the 75% comp
     | **Obtain**                    | At the end of the [[Augural Tangle]].   |    
 
 ### Eldermead
-[[Eldermead]] is a legendary item found in [[Vayniklah's Domain]]. It is a gift from the Life Aspect [[Vayniklah]], and effectively serves as an enchanted golden apple with 4 uses.
+[[Eldermead]] is a legendary item found in [[Vayniklah's Domain]]. It is a gift from the Life Aspect [[Vayniklah]], and effectively serves as an enchanted golden apple with 3 uses.
 
 ??? warning "Eldermead Details"
     | ![[eldermead_full.png]]{ width="48" } | Eldermead                         |

@@ -248,19 +248,7 @@ The [[Rehntite Plate Mail]] is a legendary chestplate found in a deep, lost cave
     | **Enchantments**              | Projectile Protection II <br> Unbreaking II |
     | **Ability**                   | **Eyes Unclouded**: "*Wearing this helmet allows the wielder to detect enemies through walls.*" |
     | **Lore**                      | Poa received a vision in crystal of a purple orb called "Lo'Veruhkt" that spun rightward and occasionally gleamed with specks of golden light. Her ancestors developed the Lens of Insight to peer through the plane and locate it. Similar technology allows this helm's wearer limited perception beyond solids. |
-    | **Obtain**                    | At the [[Altar of Insight]] in [[Veruhkt Plateau]].   |    
-
-### Voidtear Dagger
-The [[Voidtear Dagger]] is a legendary weapon found in [[Nimahj Swamp]]. It grants the user invisibility while held.
-
-??? warning "Voidtear Dagger Details"
-    | ![[voidtear.png]]{ width="48" } | Voidtear Dagger                         |
-    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Stats (Main Hand)**         | +0.015 Movement Speed <br> 5 Attack Damage <br> 2.3 Attack Speed         |
-    | **Enchantments**              | N/A |
-    | **Ability**                   | **Null Cloak**: "*Holding this weapon grants the wearer invisibility and makes nearby mobs much less aggressive.*" |
-    | **Lore**                      | Blue Exodus was so adept at hiding secrets, no one knew they employed an order of assassins until Insohmic archaeologists discovered one of these ingenious runic daggers nearly a millennium after every member had died. |
-    | **Obtain**                    | In the [[Exodus Citadel]].   |    
+    | **Obtain**                    | At the [[Altar of Insight]] in [[Veruhkt Plateau]].   |   
 
 ### Ultva's Bowblade
 [[Ultva's Bowblade]] is a combination ranged/melee weapon found in the [[Casai]] region. Formerly belonging to [[Ultva|Master Ultva]] of [[Insohm]], the weapon works best when used both for melee kills and at a distance.
@@ -273,6 +261,18 @@ The [[Voidtear Dagger]] is a legendary weapon found in [[Nimahj Swamp]]. It gran
     | **Ability**                   | **Reversal**: "*On a melee kill, grants increased arrow damage and unlimited piercing for a short time.*" |
     | **Lore**                      | When faced with retaliation from Maelihs, the Order of Insohm began a research campaign into the powerful energy source that was utilized by the ancient Avsohmic Empire to fuel magic weaponry. Ultva Utofal, one of Insohm's founders, went insane in one of Avsohm's vaults searching for answers. |
     | **Obtain**                    | In the [[Last Avsohmic Vault]], off the western coast of [[Casai]].   |    
+
+### Voidtear Dagger
+The [[Voidtear Dagger]] is a legendary weapon found in [[Nimahj Swamp]]. It grants the user invisibility while held.
+
+??? warning "Voidtear Dagger Details"
+    | ![[voidtear.png]]{ width="48" } | Voidtear Dagger                         |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats (Main Hand)**         | +0.015 Movement Speed <br> 5 Attack Damage <br> 2.3 Attack Speed         |
+    | **Enchantments**              | N/A |
+    | **Ability**                   | **Null Cloak**: "*Holding this weapon grants the wearer invisibility and makes nearby mobs much less aggressive.*" |
+    | **Lore**                      | Blue Exodus was so adept at hiding secrets, no one knew they employed an order of assassins until Insohmic archaeologists discovered one of these ingenious runic daggers nearly a millennium after every member had died. |
+    | **Obtain**                    | In the [[Exodus Citadel]].   |    
 
 ### Whispersong
 [[Whispersong]] is a legendary bow found in the [[Merijool]]/[[Gulf of Drehmal]] area. It grants its user invisibility, as well as a very strong shot.

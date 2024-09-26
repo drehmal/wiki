@@ -34,9 +34,14 @@ The weapon's ability, Reversal, is activated when the bow is used for a melee ki
 ## How to Obtain
 Ultva's Bowblade is located in the [[Casai]] region, in the vault where Ultva himself went insane.
 
-This vault, the [[Last Avsohmic Vault]], is located on a small island off the western coast of Casai. Once on the island, the vault's door can simply be broken down, and there is only one custom enemy—a Lost Avsohmic Soldier—present in the vault. The bowblade is found in a trapped chest at the back of this vault.
+This vault, the [[Last Avsohmic Vault]], is located on a small island off the western coast of Casai. Once on the island, the vault's door can simply be broken down, and there is only one custom enemy (a Lost Avsohmic Soldier) present in the vault. The bowblade is found in a trapped chest at the back of this vault.
 
 **Coordinates:** (-3696, 76, -1199)
 
 ## Lore
 Ultva's Bowblade was the weapon of choice for its namesake, [[Ultva|Ultva Utofal]]. Ultva, one of the co-founders of the [[Insohm|Order of Insohm]], went mad inside of the very vault where this item is found, attempting to rediscover the lost secrets of [[Avsohm]] and coming tantalizingly close before losing his mind.
+
+## Extras
+
+![[bowblade_draw.gif]]{ width="320" }
+> The drawing animation of Ultva's Bowblade.

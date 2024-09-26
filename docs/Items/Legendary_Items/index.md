@@ -53,7 +53,7 @@ The [[Crystal Digging Claws]] are a legendary tool/weapon located on the [[Islan
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Main Hand)**         | +6 Max Health (+3 Hearts) <br> 11 Attack Damage <br> 1.3 Attack Speed            |
     | **Enchantments**              | Unbreaking X |
-    | **Ability**                   | **Final Tenacity**: "*The wielder gains Strength II when below 20% health.*" |
+    | **Ability**                   | **Final Tenacity**: "*The wielder enters a death-like state upon reaching 20% HP and gains increased stats for 5 seconds and will revive at 40% HP if an enemy is killed within that timeframe, otherwise they will die. This ability refreshes upon reaching full HP.*"  |
     | **Lore**                      | Before Anyr was Emperor, he was a successful military general. Thus, even apparently ceremonial items he carried contained powerful means of self-defense. Like his elaborate mausoleum, however, this scepter was discarded when it was no longer needed. |
     | **Obtain**                    | Located deep within the large pyramid at [[Sal'Anyr]].   |
 

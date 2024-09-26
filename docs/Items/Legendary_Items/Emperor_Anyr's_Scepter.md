@@ -20,14 +20,14 @@ The scepter is a legendary weapon, notable primarily for its damage, max health 
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats (Main Hand)**         | +6 Max Health (+3 Hearts) <br> 11 Attack Damage <br> 1.3 Attack Speed            |
 | **Enchantments**              | Unbreaking X |
-| **Ability**                   | **Final Tenacity**: "*The wielder gains Strength II when below 20% health.*" |
+| **Ability**                   | **Final Tenacity**: "*The wielder enters a death-like state upon reaching 20% HP and gains increased stats for 5 seconds and will revive at 40% HP if an enemy is killed within that timeframe, otherwise they will die. This ability refreshes upon reaching full HP.*" |
 | **Lore**                      | Before Anyr was Emperor, he was a successful military general. Thus, even apparently ceremonial items he carried contained powerful means of self-defense. Like his elaborate mausoleum, however, this scepter was discarded when it was no longer needed. |
 | **Obtain**                    | Located deep within the large pyramid at [[Sal'Anyr]].   |
 
 ## Gameplay
 Anyr's Scepter is an NBT-modified golden sword, and inherits that item's very low durability, although its Unbreaking X enchantment makes the weapon still viable for regular combat use. 
 
-In combat, the scepter's ability activates when the player drops below 20% max health. This is denoted by swirling yellow and red particles around the player, indicating that they have a Strength II effect active.
+In combat, the scepter's ability activates when the player drops below 20% max health. The player is given a pulsating "Entropic Decay" effect, indicated by swirling yellow and magenta particles around them. The effect, which is given in addition to Speed I, Resistance V, and Strength I, lasts for 5 seconds. If the player gets a kill during this time, they are returned to 40% HP and the effects are removed, but if no enemy is killed during this time, the player dies instantly.
 
 ## How to Obtain
 Emperor Anyr's Scepter is found in the pyramid which served as his family mausoleum, in the west of [[Sal'Anyr]], the large mesa-top city in [[Anyr'Nogur]].

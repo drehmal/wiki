@@ -61,4 +61,5 @@ The Warp Horse prototypes were developed by Naskiki, a [[Blue Exodus]] staffer a
 ![[warphorse_armor.png]]{ align=left }
 
 The Warp Horse armor does have a custom texture (shown here) in the Drehmal resource pack, but it is not implemented into the game itself.
+<br> <br> <br>
 

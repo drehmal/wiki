@@ -254,7 +254,7 @@ The [[Rehntite Plate Mail]] is a legendary chestplate found in a deep, lost cave
 [[Ultva's Bowblade]] is a combination ranged/melee weapon found in the [[Casai]] region. Formerly belonging to [[Ultva|Master Ultva]] of [[Insohm]], the weapon works best when used both for melee kills and at a distance.
 
 ??? warning "Ultva's Bowblade Details"
-    | ![[bowblade.png]]{ width="48" } | Ultva's Bowblade                         |
+    | ![[ultva_bowblade.png]]{ width="48" } | Ultva's Bowblade                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Main Hand)**         | +0.02 Movement Speed <br> 7 Attack Damage <br> 1.6 Attack Speed         |
     | **Enchantments**              | Sharpness II <br> Unbreaking IV |

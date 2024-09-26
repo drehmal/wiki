@@ -8,7 +8,7 @@
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-![[bowblade.png]]{ align=left width="300"}
+![[ultva_bowblade.png]]{ align=left width="300"}
 
 **Ultva's Bowblade** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 

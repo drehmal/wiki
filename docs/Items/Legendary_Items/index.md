@@ -1,13 +1,5 @@
 # Legendary Items
 
---8<-- "spoiler.md"
-
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons and items for yourself, then you should not continue reading this article."
-
-!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
-
 **Legendary Items** are rare, powerful items that can be found throughout the map, typically in locations that are pertinent to the history of the world, heavily guarded, difficult to reach, or some combination thereof. Legendary items are one tier below [Mythical Weapons](Items/Mythical_Weapons/), but are significantly stronger than any vanilla gear and the vast majority of [[Artisan Items|artisan items]] or [[artifacts]]. 
 
 Legendary items have their own item descriptions, sprites, stat modifiers and unique special abilities. Most legendaries can take normal durability damage, but they can also be repaired or re-crafted.
@@ -15,6 +7,14 @@ Legendary items have their own item descriptions, sprites, stat modifiers and un
 Similar to [Mythical Weapons](/Items/Mythical_Weapons/), Legendaries can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. 
 
 In this article, Legendaries are separated by spoiler level, as some of them are tied closely to certain points in the story of Drehmal. The 21 legendaries obtainable in the open world are listed first, followed by the two legendaries in early-game story locations, followed by the remaining 6 legendaries found in a late-game area, discovered after the 75% completion event.
+
+--8<-- "spoiler.md"
+
+!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
+
+!!! warning "If you wish to discover gameplay elements such as unique weapons and items for yourself, then you should not continue reading this article."
+
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 !!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
     Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.

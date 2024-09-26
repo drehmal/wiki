@@ -25,7 +25,7 @@ Primarily functioning as a pickaxe which can mine multiple blocks at a time, the
 | **Obtain**                    | Located in a deep mineshaft at [[Mt. Ebonfire]].   |
 
 ## Gameplay
-Flammer is an NBT-modified wooden pickaxe. This means that it inherits some of the base traits of a wooden pickaxe, such as its very low durability and the set of blocks that it can succesfully break.
+Flammer is an NBT-modified wooden pickaxe. This means that it inherits some of the base traits of a wooden pickaxe, such as its very low durability and the set of blocks that it can successfully break.
 
 Flammer has some utility as a weapon, dealing 8 attack damage with 1.2 attack speed, not far off from some of the weaker dedicated legendary weapons. Its Fire Aspect I and Knockback I enchantments, which would not normally be supported by a pickaxe, add to its use as a weapon.
 

@@ -2,9 +2,12 @@
 
 The 8 **Mythical Weapons** are the strongest weapons in the game, obtained only in major dungeons, through unique questlines, or by progressing through the main story. 
 
-Mythical weapons have their own unique 3D models, descriptons, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic. Some are enchanted by default, and most can have additional enchantments added as if they were a normal sword. Mythical weapons also carry significant lore implications, quite literally being mythical pieces of the world's history.
+Mythical weapons have their own unique 3D models, descriptions, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic. Some are enchanted by default, and most can have additional enchantments added as if they were a normal sword. Mythical weapons also carry significant lore implications, quite literally being mythical pieces of the world's history.
 
 Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
+
+!!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
+    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.
 
 --8<-- "spoiler.md"
 

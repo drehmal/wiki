@@ -21,7 +21,7 @@ Re-creating the spear and learning how to use it is a core aspect of Drehmal's [
 All versions of the Mythbreaker are actually a warped fungus on a stick, heavily modified through NBT commands.
 
 ## Inert Mythbreaker
-The Inert Mythberaker is the first version of the Mythbreaker that the player can obtain. 
+The Inert Mythbreaker is the first version of the Mythbreaker that the player can obtain. 
 
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

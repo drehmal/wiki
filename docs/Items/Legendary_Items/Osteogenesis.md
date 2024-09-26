@@ -34,7 +34,7 @@ The weapon's special ability, Cleaving Maelstrom, unleashes a large AoE attack t
 ## How to Obtain
 Osteogenesis is found in a somewhat hidden room in [[Fort Nimahj]].
 
-On the town's lower level (next to a building with bunk beds and the Runic Blacksmith), there is a spruce door which seemingly leads directly into the wall. Through this door, a staircase leads down to a room with a chest containing the [[Ancient Diary]] book, as well as a wall with a centered chiseled stone bricks block. Diggging through this wall reveals a hallway and a spiral staircase, which takes the player to a small bone block structure resembling a skull. Inside of this skull is a trapped chest holding Osteogenesis.
+On the town's lower level (next to a building with bunk beds and the Runic Blacksmith), there is a spruce door which seemingly leads directly into the wall. Through this door, a staircase leads down to a room with a chest containing the [[Ancient Diary]] book, as well as a wall with a centered chiseled stone bricks block. Digging through this wall reveals a hallway and a spiral staircase, which takes the player to a small bone block structure resembling a skull. Inside of this skull is a trapped chest holding Osteogenesis.
 
 **Coordinates:** (-1744, 118, 1882)
 

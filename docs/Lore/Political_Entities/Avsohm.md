@@ -20,7 +20,7 @@ search:
 ![[Empire_of_Avsohm_Banner.webp]]
 > Banner of the Empire of Avsohm
 
-The **Empire of Avsohm**, also known as the **Avsohmic Empire** or simply **Avsohm**, was a powerful empire spanning most of the continent in the late Second Avihm. Avsohm's discovery of plentiful sources of both rehnite, a powerful material fit for runic inscription, and primal energy spurred rapid technological growth that allowed the empire to expand its domain and achieve unprecedented levels of power. 
+The **Empire of Avsohm**, also known as the **Avsohmic Empire** or simply **Avsohm**, was a powerful empire spanning most of the continent in the late Second Avihm. Avsohm's discovery of plentiful sources of both rehnite, a powerful material fit for [[Arcanism|runic inscription]], and [[Primal Energy|primal energy]] spurred rapid technological growth that allowed the empire to expand its domain and achieve unprecedented levels of power. 
 
 The empire collapsed due to a [[Fall of Avsohm|catastrophe]] caused by supernatural forces, marking the turning point between the Second and Third Avihm. Even in the modern day, the Empire of Avsohm is considered to have been the most advanced and impactful society in the realm's history. 
 

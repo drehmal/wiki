@@ -45,35 +45,35 @@ These fragments have different custom models, but share the same lore text:
 ![[frenzy_fragments.png]]
 > The five fragments of Frenzy as they appear in-game, alphabetically from left to right.
 
-### Fragment of Fury
+### Fragment of Fury ![[fragment_of_fury.gif]]{ width="48" }
 The Fragment of Fury takes the form of a flaming stone. It is the only fragment not found on the main island of Sahd. It is a re-skinned piece of black dye.
 
 ??? warning "Fragment Location"
     Off the eastern coast of the island, multiple smaller islands can be found. The largest of these, which boasts a large pink hill, is home to a dock and a small tower, inhabited by [[Mihkmari]]. In the room at the top of this tower is a chest with the fragment. <br>
     **Coordinates:** (5493, 93, 5834)
 
-### Fragment of Hate
+### Fragment of Hate ![[fragment_of_hate.gif]]{ width="48" }
 The Fragment of Hate takes the form of a sharp metal fragment, in a shape reminiscent of a shark tooth, perpetually dripping blood. It is found within the region's main town, [[New Sahd]]. It is a reskinned iron nugget.
 
 ??? warning "Fragment Location"
     The Fragment of Hate is found in a building at the docks of New Sahd. It is located within a chest on its top floor. <br>
     **Coordinates:** (4709, 81, 5827)
 
-### Fragment of Pain
+### Fragment of Pain ![[fragment_of_pain.gif]]{ width="48" }
 The Fragment of Pain takes the form of a yellow-orange object with jagged borders, emitting particles. It is found within the [[Emperor's Estate]]. It is a re-skinned piece of blaze powder.
 
 ??? warning "Fragment Location"
     The fragment is found in a chest at the very top room of the Estate, navigated to by climbing up the chandelier in the center of the main hallway. <br>
     **Coordinates:** (5104, 177, 6323)
 
-### Fragment of Rage
+### Fragment of Rage ![[fragment_of_rage.gif]]{ width="48" }
 The Fragment of Rage takes the form of a golden tear with a pulsating glow. It is found northwest of New Sahd, in the mountains. The item is a re-skinned gold nugget. 
 
 ??? warning "Fragment Location"
     The Fragment of Rage is found in a chest within a small shrine to [[Moen]], Aspect of Pleasure, atop a mountain in northwestern Sahd. <br>
     **Coordinates:** (4589, 220, 5418)
 
-### Fragment of Wrath
+### Fragment of Wrath ![[fragment_of_wrath.gif]]{ width="48" }
 The Fragment of Wrath takes the form of a dark sheet with a ghostly face emblazoned upon it. It is found in the south of the swamp/marsh biome that makes up the southwestern portion of the island, and is tied to a riddle. It is a re-skinned nether brick.
 
 The riddle reads: <br>

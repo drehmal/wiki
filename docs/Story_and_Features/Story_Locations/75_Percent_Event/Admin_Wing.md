@@ -67,7 +67,7 @@ The admin wing also contains two original lore books. <br>
 - [[Thought-recording_of_Ekari,_Number_8710.md|Thought-recording of Ekari, Number 8710]] is a journal of [[Ekari]], seemingly written as they were designing the architecture for the facility at [[Sal'Mevir]].
 
 ## Lore
-The Admin Wing, while not constituting a large amount of time spent in the map, does appear to have been an important location for Avsohm. Only high-ranking officers were granted access, and several important figures appear to have spent time here, including [[Thresa Vera]], [[Zevve Kai]], [[Ekari]], [[Ahdul]], [[Achet]], and judging by the presence of a throne in the upper room, possibly the sitting emperors of Avsohm.
+The admin winf, while not constituting a large amount of time spent in the map, does appear to have been an important location for Avsohm. Only high-ranking officers were granted access, and several important figures appear to have spent time here, including [[Thresa Vera]], [[Zevve Kai]], Ekari, Ahdul, Achet, and judging by the presence of a throne in the upper room, possibly the sitting [emperors](/Lore/Historical_Figures/Avsohm/Emperors/) of Avsohm.
 
 ![[admin_upper_room.png]]
-> The upper room of the Admin Wing.
+> The upper room of the admin wing.

@@ -29,7 +29,7 @@ Masayoshi is an NBT-modified iron sword, inheriting the durability of a vanilla 
 
 Masayoshi encourages a somewhat aggressive playstyle with decent attack damage, high attack speed, and a movement speed bonus. 
 
-![[masayoshi_fp.gif]]
+![[masayoshi_fp.gif]]{ width="600" }
 
 Its primary mechanic comes from its unique ability, Bloodletting, which deals 1 damage (0.5 hearts) to the player each time that it hits an enemy.
 

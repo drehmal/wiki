@@ -30,9 +30,9 @@ The AvPOD functions only for the player that is holding it, with its menu being 
 - **Make Playlist**: Allows you to create a playlist out of your discovered songs. Enter Editing Mode to add these songs, then return to the playlist creation screen to save and use it with the above option. <br>
 - **Play Random**: Plays any random track out of those you have unlocked.
 
-![[avpod_fp.gif]]
+![[avpod_fp.gif]]{ width="600" }
 
-![[avpod_ui.png]]
+![[avpod_ui.png]]{ width="600" }
 
 Music volume, as is the case with most of these tracks, is determined by the Locational Music volume slider.
 

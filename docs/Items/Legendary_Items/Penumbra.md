@@ -30,7 +30,7 @@ Penumbra is an NBT-modified pair of chainmail leggings, and inherits that item's
 
 Penumbra is a relatively strong piece of armor at baseline, granting +6 Armor and +2 Armor Toughness for the cost of 2 Max Health, nearly equal to a pair of Celestial (Netherite) Leggings. However, Penumbra gains an advantage when used at night.
 
-![[penumbra_fp.gif]]
+![[penumbra_fp.gif]]{ width="600" }
 
 The item's special ability, Nightwalker, activates between the in-game hours of 19:00 (7 PM) and 07:00 (7 AM), granting additional stat boosts of +0.015 Movement Speed, +20% Attack Damage, and +10% Attack Speed to its wearer during this window.
 

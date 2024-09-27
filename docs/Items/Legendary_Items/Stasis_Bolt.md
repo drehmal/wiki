@@ -31,7 +31,7 @@ The only legendary item which works as ammunition, Stasis Bolts are legendary ar
 ## Gameplay
 Stasis Bolts are NBT-modified tipped arrows.
 
-![[stasis_bolt_fp.gif]]
+![[stasis_bolt_fp.gif]]{ width="600" }
 
 Stasis Bolts can be fired from any bow or crossbow, including legendary and mythical versions thereof. Like any other unique tipped arrow, this is done by placing it towards the top left of the player's inventory, or by holding them in the player's off-hand while shooting with the main hand. On a successful hit, the target is frozen in time for approximately 2-3 seconds, often freezing in mid-air at the point that the arrow knocked them back to.
 

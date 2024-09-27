@@ -29,7 +29,7 @@ The Heartaxe is an NBT-modified diamond axe, and inherits the durability of a va
 
 The Heartaxe is best suited for a heavier build, due to the fact that it adds knockback resistance and takes away speed, in conjunction with its relatively high attack damage and low attack speed. 
 
-![[heartaxe_fp.gif]]
+![[heartaxe_fp.gif]]{ width="600" }
 
 The axe does serve well, however, as a tool for chopping down large quantities of wood, as its ability—**Lumberlust**—gives the player the Haste effect when chopping logs. This effect lasts only for about 2 seconds, but at the top level of Haste IV, a Heartaxe enchanted with Efficiency V can effectively insta-mine logs. This ability also has no cooldown period.
 

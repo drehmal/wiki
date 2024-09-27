@@ -35,7 +35,7 @@ Magestep is an NBT-modified pair of diamond boots, inheriting that durability.
 
 Magestep is relatively weak as a piece of armor, contributing less Armor than vanilla diamond boots (+3 vs. +2) and no Armor Toughness, which vanilla boots would give +2 of. However, Magestep makes up for this in its ability.
 
-![[magestep_fp.gif]]
+![[magestep_fp.gif]]{ width="600" }
 
 Magestep gives its wearer a lingering Jump Boost III effect, making the player able to clear a height of just over 3 blocks in a single jump. The Feather Falling II enchantment prevents fall damage from most of these jumps. As such, Magestep can be extremely useful for traversal, but is slightly weak compared to other armor options.
 

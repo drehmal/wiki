@@ -29,7 +29,7 @@ The Claws are an NBT-modified diamond shovel, and inherit the base-level stats o
 
 The claws are enchanted with Efficiency VIII, making them able to effectively insta-mine almost all dirt/sand/gravel-type blocks. 
 
-![[crystal_claws_fp.gif]]
+![[crystal_claws_fp.gif]]{ width="600" }
 
 Their special ability, Runic Magnet, increases the player's pickup radius to approximately 8 blocks (from around 1 at baseline).
 

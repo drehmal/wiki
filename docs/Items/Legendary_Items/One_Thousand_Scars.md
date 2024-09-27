@@ -29,7 +29,7 @@ One Thousand Scars is an NBT-modified stone sword, and maintains the durability 
 
 One Thousand Scars is a greatsword, lending itself towards a slow, high-damage build with its incredibly high attack damage, very low attack speed, and significant movement speed penalty.
 
-![[one_thousand_scars_fp.gif]]
+![[one_thousand_scars_fp.gif]]{ width="600" }
 
 The weapon's special ability, Spectra Blade, creates an explosion effect around the target on a successful fully-charged attack, which deals additional damage to the target entity.
 

@@ -29,7 +29,7 @@ Pure Corruption is an NBT-modified diamond helmet, and inherits that durability.
 
 The helmet provides +50% boosts to max health, movement speed, attack damage, and attack speed while worn, making the wearer significantly stronger, but comes at a significant cost. 
 
-![[pure_corruption_fp.gif]]
+![[pure_corruption_fp.gif]]{ width="600" }
 
 Pure Corruption provides no armor, and its special ability, Rotten Core, gives the wearer lingering hunger and poison effects, which will inevitably bring the player down to a half heart if worn for too long. Thus, Pure Corruption is best utilized for only a brief moment where its power is needed, if utilized at all.
 

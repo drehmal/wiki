@@ -35,7 +35,7 @@ Thundercrux is an NBT-modified iron chestplate, inheriting that relatively low d
 
 The chestplate is a decent defensive tool, adding Armor and Armor Toughness almost comparable to a vanilla diamond chestplate, with the exception of 2 fewer Armor points. However, it is stronger in an aggressive build, adding attack damage, attack speed, and movement speed.
 
-![[tcrux_fp.gif]]
+![[tcrux_fp.gif]]{ width="600" }
 
 This is compounded by the chestplate's special ability, Bolt from the Blue. This ability adds an 8% chance on all attacks to deal a critical hit (separate from the jumping critical hits of vanilla Minecraft), significantly increasing the amount of damage dealt by that hit.
 

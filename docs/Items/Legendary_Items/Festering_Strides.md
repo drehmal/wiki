@@ -27,7 +27,7 @@ Festering Strides is a pair of legendary boots, dropped by the Warden of [[Shatt
 ## Gameplay
 Festering Strides has the ability to significantly alter a build, as it adds 10 max health while simultaneously making all worn armor 40% less effective and 40% weaker. In turn, it grants the player the Absorption II effect, which gives the player an extra 4 hearts (8 health) roughly once every 24 seconds.
 
-![[festering_fp.gif]]
+![[festering_fp.gif]]{ width="600" }
 
 This means that Festering Strides can be well utilized in a build prioritizing very high health, such as heavy tank builds, although it does neutralize some of the armor that would also contribute to such a build.
 

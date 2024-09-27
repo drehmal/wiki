@@ -29,7 +29,7 @@ Rehntite Plate Mail is an NBT-modified netherite chestplate, inheriting that ite
 
 Rehntite Plate Mail is an absurdly strong defensive item, granting the player total knockback resistance, +10 armor, +5 armor toughness, and a whopping +20 max health, effectively doubling the base player health of 20 (10 Hearts). However, this comes at the cost of significant offensive penalties, halving the player's movement speed, attack damage, and attack speed. 
 
-![[rehntite_fp.gif]]
+![[rehntite_fp.gif]]{ width="600" }
 
 The item's special ability, Catalytic Savior, activates when the player is hit by an enemy attack and their health dips below 20%. This effect creates a large explosion around the player, damaging and knocking back any enemies in the attack's range.
 

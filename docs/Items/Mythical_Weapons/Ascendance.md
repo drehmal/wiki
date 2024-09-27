@@ -32,7 +32,7 @@ Ascendance is a greatsword, and provides a somewhat less committed approach to t
 
 ![[holy_moonlight_tp.gif]]
 
-The sword's special ability, Holy Moonlight, projects a wave of moonlight, which deals damage through armor and weakens enemies in front of the player on contact. The wave also ricochets off of solid blocks, sometimes dealing damage on contact multiple times to the same entity. This ability has a relatively short cooldown, making Ascendance a relatively balanced weapon in terms of the playstyle it encourages.
+The sword's special ability, Holy Moonlight, projects a wave of moonlight, which deals damage through armor and weakens enemies in front of the player on contact. The wave also ricochets off of solid blocks, sometimes dealing damage on contact multiple times to the same entity. This ability has a comparably short cooldown, making Ascendance a relatively balanced weapon in terms of the playstyle it encourages.
 
 ??? warning "Late-Game Spoilers: Upgrades"
     Like the other Mythicals, Ascendance can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Ascendance grants the player +10 Max Health (+5 Hearts), has no Movement Speed penalty, and has a special ability cooldown of only 15 seconds.

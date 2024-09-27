@@ -1,11 +1,11 @@
 # Av'Sal Repository
 
-The **Av'Sal Repository** is a central location in the story of Drehmal: Apotheosis, located beneath the ruins of the central island of [[Av'Sal]]. This area features a large hall with holotexts describing each of the main Avsohmic story locations, which are updated as the player finds and explores these areas.
+The **Av'Sal Repository** is a central location in the story of Drehmal: Apotheosis, located beneath the ruins of the [[Avsohm|Avsohmic]] capitol building on the central island of [[Av'Sal]]. This area features a large hall with [holotexts](/Story_and_Features/Holotexts/) describing each of the main Avsohmic story locations, which are updated as the player finds and explores these areas.
 
 ![[avsal_repo_inside.png]]
 > The main hall of the Repository.
 
-There are 12 total repository entries, ranging from the [[Stasis Facility|very beginning]] of the story to the [[Resonant Halls|final Avsohmic location]]. The holotexts each provide a brief overview of the pertinent information learned at that location, appearing vague until all information is found (all holotexts at that site are read). For a full list of the holotexts at the repository, see [Repository Entries](/Story_and_Features/Holotexts/Av%27Sal_Repository/Repository_Entries/).
+There are 12 total repository entries, ranging from the [[Stasis Facility|very beginning]] of the story to the [[Resonant Halls|final Avsohmic story location]]. The holotexts each provide a brief overview of the pertinent information learned at that location, appearing vague until all information is found (all holotexts at that site are read). For a full list of the holotexts at the Repository, see [Repository Entries](/Story_and_Features/Holotexts/Av%27Sal_Repository/Repository_Entries/).
 
 The Repository is also home to the hilt of the [[Mythbreaker]], Avsohm's greatest weapon, as well as the contraption that can be used to reassemble the weapon in its inert form. Once the other two fragments of the blade have been obtained, they can be reunited to form the full weapon in this location.
 
@@ -17,9 +17,9 @@ The Repository is also home to the hilt of the [[Mythbreaker]], Avsohm's greates
     These coordinates take the player just outside the Repository, directly in front of the holodoor.
 
 ## Story
-The player can access the repository at any time after reaching [[Av'Sal]], often one of the first stops after exiting the [[Stasis Faciity]]. Besides the Mythbreaker, it does not itself contain significant story beats at this point, primarily acting as a hub for information and to provide hints to the player when connecting concepts in the later game.
+The player can access the repository at any time after reaching Av'Sal, often one of the first stops after exiting the Stasis Facility. Besides assembling the Mythbreaker, it does not itself host any story events at this point, primarily acting as a hub for information and to provide hints to the player when connecting concepts in the later game.
 
-Upon obtaining the two Mythbreaker blade fragments at the 25% and 50% story completion events, the player can reconnect them to the hilt at the Repository.
+Upon obtaining the two Mythbreaker blade fragments at the [25%](/Story_and_Features/Story_Locations/25%_Completoon_Areas/) and 50% story completion events, the player can reconnect them to the hilt at the Repository.
 
 Another section of the Repository is unlocked as [[Admin Wing|part of the 75% completion event]], and can be accessed from the main repository after this event.
 

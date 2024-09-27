@@ -27,6 +27,8 @@ A legendary chestplate supposedly crafted by nature itself and found in the [[Gl
 ## Gameplay
 Parenchyma is an NBT-modified golden chestplate, retaining its low durability, but offset by the Unbreaking X and Mending enchantments that it naturally comes with.
 
+![[parenchyma_fp.gif]]
+
 The chestplate grants 5 armor, and its primary mechanic comes from its special ability, which regenerates approximately 3-3.5 hearts upon a successful kill. This is indicated by the appearance of a green heart in the place of the slain entity, which then draws a few green lines toward the player and refills a portion of their health bar. Paired with other weapons and armor, Parenchyma can become an absolutely central part of any build.
 
 ## How to Obtain

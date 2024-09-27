@@ -29,6 +29,8 @@ Tul'Vohaln is an NBT-modified iron helmet, and inherits that item's base durabil
 
 Tul'Vohaln is not particularly strong as a piece of armor alone, boasting the same amount of armor points as a vanilla iron helmet and taking away 0.015 movement speed. Its main use comes through its special ability.
 
+![[tulvohaln_fp.gif]]
+
 Tul'Vohaln's special ability, Eyes Unclouded, is a passive ability which highlights enemies within a certain radius (approximately 5 chunks, or ~80 blocks), applying the Glowing effect to them. This effectively allows the player to see enemies in their vicinity through walls. This effect only applies to hostile mobs.
 
 ## How to Obtain

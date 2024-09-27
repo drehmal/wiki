@@ -35,6 +35,8 @@ Aeongale is an NBT-modified pair of netherite leggings, inheriting that base dur
 
 Aeongale is a relatively strong piece of armor, with the same armor (+6) as vanilla netherite leggings, but a smaller armor toughness (+1 vs. +3) boost than the vanilla variant. It also takes away a very significant 5 hearts, and makes the player move faster. 
 
+![[aeongale_fp.gif]]
+
 Aeongale's primary feature is its special ability, Guided by Fate. This ability gives a slowness effect to any hostile entities within a roughly 7 block radius, and also slows down projectiles such as arrows fired at the player, with special blue particles swirling around the projectile indicating that it has been affected by Aeongale. This ability is only active if the player is at full HP.
 
 ## How to Obtain

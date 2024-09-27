@@ -29,6 +29,8 @@ Whispersong is an NBT-modified bow.
 
 The bow has significant stat penalties, taking away 60% of the player's max health and movement speed, encouraging a relatively stationary, sniper-style fighting style. This couples well with the fact that the bow makes the user invisible, and is enchanted with Power VII, two levels higher than the vanilla Power limit. This effectively means that a fully charged Whispersong shot can deal upwards of 9 full hearts of damage to an unarmored enemy. 
 
+![[whispersong_fp.gif]]
+
 Whispersong's special ability is a passive ability, which simply gives an indefinite invisibility effect to the player while it is held in their main hand.
 
 ## How to Obtain

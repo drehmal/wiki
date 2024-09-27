@@ -29,6 +29,8 @@ Hovadchear's Greathammer is an NBT-modified diamond pickaxe, retaining the durab
 
 The Greathammer's primary use, however, is as a weapon. It is among the strongest legendary weapons in the game, lending itself towards a heavy tank-style build with its movement speed penalty, very high max health boost, complete immunity to knockback, and very strong, but slow attack.
 
+![[hovad_fp.gif]]
+
 The Greathammer's special ability, Unrelenting Shatter, activates on a fully charged critical attack (while falling downwards). When successful, it will flash an image of a broken shield on the screen, indicating that the hit enemy's armor has become ineffective, and that the ability is active. This is extremely powerful against custom armored enemies later in the game.
 
 ## How to Obtain

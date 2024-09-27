@@ -27,7 +27,11 @@ The Crystal Digging Claws are a legendary weapon and tool, which serve most prom
 ## Gameplay
 The Claws are an NBT-modified diamond shovel, and inherit the base-level stats of that item, including durability and block breaking affinities.
 
-The claws are enchanted with Efficiency VIII, making them able to effectively insta-mine almost all dirt/sand/gravel-type blocks. Their special ability, Runic Magnet, increases the player's pickup radius to approximately 8 blocks (from around 1 at baseline).
+The claws are enchanted with Efficiency VIII, making them able to effectively insta-mine almost all dirt/sand/gravel-type blocks. 
+
+![[crystal_claws_fp.gif]]
+
+Their special ability, Runic Magnet, increases the player's pickup radius to approximately 8 blocks (from around 1 at baseline).
 
 The claws are not designed for use as a weapon, but with their incredibly high attack speed, they do have a higher potential DPS output than a vanilla diamond shovel.
 

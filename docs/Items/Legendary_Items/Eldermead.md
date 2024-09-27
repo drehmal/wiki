@@ -32,6 +32,8 @@ The only consumable legendary item, Eldermead is a gift from [[Vayniklah|Life-Br
 ## Gameplay
 Eldermead is an NBT-modified potion, which can be drank a total of 3 times. 
 
+![[eldermead_fp.gif]]
+
 When drunk, Eldermead restores 4 hunger haunches, and applies two effects: 10 seconds of Regeneration II (restoring up to 4 Hearts) and 2 minutes of Absorption II (providing an extra 4 absorption hearts). Eldermead can be consumed 3 times before breaking, with its fullness level indicated by the different item sprites.
 
 ## How to Obtain

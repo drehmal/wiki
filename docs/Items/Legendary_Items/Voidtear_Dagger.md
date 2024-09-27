@@ -29,6 +29,8 @@ The Voidtear Dagger is an NBT-modified iron sword, inheriting that base durabili
 
 Voidtear is a legendary weapon that an entire build can form around, as it makes both stealth attacks and sneaking past hostile mobs a completely viable playstyle. The weapon gives a movement speed boost, and does mediocre damage but has a very fast attack speed, making it best utilized for quick flurries of action.
 
+![[voidtear_fp.gif]]
+
 The weapon's main feature comes from its special ability. Not only does this apply the invisibility effect to its user, it also decreases the distance at which hostile mobs will notice and attack the player while invisible. This makes sneaking through some combat encounters not only possible, but very doable in many locations.
 
 ## How to Obtain

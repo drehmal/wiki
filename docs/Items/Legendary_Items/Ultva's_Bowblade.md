@@ -29,6 +29,8 @@ Ultva's Bowblade is an NBT-modified bow.
 
 The bowblade encourages a fluid, dynamic melee/ranged build, granting a movement speed boost, carrying the same base melee stats (attack damage/speed) as a vanilla diamond sword, and having the same base damage as a vanilla bow, with the possibility for regular sword and bow enchantments.
 
+![[ultva_fp.gif]]
+
 The weapon's ability, Reversal, is activated when the bow is used for a melee kill. This plays a sound effect and adds fire particles to the bow and player for approximately 5 seconds. During this time, any arrows fired by the bow will deal an additional 4 damage, and will have a piercing effect, passing through and damaging unlimited enemies. This ability can be very useful when dealing with large crowds of weaker enemies, as the enhanced arrow is capable of passing through and dealing significant damage to large groups.
 
 ## How to Obtain

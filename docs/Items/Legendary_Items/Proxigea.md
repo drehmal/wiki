@@ -33,7 +33,13 @@ The only legendary trident in Drehmal, Proxigea was hand-crafted by the Sea Aspe
 ## Gameplay
 Proxigea is an NBT-modified trident.
 
-Dealing significant damage at baseline, Proxigea can be a very strong weapon on land, dealing 21 damage when thrown and 12 damage on a melee attack, equivalent to some other legendary swords. It can be thrown freely due to its Loyalty enchantment, although the level of that enchantment can be upgraded to make it return faster. 
+Dealing significant damage at baseline, Proxigea can be a very strong weapon on land, dealing 21 damage when thrown and 12 damage on a melee attack, equivalent to some other legendary swords. 
+
+![[proxigea_throw_fp.gif]]
+
+It can be thrown freely due to its Loyalty enchantment, although the level of that enchantment can be upgraded to make it return faster. 
+
+![[proxigea_water_fp.gif]]
 
 Proxigea becomes even stronger when its ability is activated, however. If the player is touching water, then they receive a 30% increase to their attack damage, attack speed, and armor, making Proxigea a must-have for aquatic combat.
 

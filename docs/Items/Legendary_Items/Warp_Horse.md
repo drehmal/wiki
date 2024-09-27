@@ -43,6 +43,8 @@ Placing the armor onto a horse adds it to the Exodus database, allowing it to be
 
 The Warp Horse receiver is an NBT-modified warped fungus on a stick, which utilizes an in-game chat similar to the [[AvPOD]], but much simpler. Initially, the player must crouch and right-click to open the WarpHorse database and find the horse they put the armor onto. From here, the horse can be favorited and summoned with a simple right click.
 
+![[warphorse_fp.gif]]
+
 The receiver only works if the area in front of the player is a flat surface, with at least a 3x3 block space for the horse to safely be spawned on. If this check is successful, then the horse appears inside a cylindrical column of particles.
 
 A linked horse will be recalled if the player leaves its general area (a radius of ~65 blocks), making it effectively disappear, ready to be summoned again using the receiver.

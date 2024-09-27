@@ -27,7 +27,13 @@ The scepter is a legendary weapon, notable primarily for its damage, max health 
 ## Gameplay
 Anyr's Scepter is an NBT-modified golden sword, and inherits that item's very low durability, although its Unbreaking X enchantment makes the weapon still viable for regular combat use. 
 
-In combat, the scepter's ability activates when the player drops below 20% max health. The player is given a pulsating "Entropic Decay" effect, indicated by swirling yellow and magenta particles around them. The effect, which is given in addition to Speed I, Resistance V, and Strength I, lasts for 5 seconds. If the player gets a kill during this time, they are returned to 40% HP and the effects are removed, but if no enemy is killed during this time, the player dies instantly.
+![[anyr_scepter_win_fp.gif]]
+
+In combat, the scepter's ability activates when the player drops below 20% max health. The player is given a pulsating Entropic Decay (Wither) effect, indicated by swirling yellow and magenta particles around them. The effect, which is given in addition to Speed I, Resistance V, and Strength I, lasts for 5 seconds. If the player gets a kill during this time, they are returned to 40% HP and the effects are removed.
+
+![[anyr_scepter_fail_fp.gif]]
+
+However, if no enemy is killed during this time, the player dies at the end of the timer.
 
 ## How to Obtain
 Emperor Anyr's Scepter is found in the pyramid which served as his family mausoleum, in the west of [[Sal'Anyr]], the large mesa-top city in [[Anyr'Nogur]].

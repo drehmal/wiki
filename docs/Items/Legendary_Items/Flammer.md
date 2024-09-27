@@ -29,6 +29,8 @@ Flammer is an NBT-modified wooden pickaxe. This means that it inherits some of t
 
 Flammer has some utility as a weapon, dealing 8 attack damage with 1.2 attack speed, not far off from some of the weaker dedicated legendary weapons. Its Fire Aspect I and Knockback I enchantments, which would not normally be supported by a pickaxe, add to its use as a weapon.
 
+![[flammer_fp.gif]]
+
 However, the primary use of Flammer is for its special ability, which allows the tool to mine in a 3x3 block grid. This ability is only applied when the block targeted is a block with WOODEN pickaxe affinity (broken most quickly by a pick and not an axe, shovel, hoe, or other tool), such as stone. If the central block in the 3x3 grid is, for example, dirt or wood, which are designed to be broken with shovels and axes respectively, then only that one block will be broken. Additionally, if the ability is activated but one of the 9 blocks in the 3x3 grid are not a pickaxe-minable block, it will not be broken by the ability.
 
 Excavation Torch therefore breaks all stone-type blocks in a 1-block radius of a stone-type block it is used to mine, up to 9 blocks in a 3x3 grid. The orientation of this grid is determined by the face of the block targeted by the pickaxe. If the block is mined from the top or bottom, then a 1-block deep grid, 3 blocks wide in the X and Z axes, is dug. If a block is targeted from the side, then it will form a 3-block tall grid, extending out 1 block to either side of the central block.

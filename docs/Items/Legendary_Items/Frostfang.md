@@ -29,6 +29,8 @@ The Frostfang is an NBT-modified diamond sword, retaining the base durability of
 
 The Frostfang leans into a faster playstyle, adding +0.02 Movement Speed and having a relatively high attack speed of 2.2, at the cost of 6 Max Health (-3 Hearts). Its Bane of Arthropods IV enchantment can be useful situationally, but the majority of enemies in Drehmal are not affected by this ability.
 
+![[frostfang_fp.gif]]
+
 The weapon's ability, Tempest's Grasp, causes hostile mobs to be afflicted with Slowness for a couple seconds when hit with the weapon for the first time. This is indicated by blue particles around the mob.
 
 ## How to Obtain

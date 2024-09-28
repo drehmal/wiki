@@ -61,7 +61,7 @@ The player is placed into Adventure Mode when in Azimuth Labs.
 There are no enemies to be found in this facility, nor are there puzzles. The player must simply explore, read, and learn the facility's secrets.
 
 ## Original Writing
-There are [7 holotexts](/Story_and_Features/Holotexts/Post-Yav/Azimuth_Labs) to be found at Azimuth Labs.
+There are [7 holotexts](/Story_and_Features/Holotexts/Post-Yav/Azimuth_Labs/) to be found at Azimuth Labs.
 
 There is also one original [lore book](/Lore/Books/) at Azimuth: [[Project Moonstrider]], written by [[Vohski Ottis]].
 

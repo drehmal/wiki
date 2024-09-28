@@ -32,7 +32,7 @@ Being the first location in the game, the Stasis Facility contains instances of 
 
 Along the top ring of rooms, a wall with a single chiseled stone brick ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } can be found, just below a stone pickaxe in an item frame, named "DIG". This is the first instance of chiseled block variants being used to signal a secret to the player, as digging through this wall is required to progress to the mural/statue room and exit the facility.
 
-At the holodoor, which cannot be broken normally, the game's first minor puzzle is given to the player. Taking a hint from one of the nearby holotexts, "Gohri's Safety Design," will allow the player to escape.
+At the holodoor, which cannot be broken normally, the game's first minor puzzle is given to the player. Taking a hint from one of the nearby holotexts, "[[stasis_smoke.md|Gohri's Safety Design]]," will allow the player to escape.
 
 ??? warning "Puzzle Solution"
     The holotext hints at the solution to the puzzle, referring to a safety feature that [[Gohri Zed]] built into the facility in case of a fire. The holodoor will open if excess smoke from a fire is detected near the door. Setting the ground near the door on fire with a flint and steel or placing a campfire down will trigger the door to open, allowing the player to progress.

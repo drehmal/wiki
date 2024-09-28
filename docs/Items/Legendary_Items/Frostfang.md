@@ -31,6 +31,8 @@ The Frostfang leans into a faster playstyle, adding +0.02 Movement Speed and hav
 
 ![[frostfang_fp.gif]]{ width="600" }
 
+![[frostfang_tp.gif]]
+
 The weapon's ability, Tempest's Grasp, causes hostile mobs to be afflicted with Slowness for a couple seconds when hit with the weapon for the first time. This is indicated by blue particles around the mob.
 
 ## How to Obtain

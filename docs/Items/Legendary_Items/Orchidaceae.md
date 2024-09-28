@@ -29,6 +29,12 @@ Orchidaceae is an NBT-modified diamond sword, and inherits the base durability o
 
 The weapon is relatively mediocre in terms of its base stats, but its strength lies in its Looting enchantment and special ability. Together, these effects make Orchidaceae extract the highest amount of loot and experience points from mobs of any weapon in the game, making it optimal if you decide to build a mob farm in Drehmal.
 
+![[orchid_normalcomp_fp.gif]]{ width="600" }
+> XP dropped by 3 Husks killed by a diamond sword.
+
+![[orchid_fp.gif]]{ width="600" }
+> XP dropped by 3 Husks killed by Orchidaceae.
+
 Orchidaceae's special ability is passive, and applies to all mobs that the player kills which have an item drop or who drop XP. It gives a flat increase of 3 XP to all experience drops.
 
 ## How to Obtain

@@ -30,6 +30,8 @@ The only variant of the Minecraft elytra found in the Drehmal map, Avsohm'Kohl i
 ## Gameplay
 Avsohm'Kohl is similar to a vanilla elytra, being a pair of wings that are equipped in the Body armor slot and allow the player to glide or fly. However, Avsohm'Kohl gives the player the Slow Falling status effect while active, causing the player to glide much more slowly than a vanilla pair of wings would, unless substantial momentum is built up first. The wings are also incompatible with common methods used to make elytras faster, as the ability to do so could trivialize exploration of the continent. 
 
+![[avsohmkohl_tp.gif]]
+
 Attempting to use firework rockets while gliding will give the message "Your glider catches fire...," failing to propel the player forward and lighting them on fire.
 
 Even holding a trident enchanted with Riptide while wearing Avsohm'Kohl will instantly begin to deal damage to the player, with the message "The trident's arcana conflicts with your glider..."

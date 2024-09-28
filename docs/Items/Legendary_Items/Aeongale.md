@@ -37,6 +37,8 @@ Aeongale is a relatively strong piece of armor, with the same armor (+6) as vani
 
 ![[aeongale_fp.gif]]{ width="600" }
 
+![[aeongale_tp.gif]]
+
 Aeongale's primary feature is its special ability, Guided by Fate. This ability gives a slowness effect to any hostile entities within a roughly 7 block radius, and also slows down projectiles such as arrows fired at the player, with special blue particles swirling around the projectile indicating that it has been affected by Aeongale. This ability is only active if the player is at full HP.
 
 ## How to Obtain

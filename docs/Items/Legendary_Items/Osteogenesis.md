@@ -31,6 +31,8 @@ Osteogenesis is a unique legendary weapon in that it is relatively weak in its b
 
 ![[osteo_fp.gif]]{ width="600" }
 
+![[osteo_tp.gif]]
+
 The weapon's special ability, Cleaving Maelstrom, unleashes a large AoE attack that deals significant damage to skeletal enemies (Skeletons and Chthonic Skeletons), as well as stunning other undead enemies and launching all enemies in its range. This is indicated by several rings of red particles whirling around the player. This ability activates on every third fully-charged attack that successfully lands. 
 
 ## How to Obtain

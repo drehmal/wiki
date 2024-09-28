@@ -31,6 +31,8 @@ The claws are enchanted with Efficiency VIII, making them able to effectively in
 
 ![[crystal_claws_fp.gif]]{ width="600" }
 
+![[crystal_claws_tp.gif]]
+
 Their special ability, Runic Magnet, increases the player's pickup radius to approximately 8 blocks (from around 1 at baseline).
 
 The claws are not designed for use as a weapon, but with their incredibly high attack speed, they do have a higher potential DPS output than a vanilla diamond shovel.

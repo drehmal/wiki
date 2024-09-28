@@ -31,6 +31,8 @@ Voidtear is a legendary weapon that an entire build can form around, as it makes
 
 ![[voidtear_fp.gif]]{ width="600" }
 
+![[voidtear_tp.gif]]
+
 The weapon's main feature comes from its special ability. Not only does this apply the invisibility effect to its user, it also decreases the distance at which hostile mobs will notice and attack the player while invisible. This makes sneaking through some combat encounters not only possible, but very doable in many locations.
 
 ## How to Obtain

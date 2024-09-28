@@ -31,6 +31,8 @@ One Thousand Scars is a greatsword, lending itself towards a slow, high-damage b
 
 ![[one_thousand_scars_fp.gif]]{ width="600" }
 
+![[one_thousand_scars_tp.gif]]
+
 The weapon's special ability, Spectra Blade, creates an explosion effect around the target on a successful fully-charged attack, which deals additional damage to the target entity.
 
 ## How to Obtain

@@ -37,6 +37,8 @@ Magestep is relatively weak as a piece of armor, contributing less Armor than va
 
 ![[magestep_fp.gif]]{ width="600" }
 
+![[magestep_tp.gif]]
+
 Magestep gives its wearer a lingering Jump Boost III effect, making the player able to clear a height of just over 3 blocks in a single jump. The Feather Falling II enchantment prevents fall damage from most of these jumps. As such, Magestep can be extremely useful for traversal, but is slightly weak compared to other armor options.
 
 ## How to Obtain

@@ -31,6 +31,8 @@ The bow has significant stat penalties, taking away 60% of the player's max heal
 
 ![[whispersong_fp.gif]]{ width="600" }
 
+![[whispersong_tp.gif]]
+
 Whispersong's special ability is a passive ability, which simply gives an indefinite invisibility effect to the player while it is held in their main hand.
 
 ## How to Obtain

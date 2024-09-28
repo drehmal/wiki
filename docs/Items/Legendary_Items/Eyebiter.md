@@ -25,7 +25,11 @@ Eyebiter is the only legendary shield found in Drehmal. It is located in [[The C
 | **Obtain**                    | Located in the [[Sepulchral Altar]] at [[Rhaveloth]].   |
 
 ## Gameplay
-Eyebiter has relatively modest stats for a custom shield, adding 15% Knockback Resistance and a small armor boost, but its real strength lies in its special ability. The shield is able to reflect magical projectiles, including many of the custom projectiles added in Drehmal that cannot be otherwise blocked by regular shields. 
+Eyebiter has relatively modest stats for a custom shield, adding 15% Knockback Resistance and a small armor boost, but its real strength lies in its special ability. 
+
+![[eyebiter_tp.gif]]
+
+The shield is able to reflect magical projectiles, including many of the custom projectiles added in Drehmal that cannot be otherwise blocked by regular shields. 
 
 ## How to Obtain
 This legendary is found in the [[Sepulchral Altar]], the devotion site of [[Maelihs]] in [[Rhaveloth]]. The trapped chest is located at the very bottom of the location, at the other end of the room with the deity's [[Devotion|devotion]] shrine.

@@ -45,6 +45,8 @@ The Warp Horse receiver is an NBT-modified warped fungus on a stick, which utili
 
 ![[warphorse_fp.gif]]{ width="600" }
 
+![[warphorse_tp.gif]]
+
 The receiver only works if the area in front of the player is a flat surface, with at least a 3x3 block space for the horse to safely be spawned on. If this check is successful, then the horse appears inside a cylindrical column of particles.
 
 A linked horse will be recalled if the player leaves its general area (a radius of ~65 blocks), making it effectively disappear, ready to be summoned again using the receiver.

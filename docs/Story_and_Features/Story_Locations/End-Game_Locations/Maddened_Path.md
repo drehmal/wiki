@@ -19,7 +19,7 @@ search:
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Maddened Path**, located at the **Heart of the Void**, is the penultimate story location in Drehmal: Apotheosis. Located even deeper within the Nothing, at the true center of all creation, it teaches the player some of the deepest secrets concerning the true nature of the universe (multiverse) of Drehmal.
+The **Maddened Path**, located near the **Heart of the Void**, is the penultimate story location in Drehmal: Apotheosis. Located even deeper within the Nothing, at the true center of all creation, it teaches the player some of the deepest secrets concerning the true nature of the universe (multiverse) of Drehmal.
 
 This location is accessed immediately following the [[Court of Nothing]] in the end-game.
 
@@ -31,16 +31,16 @@ This location is accessed immediately following the [[Court of Nothing]] in the 
     In the True End dimension, these coordinates will take the player to the very first room of the Maddened Path, which is normally accessible ONLY THROUGH THE PROPER STORY SEQUENCE. Do NOT attempt to teleport to these coordinates before reaching them naturally, or you will risk sequence-breaking the map.
 
 ## Story
-After defeating Ultva & Hovadchear at the Court, the player is given another portal by the Mythoclast leading to the Maddened Path. 
+After defeating [[Ultva]] & [[Hovadchear]] at the Court, the player is given another portal by the [[yellow.md|Mythoclast]] leading to the Maddened Path. 
 
 ![[maddened_path.png]]
 > The Maddened Path.
 
-The Maddened Path is a winding path of debris, gradually leading to a large structure at its center. Some of this debris appears to be from Drehmal, including megaflora reminiscent of those from [[Akhlo'Rohma]] and warp rings from [[Khive's Domain]]. The player must navigate through this path as the Mythoclast speaks to them, unveiling many of the final pieces of the story.
+The Maddened Path is a winding path of debris, gradually leading to a large structure at its center. Some of this debris appears to be from [[Overworld|Drehmal]], including megaflora reminiscent of those from [[Akhlo'Rohma]] and warp rings from [[Khive's Domain]]. The player must navigate through this path as the Mythoclast speaks to them, unveiling many of the final pieces of the story.
 
-The Mythoclast fully admits to the destruction of Avsohm, stating that the empire was meddling with forces it could not possibly hope to comprehend, and that nobody could ever be allowed to take his proverbial 'crown.' He states that the empire could not be allowed to attain the kind of power it wished for, and that although he does not often intervene in mortal affairs, it was made necessary by Avsohm's ambition.
+The Mythoclast fully admits to the destruction of [[Avsohm]], stating that the empire was meddling with forces it could not possibly hope to comprehend, and that nobody could ever be allowed to take his proverbial 'crown.' He states that the empire could not be allowed to attain the kind of power it wished for, and that although he does not often intervene in mortal affairs, it was made necessary by Avsohm's ambition.
 
-He then pivots to telling the player about another special guest, who has specifically requested to see you, the final remnant of Avsohm, stating that his guest has waited an extremely long time for this. The player reaches the structure at the center, stepping forward to the final boss battle of Drehmal: Apotheosis.
+He then pivots to telling the player about another special guest, who has specifically requested to see you, the final remnant of Avsohm, stating that his guest has waited an extremely long time for this moment. The player reaches the structure at the center, stepping forward to the final boss battle of Drehmal: Apotheosis.
 
 In the arena at the center of the Path, the final boss manifests together: the [[Emissary of the Void]]. The Emissary is a humanoid figure clad in a purple hood, wielding a version of the [[Oblivion]] scythe. 
 

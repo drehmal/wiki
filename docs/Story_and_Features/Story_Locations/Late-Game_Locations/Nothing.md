@@ -9,11 +9,11 @@
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
-!!! info "This page is about the small section of The Nothing that is accessed directly from the tear at Mt. Yavhlix. For more on the detailed lore of the concept within the universe of Drehmal, see [[Nothing]] under the Lore tab."
+!!! info "This page is about the small section of the Nothing that is accessed in-game, directly from the tear at [[Mt. Yavhlix]]. For more on the detailed lore of the concept within the universe of Drehmal, see [[Nothing]] under the Lore tab."
 
-After opening and traveling through the tear in the [[Primary Energy Collection Facility]], the player is able to enter a portion of **The Nothing**, a dimension which exists beyond The Veil, entirely outside the realm of Drehmal.
+After opening and traveling through the tear in the [[Veil]] at the [[Primary Energy Collection Facility]], the player is able to enter a portion of **the Nothing**, a vast void that spans the universe, entirely outside the realm of Drehmal.
 
-The Nothing is the site of the first required major boss battle in Drehmal, and is only visited for this fight.
+An island in the Nothing is the site of the first required major boss battle in Drehmal, and is only visited for this fight.
 
 ?? abstract "Coordinates"
     | **X** | **Y** | **Z** |
@@ -23,14 +23,14 @@ The Nothing is the site of the first required major boss battle in Drehmal, and 
     These coordinates are not actually within the Nothing, but rather, are just in front of the portal to the Nothing. The Nothing itself is its own dimension.
 
 ## Story
-The player enters the tear at the top of the Primary Energy Collection Facility and finds themselves in a small building in The Nothing, being given the "Once More Into the Breach" advancements for entering the Nothing. They are immediately thrust into a boss battle against [[Tethlaen|Tethlaen, Lost to Nothing]], the Aspect of Fear who has been missing and presumed dead for millennia.
+The player enters the tear at the top of the Primary Energy Collection Facility and finds themselves in a small building in the Nothing, being given the "Once More Into the Breach" [[Advancements|advancement]] for entering the Nothing. They are immediately thrust into a boss battle against "[[Tethlaen|Tethlaen, Lost to Nothing]]", the [Aspect](/Lore/Higher_Beings/Aspects/) of Fear who has been missing and presumed dead for millennia.
 
-Tethlaen questions why the player is fighting them, but ultimately, the only method of progression is to slay the Aspect. Once the deed is done, the player can enter a portal opened at the center of the arena, triggering the vanilla Minecraft end credits and transporting the player back to the other side of the portal at the Primary Collection Facility.
+Tethlaen questions why the player is fighting them, but ultimately, the only method of progression is to slay him. Once the deed is done, the player can enter a portal that is opened at the center of the arena, triggering the vanilla Minecraft end credits and transporting the player back to the other side of the portal at the Primary Collection Facility.
 
 This is not, however, the end of the story, as the return to Mt. Yavhlix sees the player meet a new guiding voice, with [much, much more to show.](/Story_and_Features/Story_Locations/End-Game_Locations/)
 
 ## Gameplay
-Mechanically, the Tethlaen fight is nearly identical to the vanilla Ender Dragon fight. The player emerges to the surface from a small stone building to find multiple discrete, but interconnected end islands. Tethlaen takes a physical form extremely similar to the Ender Dragon, and has very similar behaviors, with the exception of a couple new ranged attacks. He is healed by Unstable Primal Catalysts (end crystals) atop obsidian pillars around the arena, but in addition to the regular crystals, there are also three towers around the arena which each hold one crystal, and are guarded by a very strong enemy.
+Mechanically, the Tethlaen fight is nearly identical to the vanilla Ender Dragon fight. The player emerges to the surface from a small stone building to find multiple discrete, but interconnected floating islands. Tethlaen takes a physical form extremely similar to the Ender Dragon, and has very similar behaviors, with the exception of a couple new ranged attacks. He is healed by Unstable Primal Catalysts (end crystals) atop obsidian pillars around the arena, but in addition to the regular crystals, there are also three stone towers around the arena which each hold one crystal, and are guarded by a very strong enemy.
 
 ![[the_nothing.png]]
 > The arena in The Nothing.
@@ -44,7 +44,7 @@ Players can fall into the void off the edge of any one of the islands, and will 
 
 !!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT continue to read the contents of this article."
 
-!!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits. If you have just finished this sequence at The Nothing, you are not far from making these discoveries yourself."
+!!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits. If you have just finished this sequence at the Nothing, you are not far from making these discoveries yourself."
 
 !!! danger "Consider yourself warned."
 

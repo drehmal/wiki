@@ -12,9 +12,9 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Resonant Halls** are an end-game story location, accessed after [[Azimuth Labs]]. The Halls are located in the deepest recesses of [[Mt. Yavhlix]], only accessible through a passageway that is initially sealed by veilstone. This seal is only removed once the player has reached its dedicated end-game sequence. If the player approaches the entrance to the halls before this sequence, they are given the message, "The emptiness in your soul feels strongest here."
+The **Resonant Halls** are an end-game story location, accessed after [[Azimuth Labs]]. The Halls are located in the deepest recesses of [[Mt. Yavhlix]], only accessible through a passageway in thr [[Primary Energy Collection Facility]] that is initially sealed by veilstone. This seal is only removed once the player has reached its dedicated end-game sequence. If the player approaches the entrance to the halls before this sequence, they are given the message, "The emptiness in your soul feels strongest here."
 
-The Resonant Halls contain some of the final secrets regarding Avsohm's truest ambitions, including arguably their greatest piece of technology and the actions that ultimately led to their downfall. 
+The Resonant Halls contain some of the final secrets regarding [[Avsohm|Avsohm's]] truest ambitions, including arguably their greatest piece of technology and the actions that ultimately led to their downfall. 
 
 ??? abstract "Coordinates"
     | **Location** | **X** | **Y** | **Z** |
@@ -25,14 +25,14 @@ The Resonant Halls contain some of the final secrets regarding Avsohm's truest a
     The first set of coordinates can be accessed at any point after breaking the seal on Mt. Yavhlix, but the second location is intended only to be accessed as part of its dedicated story sequence. Do NOT attempt to teleport to these coordinates prematurely, or you will risk sequence-breaking the map.    
 
 ## Story
-Once the player makes it back to the [[Terminus Network|Terminus]], they are given another item by the yellow-possessed [[avSYS]]. This trinket, the *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
+Once the player makes it back to the [[Terminus Network|Terminus]] from Azimuth Labs, they are given another item by the yellow-possessed [[avSYS]]. This [[Trinkets|trinket]], the *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
 
 Returning to Mt. Yavhlix, the mysterious voice returns to give the player a cryptic message: a direct quotation of the [[Stranded Thesis]]. It disappears until the player reaches the seal, returning only to break it and beckon the player forward into the halls.
 
 ![[resonant_halls.png]]
 > The opened entrance to the Resonant Halls.
 
-The Resonant Halls are a winding, maze-like area, intended to be difficult to navigate in order to protect the room at its core. Over the course of the journey through, however, a few books provide insight into Avsohm's actions at this facility.
+The Resonant Halls are a winding, maze-like area, intended to be difficult to navigate in order to protect the room at its core. Over the course of the journey through, however, a few [books](/Lore/Books/) provide insight into Avsohm's actions at this facility.
 
 It is revealed through transcriptions of dives into the Nothing that [[Tethlaen]], the Aspect that the player slew in the Nothing, had entered for noble reasons, intending to save the realm by holding the tear closed and preventing the dangerous influx of [[Primal Energy]]. They developed a strong rapport with [[Orix Cehein]] over the course of at least 27 conversations, and appear to have cooperated with Avsohm's expeditions into the dimension, even becoming friendly towards the empire. After navigating through multiple labyrinthine areas and a dark, completely flooded room, the player eventually reaches the secret at the core of the facility: The Resonant Eye.
 

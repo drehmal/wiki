@@ -9,7 +9,7 @@
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
-The **Primary Energy Collection Facility** (also referred to simply as the **Primary Collection Facility**, or misleadingly as **Mt. Yavhlix**) is an Avsohmic facility built within [[Mt. Yavhlix]], built to harness the power of a tear that supplied the vast majority of the empire's [[Primal Energy]]. It is a major milestone in the story of Drehmal, typically being done after the player has explored the majority of the world, and marking the beginning of the [end-game](/Story_and_Features/Story_Locations/End-Game_Locations/).
+The **Primary Energy Collection Facility** (also referred to simply as the **Primary Collection Facility**, or misleadingly as **Mt. Yavhlix**) was an [[Avsohm|Avsohmic]] facility built within [[Mt. Yavhlix]], built to harness the power of a tear that supplied the vast majority of the empire's [[Primal Energy]]. It is a major milestone in the story of Drehmal, typically being done after the player has explored the majority of the world, and marking the beginning of the [end-game](/Story_and_Features/Story_Locations/End-Game_Locations/).
 
 ??? abstract "Coordinates"
     | **X** | **Y** | **Z** |

@@ -12,6 +12,6 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-This section contains the articles of the five main story locations in the end-game sequence, which begins after completing the dungeon at Mt. Yavhlix and its boss battle, triggering the vanilla end credits. 
+This section contains the articles of the five main story locations in the end-game sequence, which begins after completing the dungeon at [[Mt. Yavhlix]] and its boss battle, triggering the vanilla end credits. 
 
 After the end credits play, the player will be transported back to the [[Primary Energy Collection Facility]], where they will be directed towards the first of these locations.

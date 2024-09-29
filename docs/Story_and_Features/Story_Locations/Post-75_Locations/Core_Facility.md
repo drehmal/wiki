@@ -14,7 +14,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Core Facility** is one of five main story locations on the divine moon of [[Lo'Dahr]], and the closest to the player's initial starting point on the moon. It can be found in the west of [[Taihgel's Domain]], just east of the city of [[Naharja]]. The facility primarily serves as a link to another location in Lo'Dahr, and as a hub for exploration of the moon, containing information on the other three main Avsohmic facilities present there.
+The **Core Facility** is one of five main story locations on the divine moon of [[Lo'Dahr]], and the closest to the player's initial starting point on the moon. It can be found in the west of [[Taihgel's Domain]], just east of the city of [[Naharja]]. The facility primarily serves as a link to another location in Lo'Dahr, and as a hub for exploration of the moon, containing information on the other three main [[Avsohm|Avsohmic facilities]] present there.
 
 ??? abstract "Coordinates"
     | **X** | **Y** | **Z** |

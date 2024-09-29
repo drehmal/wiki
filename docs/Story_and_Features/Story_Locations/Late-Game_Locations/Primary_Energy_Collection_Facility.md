@@ -32,7 +32,7 @@ The player proceeds through the facility, uncovering the aftermath of the events
 
 Holotexts throughout the facility contain the testaments of workers who died in Yavhlix, often capturing their final moments or mad, panicked ramblings. 
 
-By proceeding through the facility and flipping three override switches, the player can gain access to the tear itself at the very top of the facility. Entering through the tear takes the player to the [[Nothing]], the culmination of the initial Mt. Yavhlix story sequence. Completing the goal in the Nothing is NOT the end of the story, but rather, the beginning of what this wiki refers to as the "end-game."
+By proceeding through the facility and flipping three override switches, the player can gain access to the tear itself at the very top of the facility. Entering through the tear takes the player to the [[Nothing Island|Nothing]], the culmination of the initial Mt. Yavhlix story sequence. Completing the goal in the Nothing is NOT the end of the story, but rather, the beginning of what this wiki refers to as the "end-game."
 
 ## Gameplay
 The player is NOT placed into Adventure Mode inside of the Primary Collection Facility, remaining in Survival Mode with the ability to place and break blocks.
@@ -41,7 +41,7 @@ As soon as the player enters the facility, they begin to hear whispers, depicted
 
 There is a well-known bug[^2] which can occur in this area relating to this dialogue function, which affects items with custom NBT data in runic vessels (Shulker boxes).
 
-The facility is home to several very strong enemies, almost all of whom appear to be Avsohmic officers and workers possessed by the Nothing. This includes one of the strongest regular enemies in the game, the Lost Avsohmic Commanders, who appear multiple times in this area and are outfitted with celestial armor. Re-skinned Ravagers, named "Dwellers," can also be found in parts of the facility's sewer system, as well as "Lulls," custom Phantom mobs, which spawn from spawners along the edges of the facility.
+The facility is home to several very strong enemies, almost all of whom appear to be Avsohmic officers and workers possessed by the [[Nothing]]. This includes one of the strongest regular enemies in the game, the Lost Avsohmic Commanders, who appear multiple times in this area and are outfitted with celestial armor. Re-skinned Ravagers, named "Dwellers," can also be found in parts of the facility's sewer system, as well as "Lulls," custom Phantom mobs, which spawn from spawners along the edges of the facility.
 
 The primary mode of progression within Mt. Yavhlix is finding three override switches, levers on a single block of bedrock that, when toggled, trigger a message in chat. When all three levers have been located and flipped, the seal at the top of the facility is lifted, allowing for entrance into a chamber containing the tear itself.
 

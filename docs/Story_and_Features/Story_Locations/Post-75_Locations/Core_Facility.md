@@ -24,7 +24,7 @@ The **Core Facility** is one of five main story locations on the divine moon of 
     Within the Lo'Dahr dimension, these coordinates place the player in front of the map of the four Avsohmic facilities on the moon at the Core Facility.
 
 ## Story (Arrival)
-Upon arriving on Lo'Dahr, the player does not necessarily receive any information on where to go next, but the closest story location to the warp tower's landing spot in [[Moen's Domain]] is the Core Facility, to the east in Taihgel's Domain. Aboard the [[Aphelion]], a chest can also be found, containing a lodestone compass that points towards the Core Facility when on the moon, making this the intended method of progression.
+Upon arriving on Lo'Dahr, the player does not necessarily receive any information on where to go next, but the closest story location to the [[Terminus Network|Terminus]] warp tower's landing spot in [[Moen's Domain]] is the Core Facility, to the east in Taihgel's Domain. Aboard the [[Aphelion]], a chest can also be found, containing a lodestone compass that points towards the Core Facility when on the moon, making this the intended method of progression.
 
 There is not much to be found initially in the facility, besides a map of the moon's habitable area, highlighting four different locations: The Core Facility itself in the east, the [[Resupply Depot]] in the southeast, the [[Inscription Complex]] in the far southwest, and the [[Ring Facility|Ring Research Installation]] in the west.
 

@@ -14,7 +14,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Inscription Complex** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the far southwest corner of the moon, in [[Loe's Domain]]. Originally used by Avsohm to mass produce inscribed runic catalysts locally on the moon, it stands defunct by the time of the main story, waiting to be repaired by the player.
+The **Inscription Complex** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the far southwest corner of the moon, in [[Loe's Domain]]. Originally used by [[Avsohm]] to mass produce inscribed runic catalysts locally on the moon, it stands defunct by the time of the main story, waiting to be repaired by the player.
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
 

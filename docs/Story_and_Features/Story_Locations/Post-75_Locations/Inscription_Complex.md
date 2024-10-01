@@ -58,7 +58,7 @@ There are [6 holotexts](/Story_and_Features/Holotexts/Post-75_Areas/Inscription_
 One [book](/Lore/Books/), [[Guhnr's Complaint]], can also be found in this building, in a living quarters room.
 
 ## Lore
-When Avsohm first established a strong presence on Lo'Dahr, they encountered a significant problem: pre-inscribed runic catalysts, the materials that powered the vast majority of their technology, could not be sent through warp towers, as the catalysts were too unstable and would explode upon transportation. Thus, uninscribed runic catalysts had to be sent to the moon, and a facility to inscribe them locally had to be constructed. 
+When Avsohm first established a strong presence on [[LD|Lo'Dahr]], they encountered a significant problem: pre-inscribed runic catalysts, the materials that powered the vast majority of their technology, could not be sent through warp towers, as the catalysts were too unstable and would explode upon transportation. Thus, uninscribed runic catalysts had to be sent to the moon, and a facility to inscribe them locally had to be constructed. 
 
 The Inscription Complex was built in a cavern in the domain of [[Loe]], [Aspect](/Lore/Higher_Beings/Aspects/) of the Cold, because the frigid conditions sustained by her ambient divine magic could replace the machinery's cooling systems as an efficient and costless alternative. However, this area of Lo'Dahr was already populated, as the town of [[Loeturia]] lies just to its north. This was the source of significant tension between the Avsohmic [[Drehmari]] and the local Tehrmari, the latter of whom had lived there for generations, and did not take kindly to Avsohm's attempts to colonize the moon. 
 

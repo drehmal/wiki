@@ -62,4 +62,4 @@ There is also one [lore book](/Lore/Books/), [[Masin's Complaint]], which mirror
 ## Lore
 The Resupply Depot was the first Avsohmic facility built on the moon of Lo'Dahr, as it is very close to the site of Avsohm's first moon landing. As such, several prominent Avsohmic figures are known to have spent time here, most notably Verpyne and [[Devro Ihb]]. 
 
-The construction of the facility was directly ordered by [[Anyr|Emperor Anyr]] after Avsohm's first landings on the [[LD|moon's]] surface. It served as a spaceport during its tenure, taking incoming shipments from the Aphelion and dispersing them throughout Avsohm's holdings on the moon, and vice versa.
+The construction of the facility was directly ordered by [[Anyr|Emperor Anyr]] after Avsohm's first landings on the [[LD|moon's]] surface. It served as a spaceport during its tenure, taking incoming shipments (including energy) from the Aphelion and dispersing them throughout Avsohm's holdings on the moon, and vice versa.

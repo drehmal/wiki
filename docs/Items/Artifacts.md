@@ -12,9 +12,9 @@ Artifact descriptions themselves typically do not contain spoilers, as they lean
 
 !!! warning "The contents of this page were taken from a potentially incomplete and outdated source. It is possible (and even likely) that this list is incomplete, but it does contain the majority of the artifacts on the map."
 
-!!! danger "For this reason, if you have not at least reached the late-game area associated with the 75% completion event (which you will know you have done when you gain the "Apotheosis" advancement), we strongly recommend that you do NOT continue reading this article."
+!!! warning "Like other unique items in Drehmal, artifacts are intended to be discovered as you explore the world. If you would like to discover these unique weapons, tools, and armor pieces for yourself, you should not continue reading this page."
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 # Open-World Artifacts
 These artifacts can be found at any time through exploration of the continent of [[Overworld|Drehmal]].

@@ -14,7 +14,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Resupply Depot** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the southeast of the moon's habitable area, in [[Rihelma's Domain]]. The facility is found on a floating island in the far east of the northern sub-region of Rihelma's Domain, over 100 blocks above ground level. It was the first Avsohmic facility built on Lo'Dahr, and served as a transportation hub in the empire's efforts to colonize the moon.
+The **Resupply Depot** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the southeast of the moon's habitable area, in [[Rihelma's Domain]]. The facility is found on a floating island in the far east of the northern sub-region of Rihelma's Domain, over 100 blocks above ground level. It was the first [[Avsohm|Avsohmic]] facility built on Lo'Dahr, and served as a transportation and logistics hub in the empire's efforts to colonize the moon.
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
 
@@ -36,7 +36,7 @@ The Depot is found floating high in the air, alongside numerous other floating i
 ![[depot_outside.png]]
 > The exterior of the Resupply Depot.
 
-Holotexts at the facility provide insight towards the beginning of Avsohm's lunar expeditions, including first-hand accounts of the initial landings, the building of this facility as a hub for the project, and the dynamics between the facilities.
+[Holotexts](/Story_and_Features/Holotexts/) at the facility provide insight towards the beginning of Avsohm's lunar expeditions, including first-hand accounts of the initial landings, the building of this facility as a logistical base for the project, and the dynamics between the facilities.
 
 The player can eventually find a holotext in the center of a room, between two display screens on either wall. This holotext hints at the main puzzle mechanic in this location.
 

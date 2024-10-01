@@ -59,7 +59,7 @@ There is also [one book](Researcher_Cehva's_Side_Project.md) at the Numencore, w
 ## Lore
 The Numencore was created as Khive's primary reserve of primal energy, and its purpose was to serve as a source of primal energy for them and the other Aspects. Khive, being the Aspect of Magic, has innate control over primal energy, but does not have the ability to apply it in the unique ways that other Aspects do in their own domains of nature. As such, Khive facilitated the work of the other Aspects by creating pathways for them to draw upon the Numencore's energy.
 
-The Numencore likely went physically untouched until Avsohm's colonization of the moon in the late second Avihm, at which point they utilized their [[Ring Facility#Lore|reverse-engineered warp rings]] to establish a physical gateway to the Numencore. Avsohm built a small facility around the core, with the ultimate goal of harnessing it as an energy source to charge the Mythbreaker with.
+The Numencore likely went physically untouched until Avsohm's colonization of the [[LD|moon]] in the late Second Avihm, at which point they utilized their [[Ring Facility#Lore|reverse-engineered warp rings]] to establish a physical gateway to the Numencore. Avsohm built a small facility around the core, with the ultimate goal of harnessing it as an energy source to charge the Mythbreaker with.
 
 Several prominent Avsohmic characters are known to have spent time at the Numencore facility, including [[Kahmas Tuhs]], Ekoh, Cehva, and Marto.
 

@@ -50,7 +50,7 @@ The main puzzle of the facility revolves around the inscription machinery, which
 ??? warning "Puzzle Solution"
     The puzzle can be solved, as suggested by the holotext, by replacing the diamond lens. This is done by placing a block of diamond on top of the small platform in front of the holotext, which will activate the factory and give the player a reward at the end of the assembly line.
 
-Upon completion of the puzzle, the player will receive the "Master of Maintenance" advancement, and will have effectively completed the achieved the area's goal.
+Upon completion of the puzzle, the player will receive the "Master of Maintenance" [[Advancements|advancement]], and will have effectively completed the achieved the area's goal.
 
 ## Original Writing
 There are [6 holotexts](/Story_and_Features/Holotexts/Post-75_Areas/Inscription_Complex/) to be found in the Inscription Complex.

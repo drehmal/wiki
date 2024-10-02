@@ -2254,6 +2254,11 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in a hidden room in southeast [[Ytaj]]. Chest located at **(29, 44, -1540)**     |
 
 # End-Game Artifacts
+This artifact set, a full set of netherite armor, is found in the [[Primary Energy Collection Facility|end-game area]] at [[Mt. Yavhlix]].
+
+!!! danger "This section contains spoilers for the late-game dungeon at Mt. Yavhlix. We advise that you do not read further if you have not completed this dungeon, at least to the "Once More Into the Breach" advancement." 
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ## Null Boots
 

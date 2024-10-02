@@ -21,7 +21,7 @@ This book can be found in a chest in southeastern [[Av'Sal]]. It tells the story
 >
 > Before long, Pa returned with the ambassador in tow. Pa looked sheepishly down at me and cleared his throat. “Boy. You’re going to go with Behring here. Life out here isn’t enough for someone who can paint like you can. You’ll do a lot more good in the empire.” Almost immediately after saying that, he turned red, and stiffly walked away.
 >
-> I have come so far since that day, and only recently have I realized that he was right. For years, I worked in the finest academies throughout Dreh’Noha, Drehua, and Akhlo’Rohma. I have seen Emperor Drehn give a speech at his parapet in Av’Sal. I have witnessed the majesty of Sal’Anyr, perched high above the desert floor. I received runic tattoos which helped me to look like the person that the tree in my soul looks like. I fell in love.
+> I have come so far since that day, and only recently have I realized that he was right. For years, I worked in the finest academies throughout Dreh'Noha, Drehua, and Akhlo'Rohma. I have seen Emperor Drehn give a speech at his parapet in Av’Sal. I have witnessed the majesty of Sal’Anyr, perched high above the desert floor. I received runic tattoos which helped me to look like the person that the tree in my soul looks like. I fell in love.
 >
 > As a woman with a kind husband, two wonderful children, and a home that could fit fifty of the cabin I grew up in, I wonder what Pa would think if I met him again. Would he even want to see me? Wonah thinks we should take the kids to visit the place where their mother learned to paint.
 >
@@ -29,5 +29,5 @@ This book can be found in a chest in southeastern [[Av'Sal]]. It tells the story
 >
 > Perhaps, then, Pa would approve of my life’s choices. Maybe he would need to admit he was wrong about Avsohm. Maybe he would show our children how to swing an axe like he did for me so many years ago. Maybe.
 >
-> I have not decided yet. Maybe when Ekari and I finally finish with this sector of Sal’Yahv, I will wake Wonah with a kiss, and we will return to the forest.
+> I have not decided yet. Maybe when Ekari and I finally finish with this sector of Sal'Yahv, I will wake Wonah with a kiss, and we will return to the forest.
 

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in eastern [[Ytaj]]. It serves as the Code of Conduct for the [[Tehrmari]] people living on [[Lo'Dahr]], giving them instructions on how to act in accordance with the will of the [[Aspects]].
+This book can be found on a lectern in eastern [[Ytaj]]. It serves as the Code of Conduct for the [[Tehrmari]] people living on [[Lo'Dahr]], giving them instructions on how to act in accordance with the will of the [Aspects](/Lore/Higher_Beings/Aspects/).
 
 ## Coordinates
 | **X** | **Y** | **Z** |

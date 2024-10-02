@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the Temple of [[Dahroehl]] in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
+This book can be found in a chest in the [[Temple of Dahroehl]] in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -65,7 +65,7 @@ This book can be found in a chest in the Temple of [[Dahroehl]] in [[Anyr'Nogur]
 >
 > Finally, return once more
 >
-> To our reverant temple's core
+> To our reverent temple's core
 >
 > Locate the flower and chalice of power
 >

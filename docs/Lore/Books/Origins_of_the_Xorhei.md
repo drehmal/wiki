@@ -17,7 +17,7 @@ This book can be found in a chest in [[Xor'Huul]]. It describes how the city cam
 >
 > But, perhaps from an act of divine intervention, the survivors washed ashore upon a strange, new land: the Isle of Dhuzehl. The flora and fauna were much unlike what was once known in Casai, but our hardy kind adapted and overcame the day-to-day struggles of survival.
 >
-> From then on, the survivors of the Casaian Empire's attempted mass murder declared themselves the Xorhai, honoring our ancestors upon our new homeland. In line with our fervent worship of Koh, Aspect of Stone, we found ourselves much more at home in subterranean dwellings; indeed, the underground appears the same wherever one may travel.
+> From then on, the survivors of the Casain Empire's attempted mass murder declared themselves the Xorhai, honoring our ancestors upon our new homeland. In line with our fervent worship of Koh, Aspect of Stone, we found ourselves much more at home in subterranean dwellings; indeed, the underground appears the same wherever one may travel.
 >
 > As our kind moved deeper and explored the island further, we began stumbling upon more and more of the crystals that dot its landscape and fill its caverns. And with them, came the Vorthrah: magical guardians of the crystals, small in size yet quite deadly.
 >

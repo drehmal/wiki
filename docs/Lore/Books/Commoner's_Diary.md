@@ -25,6 +25,6 @@ This book can be found in a chest in [[Xor'Huul]]. It paints a picture of the fi
 >
 > Tahsganrohma 4: 1821
 >
-> Oh, Koh be with me, it was a bloodbath. The royal guards... they didn't even hesitate. They seemed to not even see us as their countrymen. Arhzo was the first to fall... the cowards shot him in the back. He was not the only one, and nearly everyone has been wounded, myself included.  But, miraculously, we won. The guards were weak, surprisingly so. Many looked-half dead from the plague already. And then we saw it. The king on his throne, gasping for breath, dying. He was entirely covered in stone and gem, hardly fit to be called a Drehmari. None of us are fit to lead; indeed, we are all afflicted with the same curse as he. The king has failed us, and Xor’huul has fallen.
+> Oh, Koh be with me, it was a bloodbath. The royal guards... they didn't even hesitate. They seemed to not even see us as their countrymen. Arhzo was the first to fall... the cowards shot him in the back. He was not the only one, and nearly everyone has been wounded, myself included.  But, miraculously, we won. The guards were weak, surprisingly so. Many looked-half dead from the plague already. And then we saw it. The king on his throne, gasping for breath, dying. He was entirely covered in stone and gem, hardly fit to be called a Drehmari. None of us are fit to lead; indeed, we are all afflicted with the same curse as he. The king has failed us, and Xor'huul has fallen.
 
 

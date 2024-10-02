@@ -27,7 +27,7 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 >
 > Landfall Elder Taihgel, Great Land Aspect
 > -------------------
-> Taihgel created the land and continents, and is described as a massive earthen turtle. Despite its size, it is known to be a gentle and caring Elder, who often councels other Aspects who come to ask for advice.
+> Taihgel created the land and continents, and is described as a massive earthen turtle. Despite its size, it is known to be a gentle and caring Elder, who often counsels other Aspects who come to ask for advice.
 >
 > Starrise Elder Rihelma, Great Sky Aspect
 > -------------------
@@ -35,7 +35,7 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 >
 > Lai, The Brightwrym, Aspect of Warmth
 > -------------------
-> Lai brought the joy of warmth into our lives, and reflects that warmth in his sunny disposition. Lai is by far the most cheerful and accomodating Aspect, and is known for his easy-going nature even amongst mortals.
+> Lai brought the joy of warmth into our lives, and reflects that warmth in his sunny disposition. Lai is by far the most cheerful and accommodating Aspect, and is known for his easy-going nature even amongst mortals.
 >
 > Glacial Paragon Loe, Aspect of Cold
 > -------------------

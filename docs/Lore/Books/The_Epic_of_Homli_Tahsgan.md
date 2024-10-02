@@ -43,7 +43,7 @@ This book can be found in a chest in [[Faehrcyle]]. In the form of an epic poem,
 >
 > And Homli left for far away.
 >
-> As Ghemli watched his fading stride,
+> As Gehmli watched his fading stride,
 >
 > Homli knew he had his father's pride.
 >

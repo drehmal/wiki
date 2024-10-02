@@ -16,7 +16,7 @@ This book can be found in a chest in the [[Resonant Halls]]. It is a transcripti
 | 26940 |  58   |  16   |
 
 ## Transcription
-\ *U1 = User 1 (Orix)
+\*U1 = User 1 (Orix)
 
 \*AR = Audio Receptor (Tethlaen)
 > [U1] Attention, Harbinger. Any interesting observations on your side today?

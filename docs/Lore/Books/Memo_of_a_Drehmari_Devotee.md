@@ -27,12 +27,11 @@ This book can be found in a chest at a small camp in the [[Crimson Gorge]]. It i
 >
 > Although I had begun to have doubts, the final straw came in a tome from the Palisades, written by the ancient Drehua.
 >
-> Although the words were cryptic, one thing was clear. It was a people called the Viruhn which were the cause of Maehlis's birth in agony. The resemblance in name to the Goddess is
-the proof that I had been badly misguided in my faith.
+> Although the words were cryptic, one thing was clear. It was a people called the Viruhn which were the cause of Maelihs's birth in agony. The resemblance in name to the Goddess is the proof that I had been badly misguided in my faith.
 >
-> So I ventured to the Carmine, and visited the Sepulchral Altar at Rhaveloth. And there, I learned about the greatness of Maehlis and his mission.
+> So I ventured to the Carmine, and visited the Sepulchral Altar at Rhaveloth. And there, I learned about the greatness of Maelihs and his mission.
 >
-> Unlike Virtuo, Maehlis cares for the people of this realm. He seeks to unite by fire. Burning our skin to a char is his way of making our exteriors a reflection of our imperfection.
+> Unlike Virtuo, Maelihs cares for the people of this realm. He seeks to unite by fire. Burning our skin to a char is his way of making our exteriors a reflection of our imperfection.
 >
 > We cannot be peaceful, pure, or perfect, so why should we try? The Maelmari priests heard my yearning call and generously told me all they knew.
 >
@@ -41,5 +40,5 @@ Drehmari prophet of Maelihs.
 >
 > If some traveler miraculously comes upon my encampment, please take this journal and continue my mission.
 >
-> The world must learn about the greatness of Maehlis. If this realm is doomed, let us spend our waning years under the tutelage of a deity who will care for us.
+> The world must learn about the greatness of Maelihs. If this realm is doomed, let us spend our waning years under the tutelage of a deity who will care for us.
 

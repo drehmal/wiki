@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Firteid]] Libary, and tells an abridged history of the [[Tidal Dynasty]].
+This book can be found in a chest in the [[Firteid]] Library, and tells an abridged history of the [[Tidal Dynasty]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

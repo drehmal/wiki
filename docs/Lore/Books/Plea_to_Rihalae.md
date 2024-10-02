@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern, on a floating island in the central portion of [[Rihelma's Domain]]. It is a plea to the Wind Aspect, [[Rihalae]], asking them to return and help foster change in a world the author sees as too stagnant.
+This book can be found on a lectern, on a floating island in the central portion of [[Rihelma's Domain]]. It is a plea to the Wind Aspect, [[Rihalae]], asking her to return and help foster change in a world the author sees as too stagnant.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

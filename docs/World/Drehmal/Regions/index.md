@@ -24,7 +24,6 @@ In the Terminus, regions are categorized into four groups, each having a corresp
 ## Western Regions (Under Construction)
 
  - [[Anyr'Nogur]]
- - [[The Carmine]]
  - [[Casai]]
  - [[Crimson Gorge]] (No Terminus Tower)
  - [[Ebony Veldt]]
@@ -35,6 +34,7 @@ In the Terminus, regions are categorized into four groups, each having a corresp
  - [[Nimahj Swamp]]
  - [[Tharxax Plains|North Tharxax]]
  - [[Tharxax Plains|South Tharxax]]
+ - [[The Carmine]]
 
 
 ## Eastern Regions

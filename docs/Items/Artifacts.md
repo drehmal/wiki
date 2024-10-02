@@ -277,6 +277,19 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | An extremely unconventional weapon that proved fruitful in spelunking parties. Seen as shameful until one has felt the full force of its broad, flat power. |
 | **Obtain** | In an overgrown house within the [[North Heartwood]]. Chest located at **(1644, 83, 1898)**  |
 
+## Bloodied Nullblade
+
+|               |                                     |
+| ------------- | ----------------------------------- |
+| Base Item     | Stone Sword                          | 
+| Attack Damage | 6                                   |
+| Attack Speed  | 1.6                                 |
+
+|            | **Lore and how to Obtain**                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| **Lore**   | An old worn blade made of a strange material.                         |
+| **Obtain** | Found in a hidden side room of the [[Last Avsohmic Vault]]. Item Frame located at **(-3661, 77, -1171)** |
+
 ## Boltcatcher's Cradle
 
 |             |                                |
@@ -1258,7 +1271,7 @@ These artifacts can be found at any time through exploration of the continent of
 | Attack Speed  | 1.6         |
 | Bonus Stats   | Unbreakable |
 
-|            | **Lore and how to Obtain**                                                                                                                                       |
+|            | **Lore and how to Obtain**     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Made from an incredible durable material discovered in small quantities at Sal'Mevir. The Insohmic Coven of Potentia used these weapons to control their Chosen. |
 | **Obtain** | Located in the Insohmic [[Coven of Potentia]] on the east coast of the Shattered Peninsula. Chest located at **(6035, 61, 1515)**                       |
@@ -2239,3 +2252,65 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Two friends grew up in the slums of the great river city of Athrah, long ago, and made a living as thieves. When one disappeared after trying to steal from a traveling order of monks, the other used the combined funds to buy this sturdy rod, which lifted them out of desperation. On a fateful day many decades later, the two reunited. |
 | **Obtain** | Located in a hidden room in southeast [[Ytaj]]. Chest located at **(29, 44, -1540)**     |
+
+# End-Game Artifacts
+
+## Null Boots
+
+|                 |                                               |
+| --------------- | --------------------------------------------- |
+| Base Item       | Netherite Boots                               |
+| Armor           | 3                                             |
+| Armor Toughness | 3                                             |
+| Bonus Stats     | +1 Knockback Resistance                       |
+| Enchants        | Protection 3, Unbreaking 3, Mending |
+
+|            | **Lore and how to Obtain**     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The Bereft is watching, seeker. Do you know who they left for you? Do you? |
+| **Obtain** | Located near the bottom of the [[Primary Energy Collection Facility]] in Mt. Yavhlix. Chest located at **(26858, 39, -154)**        |
+
+## Null Cuirass
+
+|                 |                                               |
+| --------------- | --------------------------------------------- |
+| Base Item       | Netherite Chestplate                          |
+| Armor           | 8                                             |
+| Armor Toughness | 3                                             |
+| Bonus Stats     | +1 Knockback Resistance                       |
+| Enchants        | Protection 3, Unbreaking 3, Mending |
+
+|            | **Lore and how to Obtain**     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Child of Khive, subjugated by one beyond. Child of Khive, close the tear. Child of Khive, save them! |
+| **Obtain** | Located in an upper area of the [[Primary Energy Collection Facility]] in Mt. Yavhlix. Chest located at **(26962, 98, -128)**        |
+
+## Null Greaves
+
+|                 |                                               |
+| --------------- | --------------------------------------------- |
+| Base Item       | Netherite Leggings                            |
+| Armor           | 6                                             |
+| Armor Toughness | 3                                             |
+| Bonus Stats     | +1 Knockback Resistance                       |
+| Enchants        | Protection 3, Unbreaking 3, Mending |
+
+|            | **Lore and how to Obtain**     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | The Ambition is already complete. |
+| **Obtain** | Located in a side room of the [[Primary Energy Collection Facility]] in Mt. Yavhlix, near the soul sand pit. Chest located at **(26872, 71, -54)**        |
+
+## Null Helmet
+
+|                 |                                               |
+| --------------- | --------------------------------------------- |
+| Base Item       | Netherite Helmet                              |
+| Armor           | 3                                             |
+| Armor Toughness | 3                                             |
+| Bonus Stats     | +1 Knockback Resistance                       |
+| Enchants        | Protection 3, Unbreaking 3, Mending |
+
+|            | **Lore and how to Obtain**     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | It is an atrocity no soul should bear the weight of. The fissure is now our fate. If only they knew. If only you knew. |
+| **Obtain** | Located in [[Primary Energy Collection Facility]] in Mt. Yavhlix, in a labyrinthine room full of smooth stone slabs. Chest located at **(26921, 96, -150)**        |

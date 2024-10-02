@@ -31,7 +31,7 @@ This location is accessed immediately following the [[Court of Nothing]] in the 
     In the True End dimension, these coordinates will take the player to the very first room of the Maddened Path, which is normally accessible ONLY THROUGH THE PROPER STORY SEQUENCE. Do NOT attempt to teleport to these coordinates before reaching them naturally, or you will risk sequence-breaking the map.
 
 ## Story
-After defeating [[Ultva]] & [[Hovadchear]] at the Court, the player is given another portal by the [[yellow.md|Mythoclast]] leading to the Maddened Path. 
+After defeating [[Ultva-Hovad|Ultva and Hovadchear]] at the Court, the player is given another portal by the [[yellow.md|Mythoclast]] leading to the Maddened Path. 
 
 ![[maddened_path.png]]
 > The Maddened Path.

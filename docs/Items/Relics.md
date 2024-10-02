@@ -1,52 +1,52 @@
 # Relics
 
-Relics are items obtained via [[Devotion|devotion]], gifted as rewards for reaching certain milestones. Each Aspect or deity has their own relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Relics grant stat boosts (and sometimes debuffs) when placed in the player's off-hand slot. Each level increases the stat boosts granted by the item and changes the sprite, with the final version often having a more detailed sprite with additional lore text.
+Relics are items obtained via [[Devotion|devotion]], gifted as rewards for reaching certain milestones. Each [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects/) or [Deity](/Lore/Higher_Beings/Deities/) has their own relic, of which there are 4 levels (typically indicated by a +0 to +3 after the item name) that are given separately at different levels of devotion. Relics grant stat boosts (and sometimes debuffs) when placed in the player's off-hand slot. Each level increases the stat boosts granted by the item and changes the sprite, with the final version often having a more detailed sprite with additional lore text.
 
 ## List
 
-| Name                 | Aspect/Deity  | Stat Modifiers                                        |
-| -------------------- | ------------- | ----------------------------------------------------- |
-| Effloresce +0        | [[Drehmal]]   | +6% Max Health                                        |
-| Effloresce +1        | Drehmal       | +6% Max Health, +6% Movement Speed                    |
-| Effloresce +2        | Drehmal       | +6% Max Health, +6% Movement Speed, +6% Attack Damage |
-| Effloresce +3        | Drehmal       | +8% Max Health, +8% Movement Speed, +8% Attack Damage |
-| Sprout of Anguish +0 | [[Maelihs]]   | +2 Max Health (+1 Heart)                              |
-| Sprout of Anguish +1 | Maelihs       | +4 Max Health (+2 Hearts)                             |
-| Sprout of Anguish +2 | Maelihs       | +6 Max Health (+3 Hearts)                             |
-| Sprout of Anguish +3 | Maelihs       | +10 Max Health (+5 Hearts)                            |
-| Purifying Light +0   | [[Virtuo]]    | +0.007 Movement Speed                                 |
-| Purifying Light +1   | Virtuo        | +0.014 Movement Speed                                 |
-| Purifying Light +2   | Virtuo        | +0.021 Movement Speed                                 |
-| Purifying Light +3   | Virtuo        | +0.028 Movement Speed                                 |
-| Mysterial +0         | [[Khive]]     | +5% Movement Speed, -10% Attack Damage                |
-| Mysterial +1         | Khive         | +10% Movement Speed, -20% Attack Damage               |
-| Mysterial +2         | Khive         | +20% Movement Speed, -30% Attack Damage               |
-| Mysterial +3         | Khive         | +30% Movement Speed, -40% Attack Damage               |
-| Writ of Authority +0 | [[Dahr]]      | +8% Attack Speed                                      |
-| Writ of Authority +1 | Dahr          | +16% Attack Speed                                     |
-| Writ of Authority +2 | Dahr          | +24% Attack Speed                                     |
-| Writ of Authority +3 | Dahr          | +32% Attack Speed                                     |
-| Mirror of Frailty    | [[Rihelma]]   | Applies Weakness effect to fired arrows.              |
-| Mirror of Lethargy   | Rihelma       | Applies Slowness effect to fired arrows.              |
-| Mirror of Miasma     | Rihelma       | Applies Poison effect to fired arrows.                |
-| Mirror of Entropy    | Rihelma       | Applies Wither effect to fired arrows.                |
-| Orogeny +0           | [[Taihgel]]   | +2 Armor                                              |
-| Orogeny +1           | Taihgel       | +3 Armor                                              |
-| Orogeny +2           | Taihgel       | +4 Armor, +1 Armor Toughness                          |
-| Orogeny +3           | Taihgel       | +5 Armor, +2 Armor Toughness                          |
-| Ardorbrand +0        | [[Lai]]       | +1 Attack Damage                                      |
-| Ardorbrand +1        | Lai           | +2 Attack Damage                                      |
-| Ardorbrand +2        | Lai           | +3 Attack Damage                                      |
-| Ardorbrand +3        | Lai           | +4 Attack Damage                                      |
-| Cryostatic +0        | [[Loe]]       | -5% Attack Damage, +15% Attack Speed                  |
-| Cryostatic +1        | Loe           | -15% Attack Damage, +30% Attack Speed                 |
-| Cryostatic +2        | Loe           | -25% Attack Damage, +45% Attack Speed                 |
-| Cryostatic +3        | Loe           | -35% Attack Damage, +60% Attack Speed                 |
-| Resplendence +0      | [[Vayniklah]] | +20% Max Health, -10% Movement Speed                  |
-| Resplendence +1      | Vayniklah     | +40% Max Health, -20% Movement Speed                  |
-| Resplendence +2      | Vayniklah     | +60% Max Health, -30% Movement Speed                  |
-| Resplendence +3      | Vayniklah     | +80% Max Health, -40% Movement Speed                  |
-| Mortality +0         | [[Voynahla]]  | -5% Max Health, +10% Attack Damage                    |
-| Mortality +1         | Voynahla      | -10% Max Health, +20% Attack Damage                   |
-| Mortality +2         | Voynahla      | -20% Max Health, +30% Attack Damage                   |
-| Mortality +3         | Voynahla      | -30% Max Health, +40% Attack Damage                   |
+| **Name**             | **Aspect/Deity**  | **Stat Modifiers**                             | **Lore Text**                                                   |
+|:---------------------|:-------------:|:---------------------------------------------------|:----------------------------------------------------------------|
+| Effloresce +0        | [[Drehmal]]   | +6% Max Health                                        | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. Let it be doused in your faith, let it flourish in your soul. |
+| Effloresce +1        | Drehmal       | +6% Max Health <br>+6% Movement Speed                    | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. It has grown, each new branch being another facet of one's faith. |
+| Effloresce +2        | Drehmal       | +6% Max Health  <br>+6% Movement Speed <br>+6% Attack Damage | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. Soon, it will be another towering oak in the neutral one's forest of postles. |
+| Effloresce +3        | Drehmal       | +8% Max Health <br>+8% Movement Speed <br>+8% Attack Damage | The Final Aspect still dreams of the time before time, when their soul was still the antediluvian Primal Tree. They susurrate of an age of peace. An age of harmony. An age of...  silence. |
+| Sprout of Anguish +0 | [[Maelihs]]   | +2 Max Health (+1 Heart)                              | You have lit a flame that symbolizes your devotion to the God of Chaos. It is only kindling but the embers have begun to spread. |
+| Sprout of Anguish +1 | Maelihs       | +4 Max Health (+2 Hearts)                             | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire has already ignited and shall spread further. |
+| Sprout of Anguish +2 | Maelihs       | +6 Max Health (+3 Hearts)                             | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire shall soon burn all it touches. |
+| Sprout of Anguish +3 | Maelihs       | +10 Max Health (+5 Hearts)                            | "Ah, Ael Irien... do you know what suffering you have inflicted upon this realm? Your greatest sin, felt by all souls, millennia later. You hide behind a curtain, concealing your true wickedness. You are cowardice incarnate." |
+| Purifying Light +0   | [[Virtuo]]    | +0.007 Movement Speed                                 | You have lit a flame that symbolizes your devotion to the Goddess of Purity. It is small, but flickers in a perfectly steady rhythm. |
+| Purifying Light +1   | Virtuo        | +0.014 Movement Speed                                 | You have lit a flame that symbolizes your devotion to the Goddess of Purity. The wax grows as the candle burns, dripping slowly upward in radially symmetric lines. |
+| Purifying Light +2   | Virtuo        | +0.021 Movement Speed                                 | You have lit a flame that symbolizes your devotion to the Goddess of Purity. Its candle has grown so large as to require a lantern for conveyance. Yet, you feel rested and agile while holding it. |
+| Purifying Light +3   | Virtuo        | +0.028 Movement Speed                                 | "For millennia, I didn't know the many wrongdoings of those who incited my birth. But fragments of memory gave me suspicions, and now, at last, I know the truth. I will do what I can to one day earn Naurduul's forgiveness." |
+| Mysterial +0         | [[Khive]]     | +5% Movement Speed <br>-10% Attack Damage             | The first blessing of the Mystic One. What an extraordinarily rare occasion. |
+| Mysterial +1         | Khive         | +10% Movement Speed  <br>-20% Attack Damage           | The second blessing of the Mystic One. Hold it with reverence. |
+| Mysterial +2         | Khive         | +20% Movement Speed <br>-30% Attack Damage            | The third blessing of the Mystic One. It has been many ages since a single blessing was granted. |
+| Mysterial +3         | Khive         | +30% Movement Speed <br>-40% Attack Damage            | In the First Avihm the rules of magic were taught to lowly Drehmari by Khive himself. The Mystic Elder's only wish is to go back and undo it all. To keep the secrets to himself. |
+| Writ of Authority +0 | [[Dahr]]      | +8% Attack Speed                                      | Thou hast been bless'd by the favor of the King! Rejoice in hydration! |
+| Writ of Authority +1 | Dahr          | +16% Attack Speed                                     | Thou hast been bless'd by the favor of the King! Let the tumult of the roiling waves be thy strength! |
+| Writ of Authority +2 | Dahr          | +24% Attack Speed                                     | Thou hast been bless'd by the favor of the King! Thine enemies, perforce, bend knee at the sight! Ne'er have they reckoned with the deep ocean's might! |
+| Writ of Authority +3 | Dahr          | +32% Attack Speed                                     | Long before the Felling of the Primal Tree, Dahr's mortal subjects lived on Lo'Dahr within a vast warm sea. Though the Abyssal Elder's siblings changed the moon greatly, he retained the powers of kingship. |
+| Mirror of Frailty    | [[Rihelma]]   | Applies Weakness effect to fired arrows.              | Spread your wings, novel Star-Kin. The skies are truly boundless. |
+| Mirror of Lethargy   | Rihelma       | Applies Slowness effect to fired arrows.              | Soar through the skies, pierce the heavens. Look beyond and seek the risen stars. |
+| Mirror of Miasma     | Rihelma       | Applies Poison effect to fired arrows.                | Shine brighter than the stars above. Truth is within your grasp. All you must do is reach out. |
+| Mirror of Entropy    | Rihelma       | Applies Wither effect to fired arrows.                | Star-rise Drake Rihelma, in her deep meditative state upon the moon out of sight, has come to a realization. She is close, closer than any of us could imagine, to true enlightenment. Soon she will blossom and reality shall form around her. |
+| Orogeny +0           | [[Taihgel]]   | +2 Armor                                              | A cooled ring of magma, dormant as the Aspect of Land itself. |
+| Orogeny +1           | Taihgel       | +3 Armor                                              | As the ring of magma begins to stir, a small fissure of interest opens deep within the Aspect of Land. |
+| Orogeny +2           | Taihgel       | +4 Armor <br>+1 Armor Toughness                       | A deep rumble is occasionally heard within the ring of magma, as it swells and contorts. A batholith fills with liquid hope inside the hardened heart of the Aspect of Land. |
+| Orogeny +3           | Taihgel       | +5 Armor <br>+2 Armor Toughness                       | A blast of molten lava erupts as Taihgel's passion returns. May you wield this ring with sure-handed boldness as a ground of inspiration for your ailing patron. |
+| Ardorbrand +0        | [[Lai]]       | +1 Attack Damage                                      | Warmth exists in many things, spreading with increased intensity. May it sweep through your heart as your piety deepens. |
+| Ardorbrand +1        | Lai           | +2 Attack Damage                                      | Warmth exists in many things, spreading with increased intensity. Your fervor for Lai, the Brightwyrm, glows brighter. | 
+| Ardorbrand +2        | Lai           | +3 Attack Damage                                      | Warmth exists in many things, spreading with increased intensity. The Brightwyrm glows with ferocity in your mind. |
+| Ardorbrand +3        | Lai           | +4 Attack Damage                                      | Your endless enthusiasm and passion for the Aspect of Warmth glows brighter than the embered blade you wield. Don't let yourself be consumed in the beautiful, devouring flame. |
+| Cryostatic +0        | [[Loe]]       | -5% Attack Damage <br>+15% Attack Speed               | An ingot of Divine Ice appears in your hands, pleasantly cooling your skin. It isn't much to look at... |
+| Cryostatic +1        | Loe           | -15% Attack Damage <br>+30% Attack Speed              | An ingot of Divine Ice elongates in your hands, accompanied by a relieving chill. Your loyalty is given begrudging respect. |
+| Cryostatic +2        | Loe           | -25% Attack Damage <br>+45% Attack Speed              | An ingot of Divine Ice sprouts into crystals, causing your breath to fog. Your dependable kindness is rewarded with approving admiration. |
+| Cryostatic +3        | Loe           | -35% Attack Damage <br>+60% Attack Speed              | Your ingot forms into a frigid crystalline talisman, arcing with the colors of the aurora. Loe now fully trusts you to help bring peaceful stability to a realm "cursed" by annoyance and thoughtless caprice. |
+| Resplendence +0      | [[Vayniklah]] | +20% Max Health <br>-10% Movement Speed               | You have been made custodian of a terrarium granted by the Aspect of Life herself. Nurture your infant faith as it grows into adulthood. |
+| Resplendence +1      | Vayniklah     | +40% Max Health <br>-20% Movement Speed               | You have been made custodian of a terrarium granted by the Aspect of Life herself. Suffer through a questioning phase as its denizens reach adolescence. |
+| Resplendence +2      | Vayniklah     | +60% Max Health <br>-30% Movement Speed               | You have been made custodian of a terrarium granted by the Aspect of Life herself. Let your mature faith bloom and pollinate as the ecosystem flourishes. |
+| Resplendence +3      | Vayniklah     | +80% Max Health <br>-40% Movement Speed               | The complexity of designing viable vessels for souls led Vayniklah to create the first of the second generation of Aspects to assist her. May you likewise serve her with steadfast bureaucratic zeal. |
+| Mortality +0         | [[Voynahla]]  | -5% Max Health <br>+10% Attack Damage                 | You have been granted the favor of the Aspect of Death himself. Deliver it with certainty and caution. |
+| Mortality +1         | Voynahla      | -10% Max Health <br>+20% Attack Damage                | You have been granted the favor of the Aspect of Death himself. Death becomes more unwieldy the further you go. | 
+| Mortality +2         | Voynahla      | -20% Max Health <br>+30% Attack Damage                | You have been granted the favor of the Aspect of Death himself. Your mountain of corpses grows ever higher. |
+| Mortality +3         | Voynahla      | -30% Max Health <br>+40% Attack Damage                | Upon witnessing the death of another Aspect, Voynahla realized the full extent of his domain. Now, he lives in eternal death by his own choosing, never to return to deific mortality. |

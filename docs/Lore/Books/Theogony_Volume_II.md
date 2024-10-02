@@ -39,7 +39,7 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 >
 > Glacial Elder Loe, Aspect of Cold
 > -------------------
-> Despite what one may think, Loe is not a cold-hearted or cruel Aspect. In fact, she is quite jolly! However, she is known to keep a grudge, with her and Lai having a fierce rivalry, both dropping the friendly façade to fiercely debate.
+> Despite what one may think, Loe is not a cold-hearted or cruel Aspect. In fact, he is quite jolly! However, he is known to keep a grudge, with he and Lai having a fierce rivalry, both dropping the friendly façade to fiercely debate.
 >
 > Life-Bringer Vayniklah, Aspect of Life
 > -------------------

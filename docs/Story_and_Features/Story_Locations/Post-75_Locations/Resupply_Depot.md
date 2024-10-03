@@ -36,7 +36,7 @@ The Depot is found floating high in the air, alongside numerous other floating i
 ![[depot_outside.png]]
 > The exterior of the Resupply Depot.
 
-[Holotexts](/Story_and_Features/Holotexts/) at the facility provide insight towards the beginning of Avsohm's lunar expeditions, including first-hand accounts of the initial landings, the building of this facility as a logistical base for the project, and the dynamics between the facilities.
+Holotexts at the facility provide insight towards the beginning of Avsohm's lunar expeditions, including first-hand accounts of the initial landings, the building of this facility as a logistical base for the project, and the dynamics between the facilities.
 
 The player can eventually find a holotext in the center of a room, between two display screens on either wall. This holotext hints at the main puzzle mechanic in this location.
 
@@ -57,9 +57,9 @@ Completing this puzzle grants the player the "Energy Technician" [[Advancements|
 ## Original Writing
 There are [6 holotexts](/Story_and_Features/Holotexts/Post-75_Areas/Resupply_Depot/) to be found at the Resupply Depot.
 
-There is also one [lore book](/Lore/Books/), [[Masin's Complaint]], which mirrors the book found in the [[Inscription Complex]].
+There is also one lore book, [[Masin's Complaint]], which mirrors the book found in the [[Inscription Complex]].
 
 ## Lore
-The Resupply Depot was the first Avsohmic facility built on the moon of [[LD|Lo'Dahr]], as it is very close to the site of Avsohm's first moon landing. As such, several prominent Avsohmic figures are known to have spent time here, most notably Verpyne and [[Devro Ihb]]. 
+The Resupply Depot was the first Avsohmic facility built on the moon of Lo'Dahr, as it is very close to the site of Avsohm's first moon landing. As such, several prominent Avsohmic figures are known to have spent time here, most notably Verpyne and [[Devro Ihb]]. 
 
 The construction of the facility was directly ordered by [[Anyr|Emperor Anyr]] after Avsohm's first landings on the moon's surface. It served as a spaceport during its tenure, taking incoming shipments (including energy) from the Aphelion and dispersing them throughout Avsohm's holdings on the moon, and vice versa.

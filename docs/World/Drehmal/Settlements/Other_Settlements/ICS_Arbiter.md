@@ -1,3 +1,3 @@
-# ICS Arbiter.md
+# ICS Arbiter
 
 --8<-- "under_construction.md"

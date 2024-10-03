@@ -25,7 +25,9 @@ The Resonant Halls contain some of the final secrets regarding [[Avsohm|Avsohm's
     The first set of coordinates can be accessed at any point after breaking the seal on Mt. Yavhlix, but the second location is intended only to be accessed as part of its dedicated story sequence. Do NOT attempt to teleport to these coordinates prematurely, or you will risk sequence-breaking the map.    
 
 ## Story
-Once the player makes it back to the [[Terminus Network|Terminus]] from Azimuth Labs, they are given another item by the yellow-possessed [[avSYS]]. This [[Trinkets|trinket]], the *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
+Once the player makes it back to the [[Terminus Network|Terminus]] from Azimuth Labs, they are given another item by the yellow-possessed [[avSYS]]. 
+
+This [[Trinkets|trinket]], the ![[resonant_thing.gif]]{ width="32" } *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
 
 Returning to Mt. Yavhlix, the mysterious voice returns to give the player a cryptic message: a direct quotation of the [[Stranded Thesis]]. It disappears until the player reaches the seal, returning only to break it and beckon the player forward into the halls.
 

@@ -27,7 +27,9 @@ The entrance to Azimuth Labs is located at the [[Sunken Astral Body]], east of t
 ## Story
 Upon defeating [[Tethlaen_Boss|Tethlaen]] in the [[Nothing Island|Nothing]], the player is transported through a portal back to the [[Primary Energy Collection Facility]], teleporting them to the other side of the portal, and a voice speaks to them through the in-game chat. This voice, whose name appears at this point as three yellow question marks, informs the player that their actions have effectively doomed the realm, removing the only seal that was preventing the realm of Drehmal from being flooded by chaotic [[Primal Energy|primal energy]] from the Nothing. Although the figure already believes that the player has learned too much, they resolve to help Avsohm's final remnant to weave together the final pieces of the puzzle. The voice instructs the player to return to the [[Terminus Network|Terminus]], and disappears.
 
-When the player returns to the Terminus through the [[Mt. Yavhlix]] tower, another custom sequence will play out, in which [[avSYS]] is taken over by this presence, turning yellow and dispensing the "Silent Thing" [[Trinkets|trinket]] in the compass dispensary. This item's description tells the player to "travel east of the painted city, a fallen fragment from the home of the deities." 
+When the player returns to the Terminus through the [[Mt. Yavhlix]] tower, another custom sequence will play out, in which [[avSYS]] is taken over by this presence, turning yellow and dispensing the "Silent Thing" [[Trinkets|trinket]] in the compass dispensary. ![[silent_thing.png]]{ width="32" }
+
+This item's description tells the player to "travel east of the painted city, a fallen fragment from the home of the deities." 
 
 ![[azimuth_surface.png]]
 > The surface of the Sunken Astral Body, after the entrance to Azimuth has been opened.

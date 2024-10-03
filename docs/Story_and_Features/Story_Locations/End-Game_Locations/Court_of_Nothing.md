@@ -29,7 +29,7 @@ The **Court of Nothing** is one of the final end-game locations in the main stor
     These coordinates will take the player to the mural room, which contains a portal to the Court ONLY THROUGH THE PROPER STORY SEQUENCE. Do NOT attempt to teleport to these coordinates before reaching them naturally, or you will risk sequence-breaking the map.
 
 ## Story
-After finishing the sequence at the [[Resonant Halls]] and being invited to the Court, the player must return to the [[Terminus Network|Terminus]] one final time, where they will be given the last [[Trinkets|trinket]]: the Rhythmic Thing. This item tells the player to "Return to the place you had risen, lest you wish not to be chosen."
+After finishing the sequence at the [[Resonant Halls]] and being invited to the Court, the player must return to the [[Terminus Network|Terminus]] one final time, where they will be given the last [[Trinkets|trinket]]: the ![[rhythmic_thing.gif]]{ width="32" } Rhythmic Thing. This item tells the player to "Return to the place you had risen, lest you wish not to be chosen."
 
 As the player returns to [[Overworld|Drehmal]], the voice returns to speak to them once more. It tells them of [[Tethlaen]], and how they were determined to save the realm despite the voice's warnings, and how few people truly cared for him despite this act of heroism. The voice then disappears.
 

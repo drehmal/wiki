@@ -14,7 +14,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Inscription Complex** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the far southwest corner of the moon, in [[Loe's Domain]]. Originally used by Avsohm to mass produce inscribed runic catalysts locally on the moon, it stands defunct by the time of the main story, waiting to be repaired by the player.
+The **Inscription Complex** is one of five main story locations on the divine moon of [[Lo'Dahr]], located in the far southwest corner of the moon, in [[Loe's Domain]]. Originally used by [[Avsohm]] to mass produce inscribed [[Arcanism|runic]] catalysts locally on the moon, it stands defunct by the time of the main story, waiting to be repaired by the player.
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
 
@@ -31,7 +31,7 @@ After reaching the Core Facility, the player will likely find the map depicting 
 ![[LD_facilities_map.png]]
 > The map of the four Lo'Dahr facilities, found at all four locations.
 
-The player can find the Inscription Complex hanging from the underside of a glacier in Loe's Domain. Once inside, holotexts provide some insight on the relationship between the different Avsohmic facilities on the moon, as well as the empire's relations with the native [[Tehrmari]]. 
+The player can find the Inscription Complex hanging from the roof of a large, icy cavern in Loe's Domain. Once inside, [holotexts](/Story_and_Features/Holotexts/) provide some insight on the relationship between the different Avsohmic facilities on the moon, as well as the empire's relations with the native [[Tehrmari]]. 
 
 ![[inscription_outside.png]]
 > The Inscription Complex as it appears from ground level.
@@ -48,18 +48,18 @@ The main puzzle of the facility revolves around the inscription machinery, which
     ![[inscription_factory.png]]
 
 ??? warning "Puzzle Solution"
-    The puzzle can be solved, as suggested by the holotext, by replacing the diamond lens. This is done by placing a diamond block on top of the small platform in front of the holotext, which will activate the factory and give the player a reward at the end of the assembly line.
+    The puzzle can be solved, as suggested by the holotext, by replacing the diamond lens. This is done by placing a block of diamond on top of the small platform in front of the holotext, which will activate the factory and give the player a reward at the end of the assembly line.
 
-Upon completion of the puzzle, the player will receive the "Master of Maintenance" advancement, and will have effectively completed the area.
+Upon completion of the puzzle, the player will receive the "Master of Maintenance" [[Advancements|advancement]], and will have effectively completed the achieved the area's goal.
 
 ## Original Writing
 There are [6 holotexts](/Story_and_Features/Holotexts/Post-75_Areas/Inscription_Complex/) to be found in the Inscription Complex.
 
-One book, [[Guhnr's Complaint]], can also be found in this building, in a living quarters room.
+One [book](/Lore/Books/), [[Guhnr's Complaint]], can also be found in this building, in a living quarters room.
 
 ## Lore
-When Avsohm first established a strong presence on Lo'Dahr, they encountered a significant problem: inscribed runic catalysts, the materials that powered the vast majority of their technology, could not be sent through warp towers, as the catalysts were too unstable and would explode upon transportation. Thus, uninscribed runic catalysts had to be sent to the moon, and a facility to inscribe them locally had to be constructed. 
+When Avsohm first established a strong presence on [[LD|Lo'Dahr]], they encountered a significant problem: pre-inscribed runic catalysts, the materials that powered the vast majority of their technology, could not be sent through warp towers, as the catalysts were too unstable and would explode upon transportation. Thus, uninscribed runic catalysts had to be sent to the moon, and a facility to inscribe them locally had to be constructed. 
 
-The Inscription Complex is built in a populated area of Lo'Dahr, as the town of [[Loeturia]] lies just to its north. This was the source of significant tension between the Avsohmic [[Drehmari]] and the local [[Tehrmari]], the latter of whom had lived there for generations, and did not take kindly to Avsohm's attempts to colonize the moon. 
+The Inscription Complex was built in a cavern in the domain of [[Loe]], [Aspect](/Lore/Higher_Beings/Aspects/) of the Cold, because the frigid conditions sustained by their ambient divine magic could replace the machinery's cooling systems as an efficient and costless alternative. However, this area of Lo'Dahr was already populated, as the town of [[Loeturia]] lies just to its north. This was the source of significant tension between the Avsohmic [[Drehmari]] and the local Tehrmari, the latter of whom had lived there for generations, and did not take kindly to Avsohm's attempts to colonize the moon. 
 
-The site appears to have been the home of at least two recurring figures in Avsohmic history: [[Hirhla]] and [[Guhnr]].
+The site appears to have been the home of at least two recurring figures in Avsohmic history: Hirhla and Guhnr.

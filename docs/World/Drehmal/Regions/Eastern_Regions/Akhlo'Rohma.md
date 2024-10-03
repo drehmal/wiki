@@ -70,6 +70,12 @@ Esipelli Vineyard is a now-abandoned but once famous vineyard, winery, restauran
 
 **Coordinates:** (X: 1655, Y: 91, Z: -1315)
 
+### Marahza
+
+Marahza is a tiny village in the middle of Akhlo'Rohma, to the immediate south of the Resting River. Its buildings take a variety of shapes, and are made of birch wood, copper and stained glass. The largest building is the Temple of Bloom and Bough, which contains a [[Devotion|devotion]] altar to the [Aspect](/Lore/Higher_Beings/Aspects/) [[Vayniklah]].
+
+**Coordinates:** (X: 2289, Y: 74, Z: -1611)
+
 ### Rehnite Cave
 
 The "rehnite cave" is a vast, open cavern within the mountains to the north of Akhlo'Rohma. It was Avsohm's principal rehnite mine and a catalyst in the empire's technological growth. A facility patrolled by ancient, mechanical guards remains there today.

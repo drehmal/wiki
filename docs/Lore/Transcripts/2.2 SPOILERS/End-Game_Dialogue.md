@@ -23,7 +23,7 @@
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
-The following is a transcription of the entirety of [[yellow|The Mythoclast]]'s dialogue in Drehmal: Apotheosis, from the end of the [[Primary Energy Collection Facility]] all the way through the true ending of the storyline.
+The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s dialogue in Drehmal: Apotheosis, from the end of the [[Primary Energy Collection Facility]] all the way through the true ending of the storyline.
 
 ## [[Primary Energy Collection Facility]]
 > \*Player emerges from the Nothing after the vanilla Minecraft end credits.*

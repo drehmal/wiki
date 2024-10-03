@@ -4,7 +4,7 @@
 
 The map of Drehmal fundamentally revolves around its story, and the special mechanics that it adds to the game of Minecraft. Articles relating to the main story of Drehmal: Apotheosis and the unique features tied to the map are found in this section of the wiki.
 
-## [[Main Story]]
+## Main Story
 
 The main story of Drehmal takes place in many different locations, linked directly to exploration. Story progression is tied to [[Terminus Network|Terminus network]] linkage in the early game, with milestones at 25%, 50%, and 75% linkage prompting the player to visit different story areas. Towers can be linked in almost any order, and while the story events are intended to be experienced in a particular sequence, you may explore the map at your own pace and with your own unique path.
 
@@ -28,13 +28,15 @@ Merchants that specialize in selling specific items (usually related to their su
 
 [[Adventuring Merchant|Adventuring Merchants]] are present at all official towns on [[Overworld|Drehmal]], indicated by striped red and orange canvas. They sell a map of the town's region (showing some nearby landmarks), a map of Drehmal showing the locations of all [official towns](/World/Drehmal/Settlements/Official_Towns/) on the mainland continent, bundles, and an additional item that differs with each merchant.
 
-## [[Special Items]]
+## Special Items
 
-Many custom items can be found around the map, and these items have different classes; [[Trinkets|trinket]], [[Artifacts|artifact]], artisan, [[Relics|relic]], [[Legendary Items|legendary]] and [[Mythical Weapons|mythical]]. Special items each have their own descriptions and usually stat modifiers, and some classes of items have unique sprites/models.
+Many custom items can be found around the map, and these items have different classes; [[Trinkets|trinket]], [[Artifacts|artifact]], [[Artisan Items|artisan]], [[Relics|relic]], [[Legendary Items|legendary]] and [[Mythical Weapons|mythical]]. Special items each have their own descriptions and usually stat modifiers, and some classes of items have unique sprites/models.
+
+For more information on the many unique items of Drehmal, see the [Items tab](/Items/).
 
 ## [[Devotion]]
 
-Devotion is a mechanic that allows players to give offerings to certain [Aspects](/Lore/Higher_Beings/Aspects/) and [Deities](/Lore/Higher_Beings/Deities/), in the form of specific items that appease them. Offerings are given at devotion altars dedicated to the recipient. The more items offered, the more the player's devotion to that Aspect/Deity increases. As it increases, they will be gifted rewards, including relics (offhand stat-modifying items).
+Devotion is a mechanic that allows players to give offerings to certain [Aspects](/Lore/Higher_Beings/Aspects/) and [Deities](/Lore/Higher_Beings/Deities/), in the form of specific items that appease them. Offerings are given at devotion altars dedicated to the recipient, 11 of which are found throughout the world. The more items offered, the more the player's devotion to that Aspect/Deity increases. As it increases, they will be gifted rewards, including relics (offhand stat-modifying items).
 
 ## Soundtrack
 

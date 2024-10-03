@@ -4,77 +4,75 @@
 
 This article contains short descriptions of many individuals who were mentioned sparingly in [[Holotexts|holotexts]] as either royalty, or personnel for Avsohmic governmental departments or its partnering organizations.
 
-## List
-
-### Achet
+## Achet
 
 Achet was an Avsohmic officer, frequently mentioned between the [[Aphelion]] and [[Av'Sal]].
 
-### Ahdul
+## Ahdul
 
 Ahdul was a high-ranking member of [[Red Dawn]], holding the title of [Alchemical](/Lore/Magic/Alchemy/) Secretary, and a prominent figure within Avsohm.
 
-### Anyra
+## Anyra
 
 Anyra was the daughter of [[Anyr|Emperor Anyr]], the emperor's only known child. She is only mentioned aboard the Aphelion.
 
-### Arli
+## Arli
 
 Arli held the title of Lead Technician at the [[Ring Facility|Ring Research Installation]].
 
-### Azehl
+## Azehl
 
 Azehl was one of two Avsohmic Empresses, who were both presumably wives of Anyr, mentioned in [[Crew Member's Journal]].
 
-### Cehva
+## Cehva
 
 Cehva was an Avsohmic researcher at multiple different facilities, including the [[Numencore]] and the [[Resonant Halls]].
 
-### Ekoh
+## Ekoh
 
 Ekoh was an Avsohmic officer mentioned in multiple different story locations, including the Aphelion and [[Exodus Vault]].
 
-### Elzahra
+## Elzahra
 
-Elzahra was one of two Avsohmic Empresses, both presumably wives of Anyr, mentioned in Crew Member's Journal.
+Elzahra was one of two Avsohmic Empresses, both presumably wives of Anyr, mentioned in [[Crew Member's Journal]].
 
-### Guhnr
+## Guhnr
 
 Guhnr was an Avsohmic officer stationed at the [[Inscription Complex]].
 
-### Hirhla
+## Hirhla
 
 Hirhla was an Avsohmic officer specializing in the inscription of [[Arcanism|runic]] catalysts.
 
-### Koen
+## Koen
 
 Koen was an Avsohmic researcher at [[Sal'Mevir]], responsible for the creation of [[Avsohm'Kohl]].
 
-### Marto
+## Marto
 
 Marto was an Avsohmic officer, responsible for the halting of activity at the Numencore.
 
-### Mo
+## Mo
 
 Mo was an Avsohmic historian and scribe who appears to have served the court of Emperor Anyr.
 
-### Muhslihr
+## Muhslihr
 
 Muhslihr was an Avsohmic officer working on the [[avSYS]] project.
 
-### Ruhnl
+## Ruhnl
 
 Ruhnl was an Avsohmic officer, who authored holotexts found at both the Inscription Complex and Aphelion.
 
-### Symis
+## Symis
 
 Symis was an Avsohmic officer specializing in inscription of runic catalysts, stationed at the Ring Research Installation].
 
-### Verpyne
+## Verpyne
 
 Commander Verpyne was the commanding officer of the Aphelion during the era of Avsohm, and a very high-ranking officer within the empire.
 
-### Vortu
+## Vortu
 
 Vortu was an Avsohmic officer, most notable for first conceiving of the [[Terminus Network|Terminus]], and eventually bringing it to life.
 

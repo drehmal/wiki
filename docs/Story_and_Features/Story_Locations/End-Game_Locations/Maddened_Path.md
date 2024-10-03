@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.5
+  exclude: true
 ---
 
 # The Maddened Path (Heart of the Void)

@@ -22,7 +22,7 @@ The legendary weapon of Master [[Ultva]] of [[Insohm]], Ultva's Bowblade is a co
 | **Enchantments**              | Sharpness II <br> Unbreaking IV |
 | **Ability**                   | **Reversal**: "*On a melee kill, grants increased arrow damage and unlimited piercing for a short time.*" |
 | **Lore**                      | When faced with retaliation from Maelihs, the Order of Insohm began a research campaign into the powerful energy source that was utilized by the ancient Avsohmic Empire to fuel magic weaponry. Ultva Utofal, one of Insohm's founders, went insane in one of Avsohm's vaults searching for answers. |
-| **Obtain**                    | In the [[Last Avsohmic Vault]], off the western coast of [[Casai]].   |  
+| **Obtain**                    | In the [[Avsohmic Vault]], off the western coast of [[Casai]].   |  
 
 ## Gameplay
 Ultva's Bowblade is an NBT-modified bow.
@@ -38,7 +38,7 @@ The weapon's ability, Reversal, is activated when the bow is used for a melee ki
 ## How to Obtain
 Ultva's Bowblade is located in the [[Casai]] region, in the vault where Ultva himself went insane.
 
-This vault, the [[Last Avsohmic Vault]], is located on a small island off the western coast of Casai. Once on the island, the vault's door can simply be broken down, and there is only one custom enemy (a Lost Avsohmic Soldier) present in the vault. The bowblade is found in a trapped chest at the back of this vault.
+This vault, the [[Avsohmic Vault]], is located on a small island off the western coast of Casai. Once on the island, the vault's door can simply be broken down, and there is only one custom enemy (a Lost Avsohmic Soldier) present in the vault. The bowblade is found in a trapped chest at the back of this vault.
 
 **Coordinates:** (-3696, 76, -1199)
 

@@ -6,7 +6,7 @@ Legendary items have their own item descriptions, sprites, stat modifiers and un
 
 Similar to [Mythical Weapons](/Items/Mythical_Weapons/), Legendaries can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. 
 
-In this article, Legendaries are separated by spoiler level, as some of them are tied closely to certain points in the story of Drehmal. The 21 legendaries obtainable in the open world are listed first, followed by the two legendaries in early-game story locations, followed by the remaining 6 legendaries found in a late-game area, discovered after the 75% completion event.
+In this article, Legendaries are separated by spoiler level, as some of them are tied closely to certain points in the story of Drehmal. The 22 legendaries obtainable in the open world are listed first, followed by the two legendaries in early-game story locations, followed by the remaining 6 legendaries found in a late-game area, discovered after the 75% completion event.
 
 !!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
     Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.
@@ -260,7 +260,7 @@ The [[Rehntite Plate Mail]] is a legendary chestplate found in a deep, lost cave
     | **Enchantments**              | Sharpness II <br> Unbreaking IV |
     | **Ability**                   | **Reversal**: "*On a melee kill, grants increased arrow damage and unlimited piercing for a short time.*" |
     | **Lore**                      | When faced with retaliation from Maelihs, the Order of Insohm began a research campaign into the powerful energy source that was utilized by the ancient Avsohmic Empire to fuel magic weaponry. Ultva Utofal, one of Insohm's founders, went insane in one of Avsohm's vaults searching for answers. |
-    | **Obtain**                    | In the [[Last Avsohmic Vault]], off the western coast of [[Casai]].   |    
+    | **Obtain**                    | In the [[Avsohmic Vault]], off the western coast of [[Casai]].   |    
 
 ### Voidtear Dagger
 The [[Voidtear Dagger]] is a legendary weapon found in [[Nimahj Swamp]]. It grants the user invisibility while held.

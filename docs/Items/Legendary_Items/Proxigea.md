@@ -44,7 +44,7 @@ It can be thrown freely due to its Loyalty enchantment, although the level of th
 Proxigea becomes even stronger when its ability is activated, however. If the player is touching water, then they receive a 30% increase to their attack damage, attack speed, and armor, making Proxigea a must-have for aquatic combat.
 
 ## How to Obtain
-Proxigea is given as a reward for defeating [[The Vehrniis]], a massive sea serpent boss found in [[Challenger's Grotto]].
+Proxigea is given as a reward for defeating [[Vehrniis|The Vehrniis]], a massive sea serpent boss found in [[Challenger's Grotto]].
 
 Defeating The Vehrniis opens a door in the northern side of the arena, leading to a small cavern that can be used to exit the area back to the surface. However, before this, the player can swim to the bottom of a flooded area to find a chest containing Proxigea.
 

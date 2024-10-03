@@ -14,7 +14,7 @@
 
 A scythe wielded by a cryptic, hooded figure known as The Pawn, Oblivion is found through a paper trail beginning in the castle at [[Highfall]], taking the player on a journey throughout the northeastern portion of the continent.
 
-<br> <br> <br>
+<br> <br> <br> <br> <br>
 
 | Category | Description                 |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

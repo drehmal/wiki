@@ -28,12 +28,6 @@ Merchants that specialize in selling specific items (usually related to their su
 
 [[Adventuring Merchant|Adventuring Merchants]] are present at all official towns on [[Overworld|Drehmal]], indicated by striped red and orange canvas. They sell a map of the town's region (showing some nearby landmarks), a map of Drehmal showing the locations of all [official towns](/World/Drehmal/Settlements/Official_Towns/) on the mainland continent, bundles, and an additional item that differs with each merchant.
 
-## Special Items
-
-Many custom items can be found around the map, and these items have different classes; [[Trinkets|trinket]], [[Artifacts|artifact]], [[Artisan Items|artisan]], [[Relics|relic]], [[Legendary Items|legendary]] and [[Mythical Weapons|mythical]]. Special items each have their own descriptions and usually stat modifiers, and some classes of items have unique sprites/models.
-
-For more information on the many unique items of Drehmal, see the [Items tab](/Items/).
-
 ## [[Devotion]]
 
 Devotion is a mechanic that allows players to give offerings to certain [Aspects](/Lore/Higher_Beings/Aspects/) and [Deities](/Lore/Higher_Beings/Deities/), in the form of specific items that appease them. Offerings are given at devotion altars dedicated to the recipient, 11 of which are found throughout the world. The more items offered, the more the player's devotion to that Aspect/Deity increases. As it increases, they will be gifted rewards, including relics (offhand stat-modifying items).

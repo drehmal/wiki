@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.5
+  exclude: true
 ---
 
 # Court of Nothing

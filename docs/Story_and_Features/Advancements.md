@@ -73,6 +73,8 @@ This section contains the 48 advancements in the "Drehmal" tab, which are almost
     | Oh Shiny | Distract Maelmari with gold | Distract a [[Maelmari]] (piglin) by throwing gold. |
     | Sticky Situation | Jump into a honey block to break your fall | Jump into the side of a honey block and slide down it, breaking your fall. |
     | Total Beelocation | Move a Bee Nest, with 3 bees inside, using Silk Touch | |
+    | REMOVED ADVANCEMENTS | \* The following advancement was in the 1.17 version of Drehmal: Apotheosis, but is not present in the current patch. | |
+    | A Complete Catalogue | Tame all cat variants! | Tame all 11 cat variants. |
   
 ## Moderate Exploration Spoilers: Fabled Equipment and Discoveries
 

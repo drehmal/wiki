@@ -7,9 +7,12 @@ hide:
 icon: material/home
 ---
 
-# Welcome to the Official Drehmal Wiki!
+# Welcome to the Official Drehmal: Apotheosis Wiki!
 
-!!! tip "**New here? Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!**"
+!!! warning "**Drehmal is designed to be played without the use of outside resources, such as this wiki, which contains MASSIVE spoilers for EVERYTHING in the map! Drehmal is heavily centered around exploration and discovery, driven by YOU, the player! We strongly recommend only using this wiki if you are looking for something in particular, or if you have completed the map yourself.**"
+    New here? Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!
+
+!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
 
 <figure markdown>
   ![[drehmal_realmbinder.png]]{ width="600" }
@@ -18,8 +21,6 @@ icon: material/home
 Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is v2.2.1: Apotheosis, built for Minecraft Java Edition 1.20.1.
 
 Our wiki is a collaborative effort to document the wonders of Drehmal for new and experienced players alike, spearheaded entirely by highly invested community members. 
-
-!!! note "This wiki is very much still a work in progress, with many pages still unfinished, unorganized, outdated, or yet to be written at all. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the #wiki-creation channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account."
 
 * **Official Drehmal Website (Download the Map From Here!):** [https://drehmal.net](https://drehmal.net)
 * **Official Discord:** [https://discord.gg/drehmal](https://discord.gg/drehmal) OR [https://discord.drehmal.net](https://discord.drehmal.net)
@@ -63,6 +64,7 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
     - (Story & Features) Devotion <br>
     - (Story & Features) Advancements <br>
     - (Story & Features) Story Progression + Story Locations
+    - (World) Drehmal: Central Regions & Eastern Regions
 
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!

@@ -2,13 +2,13 @@
 
 ![[AK_landscape.png]]{ align=right width="300" }
 
-**Akhlo'Rohma** (pronounced AWK-low-row-ma) is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
+**Akhlo'Rohma** (pronounced OCK-low-row-ma) is a relatively large region in northeast [[Overworld|Drehmal]]. The region is distinguished by its giant flowers and vibrant-colored cliffs. The name "Akhlo'Rohma" means "Long Rest" in [[Rihselch]].
 
 ## Geography
 
 Akhlo'Rohma stretches from the east coast of the Gulf of Drehmal to the western edge of the Veruhkt Plateau. A mountain range divides the region from [[Faehrcyle]] to the north, and the Nahynaga Mountains separate it from [[Grand Pike Canyon]] to the southeast. The region also borders [[Veruhkt Plateau]] to the east, [[Purity Peaks]] to the south and the [[Gulf of Drehmal]] region to the southwest.
 
-Akhlo'Rohma is made up of mostly flat grassland with some large terracotta hills, but the region is most recognisable by the fact that it is densely populated with gigantic flowers. Based on the type of flowers present, the region can be split into three distinct horizontal segments: <br>
+Akhlo'Rohma is made up of mostly flat grassland with some large terracotta hills, but the region is most recognizable by the fact that it is densely populated with gigantic flowers. Based on the type of flowers present, the region can be split into three distinct horizontal segments: <br>
 - North: The northern segment includes all Akhlo'Rohman land north of the Resting River (a large river flowing from Veruhkt Plateau in the east out into the Gulf of Drehmal to the west). The flowers here are all almost entirely white, and the land is significantly hillier than it is in the southern portion of the region. <br>
 - Central: The flowers of the central segment consist of a pink, red and gold color pallette. This area consists generally of flatter grassland, with some rolling hills. <br>
 - South: The southern segment has flowers that are primarily purple and blue, but also have red, pink and gold/yellow features. <br>
@@ -21,7 +21,7 @@ The city of [[Dusps]] is located atop a colorful hill in southern Akhlo'Rohma, a
 
 The city-state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace. All of Akhlo'Rohma was eventually united under the rule of Ancehl's duke. The first school of [[Alchemy|alchemy]], Asomatous Alchemy, was created by the nobles of Ancehl.
 
-Akhlo'Rohma was one of the first territories to be acquired by the [[Avsohm|Empire of Avsohm]]. It was in the mountains on the northern border of this region that a [[Rehnite Cave|cave]] yielding an extraordinary amount of the mineral rehnite was found. This mining site would become integral to Avsohm's [[Arcanism|runic technology]] industry.
+Akhlo'Rohma was one of the first territories to be acquired by the [[Avsohm|Empire of Avsohm]]. It was in the mountains on the northern border of this region that a [[Rehntite Cave|cave]] yielding an extraordinary amount of the mineral rehntite was found. This mining site would become integral to Avsohm's [[Arcanism|runic technology]] industry.
 
 After [[Fall of Avsohm|Avsohm's fall]], Ancehl reclaimed its position of power. The region was populated by an influx of Casain immigrants, seeking refuge from the [[Dune Wars]] in the west. These communities were met with discrimination, especially by the government in Ancehl, who scorned their worship of [[Voynahla]] and saw them as cursed. This led to the [[Dohval Civil War]], in which Casains rebelled against Ancehl and burned down the city, only leaving the [[Ancehl Castle|castle]] behind. The war resulted in a reformation of the government, lending a share of political power to a parliament based in Dusps (at which point the state was renamed to the [[Kingdom of Dusps]]).
 
@@ -76,9 +76,9 @@ Marahza is a tiny village in the middle of Akhlo'Rohma, to the immediate south o
 
 **Coordinates:** (X: 2289, Y: 74, Z: -1611)
 
-### Rehnite Cave
+### Rehntite Cave
 
-The "rehnite cave" is a vast, open cavern within the mountains to the north of Akhlo'Rohma. It was Avsohm's principal rehnite mine and a catalyst in the empire's technological growth. A facility patrolled by ancient, mechanical guards remains there today.
+The "rehntite cave" is a vast, open cavern within the mountains to the north of Akhlo'Rohma. It was Avsohm's principal rehntite mine and a catalyst in the empire's technological growth. A facility patrolled by ancient, mechanical guards remains there today.
 
 **Coordinates:** (X: 1683, Y: 19, Z: -2724)
 

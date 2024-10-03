@@ -17,6 +17,7 @@ The term "ardorbrand" is likely a portmanteau of "Ardor," meaning "enthusiasm" o
 | Ardorbrand +3        | +4 Attack Damage                                   | Your endless enthusiasm and passion for the Aspect of Warmth glows brighter than the embered blade you wield. Don't let yourself be consumed in the beautiful, devouring flame. |
 
 ![[ardorbrand.gif]]{ align=center width="320" }
+> The four sprites of Ardorbrand, from +0 to +3.
 
 ## Cryostatic
 **Cryostatic** is a talisman made of Divine Ice, given as a devotion reward for the Aspect of Cold, [[Loe|Glacial Elder Loe]], at the [[Crystalline Colonnade]]. It is capable of greatly increasing attack speed at the cost of attack damage, making it useful for players who prefer to fight quickly.
@@ -29,6 +30,7 @@ The term "ardorbrand" is likely a portmanteau of "Ardor," meaning "enthusiasm" o
 | Cryostatic +3        | -35% Attack Damage <br>+60% Attack Speed           | Your ingot forms into a frigid crystalline talisman, arcing with the colors of the aurora. Loe now fully trusts you to help bring peaceful stability to a realm "cursed" by annoyance and thoughtless caprice. |
 
 ![[cryostatic.gif]]{ align=center width="320" }
+> The four sprites of Cryostatic, from +0 to +3.
 
 ## Effloresce
 **Effloresce** is a small tree sapling, given as a devotion reward for the serpentine creator deity, [[Drehmal]], at [[Drehua Temple]]. It adds multiple modest stat boosts in higher levels, increasing the player's max health, movement speed, and attack damage.
@@ -41,6 +43,7 @@ The term "ardorbrand" is likely a portmanteau of "Ardor," meaning "enthusiasm" o
 | Effloresce +3        | +8% Max Health <br>+8% Movement Speed <br>+8% Attack Damage | The Final Aspect still dreams of the time before time, when their soul was still the antediluvian Primal Tree. They susurrate of an age of peace. An age of harmony. An age of...  silence. |
 
 ![[effloresce.gif]]{ align=center width="320" }
+> The four sprites of Effloresce, from +0 to +3.
 
 ## Mortality
 Mortality is a skull-shaped relic, given as a devotion reward for the Aspect of Death, [[Voynahla|Soul-Stealer Voynahla]], at the [[Perishing Well]]. It takes from the player's max health, but increases their attack damage, useful for a glass cannon-style build.
@@ -53,6 +56,7 @@ Mortality is a skull-shaped relic, given as a devotion reward for the Aspect of 
 | Mortality +3         | -30% Max Health <br>+40% Attack Damage             | Upon witnessing the death of another Aspect, Voynahla realized the full extent of his domain. Now, he lives in eternal death by his own choosing, never to return to deific mortality. |
 
 ![[mortality.gif]]{ align=center width="320" }
+> The four sprites of Mortality, from +0 to +3.
 
 ## Mysterial
 **Mysterial** is a strange magical orb, given as a devotion reward for the Mystic Elder [[Khive]] at the [[Nameless Ziggurat]]. It provides a significant movement speed boost as a percentage of player speed, rather than a flat boost. This comes at the cost of an attack damage penalty, making it optimal for quick travel by foot, but not use in combat.
@@ -65,6 +69,7 @@ Mortality is a skull-shaped relic, given as a devotion reward for the Aspect of 
 | Mysterial +3         | +30% Movement Speed <br>-40% Attack Damage         | In the First Avihm the rules of magic were taught to lowly Drehmari by Khive himself. The Mystic Elder's only wish is to go back and undo it all. To keep the secrets to himself. |
 
 ![[mysterial.gif]]{ align=center width="320" }
+> The four sprites of Mysterial, from +0 to +3.
 
 ## Orogeny
 **Orogeny** is a ring made of magma, given as a devotion reward for the Great Land Aspect [[Taihgel]] at [[Wokonori]]. It adds additional armor and armor toughness when held in the off-hand, making it optimal for a heavier build.
@@ -79,6 +84,7 @@ The term "orogeny" comes from plate tectonics, and refers to [a geological proce
 | Orogeny +3           | +5 Armor <br>+2 Armor Toughness                    | A blast of molten lava erupts as Taihgel's passion returns. May you wield this ring with sure-handed boldness as a ground of inspiration for your ailing patron. |
 
 ![[orogeny.gif]]{ align=center width="320" }
+> The four sprites of Orogeny, from +0 to +3.
 
 ## Purifying Light
 **Purifying Light** is an Orderflame candle/lantern, given as a devotion reward for the Goddess [[Virtuo]] at the [[Kiln of Virtuo]]. It adds up to 0.028 movement speed, a 28% increase from the player's base speed.
@@ -91,6 +97,7 @@ The term "orogeny" comes from plate tectonics, and refers to [a geological proce
 | Purifying Light +3   | +0.028 Movement Speed                              | "For millennia, I didn't know the many wrongdoings of those who incited my birth. But fragments of memory gave me suspicions, and now, at last, I know the truth. I will do what I can to one day earn Naurduul's forgiveness." |
 
 ![[purifying_light.gif]]{ align=center width="320" }
+> The four sprites of Purifying Light, from +0 to +3.
 
 ## Resplendence
 Resplendence is a small terrarium in the form of a potted plant, given as a devotion reward for the Aspect of Life, [[Vayniklah|Life-Giver Vayniklah]], at the Temple of Bloom and Bough in [[Marahza]]. It provides a significant amount of additional max health to the player, at the cost of movement speed. This makes it useful for a tank build, or for combat encounters where a player does not need to move much.
@@ -103,18 +110,20 @@ Resplendence is a small terrarium in the form of a potted plant, given as a devo
 | Resplendence +3      | +80% Max Health <br>-40% Movement Speed            | The complexity of designing viable vessels for souls led Vayniklah to create the first of the second generation of Aspects to assist her. May you likewise serve her with steadfast bureaucratic zeal. |
 
 ![[resplendence.gif]]{ align=center width="320" }
+> The four sprites of Resplendence, from +0 to +3.
 
 ## Rihelma Mirrors
 The only relics in the game which do not follow the standard +0 to +3 nomenclature, the **Mirrors** are given as a devotion reward for the Great Sky Aspect [[Rihelma]] at the [[Star-Rise Bastion]]. These four mirrors apply different status effects to all arrows fired when held in the off-hand, causing them to deal weakness, slowness, poison, or wither (Entropic Decay) to enemies those arrows hit.
 
 | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
 |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|
-| Mirror of Frailty    | Applies Weakness effect to fired arrows.           | Spread your wings, novel Star-Kin. The skies are truly boundless. |
-| Mirror of Lethargy   | Applies Slowness effect to fired arrows.           | Soar through the skies, pierce the heavens. Look beyond and seek the risen stars. |
-| Mirror of Miasma     | Applies Poison effect to fired arrows.             | Shine brighter than the stars above. Truth is within your grasp. All you must do is reach out. |
-| Mirror of Entropy    | Applies Wither effect to fired arrows.             | Star-rise Drake Rihelma, in her deep meditative state upon the moon out of sight, has come to a realization. She is close, closer than any of us could imagine, to true enlightenment. Soon she will blossom and reality shall form around her. |
+| Mirror of Frailty (+0)   | Applies Weakness effect to fired arrows.           | Spread your wings, novel Star-Kin. The skies are truly boundless. |
+| Mirror of Lethargy (+1)   | Applies Slowness effect to fired arrows.           | Soar through the skies, pierce the heavens. Look beyond and seek the risen stars. |
+| Mirror of Miasma (+2)    | Applies Poison effect to fired arrows.             | Shine brighter than the stars above. Truth is within your grasp. All you must do is reach out. |
+| Mirror of Entropy (+3)   | Applies Wither effect to fired arrows.             | Star-rise Drake Rihelma, in her deep meditative state upon the moon out of sight, has come to a realization. She is close, closer than any of us could imagine, to true enlightenment. Soon she will blossom and reality shall form around her. |
 
 ![[rihelma_mirror.gif]]{ align=center width="320" }
+> The four Mirrors.
 
 ## Sprout of Anguish
 The **Sprout of Anguish** is a flaming sapling, given as a devotion reward for the Chaos God [[Maelihs]] at the [[Sepulchral Altar]]. It adds max health when held in a player's off-hand, up to 5 additional hearts.
@@ -127,6 +136,7 @@ The **Sprout of Anguish** is a flaming sapling, given as a devotion reward for t
 | Sprout of Anguish +3 | +10 Max Health (+5 Hearts)                         | "Ah, Ael Irien... do you know what suffering you have inflicted upon this realm? Your greatest sin, felt by all souls, millennia later. You hide behind a curtain, concealing your true wickedness. You are cowardice incarnate." |
 
 ![[sprout_of_anguish.gif]]{ align=center width="320" }
+> The four sprites of the Sprout of Anguish, from +0 to +3.
 
 ## Writ of Authority
 **Writ of Authority** is a conch shell, given as a devotion reward for the Great Sea Aspect [[Dahr]] at [[Port Solitude]]. It increases the user's attack speed.
@@ -139,4 +149,5 @@ The **Sprout of Anguish** is a flaming sapling, given as a devotion reward for t
 | Writ of Authority +3 | +32% Attack Speed                                  | Long before the Felling of the Primal Tree, Dahr's mortal subjects lived on Lo'Dahr within a vast warm sea. Though the Abyssal Elder's siblings changed the moon greatly, he retained the powers of kingship. |
 
 ![[writ_of_authority.gif]]{ align=center width="320" }
+> The four sprites of the Writ of Authority, from +0 to +3.
 

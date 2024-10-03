@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.5
+  exclude: true
 ---
 
 # The True End
@@ -26,7 +26,7 @@ search:
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
-The **True End** or the **Final Grave**, is the name for the final location in the main story of Drehmal: Apotheosis. It is accessed directly after the [[Maddened Path]].
+The **True End**, or the **Final Grave**, is the name for the final location in the main story of Drehmal: Apotheosis. It is accessed directly after the [[Maddened Path]].
 
 ## Story
 ![[true_end_realmbinder.png]]
@@ -37,7 +37,7 @@ After defeating the [[Emissary of the Void]], the player is given one final port
 ![[true_end_primal_caverns.png]]
 > The Primal Caverns within the sands.
 
-Climbing to the surface, the player finds the landscape completely covered in a vast expanse of sand, with only the three hills above the [[Primal Caverns]] remaining as a clear landmark. A trail of orderflame lanterns leads into the caverns, and then leads out the back of the middle hill.
+Climbing to the surface, the player finds the landscape completely covered in a vast expanse of sand, with only the three hills above the [[Primal Caverns]] remaining as a clear landmark. A trail of orderflame lanterns leads into the caverns, and then leads out the back of the central hill.
 
 Emerging from the Primal Caverns, the player reaches the Final Grave, coming across the miles-long skeleton of [[Drehmal]] themself, staring up at the sky. The [end credits](endcredits_transcription.md) play out.
 
@@ -49,7 +49,7 @@ After the credits have ended and the player has sat with the corpse of their cre
 
 The [Aspects](/Lore/Higher_Beings/Aspects/) refused to settle their differences, dying as a family divided.
 
-Drehmal finally awoke and emerged from the caverns, only to find the world they had created was almost entirely dead— except for them. However, at the very same time, the player, experiencing time much differently while by the Heart of the Void, was still alive; the last of their [[Drehmari]], alive and fighting at the end of time. With this, the creator deity felt peace in their final moments.
+Drehmal finally awoke and emerged from the caverns, only to find the world they had created was almost entirely dead— except for them. However, at the very same time, the player, experiencing time much differently while by the Heart of the Void, was still alive; the last of their [[Drehmari]], alive and fighting at the end of time. With this knowledge, the creator deity felt peace in their final moments.
 
 ??? danger "Drehmal, at their final place of rest. "
     ![[true_end_drehmal.png]]

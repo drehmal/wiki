@@ -68,11 +68,11 @@ Upon using a tower's button, the message "//INITIATING PHASE WARP...//" will app
 | [[Veruhkt Plateau]]          | 3953    | 245   | -1881   |Eastern   |
 
 ## Story (Up to 75%)
-Typically, the Terminus is first accessed through the Capital Valley tower, found just off of the road between the [[Stasis Facility]] and [[New Drabyel]], but almost any tower can be the first. Upon the player's first arrival in the Terminus, the inside halls are dark and inactive, except for the compass dispensary at the end of the Central Towers wing. When the player enters this area, avSYS will check their credentials and activate the facility, turning lights back on and prompting the player to manually re-link all towers, establishing the connection between network linkage and story progression.
+Typically, the Terminus is first accessed through the Capital Valley tower, found just off of the road between the [[Stasis Facility]] and [[Drabyel|New Drabyel]], but almost any tower can be the first. Upon the player's first arrival in the Terminus, the inside halls are dark and inactive, except for the compass dispensary at the end of the Central Towers wing. When the player enters this area, avSYS will check their credentials and activate the facility, turning lights back on and prompting the player to manually re-link all towers, establishing the connection between network linkage and story progression.
 
-At the 25%, 50%, and 75% milestones, the player will be given a re-sprited lodestone compass at the compass dispensary, pointing them towards the locations of those story events. The Terminus plays a particularly significant role in the 75% event, detailed in the section below (beware of spoilers).
+At the 25%, 50%, and 75% milestones, the player will be given a lodestone compass (with a custom model) at the compass dispensary, pointing them towards the locations of those story events. The Terminus plays a particularly significant role in the 75% event, detailed in the section below (beware of spoilers).
 
-## Hidden Section (75% Event Spoilers)
+## Outer Towers Door (75% Event Spoilers)
 
 --8<-- "spoiler.md"
 
@@ -102,7 +102,7 @@ The new Terminus-based energy network proved to be extremely convenient for the 
 
 | Tower Name | Dimension | X | Y | Z |
 |-|-|-|-|-|
-| // Error // [(Mt. Yavhlix)] | Drehmal | 26907 | 128 | -70 |
+| // Error // ([[Mt. Yavhlix]]) | Drehmal | 26907 | 128 | -70 |
 | Aphelion | Space | -26 | 142 | 122 |
 | Lo'Dahr | Lo'Dahr | 61 | 69 | -717 |
 

@@ -1,86 +1,128 @@
 # Mythical Weapons
 
---8<-- "under_construction.md"
+The 8 **Mythical Weapons** are the strongest weapons in the game, obtained only in major dungeons, through unique questlines, or by progressing through the main story. 
 
-Mythical weapons are regarded as the strongest weapons in the game. They have their own 3D models, item descriptons, crafting recipes (only unlocked by its advancement after being obtained by a player for the first time), stat modifiers and special abilities that are usually alternate, more powerful attacks. Mythical weapons are also unbreakable. Each weapon has its own special challenge that the player must complete to obtain it.
+Mythical weapons have their own unique 3D models, descriptions, stat modifiers, and special abilities that are usually alternate, more powerful attacks. They are unbreakable by default, and can be upgraded through a late-game mechanic. Some are enchanted by default, and most can have additional enchantments added as if they were a normal sword. Mythical weapons also carry significant lore implications, quite literally being mythical pieces of the world's history.
 
-## List (Drehmal)
+Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
 
-There are 8 mythical weapons that can be found on [[Overworld|Drehmal]]. Here is a list of all of them:
+!!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
+    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.
 
-### Calamity
+--8<-- "spoiler.md"
 
-| ![[Calamity.webp]]{ width="48" } | Calamity                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Stats**                        | Calamity deals 8 base damage, has 2.4 attack speed, gives the player 0.075 movement speed, takes 4 max hp (2 hearts), and is unbreakable.                                                                                                                                                                                            |
-| **Ability**                      | **True Catastrophe**: Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes. The player will slowly rise in the air before slamming down, bringing a flash of lightning with them. **Cooldown**: 60s         |
-| **Lore**                         | No mortal has ever come close to slaying a Skullbeast, meaning the one deployed in the Desolation has long since died of natural causes. Ossein happened upon its remains, and became fanatically obsessed. They carved numerous weapons of immense strength from the calamitous skeleton, with these claws being the most powerful. |
-| **Obtain**                       | Defeat [[Skull Disciple Ossein]] in the epicenter of [[South Heartwood|Mael's Desolation]]                                                                                                                                                                                                                                                              |
+!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
 
-### Frenzy
+!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
 
-| ![[Frenzy.webp]]{ width="48" } | Frenzy                                                                                                                                                                                                                                                                                                  |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                      | Frenzy deals 11 base damage, has 2 attack speed, gives the player 0.03 movement speed, and takes 8 max hp (4 hearts)                                                                                                                                                                                    |
-| **Ability**                    | **Fatal Rampage**: Killing an enemy grants you a damage buff (3 damage per kill), stacking up to three times and lasting for ten seconds. **Cooldown**: 60s after the Rampage ends                                                                                                                      |
-| **Lore**                       | Many centuries ago, Sahd was a cruel, war-torn land where the grass was stained with blood. An incredibly powerful arcanist channeled all of Sahd's rage into a single catalyst; Frenzy. Fueled by the power of generations of bloodshed, this blade will rip and tear through everything in the realm. |
-| **Obtain**                     | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and drop them in the Forge near the volcano on the island.                                                                                                                                                           |
+!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-??? warning "Fragment Location Guide"
-    | Fragment | Location |
-    | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | Fragment of Fury | Found in a building on one of the islands off of the eastern coast of the main island |
-    | Fragment of Hate | Found in the building by the docks in the city |
-    | Fragment of Pain | Found in the [[Emperor's Estate]] |
-    | Fragment of Rage | Found in a small shrine in the mountains to the west, not too far from the forge |
-    | Fragment of Wrath | In the southern part of the swamp, there is an orange ring with signs that read the riddle of "I can feed you, I can be valuable, I give protection, I grant life, Toss me into the orange ring." Toss a golden apple into the ring to get the chest with this fragment. |
-    | Forge | Found in the mountains to the north, in a building over lava. Throw all 5 fragments into the forge to get the Frenzy |
-    | Bell Shrine | Signs reading, "If a fragment or one's hope is lost, toss a Nether Star beneath a bell to receive the missing fragment." This is only suggested if you discord or otherwise lose a fragment. |
+## Drehmal
 
-### Oblivion
+There are 7 mythical weapons that can be found on [[Overworld|Drehmal]].
 
-| ![[Oblivion.webp]]{ width="48" } | Oblivion                                                                                                                                                                      |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                        | Oblivion deals 13 base damage, has 1.2 attack speed, gives the player 0.03 movement speed, and is obtained with Sweeping Edge IX                                              |
-| **Ability**                      | **Force of Nothing**: Press your drop item key to pick up enemies (move them with your cursor) and drain their life force. Press shift to launch held foes. **Cooldown**: 35s |
-| **Lore**                         | To be the creator of everything, one has to be the creator of nothing. The existence of true oblivion is one of the few things we cannot hope to comprehend.                  |
-| **Obtain**                       | Follow the "quest" that begins under the City of Tides to the end of the cave of Nothing under [[Mt. Yavhlix]]                                                                |
+### Ascendance ![[ascendance.png]]{ width="36" }
+[[Ascendance]] is a mythical greatsword, found in the [[Moonlight Sanctum]] in [[Lorahn'Kahl]].
 
-??? warning "Quest Guide"
-    **Suggested Items:** Potions of Night Vision, Food, Weapons, General Adventuring Items
+??? warning "Ascendance Details"
+    | ![[Ascendance.png]]{ width="48" } | Ascendance                               |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +6 Max Health (+3 Hearts) <br> 50% Knockback Resistance <br> -0.01 Movement Speed <br> 18 Ability Damage <br> 15 Attack Damage <br> 1 Attack Speed  |
+    | **Ability**                      | **Holy Moonlight**: "*Press your drop item key to fire an armor-piercing wave of weakening moonlight.*" <br> **Cooldown**: 20s           |
+    | **Lore**                         | Deep within the flooded caverns of Lorahn'Kahl lies the Moonlight Sanctum, the crux of the Tri-Moon Theocracy's greater machinations. As said by the eidolic whispers, the sanctum was designed to create an endless necromantic loop. This blade was part of that cycle, having killed millions of undead souls. To what ambitious end the sanctum served was known only by its creators. |
+    | **Obtain**                       | Complete the [[Moonlight Sanctum]] dungeon, hidden in [[Lorahn'Kahl]].               |
 
-    Enter the Palace Staff Quarters in the Tidal Palace in [[Firteid]], and continue until the sign that says DANGER! Malfunctioning elevator and chasm. Break through and drop down the chasm, ladders and/or water bucket suggested. At the bottom is a nearly pitch black tunnel filled with monsters, fight through and follow it to the end - a room with a chest. Inside this chest will be the Compass of Nihility, which points north from this spot.
+### Calamity ![[Calamity.png]]{ width="36" }
+[[Calamity]] is the claw of a Skullbeast, wielded by an optional boss found in the [[South Heartwood]]. It grants the single largest speed boost of any item in Drehmal.
 
-    If you have the tower, teleport to The [[Frozen Bite]], if not, follow the compass from whichever tower you have that is most north east on your map. The compass leads to an abandoned house with a few mobs and spawners. Search the house thoroughly for lore books, other unique items, and specifically a chest with [[Nihilist's Notes]]. Make sure to take a copy, and head to Mt. Yavhlix as mentioned in the notes.
+??? warning "Calamity Details"
+    | ![[Calamity.png]]{ width="48" }  | Calamity               |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | -4 Max Health (-2 Hearts) <br> +0.07 Movement Speed <br> 24 Ability Damage <br> 9 Attack Damage <br> 2.2 Attack Speed        |
+    | **Ability**                      | **True Catastrophe**: "*Hold crouch and then jump to channel the power of the Skullbeasts, releasing untold ruin upon foes.*"  <br> The player will rise in the air before slamming down to the ground, striking nearby enemies with lightning. <br> **Cooldown**: 40s       |
+    | **Lore**                         | No mortal has ever come close to slaying a Skullbeast, yet so many throughout the years have developed a fascination with their power. Though Ossein carved numerous armaments from the bones of Skullbeasts, he carried a special affection for the claw of his beloved Femura. |
+    | **Obtain**                       | Defeat [[Ossein]] at the epicenter of Mael's Desolation in the [[South Heartwood]].  |
 
-    If you've been to the doors before, the location the notes refers to is slightly south west of the doors, and marked with a stone pillar with a sea lantern on top. Throw a copy of the Nihilist's Notes onto the black concrete which opens a hole. Jump down and you will be met with a dark labyrinth. You can mine through some walls, but the labyrinth is solvable and leads to a chest with Oblivion.
+### Frenzy ![[Frenzy.png]]{ width="36" }
+[[Frenzy]] is a mythical sword forged out of the combined hatred of the peoples of [[Sahd]]. Across the island, it is split into 5 fragments, which can be reunited by the player to forge the blade.
 
-### Ascendance
+??? warning "Frenzy Details"
+    | ![[Frenzy.png]]{ width="48" }    | Frenzy                       |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | -6 Max Health (-3 Hearts) <br> +0.03 Movement Speed <br> 10 Attack Damage <br> 2 Attack Speed       |
+    | **Ability**                      | **Fatal Rampage**: "*Killing an enemy grants you a damage buff (3 damage per kill), stacking up to three times.*" <br> On a successful kill with Frenzy, the player gains +3 damage. This stacks up to 3 times for a total of 9 extra damage (19 total attack damage), and each stack lasts for 6 seconds before reverting to the previous damage tier. After the first tier (+3 damage) timer runs out, the ability goes on cooldown. <br> **Cooldown**: 60s                                                                                                                     |
+    | **Lore**                         | In the aftermath of mutual slaughter of all three clans at Mt. Narukin, the legendary Osaigah bladesmith Irtheis crafted this sinister army-killing blade while surrounded by burning prisoners. Tens of thousands of deaths later, it was melted down and split into five fragments, which were hidden throughout the land. |
+    | **Obtain**                       | Find the 5 missing Fragments of the weapon scattered across the island of [[Sahd]] and throw them in the forge at the volcano on the island.             |
 
-| ![[Ascendance.webp]]{ width="48" } | Ascendance                                                                                                                                                                                                           |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                          | Ascendance deals 16 base damage, has 1 attack speed, takes 0.02 movement speed, grants 50% knockback resistance, and gives 6 max hp (3 hearts)                                                                       |
-| **Ability**                        | **Holy Moonlight**: Press your drop item key to fire an armor-piercing wave of weakening moonlight. **Cooldown**: 20s                                                                                                |
-| **Lore**                           | The ultimate goal of the Tri-Moon Theocracy was to form a strong connection with the moon of Lo'Dahr, home of the deities. This blade was the crux of that plan and can channel the power of the divine moon itself. |
-| **Obtain**                         | Solve the riddle in the [[Moonlight Sanctum]] which is hidden somewhere in [[Lorahn'Kahl]]                                                                                                                           |
+### Malevolentia ![[malevolentia.png]]{ width="36" }
+[[Malevolentia]] is a mythical half-sword, half-trident, once wielded by the Deity [[Maelihs]]. It is found atop the [[Burnt Palace]].
 
-??? warning "Dungeon Guide"
-    **Suggested Items:** Armor, Shield, Ranged Weapon, Building Blocks, Bed to set respawn, Food for healing
+??? warning "Malevolentia Details"
+    | ![[Malevolentia.png]]{ width="48" } | Malevolentia                 |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                            | +10 Max Health (+5 Hearts) <br> 100% Knockback Resistance <br> -0.02 Movement Speed <br> 17 Attack Damage <br> 0.8 Attack Speed      |
+    | **Enchantments**                     | Fire Aspect IV  |
+    | **Ability**                          | **Infernal Ground**: "*Crouch and use your drop item key to project a trident that grants a resistance-granting aura wherever it lands. Crouch longer for increased effectiveness.*" <br> The duration of the crouch determines both the duration of the effect, and its radius. <br> **Cooldown**: 20s after the ability ends |
+    | **Lore**                             | Mael cast aside his signature trident-sword after Virtuo's flight. Fueled only by grief and a powerful ennui, he abandoned his palace, perhaps residing with the Aspects on Lo'Dahr. While the Burnt Generals feel his return is an inevitability, they do not mind their increased status in his absence. |
+    | **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.    |
 
-    Once you enter the [[Moonlight Sanctum]] you will be inflicted with mining fatigue. Find a tower with a door and button, enter, and kill the Undead Theocracy Archers. Once the room is clear, look below at the floor and shoot through the holes to kill the Elder Guardian. Repeat for the remaining 2 towers, 3 in total. Once the Elder Guardians are dead, head to the bridge and press the button:
+### Mythbreaker ![[true_mb.png]]{ width="36" }
+The [[Mythbreaker]] is a spear, forged by the Empire of [[Avsohm]] as their prospective greatest weapon. The player can reassemble it, in its inert form, through main story progression, and later, it can be charged to greatly increase its power.
 
-    _[Ascendant Voice] Elders slain. Magic ward lifted._
+??? warning "Inert Mythbreaker Details"
+    | ![[inert_mb.png]]{ width="48" } | Inert Mythbreaker                 |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                            | -4 Max Health (-2 Hearts) <br> -0.015 Movement Speed <br> 18 Attack Damage <br> 0.5 Attack Speed      |
+    | **Ability**                          | N/A |
+    | **Lore**                             | While perfect in form, it is clear that the weapon lacks something. A blade with such infinite potential should not go to waste. |
+    | **Obtain**                           | Assembled by the player at the [[Av'Sal Repository]] through main story progression, with fragments found at [[Sal'Mevir]] and [[Exodus Vault]].  |
 
-    Before you head down the bridge, there is a trapped chest in the center of the cave. You can now break through and retrieve the paper named _Ancient Theocracy Rites_.
+??? warning "Charged Mythbreaker Details (LATE-GAME SPOILERS)"
+    | ![[true_mb.png]]{ width="48" } | Mythbreaker                 |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                            | -4 Max Health (-2 Hearts) <br> 150 Ability Damage <br> 27 Attack Damage <br> 0.7 Attack Speed      |
+    | **Ability**                          | **Core Collapse**: "*Hold down right click for an extended period to collapse the innumerable possibilities before you into an impossibly strong blast of primal energy.*" <br> If successfully used without being interrupted, this ability can deal up to 150 damage, although this can be difficult to pull off. <br> **Cooldown:** 60s (shortened to 15s if interrupted mid-use). |
+    | **Lore**                             | Seemingly infinite power arcs across this blade, burning your hands and quaking the ground beneath your feet. It seems as if reality itself wavers as the rawest form of existence seeps into the space around you. |
+    | **Obtain**                           | Acquired by charging the Inert Mythbreaker at the [[Numencore]].  |
 
-    Continue down the bridge and break the glass to continue into the next room. You will be met with a sign that says THE FIRST OF EACH RITE IS THE WAY TO THE LIGHT. Refer to the _Ancient Theocracy Rites_ and the first letter of each line. Line up the arrows to match and the puzzle is solved.
+### Oblivion ![[oblivion.png]]{ width="36" }
+[[Oblivion]] is a mythical scythe, obtained via a series of clues throughout the northeastern portion of the continent.
 
-### Malevolentia
+??? warning "Oblivion Details"
+    | ![[Oblivion.png]]{ width="48" } | Oblivion                                                                                                                                                                     |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +0.02 Movement Speed <br> 14 Attack Damage <br> 1.3 Attack Speed                                           |
+    | **Enchantments**                 | Sweeping Edge IX                                                                                                                                                             |
+    | **Ability**                      | **Force of Nothing**: "*Press your drop item key to pick up enemies and drain their life force. Crouch to launch held foes.*" <br> The Force of Nothing ability allows the player to pick up one enemy from a distance, move them around, and slowly drain their health. Crouching with a held enemy will launch them in the direction the player is facing. <br> **Cooldown**: 40s |
+    | **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
+    | **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
 
-| ![[Malevolentia.webp]]{ width="48" } | Malevolentia                                                                                                                                                                                |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stats**                            | Malevolentia deals 17 base damage, has 0.8 attack speed, takes 0.04 movement speed, grants 100% knockback resistance, gives 14 max hp (7 hearts), and is obtained with Fire Aspect IV       |
-| **Ability**                          | **Burnt Aegis**: Hold down crouch to deploy a projectile deflecting flame shield. **Cooldown**: 25s after the ability ends                                                                  |
-| **Lore**                             | Mael cast aside this mythological weapon after Virtuo went dormant. It is said that he had lost his purpose and abandoned his palace, perhaps residing with the other deities upon Lo'Dahr. |
-| **Obtain**                           | Atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second Burnt General.                                                                                                        |
 
+
+
+### Zenith ![[zenith_sword.png]]{ width="36" }
+[[Zenith]] is a combination sword and laser gun, built by the Empire of [[Avsohm]]. It is unlocked by clearing the arena at the [[Foundry]].
+
+??? warning "Zenith Details"
+    | ![[zenith_sword.png]]{ width="48" } <br> ![[zenith_gun.png]]{ width="48" } | Zenith                               |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +4 Max Health (+2 Hearts) <br> 15-30 Ranged Damage <br> 10 Attack Damage <br> 1.8 Attack Speed  |
+    | **Enchantments**                 | Zenith is the only mythical weapon which **cannot** be enchanted. |
+    | **Ability**                      | **Ontology**: "*Crouch and right click to switch modes. Build up charges by dealing damage with the blade. Use a charge by right clicking while the blade is retracted, creating a blast of damaging energy.*" <br> Up to 5 charges can be built up and stored at once. <br> **Cooldown**: N/A, approximately 2 seconds between blasts      |
+    | **Lore**                         | Avsohm fabricated this blade of incredible strength using the power of Primal Energy, a mysterious substance from beyond this world. It is said that all matter and energy is derived from it. Distilling such a material into its rawest form for use in combat is exactly the reason why Avsohm was dealt such a harrowing fate. |
+    | **Obtain**                       | Clear all 6 waves of the Arena at the [[Foundry]].               |
+
+## Non-Drehmal
+There is only one mythical weapon found outside of the main open world of Drehmal.
+
+### Syzygy ![[syzygy.png]]{ width="36" }
+[[Syzygy]] is a mythical crossbow, obtained by completing all six of its trials in the post-75% area.
+
+??? warning "Syzygy Details (LATE-GAME SPOILERS)"
+    | ![[syzygy.png]]{ width="48" } | Zenith                               |
+    |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Stats**                        | +0.02 Movement Speed <br> 100 Ability Damage <br> 20 Ranged Damage |
+    | **Enchantments**                 | Quick Charge I |
+    | **Ability**                      | **Draconitic Rebuke**: "*Swap to your offhand to enter sniper mode. While in sniper mode, steady your aim to charge a super powerful shot.*" <br> **Cooldown**: 20s      |
+    | **Lore**                         | Yriel the Moonsworn, greatest of all Tehrmari, was the Aspects' solution to mortal interference. Empowered by the blessings of the Prismatic Council, Yriel carried out the Elder Will and delivered it swiftly. Tragically, they were butchered by a falsely-pure fanatic of Virtuo at the climax of the Battle for Drehmal. For centuries, their hallowed weapon has sought a worthy set of hands. May yours serve it well. |
+    | **Obtain**                       | Complete all 6 of the [[Lo'Dahr]] trials.               |

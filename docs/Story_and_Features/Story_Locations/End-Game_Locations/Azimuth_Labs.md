@@ -71,6 +71,6 @@ Azimuth Labs was the headquarters of Red Dawn, an alchemical society that effect
 [[Vohski Ottis]] oversaw [[Project Moonstrider]] in this facility, designed to utilize runic magic to reverse the effects of aging. This project went very wrong, resulting in the death of a volunteer, causing Ottis to have a breakdown. This appears to be indicative of the sort of experimentation that was commonplace at Azimuth.
 
 ## Extras
-"Azimuth" is a real English word, coming from the field of astronomy, similar to the Aphelion. An azimuth is the horizontal angle between an object in the sky and a reference angle, typically north.
+"Azimuth" is a real English word, coming from the field of astronomy, similar to the Aphelion. An azimuth is the [horizontal angle between an object in the sky and a reference angle](https://en.wikipedia.org/wiki/Azimuth), typically north.
 
 The dialogue transcript from this section can be found [[End-Game_Dialogue.md|here]]. This article contains the first three dialogue sections, from **Primary Energy Collection Facility** through **Azimuth Labs**.

@@ -4,32 +4,103 @@
 
 Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books](/Lore/Books/), item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
-## [[Relics|Relic]]
+## [[Relics]]
 
-Relics are offhand, stat-modifying items that are obtained via [[Devotion|devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptons that often explain bits of lore pertaining to its related Aspect or deity.
+Relics are offhand, stat-modifying items that are obtained via the [[Devotion|devotion]] system. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptions that often explain bits of lore pertaining to its related Aspect or deity.
 
-## [[Artifacts|Artifact]]
+## [[Artifacts]]
 
-Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptions, which ususally detail an item's lore.
+Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptions, which usually detail an item's lore.
 
-## [[Artisan Items|Artisan]]
+## [[Artisan Items]]
 
-Artisan items are similar to artifacts (they have stat modifiers and descriptions), but they are sold by [[Runic Blacksmiths|Runic Blacksmith]] or one of its variants.
+Artisan items are similar to artifacts in that they are custom items with stat modifiers and unique descriptions. However, they are not found as loot, but rather, are sold by [[Runic Blacksmiths]] or one of their variants, typically at larger towns.
 
-## [Legendary](/Items/Legendary_Items)
+## [Legendary Items](/Items/Legendary_Items/)
 
 Legendary items are rare and exceptionally powerful items that are found at important points of interest, usually being hidden or guarded. They have stat modifiers and descriptions, but also unique abilities and their own sprites.
 
-## [Mythical](/Items/Mythical_Weapons)
+## [Mythical Weapons](/Items/Mythical_Weapons/)
 
-There are very few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilies (usually a powerful secondary attack) and 3D models.
+There are few mythical weapons, and they are considered to be the strongest weapons in the game. Each mythical weapon has a special challenge that the player must undergo to obtain it. Mythical weapons have stat modifiers, descriptions, unique abilities (usually a powerful secondary attack) and 3D models.
 
-## [[Trinkets|Trinket]]
+## Other Named Weapons and Armor
 
-Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They may have their own sprite
+Besides the items belonging to the groups listed above, there are some other uniquely named items that are found in Drehmal. These are, for the most part, easter eggs and joke items, and do not have additional lore text.
 
---8<-- "75_spoiler.md"
+|            | Thornton's Plate                               |
+| ---------- | ---------------------------------------------- |
+| Base Item  | Chainmail Chestplate                           |
+| **Obtain** | Rob Billybob Thornton's grave in [[Drabyel]]   |
+| **Enchantments**  | Thorns I <br> Unbreaking I |
+| **Location** | (539, 65, 1875) |
 
-## [[Fervor Stones]](α, β, Δ)
+|            | Bohmplate                                                   |
+| ---------- | ----------------------------------------------------------- |
+| Base Item  | Chainmail Chestplate                           |
+| **Obtain** | Rob Drehn Mal'Bohm's grave in [[Dusps]]                     |
+| **Enchantments**  | Blast Protection IV <br> Unbreaking III |
+| **Location** | (2193, 109, -854) |
 
-A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using Soletta at the bottom of [[Drehmal|Drehmal's]] tower in [[Ytaj]], with each of the items applying a different stat boost.
+|            | Bercutio                                                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Base Item  | Iron Sword |
+| **Obtain** | Rob Malthazar's grave in [[Dusps]]. Note - this sword has negative durability and cannot be repaired. Therefore, it can only be used once before breaking. |
+| **Enchantments**  | Sharpness X  |
+| **Location** | (2193, 109, -859) |
+
+|            | Thinblade                                     |
+| ---------- | --------------------------------------------- |
+| Base Item  | Golden Sword                                  |
+| **Obtain** | Rob John Brinn-Thinn's grave in [[Mossfield]] |
+| **Stats**  | Sharpness I <br> Unbreaking X                 |
+| **Location** | (4124, 63, 1756) |
+
+|            | Hanzho's Bow                                  |
+| ---------- | --------------------------------------------- |
+| Base Item  | Bow                                |
+| **Obtain** | Rob Conner's grave in [[Mossfield]] |
+| **Stats**  | Power I <br> Punch II <br> Curse of Vanishing                |
+| **Location** | (4124, 63, 1764) |
+
+|            | ak-101                                  |
+| ---------- | --------------------------------------------- |
+| Base Item  | Crossbow                                |
+| **Obtain** | Rob Electro's grave in the [[Kiln of Virtuo]] |
+| **Stats**  | Piercing III <br> Quick Charge I               |
+| **Location** | (3159, 81, 3382) |
+
+## Other Unique Items
+
+- Gay Apple - Golden Apple found atop a rainbow pyramid in the rainbow desert south of [[Anyr'Nogur]]
+- Unknown Meat Substance - A Raw Mutton dropped after killing Jack Beanin' in his house far south of the [[Black Jungle]]
+- Dirt Prime - **_It's so powerful..._** trade 64 Soul Asteria (Nether Stars) to Ohmswil in [[Tharxax City]] \- easter egg, does not do anything
+- God's Brew - **_Unfathomably good beetroot soup._** trade 64 netherite blocks and 64 diamond blocks to the Beetroot Merchant in [[Fort Nimahj]] \- easter egg, does not do anything
+- Cat Toy - Fishing rod with Unbreaking X - found in Keehko's grave in [[Dusps]]. Its description reads, "I wish I were me."
+- Baby Meat - **\*Are you really going to eat that?**.\* A Raw Mutton found after killing a naturally-spawned Meat Baby in The [[Birthing Grounds]]
+- Honey Roasted Potato - **\*An exquisite taste, unmatched by anything else... besides a normal baked potato, of course**.\* A baked potato that can be obtained from the Potato Connoisseur in [[Dusps]] in exchange for 4 scales.
+- Half-and-Half Milk - **\*It'll give you some strong bones**.\* A potion that grants Speed V for 15 seconds. Dropped after killing Jack Beanin'
+- Ther Erldern Rirng - A ring that has no use, found on a stone structure in the shape of an anvil, between the [[Grand Pike Canyon]] and [[Highfall Tundra]] regions. The Description reads:
+
+> I derbt... yer cerld evern irmagirne irt.
+> Thart whirch commarnderd ther starrrs...
+> ...girving lirfe irts furllerst brilliarnce.
+> Ther Erldern Rirng. Er, Erldern Rirng!
+> Sharttered... by someorne, or somethirng.
+> Dorn't terll mer yer dorn't ser irt.
+> Loork urp art ther skyr! Irt burrrns...
+
+## [[Fervor Stones]] (α, β, Δ)
+--8<-- "spoiler.md"
+
+!!! danger "This section contains information that is only applicable after the 75% completion event, which constitute spoilers on a late-game mechanic."
+
+!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the Soletta in [[Ytaj]], with each of the items applying a different stat boost.
+
+## [[Trinkets]]
+
+Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They typically have their own custom sprite.

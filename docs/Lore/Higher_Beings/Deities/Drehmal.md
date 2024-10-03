@@ -24,11 +24,11 @@ During the Battle of Karesh, the worm nestled between the roots of the Primal Tr
 
 Drehmal spent the early days of the Second Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with [[Drehmari]], especially the ancient Drehua people of Palisahd (modern day [[Palisades Heath]]). Four such interactions, as recorded by Drehua monks who became heralded as prophets, are recorded in the four Parables at Drehua Temple. After Drehmal's work was completed, they buried themselves far beneath the [[Primal Caverns]] and fell into a deep, dream-filled slumber. Drehmal continued to be worshipped throughout Palisades Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of [[Avsohm]], which originated in the Central Plains and spread its religion around the continent. Worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was banned in the empire under the reign of [[Zorhis Ifeihl]], and [[Maelihs]] was an enemy of the state, meaning citizens paid homage to either [[Virtuo]] or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
 
+## In-Game Interactions
+
 --8<-- "spoiler.md"
 
 --8<-- "LD_spoiler.md"
-
-## In-Game Interactions
 
 While Drehmal remains in their deep slumber for the entirety of the player's experience in the current day, there is one point at which the serpent can be somewhat directly interacted with, at the Tower of Drehmal in [[Ytaj]]. Here, the player seemingly lives through the dreams and thoughts of Drehmal themselves, while gradually ascending the tower to reach a second devotion shrine to Drehmal at its peak. 
 

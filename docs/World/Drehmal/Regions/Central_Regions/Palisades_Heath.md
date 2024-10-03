@@ -25,7 +25,7 @@ Today, the only remaining settlement of notable size is Drehua Temple, still pop
 ![[PH_tower.png]]
 > The Palisades Heath tower.
 
-The Paliasades Heath Terminus tower is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
+The Palisades Heath Terminus tower is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
 
 **Coordinates:** (X: -156, Y: 101, Z: 2547)
 
@@ -33,7 +33,7 @@ The Paliasades Heath Terminus tower is located in the region's north, next to th
 
 ### Drehua Temple
 
-[[Drehua Temple]] is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [[Devotion|devotion]] altar. The temple was founded by the ancient Drehua, but it was renovated more than a millenium later with funds from the Avsohmic emperor Drehn Mal'Sohm.
+[[Drehua Temple]] is a large, ornate temple dedicated to the deity [[Drehmal]]. It contains living quarters for monks, several ancient books and Drehmal's [[Devotion|devotion]] altar. The temple was founded by the ancient Drehua, but it was renovated more than a millennium later with funds from the Avsohmic emperor Drehn Mal'Sohm.
 
 **Coordinates:** (X: -130, Y: 158, Z: 2876)
 

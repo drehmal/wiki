@@ -42,7 +42,7 @@ The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is i
 
 ### Ruins of Drahbes
 
-Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilizaton that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region, bordering on the [[Akhlo'Rohma]] and [[Purity Peaks]] regions. Outside of the ruins is a small settlement with houses of grass and wood.
+Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilization that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region, bordering on the [[Akhlo'Rohma]] and [[Purity Peaks]] regions. Outside of the ruins is a small settlement with houses of grass and wood.
 
 **Coordinates:** (X: 1583, Y: 65, Z: -376)
 

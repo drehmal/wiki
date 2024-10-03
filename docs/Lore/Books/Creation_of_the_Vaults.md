@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Last Avsohmic Vault]], on an island off the west coast of [[Casai]]. It details the beginning of these very vaults' construction under Emperor Ifeihl.
+This book can be found in a chest in the [[Avsohmic Vault]], on an island off the west coast of [[Casai]]. It details the beginning of these very vaults' construction under Emperor Ifeihl.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

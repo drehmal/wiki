@@ -4,6 +4,23 @@ The main story of Drehmal: Apotheosis takes place across over several distinct l
 
 For a more detailed (and very spoiler-heavy) overview of the story, see [[Story Progression]].
 
+## Wiki Organization
+Story Location articles in this wiki follow roughly the same format:
+
+**Title/Spoilers**: The page's title, along with any appropriate spoiler warnings, is included at the top.
+
+**Introduction**: A brief summary and intro to the location, including a set of coordinates.
+
+**Story**: A summary of the story that transpires at this location.
+
+**Gameplay**: A summary of the gameplay features at this location. This includes hints and solutions to any puzzles, information on custom enemies found at this location, core mechanics, and whether or not the player is forced into Adventure Mode.
+
+**Original Writing**: Links to all of the unique pieces of writing found at this location ([Holotexts](/Story_and_Features/Holotexts/) and [Lore Books](/Lore/Books/)).
+
+**Lore**: A summary of any additional pieces of history or lore surrounding this location, which are not immediately apparent from the main story section.
+
+**Extras**: A section with additional trivia on the location, if applicable.
+
 ## Locations
 
 **Early-Game Areas:** <br>

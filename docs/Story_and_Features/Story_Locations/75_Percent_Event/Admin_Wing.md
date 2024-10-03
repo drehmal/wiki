@@ -20,7 +20,7 @@ The Admin Wing can be accessed through a somewhat hidden room in the lower level
     These coordinates are directly in front of the entrance to the Admin Wing.
 
 ## Story (75% Completion Event)
-Upon reaching 75% network linkage (24 towers), the player will be prompted by [[avSYS]] to enter the [[Terminus Network|Terminus's]] compass dispensary, where they will be given a lodestone compass that points towards the entrance to the admin wing of the Repistory. At the entrance to the admin wing, the player can re-sync the area's holotext database if they have 75% linkage, with one holotext positioned at the entrance that provides a hint for how to get in.
+Upon reaching 75% network linkage (24 towers), the player will be prompted by [[avSYS]] to enter the [[Terminus Network|Terminus's]] compass dispensary, where they will be given a lodestone compass that points towards the entrance to the admin wing of the Repository. At the entrance to the admin wing, the player can re-sync the area's holotext database if they have 75% linkage, with one holotext positioned at the entrance that provides a hint for how to get in.
 
 When the puzzle is solved, the player can drop down a newly-opened shaft into the Admin Wing, first coming across what appears to be a command room before descending into a hallway. Several rooms branching off of this hallway contain holotexts and loot, with the holotexts beginning to hint at the direction of the story's end-game, mentioning a mysterious "Apotheosis" plan created by [[Anyr|Emperor Anyr]].
 

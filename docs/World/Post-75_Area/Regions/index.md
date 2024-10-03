@@ -11,4 +11,4 @@ search:
 
 --8<-- "under_construction.md"
 
-This section contains pages on the [Aspect](/Lore/Higher_Beings/Aspects/) domains of [[Lo'Dahr]], analagous to the [Regions](/World/Drehmal/Regions/) of [[Overworld|Drehmal]].
+This section contains pages on the [Aspect](/Lore/Higher_Beings/Aspects/) domains of [[Lo'Dahr]], analogous to the [Regions](/World/Drehmal/Regions/) of [[Overworld|Drehmal]].

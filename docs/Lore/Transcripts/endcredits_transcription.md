@@ -92,7 +92,7 @@ The following is a transcription of the end credits sequence for Drehmal: Apothe
 >
 > Xorhuul: Black Sabbath <br>
 Castle Tharxax (Loraga Keep): Pogo <br>
-Lorahn’Kahl Ruins: Burnt General (Mat) <br>
+Lorahn'Kahl Ruins: Burnt General (Mat) <br>
 Firteid Buildings: Zgu, MoutonDemocrate, DaWolf <br>
 Firteid Airships: Goblin <br>
 Highfall Revamp: Maelhrizz

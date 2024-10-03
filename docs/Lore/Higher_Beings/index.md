@@ -28,7 +28,7 @@ Minor Aspects are younger and less powerful Aspects, and are the children of Maj
 | **[[Vayniklah]]** | Aspect of Life       | F (she/her or it/its)       |
 | **[[Voynahla]]**  | Aspect of Death      | M (he/him or it/its)        |
 | **[[Lai]]**       | Aspect of Warmth     | M (he/him)                  |
-| **[[Loe]]**       | Aspect of Cold       | F (she/her)                 |
+| **[[Loe]]**       | Aspect of Cold       | F (she/her or they/them)    |
 | **[[Verrhys]]**   | Aspect of Silence    | N (it/they)                 |
 | **[[Lahrs]]**     | Aspect of Resonance  | M/F (he/him or she/her)     |
 | **[[Moen]]**      | Aspect of Pleasure   | F (she/her or they/them)    |

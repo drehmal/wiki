@@ -39,7 +39,7 @@ Av'Sal was the capital of the Empire of Avsohm during Av2 from 1600 to 1820.
 
 ## Trivia
 
-Two of the Mihkmari are named Ornstehn and Smouh, as a reference to a pair of bosses from the video game Dark Souls.
+Two of the Mihkmari are named Ornstehn and Smou, as a reference to a pair of bosses from the video game Dark Souls.
 
 ## 2.2 Version
 

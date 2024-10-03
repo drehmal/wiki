@@ -39,7 +39,7 @@ It is revealed through transcriptions of dives into the [[Nothing]] by a device 
 ![[resonant_eye.png]]
 > The room housing the Resonant Eye.
 
-The Resonant Eye was, as writings here attest, possibly Avsohm's greatest creation. A near-perfectly optimized [[Arcanism|runic]] machine, the Eye was capable of projecting images and audio from other locations, including those beyond the tear (the Sprial Anomaly), to the room where it was physically located in Mt. Yavhlix. There are 15 total holotexts in this facility, all found within this very room, and they tell the tale of Avsohm's interactions with the Eye.
+The Resonant Eye was, as writings here attest, possibly Avsohm's greatest creation. A near-perfectly optimized [[Arcanism|runic]] machine, the Eye was capable of projecting images and audio from other locations, including those beyond the tear (the Spiral Anomaly), to the room where it was physically located in Mt. Yavhlix. There are 15 total holotexts in this facility, all found within this very room, and they tell the tale of Avsohm's interactions with the Eye.
 
 On the very first dive, the Eye was only able to make out the shape of wings, presumably those of Tethlaen, before the dive was aborted out of fear. On the second dive, the Avsohmic researchers were able to establish contact with Tethlaen, but could not communicate clearly, and decided to physically enter the tear. This was met with extreme violence from the Aspect, who slaughtered 41 members of the team—all except for the CSO, [[Eleis]], who survived, but was paralyzed from the neck down.
 

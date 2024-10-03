@@ -13,6 +13,3 @@
 
 ## Reign as Emperor
 
-## Emmissary of Avsohm's Fall (END-GAME SPOILERS)
-
-## In-Game Bossfight (END-GAME SPOILERS)

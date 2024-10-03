@@ -160,7 +160,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Temporal Ruins | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation. - Discovered Sal'Mevir | Enter [[Sal'Mevir]]. |
     | All That Remains | Avsohm was highly technologically advanced, yet they still fell to ruin. - Discovered the Exodus Citadel | Enter the [[Exodus Citadel]]. |
     | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Sunken Astral Body]]. |
-    | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Last Avsohmic Vault]] off the Casain coast. |
+    | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Avsohmic Vault]] off the Casain coast. |
     | The Lost Cavern | Ages ago, Avsohm used this cave to gather Rehntite, an incredibly strong mineral with untold arcane potential. Unfortunately, the method of extraction has been lost to time. - Discovered the Rehntite Cave | Enter the [[Rehntite Cave]]. |
     | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |
     | Chamber of Dreams | Drehmal slumbers deep below; perhaps one day they will awaken. - Stepped into the entrance of the Primal Caverns | Enter the [[Primal Caverns]]. |

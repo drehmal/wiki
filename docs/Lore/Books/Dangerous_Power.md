@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the [[Last Avsohmic Vault]] on an island off the west coast of [[Casai]]. Its author states that they have written to [[Anyr|Emperor Anyr]] to request the immediate cessation of operations at Mt. Yavhlix due to concerns over the location's safety.
+This book can be found in a chest in the [[Avsohmic Vault]] on an island off the west coast of [[Casai]]. Its author states that they have written to [[Anyr|Emperor Anyr]] to request the immediate cessation of operations at Mt. Yavhlix due to concerns over the location's safety.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -103,7 +103,7 @@ Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. I
 
 ### Skeveraan's House
 
-A large, lakeside house was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practicioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which supported its owner's friendly guise. 
+A large, lakeside house was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practitioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which supported its owner's friendly guise. 
 
 **Coordinates:** (X: 3130, Y: 30, Z: 1273)
 
@@ -111,6 +111,6 @@ A large, lakeside house was home to a Skeveraan who was responsible for abductin
 
 Timberhearth Observatory & Museum is a building positioned on a bluff in the region's northeastern grasslands, and is a reference to the game Outer Wilds. 
 
-A multitude of artifacts are set on display inside: a gravity-defying pillar from [[Avsohm|Avsohmic]] ruins, a set of alchemical supplies, a rehnite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
+A multitude of artifacts are set on display inside: a gravity-defying pillar from [[Avsohm|Avsohmic]] ruins, a set of alchemical supplies, a rehntite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
 
 **Coordinates:** (X: 4138, Y: 127, Z: 288)

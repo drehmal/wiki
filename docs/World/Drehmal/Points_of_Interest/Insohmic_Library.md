@@ -20,7 +20,7 @@ tags:
 | :-------------: | ------------------------------------------------------------------------------------ |
 | 4546, 100, 1582 | 4x Book                                                                              |
 | 4547, 104, 1592 | 6x Paper <br>1x Enchanted Book (Piercing III)                                        |
-| 4545, 113, 1585 | 9x Book <br>21x Paper <br>1x Book and Quill ([[Journal of Councilman Kihfs’Mihnar]]) |
+| 4545, 113, 1585 | 9x Book <br>21x Paper <br>1x Book and Quill ([[Journal of Councilman Kihfs'Mihnar]]) |
 | 4556, 123, 1588 | 6x Book <br>4x Paper                                                                 |
 | 4565, 106, 1587 | 1x [[Mythical Weapons|Peace Treaty]]                                                 |
 | 4567, 91, 1587  | 7x Book <br>10x Paper <br>1x Enchanted Book (Unbreaking III, Protection III)         |

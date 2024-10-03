@@ -4,7 +4,7 @@ tags:
 ---
 # Hastily-Left Message
 
-This book can be found in an item frame in the Temple of [[Dahroehl]] in [[Anyr'Nogur]], next to a player head, and provides a clue as to the location of the [[Cryptic Ode]] book in that same location.
+This book can be found in an item frame in the [[Temple of Dahroehl]] in [[Anyr'Nogur]], next to a player head, and provides a clue as to the location of the [[Cryptic Ode]] book in that same location.
 
 ## Coordinates
 |  **X**  | **Y** | **Z**  |

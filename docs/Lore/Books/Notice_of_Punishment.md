@@ -12,7 +12,7 @@ This book can be found in a chest within a cage dangling from a floating island 
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-|  347  |  42   |  475  |
+|  327  |  42   |  475  |
 
 ## Transcription
 > Here Hangs Kungahs, the Hateful Blade.

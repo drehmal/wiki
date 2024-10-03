@@ -15,7 +15,7 @@ This book is dropped by Abbot Balthysar atop [[Teiruun Monastery]]. Written by t
 ## Transcription
 > Arianok,
 >
-> I am so proud to tell you that beneath the altar of the caged chapel deep within this mountain, our Parish has finally acheived its longstanding goal.
+> I am so proud to tell you that beneath the altar of the caged chapel deep within this mountain, our Parish has finally achieved its longstanding goal.
 >
 > Praise be to the Goddess for illuminating my path to your bottled letter.
 >

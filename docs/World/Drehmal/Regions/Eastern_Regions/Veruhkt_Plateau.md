@@ -18,7 +18,7 @@ There are no major settlements in Veruhkt Plateau.
 
 ## History
 
-In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. These Veruhktian people were likely ruled by a centralized political power, based in the capital city of Verukhaan. In an event known by the Verukhtians as the "Desecration", the region was conquered by [[Anyr|Emperor Anyr]] of [[Avsohm]] and its Tech-Priests were massacred, leaving only three alive and in hiding. Verukhaan was renamed to Sal'Veruhkt. 
+In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. These Veruhktian people were likely ruled by a centralized political power, based in the capital city of Veruhkaan. In an event known by the Veruhktians as the "Desecration", the region was conquered by [[Anyr|Emperor Anyr]] of [[Avsohm]] and its Tech-Priests were massacred, leaving only three alive and in hiding. Veruhkaan was renamed to Sal'Veruhkt. 
 
 After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty for an indefinite but short amount of time. Eventually the region came under the rule of the [[Kingdom of Dusps]], who subjected the Veruhktians to harsh oppression and were responsible for the extinction of their culture and people. 
 
@@ -49,7 +49,7 @@ Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a chall
 
 ### Ruins of Sal'Veruhkt
 
-Sal'Veruhkt, formerly Verukhaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was posssibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
+Sal'Veruhkt, formerly Veruhkaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was possibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
 
 **Coordinates:** (X: 3577, Y: 65, Z: -1362)
 

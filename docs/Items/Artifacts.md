@@ -1,6 +1,6 @@
 # Artifacts
 
-Artifacts are unique items that have custom names, descriptions, stat modifiers, and often enchantments. Artifacts are found scattered across the map, typically in chests, and their descriptions often explain lore surrounding the place they are found.
+Artifacts are unique items that have custom names, descriptions, stat modifiers, and often enchantments. Artifacts are found scattered across the map, typically in chests, and their descriptions often explain lore surrounding the place in which they are found.
 
 --8<-- "under_construction.md"
 

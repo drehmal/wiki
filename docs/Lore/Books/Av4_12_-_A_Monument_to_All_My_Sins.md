@@ -6,7 +6,7 @@ tags:
 
 --8<-- "spoiler.md"
 
-This book can be found in a chest atop the [[Burnt Palace]]. The book, written by [[Maelihs]], contains his decision in Av4 12 to leave the realm behind and reside in [[Ytaj]] indefinitely, stricken by guilt over what he has done.
+This book can be found in a chest atop the [[Burnt Palace]]. The book, written by [[Maelihs]], contains his decision in Av4 12 to leave Drehmal behind and reside in [[Ytaj]] indefinitely, stricken by guilt over what he has done.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -76,7 +76,7 @@ way of life. Please, if you would be so kind, just put the gem down on this blue
 >
 > So many times, her mother would reach for that jeweled whip in the evenings after Geimy would fail in his studies. When he refused to give thanks to the Aspects. When he was unable to stop the puck from reaching the net and cost the Frost Golems the grand finals. The last time, before Geimy renounced taking the Trials and left for Arkeje, she caught a glimpse of the checkerboard of scars which crisscrossed his back. She had vowed she would never let it happen again.
 >
-> Time seemed to move strangely. The dancing light of Honac’s lantern revealed the moment Geimy’s back hit the stone wall. Honac screamed and prepared to strike with his barbed spear. Derria carved a rune into her right forearm with the jagged rock she had found on the cave floor, wincing with pain. Then, a plume of living flame arced out of her left hand to engulf Honac's head. Screaming, crying, and desperately pawing at his face, he tried in vain to remove the greedy inferno. But to no avail. Strangely calmly, Derria watched as Honac succumbed to her magic, twitching as he splashed into the water below. Geimy stared, wide-eyed. His machete fell out of his belt into the water below, similar but distinct from the one that had slain Onej.
+> Time seemed to move strangely. The dancing light of Honac’s lantern revealed the moment Geimy’s back hit the stone wall. Honac screamed and prepared to strike with his barbed spear. Derria carved a rune into her right forearm with the jagged rock she had found on the cave floor, wincing with pain. Then, a plume of living flame arced out of her left hand to engulf Honac's head. Screaming, crying, and desperately pawing at his face, he tried in vain to remove the greedy inferno. But to no avail. Strangely calmly, Derria watched as Honac succumbed to her magic, twitching as he splashed into the water below. Geimy stared, wide-eyed. His machete fell out of his belt into the water below, similar but distinct from the one that had slain Okej.
 >
 > The next thing she knew, Derria found herself leading her brother by the hand out of the riverside cave. The Torahn began to grow low on the horizon, and they soon would be expected for dinner.
 >
@@ -86,5 +86,5 @@ way of life. Please, if you would be so kind, just put the gem down on this blue
 >
 > And then she knelt and embraced her brother on the rocky bank, allowing him to rest his head on her shoulder. “Shh. Geimy”, she whispered in his ear, “I believe you, I love you, and I’m so proud of you.”
 >
-> They wouldn’t be going back to Loe’s Domain that night. Arkeje needed to know about the fate of its leader. Wordlessly, the siblings rose and began the long climb to the southern cliffs.
+> They wouldn’t be going back to Loe's Domain that night. Arkeje needed to know about the fate of its leader. Wordlessly, the siblings rose and began the long climb to the southern cliffs.
 

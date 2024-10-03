@@ -36,68 +36,11 @@ w[his]pers! He whisper[s!] He [whisper]s! <br>
 He whispers! He whis[pe]rs!
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --8<-- "spoiler.md"
 
 !!! danger "Forbidden Knowledge!"
 
-While this holotext is mostly illegible, a full, uncensored version was once a part of the resoure pack, shown below:
+While this holotext is mostly illegible, a full, uncensored version was once a part of the resource pack, shown below:
 
 ![[yav_hole_full.png]]{ width="384" }
 

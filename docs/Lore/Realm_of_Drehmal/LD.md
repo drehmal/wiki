@@ -2,7 +2,7 @@
 
 --8<-- "under_construction.md"
 
-**Lo'Dahr**, also known as the **Divine Moon**, is one of the moons of Drehmal, and the home of the [Aspects](/Lore/Higher_Beings/Aspects). It appears to the south in the night sky.
+**Lo'Dahr**, also known as the **Divine Moon**, is one of the moons of the realm of Drehmal, and the home of the [Aspects](/Lore/Higher_Beings/Aspects). It appears to the south in the night sky.
 
 
 
@@ -14,6 +14,8 @@
 Late into the game and feeling confused? Expecting more on this topic?
 ??? example "...yeah, I was."
     Are you *sure?*
+    ??? quote "No, I just like clicking on things that I shouldn't because I JUST CAN'T HELP MYSELF!"
+        Get out of here. Seriously.
     ??? warning "Yes!"
         You are absolutely certain that there should be something else here?
         ??? warning "Yes, I'm sure!"

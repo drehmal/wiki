@@ -2,7 +2,7 @@
 
 !!! warning "Holotexts are an inherently spoiler-heavy topic! Be wary of spoilers in this section."
 
-Holotexts are holographic text images that appear in [[Avsohm|Avsohmic]] facilities throughout the main story of Drehmal: Apotheosis. 
+Holotexts are holographic text images that appear in [[Avsohm|Avsohmic]] facilities throughout the [Story Progression|main story]] of Drehmal: Apotheosis. 
 
 Typically containing brief messages written about important characters or concepts, they are one of the most important resources for any playthrough of the map. Holotexts also frequently hint at the solution to puzzles in their area, which is not true of lore books.
 
@@ -16,7 +16,7 @@ In-game, holotexts can be recognized by the presence of a lime-colored concrete 
 
 ## Progression
 
-Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the 25%, 50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synchronized:
+Holotexts are a part of the [[avSYS]] network, and as such, they often cannot be read unless the player's network linkage % is high enough. At the 25%, 50%, and 75% story locations, players will need to find a node to right-click and attempt reconnection, similar to the ones found at the very start, of the game. These will not be able to successfully sync the holotext database for that region unless the requisite network linkage has been achieved, and all holotexts in the area will display the following image until synchronized:
 
 ![[holotext_corrupted.png]]
 > Corrupted holotext file, indicating player needs to progress further or find the reconnection node in the area.

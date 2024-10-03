@@ -13,7 +13,7 @@ The book can be found in a small camp on the road between the [[Primal Caverns]]
 ## Transcription
 > **The Heartwood:**
 >
-> To the East, across the river, lies the dense and dangerous forest knownas the Heartwood. Come prepared both in mind and in equipment before journeying here.
+> To the East, across the river, lies the dense and dangerous forest known as the Heartwood. Come prepared both in mind and in equipment before journeying here.
 >
 > **Merijool Forest:**
 >

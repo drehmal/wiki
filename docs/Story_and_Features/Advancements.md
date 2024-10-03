@@ -6,7 +6,7 @@
 
 !!! warning "This article will be split into sections, based on the potential spoiler content of that advancement section."
 
-Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into original Drehmal advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, endermen are Primal Walkers).
+Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into Drehmal's original advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, Endermen are Primal Walkers).
 
 Advancements are sorted into one of six (6) categories:
 
@@ -73,6 +73,8 @@ This section contains the 48 advancements in the "Drehmal" tab, which are almost
     | Oh Shiny | Distract Maelmari with gold | Distract a [[Maelmari]] (piglin) by throwing gold. |
     | Sticky Situation | Jump into a honey block to break your fall | Jump into the side of a honey block and slide down it, breaking your fall. |
     | Total Beelocation | Move a Bee Nest, with 3 bees inside, using Silk Touch | |
+    | REMOVED ADVANCEMENTS | \* The following advancement was in the 1.17 version of Drehmal: Apotheosis, but is not present in the current patch. | |
+    | A Complete Catalogue | Tame all cat variants! | Tame all 11 cat variants. |
   
 ## Moderate Exploration Spoilers: Fabled Equipment and Discoveries
 
@@ -158,7 +160,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Temporal Ruins | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation. - Discovered Sal'Mevir | Enter [[Sal'Mevir]]. |
     | All That Remains | Avsohm was highly technologically advanced, yet they still fell to ruin. - Discovered the Exodus Citadel | Enter the [[Exodus Citadel]]. |
     | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Sunken Astral Body]]. |
-    | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Last Avsohmic Vault]] off the Casain coast. |
+    | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Avsohmic Vault]] off the Casain coast. |
     | The Lost Cavern | Ages ago, Avsohm used this cave to gather Rehntite, an incredibly strong mineral with untold arcane potential. Unfortunately, the method of extraction has been lost to time. - Discovered the Rehntite Cave | Enter the [[Rehntite Cave]]. |
     | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |
     | Chamber of Dreams | Drehmal slumbers deep below; perhaps one day they will awaken. - Stepped into the entrance of the Primal Caverns | Enter the [[Primal Caverns]]. |
@@ -193,7 +195,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Rites of Cruelty  | Within a city of chaos lies a place of anguished stillness. Once a week, however, throngs pour into this spacious amphitheater to witness the involuntary sacrament of Ascension. - Discovered the Sepulchral Altar, sacred place of Maelihs | Enter the [[Sepulchral Altar]] in [[Rhaveloth]]. |
     | Avast! | Keep yer wits about ye at this roguish wharf full to burstin' with the spirit o' nautical competition. - Discovered Port Solitude, sacred place of Dahr | Enter [[Port Solitude]]. |
     | Place of Conversion | For untold centuries, a small order of Virmari worshipped their Goddess in a far-flung fortress. After she left, they were visited by a new subject for their adoration. - Discovered Starrise Bastion, sacred place of Rihelma | Enter [[Star-Rise Bastion]]. |
-    | If These Walls Could Talk | A skilled and hardworking tribe of Drehmari built this adobe cliff dwelling that was ancient even when Avsohm was ancient. - Discovered the ruins of Wokonori, sacred place of Taihgel | Enter [[Wokonori]]. |
+    | If These Walls Could Talk | A skilled and hardworking tribe of Drehmari built this adobe cliff dwelling that was ancient even when Avsohm was still young. - Discovered the ruins of Wokonori, sacred place of Taihgel | Enter [[Wokonori]]. |
     | Deja Vu | An ancient tabernacle of the crestfallen Aspect of Magic hums to life as you approach. Have you been in this place before? - Discovered a nameless ziggurat, sacred place of Khive | Approach the [[Nameless Ziggurat]] at [[Ihted]]. |
     | Flower Power | Follow your bliss, and it will lead you here. - Discovered the Temple of the Bloom and Bough, sacred place of Vayniklah | Enter the Temple of the Bloom and Bough in [[Marahza]]. |
     | Death's Embrace | While the Casain primarily follow Virtuo, many retain the traditional practice of Voynahla worship in the hope of favorable reincarnation. - Discovered the Perishing Well, sacred place of Voynahla | Enter the [[Perishing Well]]. |

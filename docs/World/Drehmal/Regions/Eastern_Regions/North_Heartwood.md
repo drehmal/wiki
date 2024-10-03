@@ -73,7 +73,7 @@ Kazzani was a town on the southern edge of the North Heartwood in the Second Avi
 
 ### Ruins of Rhaverik
 
-Rhaverik was a town situated by a lake in the northwestern portion of the North Heartwood. After the "Hovadchear Vein" and "Coalition Seam" (underground rehnite deposits) were discovered beneath the town, Master Ultva of Insohm comissioned a large mine here to supply the Order. The intense excavation caused tunnels to collapse, creating sinkholes on the surface that destroyed buildings, and resulting in tens of casualties. Most of Rhaverik's population fled after this incident, and eventually it was rendered completely deserted, except for one lone resident.
+Rhaverik was a town situated by a lake in the northwestern portion of the North Heartwood. After the "Hovadchear Vein" and "Coalition Seam" (underground rehntite deposits) were discovered beneath the town, Master Ultva of Insohm commissioned a large mine here to supply the Order. The intense excavation caused tunnels to collapse, creating sinkholes on the surface that destroyed buildings, and resulting in tens of casualties. Most of Rhaverik's population fled after this incident, and eventually it was rendered completely deserted, except for one lone resident.
 
 **Coordinates:** (X: 1078, Y: 63, Z: 2124)
 

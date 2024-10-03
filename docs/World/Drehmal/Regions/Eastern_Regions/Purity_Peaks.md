@@ -43,7 +43,7 @@ Hevhlak is a town populated by Ro'Tehrmari in central Purity Peaks. Its resident
 
 ### Scalebound Monastery
 
-A pale stone temple and living quarters sit high in the Nahynaga Mountains northeast of Purity Peaks. It once housed many La'Tehrmari pilgrims and Wingmakers, and was used for transporation between Drehmal and [[LD|Lo'Dahr]]. Today, with the now-optional task of visiting Drehmal being unpopular for Tehrmari, its connection to Lo'Dahr is severed and the monastery is only home to a limited number of Scalebound Priests.
+A pale stone temple and living quarters sit high in the Nahynaga Mountains northeast of Purity Peaks. It once housed many La'Tehrmari pilgrims and Wingmakers, and was used for transportation between Drehmal and [[LD|Lo'Dahr]]. Today, with the now-optional task of visiting Drehmal being unpopular for Tehrmari, its connection to Lo'Dahr is severed and the monastery is only home to a limited number of Scalebound Priests.
 
 **Coordinates:** (X: 2916, Y: 195, Z: -114)
 

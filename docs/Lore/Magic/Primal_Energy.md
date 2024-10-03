@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Primal Energy** is a form of unique, highly powerful energy, with unclear origins stemming from outside the realm of Drehmal. Primal energy was used by [[Khive]] and the other [Aspects](/Lore/Higher_Beings/Aspects/) in the creation of the world, and its use by [[Avsohm]] led that empire to become the most powerful and advanced ever created by mortals.
+**Primal energy** is an essential element of reality and the fundamental driving force of the universe. [[Khive|Khive's]] ability to manipulate and compile primal energy allowed for the [Aspects](/Lore/Higher_Beings/Aspects/) to carry out their processes to create the world, and the [[Avsohm|Empire of Avsohm's]] meddling in the collection and utilization of the energy in its raw form is what lent them their unchallenged power and technological superiority.

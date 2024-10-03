@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in [[Castle Greyspire]]. It contains ruminations on the nature of the heart and mind, and the hypocrisy of the latter.
+This book can be found in a chest in [[Castle Greyspire]]. It contains ruminations on the nature of the "heart" and "mind," and the hypocrisy of the latter.
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -25,3 +25,5 @@ This book can be found in a chest in [[Castle Greyspire]]. It contains ruminatio
 >
 > What will they do when inevitability comes for them?
 
+## Extras
+This book seems to very closely parallel some of the [[End-Game_Dialogue.md|end-game dialogue]] given by a [[yellow|mysterious, powerful figure]].

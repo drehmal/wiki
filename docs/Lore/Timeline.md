@@ -1,4 +1,4 @@
-# Drehmal Lore Timeline
+# (OUTDATED) Drehmal Lore Timeline
 
 --8<-- "under_construction.md"
 
@@ -41,8 +41,8 @@ Little is known about the First Avihm. It is clear that it ended with the destru
 
 -   Year 1695 - Zorhis Ifeihl becomes the new Avsohmic Emperor.
 -   Year 1717 - The first of many small skirmishes with Maelihs’ forces begin at the southwestern border.
--   Year 1761 - Ifeihl steps down as emperor after many military failures; the loss of many lives with Maelihs skirmishes, inability to deal with an ongoing necromancy issue, and enlisting commoners to fight a growing undead horde. Uffhiel Anyr, a masterful general, takes his place.
--   Year 1765 - Maelihs sends a small portion of his army to engage in battle at the edge of his outer sanctum. Emperor Anyr immediately responds by ordering structure of a huge military complex in the Golden Canyon, a few days north of Maelihs’ domain. The complex is built over the spiritual city of Sal’Iloh.
+-   Year 1761 - Ifeihl steps down as emperor after many military failures; the loss of many lives with Maelihs skirmishes, inability to deal with an ongoing necromancy issue, and enlisting commoners to fight a growing undead horde. Uffeihl Anyr, a masterful general, takes his place.
+-   Year 1765 - Maelihs sends a small portion of his army to engage in battle at the edge of his outer sanctum. Emperor Anyr immediately responds by ordering structure of a huge military complex in the Golden Canyon, a few days north of Maelihs’ domain. The complex is built over the spiritual city of Sal'Iloh.
 -   Year 1780 - Gradual buildup of troops at the new military complex named Sal’Anyr. Unease grows across the empire as Maelihs has not made any attacks since 1765.
 -   Year 1812 - Yavhlix researchers finally discover the source of the energy beneath the mountain. It is a portal of some sort.
 -   Year 1817 - All contact with Yavhlix lost after madness strikes the facility.
@@ -77,7 +77,7 @@ Little is known about the First Avihm. It is clear that it ended with the destru
 -   Year 621 - The Order of Insohm pushes in to begin negotiations with the Tidal Dynasty. Negotiations fail, and the Tidal War begins.
 -   Year 624 - The Tidal War reaches its height when the Insohmic Crusaders manage to capture the Gozak coast and the Kiln island. Maelihs attacks and sends a Skullbeast to the southern Black Jungle.
 -   Year 626 - Maelihs launches a direct attack on the Kiln. Insohm and the Tidal Dynasty are forced to join together against a common evil. Virmari from around the world begin forming together and moving to the Kiln.
--   Year 628 - Maelihs lands himself on the Kiln and with a legion of Maelmari, fights his way into Virtuo’s sanctum. Virtuo, for the first time in millenia, leaves her sanctum to directly confront Mael. He wins in a direct battle but leaves before finishing the job. His legions are called back. The conflict becomes known as the Battle of Divinity.
+-   Year 628 - Maelihs lands himself on the Kiln and with a legion of Maelmari, fights his way into Virtuo’s sanctum. Virtuo, for the first time in millennia, leaves her sanctum to directly confront Mael. He wins in a direct battle but leaves before finishing the job. His legions are called back. The conflict becomes known as the Battle of Divinity.
 -   Year 629 - Calls to end the Tidal War come from both sides after the severe loss of lives from both the war and Mael’s attacks. The Order attempts to negotiate with the Dynasty again. The Dynasty agrees to call off the war and begin proper discussion.
 -   Year 630 - A conclusion is reached between the two sides; Virtuo’s Strait becomes an open-border trade zone and the Kiln becomes a neutral territory that is controlled by a small Virmari led government. The Dynasty is renamed to the Tidal Republic and establishes a pseudo-democratic government in the region.
 -   Year 639 - The Order agrees to begin reconquering of the West now that the Tidal War and the people of Insohm have fully recovered.

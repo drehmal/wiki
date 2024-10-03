@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 # Obsolete Transcripts
 
 This section contains dialogue transcripts from major story sequences that have been removed or heavily changed from previous versions. These transcripts are outdated, but they have been kept here for your viewing.

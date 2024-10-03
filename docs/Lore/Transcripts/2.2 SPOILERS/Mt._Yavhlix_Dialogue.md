@@ -12,9 +12,9 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will start to be spoken to by a mysterious voice, widely believed to be that of [[Aok]]. 
+Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will start to be spoken to by a mysterious voice, understood to belong to [[Aok]]. 
 
-This dialogue does not transpire in the in-game chat, but rather, through the names of any item the player is holding being changed. Any item that the player has in their hand may have its name changed to one of these lines for a few seconds before being changed back, until the full sequence has ended.
+This dialogue does not transpire in the in-game chat, but rather through the name of any item the player is holding. Any item that the player has in their hand may have its name changed to one of these lines for a few seconds before being changed back, until the full sequence has ended.
 
 ## Transcription
 > \*Player enters Mt. Yavhlix and begins walking down the bridge to the Facility*

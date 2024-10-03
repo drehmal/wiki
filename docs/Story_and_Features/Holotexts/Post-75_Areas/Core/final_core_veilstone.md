@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-Found in the [[Numencore]], this holotext contains part of a conversation between [[Kahmas Tuhs]] and [[Ekoh]], with the former claiming that [[Mythbreaker]] can destroy essentially anything.
+Found in the [[Numencore]], this holotext contains part of a conversation between [[Kahmas Tuhs]] and [[Misc Avsohm#Ekoh|Ekoh]], with the former claiming that [[Mythbreaker]] can destroy essentially anything.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

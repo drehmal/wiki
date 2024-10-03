@@ -26,7 +26,7 @@ The repository entry for [[Numencore|the Numencore and Core Facility]].
 ![[repo_core.png]]{ width="384" }
 
 ## Transcription
-> Carefully locked behind a deactivated warp ring, the Empire secretly constructed a laboratory around the Numencorre, a vast swirling orb of **primal energy** at the center of Lo’Dahr.
+> Carefully locked behind a deactivated warp ring, the Empire secretly constructed a laboratory around the Numencore, a vast swirling orb of **primal energy** at the center of Lo’Dahr.
 >
 > There appears to be enough energy in the Numencore to **power the empire for centuries**.
 >

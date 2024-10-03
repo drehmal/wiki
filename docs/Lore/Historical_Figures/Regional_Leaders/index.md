@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-Many regional leaders play prominent roles in the history of Drehmal, without having necessarily belonged to any of its massive, Avihm-defining empires. Their pages are found here.
+Many individuals have earned legacies for their prominent roles in the history of the realm as leaders of important political states. Their pages are found here.

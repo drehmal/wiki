@@ -23,7 +23,7 @@ When [[Drehn|Drehn Mal'Sohm]] inherited the Chosen Throne, he reformed the gover
 
 Some time in the Third Avihm, the independent towns of Capital Valley (and the Gulf of Drehmal) came together as the [[United Townships of Dreh'Noha]], which became a member state of the [[Insohm|Order of Insohm]]. Even after Insohm's fall, this united Dreh'Nohan state continued to exist and does so in the current day.
 
-Worship of [[Drehmal]] is the dominant religion in the region, as it is throughout the central regions of Drehmal.
+Worship of [[Drehmal]] is the dominant religion in the region, as it is throughout the central regions of the continent.
 
 ## Regional Map
 
@@ -50,27 +50,27 @@ There is also a short Terminus tower on Av'Sal's central island. The area surrou
 
 The Hunter's Crypt is a series of underground stone brick chambers, three of which contain the tombs of members of the hunting party that killed [[Muhs|Greatbeast Muhs]]; Gahwyn the Hunter, Asrihk Clearbrook the Berserker and the Tracker (name unknown). 
 
-The entire structure is a reference to the 2.1 version of Drehmal, in which the [[Stasis Facility]] was this very tomb, and the player simply awoke from the spawn tomb. These three tombs each contain a pair of boots, which are a reference to the class boots present in that older version of Drehmal.
+The entire structure is a reference to the 2.1 version of Drehmal, in which the [[Stasis Facility]] was replaced by this very crypt, and the player simply awoke inside. The three tombs each contain a pair of boots, which are a reference to the class boots present in that older version of Drehmal.
 
 **Coordinates:** (X: 325, Y: 46, Z: 341)
 
 ###  New Drabyel
 
-New Drabyel is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its typical buildings take the form of grassy mounds with features of spruce and oak wood. Drabyel was the capital of the [[Chosen Kingdom]] in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was wiped out, which would be why the modern town is named "*New* Drabyel".
+New Drabyel is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its typical buildings take the form of grassy mounds with features of spruce and oak wood. Drabyel was the capital of the Chosen Kingdom in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was wiped out, which would be why the modern town is named "*New* Drabyel".
 
 **Coordinates:** (X: 531, Y: 67, Z: 1839)
 
 ### Primal Caverns
 
-The [[Primal Caverns]] are a series of caverns beneath a steep green mountain, which sits between a similar red mountain to the west and a blue mountain to the east. These three peaks represent the [three deities](/Lore/Higher_Beings/Deities/). This may be the site where the [[Primal Tree]] stood in the First Avihm. Only a small portion of the actual caverns are accessible (or exist) in-game.
+The [[Primal Caverns]] is a small cave beneath a steep green mountain, which sits between a similar red mountain to the west and a blue mountain to the east. These three peaks represent the [three deities](/Lore/Higher_Beings/Deities/). This may be the site where the [[Primal Tree]] stood in the First Avihm. Only a small portion of the actual caverns are accessible (or exist) in-game.
 
-[[Drehmal]] is believed to be slumbering deep underneath the Primal Caverns today, having last been seen heading towards the caverns early in Av2.
+Drehmal is believed to be slumbering deep underneath the Primal Caverns today, having last been seen heading towards the caverns early in Av2.
 
 **Coordinates:** (X: 869, Y: 64, Z: 489)
 
 ### Ruins of Av'Sal
 
-[[Av'Sal]] was a massive city which was ordered to be constructed by Drehn Mal'sohm to serve as the capital of his newly founded Avsohmic Empire. The majority of Av'Sal is built around a lake, with a central island holding a Terminus tower and the capitol building above the [[Av'Sal Repository|Av'Sal]], an important story location. Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers.
+[[Av'Sal]] was a massive city which was ordered to be constructed by Drehn Mal'sohm to serve as the capital of his newly founded Avsohmic Empire. The majority of Av'Sal is built around a lake, with a central island holding a Terminus tower and the capitol building above the [[Av'Sal Repository|Av'Sal]] (an important [story location](/Story_and_Features/Story_Locations/). Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers.
 
 **Coordinates:** (X: -218, Y: 105, Z: 1645)
 
@@ -88,7 +88,7 @@ Solvei is a village lying on a small stream running from one lake to another, ne
 
 ### Stasis Facility
 
-The [[Stasis Facility]] is an underground complex near the Primal Caverns that houses 24 Avsohmic stasis pods, acting as the very first [story location](/Story_and_Features/Story_Locations/). The player awakes in one of these pods, and they must escape via a staircase leading to an opening on the surface atop a steep crag. The Stasis Facility has a large, open room with trees to allow the player to gather basic materials after spawning, and a room with murals and signs telling the story of the Felling of the [[Primal Tree]] and the birth of the three deities.
+The [[Stasis Facility]] is an underground complex near the Primal Caverns that houses 24 Avsohmic stasis pods, acting as the very first [story location](/Story_and_Features/Story_Locations/). The player awakes in one of these pods, and they must escape via a staircase leading to an opening on the surface atop a steep crag. The Stasis Facility has a large, open room with trees to allow the player to gather basic materials after spawning, and a room with murals and signs telling the story of the [[Felling|Felling of the Primal Tree]] and the birth of the three deities.
 
 **Coordinates:** (778, Y: 2, Z: 584)
 

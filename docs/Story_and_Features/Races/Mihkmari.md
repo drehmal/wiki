@@ -2,4 +2,4 @@
 
 --8<-- "under_construction.md"
 
-**Mihkmari** are a humanoid race in Drehmal, who may or may not actually be their own race. They replace vanilla Minecraft's pillagers, and appear identical to vanilla pillagers.
+**Mihkmari** are a humanoid race in Drehmal, who are a mix between [[Drehmari]] and [[Maelmari]] according to the lore. They replace vanilla Minecraft's illagers, and appear identical to vanilla illagers.

@@ -21,7 +21,7 @@ This book can be found in a chest on the lower floor of the library in [[Okeke]]
 >
 > Lo'Dahr
 > -------------------
-> Lo'Dahr is a small bright yellow moon that never moves. It is only visible during the night, hanging just above the Southern horizon. It is known to be the home of Drehmal's deities and their more ethereal forms, created by Dahr, one of the elder Aspects. There is a large fallen fragment of what is believed to be Lo'Dahr directly east of Dusps, and is a popular site for researchers or religious groups. There are whisperings and rumors amonst insane alchemists and rural mountain people of a fourth and hidden moon, but no reputable astronomist has ever found evidence of such a thing. It is most likely a total fabrication.
+> Lo'Dahr is a small bright yellow moon that never moves. It is only visible during the night, hanging just above the Southern horizon. It is known to be the home of Drehmal's deities and their more ethereal forms, created by Dahr, one of the elder Aspects. There is a large fallen fragment of what is believed to be Lo'Dahr directly east of Dusps, and is a popular site for researchers or religious groups. There are whisperings and rumors amongst insane alchemists and rural mountain people of a fourth and hidden moon, but no reputable astronomist has ever found evidence of such a thing. It is most likely a total fabrication.
 
 
 

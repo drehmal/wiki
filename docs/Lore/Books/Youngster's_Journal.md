@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame in the Akhlo'Aroma building outside the [[Kiln of Virtuo]].
+This book can be found in an item frame in the "Akhlo'Aroma" building outside the [[Kiln of Virtuo]].
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

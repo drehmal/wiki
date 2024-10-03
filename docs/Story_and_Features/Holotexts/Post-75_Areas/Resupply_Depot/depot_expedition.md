@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-This holotext, one of two found in a room near the top of the [[Resupply Depot]], discusses the experience of Avsohm's initial landing on [[Lo'Dahr]], piloted by [[Verpyne]].
+This holotext, one of two found in a room near the top of the [[Resupply Depot]], discusses the experience of Avsohm's initial landing on [[Lo'Dahr]], piloted by [[Misc Avsohm#Verpyne|Verpyne]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

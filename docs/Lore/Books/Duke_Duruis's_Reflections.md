@@ -13,7 +13,7 @@ This book can be found on a lectern in [[Ancehl Castle]]. It contains a reflecti
 | 1507  |  169  | -1947 |
 
 ## Transcription
-> I spent many good years as the Grand Councillor representing Aklo'Rohma in the Insohmic Coalition, and it was always in lockstep with the Duspian Parliament. Not anymore.
+> I spent many good years as the Grand Councillor representing Akhlo'Rohma in the Insohmic Coalition, and it was always in lockstep with the Duspian Parliament. Not anymore.
 >
 > It might look now like I had planned all of this from the beginning, what with occupying the historic castle I myself spent so many years renovating, but that could not be much further from the truth.
 >

@@ -25,7 +25,7 @@ This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a th
 >
 > 5 - " Stop the insubordination this instant, Jihn. Remember who you are speaking to."
 >
-> 4 - "The Drehmari, the weak and insignificant, are if course propitious to regain the land they stole from me. There is no greater approach than this to destroy their morale for many millenia."
+> 4 - "The Drehmari, the weak and insignificant, are if course propitious to regain the land they stole from me. There is no greater approach than this to destroy their morale for many millennia."
 >
 > 2 - "What of Drehmal? What will it think of this?"
 >
@@ -39,9 +39,9 @@ This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a th
 >
 > 8 - "My radiance, it seems you are not willing to change your mind on the subject. Care to give specifics, then we can further debate?"
 >
-> 4 - "The Twinrock River would be the northern margin of the desolation...reaching to Vir's...Straight. We shall unleash true devastation, and witness the full extent of the Mother's capabilities."
+> 4 - "The Twinrock River would be the northern margin of the desolation...reaching to Vir's...Strait. We shall unleash true devastation, and witness the full extent of the Mother's capabilities."
 >
-> I believe that was Maehlihs? There's no way a deity would be here in the city. I need to leave. I'll prepare for my journey tomorrow.
+> I believe that was Maelihs? There's no way a deity would be here in the city. I need to leave. I'll prepare for my journey tomorrow.
 
 
 

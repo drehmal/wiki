@@ -69,7 +69,7 @@ It is not clear exactly whose possible future this text refers to, and in fact, 
 ### Transcription
 > 2:1 - The sky will blacken and shadows will grow longer than ever before. Tendrils of dark will seep into every corner of the world, grasping at forbidden knowledge.
 >
-> 2:2 - And Those Beyond will enter, perfect and circular. They will devour all in their path. They will, even consume themselves.
+> 2:2 - And Those Beyond will enter, perfect and circular. They will devour all in their path. They will even consume themselves.
 >
 > 2:3 - For one day and one night, a golden oculus dripping with blackness will grace the very sky. It will not be a creation of the Star-Rise Drake. It will see all, and all will see it.
 >

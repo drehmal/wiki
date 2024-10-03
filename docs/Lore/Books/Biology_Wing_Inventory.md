@@ -28,7 +28,7 @@ This book can be found on a lectern in the now-overgrown Hydroponics Lab section
 > -------------------
 > OVERVIEW:
 >
-> Although significant quantities of edible rations can be imported via the Terminus, Drehmari aboard the Aphelion have reported a decline in taste from between the source (mostly farms located in the Capitol Valley region) and the station. For this reason, some resources within the Biology Wing are dedicated to supplementary food production. Within this wing, the following crops should be maintained at all times:
+> Although significant quantities of edible rations can be imported via the Terminus, Drehmari aboard the Aphelion have reported a decline in taste from between the source (mostly farms located in the Capital Valley region) and the station. For this reason, some resources within the Biology Wing are dedicated to supplementary food production. Within this wing, the following crops should be maintained at all times:
 >
 > -Carrots
 > -Beetroot
@@ -60,7 +60,7 @@ This book can be found on a lectern in the now-overgrown Hydroponics Lab section
 > Although most of these are stored behind strict lock and key, some rare strains of macroflora are kept in the biodome.
 > These include:
 > -An Akhlo'rose
-> -A Cthonic Rose
+> -A Chthonic Rose
 > -A Heartwood Mahogany
 > -A Veldt Acacia
 > -A Terhmian Aspen

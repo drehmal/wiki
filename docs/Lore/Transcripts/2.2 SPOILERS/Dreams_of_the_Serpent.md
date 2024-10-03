@@ -12,7 +12,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The following is a transcript of the Dreams of the Serpent, a dialogue sequence that plays during the player's first time climbing the Tower of Drehmal in [[Ytaj]]. This sequence finds the player seemingly joining in on the [[Drehmal|Realmbinder]]'s dream, while being directly addressed by them.
+The following is a transcript of the Dreams of the Serpent, a dialogue sequence that plays during the player's first time entering and climbing the Tower of Drehmal in [[Ytaj]]. This sequence finds the player seemingly joining in on the [[Drehmal|Realmbinder]]'s dream, while being directly addressed by them.
 
 Lines alternate between the in-game chat, which present as cues to the player to represent the feeling of the dream, and direct dialogue from Drehmal at the top of the screen.
 

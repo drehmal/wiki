@@ -12,7 +12,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The following is a transcription of the dialogue given to the player by [[Tethlaen]] during his battle in the Nothing, after the main sequence at the [[Primary Energy Collection Facility]]. 
+The following is a transcription of the dialogue given to the player by [[Tethlaen]] during his battle in the [[Nothing]], after the main sequence at the [[Primary Energy Collection Facility]]. 
 
 ## Transcription
 > \*Player enters the Nothing*

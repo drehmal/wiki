@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame at the Astorahni Tower in the northwestern [[Gulf of Drehmal]] region, near the eastern edge of [[Merijool]]. It is written by a member of the Order of Astorahn, seemingly a banished sect of the devotees of [[Lai]] in Merijool.
+This book can be found in an item frame at the Astorahnni Tower in the northwestern [[Gulf of Drehmal]] region, near the eastern edge of [[Merijool]]. It is written by a member of the Order of Astorahn, seemingly a banished sect of the devotees of [[Lai]] in Merijool.
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

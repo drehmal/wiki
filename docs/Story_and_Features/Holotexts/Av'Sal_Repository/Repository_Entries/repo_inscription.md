@@ -16,7 +16,7 @@ The repository entry for the [[Inscription Complex]]. These holotexts also appea
 ![[repo_inscriptionpart.png]]{ width="384" }
 
 ## Transcription
-> A boxy manufacturing outpost clinging to the intensely cold “Arcfrost” of a vast cavern in Loe’s Domain.
+> A boxy manufacturing outpost clinging to the intensely cold “Arcfrost” of a vast cavern in Loe's Domain.
 >
 > **There’s more to be discovered here.**
 
@@ -25,7 +25,7 @@ The repository entry for the [[Inscription Complex]]. These holotexts also appea
 ![[repo_inscription.png]]{ width="384" }
 
 ## Transcription
-> A boxy manufacturing outpost clinging to the intensely cold “Arcfrost” of a vast cavern in Loe’s Domain.
+> A boxy manufacturing outpost clinging to the intensely cold “Arcfrost” of a vast cavern in Loe's Domain.
 >
 > Due to transportation difficulties involved with such delicate instruments, primal catalysts began to be inscribed out of imported rehntite on Lo’Dahr itself.
 >

@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest at The Grimm Troupe, in the far west of [The Frozen Bite]]. Like the rest of the building it inhabits, it is a Hollow Knight reference.
+This book can be found in a chest at The Grimm Troupe, in the far west of The [[Frozen Bite]]. Like the rest of the building it inhabits, it is a Hollow Knight reference.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

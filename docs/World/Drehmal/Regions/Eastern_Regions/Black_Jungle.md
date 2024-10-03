@@ -6,7 +6,7 @@ The **Black Jungle** is a relatively large region in southeast [[Overworld|Drehm
 
 ## Geography
 
-The Black Jungle is located in the southeast corner of Drehmal's main continent. The Verdant Range separates the region from [[Spearhead Forest]] to the north and the [[North Heartwood]] away to the west, although the latter is still directly accessible through the [[Verdant Labyrnith]]. The region is also bordered by open ocean to the east and south, and a large gulf called the "Eye of Vir" to the west. The Strait of Vir connects the Eye of Vir to the southern ocean, and forms a narrow division between the Black Jungle's southwestern tip and the southeastern tip of the [[South Heartwood]].
+The Black Jungle is located in the southeast corner of Drehmal's main continent. The Verdant Range separates the region from [[Spearhead Forest]] to the north and the [[North Heartwood]] away to the west, although the latter is still directly accessible through the [[Verdant Labyrinth]]. The region is also bordered by open ocean to the east and south, and a large gulf called the "Eye of Vir" to the west. The Strait of Vir connects the Eye of Vir to the southern ocean, and forms a narrow division between the Black Jungle's southwestern tip and the southeastern tip of the [[South Heartwood]].
 
 The Black Jungle has a very diverse landscape. Most of the region is a large, thick, tropical forest. The trees here are almost all jungle wood, but there are rare instances of acacia as well. The trees' heights vary, but most are taller than the average trees of other regions. There are volcanic zones on the east coast that are free of any forest cover and have ground of red, orange and black hues. Two separate areas within the jungle also contain pools of lava. The Black Jungle has many cliffs and spires composed of white-and-turquoise striped stone, and other cliffs are striped with black and red/orange. Black sand is present on all of the region's coastlines.
 
@@ -69,19 +69,19 @@ The Divination Facility was a small, one-room Avsohmic facility situated in a ca
 
 ### Kiln of Virtuo
 
-The Kiln of Virtuo is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millenia. Before she left, her followers could make pilgrimages to the Kiln to seek advice or healing from the Goddess herself. It contains statues of several members of Virtuo's Grand Parish, a [[Devotion|devotion]] altar, and more.
+The Kiln of Virtuo is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millennia. Before she left, her followers could make pilgrimages to the Kiln to seek advice or healing from the Goddess herself. It contains statues of several members of Virtuo's Grand Parish, a [[Devotion|devotion]] altar, and more.
 
 **Coordinates:** (X: 3260, Y: 85, Z: 3353)
 
 ### Ruins of Vulteid
 
-Vulteid was a city in the west Black Jungle that was of religious importance to the local practicioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood.
+Vulteid was a city in the west Black Jungle that was of religious importance to the local practitioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood.
 
 **Coordinates:** (X: 3772, Y: 86, Z: 3948)
 
 ### Ruins of Zovan
 
-Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the [[Gozaki Union|Gozaki]] army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh opression and ultimately massacre.
+Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the [[Gozaki Union|Gozaki]] army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh oppression and ultimately massacre.
 
 **Coordinates:** (X: 3010, Y: 105, Z: 3931)
 

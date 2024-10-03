@@ -42,7 +42,7 @@ This book is found before a brewing stand, rotting flesh, redstone dust, and a c
 | 4134  |  127  |  285  |
 
 ### Transcription
-> The ultimate goal of any alchemist is the achieval of "The Great Work", commonly defined by many as the usage of Divine Magic by a mortal. These are some common alchemic supplies, but who knows, these could just be the key to completing The Great Work...
+> The ultimate goal of any alchemist is the achievement of "The Great Work", commonly defined by many as the usage of Divine Magic by a mortal. These are some common alchemic supplies, but who knows, these could just be the key to completing The Great Work...
 
 ***
 

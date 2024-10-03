@@ -12,4 +12,4 @@ tags:
 
 ## Lore
 
-Elvett was an Avsohmic city attacked by Maelhis during the [[Dune Wars]]. The city resisted more than expected and was not captured until the end of the wars, presumably in Av3 19 or 20.
+Elvett was an Avsohmic city attacked by Maelihs during the [[Dune Wars]]. The city resisted more than expected and was not captured until the end of the wars, presumably in Av3 19 or 20.

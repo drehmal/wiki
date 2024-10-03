@@ -31,7 +31,7 @@ There is not much to be found initially in the facility, besides a map of the mo
 ![[LD_facilities_map.png]]
 > The map of the Avsohmic facilities on Lo'Dahr, which appears in each of the four locations.
 
-Another room immediately accessible contains three different [holotext](/Story_and_Features/Holotexts/) spots, which will come to hold copies of the [[Av'Sal Repository|Repository]] entries for the other three Lo'Dahr facilities as they are explored. This room also has a chest, containing a "Primal Energy Radar," which points to an unknown location on [[Overworld|Drehmal]] (it does not function on Lo'Dahr). This item can optionally be used in a later story sequence.
+Another room immediately accessible contains three different holotext spots, which will come to hold copies of the [[Av'Sal Repository|Repository]] entries for the other three Lo'Dahr facilities as they are explored. This room also has a chest, containing a "Primal Energy Radar," which points to an unknown location on [[Overworld|Drehmal]] (it does not function on Lo'Dahr). This item can optionally be used in a later story sequence.
 
 In the center of the facility lies a familiar 3x3 orange stained glass platform, identical to the one found at the entrance to the [[Admin Wing|Repository's admin wing]]. If this checkpoint is passed, a stairway will open downward to an additional area, where the true puzzle of the facility lies. 
 
@@ -41,7 +41,7 @@ In the center of the facility lies a familiar 3x3 orange stained glass platform,
 It is not readily apparent what, if anything, can be done in this room, which is intentional. From here, the player is driven to explore the rest of the moon, especially the other three locations, which each primarily exist to teach the player a key mechanic that can be applied in this room.
 
 ## Gameplay
-Upon arriving at the Core Facility, players may immediately notice the security checkpoint. The solution to passing through this is the same as it was at the Repository admin wing:
+Upon arriving at the Core Facility, players may immediately notice the security checkpoint. The solution to passing through this is the same as it was at the Repository Admin Wing:
 
 ??? warning "Checkpoint Solution"
     Removing all armor and standing still on the platform for about 10-15 seconds will open the passageway down to the interior room.
@@ -62,14 +62,14 @@ If you have completed all of these puzzles and are still uncertain what to do, t
 If you have completed all of these puzzles on your own and still don't know what to do, here's the solution:
 
 ??? danger "Core Facility Puzzle Solution"
-    The Inscription Complex lesson must be applied first, as the player is required to place a diamond block on the flarepod (shroomlight) block between end rods, which activates the warp ring system's power. At this point, the warp ring is partially active, but not powered enough to be functional at all times. The ring is only functional when the "Station Aligned" screen flashes a sea lantern and plays a ringing sound effect, indicating that the Aphelion is directly overhead and capable of beaming down enough [[Primal Energy|primal energy]] to use the ring.
+    The Inscription Complex lesson must be applied first, as the player is required to place a diamond block on the flarepod (shroomlight) block between end rods, which activates the warp ring system's power. At this point, the warp ring is partially active, but not powered enough to be functional at all times. The ring is only functional when the "Station Aligned" screen flashes a sea lantern and plays a ringing sound effect, indicating that the Terminus is directly overhead and capable of beaming down enough [[Primal Energy|primal energy]] to use the ring.
 
 After the player has solved this puzzle and gone through the warp ring, they are transported to the [[Numencore]], the fifth and final main story location on Lo'Dahr.
 
 ## Original Writing
 The Core Facility itself contains only [[final_core_outside.md|one original holotext]], which is technically grouped with the Numencore holotexts. However, it is also home to copies of the three Repository entries for the other Avsohmic facilities on the moon—the [[repo_inscription.md|Inscription Complex]], [[repo_depot.md|Resupply Depot]], and [[repo_ring.md|Ring Research Installation]].
 
-There are no [lore books](/Lore/Books/) in the Core Facility.
+There are no lore books in the Core Facility.
 
 ## Lore
 

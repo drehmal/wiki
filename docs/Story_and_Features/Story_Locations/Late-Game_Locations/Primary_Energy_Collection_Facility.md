@@ -64,7 +64,7 @@ At the bottom of the facility, there is a veilstone barrier which, when approach
 ## Original Writing
 There are [11 holotexts](/Story_and_Features/Holotexts/Mt._Yavhlix_Dungeon/) to be found at the Primary Collection Facility, all in various states of disrepair after being partially (or, in some cases, mostly) consumed by holes, the same fate as most of the people at this location.
 
-Additionally, there are 9 different [lore books](/Lore/Books/) to be found inside the Primary Collection Facility: <br>
+Additionally, there are 9 different lore books to be found inside the Primary Collection Facility: <br>
 - [[Cooling Systems]] <br>
 - [[Evacuation Orders]] <br>
 - [[Hole-Filled Notebook]] <br>
@@ -98,4 +98,4 @@ For additional information on the lore of the facility, particularly the expedit
 Far in the back of the cave that the facility sits in, to the right (west), a chest with a unique sword can be found. This netherite sword, named "A Dumb Sword," has every single enchantment in the game.
 
 [^1]: Screenshot taken with night vision effect applied, as the inside of the mountain is usually extremely dark. 
-[^2]: While in Mt. Yavhlix, the item-name dialogue feature should not affect the NBT data of any held items—for example, mythical and legendary weapons may have their names changed, but this should not affect their functionality at all. However, it is known that if the player places or holds a shulker box containing other items with custom NBT data (enchanted books, artifacts, custom weapons, or any other items that Drehmal re-skins), the NBT data of the items inside the shulker can be erased. Therefore, it is recommended that you as the player refrain from bringing shulker boxes into Mt. Yavhlix, but if you must do so, then try to avoid storing anything valuable with custom NBT data in that shulker box.
+[^2]: While in Mt. Yavhlix, the item-name dialogue feature should not affect the NBT data of any held items—for example, Mythical and Legendary weapons may have their names changed, but this should not affect their functionality at all. However, it is known that if the player places or holds a shulker box containing other items with custom NBT data (enchanted books, artifacts, custom weapons, or any other items that Drehmal re-skins), the NBT data of the items inside the shulker can be erased. Therefore, it is recommended that you as the player refrain from bringing shulker boxes into Mt. Yavhlix, but if you must do so, then try to avoid storing anything valuable with custom NBT data in that shulker box.

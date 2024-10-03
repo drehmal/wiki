@@ -10,21 +10,21 @@ The following sections provide an overview of the story's progression, in (appro
 
 !!! warning "If you have not completed the map yourself, do NOT navigate to later headings using the outline feature on the right side of your screen! Spoiler warnings appear throughout this page before the *first* instance of spoilers for that portion of the game, not for every individual heading. If you skip ahead, you may miss a warning and accidentally spoil extremely significant story events for yourself!"
 
-## [[Stasis Facility]]
+## Stasis Facility
 
 ![[stasis_inside.png]]
 > The room in the Stasis Facility where the player wakes up.
 
-After configuring the world's settings, the player awakens in a temporal stasis pod at the [[Stasis Facility]] to the news that several stasis pods have flatlined, and they are being evacuated. The player assumes the role of one of the [Stasis Eight](Lore/Historical_Figures/Avsohm/Stasis_Eight/), a group of eight high-ranking officials from the [[Avsohm|Empire of Avsohm]] who were frozen in time (this information is not directly told to the player, except through the [[Stasis Subject Roster]] book). From exploring the facility, the player finds that they entered stasis due to some kind of emergency, and that an extremely long amount of time (revealed later to be over a thousand years) has passed. The player is able to escape by taking a hint from one of the nearby holotexts, and emerges to the surface, just south of the [[Primal Caverns]].
+After configuring the world's settings, the player awakens in a temporal stasis pod at the [[Stasis Facility]] to the news that several stasis pods have flatlined, and they are being evacuated. The player assumes the role of one of the [Stasis Eight](/Lore/Historical_Figures/Avsohm/Stasis_Eight/), a group of eight high-ranking officials from the [[Avsohm|Empire of Avsohm]] who were frozen in time (this information is not directly told to the player, except through the [[Stasis Subject Roster]] book). From exploring the facility, the player finds that they entered stasis due to some kind of emergency, and that an extremely long amount of time (revealed later to be over a thousand years) has passed. The player is able to escape by taking a hint from one of the nearby holotexts, and emerges to the surface, just south of the [[Primal Caverns]].
 
 ![[stasis_outside.png]]
 > The view that the player surfaces to.
 
 ## Terminus
-After briefly exploring the world, the player will find a white and purple Avsohmic warp tower (most likely the [[Capital Valley]] tower). Upon climbing this tower and pressing the button atop it, the player will be transported to the Terminus, a dormant fast travel hub used by Avsohm. The Terminus is initially dark, but upon entering the compass dispensary in the Central Towers wing, [[avSYS]]—the AI that runs the Terminus—will recognize the player-character's security clearance and reactivate the Terminus. It will then inform the player that due to a network linkage failure, all existing towers need to be manually re-linked, establishing the fundamental mode of story progression. 
+After briefly exploring the world, the player will find a white and purple Avsohmic warp tower (most likely the [[Capital Valley]] tower). Upon climbing this tower and pressing the button atop it, the player will be transported to the [[Terminus Network|Terminus]], a dormant fast travel hub once used by Avsohm. The Terminus is initially dark, but upon entering the compass dispensary in the Central Towers wing, [[avSYS]]—the AI that runs the Terminus—will recognize the player-character's security clearance and reactivate the Terminus. It will then inform the player that due to a network linkage failure, all existing towers need to be manually re-linked, establishing the fundamental mode of story progression. 
 
-## [[Av'Sal Repository]]
-While this is not necessarily the next step in all playthroughs, the Av'Sal Repository is a likely next step for many players, as there are signs pointing the player toward [[Av'Sal|the ruined Avsohmic capital]], and there is no amount of tower linkage required to enter the repository. Beneath the capitol building on the city's central island, the player can find another holo-door, similar to the one at the Stasis Facility, and it can be opened in the same way.
+## Av'Sal Repository
+While this is not necessarily the next step in all playthroughs, the [[Av'Sal Repository]] is a likely next step for many players, as there are signs pointing the player toward [[Av'Sal|the ruined Avsohmic capital]], and there is no amount of tower linkage required to enter the repository. Beneath the capitol building on the city's central island, the player can find another holo-door, similar to the one at the Stasis Facility, and it can be opened in the same way.
 
 Inside, the player finds a large repository containing information on important Avsohmic sites (story locations) throughout the realm, although only those that have been visited will have an active holotext entry. In the back of the repository, the hilt of an extremely powerful spear known as the [[Mythbreaker]] can be found floating in a chamber, along with notes describing the spear, which has been split into pieces that are held in other secure locations.
 
@@ -34,8 +34,8 @@ Inside, the player finds a large repository containing information on important 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Ancillary Research Facility/[[Sal'Mevir]] (25% SPOILERS)
-Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in Sal'Mevir. The player can then follow that compass to the research facility, which is in southeastern [[Purity Peaks]]. 
+## Ancillary Research Facility/Sal'Mevir (25% SPOILERS)
+Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in [[Sal'Mevir]]. The player can then follow that compass to the research facility, which is in southeastern [[Purity Peaks]]. 
 
 ![[salmevir_temporal_engine.png]]
 > Sal'Mevir.
@@ -50,8 +50,8 @@ Here, they can discover some old Avsohmic technology and research logs, document
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## [[Exodus Vault]] (50% SPOILERS)
-Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large, underwater Exodus Vault. This was former headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
+## Exodus Vault (50% SPOILERS)
+Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large, underwater [[Exodus Vault]]. This site was the former headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
 
 Within, the player can find several holotexts and books that dive further into Avsohm's inner machinations. The legendary [[Warp Horse]] items are also found in this location, as well as the right blade fragment of the [[Mythbreaker]]. The vault exits out into the [[Anyr'Nogur]] desert.
 
@@ -64,10 +64,10 @@ At any point after obtaining the two blade fragments, the player can return to t
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## [[Admin Wing]] (75% SPOILERS BEGIN HERE)
-Upon reaching 75% tower linkage (24 towers), the player will be given one more compass by avSYS, pointing to the administrative wing of the Av'Sal Repository. Here, the first portion of the 75% event takes place.
+## Admin Wing (75% SPOILERS BEGIN HERE)
+Upon reaching 75% tower linkage (24 towers), the player will be given one more compass by avSYS, pointing to the [[Admin Wing|Administrative Wing]] of the Av'Sal Repository. Here, the first portion of the 75% event takes place.
 
-At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named Verpyne, requesting reinforcements aboard the greatest ship in the Avsohmic fleet: the [[Aphelion|Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
+At the back entrance to the Admin Wing, the player learns a mechanic to bypass the security checkpoint, and is given access to the previously hidden rooms in the repository. These include even further glimpses into the more secretive projects of Avsohm, repeatedly hinting at a grand "apotheosis" plan constructed by its final emperor, [[Anyr]]. The player opens a door to the main repository, and hears a transmission from an Avsohmic official named Verpyne, requesting reinforcements aboard the greatest ship in the Avsohmic fleet: [[Aphelion|The Aphelion]]. The player is redirected back to the Terminus, where the second portion of the 75% event begins.
 
 ## The Aphelion 
 Upon returning to the Terminus after being prompted to do so in the Admin Wing, the player will gain access to a new section of the Outer Towers wing of the Terminus. At the end of this section is a small space shuttle that takes the player to the. 
@@ -75,7 +75,7 @@ Upon returning to the Terminus after being prompted to do so in the Admin Wing, 
 ![[aphelion_outside.png]]
 > The Aphelion.
 
-Aboard the Aphelion, the player navigates through the ship via maintenance tunnels, uncovering a significant amount of information on Avsohmic studies regarding outer space, incredibly strong materials, and high concentrations of primal energy. The player can find the first bits of information about Avsohm's deeper ambitions here, shown through holotexts that espouse Anyr's desire to rule over the entirety of the universe after Avsohm's research found evidence of other realms. It is revealed that Avsohm attempted to peer outside of their realm (functionally a solar system), but were stopped by the [[Veil]], seemingly a space-time bubble that physically keeps the realm contained, and cannot be seen through. With this attempt foiled, they turned their attention to the divine moon of [[LD|Lo'Dahr]], which the Aphelion is currently orbiting.
+Aboard the Aphelion, the player navigates through the ship via maintenance tunnels, uncovering a significant amount of information on Avsohmic studies regarding outer space, incredibly strong materials, and high concentrations of primal energy. The player can find the first bits of information about Avsohm's deeper ambitions here, shown through holotexts that espouse Anyr's desire to rule over the entirety of the universe after Avsohm's research found evidence of other realms. It is revealed that Avsohm attempted to peer outside of their realm (functionally a solar system), but were stopped by the [[Veil]], seemingly a space-time bubble that physically keeps the realm contained, and cannot be seen through. With this attempt foiled, they turned their attention to the divine moon of Lo'Dahr, which the Aphelion is currently orbiting.
 
 The player then manages to navigate around the outside of the ship, through the vacuum of space, to a hangar bay containing a prototype warp tower. Here, they can activate an injection sequence, which drops the tower down and out of the ship. A few seconds later, the player can then press another button in the room to be transported to the landing spot of the tower: a lake on [[Lo'Dahr]].
 
@@ -89,28 +89,28 @@ The player then manages to navigate around the outside of the ship, through the 
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## [[Core Facility]] (POST-75% SPOILERS BEGIN HERE)
-Upon first landing on Lo'Dahr, a likely first step will be following a compass found on the Aphelion to the Core Facility, just east of the town of [[Naharja]]. This facility, whose function is not immediately clear, appears small at first, containing only a slightly fuzzy map of the moon's habitable area, a few blank holotext spots, and a security checkpoint reminiscent of that at the entrance to the Admin Wing. 
+## Core Facility (POST-75% SPOILERS BEGIN HERE)
+Upon first landing on Lo'Dahr, a likely first step will be following a compass found on the Aphelion to the [[Core Facility]], just east of the town of [[Naharja]]. This facility, whose function is not immediately clear, appears small at first, containing only a slightly fuzzy map of the moon's habitable area, a few blank holotext spots, and a security checkpoint reminiscent of that at the entrance to the Admin Wing. 
 
 The map found here highlights the rough locations of three other Avsohmic facilities, which are the next intended story locations on the moon. Each of these three facilities is intended to teach a player a mechanic that can then be used in the Core Facility.
 
-## [[Resupply Depot]]
-The Resupply Depot, located in the southeast of Lo'Dahr in [[Rihelma's Domain]], was the first Avsohmic facility built on the moon, and is one of the four main Avsohmic facilities found on Lo'Dahr. It is situated on a floating island in the sky, and acted as a spaceport for Avsohm.
+## Resupply Depot
+The [[Resupply Depot]], located in the southeast of Lo'Dahr in [[Rihelma's Domain]], was the first Avsohmic facility built on the moon, and is one of the four main Avsohmic facilities found on Lo'Dahr. It is situated on a floating island in the sky, and acted as a spaceport for Avsohm.
 
 Within the facility, the player can find holotexts about the first expeditions on Lo'Dahr and some references to the other facilities, as well as a puzzle whose solution can be applied to the Core Facility.
 
-## [[Inscription Complex|Catalyst Inscription Facility]]
-The Inscription Complex, located in [[Loe's Domain]] in the far southwest, was the center for inscription of [[Arcanism|runic]] catalysts on the Divine Moon, allowing the empire to use the full extent of their technology on Lo'Dahr. It is found clinging to the underside of a glacier, and is another of the four main Avsohmic facilities found on Lo'Dahr.
+## Catalyst Inscription Facility
+The [[Inscription Complex]], located in [[Loe's Domain]] in the far southwest, was the center for inscription of [[Arcanism|runic]] catalysts on the Divine Moon, allowing the empire to use the full extent of their technology on Lo'Dahr. It is found clinging to the underside of a glacier, and is another of the four main Avsohmic facilities found on Lo'Dahr.
 
 Within the facility, the player can find holotexts pertaining to Avsohm's activity on the moon, as well as a puzzle whose solution can be applied to the Core Facility.
 
-## [[Ring Facility|Warp Ring Research Installation]]
-The Ring Research Installation is another of the four main Avsohmic facilities found on Lo'Dahr, found in [[Khive's Domain]] in the west. Situated within Lake Khanak, the facility was formerly a hydroelectric power plant, but was converted to a facility dedicated to the study of the warp rings found in Khive's Domain, a technology that eventually inspired Avsohmic warp technology.
+## Warp Ring Research Installation
+The [[Ring Facility|Ring Research Installation]] is another of the four main Avsohmic facilities found on Lo'Dahr, found in [[Khive's Domain]] in the west. Situated within Lake Khanak, the facility was formerly a hydroelectric power plant, but was converted to a facility dedicated to the study of the warp rings found in Khive's Domain, a technology that eventually inspired Avsohmic warp technology.
 
 Within the facility, the player can find holotexts and books pertaining to the research at the facility and its implications for the Terminus network, as well as a puzzle whose solution can be applied to the Core Facility.
 
-## [[Numencore]]
-At any point after arriving on Lo'Dahr, the player can solve the puzzle at the Core Facility, accessing the Numencore, but the solution is not readily apparent unless they have visited the other three locations. 
+## Numencore
+At any point after arriving on Lo'Dahr, the player can solve the puzzle at the Core Facility, accessing the [[Numencore]], but the solution is not readily apparent unless they have visited the other three locations. 
 
 After passing through the admin-wing-like security checkpoint, the player comes to a hall with an inactive warp ring. By activating the warp ring using the solution from the Inscription Facility and applying the knowledge of the other two locations, the player can use this warp ring to access an extension of the Core Facility by the Numencore, Avsohm's true main target on the moon. 
 
@@ -145,7 +145,9 @@ Inside of the facility, the player is [[Mt._Yavhlix_Dialogue.md|spoken to]] by a
 ![[the_nothing.png]]
 > The Nothing.
 
-Inside the Nothing (very similar to the vanilla End dimension), the player is thrust into a fight against [[Tethlaen]], the Aspect of Fear who has been missing for millennia. Upon killing Tethlaen, the regular Minecraft end portal appears in the center of the arena, and the player can enter it to see the vanilla Minecraft end credits and return to the Primary Collection Facility.
+Inside the Nothing (very similar to the vanilla End dimension), the player is thrust into a fight against [[Tethlaen_Boss|Tethlaen]], the Aspect of Fear who has been missing for millennia. Upon killing Tethlaen, the regular Minecraft end portal appears in the center of the arena, and the player can enter it to see the vanilla Minecraft end credits and return to the Primary Collection Facility. 
+
+This is not the end of the story.
 
 !!! danger "WARNING!!! This section contains EXTREMELY SIGNIFICANT spoilers for end-game areas (after the Mt. Yavhlix dungeon)."
 
@@ -160,7 +162,7 @@ Inside the Nothing (very similar to the vanilla End dimension), the player is th
 ## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE)
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 
 
-The voice instructs the player to return to the Terminus, where it takes control of avSYS. It dispenses the Silent Thing, a [[Trinket|trinket]] which directs the player to the [[Sunken Astral Body]], east of [[Dusps]].
+The voice instructs the player to return to the Terminus, where it takes control of avSYS. It dispenses the Silent Thing, a [[Trinkets|trinket]] which directs the player to the [[Sunken Astral Body]], east of [[Dusps]].
 
 At the Sunken Astral Body, the voice will manifest once again, summoning a bolt of energy to destroy a veilstone seal in the ground and grant the player access to [[Azimuth Labs]], the secret former headquarters of Avsohm's alchemical branch, [[Red Dawn]]. Here, the player can find evidence of unethical experimentation and advanced military plans, making clear Avsohm's intention to completely overtake the [Aspects](/Lore/Higher_Beings/Aspects/) and rule over all realms.
 
@@ -172,7 +174,7 @@ Eventually, the voice guides the player to the God Machine, a massive throne sur
 The player is then told to return to the Terminus.
 
 ## Resonant Halls 
-Back at the Terminus, the player is given another trinket, the Resonant Thing, which leads the player back to Mt. Yavhlix
+Back at the Terminus, the player is given another trinket, the Resonant Thing, which leads the player back to Mt. Yavhlix.
 
 Deep within the Primary Energy Collection Facility, another veilstone seal can be found. At this point, the voice will once again dispose of the seal, granting the player access to the deepest recesses of Mt. Yavhlix: The [[Resonant Halls]]. These halls, guarded by unkillable enemies and protected by a massive labyrinth the player must navigate, contain one of Avsohm's greatest pieces of technology: the Resonant Eye.
 
@@ -181,7 +183,7 @@ Deep within the Primary Energy Collection Facility, another veilstone seal can b
 
 The Resonant Eye is an extremely powerful divining lens, capable of peering beyond the Veil through the tear (the "Spiral Anomaly") present at Mt. Yavhlix. At the Eye, [15 total holotexts](/Story_and_Features/Holotexts/Post-Yav/Resonant_Halls/) can be found, containing research logs and notes on the first dives through the Eye. It is discovered in this facility that Tethlaen initially ventured into the rift to hold it closed from the inside, preventing primal energy from seeping into the realm and ultimately causing its demise. The Aspect and Avsohmic researchers, particularly [[Orix Cehein]], developed a strong rapport and symbiotic relationship, but the premature firing of the God Machine and subsequent fall of Avsohm led Tethlaen to become isolated and uncared for once again, with his body and mind gradually breaking down until he was killed by the player.
 
-With this revelation, the player is transported back outside the Halls, and instructed to return to the Terminus once again, with the voice extending an invitation to its [[Court of Nothing|court]].
+With this revelation, the player is transported back outside the Halls, and instructed to return to the Terminus once again, with the voice extending an invitation to its [[Court of Nothing|Court]].
 
 !!! danger "Alright, seriously. From this point on, you should ABSOLUTELY not read on unless you have finished the map yourself."
 
@@ -190,16 +192,16 @@ At the Terminus, a final trinket is dispensed: The Rhythmic Thing. This item dir
 
 At this point, the voice reveals their true identity: [[yellow|the Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including that of Drehmal, with far more power than any of the Aspects or [Deities](/Lore/Higher_Beings/Deities/). The Mythoclast gives the player a new rendition of the Mythbreaker (known in the community as the "True" Mythbreaker), and invites the player to their court, where the player is told that guests are expecting them.
 
-## Court of Nothing
-Upon stepping through the portal in the Stasis Facility, the player is transported to the Court of Nothing, the Mythoclast's court in which they judge all souls. Within the Court, the player fights the reanimated forms of [[Ultva|Ultva Utofal]] and [[Hovadchear|Hovadchear Myrik]], the first two leaders of the [[Insohm|Order of Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the "[[Maddened Path]]".
-
 The player is warned before entering that this is their final journey, as time flows differently where they're headed.
+
+## Court of Nothing
+Upon stepping through the portal in the Stasis Facility, the player is transported to the Court of Nothing, the Mythoclast's court in which they judge all souls. Within the Court, the player fights the [[UH|reanimated forms]] of [[Ultva|Ultva Utofal]] and [[Hovadchear|Hovadchear Myrik]], the first two leaders of the [[Insohm|Order of Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the Maddened Path.
 
 ## Maddened Path
 ![[maddened_path.png]]
 > The Maddened Path.
 
-The Maddened Path is home to the penultimate story sequence, taking place near the Heart of the Void. As the player traverses the shattered terrain, some of which is reminiscent of terrain found on [[Overworld|Drehmal]], the Mythoclast admits to the player that they were behind the fall of Avsohm, explaining that Avsohm came too close to claiming their own proverbial crown, and could not have been allowed to attain the degree of power which they desired.
+The [[Maddened Path]] is home to the penultimate story sequence, taking place near the Heart of the Void. As the player traverses the shattered terrain, some of which is reminiscent of terrain found on [[Overworld|Drehmal]], the Mythoclast admits to the player that they were behind the fall of Avsohm, explaining that Avsohm came too close to claiming their own proverbial crown, and could not have been allowed to attain the degree of power which they desired.
 
 They also tell the player that they have one final person for them to meet, and that this person has specifically requested to see you, the player. The Mythoclast wishes the player luck before leaving them to the final boss fight.
 

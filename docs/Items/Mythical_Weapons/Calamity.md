@@ -12,12 +12,9 @@
 
 **Calamity** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 
-Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Calamity is dropped by [[Ossein|Skull Disciple Ossein]] upon his defeat. 
+Found at the Epicenter of the Desolation in the [[South Heartwood]] region, Calamity is dropped by [[Ossein|Skull Disciple Ossein]] upon his defeat. It gives the single largest movement speed buff of any item in the game, allowing for a quick and devastating melee build.
 
-<br>
-<br>
-<br>
-<br>
+<br> <br> <br> <br> <br> <br>
 
 | Category | Description                 |
 |:--------------------------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

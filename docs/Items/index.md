@@ -6,7 +6,7 @@ Spread throughout the map of Drehmal are many custom, unique items, each with th
 
 ## [[Relics]]
 
-Relics are offhand, stat-modifying items that are obtained via the [[Devotion|devotion]] system. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptions that often explain bits of lore pertaining to its related Aspect or deity.
+Relics are offhand stat-modifying items that are obtained via [[Devotion|devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptions that often explain bits of lore pertaining to its related Aspect or deity.
 
 ## [[Artifacts]]
 
@@ -14,7 +14,7 @@ Artifacts are uncommon items found throughout the map, most often in chests. Mos
 
 ## [[Artisan Items]]
 
-Artisan items are similar to artifacts in that they are custom items with stat modifiers and unique descriptions. However, they are not found as loot, but rather, are sold by [[Runic Blacksmiths]] or one of their variants, typically at larger towns.
+Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmiths]] or one of their variants, typically at larger towns.
 
 ## [Legendary Items](/Items/Legendary_Items/)
 

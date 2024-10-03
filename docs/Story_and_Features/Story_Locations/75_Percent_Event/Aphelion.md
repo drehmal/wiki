@@ -1,6 +1,6 @@
 # The Aphelion
 
-The **Aphelion** was the flagship of [[Avsohm]], acting at different points in the empire's history as a central piece of its command structure, a hub for research efforts, and the crown jewel of its military. The Aphelion is mentioned several times throughout the map, including prominently in [holotexts](/Story_and_Features/Holotexts) and [books](/Lore/Books/) throughout the early game. At the point that the player has awoken from stasis in the Fourth Avihm, the whereabouts and ultimate fate of the ship are unknown to everyone.
+The **Aphelion** was the flagship of [[Avsohm]], acting at different points in the empire's history as a central piece of its command structure, a hub for research efforts, and the crown jewel of its military. The Aphelion is mentioned several times throughout the map, including prominently in [holotexts](/Story_and_Features/Holotexts) and [books](/Lore/Books/) throughout the early game. At the point that the player has awoken from stasis in the Fourth Avihm, the whereabouts and ultimate fate of the ship are widely unknown.
 
 It is left unclear initially whether the Aphelion was a seafaring vessel or an airship. Search efforts for the ship by several factions, including the forces of [[Maelihs]] and the [[Insohm|Order of Insohm]], proved fruitless, finding no evidence of the ship in the waters surrounding [[Overworld|Drehmal]] or on land.
 
@@ -15,7 +15,7 @@ It is left unclear initially whether the Aphelion was a seafaring vessel or an a
 ## Story (75% Completion Event)
 The Aphelion comes into the story of Drehmal in the 75% network linkage event. After the events that take place at the [[Admin Wing|Repository's admin wing]], the player is prompted to return to the [[Terminus Network|Terminus]] to board the Aphelion, answering Commander Verpyne's ancient SOS message. 
 
-Back in the Terminus, a previously-closed off segment of the Outer Towers wing opens upon the player's return, and a new button at the end of the hallway opens the way to a hangar bay with a space shuttle. The player must board this shuttle, which will then take them directly from the Terminus to the Aphelion, revealing that both structures are, in fact, in space (although the main part of the Terminus is technically in the Overworld in-game).
+Back in the Terminus, a previously-closed off segment of the Outer Towers wing opens upon the player's return, and a new button at the end of the hallway opens the way to a hangar bay with a space shuttle. The player must board this shuttle, which will then take them directly from the Terminus to the Aphelion, revealing that both structures are, in fact, in space.
 
 ![[aphelion_outside.png]]
 > The Aphelion in space, with Drehmal in the background.
@@ -27,7 +27,7 @@ Finding their way through tunnels, the player will eventually end up on the bott
 ![[aphelion_throne_room.png]]
 > The Aphelion's throne room.
 
-On the Aphelion's top floor, the player can enter the Command Center, which contains a holotext establishing the location of the ship in space. It shows that the Aphelion was first sent to space to attempt to peer beyond the [[Veil]], a barrier that physically blocked any kind of observation beyond the realm (the system composed of the actual planet on which Drehmal is found and its natural sattelites). As such, attention was diverted to the divine moon of [[LD|Lo'Dahr]], the supposed home of the [Aspects](/Lore/Higher_Beings/Aspects/), as the focus of Avsohmic expansion and study. It is also shown here that the Aphelion is currently orbiting Lo'Dahr.
+On the Aphelion's top floor, the player can enter the Command Center, which contains a holotext establishing the location of the ship in space. It shows that the Aphelion was first sent to space to attempt to peer beyond the [[Veil]], a barrier that physically blocked any kind of observation beyond the realm (the system composed of the actual planet on which Drehmal is found and its natural satellites). As such, attention was diverted to the divine moon of Lo'Dahr, the supposed home of the [Aspects](/Lore/Higher_Beings/Aspects/), as the focus of Avsohmic expansion and study. It is also shown here that the Aphelion is currently orbiting Lo'Dahr.
 
 ![[aphelion_command_center.png]]
 > The command center.
@@ -41,9 +41,11 @@ Further progression requires the player to perform a spacewalk, following a seri
 ![[aphelion_tower_bay.png]]
 > The tower bay, after the tower has been deployed.
 
-Pressing the button will warp the player to the tower's landing spot and ending the 75% completion event. The player finds themselves on a lake on [[Lo'Dahr]], hallowed ground where few [[Drehmari]] have walked before, and they will receive the "Apotheosis" [[Advancements|advancement]] if they have not yet been here before.
+Pressing the button will warp the player to the tower's landing spot, granting the "Apotheosis" advancement and ending the 75% completion event, as the player finds themselves in a lake on [[Lo'Dahr]], hallowed ground where sparingly few Drehmari have walked before. 
 
 ## Gameplay
+The Aphelion and its copy of the Terminus comprise their own dimension, known as the Space dimension. Of note, the main Terminus (where the player can warp to and from the various towers) is actually located in the Overworld, and this dimension only contains a cosmetic copy of the structure.
+
 While in the Aphelion, the player remains in Adventure Mode, preventing the destruction or placement of blocks.
 
 In the initial shuttle ride to the ship, the player is teleported onto the shuttle by stepping onto an infused amethyst (purpur pillar) block, and must sit down (right click one of the glowing slabs) before pressing the button to begin the shuttle ride. Once the shuttle has arrived, simply shift to exit (as one would a horse or minecart) and walk towards the stained glass blocks to be teleported out of the shuttle.
@@ -52,7 +54,7 @@ Throughout the Aphelion, passive custom mobs named "Avsohmic Roombot" can be fou
 
 There are generic humanoid enemies representing lost Avsohmic officers in some parts of the ship, similar to those found at [[Sal'Mevir]] and [[Exodus Vault]], although there are also stronger variants in the Aphelion, such as Lost Commander Verpyne.
 
-Outside the surveillance room, the player can find the **avSYS Materials Exchange Unit**, which was formerly in the Terminus in v2.1, but has been relocated to the Aphelion. This small entity can be interacted with to access renewable trades for important materials.
+In the same wing as the surveillance room, the player can find the **avSYS Materials Exchange Unit**, which was formerly in the Terminus in v2.1, but has been relocated to the Aphelion. This small entity can be interacted with to access renewable trades for important materials.
 
 ??? info "avSYS Materials Exchange Unit Trades"
     |  **Cost**  | **Product** |

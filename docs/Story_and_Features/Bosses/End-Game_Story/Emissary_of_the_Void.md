@@ -1,4 +1,4 @@
-# Emmissary of the Void
+# Emissary of the Void
 
 --8<-- "spoiler.md"
 

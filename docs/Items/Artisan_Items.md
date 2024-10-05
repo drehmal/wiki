@@ -778,6 +778,184 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 This section contains artisan items found in Post-75% areas.
 
+### [[Loeturia]]
+The Loeturia Runic Blacksmith is located in the southeast of the town, at **(-973, 75, 762)**.
+
+**Hand-Stitched Sweater:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Leather Chestplate |
+| **Armor**           | 1                 |
+| **Enchantments**    | Unbreaking X      |
+| **Bonus Stats**     | +10 Max Health    |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | An elderly Ro'Tehrmari grandmother gives these to each of the children of Loeturia each year. Larger sizes are also available for a small cost.   |
+| **Cost** | 7 Amethyst Shards  |
+
+**Sliding Shield:** 
+
+|                 |                               |
+| --------------- | ----------------------------- |
+| **Enchantments**   | Unbreaking III  |
+| **Bonus Stats (When in Off-hand)** | +10 Max Health  <br>-2 Attack Damage  |
+
+|          | Lore and Cost         |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| This enormous tower shield is outfitted with cozy fur and a rope on the grip side so that a warm passenger can slide down snowy slopes. A perfect gift!  |
+| **Cost**| 10 Amethyst Shards       |
+
+### [[Naharja]]
+The Naharja Runic Blacksmith is located in the southeastern portion of the city, at **(295, 101, -832)**.
+
+**Vivid Helmet:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Enchantments**    | Unbreaking III    |
+| **Bonus Stats**     | +12% Armor        |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Though infused with a dizzying patchwork of textures, runes, and colors, this helmet is inexplicably beautiful and expertly made. The ageless La'Tehrmari smiths are peerless.  |
+| **Cost** | Runic Amplifier <br> Diamond Helmet  |
+
+**Vivid Chestplate:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 8                 |
+| **Armor Toughness** | 2                 |
+| **Enchantments**    | Unbreaking III    |
+| **Bonus Stats**     | +12% Armor        |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Though infused with a dizzying patchwork of textures, runes, and colors, this plate is inexplicably beautiful and expertly made. The ageless La'Tehrmari smiths are peerless.  |
+| **Cost** | Runic Amplifier <br> Diamond Chestplate  |
+
+**Vivid Leggings:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 6                 |
+| **Armor Toughness** | 2                 |
+| **Enchantments**    | Unbreaking III    |
+| **Bonus Stats**     | +12% Armor        |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Though infused with a dizzying patchwork of textures, runes, and colors, these leggings are inexplicably beautiful and expertly made. The ageless La'Tehrmari smiths are peerless.  |
+| **Cost** | Runic Amplifier <br> Diamond Leggings  |
+
+**Vivid Boots:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Armor**           | 3                 |
+| **Armor Toughness** | 2                 |
+| **Enchantments**    | Unbreaking III    |
+| **Bonus Stats**     | +12% Armor        |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Though infused with a dizzying patchwork of textures, runes, and colors, these boots are inexplicably beautiful and expertly made. The ageless La'Tehrmari smiths are peerless.  |
+| **Cost** | Runic Amplifier <br> Diamond Boots  |
+
+**Lightningbolt:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Diamond Axe       |
+| **Attack Damage**   | 17                |
+| **Attack Speed**    | 0.6               |
+| **Enchantments**    | Knockback III     |
+| **Bonus Stats**     | -0.015 Movement Speed    |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | An attempt at recreating the axe of Amohn Aihura, a freedom fighter among the greatest warriors to ever live in the realm. Though it glows with powerful electric energy, something is not quite
+right.   |
+| **Cost** | 22 Amethyst Shards  | 
+
+**Thunderclap:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Diamond Sword       |
+| **Attack Damage**   | 9                |
+| **Attack Speed**    | 1.0               |
+| **Enchantments**    | Sweeping Edge IV   |
+| **Bonus Stats**     | -0.015 Movement Speed    |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | An attempt at recreating the sword of Amohn Aihura, a freedom fighter among the greatest warriors to ever live in the realm. Though it echoes with a satisfying "BANG" when swung, something is not quite right.    |
+| **Cost** | 22 Amethyst Shards  | 
+
+**Determination:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Netherite Chestplate |
+| **Armor**           | 10                |
+| **Armor Toughness** | 4                 |
+| **Enchantments**    | Protection III <br> Fire Protection III <br> Blast Protection III <br> Projectile Protection III  |
+| **Bonus Stats**     | +1 Knockback Resistance       |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Unstoppable. Unbreakable. Indomitable. The will of one's soul is the break against the inevitable.   |
+| **Cost** | 2 Celestial Alloy (Netherite Ingots) <br> 1 Soul Asteria (Nether Star)  |
+
+### [[Noha's Domain]]
+At an isolated building in the northwestern portion of Noha's Domain, a singular Runic Blacksmith can be found, at **(847, 56, -427)**.
+
+**Fortifying Belt:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item:**      | Diamond Leggings  |
+| **Armor**           | 5                 |
+| **Armor Toughness** | 2                 |
+| **Enchantments**    | Blast Protection IV <br>Projectile Protection IV   |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | When venturing in Noha's Domain, it's important to take precautions against rapid-onset decay, monolith shards, and the Outsiders.   |
+| **Cost** | 13 Amethyst Shards  |
+
+**Better Times:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Fishing Rod       |
+| **Enchantments**    | Unbreaking III <br>Luck of the Sea III <br>Lure II   |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | When not building monuments to the region's dead patron, an ancient craftsman finds time to reminisce about the throngs of fish which once filled its rivers. |
+| **Cost** | 10 Amethyst Shards  |
+
+### [[Riverstead Town]]
+The Runic Blacksmith at the Riverstead Town, the "Veteran Craftsman," sells one artisan item, and is located at **(-359, 107, -27)**.
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Crossbow |
+| **Enchantments** | Mending <br> Multishot <br> Piercing IV <br> Unbreaking IV |
+| **Bonus Stats** | +10 Max Health <br>+80% Knockback Resistance |
+
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | The finest crossbow ever made by a venerable bowyer, offered as thanks for bringing proof that his beloved apprentice has become a master of the craft. |
+| **Cost** | [[Artisan Items#Gozak|Corewood Pulverizer]]  |
+
 ### [[Ytaj]]
 The Runic Blacksmith in Ytaj is located in the southeastern portion of the region, at **(35, 29, -1536)**.
 
@@ -785,39 +963,40 @@ The Runic Blacksmith in Ytaj is located in the southeastern portion of the regio
 
 |                  |     |
 | ---------------- | --- |
-| **Base Damage** | 9   |
+| **Attack Damage** | 9   |
 | **Attack Speed**| 1.1 |
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
-| **Lore**| To pay homage to Elder Dahr, it is customary for Talon guarding a public space to speak softly and carry a trident. |
-| **Cost**| 20 Amethyst Shards                                                                                                  |
+| **Lore** | To pay homage to Elder Dahr, it is customary for Talon guarding a public space to speak softly and carry a trident. |
+| **Cost** | 20 Amethyst Shards                                                                                                  |
 
 **Compass Rapier:**
 
 |                  |   |
 | ---------------- | -------- |
 | **Base Item**   | Diamond Sword |
-| **Base Damage** | 7 |
+| **Attack Damage** | 7 |
 | **Attack Speed**| 2 |
 
 |          | Lore and Cost    |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| To pay homage to Elder Rihelma, it is customary for Wingmakers without any leads to spin a rapier and go in the direction it points, no matter the weather or climate. |
-| **Cost**| 18 Amethyst Shards   |
+| **Lore** | To pay homage to Elder Rihelma, it is customary for Wingmakers without any leads to spin a rapier and go in the direction it points, no matter the weather or climate. |
+| **Cost** | 18 Amethyst Shards   |
 
 **Cloak of Office:**
 
 |                     |                                          |
 | ------------------- | ---------------------------------------- |
+| **Base Item**      | Diamond Chestplate                       |
 | **Armor**          | 7                                        |
-| **Armor Toughness**| 2                                        |
+| **Armor Toughness** | 2                                        |
 | **Bonus Stats**    | +6 Max Health <br>+0.3 Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| To pay homage to Elder Taihgel, it is customary for Scalebound leaders addressing the public to wear this shell-patterned cloak. |
-| **Cost**| 23 Amethyst Shards <br>12 Magma Blocks                                                                                             |
+| **Lore** | To pay homage to Elder Taihgel, it is customary for Scalebound leaders addressing the public to wear this shell-patterned cloak. |
+| **Cost** | 23 Amethyst Shards <br>12 Magma Blocks                                                                                             |
 
 
 [^1]: Comes from the term "tetrodotoxin," the neurotoxin most closely associated with pufferfish.

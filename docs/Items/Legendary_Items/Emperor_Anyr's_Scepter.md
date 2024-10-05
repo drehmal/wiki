@@ -20,7 +20,7 @@ The scepter is a legendary weapon, notable primarily for its damage, max health 
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats (Main Hand)**         | +6 Max Health (+3 Hearts) <br> 11 Attack Damage <br> 1.3 Attack Speed            |
 | **Enchantments**              | Unbreaking X |
-| **Ability**                   | **Final Tenacity**: "*The wielder enters a death-like state upon reaching 20% HP and gains increased stats for 5 seconds and will revive at 40% HP if an enemy is killed within that timeframe, otherwise they will die. This ability refreshes upon reaching full HP.*"[^1] |
+| **Ability**                   | **Final Tenacity**: "*At 20% HP, the wielder enters an enhanced, but precarious state. Killing an enemy in this period will heal the wielder, but failing to do so will result in instant death. Cooldown refreshes at full health..*"[^1] |
 | **Lore**                      | Before Anyr was Emperor, he was a successful military general. Thus, even apparently ceremonial items he carried contained powerful means of self-defense. Like his elaborate mausoleum, however, this scepter was discarded when it was no longer needed. |
 | **Obtain**                    | Located deep within the large pyramid at [[Sal'Anyr]].   |
 

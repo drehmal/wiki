@@ -21,37 +21,55 @@ Story Location articles in this wiki follow roughly the same format:
 
 **Extras**: A section with additional trivia on the location, if applicable.
 
-## Locations
+## Early-Mid Game
+The early game and mid-game broadly refer to the bulk of the story until the 75% completion event, in which progression is very non-linear and linked directly to exploration. Story progression in this portion of the game comes from linking [[Terminus Network]] towers found in almost every region, with milestones at 25%, 50%, and 75% respectively, which lead the player to dedicated story locations.
 
-**Early-Game Areas:** <br>
+### **Early-Game Areas:** 
+Early-Game Areas, as the term is used on this wiki, is composed of the first three story-related locations that most players will find, entirely accessible in roughly the first half-hour or so of gameplay, within the central starting region:
+
 [[Stasis Facility]] <br>
 [[Terminus Network|The Terminus]] <br>
 [[Av'Sal Repository]]
 
-**25% Completion Event:** <br>
-[[Sal'Mevir]]
+### **25% Completion Event:**
+At 25% Network Linkage (8 towers), the player will be prompted to visit [[Sal'Mevir]], where a sequence plays out that is referred to as the **25% completion event**.
 
-**50% Completion Event:** <br>
-[[Exodus Vault]]
+### **50% Completion Event:** 
+At 50% Network Linkage (16 towers), the player will be prompted to visit the [[Exodus Vault]], where a sequence plays out that is referred to as the **50% completion event**.
 
-**75% Completion Event:** <br>
-[[Admin Wing|Part 1: Administrative Wing]] <br>
-[[Aphelion|Part 2: The Ship]]
+## Late Game: 75% and Post-75% 
+The story progression and pace of Drehmal takes a bit of a turn at the 75% Network Linkage milestone, with a bigger story event taking place at this milestone than the previous two. In addition, completing this event will unlock a new area, where story locations serve to teach the player how to progress into the late-game.
 
-**Post-75% Locations:** <br>
-[[Core Facility]] <br>
-[[Inscription Complex]] <br>
-[[Resupply Depot]] <br>
-[[Ring Facility]] <br>
-[[Numencore]]
+### **75% Completion Event:** 
+The 75% completion event is a larger event than the prior linkage milestones, taking place in two different areas. When completed, it unlocks the [[Lo'Dahr|post-75 area]].
 
-**Late-Game (Mt. Yavhlix):** <br>
-[[Primary Energy Collection Facility]] <br>
-[[The Nothing]]
+??? warning "75% Event Locations"
+    [[Admin Wing|Part 1: Administrative Wing]] <br>
+    [[Aphelion|Part 2: The Aphelion]]
 
-**End-Game (Post-Yav) Locations:** <br>
-[[Azimuth Labs]] <br>
-[[Resonant Halls]] <br>
-[[Court of Nothing]] <br>
-[[Maddened Path]] <br>
-[[True End]]
+### **Post-75% Locations:** 
+There are 5 distinct story locations in the Post-75% area, with the first four serving to teach the player how to access the final one. Successfully utilizing this final story location will allow the player to enter into the climax of the story to this point.
+
+??? warning "Post-75% Story Locations"
+    [[Core Facility]] <br>
+    [[Inscription Complex]] <br>
+    [[Resupply Depot]] <br>
+    [[Ring Facility]] <br>
+    [[Numencore]]
+
+### **Mt. Yavhlix**
+Completing the Post-75% content will see the player enter a large dungeon at [[Mt. Yavhlix]].
+
+??? warning "Mt. Yavhlix Story Pages"
+    [[Primary Energy Collection Facility]] <br>
+    [[The Nothing]]
+
+## End-Game: Post-Yavhlix
+After the boss fight in Mt. Yavhlix, the vanilla Minecraft credits will play, but this is by no means the end of the story. The player will be directly guided through the "end-game" at this point, across multiple locations.
+
+??? warning "End-Game (Post-Yav) Locations"
+    [[Azimuth Labs]] <br>
+    [[Resonant Halls]] <br>
+    [[Court of Nothing]] <br>
+    [[Maddened Path]] <br>
+    [[True End]]

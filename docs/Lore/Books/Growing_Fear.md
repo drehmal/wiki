@@ -1,9 +1,12 @@
 ---
 tags:
   - Books
+  - Removed Books
 ---
 
-This book can be found in a chest at Esipelli Vineyard in western [[Akhlo'Rohma]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It contains the exact same text as [[Previous Cultivator's Findings]] in [[Dusps]], with the exception of capitalized month abbreviations.
+!!! info "Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not necessarily be taken as canon."
+
+This book is not currently on the map, but could be found in a chest at Esipelli Vineyard in western [[Akhlo'Rohma]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It contains the exact same text as [[Previous Cultivator's Findings]] in [[Dusps]], with the exception of capitalized month abbreviations.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

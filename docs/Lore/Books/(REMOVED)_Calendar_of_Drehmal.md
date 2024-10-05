@@ -4,7 +4,8 @@ tags:
   - Removed Books
 ---
 # (Removed) - Calendar of Drehmal
-> Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not be taken as canon.
+
+!!! info "Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not necessarily be taken as canon."
 
 This book is **no longer on the map**, but in previous versions, was found in the library of [[Okeke]], and defines some terminology in Drehmal's calendar system.
 

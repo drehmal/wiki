@@ -15,12 +15,12 @@ After opening and traveling through the tear in the [[Veil]] at the [[Primary En
 
 An island in the Nothing is the site of the first required major boss battle in Drehmal, and is only visited for this fight.
 
-?? abstract "Coordinates"
+??? abstract "Coordinates"
     | **X** | **Y** | **Z** |
     |:-----:|:-----:|:-----:|
     | 26907   |  126   | -1  |
 
-    These coordinates are not actually within the Nothing, but rather, are just in front of the portal to the Nothing. The Nothing itself is its own dimension.
+    These coordinates are not actually within the Nothing, but rather, are just in front of the portal to the Nothing. The Nothing itself is its own dimension, replacing the vanilla End.
 
 ## Story
 The player enters the tear at the top of the Primary Energy Collection Facility and finds themselves in a small building in the Nothing, being given the "Once More Into the Breach" [[Advancements|advancement]] for entering the Nothing. They are immediately thrust into a boss battle against "[[Tethlaen_Boss|Tethlaen, Lost to Nothing]]", the [Aspect](/Lore/Higher_Beings/Aspects/) of Fear who has been missing and presumed dead for millennia.

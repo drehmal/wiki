@@ -24,6 +24,8 @@ search:
 
 --8<-- "under_construction.md"
 
+![[zoomed_LD_map.png]]
+
 The divine moon of **Lo'Dahr** is the home of the [Aspects](/Lore/Higher_Beings/Aspects/), and the second main dimension available to explore in Drehmal: Apotheosis. The habitable area of the moon encompasses slightly fewer than 3000 by 3000 blocks, making Lo'Dahr significantly smaller than Drehmal. However, the moon adds markedly more extravagant biomes, boasts builds that surpass those found on the main continent, and is even more densely packed with things to do and explore than Drehmal.
 
 The moon is primarily inhabited by [[Tehrmari]] in-game, with Tehrmari settlements (and a few [[Drehmari]] ones) found throughout the habitable area of the moon. Lo'Dahr is home to 14 [Aspect Domains](/World/Post-75_Area/Regions/), the equivalent of regions, each of which is overseen and owned by one of the Aspects, in addition to the sacred region of [[Ytaj]] in the far north. Outside of these regions is the [[Lunar Wastes]] region, the collective name for the desolate area outside of Lo'Dahr's habitable area, which will quickly kill players who attempt to venture too far into it.

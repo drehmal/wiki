@@ -109,7 +109,7 @@ Fobk (wiggin) <br>
 MyEx <br>
 hyalophage <br>
 hockeygoalie78 <br>
-Kegster___ <br>
+Kegster\_\_\_ <br>
 bloww <br>
 Thisisme <br>
 Slyyam <br>
@@ -118,7 +118,7 @@ Connor H <br>
 Selemas <br>
 wessed up <br>
 Fang’s Pack Mule <br>
-____________myst
+\_\_\_\_\_\_\_\_\_\_\_\_myst
 >
 > *Thank you to all Patrons for your continued support after waiting for so long.*
 >

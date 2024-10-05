@@ -25,7 +25,7 @@ This book can be found on a lectern in [[Fort Nimahj]]. It is the first of four 
 >
 > Legend has it that King Kathis was faced with a fateful decision: either bribe Maelihs by sending riches and peoples to the Burnt Lord in exchange for sending his armies east instead of north, or risk direct attack by the deity and his chaotic forces. Kathis chose the former. In return for civilians, supplies, currency, and resting places, the First Tharhan Empire would be spared.
 >
-> And thus, the Empire took on a decidedly Maelihfic flair. Under the Southern Code, felons and some misdemeanants would be punished by transportation. For felons, this meant a journey to Rhaveloth and conversion to Maelmari. But for the misdemeanants punished this way, it meant being blindfolded and brought north, to the faraway Ebony Veldt. This lesser punishment seemed to accomplish its goal, for none returned, and the prisoners were assumed dead to ravenous beasts.
+> And thus, the Empire took on a decidedly Maelific flair. Under the Southern Code, felons and some misdemeanants would be punished by transportation. For felons, this meant a journey to Rhaveloth and conversion to Maelmari. But for the misdemeanants punished this way, it meant being blindfolded and brought north, to the faraway Ebony Veldt. This lesser punishment seemed to accomplish its goal, for none returned, and the prisoners were assumed dead to ravenous beasts.
 >
 > And yet, die they did not. Even as centuries went by and the First Tharhan Empire collapsed to internal strife, the prisoners and their descendants remained. Most settled underground in caves most beasts could not reach. The largest cavern became a town, and then a castle, and then a city.
 >

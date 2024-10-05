@@ -770,13 +770,16 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 !!! danger "This section may contain significant spoilers for the 75% completion event and its associated late-game areas."
 
-!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
+!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
 !!! danger "You have been warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+This section contains artisan items found in Post-75% areas.
+
 ### [[Ytaj]]
+The Runic Blacksmith in Ytaj is located in the southeastern portion of the region, at **(35, 29, -1536)**.
 
 **Guard Trident:**
 
@@ -793,14 +796,15 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 **Compass Rapier:**
 
 |                  |   |
-| ---------------- | - |
+| ---------------- | -------- |
+| **Base Item**   | Diamond Sword |
 | **Base Damage** | 7 |
 | **Attack Speed**| 2 |
 
-|          | Lore and Cost                                                                                                                                                          |
+|          | Lore and Cost    |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**| To pay homage to Elder Rihelma, it is customary for Wingmakers without any leads to spin a rapier and go in the direction it points, no matter the weather or climate. |
-| **Cost**| 18 Amethyst Shards                                                                                                                                                     |
+| **Cost**| 18 Amethyst Shards   |
 
 **Cloak of Office:**
 
@@ -808,12 +812,12 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 | ------------------- | ---------------------------------------- |
 | **Armor**          | 7                                        |
 | **Armor Toughness**| 2                                        |
-| **Bonus Stats**    | +6 Max Health, +0.3 Knockback Resistance |
+| **Bonus Stats**    | +6 Max Health <br>+0.3 Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**| To pay homage to Elder Taihgel, it is customary for Scalebound leaders addressing the public to wear this shell-patterned cloak. |
-| **Cost**| 23 Amethyst Shards + 12 Magma Blocks                                                                                             |
+| **Cost**| 23 Amethyst Shards <br>12 Magma Blocks                                                                                             |
 
 
 [^1]: Comes from the term "tetrodotoxin," the neurotoxin most closely associated with pufferfish.

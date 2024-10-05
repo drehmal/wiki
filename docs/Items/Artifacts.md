@@ -56,10 +56,24 @@ These artifacts can be found at any time through exploration of the continent of
 | Armor    | 1                           |
 | Enchants | Respiration 9, Unbreaking 5 |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                    |
+|            | **Lore and how to Obtain**    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | In the time of Insohm, these wide-brimmed hats were created to generate pockets of pressurized air around the heads of airship crewmen. This helped deaden engine and wind noise and made breathing in high altitudes easier. |
-| **Obtain** | Located at the Insohmic port on the southern shore of the [[Island of Dusk]]. Chest located at **(-2082, 67, -3319)**                                                                                                                                                        |
+| **Obtain** | Located at the Insohmic port on the southern shore of the [[Island of Dusk]]. Chest located at **(-2082, 67, -3319)**    |
+
+## Alloyed Gold Rapier
+
+|             |                                        |
+| ----------- | -------------------------------------- |
+| Base Item   | Golden Sword                           |
+| Attack Damage | 6            |
+| Attack Speed  | 1.4          |
+| Enchants    | Looting 1, Unbreaking 8                           |
+
+|            | **Lore and how to Obtain**    |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | A finely crafted blade of Casain origin that has made its way to the heart of Merijool. The hilt has an engraving that translates to "great luck".  |
+| **Obtain** | Located in the lighthouse building in [[Okeke]]. Item Frame located at **(-1575, 67, -522)**    |
 
 ## Alviran Signet Shield
 

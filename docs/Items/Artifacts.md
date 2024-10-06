@@ -1,7 +1,5 @@
 # Artifacts
 
---8<-- "under_construction.md"
-
 Artifacts are unique items that have custom names, descriptions, stat modifiers, and often **Enchantments**. Artifacts are found scattered across the map, typically in chests, and their descriptions often explain lore surrounding the place they are found. Artifacts are denoted by the word "Artifact" in light blue in the item's description.
 
 Artifacts, unlike [Legendary Items](/Items/Legendary_Items/) and [Mythical Weapons](/Items/Mythical_Weapons/), cannot be crafted, and are found only one time in a given instance of the map. Therefore, if an artifact breaks or is lost, it cannot be regained without the use of very specific commands.

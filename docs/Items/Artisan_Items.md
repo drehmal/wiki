@@ -4,8 +4,6 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 
 Artisan items are denoted by a yellow "Artisan" text in their item description.
 
---8<-- "under_construction.md"
-
 ## Central Regions
 These artisan items are sold by Runic Blacksmiths in the [Central Regions](/World/Drehmal/Regions/Central_Regions/)—[[Capital Valley]], [[Palisades Heath]], and the [[Gulf of Drehmal]].
 

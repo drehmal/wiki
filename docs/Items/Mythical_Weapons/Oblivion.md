@@ -62,7 +62,7 @@ At Mt. Yavhlix, south-southwest of the mountain's summit, a small stone brick pl
 
 By throwing a copy of the Nihilist's Notes onto the piece of black concrete at the platform, the player will open a shaft downwards. Jumping into this shaft will bring the player to the final obstacle in their path: a labyrinth.
 
-The labyrinth is dark and patrolled by custom enemies named "Emissary's Shade." It is recommended to bring torches or another source of light, as well as something to mark where you have explored. There are useful items found in chests throughout the labyrinth, including a [[Fervor Stone]], but there is only one correct path out to Oblivion. When found, it can be picked up via right clicking.
+The labyrinth is dark and patrolled by custom enemies named "Emissary's Shade." It is recommended to bring torches or another source of light, as well as something to mark where you have explored. There are useful items found in chests throughout the labyrinth, including a [[Fervor Stones|Fervor Stone]], but there is only one correct path out to Oblivion. When found, it can be picked up via right clicking.
 
 ??? warning "Labyrinth Solution"
     The following is a map of the Oblivion labyrinth, with a possible path to the weapon marked using purple arrows. Red arrows point toward the Stone of Worry at this location.

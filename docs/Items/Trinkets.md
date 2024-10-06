@@ -11,6 +11,25 @@ search:
 
 Nearly all trinkets are heavily tied to late-game spoilers, so navigate this page with caution.
 
+## Terminus Compasses
+Four separate lodestone compasses are given to the player in the [[Terminus Network|Terminus]] compass dispensary, in the Central Towers wing. These compasses all share the same model, and are marked as trinkets. They each point towards a specific location, and are found throughout the early and mid-game, at multiple network linkage milestones. 
+
+![[terminus_compass.gif]]{ width="300" }
+
+The arrow on these compasses points upward when facing towards the intended destination.
+
+### Av'Sal Locator
+The Av'Sal Locator, named **Network Terminal Locator 0xAVS**, is given to the player upon the first time they enter the Terminus, and activate the Terminus by approaching the compass dispensary. It points towards the network terminal in [[Av'Sal]] that can be used to bring that area's holotexts back online.
+
+### Sal'Mevir Locator
+The Sal'Mevir Locator, named **Network Terminal Locator 0xSMV**, is given to the player upon reaching 25% network linkage. It leads the player towards the network terminal at [[Sal'Mevir]].
+
+### Exodus Locator
+The Exodus Citadel locator, named **Network Terminal Locator 0xEXC**, is given to the player upon reaching 50% network linkage. It leads the player towards the network terminal at the [[Exodus Citadel]].
+
+### Admin Wing Locator
+The Admin Wing locator, named **Network Terminal Locator 0xADM**, is given to the player upon reaching 75% network linkage. It leads the player towards the network terminal at the entrance to the [[Admin Wing]].
+
 ## Khivian Scroll of Sanctuary 
 Khivian Scrolls of Sanctuary are the most common trinket in Drehmal, found as rare loot throughout the world. When used, these items will return the player to their current spawn point (either the world spawn or the most recent bed they have slept in). These are single-use items, meaning that they will disappear once they are used.
 
@@ -61,9 +80,7 @@ The Tank Keyfob is a trinket found in the [[Exodus Vault]], during the 50% compl
 ### Lore Text
 > This small key looks like it will fit an Avsohmic tank. For what purpose would you need such a powerful weapon?
 
-!!! danger "Beware of POST-75% spoilers beyond this point."
-
-## Call of the Council (POST-75% SPOILERS)
+## Post-75% Compasses (POST-75% SPOILERS BEGIN HERE)
 
 !!! danger "SPOILER WARNING!"
 
@@ -75,6 +92,19 @@ The Tank Keyfob is a trinket found in the [[Exodus Vault]], during the 50% compl
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+There are two trinkets that take the form of Terminus-style compasses found outside of the Terminus: one in the 75% event itself, and one in the Post-75% area.
+
+### Core Security Checkpoint Locator
+This compass, found in a chest on the [[Aphelion]], points towards the security checkpoint in the [[Core Facility]].
+
+### Primal Energy Radar
+This lodestone compass is found in the Core Facility, and does not tell the player where it points, only that it points towards a large concentration of primal energy. This item can be used as a strong hint towards the eventual story event that begins at the Core Facility.
+
+??? warning "Primal Energy Radar Use"
+    The Primal Energy Radar points the player towards the gate of the [[Primary Energy Collection Facility]] in [[Mt. Yavhlix]], giving the player a target for the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker Run]].
+
+## Call of the Council 
+
 Call of the Council is a trinket that can be purchased from Precocious Kinah in [[Ytaj]] for 32 Divine Baubles.
 
 This item allows the player to fast travel directly to the Prismatic Council room in Ytaj once per in-game day.
@@ -85,6 +115,7 @@ This item allows the player to fast travel directly to the Prismatic Council roo
 > After the Divine Schism, the Prismatic Council voted to tighten security around Ytaj. Kinah, a noble housecat deemed worthy of ascension, now serves as the protector of the palace. This staff was forged by Kinah to allow those she trusts deeply to enter and leave with ease, ostensibly to inform the Council of dangers outside their perception.
 
 ## Aurastaff of Permafrost
+
 The Aurastaff of Permafrost is a trinket that can be purchased either from Precocious Kinah in [[Ytaj]] for 5 Divine Baubles. This item functions only on [[Lo'Dahr]], and prevents hostile mob spawns in a 32 block radius when placed. 
 
 ![[aurastaff.png]]{ width="300" }

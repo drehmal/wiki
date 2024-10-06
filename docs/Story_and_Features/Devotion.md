@@ -13,19 +13,19 @@ Some of the offerings accepted by an Aspect/Deity can be found laying in invisib
 
 ## Devotion Sites
 
-| Aspect/Deity | Altar Location |
-|-|-|
-| [[Drehmal]] | [[Drehua Temple]] |
-| [[Virtuo]] | [[Kiln of Virtuo]] |
-| [[Maelihs]] | [[Sepulchral Altar]] in [[Rhaveloth]] |
-| [[Khive]] | [[Nameless Ziggurat]] in [[Ihted]] |
-| [[Dahr]] | [[Port Solitude]] |
-| [[Rihelma]] | [[Star-Rise Bastion]] |
-| [[Taihgel]] | [[Wokonori]] |
-| [[Vayniklah]] | [[Temple of Bloom and Bough]] in [[Marahza]] |
-| [[Voynahla]] | [[Perishing Well]] |
-| [[Lai]] | [[Shrine of Eternal Flame]] |
-| [[Loe]] | [[Crystalline Colonnade]] in [[Schlonko]] |
+| **Aspect/Deity** | **Region**    | **Altar Location** |
+|:----------------:|:-------------:|:-------------------|
+| [[Drehmal]]      | [[Palisades Heath]] | [[Drehua Temple]] |
+| [[Virtuo]]       | [[Black Jungle]] | [[Kiln of Virtuo]] |
+| [[Maelihs]]      | [[The Carmine]]/[[Crimson Gorge]] | [[Sepulchral Altar]] in [[Rhaveloth]] |
+| [[Khive]]        | [[Capital Valley]] | [[Nameless Ziggurat]] in [[Ihted]] |
+| [[Dahr]]         | [[South Heartwood]] | [[Port Solitude]] |
+| [[Rihelma]]      | [[Island of Dawn]] | [[Star-Rise Bastion]] |
+| [[Taihgel]]      | [[Grand Pike Canyon]] | [[Wokonori]] |
+| [[Vayniklah]]    | [[Akhlo'Rohma]] | [[Temple of Bloom and Bough]] in [[Marahza]] |
+| [[Voynahla]]     | [[Casai]] | [[Perishing Well]] |
+| [[Lai]]          | [[Merijool]] | [[Shrine of Eternal Flame]] |
+| [[Loe]]          | [[Faehrcyle]] | [[Crystalline Colonnade]] in [[Schlonko]] |
 
 ## Devotion Books
 

@@ -2,6 +2,8 @@
 
 Artisan items are special items with custom names, descriptions, stat modifiers, and often enchantments that can be bought from [[Runic Blacksmith|Runic Blacksmiths]] or one of their variants. They serve as upgraded versions of vanilla gear, and often come in full sets sold by the same Runic Blacksmith. Their descriptions often provide lore surrounding the area in which the Blacksmith is found.
 
+Artisan items are denoted by a yellow "Artisan" text in their item description.
+
 --8<-- "under_construction.md"
 
 ## Central Regions
@@ -167,8 +169,289 @@ The Runic Blacksmith in Thesund sells two unique pieces of horse armor, located 
 | **Lore**| Magically infused horse armor to ensure your steed never falls. |
 | **Cost**| Iron Horse Armor <br>12 Scales                                  |
 
+### [[Palisades Heath#Whale's Tale|Whale's Tale]]
+There is a Runic Blacksmith on the top level of the Whale's Tale, located at **(-216, 75, 3608)**.
+
+**Sailcloth Leggings:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**      | Leather Leggings  |
+| **Armor**          | 1                 |
+| **Bonus Stats**    | +5% Movement Speed |
+
+|          | Lore and Cost        |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Stitched by the practiced hands of an old salt, these canvas leggings catch the breeze and lengthen one's stride.  |
+| **Cost**| 14 Scales  |
+
 ## Eastern Regions
 This section contains artisan items sold by Runic Blacksmiths in the [Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/).
+
+### [[Ancehl Castle]]
+The Runic Blacksmith in Ancehl Castle is located in the orange concrete building near its entrance, at **(1524, 150, -1967)**.
+
+**Stim-Helmet v7:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Iron Helmet           |
+| **Armor**          | 2                    |
+| **Armor Toughness**| 3                    |
+| **Bonus Stats**    | +10% Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| No two of these experimental helmets are quite alike, but after both needles are inserted into the user's shoulders, they all make them much more aggressive.  |
+| **Cost**| 28 Scales    |
+
+**Dark Harvester:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Netherite Hoe           |
+| **Attack Damage**  | 10                    |
+| **Attack Speed**   | 1.0                    |
+| **Bonus Stats**    | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Perfect for prying open chest cavities to get those elusive components you need!  |
+| **Cost**| 30 Scales    |
+
+### [[Dusps]]
+The Dusps Runic Blacksmith is located just to the right of the entrance to the town, at **(2094, 111, -816)**.
+
+**Floral Helmet:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Bonus Stats**    | +6% Attack Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, this stylish helmet is designed to instill self-confidence in its wearer.  |
+| **Cost**| Iron Helmet <br>15 Scales    |
+
+**Floral Chestplate:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 6                                                    |
+| **Bonus Stats**    | +6% Attack Speed  |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, this stylish plate is designed to instill self-confidence in its wearer. |
+| **Cost**| Iron Chestplate <br>17 Scales   |
+
+**Floral Leggings:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 5                                                    |
+| **Bonus Stats**    | +6% Attack Speed |
+
+|          | Lore and Cost     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, these stylish leggings are designed to instill self-confidence in their wearer. |
+| **Cost**| Iron Leggings <br>16 Scales    |
+
+**Floral Boots:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Bonus Stats**    | +6% Attack Speed  |
+
+|          | Lore and Cost      |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, these stylish boots are designed to instill self-confidence in their wearer. |
+| **Cost**| Iron Boots <br>15 Scales    |
+
+**Goldenrod Crown:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**      | Golden Helmet                                         |
+| **Armor**          | 2                                                    |
+| **Armor Toughness** | 4   |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Delicate yellow flowers arranged into runes and covered by lacquer and gold leaf provide an unexpected level of protection from especially dangerous attacks.   |
+| **Cost**| 18 Scales    |
+
+**Waterlily Sandals:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**      | Leather Boots                                         |
+| **Armor**          | 3                                                    |
+| **Armor Toughness** | 2   |
+| **Enchantments** | Respiration II <br>Aqua Affinity <br>Depth Strider II <br>Unbreaking II |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Made of expertly-worked leather interlaced with gems, real flower stems seem to form dozens of tiny runes which run down their sturdy straps. Few aquatic tasks are too difficult with these sandals equipped!   |
+| **Cost**| 15 Scales    |
+
+**Winged Monarch:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**      | Bow                                         |
+| **Enchantments** | Flame |
+| **Bonus Stats**  | +18% Movement Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| A bow ornamented with dazzling, patterned wings. An engraving can be found on the inside of the limb: "The grace of a queen, the burn of a sting."    |
+| **Cost**| 27 Scales <br> 24 Honeycomb    |
+
+### [[Gozak]]
+The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" building, at **(2247, 50, 2434)**.
+
+**Barbed Helmet:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Enchantments**   | Thorns IV         |
+| **Bonus Stats**    | +0.4 Attack Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines.   |
+| **Cost**| Iron Helmet <br>11 Scales    |
+
+**Barbed Chestplate:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 6                                                    |
+| **Enchantments**   | Thorns IV         |
+| **Bonus Stats**    | +0.4 Attack Speed  |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost**| Iron Chestplate <br>16 Scales   |
+
+**Barbed Leggings:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 5                                                    |
+| **Enchantments**   | Thorns IV         |
+| **Bonus Stats**    | +0.4 Attack Speed |
+
+|          | Lore and Cost     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost**| Iron Leggings <br>14 Scales    |
+
+**Barbed Boots:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Enchantments**   | Thorns IV         |
+| **Bonus Stats**    | +0.4 Attack Speed  |
+
+|          | Lore and Cost      |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost**| Iron Boots <br>11 Scales    |
+
+**Wolfkin Mask:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**       | Iron Helmet                                         |
+| **Armor**          | 5                                                    |
+| **Armor Toughness** | 1                                                   |
+| **Enchantments**   | Fire Protection II <br>Aqua Affinity <br>Depth Strider I        |
+| **Bonus Stats**    | +0.4 Attack Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Adorned with berries, leaves, and fungi, this sinister iron mask is made so that its wearer can see with eyes unclouded by fear of the Heartwood's hazards.
+   |
+| **Cost**| 22 Scales    |
+
+**Branchleaper Strides:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 1                                                     |
+| **Enchantments**   | Unbreaking III         |
+| **Bonus Stats**    | -4 Max Health <br>+0.015 Movement Speed |
+
+|          | Lore and Cost      |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Though it takes some practice, a certain uneven gait which mimics the forest-dwellers allows the wearer to build up great speed.  |
+| **Cost**| 16 Scales    |
+
+### [[Helmshire]]
+
+**Corewood Pulverizer:**
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Crossbow |
+| **Enchantments** | Piercing II |
+| **Bonus Stats** | +4 Max Health <br>-0.02 Movement Speed |
+
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | A very strong sequoia crossbow made by a young bowyer of great skill. When her teacher left for far away, she stayed and took over his shop and techniques. |
+| **Cost** | 14 Scales  |
+
+**Willow's Wisp:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**      | Bow                                         |
+| **Enchantments** | Unbreaking III |
+| **Bonus Stats**  | -4 Max Health <br>+0.01 Movement Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| An ingenious longbow made of flexible wood which allows the archer to move freely. The first new design of an old workshop.   |
+| **Cost**| 16 Scales     |
+
+### [[Hevhlak]]
+The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
+
+**Meteor Buckler:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Shield           |
+| **Enchantments**    | Unbreaking II |
+| **Bonus Stats (Off-hand)**     | +1 Attack Damage <br>-0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Though small in size, this shield weighs twice as much as it appears. The Tehrmari smith advertises it as a stout defensive measure as well as a potent training weight. You do feel stronger when you pick it up.    |
+| **Cost**| 13 Scales    |
+
+**Celestial Cowl:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Leather Helmet       |
+| **Armor**          | 3                    |
+| **Armor Toughness**| 3                    |
+| **Bonus Stats**    | -0.02 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| This fabric hood appears plain at first, but it is surprisingly heavy. When held up to the light, purple glimmers betray the presence of a metallic fiber within the weave.  |
+| **Cost**| 14 Scales    |
 
 ### [[Highfall]]
 The Runic Blacksmith in Highfall is located at **(5988, 72, -1101)**.
@@ -268,6 +551,84 @@ The Runic Blacksmith in Highfall is located at **(5988, 72, -1101)**.
 | -------- | --------------------------------------------------------- |
 | **Lore**| The ultimate in Highfall's time-tested mining technology. |
 | **Cost**| 40 Scales <br>32 Diamonds                                   |
+
+### [[Schlonko]]
+The town of Schlonko is home to a Runic Blacksmith who sells the following two artisan items, at **(1097, 65, -3018)**.
+
+**Hat:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Iron Helmet           |
+| **Armor**          | 2                    |
+| **Armor Toughness**| 4                    |
+| **Enchantments**    | Unbreaking II |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Though he charges a high price in order to afford the Duke's tithe, the young metalworker who made this stunningly beautiful winged helmet insists he is talentless.   |
+| **Cost**| 20 Scales    |
+
+**Shield:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Shield           |
+| **Enchantments**    | Unbreaking II |
+| **Bonus Stats (Off-hand)**     | +0.01 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
+| **Cost**| 18 Scales    |
+
+### [[Shivering Pines Inn]]
+The Runic Blacksmith at this location is found in a tent just outside the inn, at **(4876, 101, -3375)**.
+
+**When the Bough Breaks:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Iron Axe       |
+| **Base Damage** | 19            |
+| **Attack Speed**| 0.3           |
+| **Bonus Stats** | -0.02 Movement Speed |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**| Named for the inevitability of conflict in a traveling poet's autumnal homeland, this ugly but brilliantly-balanced axe strikes with the force of a falling tree. |
+| **Cost**| 14 Scales  |
+
+**Like a Diamond in the Sky:**
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Base Item**      | Diamond Chestplate                    |
+| **Armor**          | 6                                     |
+| **Bonus Stats**    | -2 Max Health <br>-0.01 Movement Speed <br>+2 Attack Damage |
+
+|          | Lore and Cost     |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Named after Lo'Dahr as viewed through an ice crevasse as a traveling poet climbed to safety, this lumpy chestplate is inscribed with numerous prayers to Loe and imbues the wearer's attacks with frostbite.  |
+| **Cost** | 16 Scales     |
+
+### [[Veruhkt Plateau#Solitary Cabin|Veruhkt Plateau Cabin]]
+An isolated cabin on the eastern face of the hill with the Veruhkt Plateau tower is also the home to a Runic Blacksmith, at **(4027, 138, -1872)**.
+
+**Self-Defense Cuissards:**
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Base Item**      | Diamond Leggings                      |
+| **Armor**          | 3                                     |
+| **Enchantments**   | Feather Falling I                     |
+| **Bonus Stats**    | +0.01 Movement Speed <br>+0.1 Attack Speed |
+
+|          | Lore and Cost    |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though she lives alone in the hinterlands, the mistress of an isolated cabin sleeps soundly with these home-forged plates equipped.  |
+| **Cost** | 30 Scales  |
 
 ## Western Regions
 This section contains artisan items sold by Runic Blacksmiths in the [Western Regions](/World/Drehmal/Regions/Western_Regions/).
@@ -1087,22 +1448,6 @@ for the first time.  |
 from the dead to burn Tharxax City to the ground, leaving behind only the homes of those who were sensible enough to build with stone and brick.  |
 | **Cost** | 33 Scales <br>64 Bricks |
 
-### [[Whale's Tale]]
-There is a Runic Blacksmith on the top level of the Whale's Tale, located at **(-216, 75, 3608)**.
-
-**Sailcloth Leggings:**
-
-|                     |                   |
-| ------------------- | ----------------- |
-| **Base Item**      | Leather Leggings  |
-| **Armor**          | 1                 |
-| **Bonus Stats**    | +5% Movement Speed |
-
-|          | Lore and Cost        |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Stitched by the practiced hands of an old salt, these canvas leggings catch the breeze and lengthen one's stride.  |
-| **Cost**| 14 Scales  |
-
 ## Outer Regions
 This section contains artisan items found in the [Outer Regions](/World/Drehmal/Regions/Outer_Regions/)—[[Sahd]] and the [[Island of Dusk|Islands of Dusk]] and [[Island of Dawn|Dawn]].
 
@@ -1391,7 +1736,7 @@ The Runic Blacksmith at the Riverstead Town, the "Veteran Craftsman," sells one 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
 | **Lore** | The finest crossbow ever made by a venerable bowyer, offered as thanks for bringing proof that his beloved apprentice has become a master of the craft. |
-| **Cost** | [[Artisan Items#Gozak|Corewood Pulverizer]]  |
+| **Cost** | [[Artisan Items#Helmshire|Corewood Pulverizer]]  |
 
 ### [[Ytaj]]
 The Runic Blacksmith in Ytaj is located in the southeastern portion of the region, at **(35, 29, -1536)**.

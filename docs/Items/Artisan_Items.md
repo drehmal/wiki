@@ -17,77 +17,77 @@ The New Drabyel Runic Blacksmith is located just outside of a building in the ce
 |                     |              |
 | ------------------- | ------------ |
 | **Armor**          | 2            |
-| **Armor Toughness**| 1            |
-| **Enchants**       | Unbreaking II |
+| **Armor Toughness** | 1            |
+| **Enchantments**       | Unbreaking II |
 
 |          | Lore and Cost                                                   |
 | -------- | --------------------------------------------------------------- |
-| **Lore**| A Helmet worn by those who guarded the Primal Caverns long ago. |
-| **Cost**| Leather Cap <br>10 Emeralds                                       |
+| **Lore** | A Helmet worn by those who guarded the Primal Caverns long ago. |
+| **Cost** | Leather Cap <br>10 Emeralds                                       |
 
 **Chestpiece of Neutrality:**
 
 |                     |              |
 | ------------------- | ------------ |
 | **Armor**          | 6            |
-| **Armor Toughness**| 1            |
-| **Enchants**       | Unbreaking II |
+| **Armor Toughness** | 1            |
+| **Enchantments**       | Unbreaking II |
 
 |          | Lore and Cost                                                       |
 | -------- | ------------------------------------------------------------------- |
-| **Lore**| A Chestplate worn by those who guarded the Primal Caverns long ago. |
-| **Cost**| Leather Chestplate <br>14 Emeralds                                    |
+| **Lore** | A Chestplate worn by those who guarded the Primal Caverns long ago. |
+| **Cost** | Leather Chestplate <br>14 Emeralds                                    |
 
 **Leggings of Neutrality:**
 
 |                     |              |
 | ------------------- | ------------ |
 | **Armor**          | 5            |
-| **Armor Toughness**| 1            |
-| **Enchants**       | Unbreaking II |
+| **Armor Toughness** | 1            |
+| **Enchantments**       | Unbreaking II |
 
 |          | Lore and Cost                                                   |
 | -------- | --------------------------------------------------------------- |
-| **Lore**| Leggings worn by those who guarded the Primal Caverns long ago. |
-| **Cost**| Leather Leggings <br>12 Scales                                  |
+| **Lore** | Leggings worn by those who guarded the Primal Caverns long ago. |
+| **Cost** | Leather Leggings <br>12 Scales                                  |
 
 **Boots of Neutrality:**
 
 |                     |              |
 | ------------------- | ------------ |
 | **Armor**          | 2            |
-| **Armor Toughness**| 1            |
-| **Enchants**       | Unbreaking II |
+| **Armor Toughness** | 1            |
+| **Enchantments**       | Unbreaking II |
 
 |          | Lore and Cost                                                |
 | -------- | ------------------------------------------------------------ |
-| **Lore**| Boots worn by those who guarded the Primal Caverns long ago. |
-| **Cost**| Leather Boots <br>10 Scales                                  |
+| **Lore** | Boots worn by those who guarded the Primal Caverns long ago. |
+| **Cost** | Leather Boots <br>10 Scales                                  |
 
 **Fair-Minded Axe:**
 
 |                  |              |
 | ---------------- | ------------ |
-| **Base Damage** | 9            |
-| **Attack Speed**| 1            |
-| **Enchants**    | Unbreaking II |
+| **Attack Damage** | 9            |
+| **Attack Speed** | 1            |
+| **Enchantments**    | Unbreaking II |
 
 |          | Lore and Cost                                                 |
 | -------- | ------------------------------------------------------------- |
-| **Lore**| An axe used by those who guarded the Primal caverns long ago. |
-| **Cost**| Iron Axe <br>16 Scales                                        |
+| **Lore** | An axe used by those who guarded the Primal caverns long ago. |
+| **Cost** | Iron Axe <br>16 Scales                                        |
 
 **Shield of Neutrality:**
 
 |                 |              |
 | --------------- | ------------ |
-| **Bonus Stats**| N/A          |
-| **Enchants**        | Unbreaking II |
+| **Bonus Stats** | N/A          |
+| **Enchantments**        | Unbreaking II |
 
 |          | Lore and Cost                                                   |
 | -------- | --------------------------------------------------------------- |
-| **Lore**| A shield used by those who guarded the Primal Caverns long ago. |
-| **Cost**| Shield <br>8 Scales                                             |
+| **Lore** | A shield used by those who guarded the Primal Caverns long ago. |
+| **Cost** | Shield <br>8 Scales                                             |
 
 ### [[Solvei]]
 The Runic Blacksmith in Solvei is located in an "Arms & Wear" building in the southern portion of the village, at **(1553, 74, 810)**.
@@ -96,51 +96,51 @@ The Runic Blacksmith in Solvei is located in an "Arms & Wear" building in the so
 
 |                 |                                    |
 | --------------- | ---------------------------------- |
-| **Bonus Stats**| -2 Max Health <br>+10% Movement Speed |
+| **Bonus Stats** | -2 Max Health <br>+10% Movement Speed |
 
 |          | Lore and Cost                                                  |
 | -------- | -------------------------------------------------------------- |
-| **Lore**| A lightweight crossbow made for extended scouting expeditions. |
-| **Cost**| Crossbow <br>18 Scales                                         |
+| **Lore** | A lightweight crossbow made for extended scouting expeditions. |
+| **Cost** | Crossbow <br>18 Scales                                         |
 
 **Explorer's Boots:**
 
 |                     |                     |
 | ------------------- | ------------------- |
 | **Armor**          | 1                   |
-| **Armor Toughness**| 0                   |
+| **Armor Toughness** | 0                   |
 | **Bonus Stats**    | +10% Movement Speed |
 
 |          | Lore and Cost                                        |
 | -------- | ---------------------------------------------------- |
-| **Lore**| Engraved with runes fit for an experienced explorer. |
-| **Cost**| Leather Boots <br>15 Scales                          |
+| **Lore** | Engraved with runes fit for an experienced explorer. |
+| **Cost** | Leather Boots <br>15 Scales                          |
 
 **Knight's Boots:**
 
 |                     |               |
 | ------------------- | ------------- |
 | **Armor**          | 1             |
-| **Armor Toughness**| 0             |
+| **Armor Toughness** | 0             |
 | **Bonus Stats**    | +4 Max Health |
 
 |          | Lore and Cost                                      |
 | -------- | -------------------------------------------------- |
-| **Lore**| Engraved with runes fit for an experienced knight. |
-| **Cost**| Leather Boots <br>13 Scales                        |
+| **Lore** | Engraved with runes fit for an experienced knight. |
+| **Cost** | Leather Boots <br>13 Scales                        |
 
 **Warrior's Boots:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 1                 |
-| **Armor Toughness**| 0                 |
+| **Armor Toughness** | 0                 |
 | **Bonus Stats**    | +0.2 Attack Speed |
 
 |          | Lore and Cost                                       |
 | -------- | --------------------------------------------------- |
-| **Lore**| Engraved with runes fit for an experienced warrior. |
-| **Cost**| Leather Boots <br>13 Scales                         |
+| **Lore** | Engraved with runes fit for an experienced warrior. |
+| **Cost** | Leather Boots <br>13 Scales                         |
 
 ### [[Thesund]]
 The Runic Blacksmith in Thesund sells two unique pieces of horse armor, located in a blue tent west of the central bell, at **(-384, 109, 758)**.
@@ -149,25 +149,25 @@ The Runic Blacksmith in Thesund sells two unique pieces of horse armor, located 
 
 |                 |                          |
 | --------------- | ------------------------ |
-| **Bonus Stats**| +6 Max Health (on horse) |
-| **Enchants**   | N/A                      |
+| **Bonus Stats** | +6 Max Health (on horse) |
+| **Enchantments**   | N/A                      |
 
 |          | Lore and Cost                                        |
 | -------- | ---------------------------------------------------- |
-| **Lore**| Thick, sturdy horse armor designed for close combat. |
-| **Cost**| Leather Horse Armor <br>8 Scales                     |
+| **Lore** | Thick, sturdy horse armor designed for close combat. |
+| **Cost** | Leather Horse Armor <br>8 Scales                     |
 
 **War Barding:**
 
 |                 |                           |
 | --------------- | ------------------------- |
-| **Bonus Stats**| +14 Max Health (on horse) |
-| **Enchants**   | N/A                       |
+| **Bonus Stats** | +14 Max Health (on horse) |
+| **Enchantments**   | N/A                       |
 
 |          | Lore and Cost                                                   |
 | -------- | --------------------------------------------------------------- |
-| **Lore**| Magically infused horse armor to ensure your steed never falls. |
-| **Cost**| Iron Horse Armor <br>12 Scales                                  |
+| **Lore** | Magically infused horse armor to ensure your steed never falls. |
+| **Cost** | Iron Horse Armor <br>12 Scales                                  |
 
 ### [[Palisades Heath#Whale's Tale|Whale's Tale]]
 There is a Runic Blacksmith on the top level of the Whale's Tale, located at **(-216, 75, 3608)**.
@@ -182,8 +182,8 @@ There is a Runic Blacksmith on the top level of the Whale's Tale, located at **(
 
 |          | Lore and Cost        |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Stitched by the practiced hands of an old salt, these canvas leggings catch the breeze and lengthen one's stride.  |
-| **Cost**| 14 Scales  |
+| **Lore** | Stitched by the practiced hands of an old salt, these canvas leggings catch the breeze and lengthen one's stride.  |
+| **Cost** | 14 Scales  |
 
 ## Eastern Regions
 This section contains artisan items sold by Runic Blacksmiths in the [Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/).
@@ -197,13 +197,13 @@ The Runic Blacksmith in Ancehl Castle is located in the orange concrete building
 | ------------------- | -------------------- |
 | **Base Item**      | Iron Helmet           |
 | **Armor**          | 2                    |
-| **Armor Toughness**| 3                    |
+| **Armor Toughness** | 3                    |
 | **Bonus Stats**    | +10% Attack Speed |
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| No two of these experimental helmets are quite alike, but after both needles are inserted into the user's shoulders, they all make them much more aggressive.  |
-| **Cost**| 28 Scales    |
+| **Lore** | No two of these experimental helmets are quite alike, but after both needles are inserted into the user's shoulders, they all make them much more aggressive.  |
+| **Cost** | 28 Scales    |
 
 **Dark Harvester:**
 
@@ -216,8 +216,8 @@ The Runic Blacksmith in Ancehl Castle is located in the orange concrete building
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Perfect for prying open chest cavities to get those elusive components you need!  |
-| **Cost**| 30 Scales    |
+| **Lore** | Perfect for prying open chest cavities to get those elusive components you need!  |
+| **Cost** | 30 Scales    |
 
 ### [[Dusps]]
 The Dusps Runic Blacksmith is located just to the right of the entrance to the town, at **(2094, 111, -816)**.
@@ -231,8 +231,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, this stylish helmet is designed to instill self-confidence in its wearer.  |
-| **Cost**| Iron Helmet <br>15 Scales    |
+| **Lore** | Delicately shaped out of colorful Akhlo'Rohman steel, this stylish helmet is designed to instill self-confidence in its wearer.  |
+| **Cost** | Iron Helmet <br>15 Scales    |
 
 **Floral Chestplate:**
 
@@ -243,8 +243,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, this stylish plate is designed to instill self-confidence in its wearer. |
-| **Cost**| Iron Chestplate <br>17 Scales   |
+| **Lore** | Delicately shaped out of colorful Akhlo'Rohman steel, this stylish plate is designed to instill self-confidence in its wearer. |
+| **Cost** | Iron Chestplate <br>17 Scales   |
 
 **Floral Leggings:**
 
@@ -255,8 +255,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, these stylish leggings are designed to instill self-confidence in their wearer. |
-| **Cost**| Iron Leggings <br>16 Scales    |
+| **Lore** | Delicately shaped out of colorful Akhlo'Rohman steel, these stylish leggings are designed to instill self-confidence in their wearer. |
+| **Cost** | Iron Leggings <br>16 Scales    |
 
 **Floral Boots:**
 
@@ -267,8 +267,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Delicately shaped out of colorful Akhlo'Rohman steel, these stylish boots are designed to instill self-confidence in their wearer. |
-| **Cost**| Iron Boots <br>15 Scales    |
+| **Lore** | Delicately shaped out of colorful Akhlo'Rohman steel, these stylish boots are designed to instill self-confidence in their wearer. |
+| **Cost** | Iron Boots <br>15 Scales    |
 
 **Goldenrod Crown:**
 
@@ -280,8 +280,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Delicate yellow flowers arranged into runes and covered by lacquer and gold leaf provide an unexpected level of protection from especially dangerous attacks.   |
-| **Cost**| 18 Scales    |
+| **Lore** | Delicate yellow flowers arranged into runes and covered by lacquer and gold leaf provide an unexpected level of protection from especially dangerous attacks.   |
+| **Cost** | 18 Scales    |
 
 **Waterlily Sandals:**
 
@@ -294,8 +294,8 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Made of expertly-worked leather interlaced with gems, real flower stems seem to form dozens of tiny runes which run down their sturdy straps. Few aquatic tasks are too difficult with these sandals equipped!   |
-| **Cost**| 15 Scales    |
+| **Lore** | Made of expertly-worked leather interlaced with gems, real flower stems seem to form dozens of tiny runes which run down their sturdy straps. Few aquatic tasks are too difficult with these sandals equipped!   |
+| **Cost** | 15 Scales    |
 
 **Winged Monarch:**
 
@@ -307,8 +307,170 @@ The Dusps Runic Blacksmith is located just to the right of the entrance to the t
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| A bow ornamented with dazzling, patterned wings. An engraving can be found on the inside of the limb: "The grace of a queen, the burn of a sting."    |
-| **Cost**| 27 Scales <br> 24 Honeycomb    |
+| **Lore** | A bow ornamented with dazzling, patterned wings. An engraving can be found on the inside of the limb: "The grace of a queen, the burn of a sting."    |
+| **Cost** | 27 Scales <br> 24 Honeycomb    |
+
+### [[Firteid]]
+The Runic Blacksmith in Firteid is located in a tent in the southwest of the city, at **(3817, 66, 3576)**.
+
+**Superheated Helmet:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**          | 3                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**    | -3 Max Health <br>+2 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | After being subjected to intense heat and pressure, this helm has become slightly brittle but incredibly hard. They are very well-suited to the deposed Tide Queen's aggressive war tactics. |
+| **Cost** | Runic Amplifier <br>Diamond Helmet          |
+
+**Superheated Chestplate:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**          | 8                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**    | -3 Max Health <br>+2 Attack Damage |
+
+|          | Lore and Cost  |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | After being subjected to intense heat and pressure, this plate has become slightly brittle but incredibly hard. They are very well-suited to the deposed Tide Queen's aggressive war tactics. |
+| **Cost** | Runic Amplifier <br>Diamond Chestplate     |
+
+**Superheated Leggings:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**          | 6                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**    | -3 Max Health <br>+2 Attack Damage |
+
+|          | Lore and Cost        |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | After being subjected to intense heat and pressure, these leggings have become slightly brittle but incredibly hard. They are very well-suited to the deposed Tide Queen's aggressive war tactics. |
+| **Cost** | Runic Amplifier <br>Diamond Leggings    |
+
+**Superheated Boots:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Armor**          | 3                    |
+| **Armor Toughness** | 2                    |
+| **Bonus Stats**    | -3 Max Health <br>+2 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | After being subjected to intense heat and pressure, these boots have become slightly brittle but incredibly hard. They are very well-suited to the deposed Tide Queen's aggressive war tactics.  |
+| **Cost** | Runic Amplifier <br>Diamond Boots             |
+
+**Reinforced Longcoat:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**       | Iron Chestplate                                      |
+| **Armor**          | 6                                                    |
+| **Enchantments**   | Thorns IV <br>Unbreaking III <br>Mending         |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Nearly indistinguishable from a garment the Tide Queen sported on many public occasions, this faithful replica also mimics its famous wearer’s penchant for retaliation in kind for offenses directed at her person.  |
+| **Cost** | 15 Scales   |
+
+**Tidal War Crown:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Base Item**       | Iron Helmet                                      |
+| **Armor**          | 2                                                    |
+| **Enchantments**   | Protection III <br>Fire Protection III <br>Projectile Protection III <br>Respiration II         |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | An elegant golden crown is affixed to the peak of this sturdy steel helm. A fastidious recreation made by one of very few loyalists still living in Firteid today.   |
+| **Cost** | 16 Scales   |
+
+**Vegicide:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Diamond Axe   |
+| **Attack Damage** | 10            |
+| **Attack Speed** | 1.0           |
+| **Enchantments** | Efficiency VI |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Unlike Gozak, a kingdom that failed to tame its forest, the people of the tides have had no trouble showing the Black Jungle who is really in charge.  |
+| **Cost** | 33 Scales <br>42 Prismarine Shards  |
+
+Additionally, a separate named villager, Supreme Noodlemaster Klint, also offers a separate (joke) artisan item in Firteid, at **(3902, 68, 3552)**.
+
+**Big Noodle:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Blaze Rod   |
+| **Attack Damage** | 5            |
+| **Attack Speed** | 1.8           |
+| **Bonus Stats** | +2 Max Health |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | You've never before beheld a noodle containing this much pure, unadulterated strength. This is Klint's magnum opus.  |
+| **Cost** | 12 Scales |
+
+### [[Grand Pike Canyon#Frontier's Edge Gift Shop|Frontier's Edge Gift Shop]]
+At Frontier's Edge Gift Shop in [[Grand Pike Canyon]], the shop owner, Sera Mahri, is a Runic Blacksmith, and is located at **(4136, 43, -529)**.
+
+**Weatherman:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Iron Sword   |
+| **Attack Damage** | 4            |
+| **Attack Speed** | 1.2           |
+| **Enchantments** | Sharpness II <br>Smite II <br>Bane of Arthropods II <br>Knockback II <br>Fire Aspect I <br>Looting I <br>Sweeping Edge I <br>Unbreaking II |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Given the Frontier's Edge Gift Shop's remote location, its patrons are often either rugged adventurers or lucky survivors of the wilds. For either, this multi-tool offers "A Sword for Any Occasion!"   |
+| **Cost** | 17 Scales   |
+
+**Blammo:**
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Crossbow |
+| **Enchantments** | Unbreaking I <br>Multishot <br>Piercing III |
+
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | The crafty proprietor of the Frontier's Edge Gift Shop only offers these deadly crossbows to visitors who prove they have enough common sense.  |
+| **Cost** | 23 Scales  |
+
+### [[Grimm Troupe]]
+The Grimm Troupe in the western [[Frozen Bite]] region is home to a "Runic Nailsmith" who sells only the Nail artisan, at **(4459, 119, -3274)**.
+
+**Nail:**
+
+| ![[nail.png]]{ width="48" }   |               |
+| ---------------- | ------------- |
+| **Base Item**   | Iron Sword   |
+| **Attack Damage** | 9            |
+| **Attack Speed** | 1.8           |
+| **Enchantments** | Sharpness III <br>Bane of Arthropods VI <br>Sweeping Edge III |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A traditional weapon from a land much smaller than our own. The hilt is inscribed with unfamiliar, insect-shaped carvings.    |
+| **Cost** | 18 Scales <br>Block of Quartz  |
 
 ### [[Gozak]]
 The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" building, at **(2247, 50, 2434)**.
@@ -323,8 +485,8 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines.   |
-| **Cost**| Iron Helmet <br>11 Scales    |
+| **Lore** | The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines.   |
+| **Cost** | Iron Helmet <br>11 Scales    |
 
 **Barbed Chestplate:**
 
@@ -336,8 +498,8 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
-| **Cost**| Iron Chestplate <br>16 Scales   |
+| **Lore** | The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost** | Iron Chestplate <br>16 Scales   |
 
 **Barbed Leggings:**
 
@@ -349,8 +511,8 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
-| **Cost**| Iron Leggings <br>14 Scales    |
+| **Lore** | The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost** | Iron Leggings <br>14 Scales    |
 
 **Barbed Boots:**
 
@@ -362,8 +524,8 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
-| **Cost**| Iron Boots <br>11 Scales    |
+| **Lore** | The only Heartwood kingdom flourishing today, the people of Gozak have learned through hard-won experience to live harmoniously with the forest. Their ironwork resembles layers of leaves and thorny vines. |
+| **Cost** | Iron Boots <br>11 Scales    |
 
 **Wolfkin Mask:**
 
@@ -377,9 +539,9 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Adorned with berries, leaves, and fungi, this sinister iron mask is made so that its wearer can see with eyes unclouded by fear of the Heartwood's hazards.
+| **Lore** | Adorned with berries, leaves, and fungi, this sinister iron mask is made so that its wearer can see with eyes unclouded by fear of the Heartwood's hazards.
    |
-| **Cost**| 22 Scales    |
+| **Cost** | 22 Scales    |
 
 **Branchleaper Strides:**
 
@@ -391,10 +553,11 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though it takes some practice, a certain uneven gait which mimics the forest-dwellers allows the wearer to build up great speed.  |
-| **Cost**| 16 Scales    |
+| **Lore** | Though it takes some practice, a certain uneven gait which mimics the forest-dwellers allows the wearer to build up great speed.  |
+| **Cost** | 16 Scales    |
 
 ### [[Helmshire]]
+A Runic Blacksmith can be found in western Helmshire, at **(2872, 75, 1277)**.
 
 **Corewood Pulverizer:**
 
@@ -420,8 +583,8 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| An ingenious longbow made of flexible wood which allows the archer to move freely. The first new design of an old workshop.   |
-| **Cost**| 16 Scales     |
+| **Lore** | An ingenious longbow made of flexible wood which allows the archer to move freely. The first new design of an old workshop.   |
+| **Cost** | 16 Scales     |
 
 ### [[Hevhlak]]
 The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
@@ -436,8 +599,8 @@ The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though small in size, this shield weighs twice as much as it appears. The Tehrmari smith advertises it as a stout defensive measure as well as a potent training weight. You do feel stronger when you pick it up.    |
-| **Cost**| 13 Scales    |
+| **Lore** | Though small in size, this shield weighs twice as much as it appears. The Tehrmari smith advertises it as a stout defensive measure as well as a potent training weight. You do feel stronger when you pick it up.    |
+| **Cost** | 13 Scales    |
 
 **Celestial Cowl:**
 
@@ -445,13 +608,13 @@ The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
 | ------------------- | -------------------- |
 | **Base Item**      | Leather Helmet       |
 | **Armor**          | 3                    |
-| **Armor Toughness**| 3                    |
+| **Armor Toughness** | 3                    |
 | **Bonus Stats**    | -0.02 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| This fabric hood appears plain at first, but it is surprisingly heavy. When held up to the light, purple glimmers betray the presence of a metallic fiber within the weave.  |
-| **Cost**| 14 Scales    |
+| **Lore** | This fabric hood appears plain at first, but it is surprisingly heavy. When held up to the light, purple glimmers betray the presence of a metallic fiber within the weave.  |
+| **Cost** | 14 Scales    |
 
 ### [[Highfall]]
 The Runic Blacksmith in Highfall is located at **(5988, 72, -1101)**.
@@ -463,67 +626,67 @@ The Runic Blacksmith in Highfall is located at **(5988, 72, -1101)**.
 |                     |                      |
 | ------------------- | -------------------- |
 | **Armor**          | 3                    |
-| **Armor Toughness**| 2                    |
+| **Armor Toughness** | 2                    |
 | **Bonus Stats**    | +0.01 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The material which comprises this helmet is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
-| **Cost**| Runic Amplifier <br>Diamond Helmet                                                                                                                               |
+| **Lore** | The material which comprises this helmet is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifier <br>Diamond Helmet                                                                                                                               |
 
 **Pale Steel Chestplate:**
 
 |                     |                      |
 | ------------------- | -------------------- |
 | **Armor**          | 8                    |
-| **Armor Toughness**| 2                    |
+| **Armor Toughness** | 2                    |
 | **Bonus Stats**    | +0.01 Movement Speed |
 
 |          | Lore and Cost  |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The material which comprises this chestplate is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
-| **Cost**| Runic Amplifier <br>Diamond Chestplate     |
+| **Lore** | The material which comprises this chestplate is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifier <br>Diamond Chestplate     |
 
 **Pale Steel Leggings:**
 
 |                     |                      |
 | ------------------- | -------------------- |
 | **Armor**          | 6                    |
-| **Armor Toughness**| 2                    |
+| **Armor Toughness** | 2                    |
 | **Bonus Stats**    | +0.01 Movement Speed |
 
 |          | Lore and Cost        |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The material which comprises these leggings is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
-| **Cost**| Runic Amplifier <br>Diamond Leggings    |
+| **Lore** | The material which comprises these leggings is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifier <br>Diamond Leggings    |
 
 **Pale Steel Boots:**
 
 |                     |                      |
 | ------------------- | -------------------- |
 | **Armor**          | 2                    |
-| **Armor Toughness**| 2                    |
+| **Armor Toughness** | 2                    |
 | **Bonus Stats**    | +0.01 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The material which comprises these boots is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
-| **Cost**| Runic Amplifier <br>Diamond Boots                                                                                                                                |
+| **Lore** | The material which comprises these boots is in fact not steel at all. It is instead a rare gemstone that was said to be used by a long lost empire of purity. |
+| **Cost** | Runic Amplifier <br>Diamond Boots                                                                                                                                |
 
 **Behemoth Edge:**
 
 |                  |               |
 | ---------------- | ------------- |
 | **Base Item**   | Diamond Axe   |
-| **Base Damage** | 10            |
-| **Attack Speed**| 0.8           |
+| **Attack Damage** | 10            |
+| **Attack Speed** | 0.8           |
 | **Bonus Stats** | +8 Max Health |
 
 
 |          | Lore and Cost       |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though few remain, this gigantic battleaxe is a poignant reminder that the blood of Highfall's warrior-smiths continues to burn as brightly and relentlessly as a town set ablaze. |
-| **Cost**| 23 Scales  |
+| **Lore** | Though few remain, this gigantic battleaxe is a poignant reminder that the blood of Highfall's warrior-smiths continues to burn as brightly and relentlessly as a town set ablaze. |
+| **Cost** | 23 Scales  |
 
 **Berserker's Greaves:**
 
@@ -531,26 +694,156 @@ The Runic Blacksmith in Highfall is located at **(5988, 72, -1101)**.
 | --------------- | ----------------------------------------------------- |
 | **Base Item**  | Iron Boots                                            |
 | **Armor**      | 2                                                     |
-| **Bonus Stats**| -8 Max Health <br>+0.01 Movement Speed <br>+2 Attack Damage |
+| **Bonus Stats** | -8 Max Health <br>+0.01 Movement Speed <br>+2 Attack Damage |
 
 |          | Lore and Cost       |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| An ancient oral tradition among the Sieval clan of warrior-smiths ensures that the northern storm may gather again to reclaim the glory and riches lost to Highfall in the Third Avihm's long peace. |
-| **Cost**| 21 Scales      |
+| **Lore** | An ancient oral tradition among the Sieval clan of warrior-smiths ensures that the northern storm may gather again to reclaim the glory and riches lost to Highfall in the Third Avihm's long peace. |
+| **Cost** | 21 Scales      |
 
 **Eternal Prospector:**
 
 |                  |                             |
 | ---------------- | --------------------------- |
 | **Base Item**   | Diamond Pickaxe              |
-| **Base Damage** | 6                           |
-| **Attack Speed**| 1.2                         |
-| **Enchants**    | Unbreaking III <br>Fortune III |
+| **Attack Damage** | 6                           |
+| **Attack Speed** | 1.2                         |
+| **Enchantments**    | Unbreaking III <br>Fortune III |
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
-| **Lore**| The ultimate in Highfall's time-tested mining technology. |
-| **Cost**| 40 Scales <br>32 Diamonds                                   |
+| **Lore** | The ultimate in Highfall's time-tested mining technology. |
+| **Cost** | 40 Scales <br>32 Diamonds                                   |
+
+### [[Mossfield]]
+The Mossfield Runic Blacksmith is found at **(4132, 66, 1737)**.
+
+**Messenger's Helmet:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Bonus Stats**    | +10% Movement Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A helmet made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
+equipment, the runes engraved on its inner layer make it incredibly light.   |
+| **Cost** | Iron Helmet <br>15 Scales    |
+
+**Messenger's Chestplate:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 6                                                    |
+| **Bonus Stats**    | +10% Movement Speed |
+
+|          | Lore and Cost    |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A chestplate made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
+equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Cost** | Iron Chestplate <br>17 Scales   |
+
+**Messenger's Leggings:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 5                                                    |
+| **Bonus Stats**    | +10% Movement Speed |
+
+|          | Lore and Cost     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
+equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Cost** | Iron Leggings <br>16 Scales    |
+
+**Messenger's Boots:**
+
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Armor**          | 2                                                    |
+| **Bonus Stats**    | +10% Movement Speed |
+
+|          | Lore and Cost      |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
+equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Cost** | Iron Boots <br>15 Scales    |
+
+**ICF Infantry Handaxe:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Iron Axe       |
+| **Attack Damage** | 7            |
+| **Attack Speed** | 1.6           |
+| **Bonus Stats** | +4 Max Health |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | When the Insohmic Coalition Forces rode to war as one at the height of their power, few things were impossible. This standard-issue axe was carried by every
+soldier. |
+| **Cost** | 19 Scales  |
+
+**Lilting Shadow:**
+
+|                  |               |
+| ---------------- | ------------- |
+| **Base Item**   | Stone Sword    |
+| **Attack Damage** | 9            |
+| **Attack Speed** | 1.4           |
+| **Bonus Stats** | -4 Max Health <br>+0.01 Movement Speed |
+
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | When the Insohmic Coalition Forces were insufficiently subtle, the Whispers would finish the job instead. This long, matte black knife was invariably effective.  |
+| **Cost** | 12 Scales <br>1 Obsidian  |
+
+**Lucky Warhelm:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Diamond Helmet           |
+| **Armor**          | 2                    |
+| **Enchantments**   | Feather Falling VII <br>Silk Touch VII <br>Luck of the Sea VII |
+| **Bonus Stats**    | +0.02 Movement Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | The slightly-swollen facade of this helmet is continually straining against the pressure of six rabbits' feet, thousands of four-leaf clovers, and two dozen feet of Kiln-anointed silks, as well as many other trinkets and baubles. |
+| **Cost** | 34 Scales <br>6 Rabbit's Foot    |
+
+### [[Port Solitude]]
+A Runic Blacksmith on the lower deck of Port Solitude sells two artisan items, and is located at **(1882, 63, 4259)**.
+
+**Daggergown:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Chainmail Leggings          |
+| **Armor**          | 1                    |
+| **Bonus Stats**    | -3 Max Health <br>+2 Attack Damage |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | It is a bit of a double-edged sword to wear this gently clanking garment made entirely of sharpened knives.   |
+| **Cost** | 15 Scales    |
+
+**Stiletto Heels:**
+
+|                     |                      |
+| ------------------- | -------------------- |
+| **Base Item**      | Iron Boots            |
+| **Armor**          | 4                     |
+| **Enchantments**   | Unbreaking III        |
+| **Bonus Stats**    | -2 Max Health <br>-0.02 Movement Speed <br>+2 Attack Damage <br>+0.1 Attack Speed |
+
+|          | Lore and Cost                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Though somewhat unstable, these striking shoes are certainly lethal.   |
+| **Cost** | 15 Scales    |
 
 ### [[Schlonko]]
 The town of Schlonko is home to a Runic Blacksmith who sells the following two artisan items, at **(1097, 65, -3018)**.
@@ -561,13 +854,13 @@ The town of Schlonko is home to a Runic Blacksmith who sells the following two a
 | ------------------- | -------------------- |
 | **Base Item**      | Iron Helmet           |
 | **Armor**          | 2                    |
-| **Armor Toughness**| 4                    |
+| **Armor Toughness** | 4                    |
 | **Enchantments**    | Unbreaking II |
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though he charges a high price in order to afford the Duke's tithe, the young metalworker who made this stunningly beautiful winged helmet insists he is talentless.   |
-| **Cost**| 20 Scales    |
+| **Lore** | Though he charges a high price in order to afford the Duke's tithe, the young metalworker who made this stunningly beautiful winged helmet insists he is talentless.   |
+| **Cost** | 20 Scales    |
 
 **Shield:**
 
@@ -579,8 +872,8 @@ The town of Schlonko is home to a Runic Blacksmith who sells the following two a
 
 |          | Lore and Cost                                                                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
-| **Cost**| 18 Scales    |
+| **Lore** | Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
+| **Cost** | 18 Scales    |
 
 ### [[Shivering Pines Inn]]
 The Runic Blacksmith at this location is found in a tent just outside the inn, at **(4876, 101, -3375)**.
@@ -590,15 +883,15 @@ The Runic Blacksmith at this location is found in a tent just outside the inn, a
 |                  |               |
 | ---------------- | ------------- |
 | **Base Item**   | Iron Axe       |
-| **Base Damage** | 19            |
-| **Attack Speed**| 0.3           |
+| **Attack Damage** | 19            |
+| **Attack Speed** | 0.3           |
 | **Bonus Stats** | -0.02 Movement Speed |
 
 
 |          | Lore and Cost       |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Named for the inevitability of conflict in a traveling poet's autumnal homeland, this ugly but brilliantly-balanced axe strikes with the force of a falling tree. |
-| **Cost**| 14 Scales  |
+| **Lore** | Named for the inevitability of conflict in a traveling poet's autumnal homeland, this ugly but brilliantly-balanced axe strikes with the force of a falling tree. |
+| **Cost** | 14 Scales  |
 
 **Like a Diamond in the Sky:**
 
@@ -612,6 +905,21 @@ The Runic Blacksmith at this location is found in a tent just outside the inn, a
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore** | Named after Lo'Dahr as viewed through an ice crevasse as a traveling poet climbed to safety, this lumpy chestplate is inscribed with numerous prayers to Loe and imbues the wearer's attacks with frostbite.  |
 | **Cost** | 16 Scales     |
+
+### [[Tahva]]
+In the small coastal settlement of Tahva, there is one Runic Blacksmith who sells a unique artisan item, at **(699, 94, 4607)**.
+
+**Tahvan Sailor's Charm:**
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Base Item**      | Compass                     |
+| **Bonus Stats (Off-Hand)**    | +4% Max Health <br>+4% Movement Speed <br>+2% Attack Damage <br>+2% Attack Speed |
+
+|          | Lore and Cost    |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Unlike other nations, Tahva is not anchored to one place. When the wind calls, its people set sail until they hit land, and most never return. On the high seas, a little luck never hurts!  |
+| **Cost** | 16 Scales <br>1 Compass |
 
 ### [[Veruhkt Plateau#Solitary Cabin|Veruhkt Plateau Cabin]]
 An isolated cabin on the eastern face of the hill with the Veruhkt Plateau tower is also the home to a Runic Blacksmith, at **(4027, 138, -1872)**.
@@ -683,7 +991,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 |                     |                                       |
 | ------------------- | ------------------------------------- |
 | **Armor**          | 3                                     |
-| **Armor Toughness**| 2                                     |
+| **Armor Toughness** | 2                                     |
 | **Bonus Stats**    | +20% Max Health <br>-0.01 Movement Speed |
 
 |          | Lore and Cost        |
@@ -696,7 +1004,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 |                     |                                       |
 | ------------------- | ------------------------------------- |
 | **Armor**          | 8                                     |
-| **Armor Toughness**| 2                                     |
+| **Armor Toughness** | 2                                     |
 | **Bonus Stats**    | +20% Max Health <br>-0.01 Movement Speed |
 
 |          | Lore and Cost     |
@@ -709,7 +1017,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 |                     |                                       |
 | ------------------- | ------------------------------------- |
 | **Armor**          | 6                                     |
-| **Armor Toughness**| 2                                     |
+| **Armor Toughness** | 2                                     |
 | **Bonus Stats**    | +20% Max Health <br>-0.01 Movement Speed |
 
 |          | Lore and Cost    |
@@ -722,7 +1030,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 |                     |                                       |
 | ------------------- | ------------------------------------- |
 | **Armor**          | 3                                     |
-| **Armor Toughness**| 2                                     |
+| **Armor Toughness** | 2                                     |
 | **Bonus Stats**    | +20% Max Health <br>-0.01 Movement Speed |
 
 |          | Lore and Cost       |
@@ -736,8 +1044,8 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 | --------------- | ----------------------------------- |
 | **Base Item**   | Leather Boots                       |
 | **Armor**      | 2                                   |
-| **Enchants**   | Unbreaking V                        |
-| **Bonus Stats**| -15% Max Health <br>+15% Attack Damage |
+| **Enchantments**   | Unbreaking V                        |
+| **Bonus Stats** | -15% Max Health <br>+15% Attack Damage |
 
 |          | Lore and Cost         |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -749,7 +1057,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 |              |         |
 | ------------ | ------- |
 | **Base Item** | Fishing Rod |
-| **Enchants**| Lure IV |
+| **Enchantments** | Lure IV |
 
 |          | Lore and Cost                                                                                                                                             |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -762,8 +1070,8 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 | --------------- | ----------------------------------- |
 | **Base Item**  | Golden Helmet                       |
 | **Armor**      | 2                                   |
-| **Enchants**   | Unbreaking VIII                     |
-| **Bonus Stats**| +6 Max Health <br>-0.01 Movement Speed |
+| **Enchantments**   | Unbreaking VIII                     |
+| **Bonus Stats** | +6 Max Health <br>-0.01 Movement Speed |
 
 |          | Lore and Cost |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -776,7 +1084,7 @@ The Runic Blacksmith in Athrah is located at **(-2694, 66, -1765)**.
 | --------------- | ----------------------------------- |
 | **Base Item**  | Golden Boots                        |
 | **Armor**      | 2                                   |
-| **Bonus Stats**| -8 Max Health <br>+0.04 Movement Speed |
+| **Bonus Stats** | -8 Max Health <br>+0.04 Movement Speed |
 
 |          | Lore and Cost       |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -795,8 +1103,8 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun.  |
-| **Cost**| Iron Helmet <br>15 Scales    |
+| **Lore** | The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun.  |
+| **Cost** | Iron Helmet <br>15 Scales    |
 
 **Fortified Chestplate:**
 
@@ -807,8 +1115,8 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
-| **Cost**| Iron Chestplate <br>17 Scales   |
+| **Lore** | The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
+| **Cost** | Iron Chestplate <br>17 Scales   |
 
 **Fortified Leggings:**
 
@@ -819,8 +1127,8 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
-| **Cost**| Iron Leggings <br>16 Scales    |
+| **Lore** | The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
+| **Cost** | Iron Leggings <br>16 Scales    |
 
 **Fortified Boots:**
 
@@ -831,8 +1139,8 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
-| **Cost**| Iron Boots <br>15 Scales    |
+| **Lore** | The hardy smith who secretly made this armor sells it only with a promise that its wearer will return to help free the enslaved Tharhan peoples of Ebonrun. |
+| **Cost** | Iron Boots <br>15 Scales    |
 
 **Unshakable:**
 
@@ -844,9 +1152,9 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll
+| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll
 use them to move a bunch of TNT." |
-| **Cost**| 18 Scales   |
+| **Cost** | 18 Scales   |
 
 **Unquakeable:**
 
@@ -858,8 +1166,8 @@ use them to move a bunch of TNT." |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| "Those of us on the surface will make sure that we trade in all of our gold for these things for all of the family members without mining uniforms." |
-| **Cost**| 17 Scales   |
+| **Lore** | "Those of us on the surface will make sure that we trade in all of our gold for these things for all of the family members without mining uniforms." |
+| **Cost** | 17 Scales   |
 
 **Underminer:**
 
@@ -871,9 +1179,9 @@ use them to move a bunch of TNT." |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be
+| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be
 free."  |
-| **Cost**| 20 Scales   |
+| **Cost** | 20 Scales   |
 
 **Defiant Arbalest:**
 
@@ -903,8 +1211,8 @@ The Runic Blacksmith in Elvett is found in a house with a blue wool overhang, at
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| If relations between the Hazej family of hunters and their rivals soured to the point of war, their camouflaged recon gear would be their greatest asset.  |
-| **Cost**| 15 Scales    |
+| **Lore** | If relations between the Hazej family of hunters and their rivals soured to the point of war, their camouflaged recon gear would be their greatest asset.  |
+| **Cost** | 15 Scales    |
 
 **Wall Shield:**
 
@@ -915,8 +1223,8 @@ The Runic Blacksmith in Elvett is found in a house with a blue wool overhang, at
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| If relations between the Ehgod family of masons and their rivals soured to the point of war, their powerful and load-bearing shields would be their greatest asset.  |
-| **Cost**| 18 Scales    |
+| **Lore** | If relations between the Ehgod family of masons and their rivals soured to the point of war, their powerful and load-bearing shields would be their greatest asset.  |
+| **Cost** | 18 Scales    |
 
 **Sparksweeper:**
 
@@ -929,8 +1237,8 @@ The Runic Blacksmith in Elvett is found in a house with a blue wool overhang, at
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| If relations between the Gidi family of chimney sweepers and their rivals soured to the point of war, their dual-threat ash-removing and fire-starting brooms would be their greatest asset.  |
-| **Cost**| 16 Scales    |
+| **Lore** | If relations between the Gidi family of chimney sweepers and their rivals soured to the point of war, their dual-threat ash-removing and fire-starting brooms would be their greatest asset.  |
+| **Cost** | 16 Scales    |
 
 ### [[Fort Nimahj]]
 The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
@@ -944,8 +1252,8 @@ The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
-| **Cost**| Iron Helmet <br>15 Scales    |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Helmet <br>15 Scales    |
 
 **Survivor's Chestplate:**
 
@@ -956,8 +1264,8 @@ The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
-| **Cost**| Iron Chestplate <br>17 Scales   |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Chestplate <br>17 Scales   |
 
 **Survivor's Leggings:**
 
@@ -968,8 +1276,8 @@ The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
-| **Cost**| Iron Leggings <br>16 Scales    |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Leggings <br>16 Scales    |
 |
 
 **Survivor's Boots:**
@@ -981,60 +1289,60 @@ The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
-| **Cost**| Iron Boots <br>15 Scales    |
+| **Lore** | As the solitary bastion of Virtuo's faith in all of West Drehmal, denizens of Fort Nimahj do not often leave the safety of its walls. This dependable armor is built by paranoid hands for any contingency. |
+| **Cost** | Iron Boots <br>15 Scales    |
 
 **Heart of Tharhan:**
 
 |                 |               |
 | --------------- | ------------- |
 | **Base Item**  | Shield |
-| **Enchants**   | Unbreaking I  |
-| **Bonus Stats**| +4 Max Health |
+| **Enchantments**   | Unbreaking I  |
+| **Bonus Stats** | +4 Max Health |
 
 |          | Lore and Cost                                                                               |
 | -------- | ------------------------------------------------------------------------------------------- |
-| **Lore**| This shield is thick, strong, and dependable. It isn't perfect, but it makes you feel safe. |
-| **Cost**| 12 Scales                                                                                   |
+| **Lore** | This shield is thick, strong, and dependable. It isn't perfect, but it makes you feel safe. |
+| **Cost** | 12 Scales                                                                                   |
 
 **Mind of Avsohm:**
 
 |                     |                      |
 | ------------------- | -------------------- |
 | **Base Item**  | Shield |
-| **Enchants**       | Unbreaking I        |
+| **Enchantments**       | Unbreaking I        |
 | **Bonus Stats**    | +0.01 Movement Speed |
 
 |          | Lore and Cost                                                                                     |
 | -------- | ------------------------------------------------------------------------------------------------- |
-| **Lore**| This shield can be deployed extremely quickly. It is smooth and effective, but lacks personality. |
-| **Cost**| 12 Scales                                                                                         |
+| **Lore** | This shield can be deployed extremely quickly. It is smooth and effective, but lacks personality. |
+| **Cost** | 12 Scales                                                                                         |
 
 **Soul of Insohm:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Base Item**  | Shield |
-| **Enchants**       | Unbreaking I      |
+| **Enchantments**       | Unbreaking I      |
 | **Bonus Stats**    | +0.2 Attack Speed |
 
 |          | Lore and Cost                                                                                                 |
 | -------- | ------------------------------------------------------------------------------------------------------------- |
-| **Lore**| This shield is covered in sharp edges and can be swung in battle. It is powerful, but brittle in some places. |
-| **Cost**| 12 Scales                                                                                                     |
+| **Lore** | This shield is covered in sharp edges and can be swung in battle. It is powerful, but brittle in some places. |
+| **Cost** | 12 Scales                                                                                                     |
 
 **Surgedigger:**
 
 |                 |                           |
 | --------------- | ------------------------- |
 | **Base Item**  | Diamond Shovel             |
-| **Enchants**   | Knockback VII, Efficiency V |
-| **Bonus Stats**| 6 Attack Damage           |
+| **Enchantments**   | Knockback VII, Efficiency V |
+| **Bonus Stats** | 6 Attack Damage           |
 
 |          | Lore and Cost                                                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lore**| Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
-| **Cost**| 30 Scales <br>32 Copper Ingots   |
+| **Lore** | Originally built to help quickly build trenches over open fields, this shovel is also shockingly effective at knocking down invaders trying to climb over castle walls. |
+| **Cost** | 30 Scales <br>32 Copper Ingots   |
 
 ### [[ICS Arbiter]]
 The Runic Blacksmith on the ICS Arbiter sells one artisan item, and is located at **(-467, 84, -1944)**.
@@ -1045,12 +1353,12 @@ The Runic Blacksmith on the ICS Arbiter sells one artisan item, and is located a
 | ------------ | ------------ |
 | **Base Item**  | Iron Helmet |
 | **Armor**   | 4            |
-| **Enchants**| Respiration VI <br>Unbreaking I |
+| **Enchantments** | Respiration VI <br>Unbreaking I |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| In the case of a hull breach while submerged, the Captain advises that each passenger purchase one of these personal breathing devices.  |
-| **Cost**| 19 Scales  |
+| **Lore** | In the case of a hull breach while submerged, the Captain advises that each passenger purchase one of these personal breathing devices.  |
+| **Cost** | 19 Scales  |
 
 ### [[Mohta]]
 The Runic Blacksmith in Mohta is located in the north of the village, at **(-11, 70, 5259)**.
@@ -1061,13 +1369,13 @@ The Runic Blacksmith in Mohta is located in the north of the village, at **(-11,
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Helmet |
 | **Armor**   | 2            |
-| **Enchants**| Respiration II <br>Aqua Affinity II <br>Unbreaking III |
+| **Enchantments** | Respiration II <br>Aqua Affinity II <br>Unbreaking III |
 | **Bonus Stats** | +20% Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
-| **Cost**| 14 Scales <br>5 Chains                                                                                                                        |
+| **Lore** | One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
+| **Cost** | 14 Scales <br>5 Chains                                                                                                                        |
 
 **Amphibious Chestplate:**
 
@@ -1076,13 +1384,13 @@ The Runic Blacksmith in Mohta is located in the north of the village, at **(-11,
 | **Base Item**  | Chainmail Chestplate |
 | **Armor**   | 5            |
 | **Armor Toughness** | 3 |
-| **Enchants**| Unbreaking III |
+| **Enchantments** | Unbreaking III |
 | **Bonus Stats** | +20% Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
-| **Cost**| 15 Scales <br>7 Chains                                                                                                                        |
+| **Lore** | One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
+| **Cost** | 15 Scales <br>7 Chains                                                                                                                        |
 
 **Amphibious Leggings:**
 
@@ -1091,13 +1399,13 @@ The Runic Blacksmith in Mohta is located in the north of the village, at **(-11,
 | **Base Item**  | Chainmail Leggings |
 | **Armor**   | 4            |
 | **Armor Toughness** | 3       |
-| **Enchants**| Unbreaking III |
+| **Enchantments** | Unbreaking III |
 | **Bonus Stats** | +20% Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
-| **Cost**| 14 Scales <br>6 Chains                                                                                                                        |
+| **Lore** | One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
+| **Cost** | 14 Scales <br>6 Chains                                                                                                                        |
 
 **Amphibious Boots:**
 
@@ -1105,28 +1413,28 @@ The Runic Blacksmith in Mohta is located in the north of the village, at **(-11,
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Boots |
 | **Armor**   | 1            |
-| **Enchants**| Depth Strider III <br>Unbreaking III |
+| **Enchantments** | Depth Strider III <br>Unbreaking III |
 | **Bonus Stats** | +20% Knockback Resistance |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
-| **Cost**| 12 Scales <br>5 Chains                                                                                                                        |
+| **Lore** | One day while guarding Mohta's wall, a bored soldier wanted to take a dip, but was stopped by his burdensome armor. The rest, they say, is history.  |
+| **Cost** | 12 Scales <br>5 Chains                                                                                                                        |
 
 **Firecrab:**
 
 |                  |     |
 | ---------------- | --- |
 | **Base Item**  | Iron Sword |
-| **Base Damage** | 8  |
-| **Attack Speed**| 0.8 |
+| **Attack Damage** | 8  |
+| **Attack Speed** | 0.8 |
 | **Enchantments** | Fire Aspect I <br>Unbreaking III |
 | **Bonus Stats** | +4 Max Health <br> -0.01 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                       |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though food is abundant, life in Lorahn'Kahl is never worry-free. After killing a Burnt General in one of Mael's invasions, ancestors of Mohta reverse-engineered this scimitar.  |
-| **Cost**| 15 Scales |
+| **Lore** | Though food is abundant, life in Lorahn'Kahl is never worry-free. After killing a Burnt General in one of Mael's invasions, ancestors of Mohta reverse-engineered this scimitar.  |
+| **Cost** | 15 Scales |
 
 **Dartfin:**
 
@@ -1138,8 +1446,8 @@ The Runic Blacksmith in Mohta is located in the north of the village, at **(-11,
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| While the climate is ideal, life in Lorahn'Kahl has never been peaceful. This recurve bow allowed the ancestors of Mohta to survive against the escaped hordes of the Tri-Moon Theocracy.  |
-| **Cost**| 23 Scales  |
+| **Lore** | While the climate is ideal, life in Lorahn'Kahl has never been peaceful. This recurve bow allowed the ancestors of Mohta to survive against the escaped hordes of the Tri-Moon Theocracy.  |
+| **Cost** | 23 Scales  |
 
 ### [[Okeke]]
 The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
@@ -1150,12 +1458,12 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Helmet |
 | **Armor**   | 2            |
-| **Enchants**| Unbreaking X |
+| **Enchantments** | Unbreaking X |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
-| **Cost**| 15 Scales <br>5 Chains                                                                                                                        |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales <br>5 Chains                                                                                                                        |
 
 **Rhythm-Chain Chestplate:**
 
@@ -1163,12 +1471,12 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Chestplate |
 | **Armor**   | 6            |
-| **Enchants**| Unbreaking X |
+| **Enchantments** | Unbreaking X |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
-| **Cost**| 17 Scales <br>7 Chains                                                                                                                        |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 17 Scales <br>7 Chains                                                                                                                        |
 
 **Rhythm-Chain Leggings:**
 
@@ -1176,12 +1484,12 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Leggings |
 | **Armor**   | 5            |
-| **Enchants**| Unbreaking X |
+| **Enchantments** | Unbreaking X |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
-| **Cost**| 16 Scales <br>6 Chains                                                                                                                        |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 16 Scales <br>6 Chains                                                                                                                        |
 
 **Rhythm-Chain Boots:**
 
@@ -1189,12 +1497,12 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------ | ------------ |
 | **Base Item**  | Chainmail Boots |
 | **Armor**   | 2            |
-| **Enchants**| Unbreaking X |
+| **Enchantments** | Unbreaking X |
 
 |          | Lore and Cost                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
-| **Cost**| 15 Scales <br>5 Chains                                                                                                                        |
+| **Lore** | Ages ago, a forbidden smithing technique involving music was taught to an early Merijool tribe. The outcome is a nigh-unbreakable material. |
+| **Cost** | 15 Scales <br>5 Chains                                                                                                                        |
 
 **Weighted Flametreads:**
 
@@ -1202,14 +1510,14 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------------- | ------------------------------------------------------- |
 | **Base Item**       | Iron Boots |
 | **Armor**          | 3                                                       |
-| **Armor Toughness**| 1                                                       |
-| **Enchants**       | Unbreaking I                                            |
+| **Armor Toughness** | 1                                                       |
+| **Enchantments**       | Unbreaking I                                            |
 | **Bonus Stats**    | +4 Max Health <br>+10% Attack Damage <br>-0.04 Movement Speed |
 
 |          | Lore and Cost                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------- |
-| **Lore**| For those that follow the Avatars of the Cycle, walking upon freshly lit coals is a common ritual. |
-| **Cost**| 20 Scales                                                                                          |
+| **Lore** | For those that follow the Avatars of the Cycle, walking upon freshly lit coals is a common ritual. |
+| **Cost** | 20 Scales                                                                                          |
 
 **Coldsnap**
 
@@ -1217,25 +1525,25 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------------- | ------------------------------------------------------------------------------- |
 | **Base Item**       | Leather Leggings |
 | **Armor**          | 5                                                                               |
-| **Armor Toughness**| 1                                                                               |
-| **Enchants**       | Unbreaking V <br>Fire Protection II <br>Blast Protection II <br>Projectile Protection II |
+| **Armor Toughness** | 1                                                                               |
+| **Enchantments**       | Unbreaking V <br>Fire Protection II <br>Blast Protection II <br>Projectile Protection II |
 
 |          | Lore and Cost                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| This beautiful, layered silk garment covers the lower torso and conceals a ritual set of runes which protect the wearer from elemental threats. |
-| **Cost**| 20 Scales                                                                                                                                      |
+| **Lore** | This beautiful, layered silk garment covers the lower torso and conceals a ritual set of runes which protect the wearer from elemental threats. |
+| **Cost** | 20 Scales                                                                                                                                      |
 
 **Charm of Rationality:**
 
 |                 |                                                   |
 | --------------- | ------------------------------------------------- |
 | **Base Item**   | Light Blue Dye                                    |
-| **Bonus Stats (When in Off-hand)**| +20% Armour <br>+7% Armor Toughness |
+| **Bonus Stats (When in Off-hand)** | +20% Armour <br>+7% Armor Toughness |
 
 |          | Lore and Cost  |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**| Although Loe is widely known for their feud with Lai today, many worshippers still follow the old path of compromise and meditation. This bauble helps the wearer keep a cool head.  |
-| **Cost**| 28 Scales <br>1 Diamond      |
+| **Lore** | Although Loe is widely known for their feud with Lai today, many worshippers still follow the old path of compromise and meditation. This bauble helps the wearer keep a cool head.  |
+| **Cost** | 28 Scales <br>1 Diamond      |
 
 **Tetrodotox:**[^1]
 
@@ -1243,14 +1551,14 @@ The Okeke Runic Blacksmith is found at **(-1571, 66, -465)**.
 | ------------------- | ------------- |
 | **Base Item**   | Diamond Leggings |
 | **Armor**          | 7             |
-| **Armor Toughness**| 3             |
-| **Enchants**       | Thorns X      |
+| **Armor Toughness** | 3             |
+| **Enchantments**       | Thorns X      |
 | **Bonus Stats**    | +2 Max Health |
 
 |          | Lore and Cost   |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
-| **Cost**| 30 Scales <br>6 Pufferfish                |
+| **Lore** | Among all the Aspect-worshipping tribes of Merijool, few are as dangerous as the Muhs-devout Obro, whose symbiotic beast-alchemy is directed primarily at protecting habitats of endangered species from would-be poachers. |
+| **Cost** | 30 Scales <br>6 Pufferfish                |
 
 ### [[Rhaveloth]]
 The Rhaveloth Runic Blacksmith is located at **(-2957, 97, 5164)**.
@@ -1260,65 +1568,65 @@ The Rhaveloth Runic Blacksmith is located at **(-2957, 97, 5164)**.
 |                     |               |
 | ------------------- | ------------- |
 | **Armor**          | 3             |
-| **Armor Toughness**| 2             |
+| **Armor Toughness** | 2             |
 | **Bonus Stats**    | +4 Max Health |
 
 |          | Lore and Cost    |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
-| **Cost**| Runic Amplifier <br>Diamond Helmet     |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifier <br>Diamond Helmet     |
 
 **Burnt Templar's Chestplate:**
 
 |                     |               |
 | ------------------- | ------------- |
 | **Armor**          | 8             |
-| **Armor Toughness**| 2             |
+| **Armor Toughness** | 2             |
 | **Bonus Stats**    | +4 Max Health |
 
 |          | Lore and Cost                                                                                                                                                         |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
-| **Cost**| Runic Amplifier <br>Diamond Chestplate    |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifier <br>Diamond Chestplate    |
 
 **Burnt Templar's Leggings:**
 
 |                     |               |
 | ------------------- | ------------- |
 | **Armor**          | 6             |
-| **Armor Toughness**| 2             |
+| **Armor Toughness** | 2             |
 | **Bonus Stats**    | +4 Max Health |
 
 |          | Lore and Cost                                                                                                                                                         |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
-| **Cost**| Runic Amplifier <br>Diamond Leggings            |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifier <br>Diamond Leggings            |
 
 **Burnt Templar's Boots:**
 
 |                     |               |
 | ------------------- | ------------- |
 | **Armor**          | 3             |
-| **Armor Toughness**| 2             |
+| **Armor Toughness** | 2             |
 | **Bonus Stats**    | +4 Max Health |
 
 |          | Lore and Cost                                                                                                                                                         |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
-| **Cost**| Runic Amplifier <br>Diamond Boots    |
+| **Lore** | The templars that guard Rhaveloth's Sepulchral Altar are fierce, devoted warriors, ready to risk their lives to defend the second-holiest place within Mael's empire. |
+| **Cost** | Runic Amplifier <br>Diamond Boots    |
 
 **Fleshcoaxer:**
 
 |                 |                                      |
 | --------------- | ------------------------------------ |
 | **Base Item**  | Diamond Hoe                           |
-| **Enchants**   | Sharpness VIII <br>Looting II <br>Efficiency V |
-| **Bonus Stats**| 4 Attack Damage                      |
+| **Enchantments**   | Sharpness VIII <br>Looting II <br>Efficiency V |
+| **Bonus Stats** | 4 Attack Damage                      |
 
 |          | Lore and Cost                                                                                                                                       |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lore**| The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
-| **Cost**| 35 Gold Ingots <br>40 Quartz                                                                                                                          |
+| **Lore** | The most skillful Maelmari breeders know how to till the desert ground in order to lure delicious meat and sturdy bones to the surface for harvest. |
+| **Cost** | 35 Gold Ingots <br>40 Quartz                                                                                                                          |
 
 A separate Runic Blacksmith, a Drehmari in Rhaveloth named "Renegade Stonecarver," sells two more artisan items in this town, at **(-2961, 86, 5176)**.
 
@@ -1328,7 +1636,7 @@ A separate Runic Blacksmith, a Drehmari in Rhaveloth named "Renegade Stonecarver
 | ---------------- | -------- |
 | **Base Item**  | Stone Axe |
 | **Attack Damage** | 8  |
-| **Attack Speed**| 1.4 |
+| **Attack Speed** | 1.4 |
 | **Bonus Stats** | -3 Max Health <br>+0.015 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                       |
@@ -1342,7 +1650,7 @@ A separate Runic Blacksmith, a Drehmari in Rhaveloth named "Renegade Stonecarver
 | ---------------- | -------- |
 | **Base Item**  | Stone Sword |
 | **Attack Damage** | 30  |
-| **Attack Speed**| 0.2 |
+| **Attack Speed** | 0.2 |
 | **Bonus Stats** | -0.015 Movement Speed |
 
 |          | Lore and Cost                                                                                                                                       |
@@ -1358,52 +1666,52 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 3                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +15% Movement Speed <br>-2 Max Health |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
-| **Cost**| Runic Amplifier <br>Diamond Helmet  |
+| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Cost** | Runic Amplifier <br>Diamond Helmet  |
 
 **Crystal Fiber Tunic:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 8                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +15% Movement Speed <br>-2 Max Health |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
-| **Cost**| Runic Amplifier <br>Diamond Chestplate  |
+| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Cost** | Runic Amplifier <br>Diamond Chestplate  |
 
 **Crystal Fiber Pants:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 6                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +15% Movement Speed <br>-2 Max Health |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
-| **Cost**| Runic Amplifier <br>Diamond Leggings  |
+| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Cost** | Runic Amplifier <br>Diamond Leggings  |
 
 **Crystal Fiber Boots:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 3                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +15% Movement Speed <br>-2 Max Health |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
-| **Cost**| Runic Amplifier <br>Diamond Boots  |
+| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Cost** | Runic Amplifier <br>Diamond Boots  |
 
 **Skullclamp:**
 
@@ -1415,9 +1723,9 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Originally discovered by Red Dawn, this this helm inflicts massive damage to the brain while forcing the body to generate muscle mass. Now available to Drehmari
+| **Lore** | Originally discovered by Red Dawn, this this helm inflicts massive damage to the brain while forcing the body to generate muscle mass. Now available to Drehmari
 for the first time.  |
-| **Cost**| 28 Scales |
+| **Cost** | 28 Scales |
 
 **Battlecruisers:**
 
@@ -1430,16 +1738,16 @@ for the first time.  |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Designed by a luxury Rhaveloth brand, this Tharxaxer smith has signed a franchising agreement allowing them to sell these Ultimate All-Terrain Carnage Crossers.   |
-| **Cost**| 28 Scales |
+| **Lore** | Designed by a luxury Rhaveloth brand, this Tharxaxer smith has signed a franchising agreement allowing them to sell these Ultimate All-Terrain Carnage Crossers.   |
+| **Cost** | 28 Scales |
 
 **Mason's Arson:**
 
 |                  |     |
 | ---------------- | -------- |
 | **Base Item**  | Diamond Sword |
-| **Base Damage** | 8  |
-| **Attack Speed**| 1.4 |
+| **Attack Damage** | 8  |
+| **Attack Speed** | 1.4 |
 | **Bonus Stats** | +2 Armor <br>+1 Armor Toughness <br>+2 Max Health |
 
 |          | Lore and Cost                                                                                                                                       |
@@ -1449,7 +1757,22 @@ from the dead to burn Tharxax City to the ground, leaving behind only the homes 
 | **Cost** | 33 Scales <br>64 Bricks |
 
 ## Outer Regions
-This section contains artisan items found in the [Outer Regions](/World/Drehmal/Regions/Outer_Regions/)—[[Sahd]] and the [[Island of Dusk|Islands of Dusk]] and [[Island of Dawn|Dawn]].
+This section contains artisan items found in the [Outer Regions](/World/Drehmal/Regions/Outer_Regions/)—[[Sahd]] and the [[Island of Dusk|Islands of Dusk]] and [[Island of Dawn|Dawn]]. The only artisan items in the Outer Regions are found on Sahd.
+
+### [[Morah]]
+The Runic Blacksmith in Morah is found at **(4502, 146, 5590)**.
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**      | Iron Boots        |
+| **Armor**          | 3                 |
+| **Armor Toughness** | 2                 |
+| **Bonus Stats**    | +12 Max Health <br>+15% Movement Speed <br>-95% Attack Damage |
+
+|          | Lore and Cost      |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | Roam far, see lots, worry not. |
+| **Cost** | 20 Scales   |
 
 ### [[New Sahd]]
 The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
@@ -1459,52 +1782,52 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 3                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +8% Attack Damage |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
-| **Cost**| Runic Amplifier <br>Diamond Helmet  |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifier <br>Diamond Helmet  |
 
 **Lazulite Chestplate:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 8                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +8% Attack Damage |
 
 |          | Lore and Cost                                                                                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
-| **Cost**| Runic Amplifier <br>Diamond Chestplate  |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifier <br>Diamond Chestplate  |
 
 **Lazulite Leggings:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 6                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +8% Attack Damage |
 
 |          | Lore and Cost        |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
-| **Cost**| Runic Amplifier <br>Diamond Leggings  |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifier <br>Diamond Leggings  |
 
 **Lazulite Boots:**
 
 |                     |                   |
 | ------------------- | ----------------- |
 | **Armor**          | 3                 |
-| **Armor Toughness**| 2                 |
+| **Armor Toughness** | 2                 |
 | **Bonus Stats**    | +8% Attack Damage |
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
-| **Cost**| Runic Amplifier <br>Diamond Boots   |
+| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Cost** | Runic Amplifier <br>Diamond Boots   |
 
 **Pathfinder's Vestments:**
 
@@ -1512,37 +1835,37 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 | --------------- | ------------------------------------------------------ |
 | **Base Item** | Diamond Chestplate  |
 | **Armor**      | 5                                                      |
-| **Bonus Stats**| -8 Max Health <br>+0.015 Movement Speed <br>+1 Attack Damage |
+| **Bonus Stats** | -8 Max Health <br>+0.015 Movement Speed <br>+1 Attack Damage |
 
 |          | Lore and Cost |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Tradition mandates that a Pilgrim of the Way must wear this ornate red and green silken robe. Despite the garment's awkwardness, concealed runes ensure that brigands seek other targets. |
-| **Cost**| 36 Scales   |
+| **Lore** | Tradition mandates that a Pilgrim of the Way must wear this ornate red and green silken robe. Despite the garment's awkwardness, concealed runes ensure that brigands seek other targets. |
+| **Cost** | 36 Scales   |
 
 **Guardian's Greataxe:**
 
 |                  |     |
 | ---------------- | --- |
 | **Base Item**  | Iron Axe |
-| **Base Damage** | 18  |
-| **Attack Speed**| 0.3 |
+| **Attack Damage** | 18  |
+| **Attack Speed** | 0.3 |
 
 |          | Lore and Cost                                                                                                                                       |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| With its iron head carved to look like a Vibrant Salmon, this design had an unflattering past but was repurposed by the pilgrims' sworn protectors. |
-| **Cost**| 17 Scales                                                                                                                                           |
+| **Lore** | With its iron head carved to look like a Vibrant Salmon, this design had an unflattering past but was repurposed by the pilgrims' sworn protectors. |
+| **Cost** | 17 Scales                                                                                                                                           |
 
 **Zedoh Tower Shield:**
 
 |                 |                               |
 | --------------- | ----------------------------- |
-| **Enchants**   | Fire Aspect III <br>Unbreaking X |
-| **Bonus Stats**| +2 Max Health                 |
+| **Enchantments**   | Fire Aspect III <br>Unbreaking X |
+| **Bonus Stats** | +2 Max Health                 |
 
 |          | Lore and Cost         |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
-| **Cost**| 30 Scales <br>16 Obsidian       |
+| **Lore** | Though philosophies of war are as numerous as fallen leaves in Sahd, one adage that continually resurfaces is "the best offense is a impenetrable defense". Shields carved to light enemies on fire debatably prove that saying true. |
+| **Cost** | 30 Scales <br>16 Obsidian       |
 
 ## Late-Game Areas
 
@@ -1586,8 +1909,8 @@ The Loeturia Runic Blacksmith is located in the southeast of the town, at **(-97
 
 |          | Lore and Cost         |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**| This enormous tower shield is outfitted with cozy fur and a rope on the grip side so that a warm passenger can slide down snowy slopes. A perfect gift!  |
-| **Cost**| 10 Amethyst Shards       |
+| **Lore** | This enormous tower shield is outfitted with cozy fur and a rope on the grip side so that a warm passenger can slide down snowy slopes. A perfect gift!  |
+| **Cost** | 10 Amethyst Shards       |
 
 ### [[Naharja]]
 The Naharja Runic Blacksmith is located in the southeastern portion of the city, at **(295, 101, -832)**.
@@ -1746,7 +2069,7 @@ The Runic Blacksmith in Ytaj is located in the southeastern portion of the regio
 |                  |     |
 | ---------------- | --- |
 | **Attack Damage** | 9   |
-| **Attack Speed**| 1.1 |
+| **Attack Speed** | 1.1 |
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
@@ -1759,7 +2082,7 @@ The Runic Blacksmith in Ytaj is located in the southeastern portion of the regio
 | ---------------- | -------- |
 | **Base Item**   | Diamond Sword |
 | **Attack Damage** | 7 |
-| **Attack Speed**| 2 |
+| **Attack Speed** | 2 |
 
 |          | Lore and Cost    |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

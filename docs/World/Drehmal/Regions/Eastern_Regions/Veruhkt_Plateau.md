@@ -43,7 +43,7 @@ The [[Altar of Insight]] was an ancient, stone ziggurat by the Tinaxi Pools that
 
 ### Battle Pizzazzle
 
-Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a challenge for adventurers by a wealthy man named Vihktor Ohna. The tower has a multitude of stories, each with small hazards that must be surpassed in order to reach the stairs to the next level. A prize is kept at the top. The business idea was ultimately unsuccessful, as few to none showed up to compete.
+Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a challenge for adventurers by a wealthy man named Vikhtor Ohna. The tower has a multitude of stories, each with small hazards that must be surpassed in order to reach the stairs to the next level. A prize is kept at the top. The business idea was ultimately unsuccessful, as few to none showed up to compete.
 
 **Coordinates:** (X: 4106, Y: 185, Z: -2208)
 

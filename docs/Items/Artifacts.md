@@ -1147,7 +1147,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | A battered crown from a forgotten king. |
-| **Obtain** | Dropped by the enemy that spawns atop [[Loraga Keep]]. Located at approximately **(-1725, 164, 3037)** |
+| **Obtain** | Dropped by the Infected King that spawns atop [[Loraga Keep]]. Located at approximately **(-1725, 164, 3037)** |
 
 ## Magnetic Acceleration Combat Crossbow
 
@@ -1845,6 +1845,18 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | --------------------------------------------------------------------- |
 | **Lore**   | "Everything that has transpired has done so according to my plan."    |
 | **Obtain** | Located in the roof of a building in [[Fort Nimahj]]. Chest located at **(-1721, 175, 1897)** |
+
+## Vikhtor's Spoils
+
+|          |                                     |
+| -------- | ----------------------------------- |
+| **Base Item** | Fishing Rod                           |
+| **Bonus Stats (Off-Hand)** | -8 Max Health <br>+0.03 Movement Speed |
+
+|            | **Lore and how to Obtain**    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lore**   | When Vikhtor Ohna used some of his vast wealth to refurbish an ancient Veruhktian tower into the world's first "Battle Pizzazzle", he expected a vast influx of adventurers and profit. Reality did not meet expectations. |
+| **Obtain** | Located at the top of [[Veruhkt Plateau#Battle Pizzazzle|Battle Pizzazzle Tower]] in the Veruhkt Plateau region. Chest located at **(4106, 253, -2256)**    |
 
 ## Visionary's Crossbow
 

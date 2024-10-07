@@ -84,7 +84,11 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-Fervor Stones are used to upgrade [Mythical Weapons](/Items/Mythical_Weapons/) at the Soletta, the fabled forge in [[Ytaj]] behind the Prismatic Council room. Stones can be placed on the bottom block by right-clicking, and a Mythical Weapon can be placed on the top level block by right-clicking as well. When both are in place, the button at the front of the forge can be pressed to upgrade the weapon.
+Fervor Stones are used to upgrade [Mythical Weapons](/Items/Mythical_Weapons/) at the Soletta, the fabled forge in [[Ytaj]] behind the Prismatic Council room. 
+
+![[soletta.png]]
+
+Stones can be placed on the bottom block by right-clicking, and a Mythical Weapon can be placed on the top level block by right-clicking as well. When both are in place, the button at the front of the forge can be pressed to upgrade the weapon.
 
 After the upgrade, one of the three empty brackets on the weapon's description will be filled in by the symbol of the respective stone: [α], [β], or [Δ]. 
 

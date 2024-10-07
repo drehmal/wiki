@@ -2015,6 +2015,35 @@ right.   |
 | **Lore** | Unstoppable. Unbreakable. Indomitable. The will of one's soul is the break against the inevitable.   |
 | **Cost** | 2 Celestial Alloy (Netherite Ingots) <br> 1 Soul Asteria (Nether Star)  |
 
+Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in an alleyway in Naharja, at **(286, 101, -830)**.
+
+**Olkahan Pickaxe:**
+
+|                     |                   |
+| ------------------- | ----------------- |
+| **Base Item**       | Netherite Pickaxe      |
+| **Attack Damage**   | 9                |
+| **Attack Speed**    | 1.2               |
+| **Bonus Stats**     | +0.02 Movement Speed    |
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | An extremely rare mineral said to be found on the colossal stalactites that hang from underneath Drehmal. How this blacksmith got their hands on the metal is forever unknown.    |
+| **Cost** | 24 Amethyst Shards  | 
+
+**Exultant Shortbow:**
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Bow |
+| **Bonus Stats (Off-Hand)** | -4 Max Health <br>+2 Attack Damage |
+
+
+|          | Lore and Cost                                             |
+| -------- | --------------------------------------------------------- |
+| **Lore** | Victory is best achieved with confidence. Victory is best kept with competence. |
+| **Cost** | 20 Amethyst Shards  |
+
 ### [[Noha's Domain]]
 At an isolated building in the northwestern portion of Noha's Domain, a singular Runic Blacksmith can be found, at **(847, 56, -427)**.
 

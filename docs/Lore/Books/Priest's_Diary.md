@@ -1,12 +1,10 @@
 ---
 tags:
   - Books
-  - Removed Books
 ---
-# (Removed) - Priest's Diary
-> Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not be taken as canon.
+# Priest's Diary
 
-This book can no longer be found on the map, but it was once in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
+This book is found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
 
 ## Coordinates (Obsolete)
 | **X** | **Y** | **Z** |

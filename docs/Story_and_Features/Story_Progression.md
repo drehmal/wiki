@@ -133,7 +133,7 @@ The mountain is referenced several times before this point as a pertinent locati
 
 If the player is able to navigate to the Mt. Yavhlix door with their charged Mythbreaker in hand (the weapon reverts to its inert state over the course of about 8 real minutes), then the Mystic Elder will relent, warning the player to avoid listening to the "whispers" within the mountain, and the weapon's Core Collapse ability can be used to open the door. The weapon disappears upon successful use.
 
-## Primary Energy Collection Facility 
+## Primary Energy Collection Facility { data-search-exclude }
 ![[primary_collection.png]]
 > The Primary Energy Collection Facility.
 
@@ -141,7 +141,7 @@ Inside the door is the main Avsohmic facility built within Mt. Yavhlix: the [[Pr
 
 Inside of the facility, the player is [[Mt._Yavhlix_Dialogue.md|spoken to]] by a mysterious voice egging them on to an unclear goal, repeatedly telling them that there is "NOTHING TO LOSE." The player progresses by finding and turning on three override switches, which open the way to the energy source at the top of the facility: a tear in space and time, exposing the realm of Drehmal to the [[Nothing]]—a primordial void filled with extreme quantities of primal energy and unknown beings. By gathering 12 "Oculi of Nothing" and using them to override the seal (open the end portal), the player is granted access through the tear, into the [[Nothing Island|Nothing]].
 
-## The Nothing 
+## The Nothing { data-search-exclude }
 ![[the_nothing.png]]
 > The Nothing.
 
@@ -159,7 +159,7 @@ This is not the end of the story.
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE)
+## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE) { data-search-exclude }
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 
 
 The voice instructs the player to return to the Terminus, where it takes control of avSYS. It dispenses the Silent Thing, a [[Trinkets|trinket]] which directs the player to the [[Sunken Astral Body]], east of [[Dusps]].
@@ -173,7 +173,7 @@ Eventually, the voice guides the player to the God Machine, a massive throne sur
 
 The player is then told to return to the Terminus.
 
-## Resonant Halls 
+## Resonant Halls { data-search-exclude }
 Back at the Terminus, the player is given another trinket, the Resonant Thing, which leads the player back to Mt. Yavhlix.
 
 Deep within the Primary Energy Collection Facility, another veilstone seal can be found. At this point, the voice will once again dispose of the seal, granting the player access to the deepest recesses of Mt. Yavhlix: The [[Resonant Halls]]. These halls, guarded by unkillable enemies and protected by a massive labyrinth the player must navigate, contain one of Avsohm's greatest pieces of technology: the Resonant Eye.
@@ -187,17 +187,17 @@ With this revelation, the player is transported back outside the Halls, and inst
 
 !!! danger "Alright, seriously. From this point on, you should ABSOLUTELY not read on unless you have finished the map yourself."
 
-## Return to Stasis Facility 
+## Return to Stasis Facility { data-search-exclude }
 At the Terminus, a final trinket is dispensed: The Rhythmic Thing. This item directs the player back to where they arose: the Stasis Facility.
 
 At this point, the voice reveals their true identity: [[yellow|the Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including that of Drehmal, with far more power than any of the Aspects or [Deities](/Lore/Higher_Beings/Deities/). The Mythoclast gives the player a new rendition of the Mythbreaker (known in the community as the "True" Mythbreaker), and invites the player to their court, where the player is told that guests are expecting them.
 
 The player is warned before entering that this is their final journey, as time flows differently where they're headed.
 
-## Court of Nothing
+## Court of Nothing { data-search-exclude }
 Upon stepping through the portal in the Stasis Facility, the player is transported to the Court of Nothing, the Mythoclast's court in which they judge all souls. Within the Court, the player fights the [[UH|reanimated forms]] of [[Ultva|Ultva Utofal]] and [[Hovadchear|Hovadchear Myrik]], the first two leaders of the [[Insohm|Order of Insohm]], the most successful attempt to rebuild after Avsohm's fall. When the player defeats these two, another portal is opened, this time leading to the Maddened Path.
 
-## Maddened Path
+## Maddened Path { data-search-exclude }
 ![[maddened_path.png]]
 > The Maddened Path.
 
@@ -209,7 +209,7 @@ The final fight, in an arena at the end of the path, is against the [[Emissary o
 
 After defeating the Emissary, one final portal is opened.
 
-## True End 
+## True End { data-search-exclude }
 As the player steps through this portal, they are returned back to the Stasis Facility, and the [[True End]] sequence plays out. The player finds that the Mythoclast's warning about time was, in fact, not an empty one, as Drehmal is not at all how they remember it.
 
 In the end, the player is offered closure, transporting them to the end credits room and marking the end of the story.

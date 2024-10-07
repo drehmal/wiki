@@ -64,7 +64,7 @@ The area which the player can actually explore is restrained to the [[Capital Va
 If the player refuses closure, then they can trigger this dialogue option again by stepping into the yellow pillar of light near the skeleton. Alternatively, using the command `/trigger finality` will select the "Yes" option and transport the player to the end credits room.
 
 ## Lore
-The True End is foreshadowed by the [[The Facets#Facet III|third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the meaning of the so-called "Facets". Some signs point indicate that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and the Mythoclast. However, these ties are not concrete, as there is so little information on the Aspect.
+The True End is foreshadowed by the [[The Facets#Facet III|third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the meaning of the so-called "Facets". Some signs indicate that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and the Mythoclast. However, these ties are not concrete, as there is so little information on the Aspect.
 
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
 

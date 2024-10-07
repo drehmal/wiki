@@ -96,7 +96,7 @@ This section contains the 39 advancements found in the "Fabled Equipment" tab (1
     | The Frostfang               | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked.                  | Find [[The Frostfang]]                   |
     | Peace Treaty                | Recipe for Peace Treaty, the symbol of undying alliances, unlocked.                         | Find [[Peace Treaty]]                    |
     | Orchidaceae                 | Recipe for the Orchidaceae, a treasure hunter's favorite, unlocked.                         | Find [[Orchidaceae]]                     |
-    | Emperor Anyr's Scepter      | Recipe for the Emperor Anyr's Sceptor, the tool of the last emperor of Avsohm, unlocked.    | Find [[Emperor Anyr's Scepter]]          |
+    | Emperor Anyr's Scepter      | Recipe for Emperor Anyr's Scepter, the tool of the last emperor of Avsohm, unlocked.        | Find [[Emperor Anyr's Scepter]]          |
     | The Heartaxe                | Recipe for the Heartaxe, weapon of fables, unlocked.                                        | Find [[The Heartaxe]]                    |
     | Crystal Digging Claws       | Recipe for the Crystal Digging Claw, tool of pride, unlocked.                               | Find [[Crystal Digging Claws]]           |
     | Flammer                     | Recipe for the Flammer, the explosive mining tool, unlocked.                                | Find [[Flammer]]                         |
@@ -177,7 +177,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Shatterhorn Gulch | It is unclear when the prison at Shatterhorn Gulch was first built, but it has operated since before the apex of the Insohmic Coalition and is thought to be the most secure detention facility in the realm. - Discovered Shatterhorn Gulch | Discover [[Shatterhorn Gulch]]. |
     | Disappearing Act | The Order of Insohm had their headquarters here, now it’s just a crater. What could have done this? - Discovered the Castle Hovadchear Crater | Discover the crater that once held [[Castle Hovadchear]]. |
     | I.C.S. Arbiter | Insohm’s influence once spanned the entire continent, now they are confined to one city and this measly vessel. Oh, how the great have fallen. - Discovered the I.C.S. Arbiter | Board the [[ICS Arbiter]]. |
-    | Upper-Upper Class | A historic palace-fortress, it is the traditional nexus of Akhlo’Rohman political and alchemical power. What strange and sinister events may be occurring behind its multicolored walls? - Discovered Ancehl Castle | Enter [[Ancehl Castle]]. |
+    | Upper-Upper Class | A historic palace-fortress, it is the traditional nexus of Akhlo'Rohman political and alchemical power. What strange and sinister events may be occurring behind its multicolored walls? - Discovered Ancehl Castle | Enter [[Ancehl Castle]]. |
     | Secret Sanctum | A civilization lost to the ravages of time and conquest still retained one secret, until now - Discovered the true Altar of Insight | Discover the [[Altar of Insight]]. |
     | Monastery of Virtuo | A devout order of Drehmari founded this austere monastery long ago to follow the teachings of Virtuo. What secrets lie within its lofty towers and crystal caverns? - Discovered Teiruun | Discover [[Teiruun Monastery]]. |
     | The Insohmic Library | After the disappearance of Castle Hovadchear, this was the Order of Insohm's headquarters. - Discovered the Old Library Tower | Discover the [[Insohmic Library]]. |
@@ -199,7 +199,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Deja Vu | An ancient tabernacle of the crestfallen Aspect of Magic hums to life as you approach. Have you been in this place before? - Discovered a nameless ziggurat, sacred place of Khive | Approach the [[Nameless Ziggurat]] at [[Ihted]]. |
     | Flower Power | Follow your bliss, and it will lead you here. - Discovered the Temple of the Bloom and Bough, sacred place of Vayniklah | Enter the Temple of the Bloom and Bough in [[Marahza]]. |
     | Death's Embrace | While the Casain primarily follow Virtuo, many retain the traditional practice of Voynahla worship in the hope of favorable reincarnation. - Discovered the Perishing Well, sacred place of Voynahla | Enter the [[Perishing Well]]. |
-    | Ash Heap | The devout say that one sacred flame from the realm's very creation was maintained in Merijjool even through the Felling. Civil war has a way of putting an end to local traditions. - Discovered the Shrine of the Eternal Flame, sacred place of Lai | Enter the [[Shrine of the Eternal Flame]]. |
+    | Ash Heap | The devout say that one sacred flame from the realm's very creation was maintained in Merijool even through the Felling. Civil war has a way of putting an end to local traditions. - Discovered the Shrine of the Eternal Flame, sacred place of Lai | Enter the [[Shrine of the Eternal Flame]]. |
     | Finders Keepers | Mighty pillars stand out against the cold gray sky. - Discovered the Duke's Royal Pala...ahem... Crystalline Colonnade, sacred place of Loe | Enter the [[Crystalline Colonnade]] in [[Schlonko]]. |
 
 ??? warning "**Discoveries:** *Civilization* (Moderate Exploration Spoilers) - *The age of grand empires and kingdoms within Drehmal has long passed. Now only few towns and cities remain.*"

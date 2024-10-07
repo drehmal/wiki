@@ -1,7 +1,5 @@
 # Items
 
-!!! warning "The Items section is still under construction. The majority of this section's contents have been carried over from 2.1, with some information becoming obsolete and some new information missing. We are actively working to update this section, so stay tuned!"
-
 Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books](/Lore/Books/), item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
 ## [[Relics]]
@@ -78,7 +76,7 @@ Besides the items belonging to the groups listed above, there are some other uni
 - God's Brew - **_Unfathomably good beetroot soup._** trade 64 netherite blocks and 64 diamond blocks to the Beetroot Merchant in [[Fort Nimahj]] \- easter egg, does not do anything
 - Cat Toy - Fishing rod with Unbreaking X - found in Keehko's grave in [[Dusps]]. Its description reads, "I wish I were me."
 - Baby Meat - **\*Are you really going to eat that?**.\* A Raw Mutton found after killing a naturally-spawned Meat Baby in The [[Birthing Grounds]]
-- Honey Roasted Potato - **\*An exquisite taste, unmatched by anything else... besides a normal baked potato, of course**.\* A baked potato that can be obtained from the Potato Connoisseur in [[Dusps]] in exchange for 4 scales.
+- Honey Roasted Potato - **\*An exquisite taste, unmatched by anything else... besides a normal baked potato, of course**.\* A baked potato that can be obtained from the Potato Connoisseur in [[Dusps]] in exchange for 2 scales.
 - Half-and-Half Milk - **\*It'll give you some strong bones**.\* A potion that grants Speed V for 15 seconds. Dropped after killing Jack Beanin'
 - Ther Erldern Rirng - A ring that has no use, found on a stone structure in the shape of an anvil, between the [[Grand Pike Canyon]] and [[Highfall Tundra]] regions. The Description reads:
 
@@ -103,4 +101,4 @@ A Fervor Stone is one of three items, each with their own sprite, description, a
 
 ## [[Trinkets]]
 
-Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They typically have their own custom sprite.
+Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They each have their own custom sprite.

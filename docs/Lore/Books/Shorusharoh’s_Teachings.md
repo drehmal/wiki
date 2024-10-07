@@ -3,14 +3,14 @@ tags:
   - Books
 ---
 
+Also known as The Parable of the Orchard, as denoted by a sign above the book.
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, a tired Drehmal comes across a scribe's apprentice who has been tasked with counting all the healthy trees in a massive orchard, and teaches them to approach their tasks with patience, as a job well done over a long time is the most rewarding. On this note, the serpent informs this Drehmari that they are content with their own work reshaping the realm for the time being, and are going to rest, before slithering away to the [[Primal Caverns]] to begin their indefinite slumber, making this likely the final recorded sighting of Drehmal.
+
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 |  -86  |  164  | 2811  |
-
-Also known as The Parable of the Orchard, as denoted by a sign above the book.
-
-This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, a tired Drehmal comes across a scribe's apprentice who has been tasked with counting all the healthy trees in a massive orchard, and teaches them to approach their tasks with patience, as a job well done over a long time is the most rewarding. On this note, the serpent informs this Drehmari that they are content with their own work reshaping the realm for the time being, and are going to rest, before slithering away to the [[Primal Caverns]] to begin their indefinite slumber, making this likely the final recorded sighting of Drehmal.
 
 > I was a young scribe's apprentice in those days, traveling far away from my homeland of Palisahd, in the land called Dreh'Noha. My master, Palei, had been called for because of our people's reputation for wisdom and our ability to keep accurate records. While my master was away meeting with the local lord, I was tasked with beginning to count the total number of healthy trees in his orchard. While I began working with vigor, I soon lost motivation when I crested a small hill only to see trees stretching nearly to the horizon. Resolving to simply estimate the number of trees by doing some measurements and approximation, I decided to lay down in the shade for a nap.
 >

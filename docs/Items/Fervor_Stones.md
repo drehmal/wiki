@@ -2,7 +2,7 @@
 
 --8<-- "spoiler.md"
 
-!!! warning "This page contains spoilers on a late-game mechanic within Drehmal, relating to [Mythical Weapons](/Items/Mythical_Weapons/)."
+!!! warning "This page contains spoilers on a late-game mechanic within Drehmal, which cannot be fully utilized until after the 75% mark."
 
 **Fervor Stones** are unique items found throughout Drehmal, which come in one of three variants: a **Stone of Agony**, **Stone of Luxury**, or **Stone of Worry**. There are a total of 24 of these to be found throughout the map, with 21 being accessible in the main open world of [[Overworld|Drehmal]], and the other three being locked behind a late-game progression point.
 
@@ -61,7 +61,7 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
 >
 > [β]
 
-??? danger "Stone of Luxury Locations"
+??? danger "Stone of Worry Locations"
     |  **Region**  |                 **Location/How to Obtain**                     | **Coordinates** |
     |:------------:|:---------------------------------------------------------------|:---------------:|
     | [[Anyr'Nogur]] | Atop a blackstone tower in the archipelago in southwest Anyr'Nogur. | **(-3954, 215, 3561)** |

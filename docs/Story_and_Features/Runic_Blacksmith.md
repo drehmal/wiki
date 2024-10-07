@@ -48,12 +48,12 @@ Armor Trims can be obtained in Drehmal through trading with certain Runic Blacks
     | ![[vex_armor_trim_smithing_template.png]]{ width="32" } | Vex Armor Trim | [[Artisan Items#Gozak|Gozak Runic Blacksmith]] | 16 Spruce Wood | 
     | ![[ward_armor_trim_smithing_template.png]]{ width="32" } | Ward Armor Trim | [[Artisan Items#Okeke|Okeke Runic Blacksmith]] | 16 Pufferfish | 
     | ![[wayfinder_armor_trim_smithing_template.png]]{ width="32" } | Wayfinder Armor Trim | [[Artisan Items#Fort Nimahj|Fort Nimahj Runic Blacksmith]] | 16 Blocks of Coal | 
-    | ![[wild_armor_trim_smithing_template.png]]{ width="32" } Wild Armor Trim | [[Artisan Items#Tharxax City|Tharxax City Runic Blacksmith]] | 16 Blocks of Redstone |
+    | ![[wild_armor_trim_smithing_template.png]]{ width="32" } | Wild Armor Trim | [[Artisan Items#Tharxax City|Tharxax City Runic Blacksmith]] | 16 Blocks of Redstone |
     ??? danger "Post-75% Armor Trim Locations"
-    | **Image** | **Name** | **Location** | **Cost** |
-    |:---------:|:-----------------:|:---------------|:------------:| 
-    | ![[netherite_upgrade_smithing_template.png]]{ width="32" } | Netherite Upgrade Template | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards <br>4 [[Runic Catalyst|Runic Catalysts]] |
-    | ![[spire_armor_trim_smithing_template.png]]{ width="32" } | Spire Armor Trim | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards | 
+        | **Image** | **Name** | **Location** | **Cost** |
+        |:---------:|:-----------------:|:---------------|:------------:| 
+        | ![[netherite_upgrade_smithing_template.png]]{ width="32" } | Netherite Upgrade Template | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards <br>4 [[Runic Catalyst|Runic Catalysts]] |
+        | ![[spire_armor_trim_smithing_template.png]]{ width="32" } | Spire Armor Trim | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards | 
 
 
 

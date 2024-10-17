@@ -96,9 +96,9 @@ The effect of the upgrade is determined by the kind of stone used.
 
 Stones of Agony reduce the mythical weapon's cooldown time by 25% permanently.
 
-Stones of Luxury add a permanent +4 Max Health (+2 Hearts) buff to the mythical weapon when held, adding to existing bonuses.
+Stones of Luxury add a permanent +4 Max Health (+2 Hearts) buff to the mythical weapon when held, adding to any existing max health penalty or bonus. For example, a weapon with a -6 Max Health penalty at baseline will have a penalty of only -2 Max Health after this stone is applied, and a weapon with no bonus at baseline will grant +4 Max Health after upgraded.
 
-Stones of Worry add a permanent +0.01 Movement Speed to the mythical weapon when held, adding to any existing movement speed penalty or bonus. For example, a weapon with a -0.02 Movement Speed penalty at baseline will have a penalty of only -0.01 Movement Speed after this stone is applied.
+Stones of Worry add a permanent +0.01 Movement Speed to the mythical weapon when held, adding to existing bonuses or penalties in the same manner as Stones of Luxury.
 
 The final three Fervor Stones are found on [[Lo'Dahr]].
 

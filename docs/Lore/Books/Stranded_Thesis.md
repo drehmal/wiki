@@ -22,3 +22,6 @@ This book can be found on a lectern in [[Castle Greyspire]].
 > The second would simply indulge in the island’s resources to depletion, finding happiness before expiring on their own terms.
 >
 > And the third, and most foolish, would build a raft with all the resources aboard in vain hope of finding more happiness elsewhere before being dashed to pieces against the waves.
+
+## Extras
+This book seems to very closely parallel some of the [[End-Game_Dialogue.md|end-game dialogue]] given by a [[yellow|mysterious, powerful figure]].

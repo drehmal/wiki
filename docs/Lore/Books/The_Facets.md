@@ -16,13 +16,11 @@ tags:
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through the [[Syzygy]] questline. The first six facets are all awarded after completing one of the six trials on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
+The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through a questline tied to a [[Syzygy|powerful weapon]]. The first six facets are all awarded after completing one of the [six trials](/World/Post-75_Area/Points_of_Interest/Trials/) on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
 
 The facets are written as verses of scripture, containing apocalyptic prophecies foreseen by [[Rihelma]].
 
-The exact meaning behind these books is not 100% confirmed, but the widely accepted interpretation within the community is that each individual Facet describes what would happen if one of the characters in the Drehmal universe were to complete [[The Ambition]], effectively becoming the ultimate ruler of all existence.
-
-Under this interpretation, each respective text portrays what may ultimately happen to the realm of Drehmal under their new ruler.
+The exact meaning behind these books is not well-known, but it is heavily believed that each of them represents some kind of future pertaining to an extremely important character in the lore of Drehmal. These may be tied to the [[Ambition]], an act that can be invoked in order to become nearly or truly omnipotent, and what each character would do if given this sort of power.
 
 ***
 
@@ -36,7 +34,7 @@ Under this interpretation, each respective text portrays what may ultimately hap
 ### Location/Summary
 This book can be found in a chest at the [[Mystic Gallery]], upon completion of [[Khive]]'s trial at that location.
 
-It is believed to be a description of a hypothetical world in which [[Aok]], the First Necromancer, completes the Ambition. In this timeline, Aok gains supreme power over the [Aspects](/Lore/Higher_Beings/Aspects/), with particular focus on his killing of Khive, the Aspect of Magic whom Aok is implied to have betrayed. Aok calls upon an army of the dead to wage his war against the Aspects, and ultimately wins, causing all to collapse into one.
+It is believed to be a description of a hypothetical world in which [[Aok]], the First Necromancer, completes the [[Ambition]]. In this timeline, Aok gains supreme power over the [Aspects](/Lore/Higher_Beings/Aspects/), with particular focus on his killing of Khive, the Aspect of Magic whom Aok is implied to have betrayed. Aok calls upon an army of the dead to wage his war against the Aspects, and ultimately wins, causing all to collapse into one.
 
 ### Transcription
 > 1:1 - His maw is wide, his teeth are many. Of the wicked, he is the most profaned.
@@ -64,7 +62,7 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 ### Location/Summary
 This book can be found in a chest in the [[Star-Rise Orrery]], upon completion of [[Rihelma]]'s trial at that location.
 
-It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the [[Fall of Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge.
+It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the [[Fall of Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge. This is likely tied to a [[yellow|particular end-game figure]].
 
 ### Transcription
 > 2:1 - The sky will blacken and shadows will grow longer than ever before. Tendrils of dark will seep into every corner of the world, grasping at forbidden knowledge.
@@ -92,7 +90,7 @@ It is not clear exactly whose possible future this text refers to, and in fact, 
 ### Location/Summary
 This book can be found in a chest in the [[Hypogean Labyrinth]], upon completion of [[Nahyn]]'s trial at that location.
 
-Due to the repeated references to silence in this facet, it has been posited that this is the timeline in which the nearly unmentioned [[Verrhys]], Aspect of Silence, completes the Ambition and brings the realm to a state of total silence and peace. This can be supported by the fact that [[Lahrs]], an aspect often referred to as the counterpart to Verrhys, is the presumptive subject of Facet VI.
+Due to the repeated references to silence in this facet, it has been posited that this is the timeline in which the nearly unmentioned [[Verrhys]], Aspect of Silence, brings the realm to a state of total silence and peace. This can be supported by the fact that [[Lahrs]], an aspect often referred to as the counterpart to Verrhys, is the presumptive subject of Facet VI.
 
 ### Transcription
 > 3:1 - Silence will creep into every corner of the realm. It will be a quiet and peaceful passing.
@@ -120,7 +118,7 @@ Due to the repeated references to silence in this facet, it has been posited tha
 ### Location/Summary
 This book can be found in a chest in [[Abyssal Rise]], upon completion of [[Dahr]]'s trial at that location.
 
-It is believed to be a description of a hypothetical world in which [[Maelihs]] completes the Ambition, conquering the realm and bathing it in fire before he, too, is consumed by sorrow and flame, and nothing but ash remains.
+It is clearly tied to [[Maelihs]], potentially representing a future where he conquers the realm and bathes it in fire. He, too, is ultimately consumed by sorrow and flame, and nothing but ash remains.
 
 ### Transcription
 > 4:1 - He shall ride at the helm of a maelstrom host as the warhorn sounds in the plains. Outriders will clash with weakened militias, and their corpses will be consumed.
@@ -148,7 +146,7 @@ It is believed to be a description of a hypothetical world in which [[Maelihs]] 
 ### Location/Summary
 This book can be found in a chest in the [[Brightwyrm's Caldarium]], upon completion of [[Lai]]'s trial at that location.
 
-Its text appears to represent the timeline in which [[Virtuo]] achieves the Ambition, and molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[The Nothing]] at large, furthering the ties between Virtuo, [[Eastern Xivrhynt]], and the Nothing.
+Its text appears to represent the timeline in which [[Virtuo]] molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[Nothing|The Nothing]] at large, furthering the ties between Virtuo, [[Eastern Xivrhynt]], and the Nothing.
 
 ### Transcription
 > 5:1 - She will walk the copse, and the ancient trees shall stand at attention.
@@ -176,7 +174,7 @@ Its text appears to represent the timeline in which [[Virtuo]] achieves the Ambi
 ### Location/Summary
 This book can be found in a chest at the [[Temple of Life]], upon completion of [[Vayniklah]]'s trial at that location.
 
-It is believed that this book represents a reality in which [[Lahrs]], Aspect of Resonance, completes the Ambition. Lahrs, a very mysterious Aspect that is seldom mentioned but seems to be integral to the fundamental concept of balance within the world of Drehmal, has one of the more positive spins on the realm's end. In this timeline, a cyclical form of balance is thoroughly restored to the realm, with eternal life being granted to all and with all conflict seemingly ending due to the total elimination of "the malevolent."
+It is believed that this book represents a reality tied closely to [[Lahrs]], Aspect of Resonance. Lahrs, a very mysterious Aspect that is seldom mentioned but seems to be integral to the fundamental concept of balance within the world of Drehmal, has one of the more positive spins on the realm's end. In this timeline, a cyclical form of balance is thoroughly restored to the realm, with eternal life being granted to all and with all conflict seemingly ending due to the total elimination of "the malevolent."
 
 ### Transcription
 > 6:1 - From the soil shall sprout new life, and Meadows will walk once more.
@@ -195,7 +193,7 @@ It is believed that this book represents a reality in which [[Lahrs]], Aspect of
 
 ## Facet VII
 
-This book can be found in a chest at [[Yriel's Tomb]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
+This book can be found in a chest at [[Yriel's Sanctuary]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
 
 ### Coordinates
 | **X** | **Y** | **Z** |
@@ -203,7 +201,7 @@ This book can be found in a chest at [[Yriel's Tomb]], far to the southeast of t
 | 1923  |  25   | 1865  |
 
 ### Location/Summary
-The final facet seems to be Rihelma's prophecy for what would happen to the world if the player were to succeed in the Ambition. In this timeline, "children of quartz and glass" awaken, likely referring to the resurrection of Avsohm (figuratively and/or literally through the resurrection of important figures and rebuilding of its ruins). They proceed to take "the treasures of the tomb," likely referring to the [[Mythbreaker]], successfully using it to tear through and peer beyond the Veil. This ends on a positive note: "millions of flowers will bloom like golden sand on a placid seashore" may refer to the fulfillment of [[Anyr]]'s goal of conquering and ruling over all of existence as a god-emperor, or it may be something else.
+The final facet seems to be Rihelma's prophecy tied to the player's ultimate goal. In this timeline, "children of quartz and glass" awaken, likely referring to the resurrection of [[Avsohm]] (figuratively and/or literally through the resurrection of important figures and rebuilding of its ruins). They proceed to take "the treasures of the tomb," likely referring to the [[Mythbreaker]], successfully using it to tear through and peer beyond the Veil. This ends on a positive note: "millions of flowers will bloom like golden sand on a placid seashore" may refer to the fulfillment of [[Anyr]]'s goal of conquering and ruling over all of existence as a god-emperor, although this Facet in particular is very mysterious.
 
 ### Transcription
 > 7:1 - Children of quartz and glass shall awaken, removing the cord that attaches them to the corpse of their hideous mother.
@@ -217,4 +215,3 @@ The final facet seems to be Rihelma's prophecy for what would happen to the worl
 > 7:5 - Given the treasures of the tomb, they will take aim and fire. A bolt of devastation echoes in birdsong.
 >
 > 7:6 - A family reunited, and around them millions of flowers will bloom like golden sand on a placid seashore.
-

@@ -69,5 +69,5 @@ The following list contains all known locations where AvPOD is unusable. Keep in
         - Inside the [[Numencore]]
         - During the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker Run]]
     ??? danger "End-Game Locations"
-        - [[The Nothing]] (Available if area boss defeated)
+        - [[Nothing Island|The Nothing]] (Available if area boss defeated)
         - [[True End]] dimension (includes the [[Maddened Path]])

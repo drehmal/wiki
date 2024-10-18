@@ -48,4 +48,4 @@ When the puzzle is successfully solved, the player will be given the following m
 
 > Rihelma congratulates your sharp eye.
 
-The door at the southern end of the Orrery will then open, revealing a chest that contains the [[Artifacts#As Foretold|"As Foretold"]] artifact and [[The Facets#Facet II|Facet II]]. 
+The door at the southern end of the Orrery will then open, revealing a chest that contains the [[Artifacts#As Foretold|As Foretold]] artifact and [[The Facets#Facet II|Facet II]]. 

@@ -14,16 +14,11 @@ The **Avsohmic Vault** is an Avsohmic library sealed behind a vault, located on 
 
 | Approximate Coordinates | Advancement                                                                                  |
 | ----------------------- | -------------------------------------------------------------------------------------------- |
-| -3618 81 -1200          | Arriving at the Avsohmic Vault grants the [advancement](/Advancements) "Vault of Knowledge". |
+| -3618 81 -1200          | Arriving at the Avsohmic Vault grants the [advancement](/Story_and_Features/Advancements/) "Vault of Knowledge". |
 
 ## Loot
 
-|   **Coordinates**    | **Loot**                                                  |
-| :------------------: | --------------------------------------------------------- |
-| **-3689, 78, -1192** | 1x Book and Quill ([[Av2 1724 - Creation of the Vaults]]) |
-| **-3696, 76, -1199** | 1x [[Legendary Weapons#Ultva’s Bowblade]]                 |
-
-A chest at **-3696, 76, -1199** contains the legendary item [[Legendary Weapons#Ultva’s Bowblade]].
+A chest at **-3696, 76, -1199** contains the legendary item [[Ultva’s Bowblade]].
 
 ![[AvsohmicVault2.webp]]{ align=right width="300" }
 

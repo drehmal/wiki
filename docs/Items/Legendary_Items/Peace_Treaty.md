@@ -12,9 +12,9 @@
 
 **Peace Treaty** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
-A spear left from the days of [[Insohm]]'s height, Peace Treaty is a legendary weapon found near the old Insohmic capital of [[Mossfield]]. It is most notable for its defensive playstyle, including the highest level Knockback enchantment in Drehmal.
+A spear left from the days of [[Insohm]]'s height, Peace Treaty is a legendary weapon found near the old Insohmic capital of [[Mossfield]]. It is most notable for its defensive playstyle, including the second-highest level Knockback enchantment in Drehmal, second only to the [[Artisan Items#Fort Nimahj|Surgedigger Artisan]], and highest among legendary and mythical weapons.
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br>
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,11 +29,11 @@ Peace Treaty is an NBT-modified iron sword, and has the durability of a vanilla 
 
 The weapon is very average at first glance, but does have some specific use cases, and can be a strong piece of an early-game build or challenge build. It encourages a somewhat defensive playstyle, with its incredibly high Knockback enchantment enabling players to keep almost all enemies at bay. 
 
-![[peace_treaty_di_fp.gif]]{ width="600" }
+![[peace_treaty_kb_fp.gif]]{ width="600" }
 
 In addition, its special ability activates when damage is taken from an enemy, and grants the player Diplomatic Immunity for approximately 6 seconds. This effect is indicated by blue particles, and constitutes a 15% increase in movement speed and +1 armor for the duration of the effect. This ability can re-activate if damage is taken again after it runs out, with no cooldown.
 
-![[peace_treaty_kb_fp.gif]]{ width="600" }
+![[peace_treaty_di_fp.gif]]{ width="600" }
 
 Peace Treaty's Knockback V enchantment can also be used in less orthodox manners. For example, in a multiplayer Drehmal world, a player with Peace Treaty can boost another player through the air at very high speeds.
 

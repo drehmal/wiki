@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-Found in one of the quadrants of a large chamber in [[Azimuth Labs]], this holotext describes Avsohm's ambitions to surpass and subjugate the [[Aspects]].
+Found in one of the quadrants of a large chamber in [[Azimuth Labs]], this holotext describes Avsohm's ambitions to surpass and subjugate the [Aspects](/Lore/Higher_Beings/Aspects/).
 
 ## Coordinates
 | **X** | **Y** | **Z** |

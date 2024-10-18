@@ -88,7 +88,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > *A voice seeps in from the reality around you.*
 >
-> > [???] Of course, I wouldn’t make it that simple. Your tapestry of knowledge is a beautiful, miraculous thing. It is so vibrant and diverse.
+> [???] Of course, I wouldn’t make it that simple. Your tapestry of knowledge is a beautiful, miraculous thing. It is so vibrant and diverse.
 >
 > [???] Alas, it still lacks some of the most colorful, extravagant threads. Such priceless things must be earned.
 >
@@ -102,7 +102,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > *A presence creeps up your spine.*
 >
-> > [???] Avsohm’s discovery and exploitation of Veilstone was a miraculous thing. What an ingenious use of such fundamental matter.
+> [???] Avsohm’s discovery and exploitation of Veilstone was a miraculous thing. What an ingenious use of such fundamental matter.
 > 
 > [???] Alas…
 >
@@ -183,6 +183,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 > \*Dialogue pauses until the player reaches the entrance to the Resonant Halls.*
 >
 > *Though it seems incredibly distant, a voice is impossible to ignore.*
+>
 > [???] So… you have arrived at the heart of Avsohm’s ambitions. Within this place lies the penultimate threads.
 >
 > \*The veilstone seal explodes.*
@@ -366,7 +367,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > [The Mythoclast] I wish you the best of luck.
 >
-> \*Dialogue pauses. Player proceeds to the final arena, and dialogue resumes upon victory over the Emissary.
+> \*Dialogue pauses. Player proceeds to the final arena, and dialogue resumes upon victory over the Emissary.*
 >
 > [The Mythoclast] Incredible. You gave him the final sendoff he wished for. His subjugation is over.
 >
@@ -386,7 +387,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > \*A portal opens in the center of the arena.*
 
-## True End
+## [[True End]]
 The Mythoclast does not resume speaking until after the [[endcredits_transcription.md|end credits]] have played at the True End.
 
 > [The Mythoclast] In their final moments, Drehmal sat here amongst the entropic dunes, gazing at the stars as their realm drifted through space to its last destination.

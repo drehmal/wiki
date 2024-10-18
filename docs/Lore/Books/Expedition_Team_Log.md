@@ -32,9 +32,8 @@ This book can be found in an item frame at the Avsohmic Launch Site along the we
 > Report #5
 >
 > I am writing this final report with regret. Only 4 of the 15 original expedition team survived the encounter. Inverse black orbs from across the split hills came straight for us, consuming all that they touched. We’re lucky that we were able to make it to the shore and our ship alive. Luckily, we have more than enough supplies for the trip back, but morale is low.
-
-Note from commander -
-The eastern expedition has been cancelled and we are relocating to a new site in the west. The new launch zone will be prepared and ready whenever Anyr orders it.
-
-Unfortunately, he’s invested in other projects right now.
+>
+> Note from commander - The eastern expedition has been cancelled and we are relocating to a new site in the west. The new launch zone will be prepared and ready whenever Anyr orders it.
+>
+> Unfortunately, he’s invested in other projects right now.
 

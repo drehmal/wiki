@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in the [[Nimahj Alchemy Fortress]]. It provides some insight as to what the Great Work, the ultimate goal of all alchemists, is. It also states that the Great Work has been completed twice, by the [[Aok|First Necromancer]] and the "Lord of Dust."
+This book can be found on a lectern in the [[Nimahj Alchemy Fortress]]. It provides some insight as to what the Great Work, the ultimate goal of all alchemists, is. It also states that the Great Work has been completed twice, by the [[Aok|First Necromancer]] and the "[[Akim|Lord of Dust]]."
 
 ## Coordinates
 | **X** | **Y** | **Z** |

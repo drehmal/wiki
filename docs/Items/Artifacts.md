@@ -38,7 +38,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                           |
 | ----------- | ------------------------- |
 | **Base Item**   | Shield |
-| **Enchantments**    | Unbreaking 3              |
+| **Enchantments**    | Unbreaking III              |
 | **Bonus Stats** | +75% Knockback Resistance |
 
 |            | **Lore and how to Obtain**                                                                                                                                             |
@@ -52,7 +52,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | --------------------------- |
 | **Base Item** | Leather Helmet |
 | **Armor**    | 1                           |
-| **Enchantments** | Respiration 9, Unbreaking 5 |
+| **Enchantments** | Respiration IX <br>Unbreaking V |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**   | Golden Sword                           |
 | **Attack Damage**| 6            |
 | **Attack Speed**  | 1.4          |
-| **Enchantments**    | Looting 1, Unbreaking 8                           |
+| **Enchantments**    | Looting I <br>Unbreaking VIII                           |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                        |
 | ----------- | -------------------------------------- |
 | **Base Item**   | Shield |
-| **Enchantments**    | Unbreaking 2                           |
+| **Enchantments**    | Unbreaking II                           |
 | **Bonus Stats** | -0.02 Movement Speed, +2 Attack Damage |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                      |
@@ -92,7 +92,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | ------------ |
 | **Base Item** | Golden Helmet |
 | **Armor**    | 3            |
-| **Enchantments** | Unbreaking 7 |
+| **Enchantments** | Unbreaking VII |
 
 |            | **Lore and how to Obtain**                                                                                                          |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,7 +106,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Leather Chestplate |
 | **Armor**           | 5            |
 | **Armor Toughness**| 1            |
-| **Enchantments**        | Unbreaking 3 |
+| **Enchantments**        | Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,7 +120,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Pickaxe |
 | **Attack Damage**| 4            |
 | **Attack Speed**  | 1.2          |
-| **Enchantments**      | Efficiency 7 |
+| **Enchantments**      | Efficiency VII |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -160,7 +160,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                     |
 | ----------- | ----------------------------------- |
 | **Base Item**   | Shield  |
-| **Enchantments**    | Unbreaking 3                        |
+| **Enchantments**    | Unbreaking III                        |
 | **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                    |
@@ -201,7 +201,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                                                                              |
 | -------- | ---------------------------------------------------------------------------- |
 | **Base Item** | Leather Leggings |
-| **Enchantments** | Fire Protection 2, Blast Protection 2, Projectile Protection 2, Unbreaking 5 |
+| **Enchantments** | Fire Protection II <br>Blast Protection II <br>Projectile Protection II <br>Unbreaking 5 |
 | **Armor**    | 5                                                                            |
 
 |            | **Lore and how to Obtain**                                                          |
@@ -214,7 +214,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                                                                |
 | -------- | -------------------------------------------------------------- |
 | **Base Item** | Leather Boots                                                 |
-| **Enchantments** | Protection 4, Fire Protection 5, Depth Strider 3, Unbreaking 7 |
+| **Enchantments** | Protection IV <br>Fire Protection V <br>Depth Strider III <br>Unbreaking VII |
 | **Armor**    | 1                                                              |
 
 |            | **Lore and how to Obtain**                                                                   |
@@ -240,7 +240,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                                               |
 | -------- | --------------------------------------------- |
 | **Base Item** | Golden Chestplate |
-| **Enchantments** | Protection 1, Fire Protection 6, Unbreaking 6 |
+| **Enchantments** | Protection I <br>Fire Protection VI <br>Unbreaking VI |
 | **Armor**    | 6                                             |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                             |
@@ -253,7 +253,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |              |
 | -------- | ------------ |
 | **Base Item** | Leather Chestplate |
-| **Enchantments** | Protection 5 |
+| **Enchantments** | Protection V |
 | **Armor**    | 6            |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                        |
@@ -268,7 +268,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Wooden Axe                          | 
 | **Attack Damage**| 7                                   |
 | **Attack Speed**  | 0.8                                 |
-| **Enchantments**      | Efficiency 3, Unbreaking 3, Mending |
+| **Enchantments**      | Efficiency III <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
@@ -282,7 +282,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Oak Sign    |
 | **Attack Damage**| 8           |
 | **Attack Speed**  | 1           |
-| **Enchantments**      | Knockback 3 |
+| **Enchantments**      | Knockback III |
 
 |            | **Lore and how to Obtain**                                                                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -307,7 +307,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                |
 | ----------- | ------------------------------ |
 | **Base Item**   | Diamond Leggings               |
-| **Enchantments**    | Feather Falling 2              |
+| **Enchantments**    | Feather Falling II              |
 | **Armor**       | 6                              |
 | **Bonus Stats** | +0.01 Speed, +0.2 Attack Speed |
 
@@ -321,7 +321,7 @@ These artifacts can be found at any time through exploration of the continent of
 |                 |                                                         |
 | --------------- | ------------------------------------------------------- |
 | **Base Item**       | Iron Boots                                              |
-| **Enchantments**        | Unbreaking 4                                            |
+| **Enchantments**        | Unbreaking IV                                            |
 | **Armor**           | 3                                                       |
 | **Armor Toughness**| 2                                                       |
 | **Bonus Stats**     | +10 Max Health, +10% Movement Speed, -90% Attack Damage |
@@ -337,7 +337,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ----------------- |
 | **Base Item**   | Leather Boots     |
 | **Armor**       | 1                 |
-| **Enchantments**    | Unbreaking 3      |
+| **Enchantments**    | Unbreaking III      |
 | **Bonus Stats** | +2 Maximum Health |
 
 |            | **Lore and how to Obtain**                                                                                         |
@@ -354,7 +354,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ----------------- |
 | **Base Item**   | Leather Boots     |
 | **Armor**       | 1                 |
-| **Enchantments**    | Unbreaking 3      |
+| **Enchantments**    | Unbreaking III      |
 | **Bonus Stats** | +0.2 Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                        |
@@ -371,7 +371,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | -------------------- |
 | **Base Item**   | Leather Boots        |
 | **Armor**       | 1                    |
-| **Enchantments**    | Unbreaking 3         |
+| **Enchantments**    | Unbreaking III         |
 | **Bonus Stats** | +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                            |
@@ -387,7 +387,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                      |
 | ----------- | -------------------- |
 | **Base Item**   | Iron Boots           |
-| **Enchantments**    | Unbreaking 1         |
+| **Enchantments**    | Unbreaking I         |
 | **Armor**       | 2                    |
 | **Bonus Stats** | +0.01 Movement Speed |
 
@@ -404,13 +404,13 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                                                                                            |
 | -------- | ------------------------------------------------------------------------------------------ |
 | **Base Item** | Golden Helmet |
-| **Enchantments** | Protection 3, Fire Protection 3, Blast Protection 3, Projectile Protection 3, Unbreaking 6 |
+| **Enchantments** | Protection III <br>Fire Protection III <br>Blast Protection III <br>Projectile Protection III <br>Unbreaking VI |
 | **Armor**    | 2                                                                                          |
 
 |            | **Lore and how to Obtain**                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizens of Sahd. This is one of his more curious possessions. |
-| **Obtain** | Located in the largest building in the town of [[Morah]], on [[Sahd]]. Item frame located at **(4484, 157, 5514)**                                                                                  |
+| **Obtain** | Located in the largest building in the town of [[Morah]], on [[Sahd]]. Item frame located at **(4484, 157, 5514)**         |
 
 ## Chronicler's Offering
 
@@ -435,7 +435,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Shovel                 |
 | **Attack Damage**| 10                          |
 | **Attack Speed**  | 0.8                         |
-| **Enchantments**      | Efficiency 10, Unbreaking 5 |
+| **Enchantments**      | Efficiency X <br>Unbreaking V |
 
 |            | **Lore and how to Obtain**                                         |
 | ---------- | ------------------------------------------------------------------ |
@@ -451,7 +451,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | ------------------------------------------ |
 | **Base Item** | Leather Helmet                            |
 | **Armor**    | 1                                          |
-| **Enchantments** | Respiration 4, Aqua Affinity, Unbreaking 3 |
+| **Enchantments** | Respiration IV <br>Aqua Affinity <br>Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -463,7 +463,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                            |
 | -------- | -------------------------- |
 | **Base Item** | Crossbow                  |
-| **Enchantments** | Piercing 5, Quick Charge 1 |
+| **Enchantments** | Piercing V <br>Quick Charge I |
 
 |            | **Lore and how to Obtain**                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -477,7 +477,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Stone Sword                                 |
 | **Attack Damage**| 5                                           |
 | **Attack Speed**  | 1.6                                         |
-| **Enchantments**      | Knockback 2, Sweeping Edge 5, Unbreaking 10 |
+| **Enchantments**      | Knockback II <br>Sweeping Edge V <br>Unbreaking X |
 
 |            | **Lore and how to Obtain**                                                                                      |
 | ---------- | --------------------------------------------------------------------------------------------------------------- |
@@ -553,7 +553,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                       |
 | ----------- | --------------------- |
 | **Base Item**   | Shield                |
-| **Enchantments**    | Unbreaking 2          |
+| **Enchantments**    | Unbreaking II          |
 | **Bonus Stats** | +0.015 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                               |
@@ -568,7 +568,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Sword                                               |
 | **Attack Damage**| 6                                                        |
 | **Attack Speed**  | 1.2                                                      |
-| **Enchantments**      | Sharpness 1, Smite 3, Bane of Arthropods 3, Unbreaking 1 |
+| **Enchantments**      | Sharpness I <br>Smite III <br>Bane of Arthropods III <br>Unbreaking I |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -582,7 +582,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Sword             |
 | **Attack Damage**| 6                      |
 | **Attack Speed**  | 1.8                    |
-| **Enchantments**      | Unbreaking 10, Mending |
+| **Enchantments**      | Unbreaking X <br>Mending |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -596,7 +596,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Golden Leggings                 |
 | **Armor**           | 4                               |
 | **Armor Toughness**| 1                               |
-| **Enchantments**        | Fire Protection 7, Unbreaking 9 |
+| **Enchantments**        | Fire Protection VII <br>Unbreaking IX |
 
 |            | **Lore and how to Obtain**                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -613,7 +613,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Sword   |
 | **Attack Damage**| 6            |
 | **Attack Speed**  | 1.6          |
-| **Enchantments**      | Unbreaking 4 |
+| **Enchantments**      | Unbreaking IV |
 
 |            | **Lore and how to Obtain**                            |
 | ---------- | ----------------------------------------------------- |
@@ -627,7 +627,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Shield      |
 | **Attack Damage**| 6           |
 | **Attack Speed**  | 0.8         |
-| **Enchantments**      | Knockback 2 |
+| **Enchantments**      | Knockback II |
 | **Bonus Stats**   | +2 Armor    |
 
 |            | **Lore and how to Obtain**                               |
@@ -668,7 +668,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------- |
 | **Base Item**   | Leather Leggings                |
 | **Armor**       | 5                               |
-| **Enchantments**    | Unbreaking 5                    |
+| **Enchantments**    | Unbreaking V                    |
 | **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                          |
@@ -682,7 +682,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | -------------------------------------- |
 | **Base Item**   | Chainmail Boots                        |
 | **Armor**       | 2                                      |
-| **Enchantments**    | Unbreaking 2                           |
+| **Enchantments**    | Unbreaking II                           |
 | **Bonus Stats** | +3 Attack Damage, -0.02 Movement Speed |
 
 |            | **Lore and how to Obtain**                                           |
@@ -696,7 +696,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------------------------------- |
 | **Base Item**   | Iron Boots                                              |
 | **Armor**       | 2                                                       |
-| **Enchantments**    | Fire Protection 5                                       |
+| **Enchantments**    | Fire Protection V                                       |
 | **Bonus Stats** | +4 Max Health, +10% Attack Damage, -0.04 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                            |
@@ -709,7 +709,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                 |
 | -------- | --------------- |
 | **Base Item** | Fishing Rod    |
-| **Enchantments** | Lure 4, Mending |
+| **Enchantments** | Lure IV <br>Mending |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -735,7 +735,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Hoe           |
 | **Attack Damage**| 1                     |
 | **Attack Speed**  | 4                     |
-| **Enchantments**      | Unbreaking 2, Mending |
+| **Enchantments**      | Unbreaking II <br>Mending |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -748,7 +748,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ----------------------------------- |
 | **Base Item**   | Leather Boots                       |
 | **Armor**       | 2                                   |
-| **Enchantments**    | Unbreaking 4                        |
+| **Enchantments**    | Unbreaking IV                       |
 | **Bonus Stats** | -10% Max Health, +10% Attack Damage |
 
 |            | **Lore and how to Obtain** |
@@ -761,7 +761,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |               |
 | -------- | ------------- |
 | **Base Item** | Fishing Rod |
-| **Enchantments** | Unbreaking 10 |
+| **Enchantments** | Unbreaking X |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -800,7 +800,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------ |
 | **Base Item**   | Leather Leggings   |
 | **Armor**       | 2                  |
-| **Enchantments**    | Unbreaking 2       |
+| **Enchantments**    | Unbreaking II       |
 | **Bonus Stats** | +5% Movement Speed |
 
 |            | **Lore and how to Obtain**   |
@@ -815,7 +815,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Axe          |
 | **Attack Damage**| 19                   |
 | **Attack Speed**  | 0.3                  |
-| **Enchantments**      | Efficiency 4         |
+| **Enchantments**      | Efficiency IV         |
 | **Bonus Stats**   | -0.02 Movement Speed |
 
 |            | **Lore and how to Obtain**    |
@@ -843,7 +843,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Chainmail Chestplate |
 | **Armor**           | 5            |
 | **Armor Toughness**| 1            |
-| **Enchantments**        | Unbreaking 6 |
+| **Enchantments**        | Unbreaking VI |
 
 |            | **Lore and how to Obtain**              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -860,7 +860,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**    | Iron Shovel           |
 | **Attack Damage** | 4.5                   |
 | **Attack Speed** | 1                     |
-| **Enchantments**     | Smite 5, Unbreaking 3 |
+| **Enchantments**     | Smite V <br>Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -873,7 +873,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | -------------------- |
 | **Base Item**   | Iron Leggings        |
 | **Armor**       | 5                    |
-| **Enchantments**    | Unbreaking 1         |
+| **Enchantments**    | Unbreaking I        |
 | **Bonus Stats** | +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                 |
@@ -902,7 +902,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**    | Stone Sword         |
 | **Attack Damage** | 34                  |
 | **Attack Speed** | 0.1                 |
-| **Enchantments**     | Sweeping Edge 2     |
+| **Enchantments**     | Sweeping Edge II     |
 | **Bonus Stats**  | -0.1 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                          |
@@ -942,7 +942,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------------------------------- |
 | **Base Item**   | Iron Boots                                              |
 | **Armor**       | 2                                                       |
-| **Enchantments**    | Unbreaking 2                                            |
+| **Enchantments**    | Unbreaking II                                            |
 | **Bonus Stats** | -8 Max Health, +0.015 Movement Speed, +2 Attack Damage |
 
 |            | **Lore and how to Obtain**                                                                                                                  |
@@ -957,7 +957,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Hoe   |
 | **Attack Damage**| 8             |
 | **Attack Speed**  | 2             |
-| **Enchantments**      | Fire Aspect 3 |
+| **Enchantments**      | Fire Aspect III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -982,7 +982,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                |
 | -------- | -------------- |
 | **Base Item** | Crossbow |
-| **Enchantments** | Quick Charge 2 |
+| **Enchantments** | Quick Charge II |
 
 |            | **Lore and how to Obtain**          |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -996,7 +996,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Leather Helmet       |
 | **Armor**           | 5                    |
 | **Armor Toughness**| 2                    |
-| **Enchantments**        | Unbreaking 5         |
+| **Enchantments**        | Unbreaking V         |
 | **Bonus Stats**     | -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                           |
@@ -1023,7 +1023,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | -------------------------------- |
 | **Base Item** | Leather Chestplate              |
 | **Armor**    | 3                                |
-| **Enchantments** | Thorns 4, Unbreaking 10, Mending |
+| **Enchantments** | Thorns IV <br>Unbreaking X <br>Mending |
 
 |            | **Lore and how to Obtain**                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------------------------- |
@@ -1054,7 +1054,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | An ancient memento recovered by Red Dawn's Leader *\*obfuscated text*\* during a far-flung expedition. It appears to be *\*obfuscated text*\* ever-shifting, never settling down on one form, always *\*obfuscated text*\* physical but never something you recognize. *\*obfuscated text*\* |
-| **Obtain** | Located in a side room in [[Azimuth Labs]]. Chest located at **(3194, 88, -556)**   |
+| **Obtain** | Located in a side room in [[Azimuth Labs]], not accessible until the end-game. Chest located at **(3194, 88, -556)**   |
 
 ??? "Extra Lore (Expansive)"
     Leliouria completely handicaps the player, making them functionally unable to move while on the ground, dropping them to a half heart of health, and making their attacks effectively useless.
@@ -1073,7 +1073,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ----------------------------------- |
 | **Base Item**   | Iron Chestplate                     |
 | **Armor**       | 6                                   |
-| **Enchantments**    | Blast Protection 2                  |
+| **Enchantments**    | Blast Protection II                  |
 | **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**   |
@@ -1114,7 +1114,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Iron Leggings     |
 | **Armor**           | 5                 |
 | **Armor Toughness**| 1                 |
-| **Enchantments**        | Feather Falling 3 |
+| **Enchantments**        | Feather Falling III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1128,7 +1128,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Stone Sword |
 | **Attack Damage**| 5       |
 | **Attack Speed**  | 1.5     |
-| **Enchantments**      | Smite 6 |
+| **Enchantments**      | Smite VI |
 
 |            | **Lore and how to Obtain**                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1154,7 +1154,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |              |
 | -------- | ------------ |
 | **Base Item** | Crossbow    |
-| **Enchantments** | Unbreaking 8 |
+| **Enchantments** | Unbreaking VIII |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1168,7 +1168,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Sword                       |
 | **Attack Damage**| 10                                  |
 | **Attack Speed**  | 0.8                                 |
-| **Enchantments**      | Fire Aspect 1                       |
+| **Enchantments**      | Fire Aspect I                       |
 | **Bonus Stats**   | +4 Max Health, -0.02 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                       |
@@ -1182,7 +1182,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------------------------------- |
 | **Base Item**   | Iron Chestplate                                         |
 | **Armor**       | 5                                                       |
-| **Enchantments**    | Unbreaking 1                                            |
+| **Enchantments**    | Unbreaking I                                            |
 | **Bonus Stats** | -15% Max Health, +15% Movement Speed, -15% Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                             |
@@ -1197,7 +1197,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Pickaxe |
 | **Attack Damage**| 4         |
 | **Attack Speed**  | 1.2       |
-| **Enchantments**      | Fortune 1 |
+| **Enchantments**      | Fortune I |
 
 |            | **Lore and how to Obtain**        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1210,7 +1210,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------------------------------ |
 | **Base Item**   | Diamond Chestplate                                     |
 | **Armor**       | 1                                                      |
-| **Enchantments**    | Thorns 4                                               |
+| **Enchantments**    | Thorns IV                                               |
 | **Bonus Stats** | -10 Max Health, -0.05 Movement Speed, -5 Attack Damage |
 
 |            | **Lore and how to Obtain**                                                      |
@@ -1225,7 +1225,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Golden Sword |
 | **Attack Damage**| 14           |
 | **Attack Speed**  | 1.6          |
-| **Enchantments**      | Sharpness 10 |
+| **Enchantments**      | Sharpness X |
 
 |            | **Lore and how to Obtain**                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------- |
@@ -1239,7 +1239,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Iron Helmet                         |
 | **Armor**           | 3                                   |
 | **Armor Toughness**| 2                                   |
-| **Enchantments**        | Unbreaking 6                        |
+| **Enchantments**        | Unbreaking VI                        |
 | **Bonus Stats**     | +6 Max Health, -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**  |
@@ -1254,7 +1254,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Chainmail Chestplate |
 | **Armor**           | 6                 |
 | **Armor Toughness**| 2                 |
-| **Enchantments**        | Fire Protection 3 |
+| **Enchantments**        | Fire Protection III |
 
 |            | **Lore and how to Obtain** |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1267,7 +1267,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | ----------------------- |
 | **Base Item** | Diamond Boots          |
 | **Armor**    | 2                       |
-| **Enchantments** | Projectile Protection 7 |
+| **Enchantments** | Projectile Protection VII |
 
 |            | **Lore and how to Obtain**                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -1281,7 +1281,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Diamond Boots                                 |
 | **Armor**           | 3                                             |
 | **Armor Toughness**| 2                                             |
-| **Enchantments**        | Respiration 2, Aqua Affinity, Depth Strider 2 |
+| **Enchantments**        | Respiration II <br>Aqua Affinity <br>Depth Strider II |
 
 |            | **Lore and how to Obtain**                                                                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1370,7 +1370,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ----------------- |
 | **Base Item**   | Leather Helmet    |
 | **Armor**       | 1                 |
-| **Enchantments**    | Unbreaking 2      |
+| **Enchantments**    | Unbreaking II      |
 | **Bonus Stats** | +10% Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                           |
@@ -1399,7 +1399,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Diamond Chestplate |
 | **Armor**           | 8                 |
 | **Armor Toughness**| 2                 |
-| **Enchantments**        | Fire Protection 4 |
+| **Enchantments**        | Fire Protection IV |
 
 |            | **Lore and how to Obtain**                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1412,7 +1412,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | ---------------------- |
 | **Base Item** | Iron Helmet           |
 | **Armor**    | 2                      |
-| **Enchantments** | Thorns 4, Unbreaking 6 |
+| **Enchantments** | Thorns IV <br>Unbreaking VI |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1426,7 +1426,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Shovel |
 | **Attack Damage**| 6            |
 | **Attack Speed**  | 1            |
-| **Enchantments**      | Unbreaking 4 |
+| **Enchantments**      | Unbreaking IV |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1439,7 +1439,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | ------------------------------------------------------------------------ |
 | **Base Item**   | Iron Boots                                                               |
 | **Armor**       | 3                                                                        |
-| **Enchantments**    | Unbreaking 5                                                             |
+| **Enchantments**    | Unbreaking V                                                             |
 | **Bonus Stats** | -2 Max Health, -0.01 Movement Speed, +1 Attack Damage, +0.2 Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                             |
@@ -1452,7 +1452,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |               |
 | ----------- | ------------- |
 | **Base Item**   | Shield        |
-| **Enchantments**    | Unbreaking 8  |
+| **Enchantments**    | Unbreaking VIII  |
 | **Bonus Stats** | +4 Max Health |
 
 |            | **Lore and how to Obtain**                                                                                                                                                       |
@@ -1468,7 +1468,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                      |
 | ----------- | -------------------- |
 | **Base Item**   | Shield             |
-| **Enchantments**    | Unbreaking 8         |
+| **Enchantments**    | Unbreaking VIII         |
 | **Bonus Stats** | +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                 |
@@ -1484,7 +1484,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                    |
 | ----------- | ------------------ |
 | **Base Item**   | Shield             |
-| **Enchantments**    | Unbreaking 8       |
+| **Enchantments**    | Unbreaking VIII       |
 | **Bonus Stats** | +0.15 Attack Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                           |
@@ -1501,7 +1501,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | -------------------------------------------- |
 | **Base Item** | Leather Leggings                            |
 | **Armor**    | 3                                            |
-| **Enchantments** | Respiration 1, Depth Strider 2, Unbreaking 3 |
+| **Enchantments** | Respiration I <br>Depth Strider II <br>Unbreaking III |
 
 |            | **Lore and how to Obtain**   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1513,7 +1513,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |         |
 | -------- | ------- |
 | **Base Item** | Bow    |
-| **Enchantments** | Punch 4 |
+| **Enchantments** | Punch IV |
 
 |            | **Lore and how to Obtain**                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------- |
@@ -1521,7 +1521,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in the ruins of Eloa, in northwestern [[Lorahn'Kahl]]. Item frame located at **(-597, 108, 4675)**   |
 
 ??? "Extra Info"
-    Sharksbane carries a Punch enchantment two levels higher than survival vanilla Minecraft allows. This means that bowboosting using Sharksbane can allow the player to effectively bypass the speed restrictions of [[Avsohm'Kohl]], a technique that has been extensively utilized in Drehmal's speedrunning scene.
+    Sharksbane carries a Punch enchantment two levels higher than survival vanilla Minecraft typically allows. This means that bowboosting using Sharksbane can allow the player to effectively bypass the speed restrictions of [[Avsohm'Kohl]], a technique that has been extensively utilized in Drehmal's speedrunning scene.
 
 ## Siege
 
@@ -1544,7 +1544,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Stone Axe                           |
 | **Attack Damage**| 7                                   |
 | **Attack Speed**  | 1.4                                 |
-| **Enchantments**      | Unbreaking 2                        |
+| **Enchantments**      | Unbreaking II                        |
 | **Bonus Stats**   | -2 Max Health, +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**                                                                                                                                                     |
@@ -1571,7 +1571,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Iron Leggings |
 | **Armor**           | 5            |
 | **Armor Toughness**| 2            |
-| **Enchantments**        | Unbreaking 7 |
+| **Enchantments**        | Unbreaking VII |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1585,7 +1585,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Axe     |
 | **Attack Damage**| 9            |
 | **Attack Speed**  | 0.9          |
-| **Enchantments**      | Unbreaking 4 |
+| **Enchantments**      | Unbreaking IV |
 
 |            | **Lore and how to Obtain**               |
 | ---------- | ---------------------------------------- |
@@ -1599,7 +1599,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Shovel                               |
 | **Attack Damage**| 5                                         |
 | **Attack Speed**  | 1                                         |
-| **Enchantments**      | Fire Aspect 4, Efficiency 3, Unbreaking 3 |
+| **Enchantments**      | Fire Aspect IV <br>Efficiency III <br>Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1627,7 +1627,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Stone Hoe     |
 | **Attack Damage**| 1             |
 | **Attack Speed**  | 4             |
-| **Enchantments**      | Fire Aspect 7 |
+| **Enchantments**      | Fire Aspect VII |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1641,7 +1641,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Golden Boots                                          |
 | **Armor**           | 3                                                     |
 | **Armor Toughness**| 3                                                     |
-| **Enchantments**        | Fire Protection 3, Feather Falling 3, Depth Strider 2 |
+| **Enchantments**        | Fire Protection III <br>Feather Falling III <br>Depth Strider II |
 | **Bonus Stats**     | +0.02 Movement Speed                                  |
 
 |            | **Lore and how to Obtain**  |
@@ -1656,7 +1656,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Fishing Rod  |
 | **Attack Damage**| 5            |
 | **Attack Speed**  | 1.2          |
-| **Enchantments**      | Unbreaking 3 |
+| **Enchantments**      | Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                              |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1670,7 +1670,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Shovel  |
 | **Attack Damage**| 5            |
 | **Attack Speed**  | 1            |
-| **Enchantments**      | Efficiency 5 |
+| **Enchantments**      | Efficiency V |
 
 |            | **Lore and how to Obtain**                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1684,7 +1684,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Pickaxe |
 | **Attack Damage**| 7           |
 | **Attack Speed**  | 1.6         |
-| **Enchantments**      | Sharpness 3 |
+| **Enchantments**      | Sharpness III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                 |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1696,7 +1696,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                     |
 | ----------- | ----------------------------------- |
 | **Base Item**   | Bow                                 |
-| **Enchantments**    | Knockback 4, Punch 2                |
+| **Enchantments**    | Knockback IV <br>Punch II                |
 | **Bonus Stats** | +6 Max Health, -0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**    |
@@ -1711,7 +1711,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Stone Pickaxe                       |
 | **Attack Damage**| 3                                   |
 | **Attack Speed**  | 1.2                                 |
-| **Enchantments**      | Efficiency 6, Unbreaking 3, Mending |
+| **Enchantments**      | Efficiency VI <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1738,7 +1738,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Sword |
 | **Attack Damage**| 7            |
 | **Attack Speed**  | 1.6          |
-| **Enchantments**      | Unbreaking 4 |
+| **Enchantments**      | Unbreaking IV |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1776,7 +1776,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Fishing Rod                                                     |
 | **Attack Damage**| 11                                                              |
 | **Attack Speed**  | 0.9                                                             |
-| **Enchantments**      | Knockback 3, Looting 2, Unbreaking 3, Luck of the Sea 2, Lure 2 |
+| **Enchantments**      | Knockback III <br>Looting II <br>Unbreaking III <br>Luck of the Sea II <br>Lure II |
 
 |            | **Lore and how to Obtain**      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1788,7 +1788,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |             |
 | -------- | ----------- |
 | **Base Item** | Salmon     |
-| **Enchantments** | Knockback 3 |
+| **Enchantments** | Knockback III |
 
 |            | **Lore and how to Obtain**                                    |
 | ---------- | ------------------------------------------------------------- |
@@ -1802,7 +1802,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Iron Helmet                                       |
 | **Armor**           | 3                                                 |
 | **Armor Toughness**| 1                                                 |
-| **Enchantments**        | Fire Protection 5, Aqua Affinity, Depth Strider 2 |
+| **Enchantments**        | Fire Protection V <br>Aqua Affinity <br>Depth Strider II |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1815,7 +1815,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | -------------------------- |
 | **Base Item** | Chainmail Boots           |
 | **Armor**    | 1                          |
-| **Enchantments** | Feather Falling 4, Mending |
+| **Enchantments** | Feather Falling IV <br>Mending |
 
 |            | **Lore and how to Obtain**                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1839,7 +1839,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                   |
 | -------- | ----------------- |
 | **Base Item** | Bow |
-| **Enchantments** | Infinity, Mending |
+| **Enchantments** | Infinity <br>Mending |
 
 |            | **Lore and how to Obtain**                                            |
 | ---------- | --------------------------------------------------------------------- |
@@ -1863,7 +1863,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                                     |
 | -------- | ----------------------------------- |
 | **Base Item** | Crossbow                           |
-| **Enchantments** | Unbreaking 2, Multishot, Piercing 2 |
+| **Enchantments** | Unbreaking II <br>Multishot <br>Piercing II |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1875,7 +1875,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                                      |
 | ----------- | ---------------------------------------------------- |
 | **Base Item**   | Bow                                                  |
-| **Enchantments**    | Unbreaking 1                                         |
+| **Enchantments**    | Unbreaking I                                         |
 | **Bonus Stats** | +15% Max Health, -5% Attack Damage, -5% Attack Speed |
 
 |            | **Lore and how to Obtain**    |
@@ -1920,7 +1920,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Diamond Helmet                         |
 | **Armor**           | 3                                      |
 | **Armor Toughness**| 2                                      |
-| **Enchantments**        | Projectile Protection 7, Unbreaking 2  |
+| **Enchantments**        | Projectile Protection VII <br>Unbreaking II  |
 | **Bonus Stats**     | +0.02 Movement Speed, -3 Attack Damage |
 
 |            | **Lore and how to Obtain**                                                                                                                       |
@@ -1935,7 +1935,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Netherite Axe        |
 | **Attack Damage**| 10                   |
 | **Attack Speed**  | 1.0                  |
-| **Enchantments**      | Knockback 4          |
+| **Enchantments**      | Knockback IV         |
 | **Bonus Stats**   | +0.01 Movement Speed |
 
 |            | **Lore and how to Obtain**  |
@@ -1948,7 +1948,7 @@ These artifacts can be found at any time through exploration of the continent of
 |                 |                                           |
 | --------------- | ----------------------------------------- |
 | **Base Item**       | Diamond Leggings                          |
-| **Enchantments**        | Fire Protection 7, Thorns 2, Unbreaking 2 |
+| **Enchantments**        | Fire Protection VII <br>Thorns II <br>Unbreaking II |
 | **Armor**           | 6                                         |
 | **Armor Toughness**| 2                                         |
 | **Bonus Stats**     | -0.025 Movement Speed, +5 Attack Damage   |
@@ -1963,7 +1963,7 @@ These artifacts can be found at any time through exploration of the continent of
 |                 |                        |
 | --------------- | ---------------------- |
 | **Base Item**       | Diamond Leggings       |
-| **Enchantments**        | Thorns 3, Unbreaking 5 |
+| **Enchantments**        | Thorns III <br>Unbreaking V |
 | **Armor**           | 6                      |
 | **Armor Toughness**| 1                      |
 
@@ -1980,7 +1980,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor**                | 3                                |
 | **Armor Toughness**     | 2                                |
 | Knockback Resistance | 100%                             |
-| **Enchantments**             | Blast Protection 7, Unbreaking 2 |
+| **Enchantments**             | Blast Protection VII <br>Unbreaking II |
 | **Bonus Stats**          | -30% Attack Speed                |
 
 |            | **Lore and how to Obtain**   |
@@ -1995,7 +1995,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Netherite Pickaxe |
 | **Attack Damage**| 18           |
 | **Attack Speed**  | 0.5          |
-| **Enchantments**      | Efficiency 3 |
+| **Enchantments**      | Efficiency III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                               |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2035,7 +2035,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Golden Sword                             |
 | **Attack Damage**| 10                                       |
 | **Attack Speed**  | 1.6                                      |
-| **Enchantments**      | Knockback 2, Fire Aspect 5, Unbreaking 3 |
+| **Enchantments**      | Knockback II <br>Fire Aspect V <br>Unbreaking III |
 
 |            | **Lore and how to Obtain** |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2047,7 +2047,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                                 |
 | ----------- | ------------------------------- |
 | **Base Item**   | Shield                          |
-| **Enchantments**    | Unbreaking 6, Mending           |
+| **Enchantments**    | Unbreaking VI <br>Mending           |
 | **Bonus Stats** | +8 Max Health, -2 Attack Damage |
 
 |            | **Lore and how to Obtain**                                                                                                                                                               |
@@ -2062,7 +2062,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Diamond Pickaxe                  |
 | **Attack Damage**| 5                                |
 | **Attack Speed**  | 1.2                              |
-| **Enchantments**      | Efficiency 4, Fortune 1, Mending |
+| **Enchantments**      | Efficiency IV <br>Fortune I <br>Mending |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2075,7 +2075,7 @@ These artifacts can be found at any time through exploration of the continent of
 | ----------- | -------------- |
 | **Base Item**   | Leather Chestplate |
 | **Armor**       | 1              |
-| **Enchantments**    | Unbreaking 10  |
+| **Enchantments**    | Unbreaking X  |
 | **Bonus Stats** | +12 Max Health |
 
 |            | **Lore and how to Obtain**                                                                                           |
@@ -2090,7 +2090,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Netherite Hoe            |
 | **Attack Damage**| 10                       |
 | **Attack Speed**  | 2                        |
-| **Enchantments**      | Looting 1, Efficiency 10 |
+| **Enchantments**      | Looting I <br>Efficiency X |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2103,7 +2103,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------- | ------------------------------------------------------------------------------------------- |
 | **Base Item** | Leather Chestplate                                                                         |
 | **Armor**    | 6                                                                                           |
-| **Enchantments** | Protection 2, Fire Protection 2, Blast Protection 2, Projectile Protection 2, Unbreaking 4, |
+| **Enchantments** | Protection II <br>Fire Protection II <br>Blast Protection II <br>Projectile Protection II <br>Unbreaking IV |
 
 |            | **Lore and how to Obtain**  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2115,7 +2115,7 @@ These artifacts can be found at any time through exploration of the continent of
 |             |                         |
 | ----------- | ----------------------- |
 | **Base Item**   | Bow                     |
-| **Enchantments**    | Power 2, Punch 2, Flame |
+| **Enchantments**    | Power II <br>Punch II <br>Flame |
 | **Bonus Stats** | +2 Armor                |
 
 |            | **Lore and how to Obtain**  |
@@ -2131,7 +2131,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Trident   |
 | **Attack Damage**| 8         |
 | **Attack Speed**  | 0.9       |
-| **Enchantments**      | Loyalty 1 |
+| **Enchantments**      | Loyalty I |
 
 |            | **Lore and how to Obtain** |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2143,7 +2143,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                    |
 | -------- | ------------------ |
 | **Base Item** | Crossbow          |
-| **Enchantments** | Mending, Multishot |
+| **Enchantments** | Mending <br>Multishot |
 
 |            | **Lore and how to Obtain**                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2157,7 +2157,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Golden Helmet                         |
 | **Armor**           | 2                                     |
 | **Armor Toughness**| 4                                     |
-| **Enchantments**        | Projectile Protection 4, Unbreaking 6 |
+| **Enchantments**        | Projectile Protection IV <br>Unbreaking VI |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2171,7 +2171,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**       | Diamond Leggings                            |
 | **Armor**           | 5                                           |
 | **Armor Toughness**| 4                                           |
-| **Enchantments**        | Blast Protection 2, Projectile Protection 2 |
+| **Enchantments**        | Blast Protection II <br>Projectile Protection II |
 
 |            | **Lore and how to Obtain** |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2183,7 +2183,7 @@ These artifacts can be found at any time through exploration of the continent of
 |                 |                                  |
 | --------------- | -------------------------------- |
 | **Base Item**       | Diamond Chestplate               |
-| **Enchantments**        | Unbreaking 2                     |
+| **Enchantments**        | Unbreaking II                     |
 | **Armor**           | 8                                |
 | **Armor Toughness**| 2                                |
 | **Bonus Stats**     | -8 Max Health, +20% Attack Speed |
@@ -2202,7 +2202,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor**                | 7             |
 | **Armor Toughness**     | 3             |
 | Knockback Resistance | 60%           |
-| **Enchantments**             | Unbreaking 2  |
+| **Enchantments**             | Unbreaking II |
 | **Bonus Stats**          | +4 Max Health |
 
 |            | **Lore and how to Obtain** |
@@ -2215,7 +2215,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                           |
 | -------- | ------------------------- |
 | **Base Item** | Fishing Rod              |
-| **Enchantments** | Luck of the Sea 5, Lure 3 |
+| **Enchantments** | Luck of the Sea V <br>Lure III |
 
 |            | **Lore and how to Obtain** |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2227,7 +2227,7 @@ These artifacts can be found at any time through exploration of the continent of
 |          |                         |
 | -------- | ----------------------- |
 | **Base Item** | Netherite Shovel       |
-| **Enchantments** | Knockback 2, Silk Touch |
+| **Enchantments** | Knockback II <br>Silk Touch |
 
 |            | **Lore and how to Obtain**   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2241,7 +2241,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**      | Netherite Sword      |
 | **Attack Damage** | 18                   |
 | Movement Speed | 0.6                  |
-| **Enchantments**       | Sweeping Edge 7      |
+| **Enchantments**       | Sweeping Edge VII      |
 | **Bonus Stats**    | -0.02 Movement Speed |
 
 |            | **Lore and how to Obtain**  |
@@ -2256,7 +2256,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Golden Shovel |
 | **Attack Damage**| 30            |
 | **Attack Speed**  | 0.1           |
-| **Enchantments**      | Efficiency 10 |
+| **Enchantments**      | Efficiency X |
 
 |            | **Lore and how to Obtain**                                                |
 | ---------- | ------------------------------------------------------------------------- |
@@ -2270,7 +2270,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Sword   |
 | **Attack Damage**| 5            |
 | **Attack Speed**  | 2.5          |
-| **Enchantments**      | Unbreaking 3 |
+| **Enchantments**      | Unbreaking III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2284,7 +2284,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**     | Iron Sword |
 | **Attack Damage**| 7         |
 | **Attack Speed**  | 1.6       |
-| **Enchantments**      | Looting 3 |
+| **Enchantments**      | Looting III |
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2306,7 +2306,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Armor**           | 3                                             |
 | **Armor Toughness**| 3                                             |
 | **Bonus Stats**     | +1 Knockback Resistance                       |
-| **Enchantments**        | Protection 3, Unbreaking 3, Mending |
+| **Enchantments**        | Protection III <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2321,7 +2321,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Armor**           | 8                                             |
 | **Armor Toughness**| 3                                             |
 | **Bonus Stats**     | +1 Knockback Resistance                       |
-| **Enchantments**        | Protection 3, Unbreaking 3, Mending |
+| **Enchantments**        | Protection III <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2336,7 +2336,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Armor**           | 6                                             |
 | **Armor Toughness**| 3                                             |
 | **Bonus Stats**     | +1 Knockback Resistance                       |
-| **Enchantments**        | Protection 3, Unbreaking 3, Mending |
+| **Enchantments**        | Protection III <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2351,7 +2351,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Armor**           | 3                                             |
 | **Armor Toughness**| 3                                             |
 | **Bonus Stats**     | +1 Knockback Resistance                       |
-| **Enchantments**        | Protection 3, Unbreaking 3, Mending |
+| **Enchantments**        | Protection III <br>Unbreaking III <br>Mending |
 
 |            | **Lore and how to Obtain**     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

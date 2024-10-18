@@ -74,7 +74,7 @@ Mortality is a skull-shaped relic, given as a devotion reward for the Aspect of 
 ## Orogeny
 **Orogeny** is a ring made of magma, given as a devotion reward for the Great Land Aspect [[Taihgel]] at [[Wokonori]]. It adds additional armor and armor toughness when held in the off-hand, making it optimal for a heavier build.
 
-The term "orogeny" comes from plate tectonics, and refers to [a geological process](https://en.wikipedia.org/wiki/Orogeny) in which the compression of convergent plates result in the formation of a mountain.
+The term "orogeny" comes from plate tectonics, and refers to [a geological process](https://en.wikipedia.org/wiki/Orogeny) in which the compression of convergent plates results in the formation of a mountain.
 
 | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
 |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|

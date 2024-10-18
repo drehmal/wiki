@@ -24,6 +24,3 @@ This book can be found in a chest in [[Castle Greyspire]]. It contains ruminatio
 > They are the actor who creates an end, to contribute to a purpose that delays an end. It is the apex of hypocrisy. The Mind is more mortal than they are willing to admit.
 >
 > What will they do when inevitability comes for them?
-
-## Extras
-This book seems to very closely parallel some of the [[End-Game_Dialogue.md|end-game dialogue]] given by a [[yellow|mysterious, powerful figure]].

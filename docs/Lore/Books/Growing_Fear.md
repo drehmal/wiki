@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-!!! info "Until October 6, 2024, this book was a duplicate of [[Previous Cultivator's Findings]], a separate book in Dusps. If your world download is from before that point, you may have the duplicated version of this book."
+!!! info "Until the 2.2.2 update, this book was a duplicate of [[Previous Cultivator's Findings]], a separate book in Dusps. If your world download is from before that point, you may have the duplicated version of this book."
 
 This book can be found in a chest at Esipelli Vineyard in western [[Akhlo'Rohma]]. It describes a [[Casai|Casain]] author's experience moving to Akhlo'Rohma and facing significant racial prejudice in [[Dusps]], culminating in his choice to return to Casai after a Casain was scapegoated and lynched in Dusps for a crime he did not commit.
 

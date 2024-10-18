@@ -7,7 +7,7 @@ tags:
 
 --8<-- "75_spoiler.md"
 
-This book can be found on a lectern in the [[Aphelion]], beside Anyr's throne. It contains the full official title of [[Anyr|Emperor Anyr]], and proclaims that Anyr is to become ruler of all that he sees, elevating Avsohm above the [[Aspects]].
+This book can be found on a lectern in the [[Aphelion]], beside Anyr's throne. It contains the full official title of [[Anyr|Emperor Anyr]], and proclaims that Anyr is to become ruler of all that he sees, elevating Avsohm above the [Aspects](/Lore/Higher_Beings/Aspects/).
 
 ## Coordinates
 | **X** | **Y** | **Z** |

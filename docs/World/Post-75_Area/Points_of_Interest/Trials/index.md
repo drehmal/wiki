@@ -10,9 +10,25 @@ Each of the trials is indirectly given by one of the [Aspects](/Lore/Higher_Bein
 
 > *The presence of divinity feels stronger here...*
 
-The Trials award the player with a unique item: either an artifact that makes up one piece of a full set of diamond armor, or a unique [Legendary item](/Items/Legendary_Items/). Each trial also rewards the player with a cryptic prophecy from [[Rihelma]], known as a [[The Facets|"Facet"]].
+This is followed by a unique dialogue line, played upon the first time that each individual trial location is discovered.
 
-Completing all six trials will give the player access to a new 
+The Trials award the player with a unique item: either an artifact that makes up one piece of a full set of diamond armor, or a unique [Legendary item](/Items/Legendary_Items/). Each trial also rewards the player with a cryptic prophecy from [[Rihelma]], known as a [[The Facets|"Facet"]]. Completing a trial will play a unique dialogue line in chat, as well as informing the player of how many trials remain to be completed.
+
+> Five Trials Remain...
+> 
+> Four Trials block your way...
+>
+> Three Trials still stand...
+>
+> Two Trials are left...
+>
+> A single Trial yet unconquered...
+
+The Trials can be completed in any order that the player likes. When the final one is finished, the following message will be played:
+
+> "Congratulations Aspirant. Seek the chapel beneath the domed meeting hall in Ytaj to claim your prize."
+
+Completing all six trials will give the player access to a new area, where they may claim [[Syzygy|a powerful reward]].
 
 ## Location Hints
 Hints towards the location of the 6 Trials can be found in the Prismatic Council chamber of [[Ytaj]], in the large domed building filled with thrones. On the walls around this room, there are six distinct murals, which depict the terrain around where one of the trials is found. Similar murals are found in the room containing a family tree of the Deities and Aspects beneath the Prismatic Council room, which will have the blocks in front of them lit on fire when completed.

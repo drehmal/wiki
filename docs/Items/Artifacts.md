@@ -990,7 +990,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | If you hold a hand to its scarred, lukewarm breast, you can feel the slow rumbling beat of a heart that refuses to die. |
 | **Obtain** | Located in a structure within a lava pool at [[Faehrcyle]], in the volcanic Totoron Lakes sub-region. Chest located at **(3373, 70, -4032)**  |
 
-## Inspector's Crossbow
+## Inspector's Sidearm
 
 |          |                |
 | -------- | -------------- |

@@ -468,7 +468,20 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Sometimes, those who attempted to dive between worlds would tragically survive on the rocks below. In those cases, this efficient Casain design proved necessary. |
-| **Obtain** | Located in a ruined Casain city on the western coast of [[Anyr'Nogur]]. Chest located at **(-4211, 142, 2388)**                                                                                                |
+| **Obtain** | Located in a ruined Casain city on the western coast of [[Anyr'Nogur]]. Chest located at **(-4211, 142, 2388)**   |
+
+## Creeper Hide Pants
+
+|          |                                            |
+| -------- | ------------------------------------------ |
+| **Base Item** | Leather Leggings                          |
+| **Armor**    | 2                                          |
+| **Enchantments** | Blast Protection IV <br>Curse of Binding |
+
+|            | **Lore and how to Obtain**      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Aw man... |
+| **Obtain** | Located on an armor stand in western [[Capital Valley]]. Armor Stand located at **(95, 92, 1067)**     |
 
 ## Crest of Mekta
 

@@ -19,7 +19,7 @@ The city of [[Dusps]] is located atop a colorful hill in southern Akhlo'Rohma, a
 
 ## History
 
-The city-state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace. All of Akhlo'Rohma was eventually united under the rule of Ancehl's duke. The first school of [[Alchemy|alchemy]], Asomatous Alchemy, was created by the nobles of Ancehl.
+The city-state of Ancehl, on the west coast of Akhlo'Rohma, decided not to affiliate themselves with either side during the [[Deity War]] in the early Second Avihm, and subsequently grew rich in their time of peace. All of Akhlo'Rohma was eventually united under the rule of Ancehl's duke. The first school of [Alchemy](/Lore/Magic/Alchemy/), Asomatous Alchemy, was created by the nobles of Ancehl.
 
 Akhlo'Rohma was one of the first territories to be acquired by the [[Avsohm|Empire of Avsohm]]. It was in the mountains on the northern border of this region that a [[Rehntite Cave|cave]] yielding an extraordinary amount of the mineral rehntite was found. This mining site would become integral to Avsohm's [[Arcanism|runic technology]] industry.
 

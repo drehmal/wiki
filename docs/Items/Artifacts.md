@@ -235,7 +235,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | Vulteid, the former spiritual heart of the Black Jungle, was home to the Indomitable, a fearsome local militia recognizable for their battle skirts and three straight swords. During the long era of Tidal oppression, many Firteidan children prayed to see those distinctive figures striding out of the lava fields to liberate them from the tyranny. |
 | **Obtain** | Located in the ruins of [[Vulteid]], in the [[Black Jungle]]. Chest located at **(3786, 85, 3927)**                        |
 
-## Astorahni Ceremonial Plate
+## Astorahnni Ceremonial Plate
 
 |          |                                               |
 | -------- | --------------------------------------------- |
@@ -246,7 +246,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                                                             |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Though their faith grew out of Lai worship In Eastern Merijool the Astorahn tribes eventually came to believe in a different, true source of warmth. This shining plate is emblazoned with a stylized depiction of that heavenly body. |
-| **Obtain** | Located at the Astorahni Tower, in the northwestern [[Gulf of Drehmal]]. Chest located at **(-181, 206, -573)**                                  |
+| **Obtain** | Located at the Astorahnni Tower, in the northwestern [[Gulf of Drehmal]]. Chest located at **(-181, 206, -573)**                                  |
 
 ## AvEP-83
 
@@ -908,7 +908,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | The twin blades of this war axe glimmer gleefully when you grip its comfortable handle. When you swing it, it seems to subtly change its angle of attack to inflict maximum damage. |
 | **Obtain** | Located in an isolated house in [[North Tharxax]]. Chest located at **(-1048, 71, 2503)**        |
 
-## Gutripper Backblade
+## Gutripper Blackblade
 
 |              |                     |
 | ------------ | ------------------- |
@@ -1900,7 +1900,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |             |                                                                            |
 | ----------- | -------------------------------------------------------------------------- |
-| **Base Item**   | Coal                                                                       |
+| **Base Item**   | Charcoal                                                               |
 | **Bonus Stats** (Off-Hand) | +30 Max Health, -70% Movement Speed, -90% Attack Damage, -90% Attack Speed |
 
 |            | **Lore and how to Obtain**                                         |

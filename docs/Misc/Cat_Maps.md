@@ -1,38 +1,110 @@
 # Cat Maps
 
-!!! warning "This article was written for Drehmal v2.1. We have not yet located all of the Priscilla maps in 2.2, and this number is now far, far higher than 24."
+Hidden throughout the world of Drehmal are dozens of easter eggs in the form of a "cat map," a filled map that depicts Priscilla, the cat of Drehmal co-creator Keeko100, sitting in a loafed position. These maps are found in item frames at numerous locations in the world, typically with only one map per structure. All [major towns](/World/Drehmal/Settlements/Official_Towns/) except for [[Firteid]] contain one Priscilla map, and they are almost exclusively found at major [Points of Interest](/World/Drehmal/Points_of_Interest/). 
 
-Hidden around the Drehmal map are 24 maps in item frames that have a picture of one of the Developers' (Keeko100) cat, Priscilla. The maps are scattered around the map, and can be found in the following locations:
+![[Catmap.webp]]{ align=right width="300" }
 
-![[Catmap.webp]]{ align=right width="150" }
+There are currently 50 known cat maps that can be found in the world. This list may be incomplete, as there has not yet been a systematic scan of the entire world to find all maps. Many of the cat photos are obtainable in normal gameplay, but some are located in areas that cannot be reached without using cheats and/or clipping out of bounds.
 
-## Locations
+## Towns
 
-Many of the cat photos are obtainable in normal gameplay, but not all of them. Each of the towns has a cat photo, and many important places have one as well.
+13 cat maps can be found in the major towns of [[Overworld|Drehmal]], including the only non-Priscilla cat map. The entries in these tables are numbered arbitrarily; they can be discovered in any order and are all a copy of the same item.
 
-| **Number** | **General Location**       | **Specific Location**                                                                                                             | **Coordinates** | **Obtainable?** |
-| ---------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| 1          | Mohta                      | On top of the white pillar in the town center                                                                                     | -8 98 5281      | Yes             |
-| 2          | Tharxax City               | In the chimney of 11 Greybison Way                                                                                                | -2180 78 3671   | Yes             |
-| 3          | Ebonrun                    | In a small box on the east side of town                                                                                           | -2943 133 -189  | Yes             |
-| 4          | Athrah                     | On the melons inside the big ship at the dock                                                                                     | -2732 62 -1640  | Yes             |
-| 5          | The Administrative Chamber | Inside the glass roof, behind the pillar next to AvSYS                                                                            | 26462 148 -193  | No              |
-| 6          | The Court                  | Behind the throne on the raised platform                                                                                          | 27295 90 110    | No              |
-| 7          | The Divine Ruins           | In the second-to-last room, on the bottom floor, behind the central building                                                      | 27273 13 -291   | Yes             |
-| 8          | The Terminus               | Above the Capital Valley room                                                                                                     | 26475 142 -78   | Yes             |
-| 9          | New Sahd                   | In a crevice in the The Bee's Bunkhouse back balcony                                                                              | 4832 74 5701    | Yes             |
-| 10         | Firteid                    | On one of the roof support pillars in The Firteid Bazaar                                                                          | 3907 99 3527    | Yes             |
-| 11         | Mossfield                  | On the roof inside the blacksmiths house                                                                                          | 4127 76 1741    | Yes             |
-| 12         | Highfall                   | In the branches of the tree in the town center                                                                                    | 5964 82 -1110   | Yes             |
-| 13         | Gozak                      | In the branches of the tree in the town center                                                                                    | 2261 62 2454    | Yes             |
-| 14         | Castle Hovadchear          | Under the roof on an indoor overhang                                                                                              | 3214 92 1733    | Yes             |
-| 15         | The Lost Caverns           | On top of the glowing ball in the center of the cave                                                                              | 1683 80 -2715   | Yes             |
-| 16         | Mount Yavhlix             | Inside The Dev Hangout, a hidden room inside the walls of the cave                                                                | 26945 198 -69   | Yes             |
-| 17         | Dusps                      | Inside the roof of The Northern Kitchen                                                                                           | 2155 123 -851   | Yes             |
-| 18         | New Drabyel                | In the basement of the house closest to the farms                                                                                 | 516 65 1861     | Yes             |
-| 19         | Okeke                      | Under the second bridge crossing the river in town                                                                                | -1558 63 -482   | Yes             |
-| 20         | Fort Nimahj                | Next to the wood pile at the entrance to town                                                                                     | -1705 157 1894  | Yes             |
-| 21         | Exodus Citadel             | On the inside of the roof of The Vault                                                                                            | -2580 24 2215   | Yes             |
-| 22         | Island of Dusk             | In one of the wooden structures at the west entrance to the mine                                                                  | -1896 91 -3803  | Yes             |
-| 23         | Heartwood                  | In an abandoned house in the heartwood                                                                                            | 1650 70 1907    | Yes             |
-| 24         | \*\*World Spawn            | Was supposed to be found in the quartz spawn room, but accidentally does not exist in version 2.1. Will presumably be added in 2.2. | N/A             | No              |
+| **Number** | **Town**                   | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  | **Obtainable?** |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 1          | [[Drabyel]]                | In the basement of the house behind the town's Adventuring Merchant, on the back of the staircase.                                | 516 65 1861     | Yes             | Yes             |
+| 2          | [[Gozak]]                  | In the branches of a tree near the center of town.                                                                                | 2261 62 2454    | Yes             | Yes             |
+| 3          | [[Mohta]]                  | On top of the white pillar in the town center.                                                                                    | -8 98 5281      | Yes             | Yes             |
+| 4          | [[Dusps]]                  | On the ceiling in The Northern Kitchen.                                                                                           | 2155 123 -851   | Yes             | Yes             |
+| 5          | [[Okeke]]                  | Underneath the southern bridge, on the eastern side.                                                                              | -1558 63 -482   | Yes             | Yes             |
+| 6          | [[Athrah]]                 | Inside the large ship at the dock, on the southern side of a stack of melons.                                                     | -2732 62 -1640  | Yes             | Yes             |
+| 7          | [[Ebonrun]]                | In a small crate made of trapdoors, on the east side of town.                                                                     | -2943 133 -189  | Yes             | Yes             |
+| 8          | [[Tharxax City]]           | In the chimney of the house at 11 Greybison Way.                                                                                  | -2182 77 3671   | Yes (must break/fly through blocks)   | Yes             |
+| 9          | [[Mossfield]]              | On the ceiling inside the Runic Blacksmith's house.                                                                               | 4127 76 1741    | Yes             | Yes             |
+| 10         | [[Highfall]]               | In the branches of the tree in the town center                                                                                    | 5958 88 -1107   | Yes             | Yes             |
+| 11         | [[New Sahd]]               | In a crevice in the The Bee's Bunkhouse back balcony, at the end of a 1 block-tall hole.                                          | 4832 74 5701    | Yes (by breaking blocks/flying/swimming) | Yes             |
+| 12         | [[Fort Nimahj]]            | Next to the wood pile at the entrance to town.                                                                                    | -1705 157 1894  | Yes             | Yes             |
+| 13 (Nima) <br>![[nima.png]]{ width="128" }        | [[Fort Nimahj]]            | At the end of a tunnel, behind a chiseled stone brick in the town's main fort structure. <br>This is the only cat map in Drehmal that is not a picture of Priscilla. Rather, it is a picture of Nima, the cat of developer tworoundcats (also known as Elmers_Glue_Gunner).                                         | -1723 163 1882  | Yes             | Yes             |
+
+## Open-World PoI
+
+| **Number** | **Region/POI**             | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  | **Obtainable?** |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 14         | Crater of [[Castle Hovadchear]] | Just beneath the roof, in a corner atop the northwestern wall in the structure housing [[Hovadchear's Greathammer]].         | 3214 92 1733    | Yes             | Yes             |
+| 15         | [[Rehntite Cave]]          | On top of the glowing ball in the center of the cave                                                                              | 1683 80 -2715   | Yes             | Yes             |
+| 16         | [[North Heartwood]]        | In an abandoned house in the North Heartwood.                                                                                     | 1650 70 1907    | Yes             | Yes             |
+| 17         | [[Drehua Temple]]          | On the upper level of the room that contains the Parables.                                                                        | -97 174 2813    | Yes             | Yes             |
+| 18         | [[Moonlight Sanctum]]      | Tucked in a corner of the Moonlight Sanctum, in the flooded tunnel that leads to [[Ascendance]].                                  | -614 52 5003    | Yes             | Yes             |
+| 19         | [[Emperor's Estate]]       | Nestled inside of the statue of Laughing Dragon [[Mari]] in the Emperor's Estate on [[Sahd]].                                     | 5109 149 6345   | Yes             | Yes             |
+| 20         | [[Shatterhorn Gulch]]      | Found in the center of the bonfire at the very top of the tallest tower in Shatterhorn Gulch.                                     | 4651 133 -740   | Yes             | Yes             |
+| 21         | Frontier's Edge Gift Shop  | At the top of the chimney in Frontier's Edge Gift Shop, in [[Grand Pike Canyon]].                                                 | 4136 64 -522    | Yes             | Yes             |
+| 22         | [[Burnt Palace]]           | On the top of the largest tower in the Burnt Palace.                                                                              | -3995 169 5959  | Yes             | Yes             |
+| 23         | [[Kiln of Virtuo]] (Bottom) | Beneath a western pillar in the ground floor of the Kiln, at the edge of the water.                                              | 3240 84 3338    | Yes             | Yes             |
+| 24-27      | [[Kiln of Virtuo]] (Top)   | Four Priscilla maps are found at the very top of the Kiln, in the building's center. | 3260 153 3339 <br>3261 153 3338 <br>3260 153 3337 <br>3259 153 3338 | Yes (Hidden)     | Yes     |
+| 28         | [[Island of Dusk]]         | Near the [[Crystal Digging Claws]], accessed by using a trapdoor to go prone and crawl through one of the wooden beams.           | -1896 91 -3803  | Yes             | Yes             |
+| 29         | Oblivion Labyrinth         | On the ceiling, in one of the dead end rooms in the labyrinth that contains [[Oblivion]].                                         | 1677 29 -4125   | Yes             | Yes             |
+
+
+## Story Locations
+
+These three cat maps are found at main story locations on Drehmal, at vastly different points in the story.
+
+| **Number** | **Story Location**         | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  | **Obtainable?** |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 30         | [[Av'Sal Repository]]      | Inside the machinery above the hilt of the [[Mythbreaker]].                                                                       | -110 24 1640    | No (Forced Adventure Mode, Must Break Blocks) | No |
+| 31         | [[Exodus Vault]]           | Atop a high shelf in a large, flooded room inside the Exodus Vault. This location is part of the 50% network linkage event.       | -2700 34 2288   | Yes (Forced Adventure Mode, Reachable but Difficult) | Yes |
+| 32         | [[Azimuth Labs]]           | Just barely visible in a corner behind red stained glass. This location is part of an end-game questline, and cannot be reached normally before a very specific point. | 3270 89 -642 | No (Forced Adventure Mode, Must Break Blocks) | No |
+
+## Dev Zone
+
+These three cat maps can be found in locations that are part of the Dev Zone, the separate portion of terrain far to the east of the main continent, including the [[Terminus Network|Terminus]] and some other arenas and large areas.
+
+| **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  | **Obtainable?** |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 33         | Spawn/Settings Room        | Located at the end of the Drehmal Lobby Room Parkour course.                                                                      | 26546 213 -117  | Skill-Dependent | No (Cannot Be Broken) |
+| 34         | Terminus                   | Underneath the central floor of the Terminus, just above the Terminus map's southwestern corner.                                  | 26471 135 -101  | No              | No              | 
+| 35         | Ossein's Arena             | In the arena of Skull Disciple [[Ossein]], accessed from the [[South Heartwood]] but actually located in the Dev Zone. Perched on the obsidian walls of the arena, in the southeastern corner. | 26326 197 181 | Yes (If you are able to clear a 4-block jump in Adventure Mode) | Yes |
+
+## 75% Event and Post-75% Locations { data-search-exclude }
+
+!!! danger "This section contains significant spoilers for the 75% completion story event."
+
+!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
+
+!!! danger "You have been warned."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+There are 6 known cat maps in the late-game areas associated with the 75% completion event.
+
+| **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  | **Obtainable?** |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 36         | [[Aphelion]]               | In the last stall of the Aphelion's secret bathroom.                                                                              | (Space) -43 118 111 | Yes (Room must first be spawned)        | Yes             |
+| 37         | [[Naharja]]                | Hidden behind a pillar in an alley in Naharja.                                                                                    | (Lo'Dahr) 290 101 -851   | Yes         | Yes             | 
+| 38         | [[Greyspire Castle]]       | Hidden in a crack along the roof of Greyspire Castle.                                                                             | (LD) -832 202 511   | Yes         | Yes             |
+| 39         | [[Voynahla's Domain]]      | In the large chapel in Voynahla's Domain, hidden in a small room at the very top of the structure.                                | (LD) 372 141 980    | Yes         | Yes             |
+| 40         | [[Star-Rise Orrery]]       | On the underside of a lapis lazuli block, in the room unlocked by completing Rihelma's Trial (the location's puzzle).[^1]         | (LD) 1125 70 1076   | No          | No              |
+| 41         | MoonDonalds                | In the basement of the MoonDonalds Restaurant, an easter egg location far in the eastern [[Lunar Wastes]].                        | (LD) 2321 38 -190   | No (Cannot reach this far into the Wastes without dying, unless in Creative/Spectator Mode or unless NoFail is enabled) | Yes, if reached |
+
+## End-Game Locations { data-search-exclude }
+
+!!! danger "WARNING!!! This section contains EXTREMELY SIGNIFICANT spoilers for end-game areas (after the Mt. Yavhlix sequence)."
+
+!!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
+
+!!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
+
+!!! danger "Consider yourself warned."
+
+!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+Nine cat maps are known to exist in the final two story locations, although these are spread out across only three (arguably two) discrete locations. 
+
+| **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates**[^2] | **Reachable?**  |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:---------------:|
+| 42-45      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
+| 46-49 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
+| 50         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |
+
+[^1]: This is the only cat map on the list that is found in a glow item frame, rather than a standard item frame.
+[^2]: All of these coordinates are for the True End dimension.

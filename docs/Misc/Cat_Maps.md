@@ -11,7 +11,7 @@ There are currently 50 known cat maps that can be found in the world. This list 
 13 cat maps can be found in the major towns of [[Overworld|Drehmal]], including the only non-Priscilla cat map. The entries in these tables are numbered arbitrarily; they can be discovered in any order and are all a copy of the same item.
 
 | **Number** | **Town**                   | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  |
-|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:---------------:|
 | 1          | [[Drabyel]]                | In the basement of the house behind the town's Adventuring Merchant, on the back of the staircase.                                | 516 65 1861     | Yes             |
 | 2          | [[Gozak]]                  | In the branches of a tree near the center of town.                                                                                | 2261 62 2454    | Yes             |
 | 3          | [[Mohta]]                  | On top of the white pillar in the town center.                                                                                    | -8 98 5281      | Yes             |
@@ -28,8 +28,8 @@ There are currently 50 known cat maps that can be found in the world. This list 
 
 ## Open-World Points of Interest
 
-| **Number** | **Region/POI**             | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  |
-|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|
+| **Number** | **Region/POI**             | **Location Details**                                                                                                              | **Coordinates**          | **Reachable?**  |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:---------------:|
 | 14         | Crater of [[Castle Hovadchear]] | Just beneath the roof, in a corner atop the northwestern wall in the structure housing [[Hovadchear's Greathammer]].         | 3214 92 1733    | Yes             |
 | 15         | [[Rehntite Cave]]          | On top of the glowing ball in the center of the cave                                                                              | 1683 80 -2715   | Yes             |
 | 16         | [[North Heartwood]]        | In an abandoned house in the North Heartwood.                                                                                     | 1650 70 1907    | Yes             |
@@ -50,7 +50,7 @@ There are currently 50 known cat maps that can be found in the world. This list 
 These three cat maps are found at main story locations on Drehmal, at vastly different points in the story.
 
 | **Number** | **Story Location**         | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**       |
-|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|:--------------------:|
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:--------------------:|
 | 30         | [[Av'Sal Repository]]      | Inside the machinery above the hilt of the [[Mythbreaker]].                                                                       | -110 24 1640    | No (Forced Adventure Mode, Must Break Blocks) |
 | 31         | [[Exodus Vault]]           | Atop a high shelf in a large, flooded room inside the Exodus Vault. This location is part of the 50% network linkage event.       | -2700 34 2288   | Yes (Forced Adventure Mode, Reachable but Difficult) |
 | 32         | [[Azimuth Labs]]           | Just barely visible in a corner behind red stained glass. This location is part of an end-game questline, and cannot be reached normally before a very specific point. | 3270 89 -642 | No (Forced Adventure Mode, Must Break Blocks) |
@@ -60,7 +60,7 @@ These three cat maps are found at main story locations on Drehmal, at vastly dif
 These three cat maps can be found in locations that are part of the Dev Zone, the separate portion of terrain far to the east of the main continent, including the [[Terminus Network|Terminus]] and some other arenas and large areas.
 
 | **Number** | **Location**               | **Location Details**                                                                                  | **Coordinates** | **Reachable?**  | 
-|:----------:|:--------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:
+|:----------:|:--------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------:|:---------------:|
 | 33         | Spawn/Settings Room        | Located at the end of the Drehmal Lobby Room Parkour course.                                          | 26546 213 -117  | Skill-Dependent (Cannot be broken/obtained) | 
 | 34         | Terminus                   | Underneath the central floor of the Terminus, just above the Terminus map's southwestern corner.      | 26471 135 -101  | No              | 
 | 35         | Ossein's Arena             | In the arena of Skull Disciple [[Ossein]], accessed from the [[South Heartwood]] but actually located in the Dev Zone. Perched on the obsidian walls of the arena, in the southeastern corner. | 26326 197 181 | Yes (If you are able to clear a 4-block jump in Adventure Mode) |
@@ -100,8 +100,8 @@ There are 6 known cat maps in the late-game areas associated with the 75% comple
 
 Nine cat maps are known to exist in the final two story locations, although these are spread out across only three (arguably two) discrete locations. 
 
-| **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates**[^2] | **Reachable?**  |
-|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------:|
+| **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates**[^2]       | **Reachable?**  |
+|:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|:---------------:|
 | 42-45      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
 | 46-49 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
 | 50         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |

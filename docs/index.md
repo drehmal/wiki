@@ -59,13 +59,13 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
 
 ??? note "Progress Notes: Finished Sections"
     The following sections are the ONLY parts of this wiki that have been thoroughly updated with new content and edited to a final-ish state. EVERYTHING except these sections should be considered unfinished, and carries a much higher risk of having inaccurate information or untagged spoilers. This will be updated as further progress is made. <br>
-    - Items Tab (All Pages/Sections) <br>
+    - (Items) - All Pages/Sections <br>
     - (Lore) Books <br>
     - (Lore) Transcripts <br>
     - (Story & Features) Holotexts <br>
     - (Story & Features) Devotion <br>
     - (Story & Features) Advancements <br>
-    - (Story & Features) Story Progression + Story Locations
+    - (Story & Features) Story Progression + Story Locations <br>
     - (World) Drehmal: Central Regions & Eastern Regions
 
 <!-- ## Important Articles

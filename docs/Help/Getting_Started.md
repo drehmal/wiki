@@ -2,8 +2,6 @@
 
 !!! tip "**Just looking for basic information about what Drehmal is, or help on setting up your Drehmal world? This page can help with that!**"
 
-# Getting Started
-
 ## What Is Drehmal?
 Drehmal v2.2: Apotheosis is the third major version of Drehmal: Primordial, a survival-adventure Minecraft map initially released in early 2020. This world, covering over 12,000 by 12,000 blocks, heavily pushes the player to explore. Over dozens of hours, players will discover regions with fully custom terrain, exciting vanilla-friendly gameplay additions, a main story concerning the mysterious disappearance of the most powerful empire to ever roam the world, and intricate, extensive lore.
 

@@ -1150,8 +1150,7 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll
-use them to move a bunch of TNT." |
+| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll use them to move a bunch of TNT." |
 | **Cost** | 18 Scales   |
 
 **Unquakeable:**
@@ -1177,8 +1176,7 @@ use them to move a bunch of TNT." |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be
-free."  |
+| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be free."  |
 | **Cost** | 20 Scales   |
 
 **Defiant Arbalest:**

@@ -1460,6 +1460,23 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | These incredible durable boots are all that are left of the Soldier Nemynar, legendary leader of the Hunting Party who perished victorious in his quest for vengeance. |
 | **Obtain** | Located in a large beehive in the [[Underwood]], beneath the [[North Heartwood]]. Chest located at **(1073, 79, 2934)**  |
 
+## Rusty Sword
+
+??? info "2.2.2+ Artifact"
+    Prior to the 2.2.2 Update in late 2024, this item was not a fully-fledged artifact, but rather, was simply a named iron sword.
+
+|               |              |
+| ------------- | ------------ |
+| **Base Item**     | Iron Sword |
+| **Attack Damage**| 9            |
+| **Attack Speed**  | 1.2            |
+| **Enchantments**      | Sharpness II |
+
+|            | **Lore and how to Obtain**    |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Repeated death wears away at a vessel, sapping the spirit’s tethers and rendering it brittle like rust on an old iron blade. |
+| **Obtain** | Located in small building on a dock in southwestern [[Lorahn'Kahl]], on the coast before the biome shifts to the [[Carmine]]. Chest located at **(-1503, 63, 5988)**  |
+
 ## S21A-"Dragon"
 
 |             |               |

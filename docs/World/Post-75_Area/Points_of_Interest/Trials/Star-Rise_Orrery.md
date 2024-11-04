@@ -15,7 +15,7 @@
     
     On Lo'Dahr, these coordinates correspond to the entrance to the Orrery, just behind the waterfall.
 
-## Trial
+## Rihelma's Trial
 Upon reaching the Orrery, the following message plays in chat:
 
 > Your eyes seem to sharpen and widen in equal measure as inscrutable darkness resolves into perfect panoramic clarity.

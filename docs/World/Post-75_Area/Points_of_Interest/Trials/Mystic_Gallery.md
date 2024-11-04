@@ -15,7 +15,7 @@ The **Mystic Gallery** is the site of [[Khive|Mystic Elder Khive]]'s [Trial](/Wo
     
     On Lo'Dahr, these coordinates correspond to the small pyramid structure with this trial.
 
-## Trial
+## Khive's Trial
 Upon reaching the Mystic Gallery, the following message plays in chat:
 
 > Nauseating panic drives your eyes wide and quickens your breathing, yet you feel a self-conscious need to show steady control.

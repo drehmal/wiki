@@ -368,7 +368,7 @@ If the player approaches Maelihs with [[Malevolentia]] in hand, then he will giv
 >
 > [Maelihs] ...
 >
-> > \*Option 2:*
+> \*Option 2:*
 >
 > [Player] Their screams were music to my ears!
 >

@@ -1901,13 +1901,9 @@ These artifacts can be found at any time through exploration of the continent of
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
 !!! danger "This section contains artifacts found in a late-game area, unlocked after the 75% completion event."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "You have been warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

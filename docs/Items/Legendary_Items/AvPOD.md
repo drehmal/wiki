@@ -4,8 +4,6 @@
 
 --8<-- "equipment_spoiler.md"
 
---8<-- "50_spoiler.md"
-
 ![[avpod.png]]{ align=left width="300"}
 
 The **AvPOD** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.

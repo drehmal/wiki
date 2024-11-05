@@ -4,8 +4,6 @@
 
 !!! danger "If you have not gained access to the Primary Collection Facility at Mt. Yavhlix by breaking the seal (large door seen in the below spoiler image), then you have not seen this yet!"
 
-!!! danger "You've been warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The following is a transcript of Mystic Elder [[Khive]]'s dialogue during the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker Run]], beginning at the [[Numencore]] and ending at the door to the [[Primary Energy Collection Facility]].

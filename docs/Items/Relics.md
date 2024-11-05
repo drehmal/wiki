@@ -150,3 +150,10 @@ The **Sprout of Anguish** is a flaming sapling, given as a devotion reward for t
 
 ![[writ_of_authority.gif]]{ align=center width="320" }
 > The four sprites of the Writ of Authority, from +0 to +3.
+
+## Extras
+
+Relics can be duplicated normally in-game through use of [[Trinkets#Relic Vessels|Relic Vessels]], found at each devotion site. However, there are also commands built into the datapack which can be used to give a player any of the relics (or any devotion reward, for that matter).
+
+??? warning "Relic Give Commands"
+    All relics can be cheated in by using the devotion reward function commands that are run by the game when they are obtained naturally. All of these commands follow the structure: `/function entities:dropped_items/devotion/give/`, followed by the name of the deity or aspect, then a number. The number is the level of the devotion reward that you want to obtain, starting at 0 (so subtract 1 from the level number in this wiki's [[Devotion#Rewards|devotion rewards guide]]). All deities and aspects except for [[Rihelma]] give their fully upgraded relic at Level 10, so the number you should put for that item is 9. For example, if you want Ardorbrand +3 (Lai's fully upgraded relic), run the command `/function entities:dropped_items/devotion/give/lai/9`.

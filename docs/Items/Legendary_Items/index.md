@@ -301,7 +301,7 @@ The following two legendaries are found in locations that can technically be acc
 
 ### X-35 Equine Augmentation Assembly
 
---8<-- "75_spoiler.md"
+--8<-- "50_spoiler.md"
 
 The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp Horse") is a legendary item that allows for the teleportation of one or more horses tamed by the player. It is found during the 50% completion event, and consists of two parts: a piece of diamond horse armor, and a receiver, the latter being a remote that can be used to recall the horse.
 
@@ -323,7 +323,7 @@ The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp H
 
 ## Post-75% Legendaries
 
---8<-- "75_spoiler.md"
+--8<-- "LD_spoiler.md"
 
 The following 6 legendaries are located in a late-game area tied to the 75% completion event. 
 

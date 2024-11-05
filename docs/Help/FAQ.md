@@ -106,6 +106,10 @@ Depends! If we have an article on that location, it should have your answer. Man
 
 There are many knowledge gates in Drehmal—structures you technically *can* find and use at any point, but whose solutions are not readily apparent, only learned later in the map's story. You can always come back to interesting places later if you feel like you're missing something, and often, this is the best course of action, and what people will tell you if you ask.
 
+### Can I Get [Specific Resource/Vanilla Item] In This Map?
+
+Almost every single resource and vanilla Minecraft item is obtainable to some extent in Drehmal. Even though the Nether is inaccessible, you can find Nether resources and mobs in set places throughout the map. Traversal items such as elytra are obtainable through story progression. Traders exist for some specialized items, such as sculk blocks and armor trims. Almost everything can be obtained in some way, although these items may not function exactly the same as they do in vanilla Minecraft.
+
 ## Other Resources
 
 ### Is There A World Map I Can Use?

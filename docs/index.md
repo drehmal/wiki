@@ -49,6 +49,7 @@ This wiki (like its subject matter) has a lot of content, but we're here to help
 At the top of your screen, you should see 6 main tabs besides the current one, which you can start at when navigating the wiki:
 
 - Just want to browse a bit of everything? **[Overview](/Overview/)** provides a glossary of all tags on the wiki. <br>
+- Want to know what to expect, need some help setting up the map, or have a question you think might be common? Check out the **[Help](/Help/)** section, which is currently home to the [[Getting Started]] page to help you set up your world and get an idea for how to play Drehmal, as well as the [[FAQ]] page, which contains the answers to some frequently asked questions regarding what you can/can't do on a Drehmal save, the contents of this wiki, and some common gameplay questions. <br>
 - Looking for info on the many new items that Drehmal adds to the Minecraft experience? **[Items](/Items/)** is where you'll find all of the unique items that Drehmal has to offer. These range from [Legendary](/Items/Legendary_Items/) and [Mythical](/Items/Mythical_Weapons/) weapons—weapons with incredibly powerful stats, custom models, and custom abilities—to [[Relics]], off-hand items gained through the unique [[Devotion]] mechanic that boost player stats. <br>
 - Interested in the deeper intricacies of the map's rich history? **[Lore](/Lore/)** is your one-stop shop for all things beyond the main story! Here, you can find a [comprehensive list of every lore book](/Lore/Books/), information on the [gods of the realm](/Lore/Higher_Beings/), pages describing [major historical events](/Lore/Historical_Events/), and much more! <br>
 - **[Misc](/Misc/)** is our spot for miscellaneous articles, those that just don't quite fit anywhere else. Have a look and see what oddities the map has to offer! <br>
@@ -59,7 +60,8 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
 
 ??? note "Progress Notes: Finished Sections"
     The following sections are the ONLY parts of this wiki that have been thoroughly updated with new content and edited to a final-ish state. EVERYTHING except these sections should be considered unfinished, and carries a much higher risk of having inaccurate information or untagged spoilers. This will be updated as further progress is made. <br>
-    - (Items) - All Pages/Sections <br>
+    - (Help) Getting Started/FAQ <br>
+    - (Items) All Pages/Sections <br>
     - (Lore) Books <br>
     - (Lore) Transcripts <br>
     - (Story & Features) Holotexts <br>

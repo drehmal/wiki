@@ -5,6 +5,7 @@
 --8<-- "equipment_spoiler.md"
 
 --8<-- "LD_spoiler.md"
+
 ![[eldermead_full.png]]{ align=left width="300"}
 
 **Eldermead** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.

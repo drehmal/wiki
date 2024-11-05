@@ -4,7 +4,7 @@
 
 --8<-- "equipment_spoiler.md"
 
---8<-- "75_spoiler.md"
+--8<-- "LD_spoiler.md"
 
 ![[proxigea.png]]{ align=left width="300"}
 

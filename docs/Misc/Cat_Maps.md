@@ -4,7 +4,7 @@ Hidden throughout the world of Drehmal are dozens of easter eggs in the form of 
 
 ![[Catmap.webp]]{ align=right width="300" }
 
-There are currently 50 known cat maps that can be found in the world. This list may be incomplete, as there has not yet been a systematic scan of the entire world to find all maps. Many of the cat photos are obtainable in normal gameplay, but some are located in areas that cannot be reached without using cheats and/or clipping out of bounds.
+There are currently 51 known cat maps that can be found in the world. This list may be incomplete, as there has not yet been a systematic scan of the entire world to find all maps. Many of the cat photos are obtainable in normal gameplay, but some are located in areas that cannot be reached without using cheats and/or clipping out of bounds.
 
 ## Towns
 
@@ -58,13 +58,14 @@ These three cat maps are found at main story locations on Drehmal, at vastly dif
 
 ## Dev Zone
 
-These three cat maps can be found in locations that are part of the Dev Zone, the separate portion of terrain far to the east of the main continent, including the [[Terminus Network|Terminus]] and some other arenas and large areas.
+These four cat maps can be found in locations that are part of the Dev Zone, the separate portion of terrain far to the east of the main continent, including the [[Terminus Network|Terminus]] and some other arenas and large areas.
 
 | **Number** | **Location**            | **Location Details**                                                                              | **Coordinates**         | **Reachable?**  | 
 |:----------:|:-----------------------:|:-------------------------------------------------------------------------------------------------:|:-----------------------:|:---------------:|
 | 33         | Spawn/Settings Room     | Located at the end of the Drehmal Lobby Room Parkour course.                                      | 26546 213 -117  | Skill-Dependent (Cannot be broken/obtained) | 
-| 34         | Terminus                | Underneath the central floor of the Terminus, just above the Terminus map's southwestern corner.  | 26471 135 -101  | No              | 
-| 35         | Ossein's Arena          | In the arena of Skull Disciple [[Ossein]], accessed from the [[South Heartwood]] but actually located in the Dev Zone. Perched on the obsidian walls of the arena, in the southeastern corner. | 26326 197 181 | Yes (If you are able to clear a 4-block jump in Adventure Mode) |
+| 34         | Spawn/Settings Room[^1]     | Found in a hole in the wall, near the "initialize" button. Jump one block to a hole in the barrier blocks, then follow the narrow corridor to a Priscilla map. | 26498 179 -125 | Yes |
+| 35         | Terminus                | Underneath the central floor of the Terminus, just above the Terminus map's southwestern corner.  | 26471 135 -101  | No              | 
+| 36         | Ossein's Arena          | In the arena of Skull Disciple [[Ossein]], accessed from the [[South Heartwood]] but actually located in the Dev Zone. Perched on the obsidian walls of the arena, in the southeastern corner. | 26326 197 181 | Yes (If you are able to clear a 4-block jump in Adventure Mode) |
 
 ## 75% Event and Post-75% Locations { data-search-exclude }
 
@@ -80,12 +81,12 @@ There are 6 known cat maps in the late-game areas associated with the 75% comple
 
 | **Number** | **Location**               | **Location Details**                                                                                                              | **Coordinates**         | **Reachable?**  |
 |:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|:---------------:|
-| 36         | [[Aphelion]]               | In the last stall of the Aphelion's secret bathroom.                                                                              | (Space) -43 118 111 | Yes (Room must first be spawned)        |
-| 37         | [[Naharja]]                | Hidden behind a pillar in an alley in Naharja.                                                                                    | (Lo'Dahr) 290 101 -851   | Yes         | 
-| 38         | [[Greyspire Castle]]       | Hidden in a crack along the roof of Greyspire Castle.                                                                             | (LD) -832 202 511   | Yes         |
-| 39         | [[Voynahla's Domain]]      | In the large chapel in Voynahla's Domain, hidden in a small room at the very top of the structure.                                | (LD) 372 141 980    | Yes         |
-| 40         | [[Star-Rise Orrery]]       | On the underside of a lapis lazuli block, in the room unlocked by completing Rihelma's Trial (the location's puzzle).[^1]         | (LD) 1125 70 1076   | No          | 
-| 41         | MoonDonalds                | In the basement of the MoonDonalds Restaurant, an easter egg location far in the eastern [[Lunar Wastes]].                        | (LD) 2321 38 -190   | No (Cannot reach this far into the Wastes without dying, unless in Creative/Spectator Mode or unless NoFail is enabled) |
+| 37         | [[Aphelion]]               | In the last stall of the Aphelion's secret bathroom.                                                                              | (Space) -43 118 111 | Yes (Room must first be spawned)        |
+| 38         | [[Naharja]]                | Hidden behind a pillar in an alley in Naharja.                                                                                    | (Lo'Dahr) 290 101 -851   | Yes         | 
+| 39         | [[Greyspire Castle]]       | Hidden in a crack along the roof of Greyspire Castle.                                                                             | (LD) -832 202 511   | Yes         |
+| 40         | [[Voynahla's Domain]]      | In the large chapel in Voynahla's Domain, hidden in a small room at the very top of the structure.                                | (LD) 372 141 980    | Yes         |
+| 41         | [[Star-Rise Orrery]]       | On the underside of a lapis lazuli block, in the room unlocked by completing Rihelma's Trial (the location's puzzle).[^2]         | (LD) 1125 70 1076   | No          | 
+| 42         | MoonDonalds                | In the basement of the MoonDonalds Restaurant, an easter egg location far in the eastern [[Lunar Wastes]].                        | (LD) 2321 38 -190   | No (Cannot reach this far into the Wastes without dying, unless in Creative/Spectator Mode or unless NoFail is enabled) |
 
 ## End-Game Locations { data-search-exclude }
 
@@ -101,11 +102,12 @@ There are 6 known cat maps in the late-game areas associated with the 75% comple
 
 Nine cat maps are known to exist in the final two story locations, although these are spread out across only three (arguably two) discrete locations. 
 
-| **Number** | **Location**         | **Location Details**                                                                                                    | **Coordinates**[^2]           | **Reachable?**  |
+| **Number** | **Location**         | **Location Details**                                                                                                    | **Coordinates**[^3]           | **Reachable?**  |
 |:----------:|:--------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|:---------------:|
-| 42-45      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
-| 46-49 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
-| 50         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |
+| 43-46      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
+| 47-50 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
+| 51         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |
 
-[^1]: This is the only cat map on the list that is found in a glow item frame, rather than a standard item frame.
-[^2]: All of these coordinates are for the True End dimension.
+[^1]: Found in a glow item frame, rather than a standard item frame.
+[^2]: Found in a glow item frame, rather than a standard item frame.
+[^3]: All of these coordinates are for the True End dimension.

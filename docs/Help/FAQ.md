@@ -92,7 +92,7 @@ There are a number of things that can cause lag in Drehmal, and in Minecraft in 
 
 Drehmal has many custom items, most of which can be recovered if lost or destroyed. [Legendaries](/Items/Legendary_Items/) and [Mythicals](/Items/Mythical_Weapons/) can be crafted via the recipes that you learn when you first find them. [[Artisan Items]] can be purchased again from their original vendor, and [[Runic Catalyst|Runic Catalysts]] can be bought in the late-game, or simply duplicated using creative mode.
 
-Some custom items, however, cannot be crafted or purchased again if lost. This includes [[Artifacts]], which have exactly one copy in the map and cannot be re-created if broken or lost, as well as [[Fervor Stones]]. Fervor Stones can be acquired using custom commands that are built in to the datapack, found [[Fervor Stones#Extras|here]].
+Some custom items, however, cannot be crafted or purchased again if lost. This includes [[Artifacts]], which have exactly one copy in the map and cannot be re-created if broken or lost, as well as [[Fervor Stones]]. Fervor Stones can be acquired using custom commands that are built in to the datapack, found at the end of [[Fervor Stones|their page]].
 
 Artifacts can be cheated back into the game using a `/give` command with the item's full NBT data, which will be a part of the default datapack starting in the 2.2.2 update. However, as of now, these simple commands do not exist, and players must create the /give command to restore their artifact (we have people in the Discord who can help with this). 
 

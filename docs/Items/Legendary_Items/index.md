@@ -13,11 +13,7 @@ In this article, Legendaries are separated by spoiler level, as some of them are
 
 --8<-- "spoiler.md"
 
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons and items for yourself, then you should not continue reading this article."
-
-!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "equipment_spoiler.md"
 
 ## Open-World Legendaries
 
@@ -291,11 +287,7 @@ The following two legendaries are found in locations that can technically be acc
 
 ### Avsohm'Kohl
 
-!!! danger "WARNING! This section contains spoilers related to the 25% Completion Story event." 
-
-!!! danger "If you have not completed the full sequence at the Ancillary Research Facility in Sal'Mevir, up to acquiring the legendary item at the end of the area, be advised that the contents of this article may spoil that experience."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "25_spoiler.md"
 
 [[Avsohm'Kohl]] is a legendary piece of armor found at the end of the 25% event, which serves as Drehmal's only version of the elytra. It is enchanted with Unbreaking IV at baseline, but has restrictions that prevent the fastest possible methods of vanilla elytra travel.
 
@@ -309,11 +301,7 @@ The following two legendaries are found in locations that can technically be acc
 
 ### X-35 Equine Augmentation Assembly
 
-!!! danger "WARNING!"
-
-!!! danger "This section contains potential spoilers for the 50% completion story event. If you have not played through the entirety of the 50% story event at Exodus Citadel, all the way through to emerging from the facility back to the surface, then it is recommended that you DO NOT continue reading this article."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "75_spoiler.md"
 
 The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp Horse") is a legendary item that allows for the teleportation of one or more horses tamed by the player. It is found during the 50% completion event, and consists of two parts: a piece of diamond horse armor, and a receiver, the latter being a remote that can be used to recall the horse.
 
@@ -335,15 +323,7 @@ The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp H
 
 ## Post-75% Legendaries
 
-!!! danger "HUGE SPOILER WARNING!"
-
-!!! danger "This article contains significant spoilers for the 75% completion event and its associated late-game areas."
-
-!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "You have been warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "75_spoiler.md"
 
 The following 6 legendaries are located in a late-game area tied to the 75% completion event. 
 

@@ -2,9 +2,7 @@
 
 --8<-- "spoiler.md"
 
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
+--8<-- "equipment_spoiler.md"
 
 !!! danger "Additionally, this one mythical weapon is located in a late-game area tied to the 75% completion event, which it will discuss at length."
 

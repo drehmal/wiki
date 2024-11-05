@@ -2,17 +2,13 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
-!!! danger "This page contains a full transcript of a **very late-game sequence** in the map's main end-game dungeon at Mt. Yavhlix, which is communicated in a unique manner."
+!!! danger "SPOILER WARNING! This page contains a full transcript of a **very late-game sequence** in the map's main end-game dungeon at Mt. Yavhlix, which is communicated in a unique manner."
 
 !!! danger "If you have not COMPLETED the initial sequence at Mt. Yavhlix, through the "Free the Ever-Fear" achievement, then you have not seen this yet!"
 
-!!! danger "You've been warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will start to be spoken to by a mysterious voice, understood to belong to [[Aok]]. 
+Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will be spoken to by a mysterious voice, understood to belong to [[Aok]]. 
 
 This dialogue does not transpire in the in-game chat, but rather through the name of any item the player is holding. Any item that the player has in their hand may have its name changed to one of these lines for a few seconds before being changed back, until the full sequence has ended.
 

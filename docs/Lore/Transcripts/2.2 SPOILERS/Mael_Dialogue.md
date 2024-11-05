@@ -1,10 +1,6 @@
 # Maelihs Dialogue
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
-
-!!! warning "SPOILER WARNING!"
-
-!!! warning "This page contains a full transcript of a **late-game interaction,** which takes place in a late-game area tied to the 75% completion event."
+!!! warning "SPOILER WARNING! This page contains a full transcript of a **late-game interaction,** which takes place in a late-game area tied to the 75% completion event."
 
 !!! warning "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 

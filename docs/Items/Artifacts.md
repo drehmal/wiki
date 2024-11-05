@@ -12,8 +12,6 @@ Artifact descriptions themselves typically do not contain spoilers, as they lean
 
 !!! warning "Like other unique items in Drehmal, artifacts are intended to be discovered as you explore the world. If you would like to discover these unique weapons, tools, and armor pieces for yourself, you should not continue reading this page."
 
-!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
-
 # Open-World Artifacts
 These artifacts can be found at any time through exploration of the continent of [[Overworld|Drehmal]].
 

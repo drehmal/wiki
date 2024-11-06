@@ -60,6 +60,8 @@ Relic vessels are used by throwing them onto a Devotion altar. At this point, a 
     | [[Shrine of Eternal Flame]] | [[Lai]]    | At the very top of the temple. Chest located at **(-1430, 107, -1637)**. |
     | [[Crystalline Colonnade]] | [[Loe]]      | Beneath the central ice spire in the shrine. Chest located at **(1027, 97, -3007)**. |
 
+In the late-game, Relic Vessels can also be purchased from Precocious Kinah in [[Ytaj]].
+
 ### Lore Text
 > This simple vessel is made out of highly malleable metal. Carried by the Wingmakers to test the faith of Tehrmari Aspirants, the Aspects and Deities can easily mold it to show their favor for the holder.
 

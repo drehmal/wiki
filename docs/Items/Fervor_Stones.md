@@ -102,6 +102,15 @@ The final three Fervor Stones are found on [[Lo'Dahr]].
     | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], reached by digging through a wall, in a chest behind a banner. | **(252, 78, -825)** |
     | Worry            | [[Loe's Domain]] | In an isolated room along the [[Castle Greyspire]] roof. | **(-845, 215, 516)** |
 
+## Extras
+There are exactly enough Fervor Stones in the map to upgrade all 8 Mythical weapons, so losing or accidentally destroying one (which can occur at the Soletta through known, but rare bugs) could lock the player out of fully upgrading all Mythicals. 
+
+In this scenario, there are commands to give a player any of the three Fervor Stones:
+
+??? warning "Fervor Stone Give Commands"
+    Stone of Agony: `/function core:scene/soletta/items/give_cooldown_stone` <br>
+    Stone of Luxury: `/function core:scene/soletta/items/give_vitality_stone` <br>
+    Stone of Worry: `/function core:scene/soletta/items/give_speed_stone`
 
 
 

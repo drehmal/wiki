@@ -1150,8 +1150,7 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll
-use them to move a bunch of TNT." |
+| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll use them to move a bunch of TNT." |
 | **Cost** | 18 Scales   |
 
 **Unquakeable:**
@@ -1177,8 +1176,7 @@ use them to move a bunch of TNT." |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be
-free."  |
+| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be free."  |
 | **Cost** | 20 Scales   |
 
 **Defiant Arbalest:**
@@ -1192,8 +1190,7 @@ free."  |
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
-| **Lore** | Over the course of many dangerous expeditions, members of the Ebonfire Liberation Army have gathered enough information and resources to slowly begin arming
-themselves with facsimiles of powerful Red Dawn weaponry. Now, what they need most is an opportunity.  |
+| **Lore** | Over the course of many dangerous expeditions, members of the Ebonfire Liberation Army have gathered enough information and resources to slowly begin arming themselves with facsimiles of powerful Red Dawn weaponry. Now, what they need most is an opportunity.  |
 | **Cost** | 32 Scales <br>16 Blocks of Redstone  |
 
 ### [[Elvett]]
@@ -2039,6 +2036,19 @@ Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in
 | -------- | --------------------------------------------------------- |
 | **Lore** | Victory is best achieved with confidence. Victory is best kept with competence. |
 | **Cost** | 20 Amethyst Shards  |
+
+On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja, but none sell any artisan items...except for one very specific circumstance.
+
+On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then a "Gourd Merchant" will spawn at **(212, 101, -819)**, selling one Halloween-exclusive artisan item.
+
+**Very Large Pumpkin:**
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Carved Pumpkin |
+| **Armor**       | 2          |
+| **Bonus Stats (Head)** | +1 Charisma |
+| **Cost**        | 1 Amethyst Shard |
 
 ### [[Noha's Domain]]
 At an isolated building in the northwestern portion of Noha's Domain, a singular Runic Blacksmith can be found, at **(847, 56, -427)**.

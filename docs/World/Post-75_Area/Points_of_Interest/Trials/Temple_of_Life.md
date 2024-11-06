@@ -15,7 +15,7 @@ The **Temple of Life** is the site of [[Vayniklah|Life-Bringer Vayniklah]]'s [Tr
     
     On Lo'Dahr, these coordinates correspond to the outside of the temple.
 
-## Trial
+## Vayniklah's Trial
 Reaching the Temple for the first time will play the following message in chat:
 
 > A regretful nostalgia hangs on the warm breeze, and the sound of your heart beating is suddenly deafening.

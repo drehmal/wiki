@@ -31,7 +31,7 @@ The Trials can be completed in any order that the player likes. When the final o
 Completing all six trials will give the player access to a new area, where they may claim [[Syzygy|a powerful reward]].
 
 ## Location Hints
-Hints towards the location of the 6 Trials can be found in the Prismatic Council chamber of [[Ytaj]], in the large domed building filled with thrones. On the walls around this room, there are six distinct murals, which depict the terrain around where one of the trials is found. Similar murals are found in the room containing a family tree of the Deities and Aspects beneath the Prismatic Council room, which will have the blocks in front of them lit on fire when completed.
+Hints towards the location of the 6 Trials can be found in the Prismatic Council chamber of [[Ytaj]], in the large domed building filled with thrones. On the walls around this room, there are six distinct murals, which depict the terrain around where one of the trials is found. 
 
 The 6 Trials are spread somewhat evenly across the moon's area, with three in the west and three in the east. Trials can be found in the following regions: <br>
 - [[Khive's Domain]] <br>
@@ -40,6 +40,15 @@ The 6 Trials are spread somewhat evenly across the moon's area, with three in th
 - [[Dahr's Domain]] <br>
 - [[Lai's Domain]] <br>
 - [[Vayniklah's Domain]]
+
+Murals tied to the trials are also found in the room containing a family tree of the Deities and Aspects beneath the Prismatic Council Chamber, which will have the blocks in front of them lit on fire when completed. From left to right upon first entering the room, these are:
+
+- [[Star-Rise Orrery|Rihelma's Trial]] (A long yellow trail on a blue/purple background) <br>
+- [[Hypogean Labyrinth|Nahyn's Trial]] (A mountain, depicted as layers of stone, ice, and snow) <br>
+- [[Brightwyrm's Caldarium|Lai's Trial]] (A series of flames) <br>
+- [[Temple of Life|Vayniklah's Trial]] (Wood with moss blocks and black/yellow spots) <br>
+- [[Mystic Gallery|Khive's Trial]] (Infused amethyst and red sandstone rings on a black background) <br>
+- [[Abyssal Rise|Dahr's Trial]] (A stream of blue vaguely resembling a river)
 
 ## Locations and Descriptions
 This section contains the locations of the six trials and full pages on these locations (including guides).

@@ -14,7 +14,7 @@ The **Hypogean Labyrinth** is the site of the [[Nahyn|Summit-Drake Nahyn]]'s [Tr
     | Surface Labyrinth Entrance | 477 |  163  | -128  |
     | Hypogean Labyrinth Entrance | 530 | 123 | -75 |
 
-## Trial
+## Nahyn's Trial
 Upon reaching the Labyrinth, the following message plays in chat:
 
 > Your back straightens and your pace quickens with confidence buoyed by pride. Though you are small, you have accomplished so much.

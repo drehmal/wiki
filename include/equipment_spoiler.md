@@ -1,0 +1,1 @@
+!!! warning "The locations of Mythical and Legendary items are intended to be discovered as you explore the world. If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."

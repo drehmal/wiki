@@ -2,17 +2,13 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
-!!! danger "This page contains a full transcript of a **very late-game sequence** in the map's main end-game dungeon at Mt. Yavhlix."
+!!! danger "SPOILER WARNING! This page contains a full transcript of a **very late-game sequence** in the map's main end-game dungeon at Mt. Yavhlix."
 
 !!! danger "If you have not COMPLETED the initial sequence at Mt. Yavhlix, through the "Free the Ever-Fear" achievement, then you have not seen this yet!"
 
-!!! danger "You've been warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The following is a transcription of the dialogue given to the player by [[Tethlaen]] during his battle in the [[Nothing]], after the main sequence at the [[Primary Energy Collection Facility]]. 
+The following is a transcription of the dialogue given to the player by [[Tethlaen]] during his battle in the [[Nothing_Island.md|Nothing]], after the main sequence at the [[Primary Energy Collection Facility]]. 
 
 ## Transcription
 > \*Player enters the Nothing*

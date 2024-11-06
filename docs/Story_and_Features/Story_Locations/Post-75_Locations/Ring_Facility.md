@@ -2,19 +2,15 @@
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
 !!! danger "This article contains significant spoilers for a late-game area unlocked after the 75% completion event."
 
 !!! danger "Unless you have FINISHED the 75% Completion sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
 !!! danger "Additionally, this article itself is about a story location at this late-game area. If you have not yet discovered (as denoted by the "Put a Ring on it" advancement) and completed the Ring Research Installation, this page will contain spoilers for content you have not seen."
 
-!!! danger "You have been warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The **Warp Ring Research Installation**, also known as the **Ring Research Installation** or simply the **Ring Facility**, is one of five main story locations on the divine moon of [[Lo'Dahr]]. It is located in the western portion of the moon, inside of Lake Khanak, part of the southern half of [[Khive's Domain]].
+The **Warp Ring Research Installation**, also known as the **Ring Research Installation**, **Warp Ring Installation**, or simply the **Ring Facility**, is one of five main story locations on the divine moon of [[Lo'Dahr]]. It is located in the western portion of the moon, inside of Lake Khanak, part of the southern half of [[Khive's Domain]].
 
 Like the other two non-core facilities on Lo'Dahr, its primary purpose in the map is to teach the player a mechanic that can be applied to the main puzzle at the [[Core Facility]]. 
 

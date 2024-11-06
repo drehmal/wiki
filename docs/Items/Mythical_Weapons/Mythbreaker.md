@@ -2,13 +2,9 @@
 
 --8<-- "spoiler.md"
 
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
+--8<-- "equipment_spoiler.md"
 
 !!! danger "Additionally, this page in particular contains significant story spoilers, as the Mythbreaker is an important part of Drehmal's main story, from the early game through the end-game."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ![[inert_mb.png]]{ align=left width="315"} ![[true_mb.png]]{ align=right width="315"}
 
@@ -46,8 +42,6 @@ The Inert Mythbreaker can be charged up in order to power it further, which is l
 
 !!! warning "These discoveries may constitute end-game spoilers. Proceed with caution."
 
-!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
-
 The Inert Mythbreaker is the version of the spear created by [[Avsohm]] in the late Second Avihm, after they learned of the nature of the universe through the Resonant Eye. Through that device, the empire was able to make out the shape of what they thought was a spear, and began work on re-creating this spear from their data.
 
 [[Kovis]], a member of [[Blue Exodus]] with significant expertise in the field of graviton theory, was central to the process of turning the data from the Eye into real schematics, and the blade was first forged at the Graviton Crucible in the [[Exodus Vault]].
@@ -63,10 +57,6 @@ Avsohm's ultimate goal with the blade was to charge it using a massive source of
 !!! danger "Unless you have FINISHED the 75% Completion sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
 !!! danger "Additionally, this section is concerned with a story location at this late-game area. If you have not yet discovered and completed the Numencore (as denoted by the "Apex of Divinity" and "No Fear" advancements, respectively), this page will contain spoilers for content you have not seen."
-
-!!! danger "You have been warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The Charged Mythbreaker (simply named "Mythbreaker" in-game) is the upgraded version of the Mythbreaker, charged with the [[Primal Energy]] of the [[Numencore]].
 
@@ -114,10 +104,6 @@ The empire fell before they had the chance to see their greatest weapon at its f
 !!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
-
-!!! danger "Consider yourself warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The final version of the spear, named "The Mythbreaker" in-game and sometimes referred to within the community as the "True Mythbreaker," is the weapon's strongest known form.
 

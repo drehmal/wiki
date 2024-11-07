@@ -12,7 +12,7 @@ Artifacts are uncommon items found throughout the map, most often in chests. Mos
 
 ## [[Artisan Items]]
 
-Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmiths]] or one of their variants, typically at larger towns.
+Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmith|Runic Blacksmiths]] or one of their variants, typically at larger towns.
 
 ## [Legendary Items](/Items/Legendary_Items/)
 
@@ -94,8 +94,6 @@ Besides the items belonging to the groups listed above, there are some other uni
 !!! danger "This section contains information that is only applicable after the 75% completion event, which constitute spoilers on a late-game mechanic."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the Soletta in [[Ytaj]], with each of the items applying a different stat boost.
 

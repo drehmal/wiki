@@ -15,7 +15,7 @@
     
     On Lo'Dahr, these coordinates correspond to the inside of the structure.
 
-## Trial
+## Dahr's Trial
 Upon reaching the structure, the following message plays in chat:
 
 > A surge of unrelenting confidence brings a fierce and widening grin to your face.

@@ -1,16 +1,12 @@
 # Khive Dialogue
 
-!!! danger "SPOILER WARNING!"
+!!! danger "SPOILER WARNING! This page contains a **full transcript** of a very late-game main story sequence, which can only be initiated after the 75% story mark."
 
-!!! danger "This page contains a **full transcript** of a very late-game sequence, which can only be initiated after the 75% story mark."
-
-!!! danger "If you have not gained access to the Primary Collection Facility at Mt. Yavhlix by breaking the seal (large door seen in the above spoiler image), then you have not seen this yet!"
-
-!!! danger "You've been warned."
+!!! danger "If you have not gained access to the Primary Collection Facility at Mt. Yavhlix by breaking the seal (large door seen in the below spoiler image), then you have not seen this yet!"
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The following is a transcript of Mystic Elder [[Khive]]'s dialogue during the [[Mythbreaker]] run, beginning at the [[Numencore]] and ending at the door to the [[Primary Energy Collection Facility]].
+The following is a transcript of Mystic Elder [[Khive]]'s dialogue during the [[Story Progression#Mythbreaker Run (LATE-GAME SPOILERS BEGIN HERE)|Mythbreaker Run]], beginning at the [[Numencore]] and ending at the door to the [[Primary Energy Collection Facility]].
 
 ## Transcription
 > *You feel an arcane presence...*

@@ -23,7 +23,7 @@ Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the 
 > Okeke [(yellow)]<br>
 > Ebonrun [(light red)]<br>
 > Athrah [(orange)]<br>
-> Fort Nihmaj [(blue)]<br>
+> Fort Nimahj [(blue)]<br>
 > Tharxax [[(red)]<br>
 > Mohta [(light blue)]<br>
 > Firteid [(cyan)]<br>
@@ -53,7 +53,7 @@ Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the 
 Regional maps show the region surrounding the Adventuring Merchant's town, as well as parts of bordering regions. Marked on the map are several simple symbols that denote points of interest.
 
 **Description:**
->A map of the region surrounding [town name], with markers signifying important locations.
+> A map of the region surrounding [town name], with markers signifying important locations.
 
 | Region | Image |
 |-|-|
@@ -78,4 +78,10 @@ Adventuring Merchant Eliana is a [[Tehrmari]] variant of a regular Adventuring M
 **Map of [[Lo'Dahr]]:**
 
 The Map of Lo'Dahr is sold by Adventuring Merchant Eliana in place of a regional map.
+
+## Extras
+
+Normally, Adventuring Merchants are immune to any sort of damage and cannot be turned into zombie villagers, but they can be killed by a player in Creative Mode or turned into a witch by a lightning strike. In this event, special merchant villagers can be re-summoned by using commands.
+
+See [[FAQ#Can Custom Villagers Be Respawned?|this FAQ section]] for a full list of these commands.
 

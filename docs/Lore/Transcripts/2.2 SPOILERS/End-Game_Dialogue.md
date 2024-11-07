@@ -2,15 +2,11 @@
 
 !!! danger "MASSIVE SPOILER WARNING!!!"
 
-!!! danger "This page contains the full transcript of **the entire end-game dialogue sequence**, comprising roughly the last 1-2 hours of the average playthrough."
-
-!!! danger "Even reading the name of the entity that gives most of this dialogue can be considered a massive spoiler."
+!!! danger "This page contains the full transcript of **the entire end-game dialogue sequence**, comprising roughly the last 2-3 hours of the average playthrough. Even reading the name of the entity that gives most of this dialogue can be considered a massive spoiler."
 
 !!! danger "Therefore, if you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
-
-!!! danger "You have been warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

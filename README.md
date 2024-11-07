@@ -1,6 +1,6 @@
 # wiki.drehmal.cyou
 
-This is the official new (WIP) wiki for Drehmal: PRIMΩRDIAL.
+This is the official new (WIP) wiki for Drehmal: APOTHEΩSIS.
 
 Check out the [official website](https://www.drehmal.net/) & the [official Discord server](https://discord.gg/drehmal)!
 

@@ -11,9 +11,7 @@ Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be craft
 
 --8<-- "spoiler.md"
 
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
+--8<-- "equipment_spoiler.md"
 
 !!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
 

@@ -60,16 +60,14 @@ Relic vessels are used by throwing them onto a Devotion altar. At this point, a 
     | [[Shrine of Eternal Flame]] | [[Lai]]    | At the very top of the temple. Chest located at **(-1430, 107, -1637)**. |
     | [[Crystalline Colonnade]] | [[Loe]]      | Beneath the central ice spire in the shrine. Chest located at **(1027, 97, -3007)**. |
 
+In the late-game, Relic Vessels can also be purchased from Precocious Kinah in [[Ytaj]].
+
 ### Lore Text
 > This simple vessel is made out of highly malleable metal. Carried by the Wingmakers to test the faith of Tehrmari Aspirants, the Aspects and Deities can easily mold it to show their favor for the holder.
 
 ## Tank Keyfob
 
-!!! danger "WARNING!"
-
-!!! danger "This section contains potential spoilers for the 50% completion story event. If you have not played through the entirety of the 50% story event at Exodus Citadel, all the way through to emerging from the facility back to the surface, then it is recommended that you DO NOT continue reading this article."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "50_spoiler.md"
 
 The Tank Keyfob is a trinket found in the [[Exodus Vault]], during the 50% completion event. This trinket allows the player to exit the facility in the intended manner by firing a tank in the facility, blasting a hole in the western vault door and exiting into [[Anyr'Nogur]]. The Keyfob itself is found in a chest in the northern garage at the west end of the vault.
 
@@ -80,15 +78,7 @@ The Tank Keyfob is a trinket found in the [[Exodus Vault]], during the 50% compl
 
 ## Post-75% Compasses (POST-75% SPOILERS BEGIN HERE)
 
-!!! danger "SPOILER WARNING!"
-
-!!! danger "The following sections contain significant spoilers for the 75% completion event and its associated late-game areas."
-
-!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "You have been warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "75_spoiler.md"
 
 There are two trinkets that take the form of Terminus-style compasses found outside of the Terminus: one in the 75% event itself, and one in the Post-75% area.
 
@@ -123,15 +113,7 @@ The Aurastaff of Permafrost is a trinket that can be purchased either from Preco
 
 ## End-Game Trinkets (END-GAME SPOILERS)
 
-!!! danger "WARNING!!! This section contains EXTREMELY SIGNIFICANT spoilers for end-game areas (after the Mt. Yavhlix sequence)."
-
-!!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
-
-!!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
-
-!!! danger "Consider yourself warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "postyav_spoiler.md"
 
 The following three trinkets are all given as story-driving items to point the player towards end-game locations by the [[yellow|end-game guide]].
 

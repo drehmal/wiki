@@ -8,13 +8,9 @@ search:
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
 !!! danger "This article, and entire section, are about a late-game area unlocked after the 75% completion event."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you navigate away from this section, as it will spoil possibly the biggest discovery in the map."
-
-!!! danger "You have been warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

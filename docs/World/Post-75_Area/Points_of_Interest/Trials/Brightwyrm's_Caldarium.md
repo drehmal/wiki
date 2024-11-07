@@ -15,7 +15,7 @@
     
     On Lo'Dahr, these coordinates correspond to the entrance to the Caldarium.
 
-## Trial
+## Lai's Trial
 Descending through a long tunnel from this entrance will bring the player to the Caldarium, playing the following message in chat:
 
 > The heat in the air seems to lessen as your mind begins to course with hyperactive, bursting energy.

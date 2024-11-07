@@ -73,14 +73,7 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
     | [[Mt. Yavhlix]] | In a shulker box in the [[Resonant Halls]], inside the same side room that contains the [[Activity_Log-_Project_Panopticon.md|Activity Log - Project Panopticon]] book. | **(26897, 78, -43)** |
 
 ## Final Locations and Use
-
-!!! danger "SPOILER WARNING!"
-
-!!! danger "This section contains significant spoilers for the 75% completion event and its associated late-game areas."
-
-!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "You have been warned."
+!!! danger "If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article.
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
@@ -109,6 +102,15 @@ The final three Fervor Stones are found on [[Lo'Dahr]].
     | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], reached by digging through a wall, in a chest behind a banner. | **(252, 78, -825)** |
     | Worry            | [[Loe's Domain]] | In an isolated room along the [[Castle Greyspire]] roof. | **(-845, 215, 516)** |
 
+## Extras
+There are exactly enough Fervor Stones in the map to upgrade all 8 Mythical weapons, so losing or accidentally destroying one (which can occur at the Soletta through known, but rare bugs) could lock the player out of fully upgrading all Mythicals. 
+
+In this scenario, there are commands to give a player any of the three Fervor Stones:
+
+??? warning "Fervor Stone Give Commands"
+    Stone of Agony: `/function core:scene/soletta/items/give_cooldown_stone` <br>
+    Stone of Luxury: `/function core:scene/soletta/items/give_vitality_stone` <br>
+    Stone of Worry: `/function core:scene/soletta/items/give_speed_stone`
 
 
 

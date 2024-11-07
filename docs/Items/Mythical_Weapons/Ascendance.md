@@ -2,11 +2,7 @@
 
 --8<-- "spoiler.md"
 
-!!! warning "The locations of Mythical and Legendary weapons are intended to be discovered as you explore the world."
-
-!!! warning "If you wish to discover gameplay elements such as unique weapons for yourself, then you should not continue reading this article."
-
-!!! warning "![Spoiler Door](/assets/img/spoiler_door.png)"
+--8<-- "equipment_spoiler.md"
 
 ![[Ascendance.png]]{ align=left width="300"}
 
@@ -50,6 +46,8 @@ The Moonlight Sanctum makes use of Elder Guardians ("Dahrkin Negators"), which, 
 The player can then break the glass leading into the room behind this wall, and will find a sign that reads "THE FIRST OF EACH RITE IS THE WAY TO THE LIGHT."
 
 The "rites" referred to here are the Ancient Theocracy Rites, a piece of paper found inside of the fourth tower, in the center of the sanctum. Before lifting the magic ward, this was inaccessible, but the ability to mine means that the player can reach inside the tower by breaking the glass. Inside of the glass is a structure with valuable blocks, hiding a chest with the Ancient Theocracy Rites, which read:
+
+![[ancienttheocracyrites.png]]{ width="48" }
 
 > Dahr fahn Lorahn
 >

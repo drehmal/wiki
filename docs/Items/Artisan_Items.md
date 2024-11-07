@@ -452,7 +452,7 @@ At Frontier's Edge Gift Shop in [[Grand Pike Canyon]], the shop owner, Sera Mahr
 | **Lore** | The crafty proprietor of the Frontier's Edge Gift Shop only offers these deadly crossbows to visitors who prove they have enough common sense.  |
 | **Cost** | 23 Scales  |
 
-### [[Grimm Troupe]]
+### [[Frozen Bite#Grimm Troupe|Grimm Troupe]]
 The Grimm Troupe in the western [[Frozen Bite]] region is home to a "Runic Nailsmith" who sells only the Nail artisan, at **(4459, 119, -3274)**.
 
 **Nail:**
@@ -585,7 +585,7 @@ A Runic Blacksmith can be found in western Helmshire, at **(2872, 75, 1277)**.
 | **Cost** | 16 Scales     |
 
 ### [[Hevhlak]]
-The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
+The [[Tehrmari]] Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
 
 **Meteor Buckler:**
 
@@ -873,7 +873,7 @@ The town of Schlonko is home to a Runic Blacksmith who sells the following two a
 | **Lore** | Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
 | **Cost** | 18 Scales    |
 
-### [[Shivering Pines Inn]]
+### [[Frozen Bite#Shivering Pines Inn|Shivering Pines Inn]]
 The Runic Blacksmith at this location is found in a tent just outside the inn, at **(4876, 101, -3375)**.
 
 **When the Bough Breaks:**
@@ -1150,8 +1150,7 @@ The Ebonrun Runic Blacksmith is located near the bottom/front of the town at its
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll
-use them to move a bunch of TNT." |
+| **Lore** | "The plan goes like this: First, most of us start wearing these. They look just like our mining uniforms, but have extra shock-absorbing capability. We'll use them to move a bunch of TNT." |
 | **Cost** | 18 Scales   |
 
 **Unquakeable:**
@@ -1177,8 +1176,7 @@ use them to move a bunch of TNT." |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be
-free."  |
+| **Lore** | "Finally, a couple of us will take these and make a mad dash for the charge. With the armor, our children will survive the resulting tremor, and will finally be free."  |
 | **Cost** | 20 Scales   |
 
 **Defiant Arbalest:**
@@ -1192,8 +1190,7 @@ free."  |
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
-| **Lore** | Over the course of many dangerous expeditions, members of the Ebonfire Liberation Army have gathered enough information and resources to slowly begin arming
-themselves with facsimiles of powerful Red Dawn weaponry. Now, what they need most is an opportunity.  |
+| **Lore** | Over the course of many dangerous expeditions, members of the Ebonfire Liberation Army have gathered enough information and resources to slowly begin arming themselves with facsimiles of powerful Red Dawn weaponry. Now, what they need most is an opportunity.  |
 | **Cost** | 32 Scales <br>16 Blocks of Redstone  |
 
 ### [[Elvett]]
@@ -1869,13 +1866,9 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 --8<-- "spoiler.md"
 
-!!! danger "SPOILER WARNING!"
-
 !!! danger "This section may contain significant spoilers for the 75% completion event and its associated late-game areas."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "You have been warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
@@ -2043,6 +2036,19 @@ Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in
 | -------- | --------------------------------------------------------- |
 | **Lore** | Victory is best achieved with confidence. Victory is best kept with competence. |
 | **Cost** | 20 Amethyst Shards  |
+
+On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja, but none sell any artisan items...except for one very specific circumstance.
+
+On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then a "Gourd Merchant" will spawn at **(212, 101, -819)**, selling one Halloween-exclusive artisan item.
+
+**Very Large Pumpkin:**
+
+|                  |     |
+| ---------------- | --------- |
+| **Base Item**   | Carved Pumpkin |
+| **Armor**       | 2          |
+| **Bonus Stats (Head)** | +1 Charisma |
+| **Cost**        | 1 Amethyst Shard |
 
 ### [[Noha's Domain]]
 At an isolated building in the northwestern portion of Noha's Domain, a singular Runic Blacksmith can be found, at **(847, 56, -427)**.

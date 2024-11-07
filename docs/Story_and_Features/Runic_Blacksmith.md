@@ -55,6 +55,11 @@ Armor Trims can be obtained in Drehmal through trading with certain Runic Blacks
         | ![[netherite_upgrade_smithing_template.png]]{ width="32" } | Netherite Upgrade Template | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards <br>4 [[Runic Catalyst|Runic Catalysts]] |
         | ![[spire_armor_trim_smithing_template.png]]{ width="32" } | Spire Armor Trim | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards | 
 
+## Extras
+
+Normally, Runic Blacksmiths are immune to any sort of damage and cannot be turned into zombie villagers, but they can be killed by a player in Creative Mode or turned into a witch by a lightning strike. In this event, special merchant villagers can be re-summoned by using commands.
+
+See [[FAQ#Can Custom Villagers Be Respawned?|this FAQ section]] for a full list of these commands.
 
 
     

@@ -8,8 +8,6 @@ Artifacts are found throughout the map, from the very first areas accessible to 
 
 Artifact descriptions themselves typically do not contain spoilers, as they lean more towards additional lore information than important main storyline information, so artifacts are not separated out by lore relevance. Rather, artifacts with additional lore behind them will have an additional "Extra Lore" dropdown, containing known background information on the artifact or information that it provides toward larger pictures in Drehmal.
 
-!!! warning "The contents of this page were taken from a potentially incomplete and outdated source. It is possible (and even likely) that this list is incomplete, but it does contain the majority of the artifacts on the map."
-
 !!! warning "Like other unique items in Drehmal, artifacts are intended to be discovered as you explore the world. If you would like to discover these unique weapons, tools, and armor pieces for yourself, you should not continue reading this page."
 
 ## Open-World Artifacts

@@ -12,7 +12,7 @@ Artifacts are uncommon items found throughout the map, most often in chests. Mos
 
 ## [[Artisan Items]]
 
-Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmiths]] or one of their variants, typically at larger towns.
+Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmith|Runic Blacksmiths]] or one of their variants, typically at larger towns.
 
 ## [Legendary Items](/Items/Legendary_Items/)
 

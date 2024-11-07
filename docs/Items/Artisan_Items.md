@@ -452,7 +452,7 @@ At Frontier's Edge Gift Shop in [[Grand Pike Canyon]], the shop owner, Sera Mahr
 | **Lore** | The crafty proprietor of the Frontier's Edge Gift Shop only offers these deadly crossbows to visitors who prove they have enough common sense.  |
 | **Cost** | 23 Scales  |
 
-### [[Grimm Troupe]]
+### [[Frozen Bite#Grimm Troupe|Grimm Troupe]]
 The Grimm Troupe in the western [[Frozen Bite]] region is home to a "Runic Nailsmith" who sells only the Nail artisan, at **(4459, 119, -3274)**.
 
 **Nail:**
@@ -585,7 +585,7 @@ A Runic Blacksmith can be found in western Helmshire, at **(2872, 75, 1277)**.
 | **Cost** | 16 Scales     |
 
 ### [[Hevhlak]]
-The Tehrmari Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
+The [[Tehrmari]] Runic Blacksmith in Hevhlak is located at **(2193, 64, 208)**.
 
 **Meteor Buckler:**
 
@@ -873,7 +873,7 @@ The town of Schlonko is home to a Runic Blacksmith who sells the following two a
 | **Lore** | Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
 | **Cost** | 18 Scales    |
 
-### [[Shivering Pines Inn]]
+### [[Frozen Bite#Shivering Pines Inn|Shivering Pines Inn]]
 The Runic Blacksmith at this location is found in a tent just outside the inn, at **(4876, 101, -3375)**.
 
 **When the Bough Breaks:**

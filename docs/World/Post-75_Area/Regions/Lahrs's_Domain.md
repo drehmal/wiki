@@ -41,15 +41,15 @@ Being a mushroom biome, Lahrs' Domain is the only place on Lo'Dahr where Mooshro
 
 Multiple custom enemies can also be found in Lahrs' Domain, making traversal of the region somewhat challenging.
 
-![[noxious_skeleton.png]]{ width="100" align=right }
+![[noxious_skeleton.png]]{ width="100" }
 
 **Noxious Skeletons** are hostile, custom skeletons that spawn throughout the biome. They fire arrows which inflict their target with 10 seconds of nausea and 7 seconds of poison. 
 
-![[fungal_husk.png]]{ width="100" align=right }
+![[fungal_husk.png]]{ width="100" }
 
 **Fungal Husks** are custom Husks with mushroom-themed models and increased base damage/health. They are also found throughout this biome, sometimes in large numbers.
 
-![[cyclofly.png]]{ width="200" align=right }
+![[cyclofly.png]]{ width="200" }
 
 Finally, a string of enemies can evolve in Lahrs' Domain. Silverfish with the custom name "Larvolve" may spawn in this biome, and after some amount of time, they will enter a cocoon, turning into a stationary Shulker mob named "Putate". If this shulker survives for long enough, it will evolve into a "**Cyclofly**", the custom phantom shown at right. These phantoms will fly in a small circle just above the ground when idle, and attack the player as usual when approached.
 

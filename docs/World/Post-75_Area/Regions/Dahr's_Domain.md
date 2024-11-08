@@ -19,9 +19,9 @@ Dahr's Domain takes on an inverted-L shape, consisting of a large lake in the re
 The region has one long border with [[Loe's Domain]] to its southwest, and borders six other regions to its north and east. The swamp's water is fed by the large river that runs through the center of [[Vayniklah's Domain]] to the north, and the main lake in the south is fed by springs that form a series of cascading waterfalls.
 
 **Environmental Sub-Regions:** <br>
-- Large swamp in the western portion of the region, covered in blue trees <br>
-- Hilly, forested area along the northern border with Vayniklah's Domain <br>
-- Grasslands surrounding a massive lake in the central and southern portion of the region
+- Large swamp in the western portion of the region, covered in blue trees. <br>
+- Hilly, forested area along the northern border with Vayniklah's Domain. <br>
+- Massive lake and surrounding grasslands in the central and southern portion of the region.
 
 ![[dahr_swamp.png]]
 > The swamp sub-region of Dahr's Domain.
@@ -76,7 +76,7 @@ The abandoned village of [[Arkeje]] can be found in the far southeast of the reg
 
 ### Challenger's Grotto
 
-**[[Challenger's Grotto]]** is a cave accessed from the western side of the main lake in Dahr's Domain, and is the site of the [[Vehrniis]] boss fight.
+**[[Challenger's Grotto]]** is a cave accessed from the western side of the main lake in Dahr's Domain, and is the site of the [[Vehrniis]] boss fight. Home to the [[Proxigea]] legendary.
 
 **Coordinates:** (X: -361, Y: 16, Z: 409)
 

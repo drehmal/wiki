@@ -16,7 +16,8 @@
 
 Khive's Domain makes up approximately the northern half of Lo'Dahr's western edge, stretching from the northwest corner of the habitable zone down to the swamp of Dahr's Domain, broken into northern and southern halves by a river that belongs to Vayniklah's Domain. The terrain is hilly, and often somewhat barren, with only red sandstone rings and custom black/yellow trees adding variety to most of the landscape.
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:** 
+
 - Large bowl in the northern portion, filled with custom black and yellow/orange trees and a single winding stream, centered around Ihted Academy. <br>
 - Treeless hillside southeast of the former sub-region, separated by mountains. Populated by more rings, and home to the Mystic Gallery. <br>
 - Small marsh in the center of the region, draining east into a river in Vayniklah's Domain. <br>

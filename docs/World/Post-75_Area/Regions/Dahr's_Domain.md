@@ -18,7 +18,8 @@ Dahr's Domain takes on an inverted-L shape, consisting of a large lake in the re
 
 The region has one long border with [[Loe's Domain]] to its southwest, and borders six other regions to its north and east. The swamp's water is fed by the large river that runs through the center of [[Vayniklah's Domain]] to the north, and the main lake in the south is fed by springs that form a series of cascading waterfalls.
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:** 
+
 - Large swamp in the western portion of the region, covered in blue trees. <br>
 - Hilly, forested area along the northern border with Vayniklah's Domain. <br>
 - Massive lake and surrounding grasslands in the central and southern portion of the region.

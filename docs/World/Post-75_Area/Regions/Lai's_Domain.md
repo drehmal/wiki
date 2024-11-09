@@ -28,7 +28,9 @@ Water takes on a standard light blue color similar to warm oceans, while the sky
 
 ## Gameplay
 
-Lai's Domain is home to Nether mobs: two vanilla and two modified.
+Red Pseudodragons spawn in Lai's Domain.
+
+Lai's Domain is also home to four types of hostile Nether mobs: two vanilla and two modified.
 
 Vanilla Blazes and Magma Cubes spawn in Lai's Domain, throughout the region, and behave as usual.
 

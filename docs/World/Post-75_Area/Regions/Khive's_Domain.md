@@ -35,6 +35,8 @@ Water in this biome takes on a deep, cobalt blue color, and the sky appears yell
 
 ## Gameplay
 
+Black Pseudodragons can be found in Khive's Domain.
+
 There are multiple custom enemies found in Khive's Domain, most notably two custom zombie variants. Neither of these zombie variants take damage from the sun in daytime like vanilla zombies.
 
 ![[blinker.png]]{ width="100" }

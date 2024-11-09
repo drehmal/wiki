@@ -38,9 +38,9 @@ Polar Bears (called "Faehrbears" by the resource pack) and blue Pseudodragons sp
 
 There are also two custom enemies found in this biome.
 
-![[burrower.png]]{ width="100" } ![[burrower_particle.png]]{ width="315" }
+![[burrower.png]]{ width="100" } ![[burrower_particle.png]]{ width="310" }
 
-Custom spiders named **Burrowers** spawn naturally in Loe's Domain. They have a white body to blend in with the snow, and light blue eyes. True to their name, Burrowers will burrow into snow blocks, emitting faint particles above blocks where they have nested, and will ambush players by popping out and attacking them when approached.
+Custom spiders named **Burrowers** spawn naturally in Loe's Domain. They have a white body to blend in with the snow, and light blue eyes. True to their name, Burrowers will burrow into snow blocks, emitting faint particles above blocks where they have nested, and will ambush players by popping out and attacking them when approached. Burrowers inflict 6 seconds of poison if they hit a player.
 
 ![[freorig.png]]{ width="100" }
 

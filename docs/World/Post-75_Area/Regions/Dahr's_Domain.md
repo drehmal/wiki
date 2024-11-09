@@ -43,7 +43,7 @@ In Dahr's Domain, water takes on a light blue color, and the skybox has a simila
 
 ## Gameplay
 
-Dahr's Domain is home to **Sandhoppers**, custom spider mobs. These spiders have green eyes, are functionally immune to fall damage, and are aggressive during the day as well as at night. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders.
+Dahr's Domain is home to **Sandhoppers**, custom spider mobs. These spiders have green eyes, have jump boost and are functionally immune to fall damage, and are aggressive during the day as well as at night. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders.
 
 In the large lake, guardians (**"Dahrkin"**) can also be found. These are simply renamed vanilla Guardians.
 

@@ -16,7 +16,7 @@
 
 The majority of Lahrs' Domain is located upon a large plateau, elevating it above Taihgel's Domain to the south and Ytaj to the west, but it is still lower in altitude than most of Lai's Domain, its eastern neighbor. 
 
-Lahrs' Domain is filled with massive mushrooms, and has one major red/white mountain that stands above the rest of the land, next to which [[Lopaja Town]] is found.
+Lahrs' Domain is filled with massive mushrooms, commonly associated with Lahrs, and has one major red/white mountain that stands above the rest of the land, next to which [[Lopaja Town]] is found.
 
 There are not truly discernible sub-regions in Lahrs' Domain, with nearly the entire region's terrain being uniformly hilly and with similar levels of vegetation. However, similar to [[Akhlo'Rohma]], the exact appearance of the region's megaflora can act as a way to divide the area into its four corners:
 
@@ -51,7 +51,7 @@ Multiple custom enemies can also be found in Lahrs' Domain, making traversal of 
 
 ![[cyclofly.png]]{ width="200" }
 
-Finally, a string of enemies can evolve in Lahrs' Domain. Silverfish with the custom name "Larvolve" may spawn in this biome, and after some amount of time, they will enter a cocoon, turning into a stationary Shulker mob named "Putate". If this shulker survives for long enough, it will evolve into a "**Cyclofly**", the custom phantom shown above. These phantoms will fly in a small circle just above the ground when idle, and attack the player as usual when approached.
+Finally, a string of enemies can evolve in Lahrs' Domain. Silverfish with the custom name "Larvolve" may spawn in this biome, and after some amount of time, they will enter a cocoon, turning into a stationary Shulker mob named "Putate". This shulker has thorns, but can be killed, and will release a cloud of poison on death. If this shulker survives for long enough, it will evolve into a "**Cyclofly**", the custom phantom shown above. These phantoms will fly in a small circle just above the ground when idle, and attack the player as usual when approached.
 
 ## History
 

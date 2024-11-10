@@ -26,6 +26,8 @@ Maen's Domain is made up of the **Wooded Badlands Plateau** biome.
 
 Water appears black in this region, and the skybox has a distinct red hue. Grass blocks and cobwebs both have custom textures in this biome, appearing dark red as well.
 
+Light blue soul flame particles can be seen in the air throughout this region.
+
 ## Gameplay
 
 Three different types of custom spiders can spawn in Maen's Domain.

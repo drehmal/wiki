@@ -14,8 +14,42 @@
 
 ## Geography
 
+Moen's Domain is generally hilly, with its terrain sloping downwards from a large mountain at its center, meeting with the lower biomes that neighbor it, transitioning smoothly to Taihgel's Domain to its east. The region is roughly rectangular, and features a large lake in its center. This lake is where the Lo'Dahr tower will land at the end of the 75% Completion Event at the [[Aphelion]], and paths lead from the west up to [[Ytaj]] or to [[Naharja]] in the east.
+
+The city of Naharja takes up most of the northeastern portion of the region.
+
+### Biome Details
+
+Moen's Domain is represented by the **Deep Lukewarm Ocean** biome. 
+
+Water takes on a default light blue color, but the sky has a purple-pink tint. Colors in this region are generally bright and vivid, with heavy use of custom trees made of orange and pink wool. Grass blocks also have a light, nearly pastel shade of green in Moen's Domain. The terrain is otherwise dominated by various shades of pink, red, and white.
+
+Heart particles are visible in the air throughout Moen's Domain.
+
 ## Gameplay
+
+No enemies naturally spawn in Moen's Domain, except for a rare Killer Bunny variant.
+
+Rabbits spawn throughout the biome, including special blue variants with the name **"Moen Rabbit"**.
 
 ## History
 
+Moen's Domain's history is closely intertwined with the history of its lone city, Naharja. Naharja has long acted as the capital of [[Tehrmari]] civilization, and particularly, the home of the La'Tehrmari, the upper class of fully ascended Tehrmari who work and live directly with the [Aspects](/Lore/Higher_Beings/Aspects/). 
+
+One of the most significant factions in Tehrmari history, the [[Roheian Empire]], was born out of two groups who were ousted from Naharja after engaging in bloody battles in the city's streets.
+
+Modern Naharja has a less strict hierarchy in place, with Ro'Tehrmari heavily outnumbering the ascended La'Tehrmari in the city.
+
+## Terminus Tower
+
+The [[Terminus Network|Terminus]] tower in Maen's Domain is the only tower on all of Lo'Dahr, and only appears when the player has dropped it from the [[Aphelion]] during the 75% completion event. The tower lands in the center of a lake in the western portion of the region, with paths leading west to [[Ytaj]] and east to [[Naharja]].
+
+![[LD_tower.png]]
+
 ## Points of Interest
+
+### Naharja
+
+[[Naharja]] is the largest settlement on Lo'Dahr, and the only [official town](/World/Drehmal/Settlements/Official_Towns/) not located on [[Overworld|Drehmal]]. Naharja is home to several unique merchants, items, and lore books, and has a unique festival that takes place on every fifth day.
+
+**Coordinates:** (X: 263, Y: 75, Z: -785)

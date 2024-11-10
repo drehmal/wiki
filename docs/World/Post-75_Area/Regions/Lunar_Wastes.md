@@ -30,7 +30,8 @@ The time for this damage to kill the player depends on their armor. The cosmic r
 
 Returning to a safe zone or entering Creative/Spectator Mode will give the message `The effects fade...` in green text, and no further damage will be taken.
 
-It is possible to evade damage from the Lunar Wastes while in Survival Mode due to the way that the player is determined to be in the Wastes. The player is counted as being in the Lunar Wastes if they are in the Snowy Taiga biome, but above the build limit, there are no biomes. Therefore, if a player is able to remain above the build limit, they can avoid taking damage while in the Lunar Wastes. This can be done by bowboosting using [[Artifacts#Sharksbane|Sharksbane]] and [[Avsohm'Kohl]], a technique that has been utilized by speedrunners.
+??? warning "Lunar Wastes Exploit"
+    It is possible to evade damage from the Lunar Wastes while in Survival Mode due to the way that the player is determined to be in the Wastes. The player is counted as being in the Lunar Wastes if they are in the Snowy Taiga biome, but above the build limit, there are no biomes. Therefore, if a player is able to remain above the build limit, they can avoid taking damage while in the Lunar Wastes. This can be done by bowboosting using [[Artifacts#Sharksbane|Sharksbane]] and [[Avsohm'Kohl]], a technique that has been utilized by speedrunners.
 
 ## Points of Interest
 

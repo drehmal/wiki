@@ -14,6 +14,16 @@ No, unfortunately, there is no Bedrock version of Drehmal. Drehmal will only fun
 
 Previously, Drehmal v2.1 was built for JE version 1.16.5, and v2.2: Apotheosis was initially developed for version 1.17.1. The Apotheosis update was ported to 1.20.1 in mid-2024, and the 1.20.1 port, known officially as version 2.2.1, is currently the official version, and the only version available for download on [drehmal.net](https://drehmal.net). 
 
+### Should I Play Drehmal With Others or Alone?
+
+People often ask whether they should play this map on their own or with others. As is the case with many of these questions, it depends! There is not truly an official recommendation, although the map has been designed to be fully compatible with multiplayer, up to 8 people at once. Note: this limit does not mean that more than 8 people cannot play on a Drehmal server, but rather, it simply means that some story locations are not designed for more than 8 players at a time.
+
+There are pros and cons to each style of playthrough, but ultimately, both are completely valid ways to experience the map. A singleplayer world ensures that you will have control over the pace and direction of exploration. It also guarantees that you will be able to use any unique weapons that you find to whatever extent you desire, and perhaps most importantly, avoids the sometimes confusing process of setting up a server. 
+
+A multiplayer playthrough, on the other hand, may be able to progress more efficiently, with players able to split up in larger dungeons and clear areas in much less time. More simply, if you have friends who are also interested in the map, it can just be a cool thing to experience with your friends! Do keep in mind, however, that a full playthrough of Drehmal can be a significant time commitment (depending on how thoroughly you explore, a first playthrough often takes between 40 and 80 hours of in-game time), which may cause problems if you want to play with a large group that has varying amounts of free time. Loot around the world is balanced with a single player or small party (2-4) in mind, so larger parties may also suffer from a lack of resources, especially in the early game.
+
+Ultimately, it's up to you and whoever you're thinking of playing with.
+
 ### How Do I Play Drehmal With Others?
 
 There are several ways to play Drehmal with friends, with both paid server hosting and free self-hosting options. The Drehmal development team is officially sponsored by Apex for paid hosting, and you can follow the [[Getting Started#Drehmal Installer|instructions from the installer's]] "Server Installation" option. Most options for hosting are viable, with some notable exceptions.
@@ -233,6 +243,12 @@ There are many knowledge gates in Drehmal—structures you technically *can* fin
 Almost every single resource and vanilla Minecraft item is obtainable to some extent in Drehmal. Even though the Nether is inaccessible, you can find Nether resources and mobs in set places throughout the map. Traversal items such as elytra are obtainable through story progression. Traders exist for some specialized items, such as sculk blocks and armor trims. Almost everything can be obtained in some way, although these items may not function exactly the same as they do in vanilla Minecraft.
 
 ## Other Resources
+
+### Are There Other Maps Similar to Drehmal?
+
+In the grand scheme of Minecraft maps, Drehmal is relatively unique in the number of elements that it combines into one experience. There do exist other maps with similar levels of detailed custom terrain, there are other maps that tell similarly ambitious main stories, and there are other maps that are heavily exploration-based, but the consensus within the community is that Drehmal is currently one of a kind in this space. 
+
+Drehmal draws some inspiration from classic and well-known CTM (Complete the Monument) adventure maps.
 
 ### Is There A World Map I Can Use?
 

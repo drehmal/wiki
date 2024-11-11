@@ -10,11 +10,11 @@
 
 ## Description { data-search-exclude }
 
-![[nahyn_domain.png]]{ align=right width=”300” }
+![[nahyn_domain.png]]
 
 **Nahyn's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to Summit-Drake [[Nahyn]], the Aspect of Mountains. This region comprises multiple sub-regions, including three snow-capped peaks, coniferous forest, and a small open meadow. The region sits near the geographic center of Lo'Dahr's habitable area, slightly to the east of the midline, and bordering several other regions.
 
-| **Biome Details**   |                   |
+|                  |                   |
 |:----------------:|:-----------------:|
 | **Minecraft Biome**  | Wooded Mountains  |
 | **Water Color**      | Blue              |
@@ -73,4 +73,4 @@ A quartz gateway can appear in the center of the meadow in Nahyn's Domain, altho
 ??? warning "Gate Info"
     This gateway is one of 6 portals between [[Overworld|Drehmal]] and [[Lo'Dahr]], and this one in particular is linked to the portal found at the top of the [[Burnt Palace]] portal in the [[Hellcrags]]. This gate can only be activated from the Drehmal side.
 
-
+**Coordinates:** (X: 221, Y: 80, Z: 212)

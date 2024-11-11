@@ -10,7 +10,7 @@
 
 ## Description { data-search-exclude }
 
-![[lai_domain.png]]{ align=right width=”300” }
+![[lai_domain.png]]
 
 **Lai's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Aspect of Warmth, Brightwyrm [[Lai]]. The region is made up almost entirely of a single massive red-and-black volcano. It is found in the far northeastern portion of Lo'Dahr's habitable area, bordering only [[Lahrs' Domain]] to the west and [[Taihgel's Domain]] to the south, sharing a strong resemblance to the latter region.
 

@@ -10,7 +10,7 @@
 
 ## Description { data-search-exclude }
 
-![[lahrs_domain.png]]{ align=right width=”300” }
+![[lahrs_domain.png]]
 
 **Lahrs' Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the mysterious Aspect of Resonance, [[Lahrs]]. Covered in fungus and sitting atop a hill that separates it from its neighbors, the region resembles an exaggerated version of Minecraft's Mushroom Island biome. The region is relatively small, and sits in the north-northeastern portion of Lo'Dahr's habitable area, just east of [[Ytaj]]. It borders [[Lai's Domain]] to the east, and [[Taihgel's Domain]] to the south.
 

@@ -10,7 +10,7 @@
 
 ## Description { data-search-exclude }
 
-![[loe_domain.png]]{ align=right width=”300” }
+![[loe_domain.png]]
 
 **Loe's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Aspect of Cold, Glacial Elder [[Loe]]. This region is completely frozen over, with several unique structures found throughout its snowy expanse. The region sits in the far southwest of Lo'Dahr's habitable area, encircled partially by [[Dahr's Domain]] and partially by the [[Lunar Wastes]].
 

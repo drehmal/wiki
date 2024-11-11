@@ -10,7 +10,7 @@
 
 ## Description { data-search-exclude }
 
-![[rihelma_domain.png]]{ align=right width=”300” }
+![[rihelma_domain.png]]
 
 **Rihelma's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Elder Sky Aspect [[Rihelma]]. This domain has three distinct sub-regions, tied together by the presence of floating islands of varying size, up until the Star-Rise, the largest mountain in the realm, at the southern edge of the domain. The region sits in the far southeastern portion of Lo'Dahr's habitable area, bordering [[Voynahla's Domain]] and [[Palaesida's Domain]] to the west, as well as [[Nahyn's Domain]] and [[Noha's Domain]] to the north.
 

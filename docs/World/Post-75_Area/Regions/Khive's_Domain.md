@@ -10,7 +10,7 @@
 
 ## Description { data-search-exclude }
 
-![[khive_domain.png]]{ align=right width=”300” }
+![[khive_domain.png]]
 
 **Khive's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the most powerful of the [Aspects](/Lore/Higher_Beings/Aspects/), the Mystic Elder [[Khive]]. This region is made up overwhelmingly of black and yellow hills, and is littered with mysterious red sandstone rings. The region sits in the far west and northwestern portion of Lo'Dahr's habitable area, bordering [[Vayniklah's Domain]] to the east and [[Dahr's Domain]] to the south.
 

@@ -13,15 +13,17 @@ search:
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+## Description
+
 ![[nahyn_domain.png]]{ align=right width=”300” }
 
 **Nahyn's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to Summit-Drake [[Nahyn]], the Aspect of Mountains. This region comprises multiple sub-regions, including three snow-capped peaks, coniferous forest, and a small open meadow. The region sits near the geographic center of Lo'Dahr's habitable area, slightly to the east of the midline, and bordering several other regions.
 
-|                  | **Biome Details** |
+| **Biome Details**   |                   |
 |:----------------:|:-----------------:|
-| Minecraft Biome  | Wooded Mountains  |
-| Water Color      | Blue              |
-| Sky Color        | Gray              |
+| **Minecraft Biome**  | Wooded Mountains  |
+| **Water Color**      | Blue              |
+| **Sky Color**        | Gray              |
 
 ## Geography
 
@@ -59,7 +61,7 @@ The northeastern of the three mountains in Nahyn's Domain is hollow, and inside 
 
 ### Fort Aelon
 
-[[Fort Aelon]] is a now-abandoned castle in the northwest of Nahyn's Domain, which once served as a key location for the [[Roheian Empire]]. A [[Fervor Stone#Stone of Agony|Stone of Agony]] is found at this location.
+[[Fort Aelon]] is a now-abandoned castle in the northwest of Nahyn's Domain, which once served as a key location for the [[Roheian Empire]]. A [[Fervor Stones#Stone of Agony|Stone of Agony]] is found at this location.
 
 **Coordinates:** (X: 88, Y: 153, Z: -275)
 

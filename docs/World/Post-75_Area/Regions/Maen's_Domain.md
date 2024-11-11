@@ -8,6 +8,8 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+## Description { data-search-exclude }
+
 ![[maen_domain.png]]{ align=right width=”300” }
 
 **Maen's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the exiled Aspect of Hate, [[Maen]]. This region resembles a cross between the Basalt Delta and Soul Sand Valley biomes in vanilla Minecraft's Nether. The region sits very close to the geographic center of Lo'Dahr's habitable area, bordering [[Dahr's Domain]] to the south, [[Vayniklah's Domain]] to the west, [[Moen's Domain]] to the northeast, and [[Nahyn's Domain]] to the east.

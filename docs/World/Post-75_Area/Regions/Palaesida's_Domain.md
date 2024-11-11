@@ -8,6 +8,8 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+## Description { data-search-exclude }
+
 ![[palaesida_domain.png]]{ align=right width=”300” }
 
 **Palaesida's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the deceased Aspect of Storms, Tempest [[Palaesida]]. This region was once a sea, but since its patron's death, has dried and blackened, eventually being consumed by an eternal storm after his bones arose from their resting place[^1]. The region sits just southeast of the geographic center of Lo'Dahr's habitable area, bordering [[Dahr's Domain]] to the west, [[Nahyn's Domain]] to the north, [[Rihelma's Domain]] to the east, and [[Voynahla's Domain]] to the south.

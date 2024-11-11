@@ -8,6 +8,8 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+## Description { data-search-exclude }
+
 ![[noha_domain.png]]{ align=right width=”300” }
 
 **Noha's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the deceased Aspect of Meadows, [[Noha]]. This region starkly contrasts with itself, primarily being made up of dead, decaying grasslands which have turned black, with a single thriving, grassy village at its center, along with the bones of Noha herself. The region is located at the central-eastern edge of Lo'Dahr's habitable area, bordering [[Taihgel's Domain]] to the north, [[Nahyn's Domain]] to the west, and [[Rihelma's Domain]] to the south.

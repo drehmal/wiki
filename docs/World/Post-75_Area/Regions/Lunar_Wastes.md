@@ -8,6 +8,10 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
+## Description { data-search-exclude }
+
+![[lunar_wastes.png]]
+
 The **Lunar Wastes** are the region outside of [[Lo'Dahr]]'s habitable area. In this area, cosmic rays are much stronger, and will deal significant damage to the player if they enter. This makes it effectively impossible to navigate this area without switching to Creative/Spectator Mode or enabling NoFail mode in the `/trigger Settings` menu. There are no points of interest to be found in the Lunar Wastes themselves aside from minor easter eggs.
 
 ## Geography

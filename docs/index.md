@@ -31,7 +31,7 @@ Drehmal is a fantastic experience, and while this wiki is here to help you navig
 
 Drehmal is designed without the use of outside resources in mind, and can absolutely be completed that way! If this is your first playthrough (even if you've played an older version before but not 2.2), don't rob yourself of the wonderful time this map has to offer. Due to the nature of some aspects of the map, it is nearly impossible for this wiki to be comprehensive without being a significant spoiler risk for new players. Even the names of some pages and folders could be considered a spoiler!
 
-As such, this wiki has been (and will continue to be) exhaustively tagged with spoilers. At the top of each page, look for any spoiler messages that look like this:
+As such, this wiki has been (and will continue to be) thoroughly tagged with spoilers. At the top of each page, look for any spoiler messages that look like this:
 
 --8<-- "spoiler.md"
 

@@ -64,7 +64,7 @@ The [[Inscription Complex]] is an Avsohmic facility built on the underside of a 
 
 ### Greyspire Castle
 
-[[Greyspire Castle]] is a castle found atop a mountain in the north of Loe's Domain. This location is home to several lore books with significant implications, an [[Artifacts#Luminous Diadem|artifact]], and a [[Fervor Stone]]. 
+[[Greyspire Castle]] is a castle found atop a mountain in the north of Loe's Domain. This location is home to several lore books with significant implications, an [[Artifacts#Luminous Diadem|artifact]], and a [[Fervor Stones#Stone of Worry|Stone of Worry]]. 
 
 **Coordinates:** (X: -840, Y: 179, Z: 583)
 

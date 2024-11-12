@@ -36,28 +36,28 @@ In the far south of the region lies possibly the most iconic landmark in all of 
 
 ## Gameplay
 
-Reaching the floating islands in Rihelma's Domain can be quite difficult, as some are over 100 blocks above ground level. Simply towering up with blocks can be effective, although flying enemies in the region are known to knock off players who attempt to do so. Players may also try to climb in smaller increments to other islands and then glide between them, or even climb to the top of Aldregakar and then glide north to the main islands using [[Avsohm'Kohl]].
+Reaching the floating islands in Rihelma's Domain can be quite difficult, as some are over 100 blocks above ground level. Simply towering up with blocks can be effective, although flying enemies in the region are known to knock off players who attempt to do so. Players may also try to climb in smaller increments to other islands and then glide between them, or even climb to the top of Aldregakar and then glide north to the main islands using [[Avsohm'Kohl]]. Some islands also have columns of water falling from them which can be swam up, but this can also be difficult due to hostile mob spawns.
 
 Custom dark blue llama variants known as "**Moon Llamas**" spawn in this region.
 
 Multiple types of custom enemies can also spawn in Rihelma's Domain.
 
 | Category   | Description                                    |
-|:----------:|:----------------------------------------------:|
+|:----------:|:-----------------------------------------------|
 | **Name**   | Phoenix                                        |
 | **Base Mob** | Phantom                                      |
 | **Image**  | ![[phoenix.png]]{ width="100" }  |
 | **Description** | Phoenixes are custom flaming phantoms that spawn in this region. Similar to the mythological creatures from which they take their name, phoenixes can be resurrected, dissolving into a small pile of fire particles upon their first death. They will be revived after a few seconds, and upon their second death, will not revive again. Phoenixes do not resurrect if their ashes (the pile of particles) touches any kind of water—if it is raining, Phoenixes cannot revive, and players may place down a water bucket on a Phoenix's ashes to kill it for good. Phoenixes can also spawn with a skeleton riding them, in which case the skeleton is known as an **Ashen Rider**.   |
 
 | Category   | Description                                    |
-|:----------:|:----------------------------------------------:|
+|:----------:|:-----------------------------------------------|
 | **Name**   | Bright Reveler                                        |
 | **Base Mob** | Skeleton                                      |
 | **Image**  | ![[bright_reveler.png]]{ width="100" }  |
 | **Description** | Bright Revelers are custom skeletons, which shoot alternating kinds of tipped arrows. During the day, these mobs shoot flaming arrows, and at night, they shoot arrows which inflict 3 seconds of Blindness. On death, Bright Revelers can drop either flaming arrows or tipped arrows which inflict 11 seconds of Blindness—whichever type they were holding when killed. These mobs are found in large numbers alongside Pale Revelers, especially in the northern portion of the region.  |
 
 | Category   | Description                                    |
-|:----------:|:----------------------------------------------:|
+|:----------:|:-----------------------------------------------|
 | **Name**   | Pale Reveler                                        |
 | **Base Mob** | Zombie                                      |
 | **Image**  | ![[pale_reveler.png]]{ width="100" }  |
@@ -69,7 +69,7 @@ Atop Aldregakar's summit in particular, there are 5 exposed amethyst geodes. Eac
 
 Rihelma's Domain was the location of [[Avsohm]]'s initial landing on the divine moon, at the location that would quickly become the [[Resupply Depot]]. The empire made this location the center of their operations on the moon until the establishment of the [[Core Facility]], and this region remained important for Avsohmic operations until [[Fall of Avsohm|their fall]].
 
-The floating island town of [[Rihanar]], also in the northern portion of the region, was once the third-largest city in all of Lo'Dahr, but its inhabitants all mysteriously vanished one day, leaving a mostly-intact city. Other settlements have been made in Rihelma's Domain, tending to take shelter from the hostile creatures on the ground floor by living either on floating islands or within the Star-Rise.
+The floating island town of Rihanar, also in the northern portion of the region, was once the third-largest city in all of Lo'Dahr, but its inhabitants all mysteriously vanished one day, leaving a mostly-intact city. Other settlements have been made in Rihelma's Domain, tending to take shelter from the hostile creatures on the ground floor by living either on floating islands or within the Star-Rise.
 
 ## Points of Interest
 

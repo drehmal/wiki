@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1.2
+---
+
 # Drehmal (Location)
 
 --8<-- "under_construction.md"

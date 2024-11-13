@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Frequently Asked Questions (FAQ)
 
 This article contains answers to some frequently asked questions regarding game setup, Drehmal gameplay, and other outside resources related to the map. 

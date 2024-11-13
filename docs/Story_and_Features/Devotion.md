@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1.5
+---
+
 # Devotion
 
 ![[drehmal_shrine.png]]

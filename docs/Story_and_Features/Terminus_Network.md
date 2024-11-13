@@ -1,3 +1,8 @@
+---
+search:
+  boost: 1.2
+---
+
 # Terminus Network
 
 --8<-- "under_construction.md"

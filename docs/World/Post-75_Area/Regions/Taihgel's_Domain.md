@@ -28,6 +28,10 @@ Some small bodies of water can be found in this region, in addition to large lav
 
 Strange yellow/orange pyramids and crystals grow out of the ground in some parts of this region, with particularly high density in the far east.
 
+Custom red trees can also be found throughout the region, made of crimson hyphae and crucible wart (Nether wart) blocks.
+
+There are some small areas in this region which look out of place, however. One tall plateau just east of the Core Facility is covered in mycelium and mushrooms, highly reminiscent of the terrain in Lahrs' Domain. Another massive arch is covered in regular dirt and grass blocks, and culminates in a large spruce wood tree.
+
 ## Gameplay
 
 The mobs found in Taihgel's Domain are mostly vanilla Nether mobs, primarily Hoglins and Magma Cubes.

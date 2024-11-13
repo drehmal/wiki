@@ -32,8 +32,6 @@ Inside, the player finds a large repository containing information on important 
 
 !!! danger "If you have not completed the full sequence at the Ancillary Research Facility in Sal'Mevir, up through acquiring the legendary item at the end of the area, be advised that the contents of this article may spoil that experience."
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
-
 ## Ancillary Research Facility/Sal'Mevir (25% SPOILERS)
 Upon reaching 25% tower linkage (8 towers), avSYS will give the player a compass and request their presence at the Ancillary Research Facility in [[Sal'Mevir]]. The player can then follow that compass to the research facility, which is in southeastern [[Purity Peaks]]. 
 
@@ -47,8 +45,6 @@ Here, they can discover some old Avsohmic technology and research logs, document
 !!! danger "The next two sections contains spoilers for the 50% completion story event." 
 
 !!! danger "If you have not played through the entirety of the 50% story event at Exodus Citadel, all the way through to emerging from the facility back to the surface, then it is recommended that you DO NOT continue reading this article."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ## Exodus Vault (50% SPOILERS)
 Upon reaching 50% tower linkage (16 towers), avSYS will give the player another compass, pointing them towards the [[Exodus Citadel]] in [[Nimahj Swamp]]. At this facility, the player must solve a puzzle to open the door to the large, underwater [[Exodus Vault]]. This site was the former headquarters of [[Blue Exodus]], the primary military branch of Avsohm's government. 
@@ -79,13 +75,9 @@ Aboard the Aphelion, the player navigates through the ship via maintenance tunne
 
 The player then manages to navigate around the outside of the ship, through the vacuum of space, to a hangar bay containing a prototype warp tower. Here, they can activate an injection sequence, which drops the tower down and out of the ship. A few seconds later, the player can then press another button in the room to be transported to the landing spot of the tower: a lake on [[Lo'Dahr]].
 
-!!! danger "SPOILER WARNING!"
-
 !!! danger "The following sections contain significant spoilers for the 75% completion event and its associated late-game areas."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ## Core Facility (POST-75% SPOILERS BEGIN HERE)
 Upon first landing on Lo'Dahr, a likely first step will be following a compass found on the Aphelion to the [[Core Facility]], just east of the town of [[Naharja]]. This facility, whose function is not immediately clear, appears small at first, containing only a slightly fuzzy map of the moon's habitable area, a few blank holotext spots, and a security checkpoint reminiscent of that at the entrance to the Admin Wing. 
@@ -115,8 +107,6 @@ After passing through the admin-wing-like security checkpoint, the player comes 
 The Numencore, located deep within the center of the moon itself, is a massive source of primal energy—the source of [[Khive|Mystic Elder Khive]]'s power. There are holotexts throughout the facility which establish that Avsohm's plan was to charge the Mythbreaker at the Numencore, use the spear's power to tear a hole in the Veil, and peer beyond the edges of the realm, but this operation was indefinitely postponed for fear of incurring Khive's wrath, and Avsohm fell before they had the chance to attempt this plan.
 
 !!! danger "All content past this point contains spoilers for late-game and end-game areas. At this point, if you have not seen the vanilla end credits, then it is recommended that you do not continue reading."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ???+ success "So be it."
     ![Open Spoiler Door](/assets/img/yav_dooropen.png)
@@ -153,9 +143,8 @@ This is not the end of the story.
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+???+ success "So be it."
+    ![Open Spoiler Door](/assets/img/yav_dooropen.png)
 
 ## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE) { data-search-exclude }
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 

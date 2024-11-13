@@ -53,22 +53,26 @@ At the top of your screen, you should see 6 main tabs besides the current one, w
 - Looking for info on the many new items that Drehmal adds to the Minecraft experience? **[Items](/Items/)** is where you'll find all of the unique items that Drehmal has to offer. These range from [Legendary](/Items/Legendary_Items/) and [Mythical](/Items/Mythical_Weapons/) weapons—weapons with incredibly powerful stats, custom models, and custom abilities—to [[Relics]], off-hand items gained through the unique [[Devotion]] mechanic that boost player stats. <br>
 - Interested in the deeper intricacies of the map's rich history? **[Lore](/Lore/)** is your one-stop shop for all things beyond the main story! Here, you can find a [comprehensive list of every lore book](/Lore/Books/), information on the [gods of the realm](/Lore/Higher_Beings/), pages describing [major historical events](/Lore/Historical_Events/), and much more! <br>
 - **[Misc](/Misc/)** is our spot for miscellaneous articles, those that just don't quite fit anywhere else. Have a look and see what oddities the map has to offer! <br>
-- Just finished the story, or a part of it, and want a refresher on what exactly just happened? Are you stuck on a particular puzzle at a main story location? **[Story and Features](/Story_and_Features/)** is where you can find pages related to the main story and core mechanics of Drehmal. This includes a [[Story Progression|summary of the story]], a list of all Drehmal's story-driving [holotexts](/Story_and_Features/Holotexts/), a thorough description of the [[Devotion]] system, pages detailing the story beats, gameplay, and lore of the many [story locations](/Story_and_Features/Story_Locations/), and more! Just beware of spoilers... <br>
-- Lost in the expanse of the continent, or just want to read a bit about interesting locations? **[World](/World/)** is where you'll find pages relating to the open world of Drehmal. [[Overworld|Drehmal (Location)]] is a great place to start if you're just looking to get an idea for how to start exploring the world, or how to navigate that section of the wiki. Also check out our [Drehmal Regions Overview](/World/Drehmal/Regions/), which contains a list of the world's regions and major POIs within those regions for a broad look at the map! Tracking your linked towers and visited towns? Interested in reading more about the towns of Drehmal? Check out [Settlements](/World/Settlements/)!
+- Just finished the story, or a part of it, and want a refresher on what exactly just happened? Are you stuck on a particular puzzle at a main story location? **[Story and Features](/Story_and_Features/)** is where you can find pages related to the main story and core mechanics of Drehmal. This includes a [[Story Progression|summary of the story]], a list of all Drehmal's story-driving [holotexts](/Story_and_Features/Holotexts/), a thorough description of the [[Devotion]] system, pages detailing the story beats, loose gameplay walkthroughs, and lore of the many [story locations](/Story_and_Features/Story_Locations/), and more! Just beware of spoilers... <br>
+- Lost in the expanse of the realm, or just want to read a bit about interesting locations? **[World](/World/)** is where you'll find pages relating to every part of the open world—that is, locations which are not explicitly part of the main story. [[Overworld|Drehmal (Location)]] is a great place to start if you're just looking to get an idea for how to start exploring the map, or how to navigate that section of the wiki. Also check out our [Drehmal Regions Overview](/World/Drehmal/Regions/), which contains a list of the world's regions! Region pages are intended to serve as a rough guide for exploration of an area, providing a list of major points of interest and giving you an idea for what to expect in that region. 
 
 Navigating through these tabs is the cleanest way to use this wiki, but there is also a built-in search function! Just be aware, this search bar will reveal **all** matches for a term, including matches for early-game terms on very late-game spoiler articles, so it is recommended that you stay away from that feature if you are at all concerned about spoilers. For spoiler protection, some extremely spoiler-heavy end-game articles do not appear in search results, but can be found from the [Story Locations](/Story_and_Features/Story_Locations/) folder if you have reached that point and want to read about them.
 
 ??? note "Progress Notes: Finished Sections"
-    The following sections are the ONLY parts of this wiki that have been thoroughly updated with new content and edited to a final-ish state. EVERYTHING except these sections should be considered unfinished, and carries a much higher risk of having inaccurate information or untagged spoilers. This will be updated as further progress is made. <br>
-    - (Help) Getting Started/FAQ <br>
-    - (Items) All Pages/Sections <br>
-    - (Lore) Books <br>
-    - (Lore) Transcripts <br>
-    - (Story & Features) Holotexts <br>
-    - (Story & Features) Devotion <br>
-    - (Story & Features) Advancements <br>
-    - (Story & Features) Story Progression + Story Locations <br>
-    - (World) Drehmal: Central Regions & Eastern Regions
+    The following sections/pages are the ONLY parts of this wiki that have been thoroughly updated with new content and edited to a final-ish state. Everything except these sections should be considered unfinished, and will likely be incomplete, with a slight possibility of untagged spoilers or outdated information. Sections are denoted in **bold**, while individual pages are denoted with *italics*. This will be updated as further progress is made. <br>
+    - (Help) **Getting Started/FAQ** <br>
+    - (Items) **All Pages/Sections** <br>
+    - (Lore) **Books** <br>
+    - (Lore) **Transcripts** <br>
+    - (Misc) *Cat Maps* <br>
+    - (Story & Features) *Advancements* <br>
+    - (Story & Features) *Devotion* <br>
+    - (Story & Features) **Holotexts** <br>
+    - (Story & Features) *Story Progression* + **Story Locations** <br>
+    - (World) **Central Regions** <br> 
+    - (World) **Eastern Regions** <br>
+    ??? warning "Late-Game (Post-75%) Content"
+        (World) **Post-75% Regions**
 
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!

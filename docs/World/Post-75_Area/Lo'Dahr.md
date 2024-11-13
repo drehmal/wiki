@@ -53,7 +53,7 @@ The [Trials](/World/Post-75_Area/Points_of_Interest/Trials/) are a set of six ga
 Six mysterious gate-like structures with infused amethyst floors (typically accompanied by a white quartz gate) can be found on [[Overworld|Drehmal]], and two of these structures can also be found on Lo'Dahr. These are some of the game's most infamous knowledge gates—the solution is not readily apparent, but you technically can crack these at any time. 
 
 ??? warning "Gateway Explanation"
-    These structures are portals between [[Overworld|Drehmal]] and Lo'Dahr, of which there are six in total. Two can be activated from the Lo'Dahr side—[[Lai's Domain#Gateway Temple|one in Lai's Domain#]] and one in [[Loeturia]]—and these two locations are also home to the only explicit hints (found in lore books) as to the activation method for these structures.
+    These structures are portals between [[Overworld|Drehmal]] and Lo'Dahr, of which there are six in total. Two can be activated from the Lo'Dahr side—[[Lai's Domain#Gateway Temple|one in Lai's Domain]] and one in [[Loeturia]]—and these two locations are also home to the only explicit hints (found in lore books) as to the activation method for these structures.
     ??? danger "How to Activate Portals"
         Portals can be activated by throwing a single amethyst shard onto the infused amethyst block in their center. This is hinted at by the increased presence of amethyst shards around some overworld portals (such as the Spearhead Forest portal and the Burnt Palace portal), but is not explicitly stated except for in the two books mentioned above.
     ??? info "Portal Locations"

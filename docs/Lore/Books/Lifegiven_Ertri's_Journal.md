@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest at the Lifegiven Hospital in [[Vayniklah's Domain]]. It tells us that when Avsohm reached [[Lo'Dahr]], they brought with them a plague that infected and killed many [[Tehrmari]], known as the Sanguine Corrode (or simply The Corrode), and the Lifegiven at this hospital began to turn them away for fear of contracting the disease themselves.
+This book can be found in a chest at the Lifegiven Hospital in [[Vayniklah's Domain]]. It tells us that when Avsohm first reached [[Lo'Dahr]], they brought with them a plague that infected and killed many [[Tehrmari]], known as the Sanguine Corrode (or simply The Corrode). Eventually, the Lifegiven at this hospital began to turn victims of this plague away for fear of contracting the disease themselves, and the author curses Avsohm for bringing this curse upon the Tehrmari.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

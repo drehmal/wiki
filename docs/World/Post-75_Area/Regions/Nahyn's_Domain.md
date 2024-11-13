@@ -38,9 +38,13 @@ Two custom enemies can also be found here.
 
 **Dire Bears** are variants of polar bears who aggro more easily, deal more damage, and appear brown like grizzly bears.
 
-![[tremorlith.png]]{ width="100" }
-
-**Tremorliths** are custom magma cubes, re-textured to appear like deepslate. Tremorliths can spawn either as full-size (size 4) magma cubes, or as small magma cubes, with the "**Tremorlittle**" name. Tremorliths are well-armored, and cause small explosions when they jump and land. Tremorliths are, however, uniquely vulnerable to pickaxes, being made of stone, and a special advancement can be obtained by killing a Tremorlith using a Silk Touch-enchanted pickaxe. Tremorliths drop one piece of deepslate on death.
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Tremorlith                                     |
+| **Base Mob** | Magma Cube                                 |
+| **Image**  | ![[tremorlith.png]]{ width="100" }  |
+| **Description** | **Tremorliths** are custom magma cubes, re-textured to appear like deepslate. Tremorliths can spawn either as full-size (size 4) magma cubes, or as small magma cubes, with the "**Tremorlittle**" name. Tremorliths are well-armored, and cause small explosions when they jump and land. Tremorliths are, however, uniquely vulnerable to pickaxes, being made of stone. Tremorliths drop one piece of deepslate on death.  |
+| **Notes** |  The "A Gentle Slaughter" advancement can be obtained by killing a Tremorlith using a Silk Touch-enchanted pickaxe. |
 
 ## History
 

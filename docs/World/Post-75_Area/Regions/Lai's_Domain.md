@@ -14,6 +14,12 @@
 
 **Lai's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Aspect of Warmth, Brightwyrm [[Lai]]. The region is made up almost entirely of a single massive red-and-black volcano. It is found in the far northeastern portion of Lo'Dahr's habitable area, bordering only [[Lahrs' Domain]] to the west and [[Taihgel's Domain]] to the south, sharing a strong resemblance to the latter region.
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Snowy Beach  |
+| **Water Color**      | Light Blue    |
+| **Sky Color**        | Orange     |
+
 ## Geography
 
 Lai's Domain is predominantly taken up by one massive volcano, whose lava flows from a caldera at its peak down multiple paths to lava lakes, including a massive pool that forms the eastern edge of this domain and Taihgel's Domain. 
@@ -21,12 +27,6 @@ Lai's Domain is predominantly taken up by one massive volcano, whose lava flows 
 The terrain is dominated by red and black, formed primarily by Taihryte (netherrack), red terracotta, black concrete, and obsidian. 
 
 Most of the structures in this area are built into hillsides, although there are some areas where the terrain is somewhat flat (most notably along the western border with Lahrs' Domain), and there are also sparse ponds and small lakes, including a large body of water in this western plateau. These bodies of water are surrounded by blue crystal trees, and red crystal trees can be found elsewhere in the region.
-
-### Biome Details
-
-Lai's Domain is the **Snowy Beach** biome.
-
-Water takes on a standard light blue color similar to warm oceans, while the sky has an orange color in this domain.
 
 ## Gameplay
 
@@ -36,13 +36,19 @@ Lai's Domain is also home to four types of hostile Nether mobs: two vanilla and 
 
 Vanilla Blazes and Magma Cubes spawn in Lai's Domain, throughout the region, and behave as usual.
 
-![[cool_blaze.png]]{ width="100" }
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Sacred Flame                                       |
+| **Base Mob** | Blaze                                      |
+| **Image**  | ![[cool_blaze.png]]{ width="100" }  |
+| **Description** | Modified Blazes known as **Sacred Flames** spawn in Lai's Domain, and appear to simply be Blazes with a red and black texture, as well as increased damage and triple the health of a vanilla Blaze.  |
 
-Modified Blazes known as **Sacred Flames** spawn in Lai's Domain, and appear to simply be Blazes with a red and black texture, as well as increased damage and triple the health of a vanilla Blaze.
-
-![[volcano_hoglin.png]]{ width="100" }
-
-Custom hoglins known as **Volcano Hoglins** also spawn in this biome. They are capable of tossing the player up in the air and shooting explosive magma block projectiles out of their back.
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Volcano Hoglin                                       |
+| **Base Mob** | Hoglin                                      |
+| **Image**  | ![[volcano_hoglin.png]]{ width="100" }  |
+| **Description** | Custom hoglins known as **Volcano Hoglins** also spawn in this biome. They are capable of tossing the player up in the air and shooting explosive magma block projectiles out of their back.  |
 
 ## History
 

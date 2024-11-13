@@ -63,6 +63,14 @@ Vayniklah's Domain is full of passive bees and can be a very scenic location, bu
 | **Image**  | ![[zombee.png]]{ width="100" }  |
 | **Description** | Hive Drones are custom zombies with a bee-like appearance, who spawn with increased health and base damage compared to vanilla zombies. |
 
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Sandhopper                                       |
+| **Base Mob** | Spider                                      |
+| **Image**  | ![[sandhopper.png]]{ width="100" }  |
+| **Description** | These spiders have green eyes, have jump boost, are functionally immune to fall damage, and are aggressive at all times. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders. |
+| **Notes**  | Also found in [[Dahr's Domain]]. |
+
 ## History
 
 This region's primary settlement is the Lifegiven Hospital, located in the northeast along the riverbank. This [[Tehrmari]] hospital contains [[Lifegiven Ertri's Journal|a book]] which provides insight into the relationship between [[Avsohm]] and the people of Lo'Dahr. This book describes the Sanguine Corrode, a [[Drehmari]] disease that was brought to Lo'Dahr by Avsohm in late Av2, and which ravaged the local population even years after the [[Fall of Avsohm|empire's disappearance]]. 

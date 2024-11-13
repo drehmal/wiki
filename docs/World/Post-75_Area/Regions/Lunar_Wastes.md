@@ -14,15 +14,17 @@
 
 The **Lunar Wastes** are the region outside of [[Lo'Dahr]]'s habitable area. In this area, cosmic rays are much stronger, and will deal significant damage to the player if they enter. This makes it effectively impossible to navigate this area without switching to Creative/Spectator Mode or enabling NoFail mode in the `/trigger Settings` menu. There are no points of interest to be found in the Lunar Wastes themselves aside from minor easter eggs.
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Snowy Taiga  |
+| **Water Color**      | Gray    |
+| **Sky Color**        | Gray     |
+
 ## Geography
 
 The Lunar Wastes are desolate, barren, and gray, made up almost entirely of a mixture of stone, gravel, light gray concrete powder, gray concrete, and deepslate. Occasional craters can be found in the landscape, revealing bits of Otherstone (end stone) deeper underground, as well as blackstone. 
 
 To the far northwest, there is a patch of land which is mostly Otherstone, in a rough elliptical pattern. It is possible that this is where the [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]] was once located.
-
-The Lunar Wastes are represented by the **Snowy Taiga** biome.
-
-There is very little naturally occurring water in the Wastes, but both water and the sky take on a gray color in this biome.
 
 ## Gameplay
 
@@ -45,7 +47,7 @@ Returning to a safe zone or entering Creative/Spectator Mode will give the messa
 
 MoonDonalds is an easter egg location, found in the far eastern Lunar Wastes, roughly due east of [[Lajani]]. It is a parody of a McDonalds restaurant, and contains numerous easter eggs inside, including a bee named "HiscottiBeescotti" (a reference to developer HiscottiBiscotti), a [[Cat Maps|Priscilla picture]], and several other humorous named items.
 
-MoonDonalds is too far into the Lunar Wastes to reach without the use of cheats or exploits.
+MoonDonalds is too far into the Lunar Wastes to reach without the use of cheats, NoFail, or exploits.
 
 **Coordinates:** (X: 2292, Y: 43, Z: -204)
 

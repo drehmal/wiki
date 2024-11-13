@@ -14,6 +14,13 @@
 
 **Dahr's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Elder Sea Aspect and king of the entire moon, [[Dahr]]. As one might expect, the region is primarily made up of water, including a swamp sub-region, a large river, and a series of waterfalls into the moon's largest lake. This domain is found in the southern and southwestern portion of Lo'Dahr's habitable area, forming a buffer between [[Loe's Domain]] in the far southwest and the rest of the moon. 
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Eroded Badlands  |
+| **Water Color**      | Light Blue    |
+| **Sky Color**        | Light Blue     |
+| **Additional Info**  | Grass, dirt, and warped (aventurine) nylium take on an unsaturated, gray-brown color when placed in this biome, making the dirt blend well with gravel found in the region. |
+
 ## Geography
 
 Dahr's Domain takes on an inverted-L shape, consisting of a large lake in the region's center, swampland stretching out west, and a large river reaching to the south. It generally has a lower altitude than its neighboring regions, with its main lake lying at y=15 and hilly terrain around all edges of the region. The majority of the region's land lies between y=15 and y=70.
@@ -35,19 +42,19 @@ A bridge stretches over the swamp region in the west, connecting [[Khive's Domai
 
 A single [[Drehmari]] settlement, [[Riverstead Town]], is found in Dahr's Domain, in the forested area near the northern border.
 
-### Biome Details
-
-Dahr's Domain is entirely made up of the **Eroded Badlands** biome.
-
-Grass, dirt, and warped (aventurine) nylium take on an unsaturated, gray-brown color when placed in this biome, making the dirt blend well with gravel found in the region.
-
-In Dahr's Domain, water takes on a light blue color, and the skybox has a similar light blue gradient.
-
 ## Gameplay
 
-Dahr's Domain is home to **Sandhoppers**, custom spider mobs. These spiders have green eyes, have jump boost and are functionally immune to fall damage, and are aggressive during the day as well as at night. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders.
+Vanilla Guardians (known as "Dahrkin" when using the Drehmal resource pack) spawn in the water in this biome.
 
-In the large lake, guardians (**"Dahrkin"**) can also be found. These are simply renamed vanilla Guardians.
+One custom, non-boss, hostile mob spawns in this region.
+
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Sandhopper                                       |
+| **Base Mob** | Spider                                      |
+| **Image**  | ![[sandhopper.png]]{ width="100" }  |
+| **Description** | These spiders have green eyes, have jump boost, are functionally immune to fall damage, and are aggressive at all times. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders. |
+| **Notes**  | Also found in [[Vayniklah's Domain]]. |
 
 A massive sea serpent can also be seen wandering the large lake, and this serpent, [[Vehrniis|The Vehrniis]], can be fought in an arena accessed from the lake's western shore. After it is defeated, it will return to patrolling the lake, now with a trident stuck in its head.
 
@@ -73,7 +80,7 @@ The swamp sub-region is inhabited primarily by outlaws, such as the enemies foun
 
 ### Arkeje
 
-The abandoned village of [[Arkeje]] can be found in the far southeast of the region, on a hill overlooking [[Voynahla's Domain]] to the east. While this location appears to be of historical significance, particularly to the Ro'Tehrmari, all that remains in the village today are two books: [[The Augury]] and [[Will of Kanama]].
+The abandoned village of Arkeje can be found in the far southeast of the region, on a hill overlooking [[Voynahla's Domain]] to the east. While this location appears to be of historical significance, particularly to the Ro'Tehrmari, all that remains in the village today are two books: [[The Augury]] and [[Will of Kanama]].
 
 **Coordinates:** (X: 111, Y: 90, Z: 1133)
 

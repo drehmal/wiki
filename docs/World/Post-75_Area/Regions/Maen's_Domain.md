@@ -14,6 +14,13 @@
 
 **Maen's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the exiled Aspect of Hate, [[Maen]]. This region resembles a cross between the Basalt Delta and Soul Sand Valley biomes in vanilla Minecraft's Nether. The region sits very close to the geographic center of Lo'Dahr's habitable area, bordering [[Dahr's Domain]] to the south, [[Vayniklah's Domain]] to the west, [[Moen's Domain]] to the northeast, and [[Nahyn's Domain]] to the east.
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Wooded Badlands Plateau  |
+| **Water Color**      | Black    |
+| **Sky Color**        | Red     |
+| **Additional Info**  | Water appears black in this region, and the skybox has a distinct red hue. Grass blocks and cobwebs both have custom textures in this biome, appearing dark red as well. Light blue soul flame particles can be seen in the air throughout this region. |
+
 ## Geography
 
 Maen's Domain is relatively small and irregularly shaped, effectively being one circular valley with longer protrusions to the north, northeast, and southeast. This valley is primarily made up of basalt, gray/light gray terracotta, soul sand, and soul soil (which appears light blue in Drehmal's resource pack). Lava lakes fill the bottom of the valley.
@@ -21,14 +28,6 @@ Maen's Domain is relatively small and irregularly shaped, effectively being one 
 The landscape is dotted with custom trees, whose trunks are built either of blackstone or obsidian, and whose "leaves" are the custom dark red cobwebs found in this region.
 
 In the north, a giant sword acts as a bridge between Vayniklah's Domain and Moen's Domain.
-
-### Biome Details
-
-Maen's Domain is made up of the **Wooded Badlands Plateau** biome.
-
-Water appears black in this region, and the skybox has a distinct red hue. Grass blocks and cobwebs both have custom textures in this biome, appearing dark red as well.
-
-Light blue soul flame particles can be seen in the air throughout this region.
 
 ## Gameplay
 

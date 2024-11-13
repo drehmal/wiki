@@ -14,6 +14,13 @@
 
 **Loe's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the Aspect of Cold, Glacial Elder [[Loe]]. This region is completely frozen over, with several unique structures found throughout its snowy expanse. The region sits in the far southwest of Lo'Dahr's habitable area, encircled partially by [[Dahr's Domain]] and partially by the [[Lunar Wastes]].
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Grove  |
+| **Water Color**      | Light Blue    |
+| **Sky Color**        | Magenta     |
+| **Additional Info**  | Grass blocks appear purple when placed in Loe's Domain, as seen towards the eastern border with Dahr's Domain. |
+
 ## Geography
 
 Loe's Domain takes a roughly circular shape, with a central bowl surrounded by mountains. A bridge connects the region to [[Khive's Domain]] to the north, and gradual hills can serve as mountain passes to Dahr's Domain in the east.
@@ -24,14 +31,6 @@ There do not truly appear to be distinct sub-regions in Loe's Domain, although t
 
 The town of [[Loeturia]] is found in the west of this region.
 
-### Biome Details
-
-Loe's Domain is made up of the **Grove** biome.
-
-Liquid water is scarce due to the temperature of the biome, but it takes on a standard light blue color. The skybox has a magenta color, which also appears when the player's head is submerged underwater in this biome.
-
-Grass blocks appear purple when placed in Loe's Domain, as seen towards the eastern border with Dahr's Domain.
-
 ## Gameplay
 
 Loe's Domain can be somewhat treacherous to traverse due to the presence of powder snow blocks mixed in with regular snow. Therefore, wearing leather boots may be a worthwhile precaution when visiting Loe's Domain, or players may choose to avoid walking over snow as much as possible.
@@ -40,13 +39,21 @@ Polar Bears (called "Faehrbears" by the resource pack) and blue Pseudodragons sp
 
 There are also two custom enemies found in this biome.
 
-![[burrower.png]]{ width="100" } ![[burrower_particle.png]]{ width="310" }
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Burrower                                      |
+| **Base Mob** | Spider                                 |
+| **Image**  | ![[burrower.png]]{ width="100" }  |
+| **Particles** | ![[burrower_particle.png]]{ width="310" } |
+| **Description** | Burrowers are custom spiders which spawn naturally in this region. They have a white body to blend in with the snow, and light blue eyes. True to their name, Burrowers will burrow into snow/powder snow blocks, emitting faint particles above blocks where they have nested, and will ambush players by popping out and attacking them when approached. Burrowers inflict 6 seconds of poison if they hit a player.  |
 
-Custom spiders named **Burrowers** spawn naturally in Loe's Domain. They have a white body to blend in with the snow, and light blue eyes. True to their name, Burrowers will burrow into snow blocks, emitting faint particles above blocks where they have nested, and will ambush players by popping out and attacking them when approached. Burrowers inflict 6 seconds of poison if they hit a player.
-
-![[freorig.png]]{ width="100" }
-
-Custom iron golems named **Freorigs** also spawn in Loe's Domain. These golems are incredibly strong, and give any players in their vicinity a slowness effect, simulating the chill that surrounds them. Freorigs also possess an attack that shoots ice spikes out of the ground, very similar to an attack used by vanilla Evokers.
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Freorig                                     |
+| **Base Mob** | Iron Golem                                 |
+| **Image**  | ![[freorig.png]]{ width="100" }  |
+| **Description** | Custom iron golems named **Freorigs** also spawn in Loe's Domain. These golems are incredibly strong, and give any players in their vicinity a slowness effect, simulating the chill that surrounds them. Freorigs also possess an attack that shoots ice spikes out of the ground, very similar to the "fang" attack used by vanilla Evokers.  |
+| **Notes** | The "Bundled Up" advancement is given for attempting to neutralize a Freorig's chill AoE by wearing a leather chestplate. |
 
 ## History
 

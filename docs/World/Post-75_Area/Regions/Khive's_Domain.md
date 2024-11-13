@@ -14,6 +14,12 @@
 
 **Khive's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the most powerful of the [Aspects](/Lore/Higher_Beings/Aspects/), the Mystic Elder [[Khive]]. This region is made up overwhelmingly of black and yellow hills, and is littered with mysterious red sandstone rings. The region sits in the far west and northwestern portion of Lo'Dahr's habitable area, bordering [[Vayniklah's Domain]] to the east and [[Dahr's Domain]] to the south.
 
+|                  |                   |
+|:----------------:|:-----------------:|
+| **Minecraft Biome**  | Stony Peaks  |
+| **Water Color**      | Cobalt Blue    |
+| **Sky Color**        | Yellow     |
+
 ## Geography
 
 Khive's Domain makes up approximately the northern half of Lo'Dahr's western edge, stretching from the northwest corner of the habitable zone down to the swamp of Dahr's Domain, broken into northern and southern halves by a river that belongs to Vayniklah's Domain. The terrain is hilly, and often somewhat barren, with only red sandstone rings and custom black/yellow trees adding variety to most of the landscape.
@@ -29,25 +35,26 @@ In the northern half of the biome, a small stream begins at a statue of the Myst
 
 There are no surviving settlements in Khive's Domain.
 
-### Biome Details
-
-Khive's Domain is made up of the **Stony Peaks** biome.
-
-Water in this biome takes on a deep, cobalt blue color, and the sky appears yellow.
-
 ## Gameplay
 
 Black Pseudodragons can be found in Khive's Domain.
 
 There are multiple custom enemies found in Khive's Domain, most notably two custom zombie variants. Neither of these zombie variants take damage from the sun in daytime like vanilla zombies.
 
-![[blinker.png]]{ width="100" }
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Blinker                                       |
+| **Base Mob** | Zombie                                      |
+| **Image**  | ![[blinker.png]]{ width="100" }  |
+| **Description** | Blinkers appear as light blue zombies wearing a white toga, with a singular yellow eye encompassing nearly its entire face. These enemies often spawn in packs when out in the fields of Khive's Domain. When a Blinker is hit, it will disappear in a flash of light green particles, remaining invisible and being given a speed boost for 3 seconds, typically resulting in it appearing somewhere else nearby. |
 
-The first variant is called a Blinker, and appears as a light blue zombie wearing a white toga, with a singular yellow eye encompassing nearly its entire face. These enemies often spawn in packs when out in the fields of Khive's Domain. When a Blinker is hit, it will disappear in a flash of light green particles, remaining invisible and being given a speed boost for 3 seconds, typically resulting in it appearing somewhere else nearby.
-
-![[glimpse_closed.png]]{ width="100" } ![[glimpse_open.png]]{ width="100" }
-
-The second variant is called a Glimpse, appearing as a light pink/red zombie wearing a white toga, with a singular yellow/purple eye. Glimpses are rarer than Blinkers, but deal significantly more damage and follow a different mechanic. Glimpses will pursue a player over long distances up to 100 blocks, but they will only be able to move if they are not being actively observed. Glimpses will keep their eyes firmly shut if a player is looking at them, and will stand still when doing so, but they will open their eye and attack if the player looks away.
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Glimpse                                       |
+| **Base Mob** | Zombie                                      |
+| **Images**  | ![[glimpse_closed.png]]{ width="100" } ![[glimpse_open.png]]{ width="100" }  |
+| **Description** | Glimpses appear as light pink/red zombies wearing a white toga, with a singular yellow/purple eye. Glimpses are rarer than Blinkers, but deal significantly more damage and follow a different mechanic. Glimpses will pursue a player over long distances up to 100 blocks, but they will only be able to move if they are not being actively observed. Glimpses will keep their eyes firmly shut if a player is looking at them, and will stand still when doing so, but they will open their eye and attack if the player looks away. |
+| **Notes**  | The "Glimpse Into the Cosmos" advancement is granted for bringing a Glimpse to the top of Aldregakar in [[Rihelma's Domain]]. In the datapack, Glimpses are referred to as "173," referencing SCP-173, a fictional monster that also cannot move while being watched. |
 
 Mihkmari Arcanists (Evokers) can also spawn naturally in Khive's Domain, and custom enemies known as Shackled Sentinels are found at [[Ihted Academy]].
 

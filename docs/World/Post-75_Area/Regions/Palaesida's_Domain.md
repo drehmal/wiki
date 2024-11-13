@@ -30,7 +30,7 @@ The entire region is centered around the Heart of the Tempest, a large orb of en
 
 ## Gameplay
 
-Chthonic Skeletons (vanilla Wither Skeletons) spawn in Palaesida's Domain.
+Chthonic Skeletons (vanilla Wither Skeletons) and Grey Pseudodragons spawn in Palaesida's Domain.
 
 Custom Lightning Evokers, who spawn riding phantoms, also spawn in Palaesida's Domain, and patrol the skies. These mobs, bearing the name "Thrumvokr," are capable of summoning a ring of lightning bolts around a player, in addition to the normal Evoker ground attack. These Evokers can be separated from their mounts by killing the phantom. These Evokers also do not appear to have the ability to summon Vex.
 

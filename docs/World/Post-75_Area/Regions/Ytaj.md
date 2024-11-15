@@ -36,7 +36,9 @@ There are no enemies that naturally spawn in Ytaj.
 
 There are, however, many unique gameplay elements in this area.
 
-### Precocious Kinah
+### Traders
+
+#### Precocious Kinah
 
 ![[kinah.png]]
 
@@ -53,7 +55,7 @@ There are, however, many unique gameplay elements in this area.
     | 1 Divine Bauble   | 2 Arcane Bottles (Bottle of Experience) |
     | 12 Amethyst Shards <br> 1 Diamond | 1 Divine Bauble |
     | 12 Amethyst Shards <br> 1 Celestial Chondrule (Netherite Scrap) | 3 Divine Baubles |
-    | 12 Amethyst Shards <br> 2 Gold Ingots | 1 [[Trinkets#Relic Vessel|Relic Vessel]] |
+    | 12 Amethyst Shards <br> 2 Gold Ingots | 1 [[Trinkets#Relic Vessel|Relic Vessel]] <br> ![[relic_vessel.png]]{ width="48" } |
 
 ??? info "Divine Bauble Locations"
     | **Coordinates** | **Location** |
@@ -170,7 +172,7 @@ There are, however, many unique gameplay elements in this area.
     | **** |                                                                                                            |
     | **** |                                                                                                            |
 
-### Benefactor Zabuyah
+#### Benefactor Zabuyah
 
 **Benefactor Zabuyah** is a [[Tehrmari]] trader found in the main eastern hall of Ytaj, in a room just behind Precocious Kinah and to the right. Zabuyah sells books (the merchant directly sells trapped chests, but each chest simply contains a book of the same name), which serve as hints toward the locations of [[Devotion]] shrines on the [[Overworld]]. There are 11 of these books, with alliterative titles that tell the player a hint as to the general area of each shrine. Each book costs 12 Amethyst Shards.
 

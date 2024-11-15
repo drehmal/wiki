@@ -73,7 +73,7 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
     | [[Mt. Yavhlix]] | In a shulker box in the [[Resonant Halls]], inside the same side room that contains the [[Activity_Log-_Project_Panopticon.md|Activity Log - Project Panopticon]] book. | **(26897, 78, -43)** |
 
 ## Final Locations and Use
-!!! danger "If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article.
+!!! danger "If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

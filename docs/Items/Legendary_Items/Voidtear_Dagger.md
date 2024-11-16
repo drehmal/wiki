@@ -32,7 +32,7 @@ Voidtear is a legendary weapon that an entire build can form around, as it makes
 The weapon's main feature comes from its special ability. Not only does this apply the invisibility effect to its user, it also decreases the distance at which hostile mobs will notice and attack the player while invisible. This makes sneaking through some combat encounters not only possible, but very doable in many locations.
 
 ## How to Obtain
-Voidtear Dagger is located in the [[Exodus Citadel]], the above-ground, non-story location in [[Nimahj Swamp]] linked to the location of the 50% completion area, the [[Exodus Vault]].
+Voidtear Dagger is located in the [[Exodus Citadel]], the above-ground, non-story location in [[Nimahj Swamp]] linked to the site of the 50% completion event, the [[Exodus Vault]].
 
 The trapped chest that contains the dagger is found in a side room of the Citadel, in the northwestern corner of the structure. 
 

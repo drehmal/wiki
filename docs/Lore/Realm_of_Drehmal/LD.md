@@ -15,7 +15,7 @@ Late into the game and feeling confused? Expecting more on this topic?
 ??? example "...yeah, I was."
     Are you *sure?*
     ??? quote "No, I just like clicking on things that I shouldn't because I JUST CAN'T HELP MYSELF!"
-        Get out of here. Seriously.
+        ![[meme_kill.webp]]
     ??? warning "Yes!"
         You are absolutely certain that there should be something else here?
         ??? warning "Yes, I'm sure!"

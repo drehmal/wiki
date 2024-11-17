@@ -46,7 +46,7 @@ There are, however, many unique gameplay elements in this area.
 
 ![[kinah.png]]
 
-**Precocious Kinah** is an ascended cat, who serves as a protector of the palace and a merchant to the player. She is located at the very front of Ytaj's main eastern hallway, sitting upon a small pillar. Kinah sells multiple [[Trinkets]], and deals primarily in **Divine Baubles**, a kind of custom currency that is found only in Ytaj. Divine Baubles can be found as loot throughout the palace complex, and can also be purchased (for a relatively high price) from Kinah. A full list of all 111 known Divine Bauble locations is found below Kinah's trades, organized roughly by geographic location, starting in the southwest and working clockwise.
+**Precocious Kinah** is an ascended cat, who serves as a protector of the palace and a merchant to the player. She is located at the very front of Ytaj's main eastern hallway, sitting upon a small pillar. Kinah sells multiple [[Trinkets]], and deals primarily in ![[divine_bauble.png]]{ width="24" } **Divine Baubles**, a kind of custom currency that is found only in Ytaj. Divine Baubles can be found as loot throughout the palace complex, and can also be purchased (for a relatively high price) from Kinah. 
 
 **Coordinates:** (-30, 29, -1569)
 
@@ -57,9 +57,11 @@ There are, however, many unique gameplay elements in this area.
     | 5 Divine Baubles  | [[Trinkets#Aurastaff of Permafrost|Aurastaff of Permafrost]] <br> ![[aurastaff.png]]{ width="48" } |
     | 3 Divine Baubles  | [[Trinkets#Khivian Scroll of Sanctuary|Khivian Scroll of Sanctuary]] <br> ![[khive_scroll.png]]{ width="48" } |
     | 1 Divine Bauble   | 2 Arcane Bottles (Bottle of Experience) |
-    | 12 Amethyst Shards <br> 1 Diamond | 1 Divine Bauble |
-    | 12 Amethyst Shards <br> 1 Celestial Chondrule (Netherite Scrap) | 3 Divine Baubles |
+    | 12 Amethyst Shards <br> 1 Diamond | 1 Divine Bauble <br> ![[divine_bauble.png]]{ width="48" } |
+    | 12 Amethyst Shards <br> 1 Celestial Chondrule (Netherite Scrap) | 3 Divine Baubles <br> ![[divine_bauble.png]]{ width="48" } |
     | 12 Amethyst Shards <br> 2 Gold Ingots | 1 [[Trinkets#Relic Vessel|Relic Vessel]] <br> ![[relic_vessel.png]]{ width="48" } |
+
+A full list of all 111 known Divine Bauble locations is found below, organized roughly by geographic location, starting in the southwest and working clockwise.
 
 ??? info "Divine Bauble Locations"
     | **Coordinates** | **Location** |
@@ -253,11 +255,91 @@ The Prismatic Council appears to be the official name for a gathering of all the
 
 Today, Ytaj appears much less densely inhabited than it was at its peak, with only a handful of Tehrmari servants, Maelihs, and Precocious Kinah currently living in the palace.
 
-## Points of Interest
+## Layout (Points of Interest)
+
+Ytaj is technically a full region, but unlike the other regions, nearly everything in Ytaj could be considered a point of interest. Therefore, this section serves as a more in-depth description of Ytaj's layout, touching on almost everything in the area.
+
+### Entrance
+
+The entrance to Ytaj, just past the bridge, consists of 18 murals, 3 blocks wide and 10 blocks tall (9 along the western and eastern walls, respectively). These murals each represent one of the [Aspects](/Lore/Higher_Beings/Aspects/), with the exception of [[Verrhys]] and the four Elders, who are featured even more prominently throughout the palace. Wool banners at the front of these two walls represent two Elder Aspects each.
+
+![[ytaj_murals_west.png]] 
+> The western mural wall.
+
+On the west, a banner of yellow and blue sits at the front, representing [[Khive]] and [[Dahr]], whose rooms are found in western Ytaj. From right to left (north to south), these murals represent the following Aspects:
+
+- [[Vayniklah]], depicting a tree. <br>
+- [[Loe]], representing cold. <br>
+- [[Dahroehl]], depicting a river. <br>
+- [[Noha]], depicting flowers. <br>
+- [[Loeleyhn]], depicting snowflakes. <br>
+- [[Koh]], depicting different types of stone. <br>
+- [[Mari]], possibly depicting paper and pen.[^1] <br>
+- [[Muhs]], depicting a wolf-like beast face. <br>
+- [[Moen]], showing Moen's signature colors. 
+
+![[ytaj_murals_east.png]]
+> The eastern mural wall.
+
+On the east, a banner of purple and orange sits at the front, representing [[Rihelma]] and [[Taihgel]], whose rooms are found in eastern Ytaj. From left to right (north to south), these murals represent the following Aspects:
+
+- [[Voynahla]], depicting a white mask or skull on a field of black. <br>
+- [[Lai]], representing heat. <br>
+- [[Nahyn]], depicting a snowy mountain. <br>
+- [[Rihalae]], representing a wind gust. <br>
+- [[Lailoehn]], depicting a flame. <br>
+- [[Palaesida]], depicting a lightning strike during a storm. <br>
+- [[Lahrs]], depicting a mushroom. <br>
+- [[Tethlaen]], depicting two red eyes in a field of black. <br>
+- [[Maen]], with an unclear image.
+
+Most Aspects have a flame burning in front of their murals. Three Aspects do not have a flame: Noha, Palaesida, and Muhs—the three Aspects known to be dead. Voynahla's flame is Orderflame (soul flame), unlike the others, referencing the fact that he is not fully alive, but still lives in his own realm of undeath.
+
+### Elder Statues
+
+In the four outer corners of Ytaj's gardens, massive slate statues of the four Elder Aspects can found, showing depictions of their physical forms.
+
+![[ytaj_statue_dahr.png]]{ width="600" }
+> Dahr's statue.
+
+[[Dahr|Abyssal Elder Dahr]]'s statue is located in the southwest. Dahr's form resembles a cross between a cobra, sea serpent, and whale, with a blowhole in his diorite crown. He is shown holding a two-pronged trident ("bident"), and has eyes made of glowing sea lanterns. He points to the east, facing the statue of Rihelma.
+
+![[ytaj_statue_khive.png]]{ width="600" }
+> Khive's statue.
+
+[[Khive|Mystic Elder Khive]]'s statue is located in the northwest. Khive's form resembles a bearded dragon or other lizard, with black and white flowers protruding from his back and a large stained glass rune hovering over him. He is depicted holding a magical orb of some kind with his left hand, and has flarepod (shroomlight) eyes. He faces south, toward the statue of Dahr.
+
+![[ytaj_statue_taihgel.png]]{ width="600" }
+> Taihgel's statue.
+
+[[Taihgel|Land-Fall Drake]]'s statue is located in the northeast. Taihgel's form resembles a colossal tortoise, with volcanic rifts and boulders on their back. Taihgel's eyes are made of glowstone, and the face points to the south, toward Rihelma's statue.
+
+![[ytaj_statue_rihelma.png]]{ width="600" }
+> Rihelma's statue.
+
+[[Rihelma|Star-Rise Drake Rihelma]]'s statue is located in the southeast. Rihelma's form resembles a classical wyvern, a massive dragon with two legs and wide, outstretched wings dotted with white spots reminiscent of the night sky. Her eyes are redstone lamps, although they are not lit until a certain end-game milestone has been reached. She faces to the west, toward Dahr's statue.
 
 ### Prismatic Council Chamber
 
 ![[prismatic_council_chamber.png]]
+
+The Prismatic Council Chamber is a large, domed building located at ground level, just north of the center of Ytaj. This room features over-the-top, vibrant colors, and is contains two rings of thrones, where the Deities and Aspects would sit during full meetings of the Prismatic Council (or rather, where their astral projections would sit). The lower ring contains seats for the 3 Deities and 4 Elder Aspects. The four non-Elder Major Aspects and all of the Minor Aspects (except for Verrhys) have thrones on the upper level. This room also connects to the Soletta, and the base of the Tower of Drehmal, in the north. A massive crystal (stained glass) flower sits on the top of this building.
+
+**Coordinates:** (-69, 29, -1601)
+
+The thrones on the lower level are mostly self-explanatory, heavily utilizing blocks, shapes, and colors associated with their respective owners. Clockwise from the southwest, these thrones belong to Dahr, Khive, Maelihs, Drehmal, Virtuo, Taihgel, and Rihelma, in that order.
+
+The thrones on the upper level, however, all share the same size and solid quartz foundation, with only a few extra colored wool blocks or other blocks on top to signify their owner. The four non-Elder Major Aspects—Lai, Loe, Vayniklah, and Voynahla—are situated on either side of the two entrances to the room, near their respective counterpart. The rest of the Aspects' thrones are not 100% known, but they can be reasonably assigned based on the direction the thrones point (with Aspects' rooms typically being far behind their thrones relative to the center of the room), as well as colors that are associated with those Aspects in banners.
+
+Starting from the green/orange/yellow throne just west of the main southern entrance and working clockwise, the presumed Aspect thrones are as follows: Vayniklah, Muhs, Dahroehl, Maen, Mari, Tethlaen, Moen, Loeleyhn, Loe, Lai, Lailoehn, Nahyn, Koh, Noha, Lahrs, Rihalae, Palaesida, and Voynahla.
+
+The lowest level of the chamber contains an elaborate mural on the floor, and to the south, a small staircase leads down to another room. This room contains six murals on its walls, tied to the [Trials](/World/Post-75_Area/Points_of_Interest/Trials/), as well as one large mural at the end, representing a genealogy tree. This is the family tree of the Aspects and Deities, and it has been the subject of significant speculation.
+
+![[family_tree.png]]
+> The family tree mural in Ytaj.
+
+??? info "Annotated Family Tree"
+    ![[aspects.png]]
 
 ### Tehrmari Quarters
 
@@ -343,3 +425,6 @@ aspects w domains have rooms on same side of ytaj
 -thrones?
 -murals?
 -khive tree as potential verrhys reference
+
+
+[^1]: This mural has been disputed between Mari and Maen. It is most likely Mari, based on prototype versions of this build in the Dev Zone and the fact that Maen and Moen are across from one another in this interpretation.

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.4
+---
+
 # Lo'Dahr Infrastructure
 
 --8<-- "spoiler.md"

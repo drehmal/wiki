@@ -343,7 +343,18 @@ The lowest level of the chamber contains an elaborate mural on the floor, and to
 
 ### Tehrmari Quarters
 
+Within the main eastern hall, the living quarters of the palace's [[Tehrmari]] servants are found. This area includes a kitchen for the Tehrmari inhabitants, as well as a large tower with Tehrmari bedchambers.
+
 ### Soletta
+
+The Soletta is a mythical forge located at the base of the Tower of Drehmal, made up of a giant, closed eye resting beneath two end portal frame blocks. This is a gameplay-pertinent location, whose purpose may not be immediately apparent. The signs around its base provide a hint as to the forge's function.
+
+**Coordinates:** (-69, 31, -1702)
+
+??? question "Soletta Use Hint"
+    The signs around the base of the Soletta contain the three Greek letters found on [[Fervor Stones]], surrounded in [square brackets]. These square brackets can be found in the description of another type of items.
+    ??? warning "Soletta Use Solution"
+        The Soletta is used to upgrade Mythical Weapons, using Fervor Stones. Place a Fervor Stone on the bottom end frame portal block and a Mythical on the upper block, then press the button in front of the chambers. An animation will play, in which the eye beneath opens and the chambers are filled with particles, after which point the Mythical will be upgraded. See [[Fervor Stones#Final Locations and Use|this page]] for details on specific upgrades.
 
 ### Aspect/Deity Rooms
 

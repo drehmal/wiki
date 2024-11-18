@@ -19,7 +19,8 @@
 | **Minecraft Biome**  | Eroded Badlands  |
 | **Water Color**      | Light Blue    |
 | **Sky Color**        | Light Blue     |
-| **Additional Info**  | Grass, dirt, and warped (aventurine) nylium take on an unsaturated, gray-brown color when placed in this biome, making the dirt blend well with gravel found in the region. |
+
+Grass, dirt, and warped (aventurine) nylium take on an unsaturated, gray-brown color when placed in this biome, making the dirt blend well with gravel found in the region. 
 
 ## Geography
 

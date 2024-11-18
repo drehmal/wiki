@@ -19,7 +19,8 @@
 | **Minecraft Biome**  | Wooded Badlands Plateau  |
 | **Water Color**      | Black    |
 | **Sky Color**        | Red     |
-| **Additional Info**  | Water appears black in this region, and the skybox has a distinct red hue. Grass blocks and cobwebs both have custom textures in this biome, appearing dark red as well. Light blue soul flame particles can be seen in the air throughout this region. |
+
+Water appears black in this region, and the skybox has a distinct red hue. Grass blocks and cobwebs both have custom textures in this biome, appearing dark red as well. Light blue soul flame particles can be seen in the air throughout this region.
 
 ## Geography
 

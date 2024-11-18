@@ -19,7 +19,8 @@
 | **Minecraft Biome**  | Deep Lukewarm Ocean  |
 | **Water Color**      | Light Blue    |
 | **Sky Color**        | Purple-Pink     |
-| **Additional Info**  | Heart particles are visible in the air throughout Moen's Domain. |
+
+Heart particles are visible in the air throughout Moen's Domain.
 
 ## Geography
 

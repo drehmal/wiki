@@ -19,7 +19,8 @@
 | **Minecraft Biome**  | Grove  |
 | **Water Color**      | Light Blue    |
 | **Sky Color**        | Magenta     |
-| **Additional Info**  | Grass blocks appear purple when placed in Loe's Domain, as seen towards the eastern border with Dahr's Domain. |
+
+ Grass blocks appear purple when placed in Loe's Domain, as seen towards the eastern border with Dahr's Domain.
 
 ## Geography
 

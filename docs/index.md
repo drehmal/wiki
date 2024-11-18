@@ -72,7 +72,7 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
     - (World) **Central Regions** <br> 
     - (World) **Eastern Regions** <br>
     ??? warning "Late-Game (Post-75%) Content"
-        (World) **Post-75% Regions**
+        - (World) **Post-75% Regions**
 
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!

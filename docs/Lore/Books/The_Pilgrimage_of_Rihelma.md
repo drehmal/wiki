@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in the orrery building atop the [[Aldregakar]]. It describes the prophetic capabilities of the [[Rihelma|Sky Aspect]], and establishes that she can commune with those beyond the Veil when on [[Lo'Veruhkt]], the hidden moon. However, Rihelma has now not been seen for a very long time, and her devotees fear for the future without her foresight.
+This book can be found on a lectern in the orrery building atop the [[Rihelma's Domain|Aldregakar]]. It describes the prophetic capabilities of the [[Rihelma|Sky Aspect]], and establishes that she can commune with those beyond the Veil when on [[Lo'Veruhkt]], the hidden moon. However, Rihelma has now not been seen for a very long time, and her devotees fear for the future without her foresight.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

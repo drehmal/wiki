@@ -1,6 +1,6 @@
 # World
 
-!!! warning "The World section is currently under construction, and is one of our highest priorities. Many pages are unfinished or contain information written for Drehmal v2.1, and need to be updated or overhauled. Stay tuned for updates!"
+!!! warning "The World section is currently under construction, and is our #1 priority at this time. Many pages are unfinished or contain information written for Drehmal v2.1, and need to be updated or overhauled. Stay tuned for updates!"
 
 The sprawling, vibrant, and hand-designed realm of Drehmal is one of its largest strengths and player draws. This section of the wiki contains helpful information regarding exploration of Drehmal, from overviews of the realm's diverse regions to articles dedicated to the most intriguing points of interest scattered throughout the map.
 
@@ -21,17 +21,17 @@ Finally, in the [Points of Interest](/World/Drehmal/Points_of_Interest/) folder,
 ## Other Dimensions
 In true Minecraft fashion, Drehmal is not the only dimension included in the map, but it does function as the overworld, being where almost everything you need is found. The Nether does not exist in Drehmal, but all Nether materials can be found somewhere in the world.
 
-Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. There is one notable exception to this, however, which comes after the 75% milestone.
+Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. 
 
 --8<-- "spoiler.md"
-
-!!! danger "SPOILER WARNING!"
 
 !!! danger "This section may contain significant spoilers for the 75% completion event and its associated late-game areas."
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+There is one notable exception to this rule, however, which comes after the 75% milestone.
 
 An additional dimension with an explorable open world similar to Drehmal, although smaller and vastly different, is unlocked at the end of the 75% completion event. As the very existence of this dimension, and particularly its identity within the universe, are considered massive story spoilers, this dimension is not mentioned by name on this wiki except for inside of the files directly pertaining to it.
 

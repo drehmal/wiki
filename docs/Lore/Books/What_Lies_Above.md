@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in a [[Tehrmari]] dwelling built into the side of [[Aldregakar]]. It tells of a different world atop the Star-Rise, with an anecdote of a member of this settlement having ventured there himself.
+This book can be found in a chest in a [[Tehrmari]] dwelling built into the side of [[Rihelma's Domain|Aldregakar]]. It tells of a different world atop the Star-Rise, with an anecdote of a member of this settlement having ventured there himself.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

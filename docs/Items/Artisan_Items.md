@@ -725,8 +725,7 @@ The Mossfield Runic Blacksmith is found at **(4132, 66, 1737)**.
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | A helmet made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
-equipment, the runes engraved on its inner layer make it incredibly light.   |
+| **Lore** | A helmet made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.   |
 | **Cost** | Iron Helmet <br>15 Scales    |
 
 **Messenger's Chestplate:**
@@ -738,8 +737,7 @@ equipment, the runes engraved on its inner layer make it incredibly light.   |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | A chestplate made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
-equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Lore** | A chestplate made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.  |
 | **Cost** | Iron Chestplate <br>17 Scales   |
 
 **Messenger's Leggings:**
@@ -751,8 +749,7 @@ equipment, the runes engraved on its inner layer make it incredibly light.  |
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
-equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.  |
 | **Cost** | Iron Leggings <br>16 Scales    |
 
 **Messenger's Boots:**
@@ -764,8 +761,7 @@ equipment, the runes engraved on its inner layer make it incredibly light.  |
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of
-equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.  |
 | **Cost** | Iron Boots <br>15 Scales    |
 
 **ICF Infantry Handaxe:**
@@ -780,8 +776,7 @@ equipment, the runes engraved on its inner layer make it incredibly light.  |
 
 |          | Lore and Cost       |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | When the Insohmic Coalition Forces rode to war as one at the height of their power, few things were impossible. This standard-issue axe was carried by every
-soldier. |
+| **Lore** | When the Insohmic Coalition Forces rode to war as one at the height of their power, few things were impossible. This standard-issue axe was carried by every soldier. |
 | **Cost** | 19 Scales  |
 
 **Lilting Shadow:**
@@ -1747,8 +1742,7 @@ for the first time.  |
 
 |          | Lore and Cost                                                                                                                                       |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | This ceramic blade is inspired by the legend of Kowka, a humble bricklayer whose livelihood was so brutally mocked by rich passers-by that she rose
-from the dead to burn Tharxax City to the ground, leaving behind only the homes of those who were sensible enough to build with stone and brick.  |
+| **Lore** | This ceramic blade is inspired by the legend of Kowka, a humble bricklayer whose livelihood was so brutally mocked by rich passers-by that she rose from the dead to burn Tharxax City to the ground, leaving behind only the homes of those who were sensible enough to build with stone and brick.  |
 | **Cost** | 33 Scales <br>64 Bricks |
 
 ## Outer Regions
@@ -1974,8 +1968,7 @@ The Naharja Runic Blacksmith is located in the southeastern portion of the city,
 
 |          | Lore and Cost                                             |
 | -------- | --------------------------------------------------------- |
-| **Lore** | An attempt at recreating the axe of Amohn Aihura, a freedom fighter among the greatest warriors to ever live in the realm. Though it glows with powerful electric energy, something is not quite
-right.   |
+| **Lore** | An attempt at recreating the axe of Amohn Aihura, a freedom fighter among the greatest warriors to ever live in the realm. Though it glows with powerful electric energy, something is not quite right.   |
 | **Cost** | 22 Amethyst Shards  | 
 
 **Thunderclap:**

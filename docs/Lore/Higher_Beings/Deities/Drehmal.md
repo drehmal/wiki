@@ -1,6 +1,6 @@
 # Drehmal
 
-This page is about the serpent deity. For the physical setting of the story by the same name, see [[Overworld|Drehmal]].
+!!! tip "This page is about the serpent deity. For the physical setting of the story by the same name, see [[Overworld|Drehmal]]."
 
 > - **Titles:** The Serpent, The Realmbinder, The Last Divine, The Final Aspect [misleading], God of Preservation, God of Neutrality
 > - **Classification:** Deity

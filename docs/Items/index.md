@@ -2,10 +2,6 @@
 
 Spread throughout the map of Drehmal are many custom, unique items, each with their own special modifiers or abilities accommodating different styles of gameplay. They also almost always have their own lore, explained by their descriptions. Along with [written books](/Lore/Books/), item descriptions play a large part in communicating the lore of Drehmal. Most custom items can be grouped into one of several classes, indicated by text on its tooltip.
 
-## [[Relics]]
-
-Relics are offhand stat-modifying items that are obtained via [[Devotion|devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptions that often explain bits of lore pertaining to its related Aspect or deity.
-
 ## [[Artifacts]]
 
 Artifacts are uncommon items found throughout the map, most often in chests. Most artifacts have their own custom stat modifiers and item descriptions, which usually detail an item's lore.
@@ -13,6 +9,18 @@ Artifacts are uncommon items found throughout the map, most often in chests. Mos
 ## [[Artisan Items]]
 
 Artisan items are similar to artifacts (they have stat modifiers and unique descriptions), but they are sold by [[Runic Blacksmith|Runic Blacksmiths]] or one of their variants, typically at larger towns.
+
+## [[Fervor Stones]]
+
+A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones are found as rare loot, with only 24 total in the map, and serve a late-game purpose which is not immediately apparent.
+
+## [[Relics]]
+
+Relics are offhand stat-modifying items that are obtained via [[Devotion|devotion]]. Each type of relic has 4 different leveled versions. Relics have their own sprites and item descriptions that often explain bits of lore pertaining to its related Aspect or deity.
+
+## [[Trinkets]]
+
+Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They each have their own custom sprite.
 
 ## [Legendary Items](/Items/Legendary_Items/)
 
@@ -87,16 +95,3 @@ Besides the items belonging to the groups listed above, there are some other uni
 > Sharttered... by someorne, or somethirng.
 > Dorn't terll mer yer dorn't ser irt.
 > Loork urp art ther skyr! Irt burrrns...
-
-## [[Fervor Stones]] (α, β, Δ)
---8<-- "spoiler.md"
-
-!!! danger "This section contains information that is only applicable after the 75% completion event, which constitute spoilers on a late-game mechanic."
-
-!!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
-
-A Fervor Stone is one of three items, each with their own sprite, description, and class (α, β or Δ). Fervor Stones can be used to upgrade mythical weapons using the altar at the Soletta in [[Ytaj]], with each of the items applying a different stat boost.
-
-## [[Trinkets]]
-
-Trinkets are miscellaneous items with specific purposes, with different methods of obtaining. They each have their own custom sprite.

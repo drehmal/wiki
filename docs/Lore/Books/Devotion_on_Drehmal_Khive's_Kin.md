@@ -9,7 +9,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book is sold within a trapped chest by Benefactor Zabuyah in [[Ytaj]]. It contains a major hint as to the location of [[Khive]]'s [[Devotion|devotion shrine]] in the overworld.
+This book is sold within a trapped chest by Benefactor Zabuyah in [[Ytaj]]. It contains a major hint as to the location of [[Khive]]'s [[Devotion|devotion shrine]].
 
 ## Coordinates
 | **X** | **Y** | **Z**  |

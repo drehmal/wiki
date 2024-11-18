@@ -35,7 +35,7 @@ The **True End**, or the **Final Grave**, is the name for the final location in 
 After defeating the [[Emissary of the Void]], the player is given one final portal to step through, transporting them back to the Stasis Facility. However, the player will notice that the facility is different—grayer and worn-down. As they progress toward the surface just as they did at the beginning of the map, the player will notice sand that has leaked in from outside, and see that much of the facility appears to have decayed.
 
 ![[true_end_primal_caverns.png]]
-> The Primal Caverns within the sands.
+> The Primal Caverns within the dunes.
 
 Climbing to the surface, the player finds the landscape completely covered in a vast expanse of sand, with only the three hills above the [[Primal Caverns]] remaining as a clear landmark. A trail of orderflame lanterns leads into the caverns, and then leads out the back of the central hill.
 
@@ -65,6 +65,14 @@ If the player refuses closure, then they can trigger this dialogue option again 
 
 ## Lore
 The True End is foreshadowed by the [[The Facets#Facet III|third Facet]], which directly parallels the end of Drehmal. This has led to significant speculation by the community, attempting to discern the meaning of the so-called "Facets". Some signs indicate that there is a tie between [[Verrhys]], the Aspect of Silence, and the ending of Drehmal, perhaps suggesting ties between Verrhys and the Mythoclast. However, these ties are not concrete, as there is so little information on the Aspect.
+
+![[verrhys_dunes.png]]
+> The Verrhys statue in the dunes.
+
+Southeast of the Primal Caverns, a statue of Verrhys, made of identical materials to the one found in the [[Black Jungle]], can be found inside the dunes. However, its pose is different—instead of cowering behind its wings, Verrhys' wings are outstretched, and pieces of it appear to have fallen off. This directly mirrors the final line of Facet III - *"3:6 - And silence will spread its wings."*
+
+![[verrhys_dunes_excavated.png]]
+> The Dunes Verrhys statue, excavated.
 
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
 

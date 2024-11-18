@@ -66,7 +66,7 @@ The [[Mystic Gallery]] is the location of [[Khive]]'s Trial, found in the easter
 The [[Hypogean Labyrinth]] is the location of [[Nahyn]]'s Trial, found on a mountain in [[Nahyn's Domain|his domain]]. It tests the player's memory with a maze.
 
 ### Rihelma's Trial
-The [[Star-Rise Orrery]] is the location of [[Rihelma]]'s Trial, and is found inside of Aldregakar, the massive mountain at the far southeast of the map in [[Rihelma's Domain]]. This trial tasks the player with spotting six differences in a large, mirrored room.
+The [[Star-Rise Orrery]] is the location of [[Rihelma]]'s Trial, and is found inside of Aldregakar, the massive mountain at the far southeast of the map in [[Rihelma's Domain|her domain]]. This trial tasks the player with spotting six differences in a large, mirrored room.
 
 ### Vayniklah's Trial
 The [[Temple of Life]] is the location of [[Vayniklah]]'s Trial, found in a lake in the southern edge of [[Vayniklah's Domain|her domain]]. The puzzle at this location is heavily tied to the environment.

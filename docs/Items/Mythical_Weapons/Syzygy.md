@@ -43,7 +43,7 @@ Syzygy comes with the Quick Charge I enchantment, and can support further crossb
 Syzygy is obtained through a unique questline on [[Lo'Dahr]], as the player must complete 6 discrete trials scattered throughout the divine moon in order to secure passage to the crossbow's location. These six trials can be completed in any order, and each one individually gives the player a unique item (either a Legendary or an Artifact) as well as one of the [[The Facets|Facets]].
 
 ### Trial 1
-Trial 1 is located at the [[Mystic Gallery]] in [[Khive's Domain]] to the west, and is a puzzle involving the structures found around a small pyramid and throughout the domain. It rewards the player with the [[Stasis Bolts]] legendary item, as well as the [[The Facets#Facet I|first Facet]].
+Trial 1 is located at the [[Mystic Gallery]] in [[Khive's Domain]] to the west, and is a puzzle involving the structures found around a small pyramid and throughout the domain. It rewards the player with the [[Stasis Bolt]] legendary item, as well as the [[The Facets#Facet I|first Facet]].
 
 ### Trial 2
 Trial 2 is located at the [[Star-Rise Orrery]] in [[Rihelma's Domain]], and tasks the player with finding six differences between a large room and its reflection. It rewards the player with the "As Foretold" artifact, a strong diamond helmet, and the [[The Facets#Facet II|second Facet]].

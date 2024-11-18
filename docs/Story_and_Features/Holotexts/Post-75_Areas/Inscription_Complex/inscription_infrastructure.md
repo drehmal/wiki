@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Lo'Dahr Infrastructure
 
 --8<-- "spoiler.md"

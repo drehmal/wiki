@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Getting Started
 
 !!! tip "**Just looking for basic information about what Drehmal is, or help on setting up your Drehmal world? This page can help with that!**"

@@ -343,7 +343,7 @@ The lowest level of the chamber contains an elaborate mural on the floor, and to
 
 ### Tehrmari Quarters
 
-Within the main eastern hall, the living quarters of the palace's [[Tehrmari]] servants are found. This area includes a kitchen for the Tehrmari inhabitants, as well as a large tower with Tehrmari bedchambers.
+Within the main eastern hall, the living quarters of the palace's [[Tehrmari]] servants are found. This area includes a kitchen for the Tehrmari inhabitants, as well as a large tower with Tehrmari bedchambers. A player head resembling a plush of Maelihs is found at the top of this tower.
 
 ### Soletta
 
@@ -358,83 +358,260 @@ The Soletta is a mythical forge located at the base of the Tower of Drehmal, mad
 
 ### Aspect/Deity Rooms
 
-In Ytaj, almost every single Aspect and Deity has their own room. For Major Aspects, these rooms include secondary devotion shrines, and the three Deities each have a full tower dedicated to them.
+In Ytaj, almost every single Aspect and Deity has their own "room"—often a literal room, but sometimes more of a general area. For Major Aspects, these rooms include secondary devotion shrines, and the three Deities each have a full tower dedicated to them.
 
 It is possible that not all Aspects have a room, and some rooms are disputed within the community, but this wiki provides a nearly complete list of Aspect rooms/shrines. Notable exceptions include:
 
 - [[Verrhys]] - Who may have some minor references, but should not be expected to have a room, given that they are not remembered by any of the other Aspects. <br>
 - [[Tethlaen]] - Who might have one reference, but does not appear to have a proper room. This may also be due to the fact he disappeared at the very beginning of Av2, and Ytaj was likely built after his disappearance. <br>
 - [[Noha]] - Despite being a prominent Aspect, Noha does not appear to have any dedicated room in Ytaj. <br>
-- [[Moen]] - Disputed. One room could plausibly belong to Moen by process of elimination, but the only spot that clearly invokes her imagery is a small outdoor space.
+- [[Moen]] - Disputed. Moen almost certainly has a dedicated space, the small western garden pictured below, but may or may not have a full room.
+
+![[moen_garden.png]]
+> The garden which may or may not be Moen's only true area in Ytaj.
 
 This list is presented in approximate geographic order, starting from Dahr's area in the southwest and circling clockwise back around to Palaesida's Room in the southeast.
 
-#### BE SURE TO MENTION ELEVATION/CONNECTIONS
-
 #### Dahr's Room
+
+![[room_dahr.png]]
+
+Dahr's area is a large pool in the southwest, containing a floating island with his secondary Devotion shrine at **(-115, 30, -1535)**. Several patches of vibrantly colored coral can be found at the bottom of the pool, as well as an underwater chamber with a throne for Dahr to the north. The pond is fed by waterfalls from the surrounding area, including the glacier atop Loe's room to the west.
 
 #### Dahroehl's Room
 
+Dahroehl's "room" is a tower in the southern portion of Dahr's area, whose exterior is pictured above. The tower itself holds a few cascading fountains to represent the Aspect of Freshwater, which feed into Dahr's larger body of water at the tower's base. A small orb structure at the top of the tower holds a floating block of water.
+
 #### Loe's Room
+
+![[room_loe.png]]
+
+Loe's room is contained within an ice-capped amethyst geode, along the upper western wall of Dahr's area. It is accessible through a staircase that leads up from the far southern end of the western hallway. Loe's secondary devotion shrine is found here, at **(-167, 53, -1528)**. Glacial runoff creates a stream that feeds into Dahr's pond.
 
 #### Loeleyhn's Room
 
-#### Moen's Area
+![[room_loeleyhn.png]]
 
-#### Mari's Room
+Loeleyhn's room is a tower just to the north of (but not directly connected to) Loe's room. It can be accessed through a doorway in the southwest hallway, or on the upper level from the grassy area outside of Loe's room. The interior of the tower is decorated with murals depicting snowflakes for the Aspect of Snow. A massive icicle hangs from the top of the tower, encasing a column of silent obsidian.
 
 #### Khive's Room
 
-#### Library Room
+![[room_khive.png]]
 
-(Could be Moen, or an extension of Khive/Mari? go over the book and points for/against)
+Khive's room is a massive tower that makes up a significant portion of the western area of Ytaj, dotted with his signature red sandstone ring structures. Inside the tower, Khive's secondary devotion altar **(-176, 56, -1612)** is found, along with 4 active warp rings, which follow the same mechanic as those throughout the rest of the map. Navigating the warp rings will lead the player upwards to a hidden loot chest, containing a celestial chondrule and Divine Bauble.
 
-#### Vayniklah's Room
+??? question "Puzzle Solution"
+    To reach the top, you will need to find the correct sequence of linked warp rings. One such sequence is as follows: <br>
+    1. Enter the western ring on the bottom level, opposite the shrine. You should find yourself one level higher, at the northern gate in a group of four. <br>
+    2. Cross the room to the southern ring on Level 2, and enter it. You should emerge two levels higher, in one of 8 rings. <br>
+    3. Go to the connected node, then left to the other connected ring (not the one you came from). Pass through this ring. <br>
+    4. You will emerge from what looks like the same place, but you will be across the room. Repeat this process (going through the ring connected to the one you emerged from, to the left) twice. <br>
+    5. After three right-to-left portals, you will exit from the left side of the final portal structure. Go from left to right, and enter this final portal (on the south-southeastern wall). This portal will take you to the top.
+
+The outside of Khive's tower is surrounded by warp rings in a stacked, layered pattern at the top, with large infused amethyst columns around its perimeter seemingly feeding some kind of energy (represented by orange stained glass) into the center (or drawing from the center).
+
+Mari's Room takes up the bottom portion of Khive's tower.
+
+#### Mari's Room
+
+![[room_mari.png]]
+
+Mari's room is found underneath Khive's room. It is densely packed with decorations, curiosities, and trinkets from the Laughing Dragon's travels. A skeleton reminiscent of a pterodactyl hangs from the ceiling, possibly belonging to a Kohlohmah, massive vulture-like creatures found in [[Anyr'Nogur]] who are the namesake of the in-game Avsohmic glider, [[Avsohm'Kohl]]. Several items are found behind glass cases on the right (northern) wall, housing such items as the [[Artifacts#Frontier's Edge|Frontier's Edge]] artifact, several custom player heads resembling various technological gadgets, a full set of dyed leather armor, a massive sword, and even a fragment of Otherstone bricks and polished blackstone, highly reminiscent of the known statue of [[Verrhys]]. The [[Simple Haiku]] book, written by Mari to his people in [[Sahd]], is found on a lectern in this room, and a chest high up on the southern wall holds the [[Biography of Dragon Rider Oriann]] book.
 
 #### Maen's Room
 
-#### Muhs' Room
+![[room_maen.png]]
+
+Maen's room is a chamber just to the north of Mari's room, connected to the same hallway beneath Khive's tower. It is filled with burning flames and various torture implements, reflecting the Aspect of Hate's violent nature.
+
+#### Library Room
+
+![[ytaj_library_room.png]]
+
+The Ytaj library room, connecting to Khive's tower from the east, is somewhat disputed, but is likely Moen's room. This room is filled with dozens of layers of bookshelves, as well as floating white candles in the air. A path to climb up through the room does exist, in addition to a spiral staircase on the side that leads up to a glass bridge through the room, which in turn leads to Khive's tower. 
+
+A book, [[O Tethlaen]], is found on a lectern at the bottom level of this room, expressing a hope that the Ever-Fear will one day return and praising him. This book also refers to Tethlaen as "sibling," which, if taken literally, would imply that the author of this book is one of Tethlaen's direct siblings in the Emotion Trio—either Maen or Moen. A pink, red, and magenta banner is also found hanging in this room, which matches with Moen's general color scheme elsewhere.
+
+A 4x4 map of Ytaj, created with in-game maps, is also found in this room. 
 
 #### Parkour Tower
 
-(included bc possible tethlaen reference)
+![[room_teth.png]]
+
+North of the library room, a black and white tower can be found, with an entrance from its northern side. The interior of the tower consists of a parkour course, which loops through the library room and also requires the player to climb around the outside of the tower at one point. A chest at the top contains a Divine Bauble and a Dragon's Breath, likely linking it to Tethlaen, although it appears to be more of a reference to the Aspect than a true room where they would have lived.
+
+#### Vayniklah's Room
+
+![[room_vay.png]]
+
+Vayniklah's "room" is an outdoor area just north of Khive's tower, dominated by a massive flowering tree made of stripped birch wood and yellow terracotta. Vayniklah's secondary devotion altar is located at the base of this tree, at **(-183, 45, -1649)**. 
+
+#### Muhs' Room
+
+![[room_muhs.png]]
+
+Muhs' room is a lush den located beneath the parkour tower, made up primarily of brown terracotta walls and filled with mushrooms, strongly resembling Muhs' home on Drehmal, the Underwood. There are no notable features inside the room besides a chest with a Divine Bauble and some other loot.
 
 #### Maelihs 
 
+Maelihs's tower is located in the far northwest of Ytaj proper, with two discrete levels. 
+
+![[room_mael.png]]
+
+The bottom level is accessible from the other rooms at ground level in Ytaj's western wing, sharing an intersection with Khive and Vayniklah's areas to its south. This level contains Mael's secondary devotion altar in its base, at **(-147, 35, -1688)**. The lower level, encompassing about 100 blocks of vertical space, also includes a large tower over the shrine, plus a spiral staircase along the walls of the tower.
+
+The upper level, accessed from the elevator platform in the Tower of Drehmal, is where Mael himself resides, and contains his personal quarters. This includes a massive deity-sized bed, kitchen, hot tub, and throne, as well as several kegs of mead. A curved staircase leads up to a rooftop garden, full of sweet berries, rose bushes, and poppies, plus a Mael-sized chair overlooking the rest of Ytaj.
+
 #### Drehmal
+
+![[room_drehmal.png]]
+
+The Tower of Drehmal is the tallest building in Ytaj, located at the far north of the palace complex, directly behind the Prismatic Council Chamber. It contains a 130-block climb, themed around nature, during which the Dream Dialogue sequence plays out (if the player has not climbed it before). This climb will bring the player up to a platform where an elevator shortcut can be opened. From the elevator platform, the player can utilize levitation pads to reach the top of the tower, pictured above. This is where Drehmal's secondary devotion altar is found, at **(-54, 219, -1718)**.
+
+To the north, a pond surrounds the tower in an arc, stretching from west to east, with several small islands reminiscent of Drehmal biomes. On the tower itself, eight triangular side rooms, encased in glass and each containing a distinct mini-biome, protrude from the secondary intercardinal directions (NNW, NNE, ENE, etc.). All of these except for one can be accessed without breaking blocks, and 6 can be accessed from somewhere within the tower, during the initial climb.
 
 #### Virtuo
 
+Virtuo's tower is located in the far northeast of Ytaj proper, with two discrete levels.
+
+![[room_virtuo.png]]
+
+The bottom level is accessible directly from Taihgel's room in the eastern wing of Ytaj. This level holds an ornate fountain and pool, similar to the one found at the [[Kiln of Virtuo]], as well as Virtuo's secondary devotion altar at **(9, 64, -1706)**. The pool is filled by a series of fountains originating from a fish tank high up in the ceiling, which forms the barrier between the two levels as well.
+
+The upper level has a very similar layout to the upper level of Mael's tower, including a deity-sized throne, bed, pool, garden, and kitchen. A desk is also found in a room next to the throne, with a lectern holding the [[Closed Diary]], the last known writing by Virtuo before her departure for [[Eastern Xivrhynt]]. The [[Artifacts#Fortitude|Fortitude]] artifact can be found in a chest next to her bed, along with a player head resembling the Goddess.
+
 #### Taihgel's Room
+
+![[room_taihgel.png]]
+
+Taihgel's room is located in northeast Ytaj, just south of Virtuo's tower, directly above Lai's room. Taihgel's room is an expansive quartz room with elaborate stained glass windows, centered around an elliptical map. This is believed to be a map of the ancient world of [[Overworld|Drehmal]] in the First Avihm, before the [[Felling]] and Drehmal's reshaping of the world drastically changed the terrain. The map features three roughly equal-sized continents, with the outer two continents containing a single flower (a chthonic/wither rose in the west and an oxeye daisy in the east) and the central continent of Primzahl containing an azalea, representing the [[Primal Tree]].
+
+Taihgel's secondary devotion shrine is located at the western end of this room, at **(-9, 71, -1655)**. Behind this shrine, the windows are decorated with stained glass murals, depicting a tree in the center and two identical flowers on either side.
 
 #### Lai's Room
 
+![[room_lai.png]]
+
+Lai's room is located in northeast Ytaj, directly beneath Taihgel's room. The room is centered around a massive, multicolored flame (actually a sculpture made of stained glass representing a flame), similar to those found in [[Merijool]]. Lai's secondary shrine is found in the western end of this room, at **(-10, 37, -1655)**. 
+
 #### Lailoehn's Room
+
+![[room_lailoehn.png]]
+
+Lailoehn's room is a direct offshoot of Lai's room, a smaller chamber to its east connected by a small staircase, and with an exit leading out to the north towards the Tower of Drehmal's pond. A small structure along the eastern wall can be interpreted as either a throne for Lailoehn, or a statue of the Aspect himself.
 
 #### Lahrs' Room
 
+![[room_lahrs.png]]
+
+Lahrs' room is a large auditorium, located in the far east of Ytaj proper. The room features four rows of seats arranged in a semicircle around a central stage, which holds a massive drum set, presumably for Lahrs to play on. At the top of the room, a projector/spotlight apparatus angles down towards the stage. The room draws heavily on Lahrs' connection to music, but also plays into his fundamental role as the Aspect of Resonance, mediating the balance between all things. The circular murals on the walls seem to represent some of these delicate balances, with the two on the right representing the struggle between heat/cold and land/sea.
+
 #### Nahyn's Room
+
+![[room_nahyn.png]] 
+
+Nahyn's room is located directly above Lahrs' room in eastern Ytaj, accessible via a small bridge from the intersection outside of Lai and Taihgel's rooms. The room itself contains a replica mini-mountain, complete with saplings, a small stream, and snow on its cap.
 
 #### Koh's Room
 
+![[room_koh.png]]
+
+Koh's room is a direct offshoot of Nahyn's room, to its south. It resembles a cave, filled with magma blocks and lava. Different types of stone are displayed on the walls, with amethyst prominently featured in the ceiling and a sarcophagus-like structure made of obsidian and silent obsidian sitting at the end of the room.
+
 #### Rihelma's Room
+
+![[room_rihelma.png]]
+
+Rihelma's room is among the largest in Ytaj, comprising an entire tower in the southeast. This tower is capped off by a massive dark blue dome, and dotted with sea lanterns resembling stars. This room is located directly above the Tehrmari kitchen, and has special elevator columns in its corners, allowing for travel up to and down from the secondary devotion altar at the top level, at **(17, 82, -1569)**.
 
 #### Rihalae's Room
 
+![[room_rihalae.png]]
+
+Rihalae does not appear to have a full "room," but the small, open-air tower that protrudes from the southeast corner of Rihelma's room is likely the closest thing she has to one. The only thing of note here is a chest containing a Divine Bauble and some other loot.
+
 #### Voynahla's Room
 
+![[room_voy.png]]
+
+Voynahla's room is located in southeastern Ytaj, just down the stairs to the right of Precocious Kinah in the main eastern hall. This room, like his domain, is dominated by black and red, with occasional white accents, and features a walkway that leads to his secondary devotion altar, at **(1, 21, -1540)**. Behind the altar sits a large black skull, made out of coal blocks, which appears to be the real physical skull of the Aspect of Death, as it was known to have been exhumed using [[Artifacts#Sepelitem|Sepelitem]] after his death.
+
 #### Palaesida's Room
+
+![[room_palaesida.png]]
+
+Palaesida's room is the final Aspect room using this ordering convention, and is located in the southeast of Ytaj, just to the east of the entrance. It is a circular room with a ceiling made out of gray wool and white/yellow stained glass, simulating storm clouds and lightning strikes. In the center of the room, a carpet pattern appears to show the color scheme of Palaesida's face when he was alive.
+
+Palaesida's room is relatively unique, containing a series of stone tablets with signs around the room, which tell the story of the [[Divine Schism]], the conflict that claimed Palaesida's life, likely erected as a memorial to the fallen Aspect after the Schism. These signs are the clearest tie between the Divine Schism and the [[Frostfang Catastrophe]] on Drehmal. The signs read as follows:
+
+??? info "Palaesida Tablets Transcription"
+    A meeting of the Prismatic Council commences, <br>
+    And Palaesida, our dear hero, is on the agenda. <br>
+    In prankish standard, he once again, <br>
+    Ruined a plan of the hateful Abominate Maen. <br>
+    Loe and Lai discuss, in turn, the Frostfang, <br>
+    And Palaesida gets off without a single hitch. <br> <br>
+    Our motley crew is made of three, Sky, Wind, & Snow <br>
+    All three are young, and quite immature, at that. <br>
+    They discuss themselves, their duty, & their life. <br>
+    Then Palaesida ruminates on what he heard, <br>
+    Ideas of frost, impish desires; what can be done. <br>
+    He still chafes against his limits, to push further. <br> <br>
+    Wind and Sky, dearest siblings, already agree <br>
+    But Loeleyhn has her doubts, and is unsure. <br>
+    She goes to Noha for advice, the wise and noble plain. <br>
+    Noha considers for some time, but finally decides. <br>
+    "Your friends are reckless, indeed they are." <br>
+    "But you are all still young. Go out and enjoy that." <br> <br>
+    Thus, they all distract their lofty elders, <br>
+    Rihalae stirs a gust within a roaring volcano. <br>
+    Loeleyhn creates a flurry of snow, to distract Loe. <br>
+    Warmth and Cold both preoccupied, Palaesida strikes. <br>
+    He steals the Frostfang from its forge. <br>
+    And gifts it to Homli Tahsgan, a Northern Lord <br> <br>
+    After the Catastrophe you all know: <br>
+    Dear Loeleyhn and Palaesida grow closer. <br>
+    With such vast swathes of new frozen tundra, <br>
+    The Aspect of Snow is euphoric with her domain. <br>
+    The Council blames the three young ones. <br>
+    But they could all care less. <br> <br>
+    In furious rage the Great Sea King Dahr, <br>
+    Shows up to punish Sky. But first! <br>
+    The Sky confides: "I worry about my friend." <br>
+    "She's different now, and while it's fun, I miss what she once was." <br>
+    Dahr, surprised, confronts his son, and gives him sage advice. <br>
+    "Talk it out, dear boy. Be honest how you feel." <br> <br>
+    A shock! Noha is dead. Heartbreak is the culprit. <br>
+    Losing the lush steppe of the north was simply too much to bear. <br>
+    Loeleyhn is still changed for the worst, but refuses to care. <br>
+    Aspect of Death becomes inspired. A grisly ritual is performed. <br>
+    The Aspects, shocked, break out in war. <br>
+    The first amongst their kind. <br> <br>
+    Battle-lines were formed and fought, with kin against kin. <br>
+    Lo'Dahr was shattered, its people astir. <br>
+    A Divine Schism, to be sure. <br>
+    Tehrmari rallied, soldiers unwilling in a terrible war. <br>
+    Portals forged, warmongers beyond now brought to front. <br>
+    Ytaj under siege, bodies tallied. <br> <br>
+    Long and hard fought, the schism draws to a close. <br>
+    Dahr calls pause, gathering all in moon-barrens to the North! <br>
+    Palaesida goes to speak, steeped in pride. He will not back down. <br>
+    When suddenly, attacked by Maen! Still furious, after all this time. <br>
+    Hate strikes Sky down, with a frozen bite, and leaves him to die. <br>
+    Aspects in shock! Mortality realized, here our schism concludes.
 
 ## Extras
 
 mael/thresa/virtuo plushes
 
+ytaj wip photo
+
 ### Trivia
 
-aspects w domains have rooms on same side of ytaj
+aspects w domains have rooms on same side of ytaj (except moen, and noha doesn't have one)
 
--thrones?
--murals?
+-lahrs rickroll
+
 -khive tree as potential verrhys reference
 
 

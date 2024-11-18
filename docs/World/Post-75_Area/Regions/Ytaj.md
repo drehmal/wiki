@@ -610,10 +610,10 @@ Palaesida's room is relatively unique, containing a series of stone tablets with
 
 ## Extras
 
-### Trivia
-
 ![[ytaj_wip.png]]
 > An image of Ytaj in the early planning stages of the build.
+
+### Trivia
 
 ***
 

@@ -363,7 +363,7 @@ In Ytaj, almost every single Aspect and Deity has their own "room"—often a lit
 It is possible that not all Aspects have a room, and some rooms are disputed within the community, but this wiki provides a nearly complete list of Aspect rooms/shrines. Notable exceptions include:
 
 - [[Verrhys]] - Who may have some minor references, but should not be expected to have a room, given that they are not remembered by any of the other Aspects. <br>
-- [[Tethlaen]] - Who might have one reference, but does not appear to have a proper room. This may also be due to the fact he disappeared at the very beginning of Av2, and Ytaj was likely built after his disappearance. <br>
+- [[Tethlaen]] - Who appears to have one reference, but not a proper room. This may also be due to the fact he disappeared at the very beginning of Av2, and Ytaj was likely built after his disappearance. <br>
 - [[Noha]] - Despite being a prominent Aspect, Noha does not appear to have any dedicated room in Ytaj. <br>
 - [[Moen]] - Disputed. Moen almost certainly has a dedicated space, the small western garden pictured below, but may or may not have a full room.
 
@@ -530,6 +530,14 @@ Rihelma's room is among the largest in Ytaj, comprising an entire tower in the s
 
 Rihalae does not appear to have a full "room," but the small, open-air tower that protrudes from the southeast corner of Rihelma's room is likely the closest thing she has to one. The only thing of note here is a chest containing a Divine Bauble and some other loot.
 
+#### Worn Ironreed Rod Room
+
+A hidden room in southeastern Ytaj, only accessible by swimming through the stream that flows south past Rihelma's room, appears to be the only possible room for Noha. This room consists of two chambers—the upper chamber appears to be the living quarters of a mortal, where the [[Artifacts#Worn Ironreed Rod|Worn Ironreed Rod artifact]] is found, which tells the story of a pair of thieves that grew up in [[Athrah]] and were separated, only being reunited decades later, presumably in Ytaj somehow.
+
+The lower chamber is made up of red, green, yellow, and orange terracotta murals, mostly depicting flowers, with walls also lined in copper. An orange stained glass window looks out towards the Runic Blacksmith, and the stream drains out, creating an exit.
+
+This room could be dedicated to Noha, with the imagery of flowers being connected to her. However, the combination of its relative inaccessibility and proximity to/continuity with Tehrmari living quarters makes this seem unlikely. Furthermore, the region of [[Casai]], where the two people referenced by the artifact were from, has absolutely no known connection to Noha.
+
 #### Voynahla's Room
 
 ![[room_voy.png]]
@@ -602,17 +610,27 @@ Palaesida's room is relatively unique, containing a series of stone tablets with
 
 ## Extras
 
-mael/thresa/virtuo plushes
-
-ytaj wip photo
-
 ### Trivia
 
-aspects w domains have rooms on same side of ytaj (except moen, and noha doesn't have one)
+![[ytaj_wip.png]]
+> An image of Ytaj in the early planning stages of the build.
 
--lahrs rickroll
+***
 
--khive tree as potential verrhys reference
+In addition to the Maelihs and Virtuo heads, a player head in the likeness of [[Thresa Vera]] can be found sandwiched in a nook between the western wall of Lai's room and the Prismatic Council Chamber, between Nahyn and Koh's thrones.
 
+***
+
+For the most part, Aspects who have a [domain](/World/Post-75_Area/Regions/) on the moon have a room which is on the same side (west-east) of Ytaj as their domain is, relative to Ytaj. The western regions are owned by Khive, Vayniklah, Dahr, Loe, and Maen, all of whom have rooms in the western half of Ytaj. Rihelma, Voynahla, Palaesida, Nahyn, Lai, Lahrs, and Taihgel own regions on the eastern side of the moon, and have rooms in eastern Ytaj. 
+
+There is one exception to this rule, as [[Moen's Domain]] falls just east of the midline, but her room in Ytaj is in the west. This is almost certainly to hold the Emotion Trio's rooms together, near their parent, Khive.
+
+Noha does not appear to have a room, also technically being an exception, although the one spot that might belong to her is in the east of Ytaj.
+
+***
+
+Around the top of Lahrs' room, a musical staff is drawn on the walls, looping around the entire chamber. Musical notes are placed on the staff as decoration, and while these may seem like nonsensical decoration, they actually do serve a hidden purpose: playing these notes in the correct order reveals Lahrs' leitmotif, present in 5 different songs for seemingly unrelated areas.
+
+***
 
 [^1]: This mural has been disputed between Mari and Maen. It is most likely Mari, based on prototype versions of this build in the Dev Zone and the fact that Maen and Moen are across from one another in this interpretation.

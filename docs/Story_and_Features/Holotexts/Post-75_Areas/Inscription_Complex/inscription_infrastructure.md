@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.4
+  exclude: true
 ---
 
 # Lo'Dahr Infrastructure

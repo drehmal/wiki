@@ -6,6 +6,9 @@ search:
 # Glossary
 Drehmal's resource pack renames several vanilla Minecraft items to make them better adhere to the map's lore. This page contains a list of item, block, and mob names, in both their usual Minecraft name and their Drehmal counterpart. 
 
+!!! info "Advanced Tooltips"
+    If you press the `F3` and `H` keys at the same time while in-game, you will activate **Advanced Tooltips**, which tell you the exact Minecraft item name of whatever you're holding, which can help you understand what you're looking at if you don't recognize an item name, in addition to some other helpful info.
+
 ## Blocks
 | **Vanilla Minecraft** | **Drehmal** |
 |:--------------------|:------------|

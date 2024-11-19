@@ -19,19 +19,21 @@ Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the 
 > A map of the entire continent of Drehmal, showing the locations of its towns, major rivers, coastlines and more.
 >
 > Towns & Cities:<br>
-> New Drabyel [(lime)]<br>
-> Okeke [(yellow)]<br>
-> Ebonrun [(light red)]<br>
-> Athrah [(orange)]<br>
-> Fort Nimahj [(blue)]<br>
-> Tharxax [[(red)]<br>
-> Mohta [(light blue)]<br>
-> Firteid [(cyan)]<br>
-> Mossfield [(medium blue)]<br>
-> Highfall [(magenta)]<br>
-> Dusps [(pink)]
+> New Drabyel (lime) <br>
+> Okeke (yellow) <br>
+> Ebonrun (light red)<br>
+> Athrah (orange)<br>
+> Fort Nimahj (blue)<br>
+> Tharxax (red)<br>
+> Mohta (light blue)<br>
+> Firteid (cyan)<br>
+> Mossfield (medium blue)<br>
+> Highfall (magenta)<br>
+> Dusps (pink)
 
 **Image:**
+
+![[map_103.png]]{ width="400" }
 
 ## Adventuring Merchants
 

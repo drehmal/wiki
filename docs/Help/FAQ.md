@@ -76,6 +76,10 @@ Are you stuck on an infinite Mojang loading screen, particularly when you try to
 
 This second version of the resource pack decreases the resolution and file size of the title screen panorama, among other small atlas changes, which can cause this infinite loading screen issue.
 
+### I Can't See Custom Item Names, How Do I See That?
+
+Ensure that the resource pack is properly downloaded, and that your in-game language is set to either **English (US)** or **English (UK)**. The game only recognizes the file which replaces mob, item, and block names with their Drehmal equivalents if the language is set to one of these two options.
+
 ## Wiki Content
 
 Questions about this wiki itself, and its scope.

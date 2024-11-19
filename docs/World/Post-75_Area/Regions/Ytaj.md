@@ -534,6 +534,8 @@ Rihalae does not appear to have a full "room," but the small, open-air tower tha
 
 A hidden room in southeastern Ytaj, only accessible by swimming through the stream that flows south past Rihelma's room, appears to be the only possible room for Noha. This room consists of two chambers—the upper chamber appears to be the living quarters of a mortal, where the [[Artifacts#Worn Ironreed Rod|Worn Ironreed Rod artifact]] is found, which tells the story of a pair of thieves that grew up in [[Athrah]] and were separated, only being reunited decades later, presumably in Ytaj somehow.
 
+![[room_noha_maybe.png]]
+
 The lower chamber is made up of red, green, yellow, and orange terracotta murals, mostly depicting flowers, with walls also lined in copper. An orange stained glass window looks out towards the Runic Blacksmith, and the stream drains out, creating an exit.
 
 This room could be dedicated to Noha, with the imagery of flowers being connected to her. However, the combination of its relative inaccessibility and proximity to/continuity with Tehrmari living quarters makes this seem unlikely. Furthermore, the region of [[Casai]], where the two people referenced by the artifact were from, has absolutely no known connection to Noha.

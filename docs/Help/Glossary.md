@@ -1,9 +1,14 @@
+---
+search:
+  boost: 1.2
+---
+
 # Glossary
-Drehmal commonly renames Minecraft items to make them better adhere to the lore. Here is a list of item names, in their usual Minecraft name and their Drehmal counterpart. 
+Drehmal's resource pack renames several vanilla Minecraft items to make them better adhere to the lore. This page contains a list of item, block, and mob names, in both their usual Minecraft name and their Drehmal counterpart. 
 
 ## Blocks
 | Vanilla Minecraft | Drehmal |
-| :------------------- | :----------- |
+|:--------------------|:------------|
 | Bedrock | Condensed Veilstone |
 | Deepslate Gold Ore, Nether Gold Ore | Slate Gold Ore |
 | Deepslate Iron Ore | Slate Iron Ore |
@@ -58,10 +63,11 @@ Drehmal commonly renames Minecraft items to make them better adhere to the lore.
 | Crimson Sign | Carnelian Sign |
 | Crimson Wall Sign | Carnelian Wall Sign |
 | Crimson Hanging Sign | Carnelian Hanging Sign |
-| Soulfire | Orderflame |
+| Soul Fire | Orderflame |
 | Enchanting Table | Runic Inscription Table |
-| Endstone | Otherstone |
-| Endstone Bricks | Otherstone Bricks |
+| End Stone | Otherstone |
+| End Stone Bricks | Otherstone Bricks |
+| End Portal | Anomaly |
 | End Portal Frame | Anomaly Inhibitor |
 | Dragon Egg | Fear's Husk |
 | Emerald Ore | Serpent Scale Ore |
@@ -78,8 +84,7 @@ Drehmal commonly renames Minecraft items to make them better adhere to the lore.
 | Nether Wart Block | Crucible Wart Block |
 | Red Nether Bricks | Red Taihryte Bricks |
 | Shulker Box | Runic Vessel |
-| End Portal | Anomaly |
-| Wither Rose | Cthonic Rose |
+| Wither Rose | Chthonic Rose |
 | Wither Skeleton Skull | Chthonic Skeleton Skull |
 | Dragon Head | Head of Tethlaen |
 | End Gateway | Void Gateway |
@@ -105,7 +110,7 @@ Drehmal commonly renames Minecraft items to make them better adhere to the lore.
 | Ender Chest | Primal Cache |
 
 ## Items
-| Vanilla Minecraft | Drehmal |
+| **Vanilla Minecraft** | **Drehmal** |
 | :------------------- | :----------- |
 | Spectral Arrow | Truesight Arrow |
 | Emerald | Scale |
@@ -139,29 +144,28 @@ Drehmal commonly renames Minecraft items to make them better adhere to the lore.
 
 ## Mobs
 | Vanilla Minecraft | Drehmal |
-| :------------------- | :----------- |
+|:--------------------|:------------|
 | Cave Spider | Arahk |
 | Elder Guardian | Dahrkin Negator |
 | Ender Dragon | Tethlaen, Lost to Nothing |
 | Enderman | Primal Walker|
-| Endermite | Nullpest
+| Endermite | Nullpest |
 | Evoker | Mihkmari Arcanist |
 | Ghast | Charbelcher |
 | Guardian | Dahrkin |
-| Ravager | Grafted Mikhmari |
+| Ravager | Grafted Mihkmari |
 | Killer Bunny | Heartbreaker Bunny |
 | Phantom | Skullchild |
 | Piglin | Maelmari |
 | Piglin Brute | Maelmari Brute |
-| Pillager | Mikhmari |
+| Pillager | Mihkmari |
 | Polar Bear | Faehrbear | 
 | Shulker | Null Clam |
 | Strider | Laikin |
 | Iron Golem | Runic Golem |
-| Vindicator | Mikhmari Warrior |
+| Vindicator | Mihkmari Warrior |
 | Witch | Forsaken Alchemist |
 | Wither | Soulgrafted |
 | Wither Skeleton | Chthonic Skeleton |
 | Zoglin | Zwinebreed |
 | Zombified Piglin | Necrotic Maelmari |
-

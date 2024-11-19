@@ -1,48 +1,30 @@
----
-tags:
-  - Locations
-  - Cities
----
-
---8<-- "spoiler.md"
-
 # Drabyel
 
-![[Drabyel1.webp]]{ align=right width="300" }
+![[drabyel_1.png]]
 
-Drabyel (also New Drabyel) is a [village](/Settlements) in the [[Capital Valley]] [region](/Regions), located just south of the Capital Valley [[Towers|tower]], and thus is the closest city to [[The Origin]].
+**Drabyel** (technically known as **New Drabyel**) is the official town of the [[Capital Valley]] region, located just south of the Capital Valley [[Terminus Network#Towers|Tower]]. The path that leads away from the [[Stasis Facility]], where the player first spawns, leads toward Drabyel, making this the first town found by most players.
 
-Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
+!!! abstract "Location"
+    Approximate Coordinates: `502, 67, 1801`
 
-??? warning "Spoiler: Location"
-    Approximate Coordinates: `506, 67, 1814`
+Drabyel is a relatively humble, small village, but can serve as an effective early-game base, with a central location, a modest amount of loot and farmland, and proximity to the ruins of [[Av'Sal]]. The village sits on the tip of a peninsula jutting out into the northern reach of the Mouth of Drehmal, the inland sea in the center of the continent. 
+
+The town is populated entirely by [[Drehmari]] who worship the serpentine creator deity [[Drehmal]]. Like all other official towns, Drabyel is home to an [[Adventuring Merchant]] and a [[Runic Blacksmith]].
+
+### Layout
+
+![[Drabyel_map.webp]]{ width="400" }
+> The in-game map of Drabyel, found next to 
 
 
-![[Drabyel_banner.webp]]{ align=right width="300" }
+#### Unique Villagers
 
-#### Unique Merchants and Villagers
+Drabyel is home to a market where permanent merchants offer the following trades:
 
-Drabyel is home to a market where permanent merchants offer the
-following trades:
 
-- Oak Merchant
-  - 4 [Oak Log](https://minecraft.gamepedia.com/Log) for 1
-    [Emerald](https://minecraft.gamepedia.com/Emerald)
-  - 2 [Oak Sapling](https://minecraft.gamepedia.com/Sapling) for 1
-    Emerald
-  - 1 Emerald for 12 Oak Log
-- Coal Merchant
-  - 3 [Coal](https://minecraft.gamepedia.com/Coal) for 1 Emerald
-  - 1 Emerald for 12 Coal
-- Wheat Merchant
-  - 5 [Wheat](https://minecraft.gamepedia.com/Wheat) for 1 Emerald
-  - 6 [Wheat Seeds](https://minecraft.gamepedia.com/Wheat_Seeds) for 1
-    Emerald
-  - 1 Emerald for 20 Wheat
 
 Drabyel is home to random [villagers](https://minecraft.gamepedia.com/Villager#Professions) filling the following roles:
 
-![[Drabyel_map.webp]]{ align=right width="300" }
 
 - Armorer
 - Butcher

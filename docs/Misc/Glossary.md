@@ -4,13 +4,13 @@ search:
 ---
 
 # Glossary
-Drehmal's resource pack renames several vanilla Minecraft items to make them better adhere to the lore. This page contains a list of item, block, and mob names, in both their usual Minecraft name and their Drehmal counterpart. 
+Drehmal's resource pack renames several vanilla Minecraft items to make them better adhere to the map's lore. This page contains a list of item, block, and mob names, in both their usual Minecraft name and their Drehmal counterpart. 
 
 ## Blocks
-| Vanilla Minecraft | Drehmal |
+| **Vanilla Minecraft** | **Drehmal** |
 |:--------------------|:------------|
 | Bedrock | Condensed Veilstone |
-| Deepslate Gold Ore, Nether Gold Ore | Slate Gold Ore |
+| Deepslate Gold Ore, Nether Gold Ore[^1] | Slate Gold Ore |
 | Deepslate Iron Ore | Slate Iron Ore |
 | Nether Brick Slab | Taihryte Brick Slab |
 | Soul Torch | Orderflame Torch |
@@ -18,7 +18,7 @@ Drehmal's resource pack renames several vanilla Minecraft items to make them bet
 | Respawn Anchor | Spectra Charge |
 | Deepslate Diamond Ore | Slate Diamond Ore |
 | Blue Ice | Divine Ice |
-| Nether Portal | OFF LIMITS |
+| Nether Portal | OFF LIMITS[^2] |
 | Deepslate Lapis Lazuli Ore | Slate Lapis Lazuli Ore |
 | Nether Bricks | Taihryte Bricks |
 | Nether Brick Fence | Taihryte Brick Fence |
@@ -83,15 +83,14 @@ Drehmal's resource pack renames several vanilla Minecraft items to make them bet
 | Purpur Slab | Amethyst Tile Slab |
 | Nether Wart Block | Crucible Wart Block |
 | Red Nether Bricks | Red Taihryte Bricks |
-| Shulker Box | Runic Vessel |
+| Shulker Box | Runic Vessel[^3] |
 | Wither Rose | Chthonic Rose |
 | Wither Skeleton Skull | Chthonic Skeleton Skull |
-| Dragon Head | Head of Tethlaen |
 | End Gateway | Void Gateway |
 | Structure Block | Minecraft Sex Block |
+| Jigsaw Block | Jiggy Block |
 | Bubble Column | bubbles!! |
 | Conduit | Aqua Fortis |
-| Jigsaw Block | Jiggy Block |
 | End Stone Brick Stairs | Otherstone Brick Stairs |
 | Red Nether Brick Stairs | Red Taihryte Brick Stairs |
 | End Stone Brick Slab | Otherstone Brick Slab |
@@ -111,7 +110,7 @@ Drehmal's resource pack renames several vanilla Minecraft items to make them bet
 
 ## Items
 | **Vanilla Minecraft** | **Drehmal** |
-| :------------------- | :----------- |
+|:--------------------|:------------|
 | Spectral Arrow | Truesight Arrow |
 | Emerald | Scale |
 | Enchanted Golden Apple | Fruit of the Primal Tree |
@@ -143,12 +142,11 @@ Drehmal's resource pack renames several vanilla Minecraft items to make them bet
 | Warped Fungus on a Stick | Aventurine Fungus on a Stick |
 
 ## Mobs
-| Vanilla Minecraft | Drehmal |
+| **Vanilla Minecraft** | **Drehmal** |
 |:--------------------|:------------|
 | Cave Spider | Arahk |
 | Elder Guardian | Dahrkin Negator |
-| Ender Dragon | Tethlaen, Lost to Nothing |
-| Enderman | Primal Walker|
+| Enderman | Primal Walker |
 | Endermite | Nullpest |
 | Evoker | Mihkmari Arcanist |
 | Ghast | Charbelcher |
@@ -169,3 +167,7 @@ Drehmal's resource pack renames several vanilla Minecraft items to make them bet
 | Wither Skeleton | Chthonic Skeleton |
 | Zoglin | Zwinebreed |
 | Zombified Piglin | Necrotic Maelmari |
+
+[^1]: Nether Gold Ore is not obtainable in the map, as the Nether is disabled. Nether Gold Ore is renamed to be the same as deepslate gold ore, but retains its vanilla texture if obtained via the `/give` command.
+[^2]: This block is typically unobtainable, and should not theoretically ever be seen by the player.
+[^3]: All dyed Runic Vessels also retain this name.

@@ -1,3 +1,4 @@
+# Glossary
 Drehmal commonly renames Minecraft items to make them better adhere to the lore. Here is a list of item names, in their usual Minecraft name and their Drehmal counterpart. 
 
 ## Blocks

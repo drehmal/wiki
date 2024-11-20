@@ -59,8 +59,7 @@ Drehmal's [[Relics|Relic]] is Effloresce, a small tree sapling that grants a var
     | Effloresce +2        | +6% Max Health  <br>+6% Movement Speed <br>+6% Attack Damage | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. Soon, it will be another towering oak in the neutral one's forest of postles. |
     | Effloresce +3        | +8% Max Health <br>+8% Movement Speed <br>+8% Attack Damage | The Final Aspect still dreams of the time before time, when their soul was still the antediluvian Primal Tree. They susurrate of an age of peace. An age of harmony. An age of...  silence. |
 
-![[effloresce.gif]]{ align=center width="320" }
-> The four sprites of Effloresce, from +0 to +3.
+    ![[effloresce.gif]]{ width="320" }
 
 A mural on the left (eastern) wall of this room depicts Drehmal slumbering beneath the [[Primal Caverns]], as they have been for millennia. A mural on the right (western) wall seems to depict Drehmal against the backdrop of the [[Torahn]], possibly depicting either their birth in the [[Felling]], their reconstruction of the continent, or a prophecy in which they awake.
 

@@ -23,6 +23,8 @@ In true Minecraft fashion, Drehmal is not the only dimension included in the map
 
 Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. 
 
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
 --8<-- "spoiler.md"
 
 !!! danger "This section may contain significant spoilers for the 75% completion event and its associated late-game areas."

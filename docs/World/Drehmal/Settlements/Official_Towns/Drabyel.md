@@ -11,6 +11,8 @@ Drabyel is a relatively humble, small village, but can serve as an effective ear
 
 The town is populated entirely by [[Drehmari]] who worship the serpentine creator deity [[Drehmal]]. Like all other official towns, Drabyel is home to an [[Adventuring Merchant]] and a [[Runic Blacksmith]].
 
+Entering the town for the first time grants the "Children of Drehmal" advancement.
+
 ## Layout/Points of Interest
 
 ![[Drabyel_map.webp]]{ width="400" }

@@ -50,7 +50,9 @@ After restoring power, the player can begin to open holo-doors in the facility, 
 
 By finding their way through the pipes in the northern wing, the player can eventually make it to the Graviton Crucible, where the right blade fragment of the Mythbreaker can be found. 
 
-From here, the player can return to the main tower in the center hallway and proceed to the garages to the west. In the garage on the left, the [[Warp Horse]] legendary items can be claimed, and on the right, the Tank Key Fob [[Trinkets|trinket]] is attainable. As hinted at by the [[exodus_tank.md|Tank Technician's Troubles]] holotext, this item can be used to fire the tank positioned just in front of the vault door, if placed in the shulker box before pressing the button on the tank. This tank shot (which WILL deal damage to players if in the way!) blows a hole in the vault door, allowing the player to exit the vault through a long passageway leading to another door, which opens out into the [[Anyr'Nogur]] desert upon their approach.
+From here, the player can return to the main tower in the center hallway and proceed to the garages to the west. In the garage on the left, the [[Warp Horse]] legendary items can be claimed, and on the right, the [[Trinkets#Tank Keyfob|Tank Key Fob]] is attainable. These two garages are blocked off by tinted glass initially, and are only accessible after power has been restored to the facility. 
+
+As hinted at by the [[exodus_tank.md|Tank Technician's Troubles]] holotext, the keyfob can be used to fire the tank positioned just in front of the vault door, simply by pressing the button on the tank while the keyfob is nearby (in a player's inventory or in the shulker box on the tank). This tank shot (which WILL deal damage to players if in the way!) blows a hole in the vault door, allowing the player to exit the vault through a long passageway leading to another door, which opens out into the [[Anyr'Nogur]] desert.
 
 ## Original Writing
 A total of [11 holotexts](/Story_and_Features/Holotexts/50_Percent_Area/) can be found at the Exodus Vault and Citadel.

@@ -18,7 +18,7 @@ Entering Drehua Temple for the first time grants the "Serpent's Chosen" advancem
   
 ## Layout/Points of Interest
 
-Drehua Temple has a relatively linear layout, with a single winding path made of diorite in the ground, symbolically representing Drehmal themselves. At the beginning of this path, an infused amethyst block with the [[Welcome to Drehua Temple]] book is found, which provides a hint toward the [[Devotion#Drehmal Offerings|accepted devotion offerings for Drehmal]]. The path winds through the gardens at the front of the temple, leading up to the shrine and then through to the monks' living quarters, which contain the Parables.
+Drehua Temple has a relatively linear layout, with a single winding path made of diorite in the ground, symbolically representing Drehmal themselves. At the beginning of this path, an infused amethyst block with the [[Welcome to Drehua Temple]] book is found, which provides a hint toward the accepted devotion offerings for Drehmal. The path winds through the gardens at the front of the temple, leading up to the shrine and then through to the monks' living quarters, which contain the Parables.
 
 ### Drehmal Shrine
 
@@ -38,16 +38,29 @@ Drehmal will grant the following rewards in exchange for increasing player devot
 ??? success "Devotion Rewards"
     | Level  | Reward                               |
     |:------:|:-------------------------------------|
-    | Lvl 1  | [[Relics#Effloresce|Effloresce]] +0                  |
+    | Lvl 1  | Effloresce +0                  |
     | Lvl 2  | 10x Apple                      |
     | Lvl 3  | 32x Oak Log                    |
-    | Lvl 4  | [[Relics#Effloresce|Effloresce]] +1                  |
+    | Lvl 4  | Effloresce +1                  |
     | Lvl 5  | 12x Bonemeal                   |
     | Lvl 6  | Scale Block (Block of Emerald) |
-    | Lvl 7  | [[Relics#Effloresce|Effloresce]] +2                  |
+    | Lvl 7  | Effloresce +2                  |
     | Lvl 8  | 64x Oak Log                    |
     | Lvl 9  | Runic Book (Unbreaking III)    |
-    | Lvl 10 | [[Relics#Effloresce|Effloresce]] +3                  |
+    | Lvl 10 | Effloresce +3                  |
+
+Drehmal's [[Relics|Relic]] is Effloresce, a small tree sapling that grants a variety of modest stat boosts.
+
+??? info "Effloresce Details"
+    | **Relic Level**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
+    |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|
+    | Effloresce +0        | +6% Max Health                                        | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. Let it be doused in your faith, let it flourish in your soul. |
+    | Effloresce +1        | +6% Max Health <br>+6% Movement Speed                    | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. It has grown, each new branch being another facet of one's faith. |
+    | Effloresce +2        | +6% Max Health  <br>+6% Movement Speed <br>+6% Attack Damage | Your devotion to Drehmal, the great serpentine deity, shall be represented by a newborn sapling. Soon, it will be another towering oak in the neutral one's forest of postles. |
+    | Effloresce +3        | +8% Max Health <br>+8% Movement Speed <br>+8% Attack Damage | The Final Aspect still dreams of the time before time, when their soul was still the antediluvian Primal Tree. They susurrate of an age of peace. An age of harmony. An age of...  silence. |
+
+![[effloresce.gif]]{ align=center width="320" }
+> The four sprites of Effloresce, from +0 to +3.
 
 A mural on the left (eastern) wall of this room depicts Drehmal slumbering beneath the [[Primal Caverns]], as they have been for millennia. A mural on the right (western) wall seems to depict Drehmal against the backdrop of the [[Torahn]], possibly depicting either their birth in the [[Felling]], their reconstruction of the continent, or a prophecy in which they awake.
 

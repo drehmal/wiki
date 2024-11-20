@@ -1,3 +1,8 @@
+---
+tags:
+  - Devotion Sites
+---
+
 # Drehua Temple
 
 ![[drehua.png]]{ align=right width="300" }

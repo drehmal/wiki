@@ -73,8 +73,6 @@ These four cat maps can be found in locations that are part of the Dev Zone, the
 
 !!! danger "Unless you have FINISHED the 75% Completion Sequence, **ALL THE WAY THROUGH TO THE "Apotheosis" ADVANCEMENT**, we strongly advise that you **DO NOT** continue to read this article, as this **will** interfere with your ability to discover crucial aspects of the map for yourself."
 
-!!! danger "You have been warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 There are 6 known cat maps in the late-game areas associated with the 75% completion event.
@@ -95,8 +93,6 @@ There are 6 known cat maps in the late-game areas associated with the 75% comple
 !!! danger "If you have not **FINISHED THE MAIN STORY OF THE MAP IN ITS ENTIRETY**, we strongly recommend that you DO NOT read the contents of this article."
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
-
-!!! danger "Consider yourself warned."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

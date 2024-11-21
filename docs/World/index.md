@@ -21,7 +21,9 @@ Finally, in the [Points of Interest](/World/Drehmal/Points_of_Interest/) folder,
 ## Other Dimensions
 In true Minecraft fashion, Drehmal is not the only dimension included in the map, but it does function as the overworld, being where almost everything you need is found. The Nether does not exist in Drehmal, but all Nether materials can be found somewhere in the world.
 
-Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. 
+Other dimensions are utilized, although primarily for isolated story sequences, in small, contained areas. As such, their pages can be found in the [Story Locations](/Story_and_Features/Story_Locations/) section instead of the World tab.
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 --8<-- "spoiler.md"
 
@@ -35,6 +37,4 @@ There is one notable exception to this rule, however, which comes after the 75% 
 
 An additional dimension with an explorable open world similar to Drehmal, although smaller and vastly different, is unlocked at the end of the 75% completion event. As the very existence of this dimension, and particularly its identity within the universe, are considered massive story spoilers, this dimension is not mentioned by name on this wiki except for inside of the files directly pertaining to it.
 
-The World section also contains articles, structured in the exact same manner as the Drehmal folder, for this late-game area, with a Regions, Settlements, and POI folder dedicated specifically to this dimension.
-
-Other dimensions visited in the story are not openly explorable, and as such, can be found in the [Story Locations](/Story_and_Features/Story_Locations/) section instead of the World tab.
+The World section also contains [articles](/World/Post-75_Area/), structured in the exact same manner as the Drehmal folder, for this late-game area, with a Regions, Settlements, and POI folder dedicated specifically to this dimension.

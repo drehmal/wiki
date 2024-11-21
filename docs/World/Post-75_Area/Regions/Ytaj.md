@@ -347,6 +347,8 @@ Within the main eastern hall, the living quarters of the palace's [[Tehrmari]] s
 
 ### Soletta
 
+![[soletta.png]]
+
 The Soletta is a mythical forge located at the base of the Tower of Drehmal, made up of a giant, closed eye resting beneath two end portal frame blocks. This is a gameplay-pertinent location, whose purpose may not be immediately apparent. The signs around its base provide a hint as to the forge's function.
 
 **Coordinates:** (-69, 31, -1702)
@@ -533,6 +535,8 @@ Rihalae does not appear to have a full "room," but the small, open-air tower tha
 #### Worn Ironreed Rod Room
 
 A hidden room in southeastern Ytaj, only accessible by swimming through the stream that flows south past Rihelma's room, appears to be the only possible room for Noha. This room consists of two chambers—the upper chamber appears to be the living quarters of a mortal, where the [[Artifacts#Worn Ironreed Rod|Worn Ironreed Rod artifact]] is found, which tells the story of a pair of thieves that grew up in [[Athrah]] and were separated, only being reunited decades later, presumably in Ytaj somehow.
+
+![[room_noha_maybe.png]]
 
 The lower chamber is made up of red, green, yellow, and orange terracotta murals, mostly depicting flowers, with walls also lined in copper. An orange stained glass window looks out towards the Runic Blacksmith, and the stream drains out, creating an exit.
 

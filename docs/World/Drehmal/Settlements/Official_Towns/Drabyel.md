@@ -7,17 +7,18 @@
 !!! abstract "Location"
     Approximate Coordinates: `502, 67, 1801`
 
-![[drabyel_banner.png]]{ width="100" align=right }
-
 Drabyel is a relatively humble, small village, but can serve as an effective early-game base, with a central location, a modest amount of loot and farmland, and proximity to the ruins of [[Av'Sal]]. The village sits on the southern tip of a peninsula which juts into the Mouth of Drehmal, the inland sea in the center of the continent, from the north. 
 
 The town is populated entirely by [[Drehmari]] who worship the serpentine creator deity [[Drehmal]]. Like all other official towns, Drabyel is home to an [[Adventuring Merchant]] and a [[Runic Blacksmith]].
 
 Entering the town for the first time grants the "Children of Drehmal" advancement.
 
+![[drabyel_banner.png]]{ width="100" align=center }
+> The banner found throughout Drabyel, resembling the three hills over the [[Primal Caverns]] on a lime green background.
+
 ## Layout/Points of Interest
 
-![[Drabyel_map.webp]]{ width="400" }
+![[Drabyel_map.webp]]{ width="400" } 
 > The in-game map of Drabyel, found next to the village church.
 
 Drabyel is a small, simple village, built mostly with oak and spruce wood. Houses are often partially built into the ground, reminiscent of hobbit holes, with most buildings having grass roofs.

@@ -49,8 +49,8 @@ Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting o
 
 **Coordinates:** (X: 4652, Y: 77, Z: -753)
 
-### [[Wokonori]]
+### Wokonori
 
-Wokonori was an ancient settlement in northern Grand Pike Canyon. The town appears to be carved into a the stone of a cliffside, reminiscent of real-life [ancient cliff dwellings](https://en.wikipedia.org/wiki/Cliff_dwelling), still largely intact. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and [[Taihgel]], the latter having a [[Devotion|devotion]] altar in an underground shrine.
+[[Wokonori]] was an ancient settlement in northern Grand Pike Canyon. The town appears to be carved into a the stone of a cliffside, reminiscent of real-life [ancient cliff dwellings](https://en.wikipedia.org/wiki/Cliff_dwelling), still largely intact. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and [[Taihgel]], the latter having a [[Devotion|devotion]] altar in an underground shrine.
 
 **Coordinates:** (X: 4305, Y: 47, Z: -926)

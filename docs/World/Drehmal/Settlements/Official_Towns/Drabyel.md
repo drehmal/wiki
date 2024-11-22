@@ -13,7 +13,7 @@ The town is populated entirely by [[Drehmari]] who worship the serpentine creato
 
 Entering the town for the first time grants the "Children of Drehmal" advancement.
 
-![[drabyel_banner.png]]{ width="100" align=center }
+![[drabyel_banner.png]]{ width="100" }
 > The banner found throughout Drabyel, resembling the three hills over the [[Primal Caverns]] on a lime green background.
 
 ## Layout/Points of Interest

@@ -10,8 +10,9 @@ Highfall Tundra is situated on Drehmal's east coast. It borders the [[Frozen Bit
 
 The region is split by a river and lake into north and south segments. Highfall sits on an island at the mouth of the river. The southern segment includes grassland dotted with spruce and oak trees and a large peninsula with rocky, slightly-snowy terrain. In the northern segment are lowlands with small streams and spruce woods in the east, as well as dry land in the west, and highlands consisting of snow-covered tundra. Here, there are also several glaciers, acting as sources for rivers feeding into the eastern ocean.
 
-**Environmental Sub-Regions:** <br>
-- Rocky, hilly peninsula in the southeast
+**Environmental Sub-Regions:** 
+
+- Rocky, hilly peninsula in the southeast <br>
 - Small desert in the far west, along the mountains bordering the [[Veruhkt Plateau]] region <br>
 - Snowy highland tundra in the east
 
@@ -31,12 +32,12 @@ Worship of [[Virtuo]] is the most common local religion.
 
 ![[map_1006.png]]{ width="256" }
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[HF_tower.png]]
 > The Highfall Tundra tower.
 
-Highfall Tundra's Terminus tower is located in the region's center, near the main road. Four stone towers with tops shaped like bird heads surround it on each side. The southern one, the shortest, has a spiral staircase on its interior leading to its top. A bridge connects the top of this tower to the eastern tower, which is taller. A stairwell inside this tower climbs from the point where the bridge intersects with it, up to its top, where another bridge connects to the taller northern tower. This pattern repeats up until the roof of the western and tallest stone tower, which provides direct access to the top of the Terminus tower. This complex is guarded by hostile strays named "Tower Defenders".
+Highfall Tundra's [[Terminus Network#Towers|Terminus tower]] is located in the region's center, near the main road. Four stone towers with tops shaped like bird heads surround it on each side. The southern one, the shortest, has a spiral staircase on its interior leading to its top. A bridge connects the top of this tower to the eastern tower, which is taller. A stairwell inside this tower climbs from the point where the bridge intersects with it, up to its top, where another bridge connects to the taller northern tower. This pattern repeats up until the roof of the western and tallest stone tower, which provides direct access to the top of the Terminus tower. This complex is guarded by hostile strays named "Tower Defenders".
 
 **Coordinates:** (X: 5423, Y: 154, Z: -1391)
 
@@ -46,7 +47,7 @@ Highfall Tundra's Terminus tower is located in the region's center, near the mai
 
 [[Highfall]] is a large city on the region's east coast, and the capital of the Kingdom of Highfall. For most of the Second Avihm, it was a grand, wealthy and important city, but it sank into poverty after the Frostfang Catastrophe. The city's buildings are large but thinly dispersed, and are built primarily of stone, oak and spruce.
 
-**Coordinates:** (X: 6014, Y: 71, Z: -1083)
+**Coordinates:** (X: 5858, Y: 65, Z: -1068)
 
 ### Virmari Crypt
 

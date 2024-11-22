@@ -10,7 +10,8 @@ The Gulf of Drehmal region sits between the Gulf of Drehmal directly to the nort
 
 The region's landscape consists mostly of grasslands and oak and birch woods. The terrain is less flat than Capital Valley, with many bluffs with granite cliffs and rock formations. There are also sandy beaches lining the north coast, and a small swamp in the west. Rivers from Akhlo'Rohma and Purity Peaks to the east conjoin and flow into an inlet in the middle of the region's coast.
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:** 
+
 - Western swamp/marsh
 
 There are no sizable settlements in the Gulf of Drehmal.
@@ -23,12 +24,12 @@ Eventually, under the leadership of [[Drehn|Drehn Mal'Sohm]], the kingdom became
 
 In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional political power. It was a member of the [[Insohm|Order of Insohm]] until the latter's collapse at the end of the Avihm. The union still exists today.
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[GD_tower.png]]
 > The Gulf of Drehmal Terminus tower.
 
-The Gulf of Drehmal's Terminus tower sits half-submerged in the middle of the coast's central inlet. A sinking boat full of [[Mihkmari]] that had crashed into the tower floats adjacent to it.
+The Gulf of Drehmal's [[Terminus Network#Towers|Terminus tower]] sits half-submerged in the middle of the coast's central inlet. A sinking boat full of [[Mihkmari]] that had crashed into the tower floats adjacent to it.
 
 **Coordinates:** (X: 460, Y: 97, Z: -393)
 
@@ -38,13 +39,13 @@ The Gulf of Drehmal's Terminus tower sits half-submerged in the middle of the co
 
 The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is inhabited by the hostile Sun Apostles, members of the Order of Astorahn. The Order of Astorahn was created in West Merijool on the foundation of the [[Torahn]] being the world's true source of warmth, as opposed to [[Lai]], Aspect of Warmth. Due to the Astorahnni's beliefs, which contradicted those of the Lai-worshiping people of West Merijool, they were banished from the land and they resettled in the Gulf of Drehmal region.
 
-**Coordinates:** (X: -180, Y: 163, Z: -572)
+**Coordinates:** (X: -181, Y: 163, Z: -573)
 
 ### Ruins of Drahbes
 
 Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilization that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region, bordering on the [[Akhlo'Rohma]] and [[Purity Peaks]] regions. Outside of the ruins is a small settlement with houses of grass and wood.
 
-**Coordinates:** (X: 1583, Y: 65, Z: -376)
+**Coordinates:** (X: 1583, Y: 65, Z: -377)
 
 ### Ruins of Fortahn
 

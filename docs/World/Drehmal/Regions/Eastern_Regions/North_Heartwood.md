@@ -10,7 +10,8 @@ The North Heartwood stretches from the eastern shores of the Mouth of Drehmal to
 
 The North Heartwood's environment is relatively uniform. Nearly the entire region is covered in thick dark oak forest (with varying levels of density), also populated by tree-sized mushrooms with white stems and red, orange or yellow caps. A few oak and birch trees are also present. A thin strip of land where a road may have been appears to have been cleared out, roughly between Rhaverik and Gozak, with little to no trees. The typical trees that are found throughout the region are short and broad, with drooping foliage and outstretched roots. The terrain is dominated by plateaus, alongside purple or brown cliffs and rocks. A small section of land in the region's southeastern corner, on the coast of the Eye of Vir, consists of grassland and small patches of woods. Sandy beaches can also be found across the region's coasts.
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:**
+
 - Sparse forest in northwest <br>
 - Hilly grassland and woods in southeast <br>
 - Grassland valley with lake and river in southwest <br>
@@ -26,16 +27,16 @@ After the [[Fall of Avsohm|fall of Avsohm]], the Gozaki Union and other kingdoms
 
 ## Regional Map
 
-**Map of the North Heartwood (sold by [[Adventuring Merchant]] in Gozak):**
+**Map of the North Heartwood (sold by [[Adventuring Merchant]] in [[Gozak]]):**
 
 ![[map_1003.png]]{ width="256" }
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[NH_tower.png]]
 > The North Heartwood tower.
 
-The North Heartwood's Terminus tower is situated on a bluff in the region's center, protruding from the canopy below with giant vines wrapping around it. There are no hostile entities present.
+The North Heartwood's [[Terminus Network#Towers|Terminus tower]] is situated on a bluff in the region's center, protruding from the canopy below with giant vines wrapping around it. There are no hostile entities present.
 
 **Coordinates:** (X: 1706, Y; 232, Z: 2370)
 
@@ -45,7 +46,7 @@ The North Heartwood's Terminus tower is situated on a bluff in the region's cent
 
 [[Castle Scarstone]] is an ancient, ruined castle in the mountains northeast of Gozak. It was originally used by the Insohmic Coalition as a military base during the [[Battle for Drehmal]], but it fell out of use (and was possibly destroyed) when the Order of Insohm dissolved. Today, the ruins are inhabited by [[Mihkmari]] scavengers. An immense cavern in the mountains beneath the castle conceals a mysterious pyramid from the First Avihm, as well as the [[One Thousand Scars]] legendary.
 
-**Coordinates:** (X: 2477, Y: 188, Z: 2137)
+**Coordinates:** (X: 2476, Y: 188, Z: 2137)
 
 ### Gozak
 
@@ -57,7 +58,7 @@ The North Heartwood's Terminus tower is situated on a bluff in the region's cent
 
 A fortress atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology. [[Ultva|Master Ultva]] abandoned his commanding role in their efforts after the scientists failed to replicate an ancient Avsohmic chestplate. Even with the Order gone today, the fortress still houses mercenaries and the laboratory continues to be worked in.
 
-**Coordinates:** (X: 1974, Y: 78, Z: 150)
+**Coordinates:** (X: 1974, Y: 78, Z: 1507)
 
 ### Rhaverik Inn & Trading Post
 
@@ -69,7 +70,7 @@ Rhaverik Inn & Trading Post is located on the road outside the former town of Rh
 
 Kazzani was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely destroyed by Skullbeasts during [[Maelihs]]'s desolation of the [[South Heartwood]].
 
-**Coordinates:** (1797, Y: 97, Z: 3252)
+**Coordinates:** (X: 1797, Y: 97, Z: 3252)
 
 ### Ruins of Rhaverik
 
@@ -77,8 +78,8 @@ Rhaverik was a town situated by a lake in the northwestern portion of the North 
 
 **Coordinates:** (X: 1078, Y: 63, Z: 2124)
 
-### [[Underwood]]
+### Underwood
 
-The Underwood is a series of vast, lush caverns and waterways underneath a plateau in the region's southwest. It was once the den of [[Muhs]], Aspect of Beasts, before he was slain here. Inside the Underwood are a castle guarded by "Templars of the Beast," which houses the [[Heartaxe]] legendary, and a small Drehmari village.
+The Underwood is a series of vast, lush caverns and waterways underneath a plateau in the region's southwest. It was once the den of [[Muhs]], Aspect of Beasts, before he was slain here. Inside the Underwood are a castle guarded by "Templars of the Beast," which houses the [[Heartaxe]] legendary, and a small Drehmari village farther east.
 
 **Coordinates:** (X: 985, Y: 69, Z: 2734)

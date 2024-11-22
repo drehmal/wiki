@@ -31,16 +31,16 @@ Today, Akhlo'Rohma is among the most populated regions in Drehmal. [[Virtuo]] is
 
 ## Regional Map
 
-**Map of Akhlo'Rohma (sold by [[Adventuring Merchant]] in Dusps):**
+**Map of Akhlo'Rohma (sold by [[Adventuring Merchant]] in [[Dusps]]):**
 
 ![[map_112.png]]{ width="256" }
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[AK_tower.png]]
 > The Akhlo'Rohma tower.
 
-Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it is overgrown with giant vines. The sides of the tower and surrounding areas are guarded by hostile "[[Lahrs]] Adherents".
+Akhlo'Rohma's [[Terminus Network#Towers|Terminus tower]] is located in the southwest of the region, overgrown with giant vines. The sides of the tower and surrounding areas are guarded by hostile "[[Lahrs]] Adherents".
 
 **Coordinates:** (X: 1898, Y: 161, Z: -1281)
 
@@ -48,37 +48,31 @@ Akhlo'Rohma's Terminus tower is located in the southwest of the region, and it i
 
 ### Ancehl Castle
 
-Ancehl Castle is a large, extravagant palace atop a bluff on the west coast of Akhlo'Rohma. It serves as the home of the Duke/Duchess of Ancehl and other nobles. Outside of its walls are the small, diorite remnants of the city of Ancehl, which once existed alongside the castle. Ancehl Castle is heavily fortified and guarded. Underneath the palace are the Crypts of Akhlo'Rohma, a series of dangerous rooms and passages that were once used as a high-security prison.
+[[Ancehl Castle]] is a large, extravagant palace atop a bluff on the west coast of Akhlo'Rohma. It serves as the home of the Duke/Duchess of Ancehl and other nobles. Outside of its walls are the small, diorite remnants of the city of Ancehl, which once existed alongside the castle. Ancehl Castle is heavily fortified and guarded. Underneath the palace are the Crypts of Akhlo'Rohma, a series of dangerous rooms and passages that were once used as a high-security prison.
 
-**Coordinates:** (X: 1057, Y: 154, Z: -1963)
-
-### [[Azimuth Labs]]
-
-Azimuth Labs is a facility located beneath the Nahynaga Mountains, southwest of Akhlo'Rohma. It served as the headquarters of [[Red Dawn]] during Avsohmic times. 
-
-**Coordinates:** (X: 3203, Y: 88, Z: -643)
+**Coordinates:** (X: 1507, Y: 154, Z: -1963)
 
 ### Dusps
 
-Dusps is a large city situated on a bluff in southern Akhlo'Rohma. Its nickname is the "Painted City", referring to its diversely colored buildings and creative spirit. It houses the Duspian Parliament, a faction of the Kingdom of Dusps's government.
+[[Dusps]] is a large city situated on a bluff in southern Akhlo'Rohma. Its nickname is the "Painted City", referring to its diversely colored buildings and creative spirit. It houses the Duspian Parliament, a faction of the Kingdom of Dusps's government.
 
-**Coordinates:** (X: 2080, Y: 111, Z: -819)
+**Coordinates:** (X: 2088, Y: 111, Z: -837)
 
 ### Esipelli Vineyard
 
 Esipelli Vineyard is a now-abandoned but once famous vineyard, winery, restaurant and inn in southwest Akhlo'Rohma. It was named after its founder, Celiah Esipelli.
 
-**Coordinates:** (X: 1655, Y: 91, Z: -1315)
+**Coordinates:** (X: 1647, Y: 91, Z: -1366)
 
 ### Marahza
 
-Marahza is a tiny village in the middle of Akhlo'Rohma, to the immediate south of the Resting River. Its buildings take a variety of shapes, and are made of birch wood, copper and stained glass. The largest building is the Temple of Bloom and Bough, which contains a [[Devotion|devotion]] altar to the [Aspect](/Lore/Higher_Beings/Aspects/) [[Vayniklah]].
+[[Marahza]] is a tiny village in the middle of Akhlo'Rohma, on the southern bank of the Resting River. Its buildings take a variety of shapes, and are made of birch wood, copper and stained glass. The largest building is the Temple of Bloom and Bough, which contains a [[Devotion|devotion]] altar to the [Aspect](/Lore/Higher_Beings/Aspects/) of Life, [[Vayniklah]].
 
-**Coordinates:** (X: 2289, Y: 74, Z: -1611)
+**Coordinates:** (X: 2289, Y: 75, Z: -1611)
 
 ### Rehntite Cave
 
-The "rehntite cave" is a vast, open cavern within the mountains to the north of Akhlo'Rohma. It was Avsohm's principal rehntite mine and a catalyst in the empire's technological growth. A facility patrolled by ancient, mechanical guards remains there today.
+The [[Rehntite Cave]] is a vast, open cavern within the mountains to the northwest of Akhlo'Rohma. It was Avsohm's principal [[rehntite]] mine and a catalyst in the empire's technological growth. A facility patrolled by ancient, mechanical guards remains there today. This location is home to the [[Rehntite Plate Mail]] [legendary chestplate](/Items/Legendary_Items/).
 
 **Coordinates:** (X: 1683, Y: 19, Z: -2724)
 
@@ -86,10 +80,16 @@ The "rehntite cave" is a vast, open cavern within the mountains to the north of 
 
 Azaim was a city in north Akhlo'Rohma that was settled by Casain migrants. It was destroyed in Gendrik's Incursion, leaving behind ruins.
 
-**Coordinates:** (X: 2738, 122, -1960)
+**Coordinates:** (X: 2738, Y: 122, Z: -1960)
 
 ### Sunken Astral Body
 
 The Sunken Astral Body is a chunk of the moon of [[LD|Lo'Dahr]] that fell onto Drehmal, forming a massive crater on impact. The mini-biome's ground consists of stone riddled with craters, and the effect of gravity here is reduced. The area is also inhabited by the static, giant jellyfish-like creatures (represented by glass structures in-game) native to Lo'Dahr.
 
-**Coordinates:** (X: 3204, Y: 82, Z: 1005)
+Towards the end of the game, this site serves as the entrance to a story location, which cannot be accessed until a very specific point.
+
+**Coordinates:** (X: 3204, Y: 82, Z: -1006)
+
+??? danger "End-Game Story Location"
+    The Sunken Astral Body lies over the entrance to [[Azimuth Labs]], a facility located beneath the Nahynaga Mountains. It served as the headquarters of [[Red Dawn]] during Avsohmic times. This is part of the end-game sequence.
+    

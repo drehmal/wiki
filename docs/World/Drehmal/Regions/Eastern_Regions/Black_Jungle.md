@@ -10,7 +10,8 @@ The Black Jungle is located in the southeast corner of Drehmal's main continent.
 
 The Black Jungle has a very diverse landscape. Most of the region is a large, thick, tropical forest. The trees here are almost all jungle wood, but there are rare instances of acacia as well. The trees' heights vary, but most are taller than the average trees of other regions. There are volcanic zones on the east coast that are free of any forest cover and have ground of red, orange and black hues. Two separate areas within the jungle also contain pools of lava. The Black Jungle has many cliffs and spires composed of white-and-turquoise striped stone, and other cliffs are striped with black and red/orange. Black sand is present on all of the region's coastlines.
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:**
+
 - Turquoise isle home to the [[Kiln of Virtuo]] <br>
 - Clearing in northwest, near exit of Verdant Labyrinth <br>
 - Swamp/marsh areas (one in southwest, one in far northeast) <br>
@@ -33,31 +34,34 @@ Worship of [[Virtuo]] is still the primary religious faith in the Black Jungle.
 
 ## Regional Map
 
-**Map of Black Jungle (sold by [[Adventuring Merchant]] in Firteid):**
+**Map of Black Jungle (sold by [[Adventuring Merchant]] in [[Firteid]]):**
 
 ![[map_1004.png]]{ width="256" }
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[BJ_tower.png]]
 > The Black Jungle tower.
 
-The Black Jungle's Terminus tower is located in the region's center, atop a miniature volcano with steps near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
+The Black Jungle's [[Terminus Network#Towers|Terminus tower]] is located in the region's center, atop a miniature volcano with steps near a river bank, with the tower's base submerged in lava. There are no hostile entities present.
 
 **Coordinates:** (X: 4428, Y: 154, Z: 3273)
-
 
 ## Points of Interest
 
 ### Black Ruins
 
-The mysterious ruins (still completely intact) of a large city composed almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace with an elevated throne. The city's inhabitants worshiped [[Verrhys]], evident due to a statue of the Aspect hidden in a large underground cavern, and they were the only people who are known to have done so. The residents died out for some unknown reason.
+The mysterious ruins (still completely intact) of a large city composed almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace with an elevated throne. The city's inhabitants worshiped [[Verrhys]], evident due to a statue of the Aspect hidden in a large underground cavern. They were the only people who are known to have worshipped Verrhys, and a sign in front of this statue is the only known mention of Verrhys by name in the map. The residents died out for an unknown reason, but were once one of the largest cities in the ancient world.
+
+The cavern underground can be accessed from a tower in the southwest of the town, which leads down into a pitch-black maze. An unnamed, bizarre artifact is found in front of the statue of Verrhys.
 
 **Coordinates:** (X: 4145, Y: 70, Z: 4136)
 
 ### Divination Facility
 
 The Divination Facility was a small, one-room Avsohmic facility situated in a cave behind the Kiln of Virtuo. It was used for Project ArkAngel, in which an unknown material was probed with primal energy in hopes of exposing its inner, high-energy core. The facility's location was chosen for its relatively high levels of ambient divine magic. The scientists working inside were killed during the [[Fall of Avsohm|purge that ended Avsohm]], just before the machinery's final activation and the project's conclusion.
+
+Pressing the button here will summon a strange structure, whose purpose is not initially clear.
 
 **Coordinates:** (X: 3197, Y: 87, Z: 3249)
 
@@ -69,7 +73,7 @@ The Divination Facility was a small, one-room Avsohmic facility situated in a ca
 
 ### Kiln of Virtuo
 
-The Kiln of Virtuo is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millennia. Before she left, her followers could make pilgrimages to the Kiln to seek advice or healing from the Goddess herself. It contains statues of several members of Virtuo's Grand Parish, a [[Devotion|devotion]] altar, and more.
+The [[Kiln of Virtuo]] is large, ornately decorated temple dedicated to Virtuo that also served as her residence for millennia. Before she left, her followers could make pilgrimages to the Kiln to seek advice or healing from the Goddess herself. It contains statues of several members of Virtuo's Grand Parish, a [[Devotion|devotion]] altar, and more.
 
 **Coordinates:** (X: 3260, Y: 85, Z: 3353)
 
@@ -95,4 +99,4 @@ On an island off the region's south eastern coast is a monastery/library that wa
 
 Teiruun Monastery is a towering complex filled with hostile Virtuo-worshiping [[Drehmari]] priors and monks, located high in the Verdant Mountains to the northeast of the Black Jungle. The monastery's Parish secretly experimented with ways of potentially converting Drehmari into [[Virmari]], without the direct intervention of the Goddess herself.
  
-**Coordinates:** (X: 5595, Y: 178, Z: 300)
+**Coordinates:** (X: 5618, Y: 174, Z: 2974)

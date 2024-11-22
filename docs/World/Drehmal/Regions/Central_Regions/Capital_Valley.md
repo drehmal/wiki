@@ -10,7 +10,8 @@ Capital Valley encompasses the majority of the **Central Plains (Dreh'Noha)**. T
 
 Capital Valley has relatively flat terrain, with some hills and small cliffs. The region is covered in grasslands, with patches of oak and birch trees. Larger terracotta hills in red, blue, and green are also found throughout the region, most notably at the [[Primal Caverns]]. 
 
-**Environmental Sub-Regions:** <br>
+**Environmental Sub-Regions:**
+
 - Sparse, tall forests with podzol floor, located both to the south of Av'Sal and in the west along the path towards [[Merijool]]
 
 Capital Valley is home to the town of [[Drabyel|New Drabyel]] on the south coast, the smaller town of [[Solvei]] on the eastern edge of the region, and the very small village of [[Thesund]] at the foothills of the Burnt Mountains to the west. 
@@ -27,16 +28,16 @@ Worship of [[Drehmal]] is the dominant religion in the region, as it is througho
 
 ## Regional Map
 
-**Map of Capital Valley (sold by [[Adventuring Merchant]] in New Drabyel):**
+**Map of Capital Valley (sold by [[Adventuring Merchant]] in [[Drabyel|New Drabyel]]):**
 
 ![[map_104.png]]{ width="256" }
 
-## [[Terminus Network|Terminus Towers]]
+## Terminus Towers
 
 ![[CV_tower.png]]
 > The Capital Valley tower.
 
-Capital Valley's Terminus tower stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the tower.
+Capital Valley's [[Terminus Network#Towers|Terminus tower]] stands in the center of the region, next to the path between the Primal Caverns and the Drabyel Crossroads. It is the easiest tower in the map to climb, having a staircase leading to a ladder directly to the top. There are no hostile entities guarding the tower.
 
 **Coordinates:** (X: 557, Y: 129, Z: 1176)
 
@@ -56,7 +57,7 @@ The entire structure is a reference to the 2.1 version of Drehmal, in which the 
 
 ###  New Drabyel
 
-New Drabyel is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its typical buildings take the form of grassy mounds with features of spruce and oak wood. Drabyel was the capital of the Chosen Kingdom in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was wiped out, which would be why the modern town is named "*New* Drabyel".
+[[Drabyel|New Drabyel]] is a town sitting on a peninsula on the north coast of the Mouth of Drehmal, and usually the first town to be visited during a playthrough. Its typical buildings take the form of grassy mounds with features of spruce and oak wood. Drabyel was the capital of the Chosen Kingdom in the Second Avihm, and it became a large, crowded city. During the kingdom's transformation into the Empire of Avsohm, the capital was moved to the planned city of Av'Sal. Drabyel was likely almost completely destroyed at the end of the Second Avihm when Avsohm was wiped out, which would be why the modern town is named "*New* Drabyel".
 
 **Coordinates:** (X: 531, Y: 67, Z: 1839)
 
@@ -70,7 +71,7 @@ Drehmal is believed to be slumbering deep underneath the Primal Caverns today, h
 
 ### Ruins of Av'Sal
 
-[[Av'Sal]] was a massive city which was ordered to be constructed by Drehn Mal'sohm to serve as the capital of his newly founded Avsohmic Empire. The majority of Av'Sal is built around a lake, with a central island holding a Terminus tower and the capitol building above the [[Av'Sal Repository|Av'Sal]] (an important [story location](/Story_and_Features/Story_Locations/). Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers.
+[[Av'Sal]] was a massive city which was ordered to be constructed by [[Drehn|Drehn Mal'Sohm]] to serve as the capital of his newly founded [[Avsohm|Avsohmic Empire]]. The majority of Av'Sal is built around a lake, with a central island holding a Terminus tower and the capitol building above the [[Av'Sal Repository|Av'Sal]] (an important [story location](/Story_and_Features/Story_Locations/)). Most of Av'Sal was wrecked when Avsohm fell, and today the ruins are occupied by Mihkmari scavengers.
 
 **Coordinates:** (X: -218, Y: 105, Z: 1645)
 
@@ -78,19 +79,19 @@ Drehmal is believed to be slumbering deep underneath the Primal Caverns today, h
 
 The original name of Ihted is unknown, but its ruins were named by archaeologists after a different city with similarities from the First Avihm. The town, sitting on the east bank of the Noroehl River, predates Avsohm, and it was left completely abandoned during the reign of [[Ifeihl|Emperor Zorhis Ifeihl]] after its inhabitants were exiled for illegally worshiping [[Khive]]. The ancient ziggurat remains there until this day, being frequented by wandering mystics and serving as a [[Devotion|devotion]] site for Khive. The ruins contain passageways and rooms hidden underground.
 
-**Coordinates:** (1062, Y: 65, Z: 1097)
+**Coordinates:** (X: 1062, Y: 65, Z: 1097)
 
 ### Solvei
 
 Solvei is a village lying on a small stream running from one lake to another, near the region's eastern border with [[Purity Peaks]]. Its buildings are built mostly out of spruce, oak and grass.
 
-**Coordinates:** (1559, Y: 79, Z: 800)
+**Coordinates:** (X: 1559, Y: 75, Z: 800)
 
 ### Stasis Facility
 
 The [[Stasis Facility]] is an underground complex near the Primal Caverns that houses 24 Avsohmic stasis pods, acting as the very first [story location](/Story_and_Features/Story_Locations/). The player awakes in one of these pods, and they must escape via a staircase leading to an opening on the surface atop a steep crag. The Stasis Facility has a large, open room with trees to allow the player to gather basic materials after spawning, and a room with murals and signs telling the story of the [[Felling|Felling of the Primal Tree]] and the birth of the three deities.
 
-**Coordinates:** (778, Y: 2, Z: 584)
+**Coordinates:** (X: 778, Y: 2, Z: 584)
 
 ### Thesund
 

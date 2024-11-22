@@ -20,12 +20,12 @@ In the early and mid Second Avihm, the region was likely ruled by the powerful a
 
 Grand Pike Canyon was also likely incorporated into the Provinces of Vir in the Third Avihm, which became an early member state of the [[Insohm|Order of Insohm]] and fought with the loyalists in the [[Insohmic Civil War]]. The large, formidable prison [[Shatterhorn Gulch]] was probably established during this time, in order to hold Insohm's most dangerous prisoners. One extreme example was an inductee into the Insohmic Coven of Potentia who went rogue and had become an uncontrollable necromancer. Even with the Order now mostly dissipated, the prison continues to operate.
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[GPC_tower.png]]
 > The Grand Pike Canyon tower.
 
-Grand Pike's Terminus tower is located in the region's northwest. The majority of the tower is encased in a stepped-cone-shaped stone building, the interior of which contains urns, piles of bones and hostile "Grave Wardens". Two spiral staircases lead from the top of the building to the top of the tower.
+Grand Pike's [[Terminus Network#Towers|Terminus tower]] is located in the region's northwest. The majority of the tower is encased in a stepped-cone-shaped stone building, the interior of which contains urns, piles of bones and hostile "Grave Wardens". Two spiral staircases lead from the top of the building to the top of the tower.
 
 **Coordinates:** (X: 3855, Y: 120, Z: -676)
 
@@ -41,7 +41,7 @@ Frontier's Edge Gift Shop is a store in central Grand Pike Canyon with several a
 
 In the far northeast of the region is a small, partially ruined house. Inside, a cat named Priscilla can be found, like the one in the starting configuration room. Priscilla is the real-life cat of lead developer Keeko100, whose likeness is found scattered throughout Drehmal on a repeatedly used map.
 
-**Coordinates:** (X: 4510, Y: 63, Z: -1014)
+**Coordinates:** (X: 4523, Y: 63, Z: -1016)
 
 ### Shatterhorn Gulch
 
@@ -51,6 +51,6 @@ Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting o
 
 ### [[Wokonori]]
 
-Wokonori was an ancient settlement in northern Grand Pike Canyon. The town appears to be carved into a the stone of a cliffside, reminiscent of real-life [ancient cliff dwellings](https://en.wikipedia.org/wiki/Cliff_dwelling), and they still remain largely intact. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and Taihgel, the latter having a [[Devotion|devotion]] altar in an underground shrine.
+Wokonori was an ancient settlement in northern Grand Pike Canyon. The town appears to be carved into a the stone of a cliffside, reminiscent of real-life [ancient cliff dwellings](https://en.wikipedia.org/wiki/Cliff_dwelling), still largely intact. The village's inhabitants worshiped [[Koh]], [[Nahyn]] and [[Taihgel]], the latter having a [[Devotion|devotion]] altar in an underground shrine.
 
 **Coordinates:** (X: 4305, Y: 47, Z: -926)

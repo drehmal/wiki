@@ -10,13 +10,14 @@ The South Heartwood is located on the southern coast of Drehmal. The region bord
 
 Although most of the region is scarred, unarable and lacking vegetation, its western isthmus serves as an exception. This land is still heavily forested by dark oak trees, very similar to the North Heartwood. The land to the east of this sustains the most severe damage, most notably the epicenter of the desolation, which takes the form of an enormous, blackened crater. Its surrounding areas to the south and east are also charred and riddled with fiery pits. The other parts of the region are mostly desert, consisting of sand, dirt and sandstone, sometimes with ground scored by trenches.
 
-**Environmental Sub-Regions:** <br>
-- Isthmus with dark oak forest and prismarine cliffs in west <br>
+**Environmental Sub-Regions:**
+
+- The Heartwater, an isthmus with dark oak forest and prismarine cliffs in the west <br>
 - Epicenter of the desolation in west <br>
 - Black island chain in southwest <br>
-- Central field with lava pits
-- Desert in east
-- Rugged, partially sandy area in northeast
+- Central field with lava pits <br>
+- Desert in east <br>
+- Rugged, partially sandy area in northeast <br>
 - Deep, red-sandstone-lined trenches in north
 
 The [[Dahr]]-worshiping, half-[[Mihkmari]] town of [[Port Solitude]] is situated on the region's southern coast, as well as [[Tahva]], a town which straddles two islands in the southwest.
@@ -29,12 +30,12 @@ After [[Fall of Avsohm|Avsohm's fall]] at the end of the Second Avihm, the Kingd
 
 The South Heartwood was resettled by a few groups of people after this calamity, especially pirate communities on the southern coast who took advantage of the region's isolation and lawlessness.
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[SH_tower.png]]
 > The South Heartwood tower.
 
-The South Heartwood's Terminus tower is located in the desert in the region's east. A small slope of sand leans against its base, allowing access to the first of the protruding beams of red sandstone that are scattered across the tower's eastern side. These beams collectively form a parkour course that can be climbed to the top of the tower. There are no hostile entities present.
+The South Heartwood's [[Terminus Network#Towers|Terminus tower]] is located in the desert in the region's east. A small slope of sand leans against its base, allowing access to the first of the protruding beams of red sandstone that are scattered across the tower's eastern side. These beams collectively form a parkour course that can be climbed to the top of the tower. There are no hostile entities present.
 
 **Coordinates:** (X: 1884, Y: 76, Z: 3731)
 
@@ -50,7 +51,7 @@ The epicenter of Mael's Desolation is a vast, pitch-black, scorched crater in th
 
 Directly outside of the epicenter, to the east, is an old, dilapidated Western-style town. Next to the town is a sizable mine with railways, dug into the epicenter crater's rim. The town is now occupied by Mihkmari. This area contains several references to the Red Dead Redemption game franchise; the grave and boots of "Mi'cah Behl" (Micah Bell), two Mihkmari named to "Duhch van dehr Lihnde" and "Dutch van der Lihnd" (Dutch van der Linde) respectively, and a passive Mihkmari named as "Uncle".
 
-**Coordinates:** (X: 1420, Y: 65, Z: 381)
+**Coordinates:** (X: 1433, Y: 65, Z: 3812)
 
 ### Port Solitude
 
@@ -68,7 +69,7 @@ Espinor was a prominent city located on the region's eastern tip in the Second A
 
 Stromnar was an Avsohmic-era city in the eastern South Heartwood with a "strong warrior tradition". It was the birthplace of the military organization [[Blue Exodus]], whose architecture closely resembles that of the city, heavily featuring prismarine (which is an abundant resource in the area and an effective building material) and quartz.
 
-**Coordinates:** (X: 498, Y: 64, Z: 4038)
+**Coordinates:** (X: 497, Y: 64, Z: 4038)
 
 ### Tahva
 

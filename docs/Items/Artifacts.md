@@ -1900,7 +1900,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in an underground cavern, beneath the ruins of a blackstone and obsidian city in the [[Black Jungle]]. Chest located at **(4291, 20, 4125)** |
 
 ??? "Extra Lore"
-    This artifact is found beneath a ruin that is heavily associated with the mysterious Aspect of Silence, [[Verrhys]]. The artifact is found in front of a statue of Verrhys.
+    This artifact is found beneath a ruin that is heavily associated with the mysterious Aspect of Silence, [[Verrhys]]. The artifact is found in front of a statue of Verrhys, and is completely unnamed.
 
 
 ## Post-75% Artifacts

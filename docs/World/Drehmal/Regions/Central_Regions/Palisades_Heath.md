@@ -20,12 +20,12 @@ Little is known about the region's history in the Third Avihm, but its reputatio
 
 Today, the only remaining settlement of notable size is Drehua Temple, still populated by devotees of the serpent. [[Drehmal]] is worshipped by the region's people.
 
-## [[Terminus Network|Terminus Tower]]
+## Terminus Tower
 
 ![[PH_tower.png]]
 > The Palisades Heath tower.
 
-The Palisades Heath Terminus tower is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
+The Palisades Heath [[Terminus Network#Towers|Terminus tower]] is located in the region's north, next to the main road. It stands inside a pit with a partially frozen lake at the bottom. A bridge juts out from the edge of the pit and ends in front of the tower's midsection. No hostile entities are present.
 
 **Coordinates:** (X: -156, Y: 101, Z: 2547)
 
@@ -39,12 +39,20 @@ The Palisades Heath Terminus tower is located in the region's north, next to the
 
 ### Drehuan Sculptures
 
-In the north of the region, off the side of the road in a patch of woods, there is a group of large ancient Drehuan stone sculptures and other small structures. The largest by far, overlooking the rest, is a statue of a bald [[Drehmari]] sitting cross-legged with one palm held outward and a four-pronged staff in the other hand.
+In the north of the region, off the side of the road in a patch of woods, there is a group of large ancient Drehuan stone sculptures and other small structures. The largest by far, overlooking the rest, is a statue of a bald [[Drehmari]] sitting cross-legged with one palm held outward and a four-pronged staff in the other hand. 
 
-**Coordinates:** (X: 33, Y: 122, Z: 2395)
+The [[Artifacts#Drehuan Macrochisel|Drehuan Macrochisel artifact]] is found here.
+
+**Coordinates:** (X: 22, Y: 104, Z: 2404)
+
+### Friendly Fellow's Humble Abode
+
+On the northern portion of the region, east of the Terminus tower, a small blackstone hill can be found. A pond within this hill holds a small cabin, with a sign that labels it "Friendly Fellow's Humble Abode." Inside, a skeleton named "The Funny Man", who cannot hurt the player, is found, along with a [[Runic Catalyst]].
+
+**Coordinates:** (X: 78, Y: 99, Z: 2488)
 
 ### Whale's Tale
 
 The Whale's Tale is a boat-shaped, busy inn in the region's south, at the end of the road from Capital Valley. On the upper deck is a [[Runic Blacksmith]].
 
-**Coordinates:** (-200, Y: 64, Z: 3606)
+**Coordinates:** (X: -200, Y: 64, Z: 3606)

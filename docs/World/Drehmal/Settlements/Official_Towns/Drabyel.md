@@ -13,9 +13,12 @@ The town is populated entirely by [[Drehmari]] who worship the serpentine creato
 
 Entering the town for the first time grants the "Children of Drehmal" advancement.
 
+![[drabyel_banner.png]]{ width="100" }
+> The banner found throughout Drabyel, resembling the three hills over the [[Primal Caverns]] on a lime green background.
+
 ## Layout/Points of Interest
 
-![[Drabyel_map.webp]]{ width="400" }
+![[Drabyel_map.webp]]{ width="400" } 
 > The in-game map of Drabyel, found next to the village church.
 
 Drabyel is a small, simple village, built mostly with oak and spruce wood. Houses are often partially built into the ground, reminiscent of hobbit holes, with most buildings having grass roofs.

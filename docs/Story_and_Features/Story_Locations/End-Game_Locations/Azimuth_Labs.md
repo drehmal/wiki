@@ -8,8 +8,6 @@
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 **Azimuth Labs**, also referred to as **Alchemy Central**, is the first major story location in the end-game, and the former headquarters of the [[Red Dawn]] alchemical society, one of three major corporations that practically made up branches of [[Avsohm|Avsohm's]] government. Azimuth Labs was the site of Red Dawn's (and by extension, some of Avsohm's) most secretive projects, started toward the end of the empire's lifespan.

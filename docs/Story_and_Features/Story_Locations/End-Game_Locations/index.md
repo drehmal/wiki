@@ -8,8 +8,6 @@
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 This section contains the articles of the five main story locations in the end-game sequence, which begins after completing the dungeon at [[Mt. Yavhlix]] and its boss battle, triggering the vanilla end credits. 

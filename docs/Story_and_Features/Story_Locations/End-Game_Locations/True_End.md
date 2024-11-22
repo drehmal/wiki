@@ -13,8 +13,6 @@ search:
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 !!! danger "Just in case you haven't beaten the map and are still here, because of the gravity of this article, here's another spoiler warning."

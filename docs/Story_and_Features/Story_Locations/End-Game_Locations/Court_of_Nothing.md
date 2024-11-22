@@ -15,8 +15,6 @@ search:
 
 !!! danger "The Court is an extremely important location in the Drehmal universe, pertaining to the nature of some of the deepest lore cuts in the world. From this point on, the spoiler gloves are off."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The **Court of Nothing** is one of the final end-game locations in the main story of Drehmal, accessed from the [[Stasis Facility]] after the sequence at the [[Resonant Halls]]. 

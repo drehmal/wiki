@@ -13,9 +13,7 @@ search:
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "The Maddened Path is an extremely important location in the Drehmal universe, pertaining to the nature of some of the deepest lore cuts in the world. From this point on, the spoiler gloves are off."
-
-!!! danger "Consider yourself warned."
+!!! danger "The Maddened Path is an extremely important location in the Drehmal universe, pertaining to the nature of some of the deepest lore cuts in the world."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 

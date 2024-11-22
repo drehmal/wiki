@@ -8,8 +8,6 @@
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The **Resonant Halls** are an end-game story location, accessed after [[Azimuth Labs]]. The Halls are located in the deepest recesses of [[Mt. Yavhlix]], only accessible through a passageway in the [[Primary Energy Collection Facility]] that is initially sealed by veilstone. This seal is only removed once the player has reached its dedicated end-game sequence. If the player approaches the entrance to the halls before this sequence, they are given the message, "The emptiness in your soul feels strongest here."

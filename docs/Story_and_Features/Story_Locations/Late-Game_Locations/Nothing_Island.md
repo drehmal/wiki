@@ -46,8 +46,6 @@ Players can fall into the void off the edge of any one of the islands, and will 
 
 !!! danger "Note: The true end of the storyline will take you to a dedicated credits room, NOT the vanilla Minecraft end credits. If you have just finished this sequence at the Nothing, you are not far from making these discoveries yourself."
 
-!!! danger "Consider yourself warned."
-
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 The Nothing has existed for all of time, but the tear in the Veil at Mt. Yavhlix leading to this particular island was discovered at some point in early Av2 by the Aspects. [[Noha]], Aspect of Meadows who oversaw the region of [[Faehrcyle]], informed [[Tethlaen]] that lifeforms around the mountain had become strangely deformed, prompting him to investigate. Tethlaen found that the tear was leaking a dangerous amount of [[Primal Energy|primal energy]] into the realm. He attempted to close it from the outside, but was unable to form a strong seal, and as such, committed himself to saving the realm by holding the tear closed from the inside. Myths began to take root that the Aspect had flown off the edge of the disc, and Tethlaen was not heard from again until [[Avsohm]] reached the tear.
@@ -58,7 +56,7 @@ Eventually, Avsohm-Tethlaen relations settled down, as the empire promised to he
 
 The peace brokered between the Aspect and Avsohm eventually became something closer to an alliance, as Tethlaen developed a particularly strong connection to Chief Observer [[Orix Cehein]], the [[Drehmari]] with whom he conversed the most. Tethlaen told Orix some of the history behind the realm, and eventually informed him of the danger of primal energy leakage.
 
-After the [[Fall of Avsohm|empire's fall], the structures built to protect the Aspect of Fear deteriorated, and he gradually began to succumb to the decay in the Nothing. Physically frail and barely able to string together a sentence by the Fourth Avihm, he in his greatly weakened form is eventually slain by the player, relieving him of a burden but simultaneously removing the seal on the tear, setting in motion the events of the end-game.
+After the [[Fall of Avsohm|empire's fall]], the structures built to protect the Aspect of Fear deteriorated, and he gradually began to succumb to the decay in the Nothing. Physically frail and barely able to string together a sentence by the Fourth Avihm, he in his greatly weakened form is eventually slain by the player, relieving him of a burden but simultaneously removing the seal on the tear, setting in motion the events of the end-game.
 
 ## Extras
 A full transcript of Tethlaen's dialogue can be found [[Tethlaen_Dialogue.md|here]].

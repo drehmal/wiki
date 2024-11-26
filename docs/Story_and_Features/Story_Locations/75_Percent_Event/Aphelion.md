@@ -4,6 +4,8 @@ The **Aphelion** was the flagship of [[Avsohm]], acting at different points in t
 
 It is left unclear initially whether the Aphelion was a seafaring vessel or an airship. Search efforts for the ship by several factions, including the forces of [[Maelihs]] and the [[Insohm|Order of Insohm]], proved fruitless, finding no evidence of the ship in the waters surrounding [[Overworld|Drehmal]] or on land.
 
+<br> <br> <br> <br> <br> <br> 
+
 --8<-- "spoiler.md"
 
 !!! danger "The remainder of this article contains SIGNIFICANT spoilers for the 75% completion story event, as well as its ramifications in the storyline."
@@ -67,7 +69,7 @@ In the same wing as the surveillance room, the player can find the **avSYS Mater
     | Scale x14 <br> Glass Bottle | Arcane Bottle |
 
 ## Original Writing
-The Aphelion is home to the most holotexts of any single story location in Drehmal, with a whopping [16 entries](/Story_and_Features/Story_Locations/75_Percent_Event/The_Aphelion/)!
+The Aphelion is home to the most holotexts of any single story location in Drehmal, with a whopping [16 entries](/Story_and_Features/Holotexts/75_Percent_Areas/The_Aphelion/)!
 
 There are also 7 lore books in the Aphelion (6 in normally accessible areas): <br>
 - [[Crew Member's Diary]] in room A3. <br>

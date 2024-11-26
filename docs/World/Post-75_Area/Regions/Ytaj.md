@@ -61,7 +61,7 @@ There are, however, many unique gameplay elements in this area.
     | 12 Amethyst Shards <br> 1 Celestial Chondrule (Netherite Scrap) | 3 Divine Baubles <br> ![[divine_bauble.png]]{ width="48" } |
     | 12 Amethyst Shards <br> 2 Gold Ingots | 1 [[Trinkets#Relic Vessel|Relic Vessel]] <br> ![[relic_vessel.png]]{ width="48" } |
 
-A full list of all 111 known Divine Bauble locations is found below, organized roughly by geographic location, starting in the southwest and working clockwise.
+A full list of all 111-115[^1] known Divine Bauble locations is found below, organized roughly by geographic location, starting in the southwest and working clockwise.
 
 ??? info "Divine Bauble Locations"
     | **Coordinates** | **Location** |
@@ -177,6 +177,10 @@ A full list of all 111 known Divine Bauble locations is found below, organized r
     | **(-19, 33, -1510)** | Beneath the central block of one of the sign tablets in Palaesida's room. |
     | **(-49, 45, -1526)** | Behind a chiseled quartz block on the western, desert-themed balcony of Palaesida's room. |
     | **(-46, 44, -1502)** | On the southwestern balcony of Palaesida's room. |
+    | **2.2.2 Bauble Locations** | |
+    | **(-192, 47, -1684)** | In a small gazebo just northwest of Vayniklah's tree. |
+    | **(-147, 101, -1703)** | At the top of the tower over Maelihs' shrine. |
+    | **(-13, 131, -1718)** | In a smaller tower northwest of Virtuo's tower. This chest contains two Divine Baubles. |
 
 #### Benefactor Zabuyah
 
@@ -274,7 +278,7 @@ On the west, a banner of yellow and blue sits at the front, representing [[Khive
 - [[Noha]], depicting flowers. <br>
 - [[Loeleyhn]], depicting snowflakes. <br>
 - [[Koh]], depicting different types of stone. <br>
-- [[Mari]], possibly depicting paper and pen.[^1] <br>
+- [[Mari]], possibly depicting paper and pen.[^2] <br>
 - [[Muhs]], depicting a wolf-like beast face. <br>
 - [[Moen]], showing Moen's signature colors. 
 
@@ -637,4 +641,5 @@ Around the top of Lahrs' room, a musical staff is drawn on the walls, looping ar
 
 ***
 
-[^1]: This mural has been disputed between Mari and Maen. It is most likely Mari, based on prototype versions of this build in the Dev Zone and the fact that Maen and Moen are across from one another in this interpretation.
+[^1]: Prior to v2.2.2 in late November 2024, there were a total of 111 Divine Baubles, but 4 more were added in this update. Additional 2.2.2-only Bauble locations are listed at the end of the table.
+[^2]: This mural has been disputed between Mari and Maen. It is most likely Mari, based on prototype versions of this build in the Dev Zone and the fact that Maen and Moen are across from one another in this interpretation.

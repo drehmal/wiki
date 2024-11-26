@@ -47,7 +47,7 @@ A single [[Drehmari]] settlement, [[Riverstead Town]], is found in Dahr's Domain
 
 Vanilla Guardians (known as "Dahrkin" when using the Drehmal resource pack) spawn in the water in this biome.
 
-One custom, non-boss, hostile mob spawns in this region.
+Two custom, non-boss, hostile mobs spawn in this region.
 
 | Category   | Description                                    |
 |:----------:|:-----------------------------------------------|
@@ -57,7 +57,14 @@ One custom, non-boss, hostile mob spawns in this region.
 | **Description** | These spiders have green eyes, have jump boost, are functionally immune to fall damage, and are aggressive at all times. They also have 24 health compared to the 16 health of a vanilla spider, and deal 4 base damage as opposed to 2 base damage from vanilla spiders. |
 | **Notes**  | Also found in [[Vayniklah's Domain]]. |
 
-A massive sea serpent can also be seen wandering the large lake, and this serpent, [[Vehrniis|The Vehrniis]], can be fought in an arena accessed from the lake's western shore. After it is defeated, it will return to patrolling the lake, now with a trident stuck in its head.
+| Category   | Description                                    |
+|:----------:|:-----------------------------------------------|
+| **Name**   | Shield Guardian                                       |
+| **Base Mob** | Guardian                                      |
+| **Image**  | ![[shield_guardian.png]]{ width="100" }  |
+| **Description** | Shield Guardians spawn in the water near other guardians (Dahrkin) in this biome, and are found pre-spawned in Abyssal Rise. These guardians have blue spikes instead of orange ones (seen on the right in the above photo), and will give the nearest Dahrkin a resistance buff, denoted by a blue particle link between the two entities, and swirling shields around the protected Dahrkin. |
+
+A massive sea serpent can also be seen wandering the large lake. This serpent, [[Vehrniis|The Vehrniis]], can be fought in [[Challenger's Grotto]], an arena accessed from the lake's western shore. After it is defeated, it will return to patrolling the lake, now with a trident stuck in its head.
 
 ## History
 

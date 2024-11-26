@@ -65,6 +65,8 @@ A mural on the left (eastern) wall of this room depicts Drehmal slumbering benea
 
 The small building on the eastern side of this courtyard appears to hold an artistic representation of the world in the First Avihm. This is shown with an oak sapling representing the [[Primal Tree]] in the center, and two continents on either side with their own flowers.
 
+Like all other devotion sites, a [[Trinkets#Relic Vessel|Relic Vessel]] is found at Drehua Temple. This location's relic vessel is found just outside this courtyard, beneath the center of four stone pillars next to the western side tower.
+
 ### Monk Quarters
 
 The path continues upwards through this courtyard to another building, home to the living quarters of the villagers that inhabit the temple. Early-game loot such as bread, scales, and leather armor can be found throughout this structure, but one room in particular is special.

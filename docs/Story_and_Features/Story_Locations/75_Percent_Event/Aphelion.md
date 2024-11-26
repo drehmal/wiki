@@ -84,8 +84,6 @@ There are also 7 lore books in the Aphelion (6 in normally accessible areas): <b
 
 !!! danger "The Lore section ties in sources from the late and end-game, and may spoil some aspects of the story from after this point."
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
-
 The Aphelion was used for several purposes throughout Avsohm's reign, but appears to have been a staple of their fleet for much of its history. Accounts suggest that the Aphelion was initially a normal airship, but was at some point heavily refitted for space travel. It was also kept a secret from the general public, and as such, it has effectively become a myth in the modern day.
 
 The ship was initially used as a research vessel, but as a key component of Anyr's grand plan, the ship was thoroughly equipped with heavy [[Blue Exodus]] weaponry, and converted primarily into a warship. It was planned to be used as the most threatening element of the Avsohmic arsenal during Anyr's crusade against the entity that created [[Mythbreaker]] and supposedly held sovereignty over the universe.

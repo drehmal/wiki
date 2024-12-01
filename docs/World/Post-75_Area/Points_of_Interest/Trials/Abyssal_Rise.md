@@ -57,6 +57,7 @@ The inside of the building is flooded, with several small structures under the w
     ??? danger "Yellow Pearl"
         The Yellow Pearl is found in a pink concrete/terracotta structure, south of the center. Coordinates: **(-200, 4, 1210)** <br>
         Lore Text: *This saffron gem is perfectly smooth.*
+    If pearls have been returned to the center but all 6 are not found within 10 minutes, the pearls will all respawn in their original locations.
 
 When all six items are returned, the player will be given the following message:
 

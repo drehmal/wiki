@@ -13,9 +13,6 @@ The town is populated entirely by [[Drehmari]] who worship the serpentine creato
 
 Entering the town for the first time grants the "Children of Drehmal" advancement.
 
-![[drabyel_banner.png]]{ width="100" }
-> The banner found throughout Drabyel, resembling the three hills over the [[Primal Caverns]] on a lime green background.
-
 ## Layout/Points of Interest
 
 ![[Drabyel_map.webp]]{ width="400" } 
@@ -69,15 +66,15 @@ The Drabyel [[Adventuring Merchant]] is found under a signature orange/red wool 
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="48" } | 
-| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="48" } |
+| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="96" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="96" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
 | 12 Scales | Saddle |
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims, and six artisan items, whose details can be found [[Artisan Items#Central Regions|here]].
+The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims in addition six artisan items, whose details can be found [[Artisan Items#Central Regions|here]].
 
 **Coordinates:** (526, 65, 1841)
 

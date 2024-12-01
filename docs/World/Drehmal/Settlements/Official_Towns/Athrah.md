@@ -62,7 +62,7 @@ The Athrah [[Adventuring Merchant]] is found under a signature orange/red wool t
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | Capital Valley Map <br> ![[map_150.png]]{ width="200" } | 
+| 10 Scales | Casai Map <br> ![[map_150.png]]{ width="200" } | 
 | 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |

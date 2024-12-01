@@ -66,8 +66,8 @@ The Drabyel [[Adventuring Merchant]] is found under a signature orange/red wool 
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="96" } | 
-| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="96" } |
+| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
 | 12 Scales | Saddle |

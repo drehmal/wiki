@@ -2,7 +2,7 @@
 
 ![[Athrah1.png]]{ align=right width="300" }
 
-**Athrah** is the official town of the [[Casai]] region. It can be accessed by following the main path through Casai, from either [[Merijool]] or [[Ebonrun]]. The town sits on the northern shores of Lake Athrah, which feeds the Rai'za, the main river in Casai from the north, and is bordered by mountains to its north and east.
+**Athrah** is the official town of the [[Casai]] region. It can be accessed by following the main path through Casai, from either [[Merijool]] or [[Ebonrun]]. The town sits on the northern shores of Lake Athrah, which feeds the Rai'za, the main river in Casai from the north, and is bordered by mountains to its north and east. <br> <br>
 
 !!! abstract "Location"
     Approximate Coordinates: `-2721, 66, -1778`
@@ -62,8 +62,8 @@ The Athrah [[Adventuring Merchant]] is found under a signature orange/red wool t
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | Capital Valley Map <br> ![[map_150.png]]{ width="96" } | 
-| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="96" } |
+| 10 Scales | Capital Valley Map <br> ![[map_150.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
 | 1 Scale | 12 Orderflame Torches |

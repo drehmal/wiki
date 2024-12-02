@@ -99,7 +99,7 @@ This compass points toward [[Mt. Yavhlix]].
 
 ## Unique Villagers
 
-![[dusps.png]]{ align=right width="300" }
+![[dusps.png]]
 
 ### Adventuring Merchant
 

@@ -1751,6 +1751,8 @@ This section contains artisan items found in the [Outer Regions](/World/Drehmal/
 ### [[Morah]]
 The Runic Blacksmith in Morah is found at **(4502, 146, 5590)**.
 
+**Sunrise Seekers:**
+
 |                     |                   |
 | ------------------- | ----------------- |
 | **Base Item**      | Iron Boots        |

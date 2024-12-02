@@ -4,7 +4,7 @@ tags:
     - Cities
 ---
 
-# Dusps
+# Thesund
 
 ![[Thesund1.webp]]{ align=right width="300" }
 
@@ -19,7 +19,7 @@ Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.game
 
 Thesund is home to a market where permanent merchants offer the following trades:
 
-- **[[Artisan Items#Thesund Runic Blacksmith]]**
+- **[[Artisan Items#Thesund|Thesund Runic Blacksmith]]**
     - Upgrade Leather Horse Armor to Hefty Barding for 8 Scales
     - Upgrade Leather Horse Armor to War Barding for 12 Scales
 

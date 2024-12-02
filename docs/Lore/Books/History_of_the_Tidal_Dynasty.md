@@ -29,3 +29,7 @@ This book can be found in a chest in the [[Firteid]] Library, and tells an abrid
 >
 > Life in the Black Jungle has never been easy. In a land where both nature and society are often cruel, it is difficult to imagine that the Enclave will be able to maintain the peace for long. We shall see.
 
+## Extras
+
+This book refers to an event as taking place in Av2 1859, which is 39 years after the date when almost all other sources claim that the second Avihm ended, with the [[Fall of Avsohm]]. It is possible that this reflects a cultural difference between the Tidal Dynasty and the rest of the realm, as they were not part of Avsohm and may not have accepted the empire's fall as the end of the era.
+

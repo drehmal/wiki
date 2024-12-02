@@ -78,18 +78,22 @@ The [[Runic Blacksmith]] in Athrah is located beneath a small blue tent next to 
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 16 Copper Ingots | Dune Armor Trim <br> ![[host_armor_trim_smithing_template.png]]{ width="48" } |
+| 16 Copper Ingots | Host Armor Trim <br> ![[host_armor_trim_smithing_template.png]]{ width="48" } |
 | 32 Scales <br> 4 [[Runic Catalyst|Runic Catalysts]] | Runic Amplifier |
 | Runic Amplifier <br> Diamond Helmet | *Rejuvenating Helmet* |
 | Runic Amplifier <br> Diamond Chestplate | *Rejuvenating Chestplate* |
-| Runic Amplifier <br> Diamond Chestplate | *Rejuvenating Leggings* |
+| Runic Amplifier <br> Diamond Leggings | *Rejuvenating Leggings* |
 | Runic Amplifier <br> Diamond Boots | *Rejuvenating Boots* |
 | 16 Scales | *Chime Anklets* |
 | 23 Scales | *Carillon Rod* |
 | 20 Scales | *Bellmet* |
 | 34 Scales <br> 8 Blocks of Gold | *Vow of Loyalty* |
 
-### Acacia Merchant
+### Other Merchants
+
+Athrah's three other permanent merchants are found in booths in the market, on the upper level.
+
+#### Acacia Merchant
 
 The Acacia Merchant sells acacia wood and saplings.
 
@@ -102,7 +106,7 @@ The Acacia Merchant sells acacia wood and saplings.
 | 1 Scale    | 5 Acacia Logs |
 | 1 Scale    | 2 Acacia Saplings | 
 
-### Copper Merchant
+#### Copper Merchant
 
 The Copper Merchant buys and sells copper ingots.
 
@@ -115,7 +119,7 @@ The Copper Merchant buys and sells copper ingots.
 | 16 Copper Ingots  | 1 Scale |
 | 1 Scale    | 8 Copper Ingots | 
 
-### Terracotta Merchant
+#### Terracotta Merchant
 
 The Terracotta Merchant sells all colors of terracotta.
 
@@ -148,6 +152,8 @@ The Terracotta Merchant sells all colors of terracotta.
 Per "[[The Casain Empire]]", Athrah was founded by Casain leader [[Athrah Zarha]] in Av2 1189, as the first effort to centralize power in Casai, and would eventually become the seat of power from which Zarha and his successors would rule over the [[Casain Empire]]. Athrah grew in influence over time, forcing neighboring Casain tribes to join the empire through small, contained battles and trade embargoes, eventually forming the empire in Av2 1255. Athrah remained the regional center of power through much of the Second Avihm, and appears to have flourished under [[Avsohm]], with its teleportation dock likely being derived from Avsohmic warp technologies. The disappearance of the empire may therefore have been the cause for the teleportation pier's fall into disuse.
 
 Early Av3 also saw a mass exodus from Casai, with Drehmari at the edge of the west fleeing the impending conquest of the [[Empire of Maelihs]]. Coming immediately after the [[Fall of Avsohm]], this mass exodus likely brought about the rapid end of Athrah as a wealthy, important location on the continent.
+
+Like the rest of Casai, [[Voynahla]] worship appears to have been prevalent in Athrah, and is likely still the dominant religion among its modern inhabitants.
 
 ## Extras
 

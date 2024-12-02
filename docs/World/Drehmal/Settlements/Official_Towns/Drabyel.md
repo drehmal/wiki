@@ -86,7 +86,7 @@ The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village
 | 16 Scales | Raiser Armor Trim <br> ![[raiser_armor_trim_smithing_template.png]]{ width="48" } |
 | 10 Scales <br> Leather Helmet | *Helmet of Neutrality* |
 | 14 Scales <br> Leather Chestplate | *Chestpiece of Neutrality* |
-| 12 Scales <br> Leather Chestplate | *Leggings of Neutrality* |
+| 12 Scales <br> Leather Leggings | *Leggings of Neutrality* |
 | 10 Scales <br> Leather Boots | *Boots of Neutrality* |
 | 16 Scales <br> Iron Axe | *Fair-Minded Axe* |
 | 8 Scales <br> Shield | *Shield of Neutrality* |

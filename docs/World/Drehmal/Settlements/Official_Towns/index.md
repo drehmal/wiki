@@ -7,3 +7,5 @@ Official Towns are settlements which give special [[advancements]] under the "Di
 All official towns have a single in-game map placed in item frames, which shows a layout of the town with banners marking points of interest. These maps also always have a crafting table and a Primal Cache at their sides. 
 
 Official towns will also almost always have some kind of inn building, with one special room containing a Primal Cache.
+
+All official towns have roads (in varying degrees of disrepair) leading to them.

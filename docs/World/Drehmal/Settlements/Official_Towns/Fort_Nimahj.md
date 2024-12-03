@@ -1,67 +1,163 @@
----
-tags:
-    - Locations
-    - Cities
----
+# Fort Nimahj
 
---8<-- "spoiler.md"
+![[fort_nimahj.png]]{ align=right width="300" }
 
-# Firteid
+**Fort Nimahj** is a town located in [[North Tharxax]]. The town is completely contained to a singular fortress on a hill, along the eastern bank of the massive river that runs between North Tharxax and [[Nimahj Swamp]]. Fort Nimahj can be accessed directly from a path that runs along this eastern riverbank, either from [[Tharxax City]] in the south or from the [[Ebony Veldt]] to the north. It is located just west-southwest of the North Tharxax [[Terminus Network#Towers|Tower]].
 
-![[Fort_Nimahj1.webp]]{ align=right width="300" }
+!!! abstract "Location"
+	Approximate Coordinates: `-1676, 157, 1887` 
 
-Fort Nimahj is a [fort](/Settlements) in the [[Tharxax Plains]] [region](/Regions), located just west of the North Tharxax [[Towers|tower]].
+Fort Nimahj is a small, insulated community which has survived significant hardship, and remains the last bastion of free [[Drehmari]] civilization in the west, standing in opposition to the [[Empire of Maelihs]]. 
 
-Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
+The town is built almost entirely of a basic stone, stone brick, oak wood, and brick palette. Vines grow over the sides of many walls.
 
-??? warning "Spoiler: Location"
-	Approximate Coordinates: `-1680, 157, 1888 ` 
+Entering Fort Nimahj for the first time grants the "The Old Guard" advancement.
 
-## Unique Merchants and Villagers
+## Layout/Points of Interest
 
-Fort Nimahj is home to a market where permanent merchants offer the
-following trades:
+![[fort_nimahj_map.png]]{ width="400" }
+> The in-game map of Fort Nimahj.
 
-- Wool Merchant
-    - 8 [Wool](https://minecraft.gamepedia.com/Wool) for 1 [Emerald](https://minecraft.gamepedia.com/Emerald)
-    - 1 Emerald for 12 Wool
-- Beetroot Merchant
-    - 4 [Beetroot](https://minecraft.gamepedia.com/Beetroot) for 1 Emerald
-    - 5 [Beetroot Seeds](https://minecraft.gamepedia.com/Beetroot_Seeds) for 1 Emerald
-    - 1 Emerald for 15 Beetroot
-    - 64 Emerald Blocks and 64 Diamond Blocks for [[Items|God's Brew]]
-- Clay Merchant
-    - 8 [Clay](https://minecraft.gamepedia.com/Clay) for 1 Emerald
-    - 8 [Bricks](https://minecraft.gamepedia.com/Bricks) for 1 Emerald
-    - 1 Emerald for 10 Clay
-- Geraldo del Rivero
-    - 38 emeralds and 6 iron ingots for Steel Sword, an iron sword with Sharpness V and Unbreaking I
-    - 38 emeralds and 8 rotten flesh for Silver Sword, an iron sword with Bane of Arthropods IV and Smite IV
+### Lower Level
 
+In the northeast corner of the fortress, a small platform below the town map is home to a few points of interest. The town's Runic Blacksmith can be found here, in addition to the Clay Merchant and a small bunkhouse.
 
-## Amenities 
+A door in the fortress wall leads down to a somewhat hidden room with the [[Ancient Diary]] book, and digging through the chiseled stone brick wall in this room reveals an additional hallway. This leads down a stairway to the [[Osteogenesis]] legendary weapon.
 
-Several homestay rooms, market, blacksmith, stable, throne, and watch towers.
+### House
 
-??? warning "Spoiler: Items & Coordinates"
-	| **Coordinates **  | **Loot **                                                                                                                                                   |
-	|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-	| -1723, 157, 1866  | 1x Wheat <br>2x White Wool                                                                                                                                  |
-	| -1728, 157, 1870  | 5x Bread                                                                                                                                                    |
-	| -1723, 161, 1879  | 1x Book and Quill (Swamp Expeditions) <br>2x Raw Beef <br>2x Raw Porkchop                                                                                   |
-	| -1715, 146, 1870  | 1x Paper (nice)                                                                                                                                             |
-	| -1725, 157, 1888  | 1x Book <br>1x Feather <br>7x Potato                                                                                                                        |
-	| -1712, 151, 1885  | 1x Book and Quill (Ancient Diary) <br>1x Iron Sword <br>1x Iron Boots <br>1x Iron Ingot <br>3x Gold Ingot <br>6x Obsidian <br>3x Apple <br>5x Oak Sapling   |
-	| -1724, 161, 1901  | 4x Paper                                                                                                                                                    |
-	| -1722, 166, 1898  | 5x Bread <br>9x Potato <br>8x Apple <br>2x Dandelion                                                                                                        |
-	| -1715, 161, 1901  | 3x Bread <br>5x Rotten Flesh <br>2x Redstone Dust                                                                                                           |
-	| -1714, 171, 1901  | 2x Apple <br>2x Potato <br>1x Dandelion                                                                                                                     |
-	| -1719, 171, 1897  | 7x Bread <br>5x Potato <br>1x Oak Sapling <br>1x Dandelion                                                                                                  |
-	| -1704, 155, 1878  | 2x Bread <br>8x Stick                                                                                                                                       |
-	| -1721, 175, 1897  | 1x Bow (Unlimited Power)                                                                                                                                    |
+A lone wooden house near the merchant booths is home to the [[Swamp Expeditions]] lore book.
+
+### Main Fortress
+
+The main fortress portion of Fort Nimahj is a larger stone building in the southern portion of the town, home to the inn rooms and multiple lore books, including [[Tharhan_A_Land_of_Conquest_(Chapter_1).md|the first entry in the "Tharhan: A Land of Conquest" series]] and [[The Heart of Hell]]. The [[Artifacts#Unlimited Power|Unlimited Power]] artifact is found in the wooden roof of this building, a bow illegally enchanted with both Mending and Infinity.
+
+## Unique Villagers
+
+### Adventuring Merchant
+
+The Fort Nimahj [[Adventuring Merchant]] is found under a signature orange/red wool tent near the other merchants.
+
+**Coordinates:** (-1732, 156, 1879)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 10 Scales | North Tharxax Map <br> ![[map_1000.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
+| 20 Scales | Bundle |
+| 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
+| 5 Scales | 1 Book and Quill |
+
+### Runic Blacksmith
+
+The [[Runic Blacksmith]] in Fort Nimahj is located on the lower level, under the signature blue wool tent. This trader sells one armor trim and eight artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Fort Nimahj|here]].
+
+**Coordinates:** (-1703, 155, 1865)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 16 Blocks of Coal | Wayfinder Armor Trim <br> ![[wayfinder_armor_trim_smithing_template.png]]{ width="48" } |
+| 15 Scales <br> Iron Helmet | *Survivor's Helmet* |
+| 17 Scales <br> Iron Chestplate | *Survivor's Chestplate* |
+| 16 Scales <br> Iron Leggings | *Survivor's Leggings* |
+| 15 Scales <br> Iron Boots | *Survivor's Boots* |
+| 12 Scales | *Heart of Tharhan* |
+| 12 Scales | *Mind of Avsohm* |
+| 12 Scales | *Soul of Insohm* |
+| 30 Scales <br> 32 Copper Ingots | *Surgedigger* |
+
+### Other Merchants
+
+Four other permanent, custom merchant villagers are found in Fort Nimahj, all in booths outside.
+
+#### Clay Merchant
+
+The Clay Merchant is located beneath the blue tent, next to the Runic Blacksmith. This merchant buys and sells clay balls, and sells bricks.
+
+**Coordinates:** (-1701, 155, 1870)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 10 Clay Balls  | 1 Scale |
+| 1 Scale | 4 Clay Balls |
+| 1 Scale | 10 Bricks |
+
+#### Wool Merchant
+
+The Wool Merchant is located opposite the wooden house under a white and blue tent, and sells all colors of wool.
+
+**Coordinates:** (-1723, 156, 1868)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 1 Scale  | 8 Wool (Any Color) |
+
+#### Pumpkin Merchant
+
+The Pumpkin Merchant is located in a white/orange tent, next to the Wool Merchant. This merchant buys and sells pumpkins, and sells pumpkin seeds/pies.
+
+**Coordinates:** (-1728, 156, 1871)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 6 Pumpkins | 1 Scale |
+| 1 Scale  | 2 Pumpkins |
+| 1 Scale  | 8 Pumpkin Seeds |
+| 3 Scales  | 1 Pumpkin Pie |
+
+#### Beetroot Merchant
+
+The Beetroot Merchant is located in a white/red tent, near the entrance to the main fortress building. This merchant buys and sells beetroots, sells beetroot seeds, and offers a special joke item.
+
+**Coordinates:** (-1726, 157, 1887)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 12 Beetroots | 1 Scale |
+| 1 Scale  | 4 Beetroots |
+| 1 Scale  | 6 Beetroot Seeds |
+| 64 Blocks of Celestial Alloy (Netherite) <br> 64 Diamond Blocks  | 1 God's Brew <br> Lore Text: *"Unfathomably good beetroot soup."* |
 
 ## Lore
 
-Fort Nimahj is a fortress constructed during the [[Avsohm|Avsohmic]] Era in order to secure their western provinces. It has remained standing for hundreds of years, despite being captured for a few centuries by [[Maelihs]] after the [[Dune Wars]]. The [[Siege of Fort Nimahj]] caused considerable damage, however the fort stood strong. It was recaptured by the [[Insohm|Order of Insohm]] in the Third Avihm, and used as a base of operation for the [[Reconquest of the West]].
+Fort Nimahj has been inhabited by many different civilizations over its history, possibly emerging as one of the [[Six Tharhan Kingdoms]] before being annexed by [[Avsohm]] in late Av2. It was also held by [[Insohm]] in mid-Av3, and is the only place in [western Drehmal](/World/Drehmal/Regions/Western_Regions/) which has been able to consistently repel the advances of the [[Empire of Maelihs]]. [[Osteogenesis]], a legendary weapon designed specially to combat Skullbeasts, is held below this town and appears to have never left its walls, meaning that the Skullbeasts were likely not deployed against Fort Nimahj.
 
-Ever since then, Fort Nimahj has remained strong and welcomed those in need, even when neighboring regions fell to the [[Empire of Mael]] in recent years. It is a beacon of hope for Drehmari throughout the realm.
+Today, Fort Nimahj stands as the last bastion of [[Virtuo]]'s faith in the west, and as such, its inhabitants have become somewhat paranoid and reclusive, very rarely leaving the fort's walls.
+
+## Extras
+
+### Soundtrack
+
+Fort Nimahj's theme song is "The Old Guard" by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jssU_pdYd0?si=DuuiHwwEAq2_CmLS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Merchant Respawn Commands
+
+In the event that one of the custom merchants in Fort Nimahj is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.
+
+??? question "Fort Nimahj Villager Respawn Commands"
+    ??? info "Runic Blacksmith"
+        `/summon minecraft:villager -1702.50 155.00 1865.50 {DeathTime: 0s, RestocksToday: 0, Xp: 1, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [72.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Runic Blacksmith"}', ArmorItems: [{}, {}, {}, {}], Tags: ["m1"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:coal_block", Count: 16b}, sell: {id: "minecraft:wayfinder_armor_trim_smithing_template", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 2147483647, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 15b}, sell: {id: "minecraft:iron_helmet", tag: {display: {Name: '{"text":"Survivor\'s Helmet","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"As the solitary bastion for Virtuo\'s"}', '{"text":"faith in all of West Drehmal, denizens"}', '{"text":"of Fort Nimahj do not often leave the"}', '{"text":"safety of its walls. This dependable"}', '{"text":"armor is built by paranoid hands for"}', '{"text":"any contingency."}', '{"text":" "}', '{"text":"When on head:","color":"gray","italic":false}', '{"text":"+4% Max Health","color":"blue","italic":false}', '{"text":"+4% Movement Speed","color":"blue","italic":false}', '{"text":"+4% Attack Speed","color":"blue","italic":false}', '{"text":"+2 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 2, Operation: 0, Name: "generic.armor", UUID: [I; -1238950379, 1805402885, -1369684920, -1890815550], AttributeName: "generic.armor", Slot: "head"}, {Amount: 0.04d, Operation: 1, Name: "generic.max_health", UUID: [I; 1937907083, 1344553048, -1149678405, -1097640317], AttributeName: "generic.max_health", Slot: "head"}, {Amount: 0.04d, Operation: 1, Name: "generic.movement_speed", UUID: [I; -1259030200, -1839182462, -1970606701, 247899816], AttributeName: "generic.movement_speed", Slot: "head"}, {Amount: 0.04d, Operation: 1, Name: "generic.attack_speed", UUID: [I; 119133354, 368922510, -1919891789, 419883273], AttributeName: "generic.attack_speed", Slot: "head"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:iron_helmet", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 17b}, sell: {id: "minecraft:iron_chestplate", tag: {display: {Name: '{"text":"Survivor\'s Chestplate","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"As the solitary bastion for Virtuo\'s"}', '{"text":"faith in all of West Drehmal, denizens"}', '{"text":"of Fort Nimahj do not often leave the"}', '{"text":"safety of its walls. This dependable"}', '{"text":"armor is built by paranoid hands for"}', '{"text":"any contingency."}', '{"text":" "}', '{"text":"When on body:","color":"gray","italic":false}', '{"text":"+4% Max Health","color":"blue","italic":false}', '{"text":"+4% Movement Speed","color":"blue","italic":false}', '{"text":"+4% Attack Speed","color":"blue","italic":false}', '{"text":"+6 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 6, Operation: 0, Name: "generic.armor", UUID: [I; -904985695, 1893156717, -1893507022, 146259946], AttributeName: "generic.armor", Slot: "chest"}, {Amount: 0.04d, Operation: 1, Name: "generic.max_health", UUID: [I; 436447562, 1281575414, -1364298445, -1884299226], AttributeName: "generic.max_health", Slot: "chest"}, {Amount: 0.04d, Operation: 1, Name: "generic.movement_speed", UUID: [I; 1502250967, 880299577, -1877258103, 1453917057], AttributeName: "generic.movement_speed", Slot: "chest"}, {Amount: 0.04d, Operation: 1, Name: "generic.attack_speed", UUID: [I; -406538468, -486715459, -1631794257, -1834291161], AttributeName: "generic.attack_speed", Slot: "chest"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:iron_chestplate", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 16b}, sell: {id: "minecraft:iron_leggings", tag: {display: {Name: '{"text":"Survivor\'s Leggings","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"As the solitary bastion for Virtuo\'s"}', '{"text":"faith in all of West Drehmal, denizens"}', '{"text":"of Fort Nimahj do not often leave the"}', '{"text":"safety of its walls. This dependable"}', '{"text":"armor is built by paranoid hands for"}', '{"text":"any contingency."}', '{"text":" "}', '{"text":"When on legs:","color":"gray","italic":false}', '{"text":"+4% Max Health","color":"blue","italic":false}', '{"text":"+4% Movement Speed","color":"blue","italic":false}', '{"text":"+4% Attack Speed","color":"blue","italic":false}', '{"text":"+5 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 5, Operation: 0, Name: "generic.armor", UUID: [I; -1058446165, -388676416, -1416052976, -2008301486], AttributeName: "generic.armor", Slot: "legs"}, {Amount: 0.04d, Operation: 1, Name: "generic.max_health", UUID: [I; 560805851, -398899982, -1368210590, -1954404177], AttributeName: "generic.max_health", Slot: "legs"}, {Amount: 0.04d, Operation: 1, Name: "generic.movement_speed", UUID: [I; 1546672494, -2031072051, -1408455494, 563142814], AttributeName: "generic.movement_speed", Slot: "legs"}, {Amount: 0.04d, Operation: 1, Name: "generic.attack_speed", UUID: [I; 1480477813, -400538862, -1386967198, 1747711678], AttributeName: "generic.attack_speed", Slot: "legs"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:iron_leggings", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 15b}, sell: {id: "minecraft:iron_boots", tag: {display: {Name: '{"text":"Survivor\'s Boots","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"As the solitary bastion for Virtuo\'s"}', '{"text":"faith in all of West Drehmal, denizens"}', '{"text":"of Fort Nimahj do not often leave the"}', '{"text":"safety of its walls. This dependable"}', '{"text":"armor is built by paranoid hands for"}', '{"text":"any contingency."}', '{"text":" "}', '{"text":"When on feet:","color":"gray","italic":false}', '{"text":"+4% Max Health","color":"blue","italic":false}', '{"text":"+4% Movement Speed","color":"blue","italic":false}', '{"text":"+4% Attack Speed","color":"blue","italic":false}', '{"text":"+2 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 2, Operation: 0, Name: "generic.armor", UUID: [I; 590325783, -1722136929, -2087031312, 1377441644], AttributeName: "generic.armor", Slot: "feet"}, {Amount: 0.04d, Operation: 1, Name: "generic.max_health", UUID: [I; 75327417, 1739279096, -1907400488, -1839564671], AttributeName: "generic.max_health", Slot: "feet"}, {Amount: 0.04d, Operation: 1, Name: "generic.movement_speed", UUID: [I; 986330375, 274417446, -1920439853, -1210161659], AttributeName: "generic.movement_speed", Slot: "feet"}, {Amount: 0.04d, Operation: 1, Name: "generic.attack_speed", UUID: [I; 155594826, -257997274, -1784059875, 1893943363], AttributeName: "generic.attack_speed", Slot: "feet"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:iron_boots", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 12b}, sell: {id: "minecraft:shield", tag: {display: {Name: '{"text":"Heart of Tharhan","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This shield is thick, strong, and"}', '{"text":"dependable. It isn\'t perfect, but"}', '{"text":"it makes you feel safe."}', '{"text":" "}', '{"text":"When in offhand:","color":"gray","italic":false}', '{"text":"+4 Max Health","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:unbreaking", lvl: 1s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 4, Operation: 0, Name: "generic.max_health", UUID: [I; 1995070594, -1657057330, -1678074561, -646421111], AttributeName: "generic.max_health", Slot: "offhand"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 12b}, sell: {id: "minecraft:shield", tag: {display: {Name: '{"text":"Mind of Avsohm","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This shield can be deployed extremely"}', '{"text":"quickly. It is smooth and effective,"}', '{"text":"but lacks personality."}', '{"text":" "}', '{"text":"When in offhand:","color":"gray","italic":false}', '{"text":"+0.01 Movement Speed","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:unbreaking", lvl: 1s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.01d, Operation: 0, Name: "generic.movement_speed", UUID: [I; -737341058, -730444081, -2144046540, -6944614], AttributeName: "generic.movement_speed", Slot: "offhand"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 12b}, sell: {id: "minecraft:shield", tag: {display: {Name: '{"text":"Soul of Insohm","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This shield is covered in sharp edges"}', '{"text":"and can be swung in battle. It is"}', '{"text":"powerful, but brittle in some places."}', '{"text":" "}', '{"text":"When in offhand:","color":"gray","italic":false}', '{"text":"+0.2 Attack Speed","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:unbreaking", lvl: 1s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.2d, Operation: 0, Name: "generic.attack_speed", UUID: [I; -384778934, 1455574986, -1173580914, 1560131912], AttributeName: "generic.attack_speed", Slot: "offhand"}]}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 30b}, sell: {id: "minecraft:diamond_shovel", tag: {display: {Name: '{"text":"Surgedigger","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Originally built to help quickly dig trenches"}', '{"text":"in battles over open fields, this shovel is"}', '{"text":"also shockingly effective at knocking down"}', '{"text":"invaders trying to climb castle walls."}', '{"text":" "}', '{"text":"When in main hand:","color":"gray","italic":false}', '{"text":"6 Attack Damage ","color":"blue","italic":false}', '{"text":"1 Attack Speed","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:knockback", lvl: 7s}, {id: "minecraft:efficiency", lvl: 5s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 5, Operation: 0, Name: "generic.attack_damage", UUID: [I; 1873891115, -1608366432, -1995836605, 317916704], AttributeName: "generic.attack_damage", Slot: "mainhand"}, {Amount: -3, Operation: 0, Name: "generic.attack_speed", UUID: [I; 1978749875, -2138750903, -1252766051, 1809958201], AttributeName: "generic.attack_speed", Slot: "mainhand"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:copper_ingot", Count: 32b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [-0.8930993834857329d, 0.0d, 1.0560285627715633d], VillagerData: {type: "minecraft:plains", profession: "minecraft:toolsmith", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137750583L, PortalCooldown: 0}`
+    ??? info "Adventuring Merchant"
+        `/summon minecraft:wandering_trader -1731.50 157.00 1879.50 {DeathTime: 0s, DespawnDelay: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.699999988079071d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-97.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Adventuring Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{id: "minecraft:filled_map", Count: 1b}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:emerald", Count: 10b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"North Tharxax Map","italic":false}', MapColor: 9197883, Lore: ['{"text":"A map of the region surrounding","color":"dark_purple"}', '{"text":"Fort Nimahj, with markers ","color":"dark_purple"}', '{"text":"signifying important locations.","color":"dark_purple"}']}, map: 1000}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 45b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"Map of Drehmal","italic":false}', MapColor: 3290191, Lore: ['{"text":"A map of the entire continent of","color":"dark_purple"}', '{"text":"Drehmal, showing the locations","color":"dark_purple"}', '{"text":"of its towns, major rivers,","color":"dark_purple"}', '{"text":"coastlines, and more.","color":"dark_purple"}', '{"text":" "}', '{"text":"Towns & Cities:","color":"gray","italic":false}', '{"text":"New Drabyel","color":"green"}', '{"text":"Okeke","color":"yellow"}', '{"text":"Ebonrun","color":"red"}', '{"text":"Athrah","color":"gold"}', '{"text":"Fort Nimahj","color":"dark_blue"}', '{"text":"Tharxax","color":"dark_red"}', '{"text":"Mohta","color":"aqua"}', '{"text":"Gozak","color":"dark_green"}', '{"text":"Firteid","color":"dark_aqua"}', '{"text":"Mossfield","color":"blue"}', '{"text":"Highfall","color":"dark_purple"}', '{"text":"Dusps","color":"light_purple"}']}, map: 103}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond", Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:shulker_box", tag: {display: {Name: '{"text":"Runic Vessel","italic":false}', Lore: ['{"text":"An arcane crate dotted with","color":"dark_purple"}', '{"text":"magical runes. It can be used as","color":"dark_purple"}', '{"text":"a portable storage device.","color":"dark_purple"}']}, BlockEntityTag: {id: "minecraft:shulker_box", CustomName: '{"text":"Runic Vessel"}'}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:command_block", tag: {display: {Name: '{"text":"Runic Catalyst","color":"aqua","italic":false}', Lore: ['{"text":"A small, magical orb valued by"}', '{"text":"traders and arcanists. They have"}', '{"text":"several applications in both"}', '{"text":"magical creations and technology."}']}, CustomModelData: 1000000, RunicCatalyst: 1b}, Count: 12b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 20b}, sell: {id: "minecraft:bundle", tag: {display: {Lore: ['{"text":"Can store up to 64 different stackable items."}', '{"text":"While in inventory, drag and right click items"}', '{"text":"onto bundle to store inside. Right click to take"}', '{"text":"most recently stored item out of bundle."}', '{"text":"Crouch and right click while in hand to throw"}', '{"text":"out all stored items."}']}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 5b}, sell: {id: "minecraft:writable_book", tag: {pages: [""]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], Fire: 0s, CanPickUpLoot: 0b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, PortalCooldown: 0}`
+    ??? info "Clay Merchant"
+        `/summon minecraft:villager -1700.50 155.00 1870.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [120.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Clay Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:clay_ball", Count: 10b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:clay_ball", Count: 4b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:brick", Count: 10b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:mason", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137750583L, PortalCooldown: 0}`
+    ??? info "Wool Merchant"
+        `/summon minecraft:villager -1722.63 157.04 1868.30 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.knockback_resistance", Base: 0.0d}, {Name: "minecraft:generic.armor_toughness", Base: 0.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.armor", Base: 0.0d}, {Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.attack_knockback", Base: 0.0d}, {Name: "minecraft:generic.follow_range", Base: 48.0d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-41.99646f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 71286, ForcedAge: 0, CustomName: '{"text":"Wool Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:red_wool", Count: 8b}, uses: 73, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:orange_wool", Count: 8b}, uses: 65, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:yellow_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:lime_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:green_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:cyan_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_blue_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:blue_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:purple_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:magenta_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:pink_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:white_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_gray_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:gray_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:black_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:brown_wool", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.52250004f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:shepherd", level: 1}, Fire: -1s, CanPickUpLoot: 1b, Health: 19.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137750583L, PortalCooldown: 0}`
+    ??? info "Pumpkin Merchant"
+        `/summon minecraft:villager -1727.50 157.00 1871.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}], Invulnerable: 1b, Brain: {memories: {"minecraft:potential_job_site": {value: {pos: [I; -1729, 157, 1871], dimension: "minecraft:overworld"}}}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-85.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Pumpkin Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:pumpkin", Count: 6b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:pumpkin", Count: 2b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:pumpkin_seeds", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 3b}, sell: {id: "minecraft:pumpkin_pie", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.20812776939680327d, 0.0d, 0.5967776016908413d], VillagerData: {type: "minecraft:plains", profession: "minecraft:farmer", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137750583L, PortalCooldown: 0}`
+	??? info "Beetroot Merchant"
+	    `/summon minecraft:villager -1725.50 157.00 1887.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}], Invulnerable: 1b, Brain: {memories: {"minecraft:potential_job_site": {value: {pos: [I; -1725, 157, 1889], dimension: "minecraft:overworld"}}}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [100.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Beetroot Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:beetroot", Count: 12b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:beetroot", Count: 4b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:beetroot_seeds", Count: 6b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:netherite_block", Count: 64b}, sell: {id: "minecraft:beetroot_soup", tag: {display: {Name: '{"text":"God\'s Brew","color":"gold"}', Lore: ['{"text":"Unfathomably good beetroot soup.","color":"dark_purple"}']}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_block", Count: 64b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:farmer", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137750583L, PortalCooldown: 0}`

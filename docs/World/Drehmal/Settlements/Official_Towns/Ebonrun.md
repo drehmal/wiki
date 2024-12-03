@@ -38,6 +38,10 @@ The Needle & Hammer Inn is Ebonrun's inn, located just to the right of the town 
 
 To the right (west) of the inn, a small marketplace can be found, where Ebonrun's other three custom traders reside in their booths.
 
+### Maelihs Statue
+
+A statue of [[Maelihs]] sits at the eastern end of the town's upper level, with a sign reading "TAXES TO MAELIHS, LORD OF CHAOS". A redstone block, a spider eye, a bell, and a redstone torch are placed at its base.
+
 ### Other Original Writing
 
 [[Contact With Dusk]] is found in a house in the upper level of Ebonrun, and [[Spider Infestation]], hinting towards the location of [[Flammer|a legendary]] in the Mt. Ebonfire region, is found in a house on the middle level.

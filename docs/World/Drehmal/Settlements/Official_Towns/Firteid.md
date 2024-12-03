@@ -14,7 +14,7 @@ Firteid, also known as the City of Tides, is a [town](/Settlements) in the [[Bla
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `4023, 77, 3448` 
 
 ## Unique Merchants and Villagers

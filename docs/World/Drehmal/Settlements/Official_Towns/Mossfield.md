@@ -14,7 +14,7 @@ Mossfield (also New Mossfield) is a [town](/Settlements) in the [[Spearhead Fore
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `4091, 66, 1730`
 	
 ## Lore

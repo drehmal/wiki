@@ -14,7 +14,7 @@ New Sahd is a [town](/Settlements) on Sahd [[Regions|island]], located just west
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `4764, 65, 5702`
 
 ## Unique Merchants and Villagers

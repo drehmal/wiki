@@ -12,7 +12,7 @@ Thesund is a small [village](/Settlements) in the [[Capital Valley]] [region](/R
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem). 
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `-339, 703`
 
 ## Unique Merchants and Villagers

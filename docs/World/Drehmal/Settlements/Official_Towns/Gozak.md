@@ -53,7 +53,7 @@ The Gozak [[Adventuring Merchant]] is found under a signature orange/red wool te
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | North Tharxax Map <br> ![[map_1003.png]]{ width="200" } | 
+| 10 Scales | Heartwood Map <br> ![[map_1003.png]]{ width="200" } | 
 | 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |

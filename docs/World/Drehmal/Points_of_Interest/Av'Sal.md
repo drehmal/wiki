@@ -15,7 +15,7 @@ tags:
 Av'Sal is a ruin located on an island in the [[Capital Valley]] [region](/Regions). It is currently occupied by Mihkmari/Illagers and serves as the first dungeon
 in the game.
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
     Approximate Coordinates: `-236, 72, 1588`
 
 The Old Compass item found in [[Drabyel]] will point to this location.

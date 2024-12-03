@@ -14,7 +14,7 @@ Okeke is a [town](/Settlements) in the [[Merijool]] [region](/Regions), located 
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `-1561, 68, -495`
 
 ## Unique Merchants and Villagers

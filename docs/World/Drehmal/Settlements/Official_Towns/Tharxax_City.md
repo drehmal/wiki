@@ -14,7 +14,7 @@ Tharxax City is an industrial [city](/Settlements) in the [[Tharxax Plains]], lo
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `-2195, 65, 3678`
 
 ## Unique Merchants and Villagers

@@ -75,4 +75,4 @@ Southeast of the Primal Caverns, a statue of Verrhys, made of identical material
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
 
 ## Extras
-A full transcript of the Mythoclast's dialogue can be found [[End-Game_Dialogue.md|here]], with this article only pertaining to section 10: **True End**.
+A full transcript of the Mythoclast's dialogue can be found [[End-Game_Dialogue.md#True End|here]], with this article only pertaining to section 10: **True End**.

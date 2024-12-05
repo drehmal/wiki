@@ -69,4 +69,4 @@ This location is referenced elsewhere in the map, but primarily as a mythical or
 ## Extras
 The enemies along the path with unreadable names do in fact have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend."
 
-A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.md|here]]. This article pertains only to the 9th section on that page, the **Maddened Path**.
+A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.md#The Maddened Path|here]]. This article pertains only to the 9th section on that page, the **Maddened Path**.

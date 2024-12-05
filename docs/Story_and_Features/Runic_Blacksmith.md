@@ -23,13 +23,13 @@ Runic Amplifiers are sold by Runic Blacksmiths at the following locations:
     - [[Firteid]]
     - [[Highfall]]
     - [[New Sahd]]
-    - [[Rhaveloth]]
-    - [[Tharxax City]] - Accepts Gold instead of Scales
+    - [[Rhaveloth]] - Accepts Gold instead of Scales
+    - [[Tharxax City]] 
     ??? danger "Late-Game (Post-75%) Runic Amplifier Blacksmiths"
         - [[Naharja]] - Accepts Amethyst Shards instead of Scales
 
 ## Armor Trims
-Armor Trims can be obtained in Drehmal through trading with certain Runic Blacksmiths. 
+Armor Trims can be obtained in Drehmal through trading with certain Runic Blacksmiths. Drehmal's resource pack gives armor trims custom textures to correspond with the areas where they are sold, but these do not actually change the pattern or vanilla mechanic underlying armor trims.
 
 ??? warning "Armor Trim Locations"
     | **Image** | **Name** | **Location** | **Cost** |

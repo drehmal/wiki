@@ -74,6 +74,8 @@ The [[Runic Blacksmith]] in Mohta is located at Tergei and Son's Smithy, standin
 
 ### Other Merchants
 
+There are four more permanent, unique merchants in Mohta: three in the marketplace, and one in the Crystal Catch.
+
 #### Coral Merchant
 
 The Coral Merchant, in the Mohta Marketplace, sells coral blocks, coral, and coral fans of all types.

@@ -52,7 +52,7 @@ The Fort Nimahj [[Adventuring Merchant]] is found under a signature orange/red w
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Fort Nimahj is located on the lower level, under the signature blue wool tent. This trader sells one armor trim and eight artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Fort Nimahj|here]].
+The [[Runic Blacksmith]] in Fort Nimahj is located on the lower level, under the signature blue wool tent. This trader sells one armor trim and eight artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Fort Nimahj|here]]. This set, the Survivor's set, increases max health, movement speed, and attack speed by 4% for each piece worn.
 
 **Coordinates:** (-1703, 155, 1865)
 

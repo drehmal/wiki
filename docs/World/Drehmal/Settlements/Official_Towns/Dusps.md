@@ -119,7 +119,7 @@ The Dusps [[Adventuring Merchant]] is found under a signature orange/red wool te
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Dusps is located just to the south of the Adventuring Merchant, outside the same light blue building. This trader sells one armor trim, in addition to seven artisan items (including a full iron armor set), whose details can be found [[Artisan Items#Dusps|here]]. 
+The [[Runic Blacksmith]] in Dusps is located just to the south of the Adventuring Merchant, outside the same light blue building. This trader sells one armor trim, in addition to seven artisan items (including a full iron armor set), whose details can be found [[Artisan Items#Dusps|here]]. The artisan armor set, the Floral set, adds +6% attack speed per piece worn.
 
 **Coordinates:** (2094, 111, -816)
 

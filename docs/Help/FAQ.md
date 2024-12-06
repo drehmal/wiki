@@ -247,6 +247,12 @@ Depends! If we have an article on that location, it should have your answer. Man
 
 There are many knowledge gates in Drehmal—structures you technically *can* find and use at any point, but whose solutions are not readily apparent, only learned later in the map's story. You can always come back to interesting places later if you feel like you're missing something, and often, this is the best course of action, and what people will tell you if you ask.
 
+### How Do I Get Netherite?
+
+Netherite ([[Glossary|renamed]] under the Drehmal resource pack to "celestial" debris and alloy) is not accessible through normal Nether mining, as the dimension has been made completely inaccessible in the map. Netherite tools and armor can be found as rare loot in the late/end-game, which is the intended progression path, but a renewable source of netherite is found in the late-game as well (after the 75% completion mark).
+
+Until that point, individual pieces of netherite scrap ("Celestial Chondrules") can be found as extremely rare loot in the open world, and enough netherite does exist in non-story areas to make a full set of netherite armor, if you so desire.
+
 ### Can I Get [Specific Resource/Vanilla Item] In This Map?
 
 Almost every single resource and vanilla Minecraft item is obtainable to some extent in Drehmal. Even though the Nether is inaccessible, you can find Nether resources and mobs in set places throughout the map. Traversal items such as elytra are obtainable through story progression. Traders exist for some specialized items, such as sculk blocks and armor trims. Almost everything can be obtained in some way, although these items may not function exactly the same as they do in vanilla Minecraft.

@@ -61,7 +61,7 @@ The Gozak [[Adventuring Merchant]] is found under a signature orange/red wool te
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Gozak is located at the window of the Whiteroot Forge building in the northwest. This trader sells one armor trim and six artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Gozak|here]].
+The [[Runic Blacksmith]] in Gozak is located at the window of the Whiteroot Forge building in the northwest. This trader sells one armor trim and six artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Gozak|here]]. The armor set, the Barbed set, adds +0.4 attack speed per piece worn, and all pieces come enchanted with Thorns IV.
 
 **Coordinates:** (2247, 50, 2434)
 

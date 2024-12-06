@@ -70,7 +70,7 @@ The Ebonrun [[Adventuring Merchant]] is found under a signature orange/red wool 
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Ebonrun is located on the lower level, next to the blue-tented house. This trader sells one armor trim and eight artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Ebonrun|here]].
+The [[Runic Blacksmith]] in Ebonrun is located on the lower level, next to the blue-tented house. This trader sells one armor trim and eight artisan items, including a full set of iron armor, whose details can be found [[Artisan Items#Ebonrun|here]]. This set, the Fortified set, increases max health by 8% per piece worn.
 
 **Coordinates:** (-2979, 124, -225)
 

@@ -125,7 +125,7 @@ This book can be found on a lectern in the facility beneath [[Teiruun Monastery]
 
 ## Seeing Things At Sea
 
-This book can be found in a ship at the dock of the [[Kiln of Virtuo]].
+This book can be found in a ship at the dock of the [[Kiln of Virtuo]]. It has been speculated to potentially refer to the remnants of the Bright Capital in [[Eastern Xivrhynt]], as depicted in [[Expedition Team Log]], but its true meaning is not known.
 
 ### Coordinates
 | **X** | **Y** | **Z** |

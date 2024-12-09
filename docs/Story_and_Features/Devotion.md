@@ -32,9 +32,11 @@ Some of the offerings accepted by an Aspect/Deity can be found laying in invisib
 | [[Lai]]          | [[Merijool]] | [[Shrine of Eternal Flame]] |
 | [[Loe]]          | [[Faehrcyle]] | [[Crystalline Colonnade]] in [[Schlonko]] |
 
-## Devotion Books
+## Devotion Hints
 
-Near every Aspect's devotion altar is a book (not a book and quill or written book, its writing is in its description) that gives clues to help the player to find accepted gifts for that shrine.
+Near every Aspect's devotion altar is a book (a book; not a book and quill or written book—its writing is in the item description) that gives clues to help the player to find accepted gifts for that shrine. 
+
+Low-level (Liked) devotion offerings can be found scattered around devotion shrines themselves, inside of invisible item frames. However, in order to discover the higher-value offerings in-game, players must either guess based off of the god's theme, or discover accepted items through the hints provided in devotion books. Each devotion book hints at a unique mechanic, typically referencing specific structures throughout one or more regions that contain accepted items, left as offerings to that specific god. Hints are also included in the "Offerings" section for their respective Deity or Aspect below.
 
 ## Offerings
 
@@ -339,7 +341,7 @@ In addition to their altars on [[Overworld|Drehmal]], each Aspect/Deity with a d
 
 ## Benefactor Zabuyah
 
-Benefactor Zabuyah is a trader that can be found in the eastern wing of Ytaj. They sell 11 chests (12 amethyst shards apiece), each with a book inside hinting to the location of an Aspect/deity's altar on Drehmal.
+Benefactor Zabuyah is a trader that can be found in the eastern wing of Ytaj. They sell 11 chests (for 12 amethyst shards apiece), each with a book inside hinting to the location of an Aspect/deity's altar on Drehmal.
 
 
 

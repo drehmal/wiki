@@ -6,6 +6,8 @@ tags:
 
 # Kamt
 
+--8<-- "under_construction.md"
+
 **Kamt** is a city in the [[Merijool]] [region](/Regions), on the eastern slope of Mt. Mekta.
 
 ## Lore

@@ -6,6 +6,8 @@ tags:
 
 # Emperor's Estate
 
+--8<-- "under_construction.md"
+
 ![[Emperors_estate.webp]]{ align=right width="300" }
 
 The emperor's estate, now abandoned, is located on the island of [[Sahd Island|Sahd]].

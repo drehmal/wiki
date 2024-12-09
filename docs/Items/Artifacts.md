@@ -297,7 +297,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 | **Lore**   | An old worn blade made of a strange material.                         |
-| **Obtain** | Found in a hidden side room of the [[Last Avsohmic Vault]]. Item Frame located at **(-3661, 77, -1171)** |
+| **Obtain** | Found in a hidden side room of the [[Avsohmic Vault]]. Item Frame located at **(-3661, 77, -1171)** |
 
 ### Boltcatcher's Cradle
 
@@ -1759,7 +1759,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Chipped murals on ancient walls tell the story of the Great Revel. While Vayniklah's faithful hoped to revive the soul of the world, instead they opened the door to something far more sinister. |
-| **Obtain** | Located in the [[Glade of the Giant]] in [[Merijool]], and unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
+| **Obtain** | Located in the [[Primal Sapling]] in [[Merijool]], and unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
 
 ### Temporal Bow
 
@@ -1884,7 +1884,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lore**   | A pure white shortbow, fabled weapon of an old Virmari hero. During the Deity Wars, they were one of Virtuo's greatest crusaders against Maelihs and his armies. Though their name was forgotten, their heroic became the spirit of the Empire of Vir. |
+| **Lore**   | A pure white shortbow, fabled weapon of an old Virmari hero. During the Deity Wars, they were one of Virtuo's greatest crusaders against Maelihs and his armies. Though their name was forgotten, their heroics became the spirit of the Empire of Vir. |
 | **Obtain** | Located in the Virmari Crypt in the far northeastern extent of Virtuo's Aegis, the primary eastern mountain range. Chest located at **(4740, 126, -1169)** |
 
 ### \_\_\_\_\_\_\_\_\_\_\_\_

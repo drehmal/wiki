@@ -5,7 +5,7 @@ tags:
 
 --8<-- "spoiler.md"
 
-This book can be found in a chest in [[The Foundry]]. It describes the significant drawbacks of Primal Khivesbrew.
+This book can be found in a chest in the [[Foundry]]. It describes the significant drawbacks of Primal Khivesbrew.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

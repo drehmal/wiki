@@ -1,8 +1,3 @@
----
-tags:
-  - Devotion Sites
----
-
 # Sepulchral Altar
 
 ![[rhaveloth_altar.png]]{ align=right width="300" }
@@ -77,5 +72,7 @@ Maelihs' [[Relics|Relic]] is the **Sprout of Anguish**, a flaming sapling that i
     | Sprout of Anguish +1 | +4 Max Health (+2 Hearts)                          | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire has already ignited and shall spread further. |
     | Sprout of Anguish +2 | +6 Max Health (+3 Hearts)                          | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire shall soon burn all it touches. |
     | Sprout of Anguish +3 | +10 Max Health (+5 Hearts)                         | "Ah, Ael Irien... do you know what suffering you have inflicted upon this realm? Your greatest sin, felt by all souls, millennia later. You hide behind a curtain, concealing your true wickedness. You are cowardice incarnate." |
+
+    ![[sprout_of_anguish.gif]]{ width="320" }
 
 Like all other devotion sites, a [[Trinkets#Relic Vessel|Relic Vessel]] is found at the Sepulchral Altar. This location's vessel is found above the bridge in the central chamber, in a chest dangling from the ceiling of the cave.

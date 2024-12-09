@@ -1778,7 +1778,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore**[^2] | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Helmet  |
 
 **Lazulite Chestplate:**
@@ -1791,7 +1791,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost                                                                                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Chestplate  |
 
 **Lazulite Leggings:**
@@ -1804,7 +1804,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost        |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Leggings  |
 
 **Lazulite Boots:**
@@ -1817,7 +1817,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Boots   |
 
 **Pathfinder's Vestments:**
@@ -2133,3 +2133,4 @@ The Runic Blacksmith in Ytaj is located in the southeastern portion of the regio
 
 
 [^1]: Comes from the term "tetrodotoxin," the neurotoxin most closely associated with pufferfish.
+[^2]: Prior to the 2.2.2 update, this set's description was different, reading: "Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious." This was changed due to a conflict with the description of the [[Crystal Digging Claws]], which asserts that a different material, mendarum, is actually the second highest-potentia material.

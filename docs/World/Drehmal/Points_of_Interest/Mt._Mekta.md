@@ -1,5 +1,7 @@
 # Mt. Mekta
 
+--8<-- "under_construction.md"
+
 ![[Mekta1.webp]]{ align=right width="300" }
 ![[Mekta2.webp]]{ align=right width="300" }
 

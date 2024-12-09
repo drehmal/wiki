@@ -154,9 +154,9 @@ This section contains the 57 advancements contained in the bottom three root nod
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
     | Remnant of Avsohm | Once Avsohm's great capital city, it is now merely a remnant of an idyllic golden age. - Discovered Av'Sal | Enter [[Av'Sal]] (parent advancement for next 9 advancements, through "A Mountain of Holes"). | 
-    | The Foundry | This bridge was said to be an important part of Avsohm's industry, but its purpose has been lost to time. - Discovered the Foundry | Discover the outside of [[The Foundry]]. |
-    | Rip & Tear | They... are rage. Brutal, without mercy. But you... you will be worse. - Entered the Arena | Enter the Arena within [[The Foundry]]. |
-    | Supersoldier Certification | Now you'll be known as 'Captain Drehmal'. - Cleared all 6 waves of the Arena | Complete all 6 waves of the Arena within [[The Foundry]]. |
+    | The Foundry | This bridge was said to be an important part of Avsohm's industry, but its purpose has been lost to time. - Discovered the Foundry | Discover the outside of the [[Foundry]]. |
+    | Rip & Tear | They... are rage. Brutal, without mercy. But you... you will be worse. - Entered the Arena | Enter the Arena within the [[Foundry]]. |
+    | Supersoldier Certification | Now you'll be known as 'Captain Drehmal'. - Cleared all 6 waves of the Arena | Complete all 6 waves of the Arena within the [[Foundry]]. |
     | Temporal Ruins | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation. - Discovered Sal'Mevir | Enter [[Sal'Mevir]]. |
     | All That Remains | Avsohm was highly technologically advanced, yet they still fell to ruin. - Discovered the Exodus Citadel | Enter the [[Exodus Citadel]]. |
     | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Sunken Astral Body]]. |
@@ -199,8 +199,8 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Deja Vu | An ancient tabernacle of the crestfallen Aspect of Magic hums to life as you approach. Have you been in this place before? - Discovered a nameless ziggurat, sacred place of Khive | Approach the [[Nameless Ziggurat]] at [[Ihted]]. |
     | Flower Power | Follow your bliss, and it will lead you here. - Discovered the Temple of the Bloom and Bough, sacred place of Vayniklah | Enter the Temple of the Bloom and Bough in [[Marahza]]. |
     | Death's Embrace | While the Casain primarily follow Virtuo, many retain the traditional practice of Voynahla worship in the hope of favorable reincarnation. - Discovered the Perishing Well, sacred place of Voynahla | Enter the [[Perishing Well]]. |
-    | Ash Heap | The devout say that one sacred flame from the realm's very creation was maintained in Merijool even through the Felling. Civil war has a way of putting an end to local traditions. - Discovered the Shrine of the Eternal Flame, sacred place of Lai | Enter the [[Shrine of the Eternal Flame]]. |
-    | Finders Keepers | Mighty pillars stand out against the cold gray sky. - Discovered the Duke's Royal Pala...ahem... Crystalline Colonnade, sacred place of Loe | Enter the [[Crystalline Colonnade]] in [[Schlonko]]. |
+    | Ash Heap | The devout say that one sacred flame from the realm's very creation was maintained in Merijool even through the Felling. Civil war has a way of putting an end to local traditions. - Discovered the Shrine of the Eternal Flame, sacred place of Lai | Enter the [[Shrine of Eternal Flame]]. |
+    | Finders Keepers | Mighty pillars stand out against the cold gray sky. - Discovered the Duke's Royal Pala...ahem... Crystalline Colonnade, sacred place of Loe | Enter the Crystalline Colonnade in [[Schlonko]]. |
 
 ??? warning "**Discoveries:** *Civilization* (Moderate Exploration Spoilers) - *The age of grand empires and kingdoms within Drehmal has long passed. Now only few towns and cities remain.*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |

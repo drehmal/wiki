@@ -8,7 +8,7 @@ tags:
 
 --8<-- "50_spoiler.md"
 
-This book can be found in a shulker box in the [[Exodus Vault]]. Written by a deliveryperson between Exodus and [[The Foundry]], it mentions increasing military presence within and around the vault, as well as strange amounts of technology being shipped to [[Red Dawn]] and [[Green Serpent]].
+This book can be found in a shulker box in the [[Exodus Vault]]. Written by a deliveryperson between Exodus and the [[Foundry]], it mentions increasing military presence within and around the vault, as well as strange amounts of technology being shipped to [[Red Dawn]] and [[Green Serpent]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

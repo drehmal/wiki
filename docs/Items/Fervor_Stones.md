@@ -25,7 +25,7 @@ The Stone of Agony is one of three Fervor Stones, appearing as a purple rock. St
     | [[Mt. Yavhlix]] | In an abandoned ship, stuck in the ice west of Mt. Yavhlix. | **(733, 63, -4563)** |
     | [[Black Jungle]] | In the ruins of the [[Black Jungle#Black Ruins|blackstone ruins]] in the Black Jungle, at the top of a blackstone tower. | **(4139, 83, 4154)** |
     | [[Spearhead Forest]] | At the Insohmic [[Coven of Potentia]] in the Shattered Peninsula, in the final underground portion of the structure after the mini-boss. | **(6040, 63, 1533)** |
-    | [[Merijool]] | In the [[Glade of the Giant]], at the end of the tight underground maze beneath the large pyramid/ziggurat. | **(-1005, 73, -347)** |
+    | [[Merijool]] | In the [[Primal Sapling]], at the end of the tight underground maze beneath the large pyramid/ziggurat. | **(-1005, 73, -347)** |
     | [[Akhlo'Rohma]] | At [[Ancehl Castle]], in an item frame found behind a 2x2 painting in Duchess Cerice's room. | **(1514.5, 180, -1937.5)** |
 
 ## Stone of Luxury

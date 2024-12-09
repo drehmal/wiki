@@ -157,23 +157,3 @@ The fullest extents of this text's meaning and impact are not within the scope o
 
 ### Transcription
 > gaming 2
-
-***
-
---8<-- "spoiler.md"
-
---8<-- "LD_spoiler.md"
-
-## Fireworks
-
-This book can be found in a chest in an alleyway in [[Naharja]]. It describes the setting off of fireworks on the Day of Patronage, from the perspective of a poor child.
-
-### Coordinates
-| **X** | **Y** | **Z** |
-| :---: | :---: | :---: |
-|  191  |  85   | -870  |
-
-### Transcription
-> The rich kids keep shooting off fireworks while the rest of us suffer in silence. It's rough enough to have to scrounge around for scraps to live, can't they let me have a good nights rest for Drehmal's sake
-
-

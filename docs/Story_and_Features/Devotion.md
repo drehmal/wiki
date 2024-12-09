@@ -30,13 +30,13 @@ Some of the offerings accepted by an Aspect/Deity can be found laying in invisib
 | [[Vayniklah]]    | [[Akhlo'Rohma]] | Temple of Bloom and Bough in [[Marahza]] |
 | [[Voynahla]]     | [[Casai]] | [[Perishing Well]] |
 | [[Lai]]          | [[Merijool]] | [[Shrine of Eternal Flame]] |
-| [[Loe]]          | [[Faehrcyle]] | [[Crystalline Colonnade]] in [[Schlonko]] |
+| [[Loe]]          | [[Faehrcyle]] | Crystalline Colonnade in [[Schlonko]] |
 
 ## Devotion Hints
 
 Near every Aspect's devotion altar is a book (a book with its writing in the item description; not a book and quill or written book) that gives clues to help the player to find accepted gifts for that shrine. 
 
-Low-level (Liked) devotion offerings can be found scattered around devotion shrines themselves, inside of invisible item frames. However, in order to discover the higher-value offerings in-game, players must either guess based off of the god's theme, or discover accepted items through the hints provided in devotion books. Each devotion book hints at a unique mechanic, typically referencing specific structures throughout one or more regions that contain accepted items, left as offerings to that specific god. Hints are also included in the "Offerings" section for their respective Deity or Aspect below.
+Low-level (Liked) devotion offerings can be found scattered around devotion shrines themselves, inside of invisible item frames. However, in order to discover the higher-value offerings in-game, players must either guess based off of the god's theme, or discover accepted items through the hints provided in devotion books. Each devotion book hints at a unique mechanic, typically referencing specific structures throughout one or more regions that contain accepted items, left as offerings to that specific god. Hints are also included in the "Offerings" section for their respective Deity or Aspect below. They do not include the accepted music discs for each god.
 
 ## Offerings
 
@@ -53,6 +53,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Drehmal Offerings
 
+Drehmal's devotion hint book reads as follows:
+
+> Dear traveler, welcome to Drehua. We encourage you to follow the path until its end and stay for a teaching in the Hall of Tranquility. And remember that the **Serpent** is long; feel free to leave an offering by **any statue of Their form**, not just those in this place.
+
+Devotion hints for Drehmal are found at the base of statues of the serpent throughout the [Central Regions](/World/Drehmal/Regions/Central_Regions/).
+
+??? info "Hint Locations"
+    Statues of Drehmal with offerings can be found in [[Drehua Temple]], [[Drabyel]], [[Gozak]], near the [[Palisades Heath#Drehuan Sculptures|Drehuan Sculptures in Palisades Heath]], [[Solvei]], and [[Drahbes]].
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -61,6 +70,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
     | Adored         | Grass Block <br>Music Disc (Cat)             |
 
 ### Virtuo Offerings
+
+Virtuo's devotion hint book reads as follows:
+
+> When Virtuo left, She took most of her Virmari with her. But while some left the faith in disgust, the faith of most Drehmari have not shaken. In **Parishes all across the East**, we of the lesser race continue to leave offerings at **Her statues**. We all know that our kind and noble Goddess will soon return!
+
+Devotion hints for Virtuo are found at the base of statues of her form, found throughout the [Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/).
+
+??? info "Hint Locations"
+    Statues of Virtuo are located in four major eastern towns: [[Dusps]], [[Highfall]], [[Mossfield]], and [[Firteid]]. The [[Black Jungle#Virtuo Statue|State of Virtuo]] in the Black Jungle also contains offerings to the Goddess.
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
@@ -71,6 +89,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Maelihs Offerings
 
+Mael's devotion hint book reads as follows:
+
+> Attention, spectators. The Speakers of the Sepulchral Altar would like to thank you for attending today’s Ascension. On behalf of the Burnt Generals, we ask that you leave offerings at the many other **statues of Maelihs throughout His domain** instead of coming to the sanctum after the ritual. Thank you.
+
+Similar to the other two deities, devotion hints for Maelihs are found at the base of statues of his form, found throughout his domain in the [Western Regions](/World/Drehmal/Regions/Western_Regions/).
+
+??? info "Hint Locations"
+    Statues of Maelihs are found in only three major towns: [[Rhaveloth]], [[Ebonrun]], and [[Tharxax City]]. The final devotion hint, and the only one containing his highest-tier offering, is a different statue, similar to Virtuo. This statue is the Titan of Strength, found at the entrance to the [[Hellcrags]].
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -79,6 +106,12 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
     | Adored         | Respawn Anchor <br>Music Disc (Chirp)            |
 
 ### Khive Offerings
+
+Khive's devotion hint book reads as follows:
+
+> That's it. I've reached my limit with poking around these miserable old ruins! There's no sign of **brewing stands** that were used by "Khive's Chosen." I don't see so much as a **single rune above ground** in this sorry mess! This is the last straw. I'm out of here, and I'm never taking another job at Ancehl Castle from that slimy coot!
+
+Khive's devotion hints are items found inside of brewing stands, in the buried ruins beneath Ihted, his devotion site.
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
@@ -89,6 +122,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Dahr Offerings
 
+Dahr's devotion hint book reads as follows:
+
+> On a foggy day, I invite in any captain that arrives in port for a drink and a prayer. They're either a fellow saltblood who knows to place an offering to Dahr **on the prow of their ship**, or they're a living corpse who needs every bit of help they can get from a priest like me. Either way, it's a good time.
+
+Hints for Dahr's devotion are found in item frames on the very front of large ships throughout the realm, docked in several locations around the southern and eastern coasts of the continent.
+
+??? info "Hint Locations"
+    Ships with Dahr devotion items on their prows can be found docked at: [[Mohta]], [[Tahva]], [[Port Solitude]], the [[Kiln of Virtuo]], [[Firteid]], and [[Mossfield]].
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -97,6 +139,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
     | Adored         | Nautilus Shell <br>Music Disc (Pigstep)          |
 
 ### Rihelma Offerings
+
+Rihelma's devotion hint book reads as follows:
+
+> Shortly after the Abandonment and our Celestial Rebirth, the Goddess of the Endless Sky began to speak to us in prophecy. **Star-crowned crystals** erupted all around the island, and **within** were images of Truth. We must acquire the depicted objects to appease our great-winged Mistress!
+
+Hints for Rihelma's devotion are found in special crystals that grow around the [[Island of Dawn]], with additional stained glass panes and blocks floating above the main crystal body. The items are found inside of these crystals.
+
+??? info "Hint Locations"
+    There are 5 such crystals on the Island of Dawn: one inside Star-Rise Bastion, in the Relic Vessel room; one in the clearing at the central southern tip of the island; one on top of the mountain near the geographic center of the island; one on a plateau in the western portion of the island; and one just off the northwestern coast of the island.
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
@@ -107,6 +158,12 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Taihgel Offerings
 
+Taihgel's devotion hint book reads as follows:
+
+> We, the devout, mine the **taihryte**, sacred to Taihgel, deep under this town, and **bury our desires within its ancient, formless red marbled stone, which burns within and burns without, if ignited, shall burn forever**, may our offerings be incorporated into the virgin stone, the first stone, and may the land walk again.
+
+Hints for Taihgel's devotion items are found almost entirely in [[Wokonori]] or very nearby, buried inside of small (typically no larger than 3x3 blocks) patches of Taihryte, or netherrack. There are at least 7 such patches of netherrack in Wokonori.
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -115,6 +172,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
     | Adored         | Turtle Egg <br>Music Disc (Blocks)               |
 
 ### Vayniklah Offerings
+
+Vayniklah's devotion hint book reads as follows:
+
+> To worship Vayniklah is to improve life for the living. Just as plants are happier with fertilizer, Drehmari are happier with mead! To that end, I told my friends to find the best possible **recipe**. Now, it’s time to go across Akhlo'Rohma and **visit their stills**. I am sure that their ingredients will please Her!
+
+Hints for Vayniklah's devotion items are found inside large kegs of mead, scattered throughout [[Akhlo'Rohma]]. Items inside of these kegs, at the bottom of the water in an item frame, are high-level offerings to the Aspect of Life. All of these kegs are marked with a sign that references the item inside, and all share the exact same build pattern.
+
+??? info "Hint Locations"
+    There are 5 of these kegs in the region, found at the following locations: a [[Maelmari]]-occupied house in the southwest, the basement of [[Ancehl Castle]], [[Dusps]] near the Northern Kitchen restaurant, [[Marahza]] very close to the Temple of Bloom and Bough, and [[Akhlo'Rohma#Esipelli Vineyard|Esipelli Vineyard]].
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
@@ -125,6 +191,15 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Voynahla Offerings
 
+Voynahla's devotion hint book reads as follows: 
+
+> Be warned: you may be unable to wield the knife yourself. For this reason, you must always have a funereal plan wherever you go. Be **buried** at once **beneath Death's head with items** which will appease Voynahla's spirit. If you show no fear, you may yet be granted mercy.
+
+Hints for this Aspect are found throughout the entire continent, buried in chests beneath stone skulls near six different graveyards.
+
+??? info "Hint Locations"
+    Voynahla skulls are found at: the [[Perishing Well]], the graveyard in [[Athrah]], the southern face of the hill that [[Dusps]] sits on, the graveyard containing the [[Artifacts#Totem of Dying|Totem of Dying]] near the ruins of [[Azaim]], the outside of [[Mossfield]], and just outside the wall of the [[Firteid]] graveyard.
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -134,6 +209,23 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 ### Lai Offerings
 
+Lai's devotion hint book reads as follows:
+
+> Kind Traveler,
+>
+> Though this sacred flame once burned longer and brighter than any other, it has sadly been extinguished.
+>
+> But there are still **many other sacred flames burning in Merijool**. If you find one, leave an offering to Lai **beneath**.
+>
+> Our faith is what stops this land from freezing!
+>
+> Signed, Pilgrim of the South
+
+Throughout western Merijool, five locations of sacred, chromatic flames can be found, with accepted Lai devotion items found in item frames directly beneath the stained glass "flame". 
+
+??? info "Hint Locations"
+    The five hint locations for Lai are: on top of the Shrine of Eternal Flame, where there is currently no flame but where there would have been once; about 130 blocks northeast of the Shrine, along the delta; approximately 200 blocks due west of the Shrine, in [[Okeke]] beneath the sacred flame atop a building, and in the center of a high pond between Okeke and the Shrine.
+
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
     |:--------------:|---------------------------------------------:|
@@ -142,6 +234,17 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
     | Adored         | Lava Bucket <br>Music Disc (Wait)                |
 
 ### Loe Offerings
+
+Loe's devotion hint book (when translated to not be intentionally misspelled) reads as follows:
+
+> We have grown impatient as of late. Another new pit of **strange soft snow** has opened up around our Arch-Duchal Castle! Despite throwing all of those things **into the pits** like the Loe Follower said!
+>
+> Though new pits are showing up less, we wish they would just stop for good!
+
+This establishes that Loe's devotion items are found at the bottom of pits of strange, soft snow—powder snow—around the area.
+
+??? info "Hint Locations"
+    There are at least four such pits of powder snow, which have high-level Loe devotion offerings at their bottoms. One pit is located just south of the Crystalline Colonnade, with a warning sign. Two are located just east and southeast of Schlonko, respectively, and the final pit is about 130 paces southeast of Schlonko.
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |

@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1.5
+  boost: 2
 ---
 
 # Devotion
@@ -8,11 +8,11 @@ search:
 ![[drehmal_shrine.png]]
 > Drehmal's devotion altar at [[Drehua Temple]].
 
-Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called "[[Relics|relics]]", as well as other rewards, by depositing specific items at altars scattered throughout the world. Each [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects) and [Deity](/Lore/Higher_Beings/Deities) has their own altar in a different location on the map.
+Devotion is a mechanic unique to Drehmal that allows players to earn powerful offhand items called "[[Relics|relics]]", as well as other rewards, by depositing specific items at altars dedicated to different gods, scattered throughout the world. Each of the eight [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects) and three [Deities](/Lore/Higher_Beings/Deities) has their own altar in a different location on the map.
 
 There is a set of items that each Aspect/Deity accepts as offerings, each one having one of three different values. Every offering increases the player's "devotion" to the Aspect/Deity that the altar is dedicated to.
 
-The player receives experience points for every offering. Every 100 exp. worth of offerings increases the player's devotion level by one, and they will be gifted certain items depending on the level. Among these rewards are 4 different levels (separate items) of a relic, each level scaling the magnitude of its effects. The first level of the relic is the first reward, and the fourth one is the final reward. 
+The player receives (devotion-specific) experience points for every offering. Every 100 exp. worth of offerings increases the player's devotion level by one, and they will be gifted certain items depending on the level. Among these rewards are 4 different levels (separate items) of a relic, each level scaling the magnitude of its effects. The first level of the relic is the first reward, and the fourth one is the final reward. 
 
 Some of the offerings accepted by an Aspect/Deity can be found laying in invisible item frames in the area surrounding their altar. In the case of the Deities, offerings can also be found in invisible item frames at statues of them throughout their respective domains. Nearby every altar is a book placed in an item frame that hints at additional items that are valued by them.
 
@@ -23,18 +23,18 @@ Some of the offerings accepted by an Aspect/Deity can be found laying in invisib
 | [[Drehmal]]      | [[Palisades Heath]] | [[Drehua Temple]] |
 | [[Virtuo]]       | [[Black Jungle]] | [[Kiln of Virtuo]] |
 | [[Maelihs]]      | [[The Carmine]]/[[Crimson Gorge]] | [[Sepulchral Altar]] in [[Rhaveloth]] |
-| [[Khive]]        | [[Capital Valley]] | [[Nameless Ziggurat]] in [[Ihted]] |
+| [[Khive]]        | [[Capital Valley]] | Ziggurat in [[Ihted]] |
 | [[Dahr]]         | [[South Heartwood]] | [[Port Solitude]] |
 | [[Rihelma]]      | [[Island of Dawn]] | [[Star-Rise Bastion]] |
 | [[Taihgel]]      | [[Grand Pike Canyon]] | [[Wokonori]] |
-| [[Vayniklah]]    | [[Akhlo'Rohma]] | [[Temple of Bloom and Bough]] in [[Marahza]] |
+| [[Vayniklah]]    | [[Akhlo'Rohma]] | Temple of Bloom and Bough in [[Marahza]] |
 | [[Voynahla]]     | [[Casai]] | [[Perishing Well]] |
 | [[Lai]]          | [[Merijool]] | [[Shrine of Eternal Flame]] |
 | [[Loe]]          | [[Faehrcyle]] | [[Crystalline Colonnade]] in [[Schlonko]] |
 
 ## Devotion Hints
 
-Near every Aspect's devotion altar is a book (a book; not a book and quill or written book—its writing is in the item description) that gives clues to help the player to find accepted gifts for that shrine. 
+Near every Aspect's devotion altar is a book (a book with its writing in the item description; not a book and quill or written book) that gives clues to help the player to find accepted gifts for that shrine. 
 
 Low-level (Liked) devotion offerings can be found scattered around devotion shrines themselves, inside of invisible item frames. However, in order to discover the higher-value offerings in-game, players must either guess based off of the god's theme, or discover accepted items through the hints provided in devotion books. Each devotion book hints at a unique mechanic, typically referencing specific structures throughout one or more regions that contain accepted items, left as offerings to that specific god. Hints are also included in the "Offerings" section for their respective Deity or Aspect below.
 

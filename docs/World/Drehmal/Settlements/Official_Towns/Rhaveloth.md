@@ -2,7 +2,7 @@
 
 ![[rhaveloth.png]]{ align=right width="300" }
 
-**Rhaveloth** is a large, walled city found along the border of [[The Carmine]] and the [[Crimson Gorge]] regions, and the only official town inhabited predominantly by [[Maelmari]]. Acting as a gateway to the Crimson Gorge (and by extent, controlling land access to the [[Hellcrags]]), Rhaveloth is the largest city in the [[Empire of Maelihs]]. It is also home to the [[Rhaveloth#Sepulchral Altar|Sepulchral Altar]], the [[Devotion]] site for [[Maelihs]].
+**Rhaveloth** is a large, walled city found along the border of [[The Carmine]] and the [[Crimson Gorge]] regions, and the only official town inhabited predominantly by [[Maelmari]]. Acting as a gateway to the Crimson Gorge (and by extent, controlling land access to the [[Hellcrags]]), Rhaveloth is the largest city in the [[Empire of Maelihs]]. It is also home to the [[Sepulchral Altar]], the [[Devotion]] site for [[Maelihs]].
 
 !!! abstract "Location"
     Approximate Coordinates: `-2788, 47, 5158`
@@ -72,7 +72,10 @@ A shop located along the northern wall of eastern Rhaveloth which is home to a m
 
 ### Sepulchral Altar
 
-The [[Sepulchral Altar]] is the devotion site of [[Maelihs]], located beneath the cliff face south of eastern Rhaveloth. It can be accessed from the massive blackstone doorway in the southern mountainside, just off of Crimson Way to the southeast.
+![[rhaveloth_altar.png]]
+> The entrance to the Sepulchral Altar.
+
+The [[Sepulchral Altar]] is the devotion site of [[Maelihs]], located beneath the cliff face south of eastern Rhaveloth. It can be accessed from the massive blackstone doorway in the southern mountainside, just off of Crimson Way to the southeast. A statue of Maelihs is found in front of its entrance, with a golden carrot and two chains at its base.
 
 See the [[Sepulchral Altar|main Sepulchral Altar page]] for more details.
 

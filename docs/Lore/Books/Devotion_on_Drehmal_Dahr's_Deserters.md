@@ -1,7 +1,6 @@
 ---
 tags:
   - Books
-  - Benefactor Zabuyah Books
 ---
 # Devotion on Drehmal: Dahr's Deserters
 

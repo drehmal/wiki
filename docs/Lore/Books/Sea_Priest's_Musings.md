@@ -1,7 +1,6 @@
 ---
 tags:
   - Books
-  - Devotion Books
 ---
 
 This book can be found in an item frame at [[Dahr's Shrine]] in [[Port Solitude]]. It is not a writable book, but rather contains a hint as to the accepted [[Devotion]] items for Abyssal Elder [[Dahr]].

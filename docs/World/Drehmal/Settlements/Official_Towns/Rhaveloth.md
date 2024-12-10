@@ -30,7 +30,7 @@ Northern Rhaveloth is home to the [[Drehmari]] section of the city, the [[Runic 
 
 ### Bank
 
-Immediately to the right upon entering Rhaveloth, a building with "BANK" spelled out in banners can be seen. This building is home to a "Bank Teller" merchant, who will allow players to exchange their scales for gold, albeit at a poor (3:1) rate compared to the Bank Teller in [[Firteid]].
+Immediately to the right upon entering Rhaveloth, a building with "BANK" spelled out in banners can be seen. This building is home to a "Bank Teller" merchant, who will allow players to exchange their scales for gold, albeit at a poor (3:1) rate.
 
 ### The Boar's Thighs Fine Dining
 
@@ -120,7 +120,7 @@ Located in the Drehmari Encampment next to the main Runic Blacksmith, the Renega
 
 ### Bank Teller
 
-Located in the bank just off the main road to the northwest, the Bank Teller offers the local currency, gold, in exchange for scales. This merchant has a 3:1 scales:gold exchange rate, but a 1:1 exchange merchant does exist in [[Firteid]].
+Located in the bank just off the main road to the northwest, the Bank Teller offers the local currency, gold, in exchange for scales. This merchant has a 3:1 scales:gold exchange rate.
 
 **Coordinates:** (-2860, 64, 5216)
 

@@ -65,7 +65,7 @@ The [[Runic Blacksmith]] in Okeke is located in the southwest, at "The Seasoned 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 16 Pufferfish | Ward Armor Trim <br> ![[ward_armor_trim_smithing_template.png]]{ width="48" } |
-| 15 Scales <br> 5 Chains | *Rhythm-Chain Helmet* |
+| 15 Scales <br> 5 Chains | *Rhythm-Chain Hood* |
 | 17 Scales <br> 7 Chains | *Rhythm-Chain Chestplate* |
 | 16 Scales <br> 6 Chains | *Rhythm-Chain Leggings* |
 | 15 Scales <br> 5 Chains | *Rhythm-Chain Boots* |

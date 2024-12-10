@@ -1,15 +1,20 @@
+---
+search:
+  boost: 1.5
+---
+
 # Maelihs
 
 > - **Titles:** The Burnt Lord, God of Chaos, God of War, God of Destruction, His Radiance
-> - **Classification:** Deity
+> - **Classification:** [Deity](/Lore/Higher_Beings/Deities/)
 > - **Parent:** [[Primal Tree]]
 > - **Year of Birth:** Final Year of Av1
 > - **[[Devotion]] Site:** [[Sepulchral Altar]] ([[Rhaveloth]])
 
 ![[hellcrags_titan.png]]
-> Titan of Strength (colossal depiction of Maelihs), marking the entrance to the [[Hellcrags]].
+> The Titan of Strength (a colossal depiction of Maelihs), a statue which marks the entrance to the [[Hellcrags]].
 
-Maelihs (also referred to less formally as Mael) is one of the three deities born from the Primal Tree upon [[Felling|its collapse]], and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
+**Maelihs** (also referred to less formally as **Mael**) is one of the three deities born from the Primal Tree upon [[Felling|its collapse]], and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm.
 
 ## Characteristics
 
@@ -26,7 +31,7 @@ The [[Maelmari]] are Maelihs's ascended version of Drehmari. Maelmari have pale 
 
 ## History 
 
-In the First Avihm, before his divine rebirth, Maelihs was a man named Naurduul, who was a member of the [[Maelruhn]] people of [[Western Xivrhynt]]. The details of this time are unclear, but it is known that he unwillingly received divine power from the Primal Tree upon its destruction, and the initial experience was agonizing (his whole body was probably severely burnt). 
+ The details of the First Avihm are unclear, but it is known that Mael was born out of the chaos that ensued from the Felling of the Primal Tree, and that it was, in his own words, not a birth of his own intention. This implies that he unwillingly received divine power from the Primal Tree upon its destruction, and the initial experience was agonizing (his whole body was probably severely burnt). Mael may have been a mortal living among the [[Maelruhn]] people of the original western continent on the [[disc]], or he may have been created entirely during the Felling. The description of [[Relics#Purifying Light|Virtuo's top-tier relic]] seems to imply that Maelihs and Virtuo have some forgotten, mysterious history, and that his real name (either the name of the mortal who became Maelihs or Mael's true name) is "Naurduul".
 
 In the early days of the Second Avihm, Maelihs established [[Empire of Maelihs|his own empire]] in the southwestern corner of Drehmal, centered around the Burnt Palace in the Hellcrags. He ascended his [[Drehmari]] worshipers and prisoners to Maelmari, who were used to fuel his war effort against [[Virtuo]] in the [[Deity War]]. The [[First Tharhan Empire]] supported Maelihs with supplies, money and people in order to dissuade an attack. The Deity War ended in Av2 1000 when a deal was struck between Maelihs and Virtuo. Later in the Avihm, Maelihs's conquest of the [West](/World/Drehmal/Regions/Western_Regions/) was prevented by the [[Casain Empire]], the [[Six Tharhan Kingdoms|Tharhan kingdoms]], the [[Second Tharhan Empire]] and the [[Avsohm|Empire of Avsohm]]. Scientists working for Maelihs began to conduct experiments on the powers of the [[Skullmother]], an enormous, flying beast, which was viewed as having potential for military purposes.
 

@@ -4,6 +4,31 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 
 Artisan items are denoted by a yellow "Artisan" text in their item description.
 
+## Artisan Armor Sets
+
+At [official towns](/World/Drehmal/Settlements/Official_Towns/), Runic Blacksmiths sell complete sets of artisan armor, which provides a uniform stat boost for each piece worn. These artisan sets vary in quality and material based on how far in the game they are meant to be accessed. Towns closer to the center of the map generally sell weaker armor sets (chainmail or iron), while the furthest towns sell enhanced diamond artisan armor sets, which require Runic Amplifiers to purchase.
+
+A list of artisan sets and their stat bonuses is found in the dropdown table below.
+
+??? warning "All Artisan Armor Sets"
+    |   **Town**  | **Set Name** | **Material** | **Stats/Boosts** |
+    |:-----------:|:------------:|:------------:|:----------------:|
+    | [[Athrah]]  | Rejuvenating Set | Diamond  | +20% Max Health, -0.01 Movement Speed per piece worn, stacking up to +80% Max Health, -0.04 Movement Speed with full set. |
+    | [[Drabyel]] | Set of Neutrality | Leather | Despite being leather, each piece of this set has decent armor, and adds +1 armor toughness when worn. |
+    | [[Dusps]]   | Floral Set   | Iron  | +6% Attack Speed per piece worn, stacking up to 24% Attack Speed with full set. |
+    | [[Ebonrun]] | Fortified Set | Iron | +8% Max Health per piece worn, stacking up to +32% Max Health with full set. |
+    | [[Firteid]] | Superheated Set | Diamond | -3 Max Health, +2 Attack Damage per piece worn, stacking up to -12 Max Health (-6 Hearts) and +8 Attack Damage with full set. |
+    | [[Fort Nimahj]] | Survivor's Set | Iron | +4% Max Health, +4% Movement Speed, +4% Attack Speed per piece worn, stacking up to +16% of each with full set. |
+    | [[Gozak]] | Barbed Set | Iron | All come enchanted with Thorns IV, and grant +0.4 Attack Speed per piece worn, stacking up to +1.6 Attack Speed with full set. |
+    | [[Highfall]] | Pale Steel Set | Diamond | Each piece of this armor grants +2 Armor Toughness when worn, and adds 0.01 Movement Speed, stacking up to 0.04 Movement Speed with full set. |
+    | [[Mohta]] | Amphibious Set | Chainmail | Comes with various enchantments, and each piece adds +20% Knockback Resistance, up to +80% Knockback Resistance with full set. |
+    | [[Mossfield]] | Messenger's Set | Iron | +10% Movement Speed per piece worn, stacking up to +40% Movement Speed with full set. |
+    | [[Naharja]] | Vivid Set | Diamond | All pieces come enchanted with Unbreaking III, and add +2 Armor Toughness. +12% Armor per piece worn, stacking up to +48% Armor with full set. |
+    | [[New Sahd]] | Lazulite Set | Diamond | +2 Armor Toughness per piece, and +8% Attack Damage per piece worn, stacking up to +32% Attack Damage. |
+    | [[Okeke]] | Rhythm-Chain Set | Chainmail | Enchanted with Unbreaking X. |
+    | [[Rhaveloth]] | Burnt Templar Set | Diamond | +2 Armor Toughness and +4 Max Health per piece worn, stacking up to +16 Max Health (+8 Hearts) with full set. |
+    | [[Tharxax City]] | Crystal Fiber Set | Diamond | +2 Armor Toughness, +15% Movement Speed, and -2 Max Health per piece worn, stacking up to +60% Movement Speed and -8 Max Health (-4 Hearts) with full set. |
+
 ## Central Regions
 These artisan items are sold by Runic Blacksmiths in the [Central Regions](/World/Drehmal/Regions/Central_Regions/)—[[Capital Valley]], [[Palisades Heath]], and the [[Gulf of Drehmal]].
 

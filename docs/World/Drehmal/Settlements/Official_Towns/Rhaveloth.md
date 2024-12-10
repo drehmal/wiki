@@ -148,6 +148,7 @@ Located in the Boar's Thighs Fine Dining in northern Rhaveloth, the Waiter sells
 **Coordinates:** (-2890, 68, 5240)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | Mushroom Stew |
 | 1 Gold Ingot | 1 Rabbit Stew |
 | 1 Gold Ingot | 1 Beetroot Soup |
@@ -162,6 +163,7 @@ One of five merchants in the northern Rhaveloth bazaar, the Potion Master sells 
 **Coordinates:** (-2899, 68, 5166)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | 3 Glass Bottles |
 | 1 Gold Ingot | 3 Sugar |
 | 1 Gold Ingot | 3 Glowstone |
@@ -175,6 +177,7 @@ One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys 
 **Coordinates:** (-2888, 67, 5167)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 2 Gold Ingots | 1 Blaze Rod |
 | 2 Blaze Rods | 1 Gold Ingot |
 
@@ -185,6 +188,7 @@ One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys 
 **Coordinates:** (-2888, 67, 5167)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 2 Gold Ingots | 1 Blaze Rod |
 | 2 Blaze Rods | 1 Gold Ingot |
 
@@ -195,6 +199,7 @@ One of five merchants in the northern Rhaveloth bazaar, the Crimson Merchant sel
 **Coordinates:** (-2882, 65, 5160)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | 4 Carnelian Stem |
 | 1 Gold Ingot | 2 Carnelian Fungus |
 
@@ -205,6 +210,7 @@ One of five merchants in the northern Rhaveloth bazaar, the Blackstone Merchant 
 **Coordinates:** (-2876, 65, 5161)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | 12 Blackstone |
 | 20 Blackstone | 1 Gold Ingot |
 | 1 Gold Ingot | 10 Basalt |
@@ -217,6 +223,7 @@ One of five merchants in the northern Rhaveloth bazaar, Gahrgi buys and sells cr
 **Coordinates:** (-2865, 67, 5164)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 28 Wheat | 1 Gold Ingot |
 | 1 Gold Ingot | 8 Wheat |
 | 30 Carrots | 1 Gold Ingot |
@@ -231,6 +238,7 @@ The Meat Merchant is found in the meat store behind the counter, just off Crimso
 **Coordinates:** (-2837, 66, 5219)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | 3 Raw Beef |
 | 1 Gold Ingot | 3 Raw Porkchops |
 | 1 Gold Ingot | 4 Raw Mutton |
@@ -245,6 +253,7 @@ The Bartender is found at the bar in The Black Tree Restaurant & Tavern, just of
 **Coordinates:** (-2843, 64, 5233)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 14 Gold Ingots | **Ash Mead** <br> Effects: <br> Nausea (3s) <br> Speed (5m30s) <br> Fire Resistance (5m30s)  |
 | 14 Gold Ingots | **Strong Ash Mead** <br> Effects: <br> Nausea (6s) <br> Resistance (5m30s) <br> Fire Resistance (5m30s)  |
 | 20 Gold Ingots | **Mael's Special Order** <br> Effects: <br> Slowness VI (1h) <br> Mining Fatigue VI (1h) <br> Nausea (1h) <br> Blindness (1h6m40s) <br> Hunger VI (2h46m40s) <br> Weakness VI (4h26m40s) <br> Poison VI (1h) <br> Entropic Decay (1h) <br> Lore Text: *The Black Tree establishment is not responsible for any sickness, injury, or fatality caused by this beverage.* |
@@ -256,6 +265,7 @@ Rafigefegifar is found at Rafigefegifar's Bounty in northeastern Rhaveloth, and 
 **Coordinates:** (-2812, 60, 5217)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 4 Gold Ingots | 1 Empty Map |
 | 3 Gold Ingots | 1 Compass |
 | 16 Gold Ingots | Note Box: The Hellcrags <br> This trapped chest contains a note, which reads: "Now, I've never been to the Hellcrags, but I've heard rumors. Apparently the Generals have to travel there during the night. My guess is there's some nasties out at daytime for defense." This refers to the fact that ghasts and other hostile mobs spawn in massive numbers on the surface of the Hellcrags during the day, making it easier to traverse at night. |
@@ -267,6 +277,7 @@ This merchant is found at the "9/30 Convenience Store" in the far northeastern c
 **Coordinates:** (-2790, 59, 5203)
 
 |  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
 | 1 Gold Ingot | 1 Milk Bucket |
 | 1 Gold Ingot | 20 Dried Kelp |
 | 2 Gold Ingots | 4 Raw Salmon |
@@ -319,7 +330,7 @@ In the event that one of the custom merchants in Rhaveloth is turned into a witc
     ??? info "Potion Merchant"
         `/summon minecraft:villager -2898.50 68.00 5166.50 {DeathTime: 0s, RestocksToday: 0, Xp: 64, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-90.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Potion Master"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:glass_bottle", Count: 3b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:sugar", Count: 3b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:glowstone_dust", Count: 3b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:gunpowder", Count: 2b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:nether_wart", Count: 1b}, uses: 60, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:cleric", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137782361L, PortalCooldown: 0}`
 	  ??? info "Blaze Merchant"
-	      `/summon minecraft:villager -2887.50 67.00 5167.50 {DeathTime: 0s, RestocksToday: 0, Xp: 63, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-135.0f, 10.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Blaze Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:gold_ingot", Count: 2b}, sell: {id: "minecraft:blaze_rod", Count: 1b}, uses: 42, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:blaze_rod", Count: 2b}, sell: {id: "minecraft:gold_ingot", Count: 1b}, uses: 21, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:weaponsmith", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137782362L, PortalCooldown: 0}`
+	    `/summon minecraft:villager -2887.50 67.00 5167.50 {DeathTime: 0s, RestocksToday: 0, Xp: 63, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-135.0f, 10.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Blaze Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:gold_ingot", Count: 2b}, sell: {id: "minecraft:blaze_rod", Count: 1b}, uses: 42, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:blaze_rod", Count: 2b}, sell: {id: "minecraft:gold_ingot", Count: 1b}, uses: 21, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:weaponsmith", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137782362L, PortalCooldown: 0}`
     ??? info "Crimson Merchant"
         `/summon minecraft:villager -2881.50 65.00 5160.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [0.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Crimson Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:crimson_stem", Count: 4b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:gold_ingot", Count: 1b}, sell: {id: "minecraft:crimson_fungus", Count: 2b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [2.98962414284136E-8d, 0.0d, -1.8108237599873487d], VillagerData: {type: "minecraft:plains", profession: "minecraft:fletcher", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137782362L, PortalCooldown: 0}`
     ??? info "Blackstone Merchant"

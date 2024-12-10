@@ -104,7 +104,7 @@ This item allows the player to fast travel directly to the Prismatic Council roo
 
 ## Aurastaff of Permafrost
 
-The Aurastaff of Permafrost is a trinket that can be purchased either from Precocious Kinah in [[Ytaj]] for 5 Divine Baubles. This item functions only on [[Lo'Dahr]], and prevents hostile mob spawns in a 32 block radius when placed. 
+The Aurastaff of Permafrost is a trinket that can be purchased from Precocious Kinah in [[Ytaj]] for 5 Divine Baubles. This item functions only on [[Lo'Dahr]], and prevents hostile mob spawns in a 32 block radius when placed. 
 
 ![[aurastaff.png]]{ width="300" }
 

@@ -2,6 +2,7 @@
 tags:
   - Books
 ---
+# Strange Prayer...
 
 This book can be found in a chest in [[Firteid]], hidden beneath the floorboards of a small house. It seems to be a an easter egg referencing the third co-lead developer of the map, DomeMaster.
 
@@ -19,7 +20,7 @@ This book can be found in a chest in [[Firteid]], hidden beneath the floorboards
 >
 > To Him, who creates, collaborates, and shares...
 >
-> We pray to Him,
+> We pray to Him, <br>
 > who raises round buildings.
 >
 > We pray to Him,

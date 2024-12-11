@@ -2,7 +2,7 @@
 
 ![[rhaveloth.png]]{ align=right width="300" }
 
-**Rhaveloth** is a large, walled city found along the border of [[The Carmine]] and the [[Crimson Gorge]] regions, and the only official town inhabited predominantly by [[Maelmari]]. Acting as a gateway to the Crimson Gorge (and by extent, controlling land access to the [[Hellcrags]]), Rhaveloth is the largest city in the [[Empire of Maelihs]]. It is also home to the [[Sepulchral Altar]], the [[Devotion]] site for [[Maelihs]].
+**Rhaveloth**, also sometimes called the **Crimson Oasis**, is a large, walled city found along the border of [[The Carmine]] and the [[Crimson Gorge]] regions, and the only official town inhabited predominantly by [[Maelmari]]. Acting as a gateway to the Crimson Gorge (and by extent, controlling land access to the [[Hellcrags]]), Rhaveloth is the largest city in the [[Empire of Maelihs]]. It is also home to the [[Sepulchral Altar]], the [[Devotion]] site for [[Maelihs]].
 
 !!! abstract "Location"
     Approximate Coordinates: `-2788, 47, 5158`

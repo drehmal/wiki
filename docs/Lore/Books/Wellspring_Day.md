@@ -23,8 +23,7 @@ This book can be found on a lectern in [[Firteid]] library. It describes the reg
 >
 > For those of the Tidal Dynasty, it is also a reminder to appreciate the local monarch, the eternally inscrutable Tide Queen. Under royal decree, no citizen is to work even a minute on regular labor on Wellspring Day. Instead, local farmers, butchers, and restauranteurs come out to the city centers to sell their wares. The sound of games, races, and talent competitions is supplemented by the efforts of musicians on stages and street corners and dramatic productions famed throughout the realm.
 >
-> As morning continues, children spill out onto the streets to play as adults prepare for the events of the day. After all the priests have been cleansed, the oldest Drehmari begin to make their
-way to the purification sites first.
+> As morning continues, children spill out onto the streets to play as adults prepare for the events of the day. After all the priests have been cleansed, the oldest Drehmari begin to make their way to the purification sites first.
 >
 > Finally, when the sun is at its highest point, a great gong from the Tide Queen’s personal collection is rung, and the shores are filled by visitors from across the realm. For that one day only, the Tidal Dynasty is open to traffic from abroad! They come in droves to celebrate and bathe in the rivers and bathhouses. After all citizens have been purified, the waters are then opened to foreigners. Great lines form from the outskirts to the center of the twin cities as runners sell them drinks and anything and everything smothered in kehma.
 >

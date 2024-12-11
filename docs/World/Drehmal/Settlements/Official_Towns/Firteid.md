@@ -24,87 +24,87 @@ Entering Firteid for the first time grants the "City of Tides" advancement.
 
 Firteid is relatively organized, with named streets and clear, discrete districts that house its many points of interest. The city is surrounded by a 6-8 block-tall wall, and is roughly centered around a town square containing a three-tiered prismarine fountain. 
 
-## Mountaintop House
+### Mountaintop House
 
 Just across the river from the town proper, a small shack stands atop a tall, skinny prismarine mountain. This hut contains a [[Runic Catalyst]].
 
-## Harbor District
+### Harbor District
 
 North of the main city portion of Firteid is the Harbor District, a series of docks where airships and boats alike can be found. Decent loot can be found here, including the [[Letter Awaiting Delivery]] lore book.
 
-## Hotel Bows
+### Hotel Bows
 
 An expansive, prismarine-roofed hotel building in northern Firteid. This hotel does not contain a Primal Cache room.
 
 The hotel's name is a reference to former Drehmal developer HotElbows, whose name is frequently misread as "Hotel Bows".
 
-## The Gnarled Willow
+### The Gnarled Willow
 
 In the northeast of the city center, a small restaurant named "The Gnarled Willow" is found. This building is home to the "Chef" merchant, who sells a variety of foods.
 
-## Merchant Guild
+### Merchant Guild
 
 To the northeast of the fountain, a large wooden building with a crimson roof serves as the Firteid Merchant Guild. This building holds several merchant stalls, but only one trader in version 2.2: the town's [[Adventuring Merchant]]. 
 
 In Drehmal v2.1, this building housed all of the town's custom merchants, and it was also the inn building. The Primal Cache room in Firteid is still located here, in one of the guild member rooms on the top floor.
 
-## Black Market
+### Black Market
 
 Directly beneath/behind (just to the east of) the Merchant Guild, a covert black market is obscured by trees from above and walled in on all sides. This market contains 5 custom traders, who either sell joke items or sell normal items at exorbitant prices.
 
 An illicit fighting ring can also be found here.
 
-## Firteid Library
+### Firteid Library
 
 Firteid's library is a relatively large, dark prismarine-roofed building in the northeast, just off the road at the main entrance to the city. It is home to two lore books. In the southern wing on the ground floor, [[Wellspring Day]] sits upon a lectern, describing the holiday of Wellspring Day, a Firteid-area tradition. 
 
 The northern wing does not contain a book, but does have ladders which allow access to the Archives above, where the [[History of the Tidal Dynasty]] book is found.
 
-## River Street Community
+### River Street Community
 
 In the far northeast of the city, the River Street Community can be found. This is a residential area, with two lore books to be found: [[The Battle of River Street]], which depicts a comical feud between neighbors, and [[Strange Prayer]], a meta item referencing 2.2 co-lead developer DomeMaster.
 
-## Botanical Research Center
+### Botanical Research Center
 
 Just to the south of the in-game town map, a building is dedicated to botany, and contains the [[Woes of a Botanist]] lore book.
 
-## The Magma Flow Noodle Shop
+### The Magma Flow Noodle Shop
 
 Southeast of the fountain, The Magma Flow Noodle Shop is home to the Noodle Merchant, who sells two types of "noodles".
 
-## Purity Chapel
+### Purity Chapel
 
 In the southeast, a chapel is dedicated to [[Virtuo]], Goddess of Purity, and the only god officially worshipped in the city. The town's graveyard is found next to this building, but contains no hidden chests buried beneath any gravestones.
 
-## Fountainhead Mall
+### Fountainhead Mall
 
 Fountainhead Mall is a large building found at the southern end of the town square, with a statue of Virtuo found outside of the mall. The building's upper floors are home to a restaurant and the "Free Bird" Hotel, and its lower floors are home to four custom merchants. 
 
 The Empty Angel Bar is located even further beneath the merchants' floor, and is, true to its name, empty. A target block at the end of the room, part of an old game, can be shot to reveal a passageway to the right, where a chest with a single scale sits as a reward. However, digging past the chiseled stone bricks at this final location leads to an extension of the tunnel, and at the end, the [[Artifacts#Crown of Peace|Crown of Peace]] artifact is located.
 
-## Southern Firteid
+### Southern Firteid
 
 There are fewer major points of interest in Southern Firteid, mostly being smaller residences, but the [[Runic Blacksmith]] can be found in this area, standing outside beneath a tent. The Jade Teapot, a tea shop with a custom merchant, is also located here.
 
 The area to the far south is used for farming, with terrace farms growing multiple different crops as well as animal pastures.
 
-## Royal Treasury Bank
+### Royal Treasury Bank
 
 Southwest of the fountain back in the main part of the city, the Royal Treasury Bank is located. There is not much actual money stored in this building, but there are two "Scalebroker" merchants, who will exchange gold for scales (buying gold from the player) at a 1:1 rate.
 
-## Stone Building
+### Stone Building
 
 Along Dynasty Way, the road that leads west from the fountain, a single stone building sits on the right, boarded up and covered in vines. The exact purpose of building was likely as either an embassy for [[Insohm]] to Firteid, or as a center of [[Green Serpent]] operation. The former seems to be the most likely, given that the book inside, [[The Origins of Green Serpent]], is written about the group from an outside perspective, and also references the [[Fall of Avsohm]]. 
 
 A statue in the yard behind this building seems to depict two crude figures, one made out of prismarine and the other of blackstone, holding hands in unity. These figures may represent Firteid and [[Vulteid]], the Parochial Enclave of Firteid and [[Insohm]], or some other combination of sociopolitical entities.
 
-## The Ladle
+### The Ladle
 
 Further up Dynasty Way, The Ladle Baths and Spa is a bathhouse, which holds a rare loot item. [[THE BATHS ARE BACK!|A book]] at the receptionist's desk, written shortly after the establishment re-opened, also hints at the presence of an "odd piece of metal", which was stowed upstairs. 
 
 The room this is located in is somewhat hidden, behind two trapdoors on the wall of the upper floor, and the chest containing it is in the ground, beneath another trapdoor. Opening this chest will reveal that the treasure is, in fact, a celestial chondrule (netherite scrap).
 
-## Tidal Palace
+### Tidal Palace
 
 The Tidal Palace is a large palace located at the western end of Firteid, at the top of the hill the city is built upon. Once the home of the despotic [[Tide Queen]], it stands today as a monument to the power of Firteid, and a reminder not to forget the city's past. 
 
@@ -118,7 +118,7 @@ Below these signs, what appears to be a coffin lies empty.
 
 There are several villagers living in the Tidal Palace to this day, and many rooms contain decent loot, but the major point of interest within the palace is found in the Palace Staff Quarters, to the north on the ground floor.
 
-### Palace Staff Quarters
+#### Palace Staff Quarters
 
 Inside the Palace Staff Quarters, a gradual cobblestone tunnel can be found, leading downward in a short spiral. This sign culminates in a blackstone wall with a chiseled blackstone brick, and breaking through this wall leads to a large hole in the ground. A series of partially ruined platforms leads down towards the bottom of the hole, but it is easiest to simply place water at the top of the hole and fall down with it.
 

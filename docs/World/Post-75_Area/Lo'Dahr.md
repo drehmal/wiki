@@ -40,7 +40,7 @@ Lo'Dahr is very different from the [[Overworld]] in its core gameplay loop, owin
 
 Being a late-game location, Lo'Dahr is the primary source of celestial debris (ancient debris) in Drehmal, provided that you made it via the Aphelion sequence. In the Aphelion, players must eject a large amount of debris from the ship's reactor in order to progress. When on Lo'Dahr, this space junk that you shot out will occasionally come crashing down to the surface in the form of a (very loud) meteor, landing on the ground and smoking. Touching it will burn the player (as if it is a magma block), but it can be mined. These meteors occur at some scripted locations, such as immediately after warping to the tower for the first time, but can also appear randomly almost anywhere in the dimension.[^1]
 
-Lo'Dahr is also home to several custom mobs that can provide valuable resources, including those who would normally be found in the Nether.
+Lo'Dahr is also home to several custom mobs that can provide valuable resources, including those who would normally be found in the Nether. Hostile mobs on Lo'Dahr do not follow the usual day-night spawning cycle, but rather, spawn at all times. Sleeping is also not possible on Lo'Dahr, as attempting to lay down in a bed while on the moon will simply play the message "Time cannot be passed on the divine moon...".
 
 Many additional points of interest can be found in Lo'Dahr in addition to the main story locations.
 

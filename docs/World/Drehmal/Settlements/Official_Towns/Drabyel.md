@@ -74,7 +74,7 @@ The Drabyel [[Adventuring Merchant]] is found under a signature orange/red wool 
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims in addition six artisan items, whose details can be found [[Artisan Items#Central Regions|here]]. This includes a full set of artisan leather armor, the Set of Neutrality, whose pieces all add +1 Armor Toughness.
+The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims in addition six artisan items, whose details can be found [[Artisan Items#Central Regions|here]]. This includes a full set of artisan leather armor, the Set of Neutrality, whose pieces all have the armor equivalent of iron armor, and add +1 Armor Toughness.
 
 **Coordinates:** (526, 65, 1841)
 

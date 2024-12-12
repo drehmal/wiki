@@ -27,5 +27,5 @@ Scattered throughout the map of [[Lo'Dahr]] are many different settlements. Thes
 |---------------------|----------------------|------------|
 | [[Loeturia]]        | [[Loe's Domain]]     | 21         |
 | [[Riverstead Town]] | [[Dahr's Domain]]    | 13         |
-| [[Lopaja Town]]     | [[Lahrs' Domain]]   | 19         |
+| [[Lopaja Town]]     | [[Lahrs' Domain]]    | 19         |
 | [[Lajani]]          | [[Noha's Domain]]    | 23         |

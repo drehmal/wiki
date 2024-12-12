@@ -124,6 +124,8 @@ Located in the bank just off the main road to the northwest, the Bank Teller off
 
 **Coordinates:** (-2860, 64, 5216)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 3 Scales | 1 Gold Ingot |
@@ -134,6 +136,8 @@ Located in the bank just off the main road to the northwest, the Bank Teller off
 Located in a side room of the restaurant building off the north side of Crimson Way, the Landlord sells only one item.
 
 **Coordinates:** (-2883, 67, 5239)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
@@ -146,6 +150,8 @@ The property that this deed refers to is at **(-2927, 84, 5211)**, a very small 
 Located in the Boar's Thighs Fine Dining in northern Rhaveloth, the Waiter sells several foodstuff items. This includes one special dish, the Boar's Thigh soup, actually a suspicious stew which grants 35 seconds of the Hunger effect and 10 minutes of Strength.
 
 **Coordinates:** (-2890, 68, 5240)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
@@ -162,6 +168,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Potion Master sells 
 
 **Coordinates:** (-2899, 68, 5166)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 1 Gold Ingot | 3 Glass Bottles |
@@ -176,6 +184,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys 
 
 **Coordinates:** (-2888, 67, 5167)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 2 Gold Ingots | 1 Blaze Rod |
@@ -186,6 +196,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys 
 One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys and sells blaze rods. This merchant is found toward the west end of the bazaar, in a crimson/jungle wood stall.
 
 **Coordinates:** (-2888, 67, 5167)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
@@ -198,6 +210,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Crimson Merchant sel
 
 **Coordinates:** (-2882, 65, 5160)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 1 Gold Ingot | 4 Carnelian Stem |
@@ -208,6 +222,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Crimson Merchant sel
 One of five merchants in the northern Rhaveloth bazaar, the Blackstone Merchant buys and sells both blackstone and basalt. This merchant is found east of the Crimson Merchant, in a dark oak/red wool stall along the wall.
 
 **Coordinates:** (-2876, 65, 5161)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
@@ -221,6 +237,8 @@ One of five merchants in the northern Rhaveloth bazaar, the Blackstone Merchant 
 One of five merchants in the northern Rhaveloth bazaar, Gahrgi buys and sells crops. This merchant is found at the east end of the bazaar, in a small elevated hut.
 
 **Coordinates:** (-2865, 67, 5164)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
@@ -237,6 +255,8 @@ The Meat Merchant is found in the meat store behind the counter, just off Crimso
 
 **Coordinates:** (-2837, 66, 5219)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 1 Gold Ingot | 3 Raw Beef |
@@ -252,6 +272,8 @@ The Bartender is found at the bar in The Black Tree Restaurant & Tavern, just of
 
 **Coordinates:** (-2843, 64, 5233)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 14 Gold Ingots | **Ash Mead** <br> Effects: <br> Nausea (3s) <br> Speed (5m30s) <br> Fire Resistance (5m30s)  |
@@ -264,6 +286,8 @@ Rafigefegifar is found at Rafigefegifar's Bounty in northeastern Rhaveloth, and 
 
 **Coordinates:** (-2812, 60, 5217)
 
+**Trades:**
+
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
 | 4 Gold Ingots | 1 Empty Map |
@@ -275,6 +299,8 @@ Rafigefegifar is found at Rafigefegifar's Bounty in northeastern Rhaveloth, and 
 This merchant is found at the "9/30 Convenience Store" in the far northeastern corner of Rhaveloth, a joke location referencing the real life 7/11 chain of convenience stores. The merchant sells assorted foodstuffs.
 
 **Coordinates:** (-2790, 59, 5203)
+
+**Trades:**
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|

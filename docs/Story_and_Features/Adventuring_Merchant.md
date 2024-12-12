@@ -61,26 +61,6 @@ Regional maps show the region surrounding the Adventuring Merchant's town, as we
 |-|-|
 
 
---8<-- "spoiler.md"
-
---8<-- "LD_spoiler.md"
-
-## Adventuring Merchant Eliana 
-
-Adventuring Merchant Eliana is a [[Tehrmari]] variant of a regular Adventuring Merchant, who can be found at Eliana's Map and Compass in [[Naharja]]. Her trades differ from those of typical Adventuring Merchants.
-
-**Trades:**
-| Price | Item |
-|-|-|
-| 21x Amethyst Shard + 4x Diamond | Map of Lo'Dahr |
-| 28x Amethyst Shard + 12x Runic Catalyst | Runic Vessel |
-| 10x Amethyst Shard | Bundle |
-| 20x Amethyst Shard | Note Box: The Trials |
-
-**Map of [[Lo'Dahr]]:**
-
-The Map of Lo'Dahr is sold by Adventuring Merchant Eliana in place of a regional map.
-
 ## Extras
 
 Normally, Adventuring Merchants are immune to any sort of damage and cannot be turned into zombie villagers, but they can be killed by a player in Creative Mode or turned into a witch by a lightning strike. In this event, special merchant villagers can be re-summoned by using commands.

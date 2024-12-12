@@ -22,7 +22,7 @@ Okeke consists of stone brick buildings on the western and eastern sides of a st
 
 The Forest's Tap is the Okeke inn, built entirely around a fountain. The rooms are located on the second floor, with the "Master Suite" containing the Primal Cache and a double bed/double chest. 
 
-This building is also home to the [[The Arcane Alchemist]] book, which provides insights into the semantics of Drehmal's [magic system](/Lore/Magic/), as well as the [[Artifacts#Endless Catch|Endless Catch]] artifact.
+This building is also home to the [[The Arcane Alchemist]] book, which provides insights into the details of Drehmal's [magic system](/Lore/Magic/), as well as the [[Artifacts#Endless Catch|Endless Catch]] artifact.
 
 ### The Seasoned Hammer
 

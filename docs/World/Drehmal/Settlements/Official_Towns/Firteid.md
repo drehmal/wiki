@@ -19,7 +19,7 @@ Entering Firteid for the first time grants the "City of Tides" advancement.
 
 ## Layout/Points of Interest
 
-![[firteid_map.png]]{ width="400" }
+![[firteid_map.png]]
 > The in-game map of Firteid, located at the fountain near the center of town.
 
 Firteid is relatively organized, with named streets and clear, discrete districts that house its many points of interest. The city is surrounded by a 6-8 block-tall wall, and is roughly centered around a town square containing a three-tiered prismarine fountain. 

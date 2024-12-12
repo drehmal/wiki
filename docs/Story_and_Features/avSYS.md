@@ -13,3 +13,12 @@ avSYS was created as a project by Avsohmic scientists during the reign of [[Anyr
 ## Role in Story (END-GAME SPOILERS)
 
 ## Transcripts (END-GAME SPOILERS)
+
+## Extras
+
+### Dialogue Font
+
+avSYS dialogue is given in Unicode wide text, which can be generated from the website linked [here](https://fontvilla.com/wide-text-generator/).
+
+??? info "Letters/Numbers in avSYS Unicode Wide Text"
+    ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ１２３４５６７８９０

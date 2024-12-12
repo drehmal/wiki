@@ -2028,7 +2028,7 @@ The Naharja Runic Blacksmith is located in the southeastern portion of the city,
 | **Lore** | Unstoppable. Unbreakable. Indomitable. The will of one's soul is the break against the inevitable.   |
 | **Cost** | 2 Celestial Alloy (Netherite Ingots) <br> 1 Soul Asteria (Nether Star)  |
 
-Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in an alleyway in Naharja, at **(286, 101, -830)**.
+On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja. One of these is another Runic Blacksmith, the "Specialty Blacksmith," who can be found in a stall immediately outside the primary Runic Blacksmith's shop, at **(286, 101, -830)**.
 
 **Olkahan Pickaxe:**
 
@@ -2057,9 +2057,9 @@ Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in
 | **Lore** | Victory is best achieved with confidence. Victory is best kept with competence. |
 | **Cost** | 20 Amethyst Shards  |
 
-On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja, but none sell any artisan items...except for one very specific circumstance.
+There is one more, extremely specific circumstance in which another artisan item can be obtained.
 
-On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then a "Gourd Merchant" will spawn at **(212, 101, -819)**, selling one Halloween-exclusive artisan item.
+On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then the "Gourd Merchant" who spawns at **(212, 101, -819)** will also sell one Halloween-exclusive artisan item, in addition to their normal stock.
 
 **Very Large Pumpkin:**
 

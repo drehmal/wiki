@@ -35,25 +35,25 @@ Armor Trims can be obtained in Drehmal through trading with certain Runic Blacks
     | **Image** | **Name** | **Location** | **Cost** |
     |:---------:|:-----------------:|:---------------|:------------:|
     | ![[coast_armor_trim_smithing_template.png]]{ width="32" } | Coast Armor Trim | N/A  | Crafting |
-    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[Artisan Items#New Drabyel|New Drabyel Runic Blacksmith]] | 16 Scales |
-    | ![[eye_armor_trim_smithing_template.png]]{ width="32" } | Eye Armor Trim | [[Artisan Items#Rhaveloth|Rhaveloth Runic Blacksmith]] | 16 Gold Ingots |
-    | ![[host_armor_trim_smithing_template.png]]{ width="32" } | Host Armor Trim | [[Artisan Items#Athrah|Athrah Runic Blacksmith]] | 16 Copper Ingots |
-    | ![[raiser_armor_trim_smithing_template.png]]{ width="32" } | Raiser Armor Trim | [[Artisan Items#New Drabyel|New Drabyel Runic Blacksmith]] | 16 Scales |
-    | ![[rib_armor_trim_smithing_template.png]]{ width="32" } | Rib Armor Trim | [[Artisan Items#Dusps|Dusps Runic Blacksmith]] | Gay Apple | 
-    | ![[sentry_armor_trim_smithing_template.png]]{ width="32" } | Sentry Armor Trim | [[Artisan Items#New Sahd|New Sahd Runic Blacksmith]] | 16 Block of Lapis Lazuli |
-    | ![[shaper_armor_trim_smithing_template.png]]{ width="32" } | Shaper Armor Trim | [[Artisan Items#Highfall|Highfall Runic Blacksmith]] | 16 Quartz | 
-    | ![[silence_armor_trim_smithing_template.png]]{ width="32" } | Silence Armor Trim | [[Artisan Items#Firteid|Firteid Runic Blacksmith]] | 8 Diamonds |
-    | ![[snout_armor_trim_smithing_template.png]]{ width="32" } | Snout Armor Trim | [[Artisan Items#Ebonrun|Ebonrun Runic Blacksmith]] | 16 Iron Ingots | 
-    | ![[tide_armor_trim_smithing_template.png]]{ width="32" } | Tide Armor Trim | [[Artisan Items#Mohta|Mohta Runic Blacksmith]] | 16 Azure Crystals (Prismarine Crystals) <br> 16 Prismarine Shards |
-    | ![[vex_armor_trim_smithing_template.png]]{ width="32" } | Vex Armor Trim | [[Artisan Items#Gozak|Gozak Runic Blacksmith]] | 16 Spruce Wood | 
-    | ![[ward_armor_trim_smithing_template.png]]{ width="32" } | Ward Armor Trim | [[Artisan Items#Okeke|Okeke Runic Blacksmith]] | 16 Pufferfish | 
-    | ![[wayfinder_armor_trim_smithing_template.png]]{ width="32" } | Wayfinder Armor Trim | [[Artisan Items#Fort Nimahj|Fort Nimahj Runic Blacksmith]] | 16 Blocks of Coal | 
-    | ![[wild_armor_trim_smithing_template.png]]{ width="32" } | Wild Armor Trim | [[Artisan Items#Tharxax City|Tharxax City Runic Blacksmith]] | 16 Blocks of Redstone |
+    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[New Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
+    | ![[eye_armor_trim_smithing_template.png]]{ width="32" } | Eye Armor Trim | [[Rhaveloth#Runic Blacksmith|Rhaveloth Runic Blacksmith]] | 16 Gold Ingots |
+    | ![[host_armor_trim_smithing_template.png]]{ width="32" } | Host Armor Trim | [[Athrah#Runic Blacksmith|Athrah Runic Blacksmith]] | 16 Copper Ingots |
+    | ![[raiser_armor_trim_smithing_template.png]]{ width="32" } | Raiser Armor Trim | [[New Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
+    | ![[rib_armor_trim_smithing_template.png]]{ width="32" } | Rib Armor Trim | [[Dusps#Runic Blacksmith|Dusps Runic Blacksmith]] | Gay Apple | 
+    | ![[sentry_armor_trim_smithing_template.png]]{ width="32" } | Sentry Armor Trim | [[New Sahd#Runic Blacksmith|New Sahd Runic Blacksmith]] | 16 Block of Lapis Lazuli |
+    | ![[shaper_armor_trim_smithing_template.png]]{ width="32" } | Shaper Armor Trim | [[Highfall#Runic Blacksmith|Highfall Runic Blacksmith]] | 16 Quartz | 
+    | ![[silence_armor_trim_smithing_template.png]]{ width="32" } | Silence Armor Trim | [[Firteid#Runic Blacksmith|Firteid Runic Blacksmith]] | 8 Diamonds |
+    | ![[snout_armor_trim_smithing_template.png]]{ width="32" } | Snout Armor Trim | [[Ebonrun#Runic Blacksmith|Ebonrun Runic Blacksmith]] | 16 Iron Ingots | 
+    | ![[tide_armor_trim_smithing_template.png]]{ width="32" } | Tide Armor Trim | [[Mohta#Runic Blacksmith|Mohta Runic Blacksmith]] | 16 Azure Crystals (Prismarine Crystals) <br> 16 Prismarine Shards |
+    | ![[vex_armor_trim_smithing_template.png]]{ width="32" } | Vex Armor Trim | [[Gozak#Runic Blacksmith|Gozak Runic Blacksmith]] | 16 Spruce Wood | 
+    | ![[ward_armor_trim_smithing_template.png]]{ width="32" } | Ward Armor Trim | [[Okeke#Runic Blacksmith|Okeke Runic Blacksmith]] | 16 Pufferfish | 
+    | ![[wayfinder_armor_trim_smithing_template.png]]{ width="32" } | Wayfinder Armor Trim | [[Fort Nimahj#Runic Blacksmith|Fort Nimahj Runic Blacksmith]] | 16 Blocks of Coal | 
+    | ![[wild_armor_trim_smithing_template.png]]{ width="32" } | Wild Armor Trim | [[Tharxax City#Runic Blacksmith|Tharxax City Runic Blacksmith]] | 16 Blocks of Redstone |
     ??? danger "Post-75% Armor Trim Locations"
         | **Image** | **Name** | **Location** | **Cost** |
         |:---------:|:-----------------:|:---------------|:------------:| 
-        | ![[netherite_upgrade_smithing_template.png]]{ width="32" } | Netherite Upgrade Template | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards <br>4 [[Runic Catalyst|Runic Catalysts]] |
-        | ![[spire_armor_trim_smithing_template.png]]{ width="32" } | Spire Armor Trim | [[Artisan Items#Naharja|Naharja Runic Blacksmith]] | 16 Amethyst Shards | 
+        | ![[netherite_upgrade_smithing_template.png]]{ width="32" } | Netherite Upgrade Template | [[Naharja#Runic Blacksmith|Naharja Runic Blacksmith]] | 16 Amethyst Shards <br>4 [[Runic Catalyst|Runic Catalysts]] |
+        | ![[spire_armor_trim_smithing_template.png]]{ width="32" } | Spire Armor Trim | [[Naharja#Runic Blacksmith|Naharja Runic Blacksmith]] | 16 Amethyst Shards | 
 
 ## Extras
 

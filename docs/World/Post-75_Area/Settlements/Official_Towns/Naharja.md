@@ -149,7 +149,7 @@ The note box, referencing the [trials](/World/Post-75_Area/Points_of_Interest/Tr
 
 ### Runic Blacksmith
 
-The primary [[Runic Blacksmith]] in Naharja is located in Kavn's Forge, in the southeastern portion of the city's middle level. This Runic Blacksmith is the map's only renewable source of Celestial Upgrade Templates, allowing for diamond gear to be upgraded to celestial (netherite) status. This Runic Blacksmith also offers one armor trim, Runic Amplifiers, and a total of [[Artisan Items#Tharxax City|seven artisan items]], including the full 4-piece upgraded "Vivid" diamond artisan set. Each piece of this set increases its wearer's total armor by 12%. This merchant also sells the only celestial artisan item in the map, which is the single strongest non-[Legendary](/Items/Legendary_Items/) piece of armor in Drehmal.
+The primary [[Runic Blacksmith]] in Naharja is located in Kavn's Forge, in the southeastern portion of the city's middle level. This Runic Blacksmith is the map's only renewable source of Celestial Upgrade Templates, allowing for diamond gear to be upgraded to celestial (netherite) status. This Runic Blacksmith also offers one armor trim, Runic Amplifiers, and a total of [[Artisan Items#Naharja|seven artisan items]], including the full 4-piece upgraded "Vivid" diamond artisan set. Each piece of this set increases its wearer's total armor by 12%. This merchant also sells the only celestial artisan item in the map, which is the single strongest non-[Legendary](/Items/Legendary_Items/) piece of armor in Drehmal.
 
 **Coordinates:** (295, 101, -832)
 

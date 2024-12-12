@@ -146,7 +146,7 @@ The Firteid [[Adventuring Merchant]] is found in the Merchant Guild, northeast o
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Firteid is located on Ladder Lane, in southwestern Firteid. This Runic Blacksmith offers one armor trim, Runic Amplifiers, and a total of [[Artisan Items#Tharxax City|seven artisan items]], including the full 4-piece upgraded "Superheated" diamond artisan set. Each piece of this set gives its wearer an additional +2 attack damage boost, at the cost of 3 max health (1.5 hearts).
+The [[Runic Blacksmith]] in Firteid is located on Ladder Lane, in southwestern Firteid. This Runic Blacksmith offers one armor trim, Runic Amplifiers, and a total of [[Artisan Items#Firteid|seven artisan items]], including the full 4-piece upgraded "Superheated" diamond artisan set. Each piece of this set gives its wearer an additional +2 attack damage boost, at the cost of 3 max health (1.5 hearts).
 
 **Coordinates:** (3817, 66, 3576)
 

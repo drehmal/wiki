@@ -12,7 +12,10 @@ The main explorable area of Drehmal: Apotheosis is Drehmal, the main 12,000 by 1
 
 Divided into Central, Western, Eastern, and Outer groups, the region pages each contain a description of that region's terrain, what we know about its history within the broader scope of Drehmal, a description of its [[Terminus Network#Towers|Terminus tower]], if applicable, and a full list of major POIs in that region, with coordinates for all locations given. 
 
-### Settlements (Under Construction)
+### Settlements (Partially Under Construction)
+
+!!! note "The major, official town pages have all been thoroughly updated and re-written for 2.2, but some of the smaller settlement pages are either outdated or empty."
+
 The [Settlements](/World/Drehmal/Settlements/) tab is where you'll find articles on the many towns, cities, and villages of Drehmal. From trades available at these locations to the unique facets of each location, these articles are your go-to for navigating Drehmal's centers of population.
 
 ### Points of Interest (Under Construction)

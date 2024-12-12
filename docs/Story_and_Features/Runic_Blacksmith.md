@@ -35,11 +35,11 @@ Armor Trims can be obtained in Drehmal through trading with certain Runic Blacks
     | **Image** | **Name** | **Location** | **Cost** |
     |:---------:|:-----------------:|:---------------|:------------:|
     | ![[coast_armor_trim_smithing_template.png]]{ width="32" } | Coast Armor Trim | N/A  | Crafting |
-    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[New Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
+    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
     | ![[eye_armor_trim_smithing_template.png]]{ width="32" } | Eye Armor Trim | [[Rhaveloth#Runic Blacksmith|Rhaveloth Runic Blacksmith]] | 16 Gold Ingots |
     | ![[host_armor_trim_smithing_template.png]]{ width="32" } | Host Armor Trim | [[Athrah#Runic Blacksmith|Athrah Runic Blacksmith]] | 16 Copper Ingots |
-    | ![[raiser_armor_trim_smithing_template.png]]{ width="32" } | Raiser Armor Trim | [[New Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
-    | ![[rib_armor_trim_smithing_template.png]]{ width="32" } | Rib Armor Trim | [[Dusps#Runic Blacksmith|Dusps Runic Blacksmith]] | Gay Apple | 
+    | ![[raiser_armor_trim_smithing_template.png]]{ width="32" } | Raiser Armor Trim | [[Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
+    | ![[rib_armor_trim_smithing_template.png]]{ width="32" } | Rib Armor Trim | [[Dusps#Runic Blacksmith|Dusps Runic Blacksmith]] | Gay Apple (or custom banner, post-2.2.2) | 
     | ![[sentry_armor_trim_smithing_template.png]]{ width="32" } | Sentry Armor Trim | [[New Sahd#Runic Blacksmith|New Sahd Runic Blacksmith]] | 16 Block of Lapis Lazuli |
     | ![[shaper_armor_trim_smithing_template.png]]{ width="32" } | Shaper Armor Trim | [[Highfall#Runic Blacksmith|Highfall Runic Blacksmith]] | 16 Quartz | 
     | ![[silence_armor_trim_smithing_template.png]]{ width="32" } | Silence Armor Trim | [[Firteid#Runic Blacksmith|Firteid Runic Blacksmith]] | 8 Diamonds |

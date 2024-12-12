@@ -8,7 +8,7 @@
 
 ![[naharja.png]]{ align=right width="300" }
 
-**Naharja** (pronounced naw-har-yuh) is a city in [[Moen's Domain]], and the fifteenth official town in Drehmal. Naharja is the only official town whose population is predominantly [[Tehrmari]] rather than [[Drehmari]] or [[Maelmari]], and it is also the only official town on [[Lo'Dahr]]. Situated in the northeast of Moen's Domain, the town can be easily accessed by simply heading east from the lake where the Lo'Dahr tower lands after the [[Aphelion|75% Event]] is completed.
+**Naharja** (pronounced naw-har-yuh) is a city in [[Moen's Domain]], and the fifteenth official town in Drehmal. Naharja is the only official town whose population is predominantly [[Tehrmari]] rather than [[Drehmari]] or [[Maelmari]], and it is also the only official town on [[Lo'Dahr]]. Situated in the northeast of Moen's Domain, the town can be easily accessed by simply heading east from the lake where the Lo'Dahr tower lands after the [[Aphelion]] sequence is completed.
 
 !!! abstract "Location"
     Approximate Coordinates: `263, 75, -790`
@@ -38,7 +38,7 @@ The lowest level, which the two staircases up to the city from the surrounding t
 
 The Night Lights District is a neighborhood containing several shops and businesses, on the lower level of south-central Naharja. This area is home to six merchant locations, including Eliana's Map and Compass (the location of Naharja's unique [[Adventuring Merchant]]), a pet store, and more.
 
-A [[Fervor Stone]] is hidden underground, in a secret building in this area.
+A [[Fervor Stones|Fervor Stone]] is hidden underground, in a secret building in this area.
 
 ??? warning "Fervor Stone Location"
     In the Night Lights district, enter the narrow alley between the pet store and the alchemist's shop, to the west. At the end of this alley, in a red concrete wall, trapdoors obscure two fence gates. Open both and crouch to pass through. This will take you to a room with a wooden "couch", and what appears to be a dead end.
@@ -594,8 +594,6 @@ Since that time, Ro'Tehrmari and La'Tehrmari have lived in Naharja together, wit
 It appears that the residents of Naharja primarily engages in worship of [[Moen]], Aspect of Pleasure, likely due to the fact that they live in her [[Moen's Domain|domain]], but the La'Tehrmari generally do not have strong feuds between themselves over which Aspects they worship. Rather, the La'Tehrmari appear to simply encourage the worship of the Aspects at large, particularly through the Wingmakers, their missionary/recruiting faction.
 
 ## Extras
-
-### Trivia
 
 ![[naharja_golem.png]]{ align=left width="100" }
 

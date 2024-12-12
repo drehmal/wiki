@@ -27,7 +27,7 @@ The **Court of Nothing** is one of the final end-game locations in the main stor
     These coordinates will take the player to the mural room, which contains a portal to the Court ONLY THROUGH THE PROPER STORY SEQUENCE. Do NOT attempt to teleport to these coordinates before reaching them naturally, or you will risk sequence-breaking the map.
 
 ## Story
-After finishing the sequence at the [[Resonant Halls]] and being invited to the Court, the player must return to the [[Terminus Network|Terminus]] one final time, where they will be given the last [[Trinkets|trinket]]: the ![[rhythmic_thing.gif]]{ width="32" } Rhythmic Thing. This item tells the player to "Return to the place you had risen, lest you wish not to be chosen."
+After finishing the sequence at the [[Resonant Halls]] and being invited to the Court, the player must return to the [[Terminus Network|Terminus]] one final time, where they will be given the [[Trinkets#Rhythmic Thing|last trinket]]: the ![[rhythmic_thing.gif]]{ width="32" } Rhythmic Thing. This item tells the player to "Return to the place you had risen, lest you wish not to be chosen."
 
 As the player returns to [[Overworld|Drehmal]], the voice returns to speak to them once more. It tells them of [[Tethlaen]], and how they were determined to save the realm despite the voice's warnings, and how few people truly cared for him despite this act of heroism. The voice then disappears.
 
@@ -60,7 +60,7 @@ Mytho's dialogue and other external sources suggest that the Court is where all 
 At the very top of the room is a massive orb, strongly resembling an eye. It is not clear if this is meant to be the literal eye of The Mythoclast or another entity, or if it is simply a decoration or symbolic representation of the judgment enacted at this location. The Court of Nothing appears to be contained within the Heart of the Void, the radiant core of the universe and the point into which everything ultimately collapses and from which all is recreated.
 
 ## Extras
-The dialogue transcript from this section can be found [[End-Game_Dialogue.md|here]]. This article contains sections 6-8 (**Terminus (Post-Halls)** through **Court of Nothing**).
+The dialogue transcript from this section can be found [[End-Game_Dialogue.md#Terminus (Post-Halls)|here]]. This article contains sections 6-8 (**Terminus (Post-Halls)** through **Court of Nothing**).
 
 
 [^1]: From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" or "they" to describe Mytho and his voice are purely for spoiler protection at that point in the story.

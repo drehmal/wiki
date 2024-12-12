@@ -1,7 +1,6 @@
 ---
 tags:
   - Books
-  - Devotion Books
 ---
 
 This book can be found in an item frame at the [[Crystalline Colonnade]], sacred place of [[Loe]]. It is not a writable book, and provides hints as to the accepted [[Devotion]] gifts for [[Loe]].

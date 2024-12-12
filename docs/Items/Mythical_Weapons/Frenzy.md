@@ -52,7 +52,7 @@ The Fragment of Fury takes the form of a flaming stone. It is the only fragment 
 The Fragment of Hate takes the form of a sharp metal fragment, in a shape reminiscent of a shark tooth, perpetually dripping blood. It is found within the region's main town, [[New Sahd]]. It is a reskinned iron nugget.
 
 ??? warning "Fragment Location"
-    The Fragment of Hate is found in a building at the docks of New Sahd. It is located within a chest on its top floor. <br>
+    The Fragment of Hate is found in the Funerary Boathouse, a building at the docks of New Sahd. It is located within a chest on its top floor. <br>
     **Coordinates:** (4709, 81, 5827)
 
 ### Fragment of Pain ![[fragment_of_pain.gif]]{ width="48" }

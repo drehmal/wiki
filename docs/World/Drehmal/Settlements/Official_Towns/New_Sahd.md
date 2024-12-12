@@ -1,68 +1,186 @@
----
-tags:
-    - Locations
-    - Cities
----
-
---8<-- "spoiler.md"
-
 # New Sahd
+
+!!! info "This article is about New Sahd, the main town on the island of Sahd. For the overall region/island, see [[Sahd]]."
 
 ![[Sahd1.webp]]{ align=right width="300" }
 
-New Sahd is a [town](/Settlements) on Sahd [[Regions|island]], located just west of the Sahd [[Towers|tower]].
+**New Sahd** is the official town of the [[Sahd]] region, located in the bay around the island's geographic center. It is one of few official towns that does not have a direct path leading to it, owing to its location on an isolated island, but it can be accessed directly from the sea, and is easily found once the player has reached the main island.
 
-Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem).
-
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `4764, 65, 5702`
 
-## Unique Merchants and Villagers
+New Sahd is on the larger side of Drehmal towns in terms of land area, taking up a significant amount of space but not having a particularly large population. There are 11 distinct buildings in Sahd, but they are spread out further than most other towns, with the space between taken up by wide paths and wheat fields.
 
-New Sahd is home to a market where permanent merchants offer the
-following trades:
+New Sahd, like the rest of the structures of Sahd, draws from real-life Japanese architecture styles. Buildings are predominantly built of quartz, with yellow terracotta foundations, spruce log trims, and slanted roofs made out of a mixture of dark oak and acacia wood.
 
-- Kelp Merchant
-    - 20 [Kelp](https://minecraft.gamepedia.com/Kelp) for 1 [Emerald](https://minecraft.gamepedia.com/Emerald)
-    - 8 [Dried Kelp](https://minecraft.gamepedia.com/Dried_Kelp) for 1 Emerald
-    - 1 Emerald for 48 Kelp
-    - 1 Emerald for 32 Dried Kelp
-- String Merchant
-    - 8 [String](https://minecraft.gamepedia.com/String) for 1 Emerald
-    - 1 Emerald for 20 String
-- Quartz Merchant
-    - 8 [Quartz Blocks](https://minecraft.gamepedia.com/Block_of_Quartz) for 1 Emerald
-    - 8 [Smooth Quartz](https://minecraft.gamepedia.com/Block_of_Quartz) Blocks for 1 Emerald
-    - 8 [Chiselled Quartz](https://minecraft.gamepedia.com/Block_of_Quartz) Blocks for 1 Emerald
-    - 8 [Quartz Pillars](https://minecraft.gamepedia.com/Block_of_Quartz) for 1 Emerald
-- Glass Merchant
-    - 8 [Glass](https://minecraft.gamepedia.com/Glass) (all colors available) for 1 Emerald
+Entering New Sahd for the first time grants the "The Forgotten City" advancement.
 
+## Layout/Points of Interest
 
-## Amenities
+![[new_sahd_map.png]]{ width="400" }
+> The in-game map of New Sahd, found near the center of the town's northern half.
 
-??? warning "Spoiler: Items & Coordinates"
-	| Coordinates     | Loot                                                                                                                                                |
-	|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-	| 4709, 81, 5827  | 1x Iron Nugget (Fragment of Hate)                                                                                                                   |
-	| 4818, 66, 5767  | 1x Compass <br>7x Paper                                                                                                                             |
-	| 4786, 66, 5750  | 3x Coal <br>2x Raw Porkchop <br>2x Raw Beef <br>1x Raw Mutton                                                                                       |
-	| 4872, 70, 5758  | 4x Emerald <br>1x Gold Nugget <br>2x Apple <br>1x Poppy                                                                                             |
-	| 4875, 66, 5756  | 1x Book and Quill (Sahd's Bloodshed) <br>4x Bread <br>6x Potato <br>3x Apple                                                                        |
-	| 4873, 66, 5758  | 1x Coal <br>2x Raw Beef <br>9x Raw Porkchop                                                                                                         |
-	| 4834, 67, 5697  | 4x Emerald <br>2x Bread <br>2x Apple <br>1x Dandelion                                                                                               |
-	| 4840, 68, 5711  | 4x Bread <br>3x Clay Ball <br>2x Stone Bricks                                                                                                       |
-	| 4834, 76, 5710  | 4x Bread <br>7x Potato <br>9x Apple <br>5x Oak Sapling                                                                                              |
-	| 4752, 67, 5743  | 5x Wheat <br>7x White Wool <br>3x Black Wool                                                                                                        |
-	| 4707, 69, 5734  | 1x Emerald <br>1x Golden Apple <br>1x Enchanted Book <br>1x Iron Sword <br>1x Iron Axe <br>3x Baked Potato <br>4x Block of Quartz <br>9x Pink Dye   |
-	| 4730, 69, 5692  | 1x Emerald <br>1x Book <br>3x Bread <br>4x Potato <br>12x Apple                                                                                     |
-	| 4730, 69, 5671  | 2x Iron Pickaxe <br>3x Diamond <br>8x Stick                                                                                                         |
-	| 4735, 71, 5656  | 1x Iron Helmet <br>1x Iron Sword <br>2x Bread                                                                                                       |
-	| 4792, 66, 5690  | 3x Emerald <br>5x Bread <br>4x Apple                                                                                                                |
-	| 4799, 68, 5662  | 1x Emerald <br>2x Coal <br>3x Barrel                                                                                                                |
-	| 4793, 71, 5660  | 1x Emerald <br>2x Flint <br>2x Stick <br>3x Feather                                                                                                 |
+New Sahd is divided into two parts by the wide river that runs from southeastern Sahd into the bay. The northern portion contains the majority of the town's buildings, as well as all of its wheat fields, while the southern portion is home to a couple larger buildings and the town's docks. The two halves are connected by a wooden bridge.
 
+### Funerary Boathouse
+
+On the southern side of New Sahd, just east of the docks, the Funerary Boathouse is built directly on the coast. This building is filled with materials for boat-building and embalming, suggesting that the residents of the town practice some kind of [ship burial](https://en.wikipedia.org/wiki/Ship_burial). 
+
+A fragment of the [[Frenzy|mythical weapon]] located on Sahd is found on the top floor of this building.
+
+### The Laughing Dragon Inn
+
+The Laughing Dragon Inn, named after [[Mari]], the [Aspect](/Lore/Higher_Beings/Aspects/) associated with Sahd and sometimes known as the Laughing Dragon, is one of the town's inns, and the only other building in southern New Sahd. The inn is relatively large, with several rooms marked by different types of plants in item frames outside of their doors. A theater is attached to the western side of the inn.
+
+There are also two [[Runic Catalyst|Runic Catalysts]] to be found in this building, in the staff quarters and theater.
+
+### The Boar's Knife
+
+The Boar's Knife is a building just north of the bridge, home to multiple animal pens and villagers, although there is not a custom trader to be found here.
+
+### Crystal Clear Glass Shop
+
+Crystal Clear Glass Shop is a building in the southeastern portion of northern New Sahd, home to the Glass Merchant, who sells various stained glass colors.
+
+### The Bee's Bunkhouse
+
+The Bee's Bunkhouse is another inn in New Sahd, although it does not have individual rooms—rather, it is home to 7 beds all pressed together against the same wall. The town's [[Cat Maps|Cat Map]] is found in this building.
+
+### Town Square
+
+New Sahd's Town Square is home to three unique merchants, stockpiles of blocks that can be used as resources, and a large gong in its center.
+
+### The Garden Tree Tavern
+
+The Garden Tree Tavern, west of the town square, is home to a kitchen and four rooms on the upper level, with one large double-bed room that holds the other Primal Cache in town.
+
+### The Purple Blade Blacksmith
+
+Located in the northwest of New Sahd, this building is home to the town's Runic Blacksmith.
+
+## Unique Villagers
+
+### Adventuring Merchant
+
+The New Sahd [[Adventuring Merchant]] is found inside a dedicated building in the east of the town, labeled with signs that read "Algosai Family Cartography" and "Algosai Family Candlemaking".
+
+**Coordinates:** (4878, 66, 5751)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 10 Scales | Sahd Map <br> ![[map_1007.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
+| 20 Scales | Bundle |
+| 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
+| 3 Scales | 12 Candles |
+
+### Runic Blacksmith
+
+The [[Runic Blacksmith]] in New Sahd is located in the Purple Blade building, in the northwest. This Runic Blacksmith offers one armor trim, Runic Amplifiers, and a total of [[Artisan Items#New Sahd|seven artisan items]], including the full 4-piece upgraded "Lazulite" diamond artisan set. Each piece of this set grants its wearer an additional +8% attack damage boost.
+
+**Coordinates:** (4734, 66, 5662)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 16 Blocks of Lapis Lazuli | Sentry Armor Trim <br> ![[sentry_armor_trim_smithing_template.png]]{ width="48" } |
+| 32 Scales <br> 4 [[Runic Catalyst|Runic Catalysts]] | Runic Amplifier |
+| Runic Amplifier <br> Diamond Helmet | *Lazulite Helmet* |
+| Runic Amplifier <br> Diamond Chestplate | *Lazulite Chestplate* |
+| Runic Amplifier <br> Diamond Leggings | *Lazulite Leggings* |
+| Runic Amplifier <br> Diamond Boots | *Lazulite Boots* |
+| 36 Scales | *Pathfinder's Vestments* |
+| 17 Scales | *Guardian's Greataxe* |
+| 30 Scales <br> 16 Obsidian | *Zedoh Tower Shield* |
+
+### Other Merchants
+
+There are 4 other permanent, unique merchants in New Sahd: three in the town square, and one in a dedicated building to the southeast.
+
+#### String Merchant
+
+The String Merchant is located in the town square, in a stall in front of the Bee's Bunkhouse. This merchant buys/sells string.
+
+**Coordinates:** (4808, 65, 5699)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 20 String | 1 Scale |
+| 1 Scale | 7 String |
+
+#### Quartz Merchant
+
+The Quartz Merchant is located in the town square, in a stall opposite the String Merchant, and sells different types of quartz blocks (not quartz itself).
+
+**Coordinates:** (4789, 65, 5701)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 1 Scale | 8 Quartz Blocks |
+| 1 Scale | 8 Smooth Quartz Blocks |
+| 1 Scale | 8 Chiseled Quartz Blocks |
+| 1 Scale | 8 Quartz Pillars |
+
+#### Kelp Merchant
+
+The Kelp Merchant is located in a stall near the town map, and buys/sells kelp and dried kelp.
+
+**Coordinates:** (4803, 65, 5719)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 48 Kelp | 1 Scale |
+| 1 Scale | 20 Kelp |
+| 32 Dried Kelp | 1 Scale |
+| 1 Scale | 8 Dried Kelp |
+
+#### Glass Merchant
+
+The Glass Merchant is located in the Crystal Clear Glass Shop in southeastern New Sahd, and sells glass and all colors of stained glass. This merchant does not sell tinted glass.
+
+**Coordinates:** (4848, 68, 5792)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 1 Scale | 8 Glass (Regular or Stained, Any Color) |
 
 ## Lore
 
-The island of Sahd was once the battground of three kingdoms: Eruis to the north, Asahn to the south, and Durui to the east. For centuries the kingdoms fought for control fo Sahd until an arcanist named Vuhsan Degre channeled all the rage of Sahd into a single blade and shattered it, scattering the fragments across the island so that the hate may never be rediscovered, Because of this, Vuhsan was praised by the people of Sahd, and united they formed new Sahd. However, the malicious tide-queen, who ruled over the coast closest to the island of Sahd, prohibited access to the island and over hundreds of years it was forgotten from the history of the realm, left in isolation.
+The exact origins of the town of New Sahd are unclear, although from its name, it can be presumed that it is the successor to a previous town that was simply known as "Sahd". Given the island's deeply war-torn history, it is possible that the old capital of Sahd was destroyed and New Sahd was erected in its place. It is also possible that New Sahd is a mixture of the three clans that once inhabited Sahd.
+
+## Extras
+
+### Soundtrack
+
+New Sahd's theme song is "The Forgotten City", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zX4cZh8Dxyw?si=46Dl39lAez5Zvlof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Merchant Respawn Commands
+
+In the event that one of the custom merchants in New Sahd is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.
+
+??? question "New Sahd Villager Respawn Commands"
+    ??? info "Runic Blacksmith"
+        `/summon minecraft:villager 4734.00 66.00 5662.50 {DeathTime: 0s, RestocksToday: 0, Xp: 10, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-15.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Runic Blacksmith"}', ArmorItems: [{}, {}, {}, {}], Tags: ["m1"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:lapis_block", Count: 16b}, sell: {id: "minecraft:sentry_armor_trim_smithing_template", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 2147483647, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, uses: 5, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:command_block", tag: {CustomModelData: 1000000, display: {Name: '{"text":"Runic Catalyst","color":"aqua","italic":false}', Lore: ['{"text":"A small, magical orb valued by"}', '{"text":"traders and arcanists. They have"}', '{"text":"several applications in both"}', '{"text":"magical creations and technology."}']}, RunicCatalyst: 1b}, Count: 4b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_helmet", tag: {display: {Name: '{"text":"Lazulite Helmet","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Blessed with potentia second only to"}', '{"text":"rehntite\'s, lapis lazuli is far softer"}', '{"text":"and easier to use. In a land where rehntite"}', '{"text":"was never found, it is uniquely precious."}', '{"text":" "}', '{"text":"When on head:","color":"gray","italic":false}', '{"text":"+8% Attack Damage","color":"blue","italic":false}', '{"text":"+3 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.08d, Operation: 1, Name: "generic.attack_damage", UUID: [I; 2011921443, -1340453545, -2102883088, -1179704164], AttributeName: "generic.attack_damage", Slot: "head"}, {Amount: 3, Operation: 0, Name: "generic.armor", UUID: [I; -102518605, 1846099983, -1284511185, -1107597353], AttributeName: "generic.armor", Slot: "head"}, {Amount: 2, Operation: 0, Name: "generic.armor_toughness", UUID: [I; -469245497, 1993427683, -1708803262, 2047400087], AttributeName: "generic.armor_toughness", Slot: "head"}]}, Count: 1b}, uses: 2, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_helmet", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_chestplate", tag: {display: {Name: '{"text":"Lazulite Chestplate","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Blessed with potentia second only to"}', '{"text":"rehntite\'s, lapis lazuli is far softer"}', '{"text":"and easier to use. In a land where rehntite"}', '{"text":"was never found, it is uniquely precious."}', '{"text":" "}', '{"text":"When on chest:","color":"gray","italic":false}', '{"text":"+8% Attack Damage","color":"blue","italic":false}', '{"text":"+8 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.08d, Operation: 1, Name: "generic.attack_damage", UUID: [I; 1838231961, -1090239009, -1593012835, 678191277], AttributeName: "generic.attack_damage", Slot: "chest"}, {Amount: 8, Operation: 0, Name: "generic.armor", UUID: [I; 2022857062, 351751209, -1299275163, 717413083], AttributeName: "generic.armor", Slot: "chest"}, {Amount: 2, Operation: 0, Name: "generic.armor_toughness", UUID: [I; -707367066, 2120893071, -1358566308, 1039724], AttributeName: "generic.armor_toughness", Slot: "chest"}]}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_chestplate", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_leggings", tag: {display: {Name: '{"text":"Lazulite Leggings","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Blessed with potentia second only to"}', '{"text":"rehntite\'s, lapis lazuli is far softer"}', '{"text":"and easier to use. In a land where rehntite"}', '{"text":"was never found, it is uniquely precious."}', '{"text":" "}', '{"text":"When on legs:","color":"gray","italic":false}', '{"text":"+8% Attack Damage","color":"blue","italic":false}', '{"text":"+6 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.08d, Operation: 1, Name: "generic.attack_damage", UUID: [I; 1533241627, -233619153, -1419542037, -1051092821], AttributeName: "generic.attack_damage", Slot: "legs"}, {Amount: 6, Operation: 0, Name: "generic.armor", UUID: [I; 1366527019, 1620001936, -1770728968, -1732466519], AttributeName: "generic.armor", Slot: "legs"}, {Amount: 2, Operation: 0, Name: "generic.armor_toughness", UUID: [I; 459713619, 1798456124, -1389539912, 580780291], AttributeName: "generic.armor_toughness", Slot: "legs"}]}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_leggings", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_boots", tag: {display: {Name: '{"text":"Lazulite Boots","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Blessed with potentia second only to"}', '{"text":"rehntite\'s, lapis lazuli is far softer"}', '{"text":"and easier to use. In a land where rehntite"}', '{"text":"was never found, it is uniquely precious."}', '{"text":" "}', '{"text":"When on feet:","color":"gray","italic":false}', '{"text":"+8% Attack Damage","color":"blue","italic":false}', '{"text":"+3 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.08d, Operation: 1, Name: "generic.attack_damage", UUID: [I; 1770173209, 744309879, -1116814553, 550190436], AttributeName: "generic.attack_damage", Slot: "feet"}, {Amount: 3, Operation: 0, Name: "generic.armor", UUID: [I; -345302523, -1915731464, -1935139448, 88450858], AttributeName: "generic.armor", Slot: "feet"}, {Amount: 2, Operation: 0, Name: "generic.armor_toughness", UUID: [I; -14961996, 1994541358, -1489192573, -2038017756], AttributeName: "generic.armor_toughness", Slot: "feet"}]}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_boots", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 36b}, sell: {id: "minecraft:diamond_chestplate", tag: {display: {Name: '{"text":"Pathfinder\'s Vestments","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Tradition mandates that a Pilgrim of the Way"}', '{"text":"must wear this ornate red and green silken robe."}', '{"text":"Despite the garment\'s awkwardness, concealed"}', '{"text":"runes ensure that brigands seek other targets."}', '{"text":" "}', '{"text":"When on chest:","color":"gray","italic":false}', '{"text":"-8 Max Health","color":"blue","italic":false}', '{"text":"+0.015 Movement Speed","color":"blue","italic":false}', '{"text":"+1 Attack Damage","color":"blue","italic":false}', '{"text":"+5 Armor","color":"blue","italic":false}', '{"text":" ","color":"yellow","italic":false}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: -8, Operation: 0, Name: "generic.max_health", UUID: [I; -1990300532, 924340010, -1256613056, 328759070], AttributeName: "generic.max_health", Slot: "chest"}, {Amount: 0.015d, Operation: 0, Name: "generic.movement_speed", UUID: [I; 1222765220, -1965473701, -1562344782, -1673710970], AttributeName: "generic.movement_speed", Slot: "chest"}, {Amount: 1, Operation: 0, Name: "generic.attack_damage", UUID: [I; 1430932132, -1142733572, -1460178854, -389873719], AttributeName: "generic.attack_damage", Slot: "chest"}, {Amount: 5, Operation: 0, Name: "generic.armor", UUID: [I; -1021300623, 1110133176, -1821824172, 399449621], AttributeName: "generic.armor", Slot: "chest"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 17b}, sell: {id: "minecraft:iron_axe", tag: {display: {Name: '{"text":"Guardian\'s Greataxe","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"With its iron head carved to look like a"}', '{"text":"Vibrant Salmon, this design had an "}', '{"text":"unflattering past but was repurposed for"}', '{"text":"use by the pilgrims\' sworn protectors."}', '{"text":" "}', '{"text":"When in main hand:","color":"gray","italic":false}', '{"text":"18 Attack Damage","color":"blue","italic":false}', '{"text":"0.3 Attack Speed","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 17, Operation: 0, Name: "generic.attack_damage", UUID: [I; -940006075, -47167697, -1673715488, -1753120958], AttributeName: "generic.attack_damage", Slot: "mainhand"}, {Amount: -3.7d, Operation: 0, Name: "generic.attack_speed", UUID: [I; 861223582, 1072645155, -2083975635, -1000984009], AttributeName: "generic.attack_speed", Slot: "mainhand"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 30b}, sell: {id: "minecraft:shield", tag: {display: {Name: '{"text":"Zedoh Tower Shield","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Though philosophies of war are as numerous as "}', '{"text":"fallen leaves in Sahd, one adage that continually "}', '{"text":"resurfaces is \\"the best offense is an impenetrable"}', '{"text":"defense\\". Shields carved to light enemies on fire"}', '{"text":"debatably prove that saying true. "}', '{"text":" "}', '{"text":"When in offhand:","color":"gray","italic":false}', '{"text":"+2 Max Health","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Enchantments: [{id: "minecraft:fire_aspect", lvl: 3s}, {id: "minecraft:unbreaking", lvl: 10s}], BlockEntityTag: {Base: 15, Patterns: [{Pattern: "cs", Color: 10}, {Pattern: "sc", Color: 0}, {Pattern: "cr", Color: 10}, {Pattern: "mc", Color: 15}], id: "minecraft:banner"}, Damage: 0, AttributeModifiers: [{Amount: 2, Operation: 0, Name: "generic.max_health", UUID: [I; 2056288065, -456241896, -1562101407, 1611261922], AttributeName: "generic.max_health", Slot: "offhand"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:obsidian", Count: 16b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:armorer", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137653756L, PortalCooldown: 0}`
+    ??? info "Adventuring Merchant"
+        `/summon minecraft:wandering_trader 4878.50 66.00 5751.50 {DeathTime: 0s, DespawnDelay: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.699999988079071d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [90.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Adventuring Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{id: "minecraft:filled_map", Count: 1b}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:emerald", Count: 10b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"Sahd Map","italic":false}', MapColor: 15750353, Lore: ['{"text":"A map of the region surrounding","color":"dark_purple"}', '{"text":"New Sahd, with markers ","color":"dark_purple"}', '{"text":"signifying important locations.","color":"dark_purple"}']}, map: 1007}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 45b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"Map of Drehmal","italic":false}', MapColor: 3290191, Lore: ['{"text":"A map of the entire continent of","color":"dark_purple"}', '{"text":"Drehmal, showing the locations","color":"dark_purple"}', '{"text":"of its towns, major rivers,","color":"dark_purple"}', '{"text":"coastlines, and more.","color":"dark_purple"}', '{"text":" "}', '{"text":"Towns & Cities:","color":"gray","italic":false}', '{"text":"New Drabyel","color":"green"}', '{"text":"Okeke","color":"yellow"}', '{"text":"Ebonrun","color":"red"}', '{"text":"Athrah","color":"gold"}', '{"text":"Fort Nimahj","color":"dark_blue"}', '{"text":"Tharxax","color":"dark_red"}', '{"text":"Mohta","color":"aqua"}', '{"text":"Gozak","color":"dark_green"}', '{"text":"Firteid","color":"dark_aqua"}', '{"text":"Mossfield","color":"blue"}', '{"text":"Highfall","color":"dark_purple"}', '{"text":"Dusps","color":"light_purple"}']}, map: 103}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond", Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:shulker_box", tag: {display: {Name: '{"text":"Runic Vessel","italic":false}', Lore: ['{"text":"An arcane crate dotted with","color":"dark_purple"}', '{"text":"magical runes. It can be used as","color":"dark_purple"}', '{"text":"a portable storage device.","color":"dark_purple"}']}, BlockEntityTag: {id: "minecraft:shulker_box", CustomName: '{"text":"Runic Vessel"}'}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:command_block", tag: {display: {Name: '{"text":"Runic Catalyst","color":"aqua","italic":false}', Lore: ['{"text":"A small, magical orb valued by"}', '{"text":"traders and arcanists. They have"}', '{"text":"several applications in both"}', '{"text":"magical creations and technology."}']}, CustomModelData: 1000000, RunicCatalyst: 1b}, Count: 12b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 20b}, sell: {id: "minecraft:bundle", tag: {display: {Lore: ['{"text":"Can store up to 64 different stackable items."}', '{"text":"While in inventory, drag and right click items"}', '{"text":"onto bundle to store inside. Right click to take"}', '{"text":"most recently stored item out of bundle."}', '{"text":"Crouch and right click while in hand to throw"}', '{"text":"out all stored items."}']}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 3b}, sell: {id: "minecraft:candle", Count: 12b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [1.0747598928594795E-7d, 0.0d, -2.836067872730835d], Fire: 0s, CanPickUpLoot: 0b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, PortalCooldown: 0}`
+    ??? info "String Merchant"
+        `/summon minecraft:villager 4808.50 65.00 5699.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {"minecraft:golem_detected_recently": {value: 1b, ttl: 600L}}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [80.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"String Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:string", Count: 20b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:string", Count: 7b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:fisherman", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1143178031L, PortalCooldown: 0}`
+    ??? info "Quartz Merchant"
+        `/summon minecraft:villager 4789.50 65.00 5701.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.armor_toughness", Base: 0.0d}, {Name: "minecraft:generic.knockback_resistance", Base: 0.0d}, {Name: "minecraft:generic.armor", Base: 0.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.follow_range", Base: 48.0d}, {Name: "minecraft:generic.attack_knockback", Base: 0.0d}], Invulnerable: 1b, Brain: {memories: {"minecraft:golem_detected_recently": {value: 1b, ttl: 600L}}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-80.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Quartz Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:quartz_block", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:smooth_quartz", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:chiseled_quartz_block", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:quartz_pillar", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:mason", level: 1}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1143178031L, PortalCooldown: 0}`
+    ??? info "Kelp Merchant"
+        `/summon minecraft:villager 4803.50 65.00 5719.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.armor_toughness", Base: 0.0d}, {Name: "minecraft:generic.knockback_resistance", Base: 0.0d}, {Name: "minecraft:generic.armor", Base: 0.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.follow_range", Base: 48.0d}, {Name: "minecraft:generic.attack_knockback", Base: 0.0d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [-170.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Kelp Merchant"}', ArmorItems: [{}, {}, {}, {}], Tags: ["vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:kelp", Count: 48b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 5, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:kelp", Count: 20b}, uses: 64, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:dried_kelp", Count: 32b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:dried_kelp", Count: 8b}, uses: 5, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:fisherman", level: 1}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1143178031L, PortalCooldown: 0}`
+	??? info "Glass Merchant"
+	    `/summon minecraft:villager 4848.50 68.00 5792.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.armor_toughness", Base: 0.0d}, {Name: "minecraft:generic.knockback_resistance", Base: 0.0d}, {Name: "minecraft:generic.armor", Base: 0.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}, {Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.follow_range", Base: 48.0d}, {Name: "minecraft:generic.attack_knockback", Base: 0.0d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-175.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Glass Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:red_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:orange_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:yellow_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:lime_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:green_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:cyan_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_blue_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:blue_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:purple_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:magenta_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:pink_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:white_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_gray_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:gray_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:black_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:brown_stained_glass", Count: 8b}, uses: 1, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:plains", profession: "minecraft:leatherworker", level: 1}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1143178039L, PortalCooldown: 0}`

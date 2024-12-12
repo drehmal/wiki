@@ -68,6 +68,15 @@ In the same wing as the surveillance room, the player can find the **avSYS Mater
     | Chthonic Rose <br> Scale x32 | Chthonic Skeleton Skull (Wither Skeleton Skull) |
     | Scale x14 <br> Glass Bottle | Arcane Bottle |
 
+In the spacewalk area, players receive the Slow Falling and Jump Boost IV effects to simulate the very low gravity around the ship. Falling off of the Aphelion during these sections will reset the player back to a checkpoint in the spacewalk, as well as giving two seconds of Blindness and Wither, taking away about 3 health.
+
+In version 2.2.2, a secret advancement was added, which can be obtained during the spacewalk section.
+
+??? warning "Secret Advancement Hint"
+    This advancement, "Coming in Hot!", is given for finding another way to enter Lo'Dahr, without dropping the tower from the Aphelion or opening one of the gateways. This does not require any particular special item, and can simply be done by falling off the ship while a certain condition is met that might allow the player to survive such a fall.
+    ??? danger "How to Obtain the Secret Advancement"
+        This advancement can be obtained by falling to Lo'Dahr from the spacewalk section with over 100 Max Health (over 5 full rows of hearts). This can be obtained through multiple different combinations of stat-boosting armor, weapons, and other items in the game, as well as through absorption hearts gained from enchanted golden apples. The player will spawn approximately 800 blocks in the air in Lo'Dahr, and come hurtling down to the ground at approximately **(X=141, Z=-343)**, along the border between [[Nahyn's Domain]] and [[Moen's Domain]]. If a player is wearing [[Avsohm'Kohl]] during the fall, that copy of the glider will be irreversibly damaged.
+
 ## Original Writing
 The Aphelion is home to the most holotexts of any single story location in Drehmal, with a whopping [16 entries](/Story_and_Features/Holotexts/75_Percent_Areas/The_Aphelion/)!
 
@@ -103,4 +112,4 @@ There is an extremely well-hidden target block in the throne room on the lowest 
 ### Trivia
 The term "*Aphelion*" is a [real English word](https://simple.wikipedia.org/wiki/Aphelion), and is a term used to refer to the furthest point in a planet's orbit from the sun. A generic term for such a point (if not orbiting the sun) is an *apsis*.
 
-[^1]: i don't have to be impartial in footnotes: if you kill the roombots, you will NOT be granted favorable reincarnation by Voynahla! Do NOT hurt them they are my friends :(
+[^1]: i don't have to be impartial in footnotes: if you kill the roombots, you will NOT be granted favorable reincarnation by Voynahla! Do NOT hurt them they are my friends >:(

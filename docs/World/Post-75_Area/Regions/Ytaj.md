@@ -637,7 +637,7 @@ Noha does not appear to have a room, also technically being an exception, althou
 
 ***
 
-Around the top of Lahrs' room, a musical staff is drawn on the walls, looping around the entire chamber. Musical notes are placed on the staff as decoration, and while these may seem like nonsensical decoration, they actually do serve a hidden purpose: playing these notes in the correct order reveals Lahrs' leitmotif, present in 5 different songs for seemingly unrelated areas.
+Around the top of Lahrs' room, a musical staff is drawn on the walls, looping around the entire chamber. Musical notes are placed on the staff, and while these may seem like nonsensical decoration, they actually do serve a hidden purpose: playing these notes in the correct order reveals Lahrs' leitmotif, present in 5 different songs for seemingly unrelated areas.
 
 ***
 

@@ -5,7 +5,7 @@ tags:
 
 --8<-- "spoiler.md"
 
-This book can be found in a chest in [[The Foundry]]. It describes the beneficial effects of Primal Khivesbrew, a potion developed by [[Red Dawn]] that significantly enhances one's speed, strength, and stamina.
+This book can be found in a chest in the [[Foundry]]. It describes the beneficial effects of Primal Khivesbrew, a potion developed by [[Red Dawn]] that significantly enhances one's speed, strength, and stamina.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

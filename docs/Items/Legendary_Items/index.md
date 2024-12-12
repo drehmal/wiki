@@ -183,7 +183,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
     | **Enchantments**              | Unbreaking X <br> Mending |
     | **Ability**                   | **Neoplasia**: "*When the wearer defeats an enemy, they briefly regenerate HP.*" |
     | **Lore**                      | A gift from an ancient traveler crafted by the hands of nature. It is made of roots that resemble Drehmal's flora but contains remnants of places beyond. |
-    | **Obtain**                    | Beneath the Primal Sapling in the [[Glade of the Giant]].   |    
+    | **Obtain**                    | Beneath the [[Primal Sapling]].   |    
 
 ### Peace Treaty
 [[Peace Treaty]] is a legendary spear found in [[Spearhead Forest]]. It is enchanted with Knockback V, and serves well as a defensive weapon.

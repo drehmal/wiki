@@ -6,6 +6,8 @@ tags:
 
 # Castle Scarstone
 
+--8<-- "under_construction.md"
+
 ![[castle_scarstone.webp]]{ align=right width="300" }
 
 Castle Scarstone is a ruined castle built primarily of slate, perched on mountains overlooking the [[North Heartwood]] at the point where the Nahynaga and Verdant ranges converge. The ruins are heavily occupied by Mihkmari. A staircase to the right of the entrance leads deep underground into a large, open cavern with step pyramid made of blackstone, atop which sits the legendary weapon One Thousand Scars. This pyramid and sword are one of the few remaining traces of the world in the First Avihm.

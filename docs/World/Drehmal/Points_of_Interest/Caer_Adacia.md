@@ -4,6 +4,8 @@ tags:
   - Points of Interest
 ---
 
+--8<-- "under_construction.md"
+
 # Caer Adacia
 
 ![[Caer_adacia.webp]]{ align=right width="300" }

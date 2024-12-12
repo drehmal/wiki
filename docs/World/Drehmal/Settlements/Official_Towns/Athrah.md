@@ -1,64 +1,180 @@
----
-tags:
-  - Locations
-  - Cities
----
-
---8<-- "spoiler.md"
-
 # Athrah
 
 ![[Athrah1.png]]{ align=right width="300" }
 
-Athrah is a [town](/Settlements) in the [[Casai]] [region](/Regions), located north of the Casai [[Towers|Tower]] across a lake.
+**Athrah** is the official town of the [[Casai]] region. It can be accessed by following the main path through Casai, from either [[Merijool]] or [[Ebonrun]]. The town sits on the northern shores of Lake Athrah, which feeds the Rai'za, the main river in Casai from the north, and is bordered by mountains to its north and east. <br> <br>
 
-Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.fandom.com/Iron_Golem). 
+!!! abstract "Location"
+    Approximate Coordinates: `-2721, 66, -1778`
 
-??? warning "Spoiler: Location"
-    Approximate Coordinates: `-2745, 66, -1749`
-	
+Athrah is a small to average-sized town in Drehmal, consisting mostly of several small buildings. These buildings are predominantly made out of red sandstone, brown concrete, terracotta, and the types of wood found in the area (mostly acacia and oak, with some jungle wood). 
+
+The town is populated entirely by [[Drehmari]], including an [[Adventuring Merchant]] and a [[Runic Blacksmith]], with a high-level blacksmith that sells Runic Amplifiers and an upgraded artisan diamond armor set.
+
+Athrah's central feature is its now-defunct teleportation dock, which once made it an incredibly lucrative center for trade. After the [[Fall of Avsohm]], however, Athrah fell into relative obscurity.
+
+Entering Athrah for the first time grants the "Jewel of Casai" advancement.
+
+## Layout/Points of Interest
+
+![[athrah_map.png]]{ width="400" }
+> The in-game map of Athrah, found near the Adventuring Merchant in the western portion of the town.
+
+Athrah has three distinct areas: the main portion of the city contains a lower level and an upper level on a hill to the north, and a collection of small huts make up the eastern slums.
+
+### Old Athrah Library
+
+The Old Athrah Library is located left (north) of the town map, built into the side of the hill. This library room contains two lore books with information surrounding the history of the region. In the western bookshelf wall, the book [[The Casain Empire]] can be found, which details the founding and early history of the [[Casain Empire]], beginning in Athrah in mid-Av2. [[Origins of the Casain]] can be found on the opposite wall, providing insight into the ethnic groups of the northwestern portion of the continent.
+
+### Old Athrah Teleportation Dock
+
+A large dock surrounded by red sandstone rings is found in Athrah, south of the proper town. This structure, which was once used to ship items throughout the realm, no longer functions, but there are still some stockpiles of resources such as hay bales, melons, slime blocks, and redstone on the pier. A ship at the edge of the dock contains the town's [[Cat Maps|Cat Map]].
+
+### East Bank Slums
+
+On the eastern shore of the lake, separate from the rest of the town proper, a few small, open huts are found. These are the eastern slums of Athrah, where the town's lower class resided.
+
+### The Sandy Bunk
+
+The Sandy Bunk is Athrah's inn, northeast of the town map on the lower level. Its Primal Cache is found just inside the door.
+
+### Athrah Market
+
+A small series of interconnected buildings on the upper level, connected by a single yellow/orange wool canopy, serves as Athrah's marketplace, home to its unique permanent merchants.
+
+### Athrah Graveyard
+
+A small graveyard with gravestones of various stone types is found in the northeast of Athrah, at the base of the mountains surrounding the town. None of the smaller graves contain any items, but there is a small cave to the east of the graveyard with a large, custom skull, which does have a buried chest containing a chthonic rose.
+
+### Other Original Writing
+
+[[Letter from a Faraway Land]] is found on the top floor of a house in Athrah, and a different house closer to the water holds [[The White Vault]], which hints at the location of the [[Avsohmic Vault]].
+
+## Unique Villagers
+
+### Adventuring Merchant
+
+The Athrah [[Adventuring Merchant]] is found under a signature orange/red wool tent attached to a wooden cart, south of the town map.
+
+**Coordinates:** (-2728, 66, -1764)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 10 Scales | Casai Map <br> ![[map_150.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
+| 20 Scales | Bundle |
+| 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
+| 1 Scale | 12 Orderflame Torches |
+
+### Runic Blacksmith
+
+The [[Runic Blacksmith]] in Athrah is located beneath a small blue tent next to a furnace, due east of the Adventuring Merchant. This Runic Blacksmith offers a total of [[Artisan Items#Athrah|eight artisan items]], including a full 4-piece upgraded diamond artisan set, the Rejuvenating Set. Each piece of this set adds +20% Max Health, but takes away 0.01 Movement Speed.
+
+**Coordinates:** (-2694, 66, -1765)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 16 Copper Ingots | Host Armor Trim <br> ![[host_armor_trim_smithing_template.png]]{ width="48" } |
+| 32 Scales <br> 4 [[Runic Catalyst|Runic Catalysts]] | Runic Amplifier |
+| Runic Amplifier <br> Diamond Helmet | *Rejuvenating Helmet* |
+| Runic Amplifier <br> Diamond Chestplate | *Rejuvenating Chestplate* |
+| Runic Amplifier <br> Diamond Leggings | *Rejuvenating Leggings* |
+| Runic Amplifier <br> Diamond Boots | *Rejuvenating Boots* |
+| 16 Scales | *Chime Anklets* |
+| 23 Scales | *Carillon Rod* |
+| 20 Scales | *Bellmet* |
+| 34 Scales <br> 8 Blocks of Gold | *Vow of Loyalty* |
+
+### Other Merchants
+
+Athrah's three other permanent merchants are found in booths in the market, on the upper level.
+
+#### Acacia Merchant
+
+The Acacia Merchant sells acacia wood and saplings.
+
+**Coordinates:** (-2714, 77, -1833)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 1 Scale    | 5 Acacia Logs |
+| 1 Scale    | 2 Acacia Saplings | 
+
+#### Copper Merchant
+
+The Copper Merchant buys and sells copper ingots.
+
+**Coordinates:** (-2711, 77, -1825)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 16 Copper Ingots  | 1 Scale |
+| 1 Scale    | 8 Copper Ingots | 
+
+#### Terracotta Merchant
+
+The Terracotta Merchant sells all colors of terracotta.
+
+**Coordinates:** (-2708, 77, -1832)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 1 Scale    | 8 Terracotta |
+| 1 Scale    | 8 White Terracotta |
+| 1 Scale    | 8 Orange Terracotta |
+| 1 Scale    | 8 Magenta Terracotta |
+| 1 Scale    | 8 Light Blue Terracotta |
+| 1 Scale    | 8 Yellow Terracotta |
+| 1 Scale    | 8 Lime Terracotta |
+| 1 Scale    | 8 Pink Terracotta |
+| 1 Scale    | 8 Gray Terracotta |
+| 1 Scale    | 8 Light Gray Terracotta |
+| 1 Scale    | 8 Cyan Terracotta |
+| 1 Scale    | 8 Purple Terracotta |
+| 1 Scale    | 8 Blue Terracotta |
+| 1 Scale    | 8 Brown Terracotta |
+| 1 Scale    | 8 Green Terracotta |
+| 1 Scale    | 8 Red Terracotta |
+| 1 Scale    | 8 Black Terracotta |
+
 ## Lore
 
-Athrah is a bustling city of stark contrasts in the north of the Casain Peninsula. The cityscape contains a network of wealthy homes and slums, surrounding two central squares and a defunct teleportation pier, put into place millennia ago during the reign of Avsohm. It was founded in Av2 1189 and served as the capital and primate city of Casai ever since. It acted as the headquarters of the Casain colonial superpower for several decades, and remained influential under the rule of Avsohm. It was temporarily abandoned after Maelihs' conquest of the West, but was recaptured and repopulated during the time of Insohm, acting as the capital of the new Casain state, New Casai.
+Per "[[The Casain Empire]]", Athrah was founded by Casain leader [[Athrah Zarha]] in Av2 1189, as the first effort to centralize power in Casai, and would eventually become the seat of power from which Zarha and his successors would rule over the [[Casain Empire]]. Athrah grew in influence over time, forcing neighboring Casain tribes to join the empire through small, contained battles and trade embargoes, eventually forming the empire in Av2 1255. Athrah remained the regional center of power through much of the Second Avihm, and appears to have flourished under [[Avsohm]], with its teleportation dock likely being derived from Avsohmic warp technologies. The disappearance of the empire may therefore have been the cause for the teleportation pier's fall into disuse.
 
-## Unique Merchants and Villagers
+Early Av3 also saw a mass exodus from Casai, with Drehmari at the edge of the west fleeing the impending conquest of the [[Empire of Maelihs]]. Coming immediately after the [[Fall of Avsohm]], this mass exodus likely brought about the rapid end of Athrah as a wealthy, important location on the continent.
 
-Athrah is home to a market where permanent merchants offer the following trades:
+Like the rest of Casai, [[Voynahla]] worship appears to have been prevalent in Athrah, and is likely still the dominant religion among its modern inhabitants.
 
-* Terracotta Merchant
-	* 8 Terracotta (all colors available) for 1 Emerald
-* Gold Merchant
-	* 1 Gold Ingot for 1 Emerald
-	* 1 Emerald for 3 Gold Ingots
-* Acacia Merchant
-	* 4 Acacia Logs for 1 Emerald
-	* 2 Acacia Saplings for 1 Emerald
-	* 1 Emerald for 12 Acacia Logs
-	
-## Amenities
+## Extras
 
-??? warning "Spoiler: Items & Coordinates"
-    | Coordinates       | Loot                                                                                                              |
-    |-------------------|-------------------------------------------------------------------------------------------------------------------|
-    | -2696, 64, -1744  | 1x Book and Quil ([[The White Vault]]) <br>9x Bread <br>7x Wheat <br>3x Cactus <br>3x Dead Bush                       |
-    | -2704, 71, -1769  | 4x Bread <br>6x Wheat <br>4x Cactus <br>3x Dead Bush                                                              |
-    | -2685, 70, -1766  | 1x Emerald <br>2x Iron Ingot                                                                                      |
-    | -2667, 70, -1770  | 1x Golden Horse Armor <br>1x Iron Sword <br>1x Iron Pickaxe <br>1x Iron Chestplate <br>7x Obsidian <br>1x Bread   |
-    | -2700, 70, -1782  | 1x Emerald <br>4x Bread <br>3x Clay Ball <br>1x Stone Brick <br>1x Smooth Stone                                   |
-    | -2703, 70, -1793  | 2x Emerald <br>3x Bread <br>6x Rotten Flesh                                                                       |
-    | -2682, 70, -1792  | 3x Egg <br>3x Flint <br>3x Stick <br>3x Feather                                                                   |
-    | -2748, 70, -1777  | 3x Emerald <br>1x Leather Tunic                                                                                   |
-    | -2738, 70, -1801  | 2x Emerald <br>2x Leather Boots <br>8x Bread                                                                      |
-    | -2725, 54, -1826  | 1x Book and Quill (The Casain Empire)                                                                             |
-    | -2710, 53, -1834  | 1x Book and Quill (Origins of the Casain)                                                                         |
-    | -2687, 77, -1836  | 6x Cactus <br>1x Clay Ball                                                                                        |
-    | -2680, 81, -1818  | 8x White Wool <br>2x Light Gray Wool <br>3x Gray Wool <br>1x Brown Wool                                           |
-    | -2663, 81, -1830  | 1x Wheat <br>7x Raw Beef <br>3x Raw Mutton                                                                        |
-	
-## The People of Casai
+### Soundtrack
 
-The people of Casai are descendants of Ebonfolk, a tribe that inhabited the present day Ebony Veldt. Neighboring the tribes of Merijool and Tharhan, there was much interaction between the peoples. Specific areas of the Casai region proved optimal for large agricultural systems, allowing Casain civilization to advance quickly, soon forming governments and kingdoms. Known as the Jewel of Casai, Athrah was once a busting trade city due to the presence of a teleportation pier that allowed ships from across the realm to reach the city with ease. Founded in Av2 1189 by Casain warrior Athrah Zarah, the city was the first step towards a massive kingdom that would spread across Casai. This goal was achieved in Av2 1255 when nearly all of Casain had joined Athrah, forming the Casain empire. In Av2 1445 the Cassain engaged in, and was defeated in, their first war, fought against the tribes of Western Merijool over the plains south of Zephyr Sound. Since the war, tension has existed between Merijool and Casai. Following the loss of the Zephyr Plains, The Cassain Empire expanded south to the Golden Sands region (present day of Anyr'Nogur), allowing access to the Sea of Mael and giving the Empire the opportunity to grow as a fishing nation. Slowly Casai grew, strengthening their economy and military. creating the golden age of the empire. Soonafter in Av2 1472, Casai declared war on Tharhan for control over Mt. Ebonfire, but was quickly defeated, decimating Casai's military and economy, and causing tension within the Casain Empire, leading to t acivil war in Av2 1534 and the eventual separation of those inhabiting the Golden Sands.
+Athrah's theme song is "Jewel of Casai", by Drehmal composer Chris Nesja.
 
-In Av3, following the fall of the Avsohmic empire, Maelihs set out to conquer the west of Drehmal. Many remained skeptical until previously casai-ruled Sal'Anyr in Anyr'Nogur was captured. This forced many inhabitants of Casai, Athrah included to migrate east, with many ending in Aklo'Rohma.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQRxDYWAdj8?si=08X3Nqu2_z-wkM5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-An ancient Avsohmic vault was discovered west of Athrah during the Insohmic rule. Insohmic councilman Ultva, obsessed with learning the secrets of Avsohm's technology, locked himself in the vault after being driven insane searching for answers. 
+### Merchant Respawn Commands
+
+In the event that one of the custom merchants in Athrah is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.
+
+??? question "Athrah Villager Respawn Commands"
+    ??? info "Runic Blacksmith"
+        `/summon minecraft:villager -2693.50 66.00 -1764.50 {DeathTime: 0s, RestocksToday: 0, Xp: 17, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Rotation: [90.0f, 0.0f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Runic Blacksmith"}', ArmorItems: [{}, {}, {}, {}], Tags: ["m1", "vt_immune"], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:copper_ingot", Count: 16b}, sell: {id: "minecraft:host_armor_trim_smithing_template", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 2147483647, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, uses: 5, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:command_block", tag: {display: {Name: '{"text":"Runic Catalyst","color":"aqua","italic":false}', Lore: ['{"text":"A small, magical orb valued by"}', '{"text":"traders and arcanists. They have"}', '{"text":"several applications in both"}', '{"text":"magical creations and technology."}']}, CustomModelData: 1000000, RunicCatalyst: 1b}, Count: 4b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_helmet", tag: {display: {Name: '{"text":"Rejuvenating Helmet","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This ambitious piece is outfitted with"}', '{"text":"large, bulky healing runes carved on"}', '{"text":"a mysterious metal. Though it is no"}', '{"text":"Avsohmic armor in form, its Athrahn"}', '{"text":"creator did capture some function."}', '{"text":" "}', '{"text":"When on head:","color":"gray","italic":false}', '{"text":"+20% Max Health","color":"blue","italic":false}', '{"text":"-0.01 Movement Speed","color":"blue","italic":false}', '{"text":"+3 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 3, Operation: 0, Slot: "head", UUID: [I; 752777358, -895989640, -1731412742, -700126861], AttributeName: "generic.armor", Name: "generic.armor"}, {Amount: 2, Operation: 0, Slot: "head", UUID: [I; 1138726809, 794312824, -1984868206, 1429396621], AttributeName: "generic.armor_toughness", Name: "generic.armor_toughness"}, {Amount: 0.2d, Operation: 1, Slot: "head", UUID: [I; 227361844, -1533194516, -2127447381, -1328788036], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: -0.01d, Operation: 0, Slot: "head", UUID: [I; 1512430167, -275103022, -1690517127, -425920413], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}]}, Count: 1b}, uses: 3, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_helmet", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_chestplate", tag: {display: {Name: '{"text":"Rejuvenating Chestplate","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This ambitious piece is outfitted with"}', '{"text":"large, bulky healing runes carved on"}', '{"text":"a mysterious metal. Though it is no"}', '{"text":"Avsohmic armor in form, its Athrahn"}', '{"text":"creator did capture some function."}', '{"text":" "}', '{"text":"When on body:","color":"gray","italic":false}', '{"text":"+20% Max Health","color":"blue","italic":false}', '{"text":"-0.01 Movement Speed","color":"blue","italic":false}', '{"text":"+8 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 8, Operation: 0, Slot: "chest", UUID: [I; 468749293, -1269216546, -1651458633, 89618524], AttributeName: "generic.armor", Name: "generic.armor"}, {Amount: 2, Operation: 0, Slot: "chest", UUID: [I; -1532281546, -1877850491, -1468011917, 1835594458], AttributeName: "generic.armor_toughness", Name: "generic.armor_toughness"}, {Amount: 0.2d, Operation: 1, Slot: "chest", UUID: [I; -171875871, -1739764627, -2078186176, -1759167016], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: -0.01d, Operation: 0, Slot: "chest", UUID: [I; 1306071004, 1070812753, -2077887632, 1796182862], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}]}, Count: 1b}, uses: 2, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_chestplate", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_leggings", tag: {display: {Name: '{"text":"Rejuvenating Leggings","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This ambitious piece is outfitted with"}', '{"text":"large, bulky healing runes carved on"}', '{"text":"a mysterious metal. Though it is no"}', '{"text":"Avsohmic armor in form, its Athrahn"}', '{"text":"creator did capture some function."}', '{"text":" "}', '{"text":"When on legs:","color":"gray","italic":false}', '{"text":"+20% Max Health","color":"blue","italic":false}', '{"text":"-0.01 Movement Speed","color":"blue","italic":false}', '{"text":"+6 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 6, Operation: 0, Slot: "legs", UUID: [I; 514976869, -1738190866, -1931639368, 715555069], AttributeName: "generic.armor", Name: "generic.armor"}, {Amount: 2, Operation: 0, Slot: "legs", UUID: [I; 1566466132, 2087666214, -1737066281, -2060036073], AttributeName: "generic.armor_toughness", Name: "generic.armor_toughness"}, {Amount: 0.2d, Operation: 1, Slot: "legs", UUID: [I; 1908620377, -1823194950, -1204550846, -169565221], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: -0.01d, Operation: 0, Slot: "legs", UUID: [I; 1851243877, 1649037263, -1943504367, 1316322681], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}]}, Count: 1b}, uses: 2, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_leggings", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:command_block", tag: {CustomModelData: 1000018, runic_amplifier: 1b, display: {Name: '{"text":"Runic Amplifier","color":"aqua","italic":false}', Lore: ['{"text":"A small device powered by Runic"}', '{"text":"Catalysts. In the hands of a "}', '{"text":"skilled artisan, it can be used"}', '{"text":"to supercharge inscribed runes,"}', '{"text":"effectively tripling the potentia"}', '{"text":"of the material they are carved "}', '{"text":"upon."}']}}, Count: 1b}, sell: {id: "minecraft:diamond_boots", tag: {display: {Name: '{"text":"Rejuvenating Boots","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This ambitious piece is outfitted with"}', '{"text":"large, bulky healing runes carved on"}', '{"text":"a mysterious metal. Though it is no"}', '{"text":"Avsohmic armor in form, its Athrahn"}', '{"text":"creator did capture some function."}', '{"text":" "}', '{"text":"When on feet:","color":"gray","italic":false}', '{"text":"+20% Max Health","color":"blue","italic":false}', '{"text":"-0.01 Movement Speed","color":"blue","italic":false}', '{"text":"+3 Armor","color":"blue","italic":false}', '{"text":"+2 Armor Toughness","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 3, Operation: 0, Slot: "feet", UUID: [I; 503052494, -1233631476, -1848528514, 1932849969], AttributeName: "generic.armor", Name: "generic.armor"}, {Amount: 2, Operation: 0, Slot: "feet", UUID: [I; 195919120, -786018680, -1549925914, 1516646885], AttributeName: "generic.armor_toughness", Name: "generic.armor_toughness"}, {Amount: 0.2d, Operation: 1, Slot: "feet", UUID: [I; 2041457342, 346440512, -1549616972, 323187914], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: -0.01d, Operation: 0, Slot: "feet", UUID: [I; 2108670400, -1048228572, -1688948728, 643037563], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}]}, Count: 1b}, uses: 2, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond_boots", tag: {Damage: 0}, Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 16b}, sell: {id: "minecraft:leather_boots", tag: {display: {color: 16764982, Name: '{"text":"Chime Anklets","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This traditional Casain martial arts"}', '{"text":"footwear allows the user to move with"}', '{"text":"intention and rhythm in combat. High"}', '{"text":"level duels sound more like an energetic"}', '{"text":"duet than a fight."}', '{"text":" "}', '{"text":"When on feet:","color":"gray","italic":false}', '{"text":"-15% Max Health","color":"blue","italic":false}', '{"text":"+15% Attack Damage","color":"blue","italic":false}', '{"text":"+2 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:unbreaking", lvl: 5s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: -0.15d, Operation: 1, Slot: "feet", UUID: [I; -13071273, -1457569378, -1944722933, -1955961361], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: 0.15d, Operation: 1, Slot: "feet", UUID: [I; 1043518542, 186075816, -1218282996, 1422714916], AttributeName: "generic.attack_damage", Name: "generic.attack_damage"}, {Amount: 2, Operation: 0, Slot: "feet", UUID: [I; 941105596, 872107006, -1571237334, -418679394], AttributeName: "generic.armor", Name: "generic.armor"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 4, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 23b}, sell: {id: "minecraft:fishing_rod", tag: {Enchantments: [{id: "minecraft:lure", lvl: 4s}], display: {Name: '{"text":"Carillon Rod","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"This ingenious rod needs no bait. Instead,"}', '{"text":"when a lever is spun, tiny chimes play which"}', '{"text":"somehow attract the fish of the Rai\'za"}', '{"text":"directly to the fisher\'s hook."}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Damage: 0, HideFlags: 2}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 20b}, sell: {id: "minecraft:golden_helmet", tag: {display: {Name: '{"text":"Bellmet","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"The Harzeva family is well-known for"}', '{"text":"making the greatest bells in the realm."}', '{"text":"This burnished helmet marks the first"}', '{"text":"time they have taken their techniques"}', '{"text":"to the battlefield. It is unexpectedly"}', '{"text":"comfortable and effective."}', '{"text":" "}', '{"text":"When on head:","color":"gray","italic":false}', '{"text":"+6 Max Health","color":"blue","italic":false}', '{"text":"-0.01 Movement Speed","color":"blue","italic":false}', '{"text":"+2 Armor","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, Enchantments: [{id: "minecraft:unbreaking", lvl: 8s}], HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 2, Operation: 0, Slot: "head", UUID: [I; -1407033059, 1888110198, -1261294159, -140884608], AttributeName: "generic.armor", Name: "generic.armor"}, {Amount: 6, Operation: 0, Slot: "head", UUID: [I; 2068486043, -1680913159, -1151435786, -128012649], AttributeName: "generic.max_health", Name: "generic.max_health"}, {Amount: -0.01d, Operation: 0, Slot: "head", UUID: [I; -1217969577, -1394193776, -1418849805, 1605519996], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}]}, Count: 1b}, uses: 1, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 34b}, sell: {id: "minecraft:golden_boots", tag: {display: {Name: '{"text":"Vow of Loyalty","color":"yellow","italic":false,"underlined":true}', Lore: ['{"text":"Chieftain Havehz instructed her master artificers"}', '{"text":"to condition the sale of their greatest works on"}', '{"text":"a written promise to make Casai one\'s home and to"}', '{"text":"defend it in times of great need, no matter how"}', '{"text":"far one must travel. These boots make the latter"}', '{"text":"condition far less burdensome."}', '{"text":" "}', '{"text":"When on feet:","color":"gray","italic":false}', '{"text":"-8 Max Health","color":"blue","italic":false}', '{"text":"+0.04 Movement Speed","color":"blue","italic":false}', '{"text":" "}', '{"text":"Artisan","color":"yellow","italic":false}']}, HideFlags: 2, Damage: 0, AttributeModifiers: [{Amount: 0.04d, Operation: 0, Slot: "feet", UUID: [I; -1871902353, -1770438344, -1596686425, -1473578437], AttributeName: "generic.movement_speed", Name: "generic.movement_speed"}, {Amount: -8, Operation: 0, Slot: "feet", UUID: [I; 1061887784, -417052591, -1716502191, 936155550], AttributeName: "generic.max_health", Name: "generic.max_health"}]}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 1b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:gold_block", Count: 8b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:armorer", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1137699264L, PortalCooldown: 0}`
+    ??? info "Adventuring Merchant"
+        `/summon minecraft:wandering_trader -2727.50 66.00 -1763.50 {DeathTime: 0s, DespawnDelay: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.699999988079071d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [180.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Adventuring Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{id: "minecraft:filled_map", Count: 1b}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:emerald", Count: 10b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"Casai Map","italic":false}', MapColor: 16731983, Lore: ['{"text":"A map of the region surrounding","color":"dark_purple"}', '{"text":"Athrah, with markers signifying","color":"dark_purple"}', '{"text":"important locations.","color":"dark_purple"}']}, map: 150}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 45b}, sell: {id: "minecraft:filled_map", tag: {display: {Name: '{"text":"Map of Drehmal","italic":false}', MapColor: 3290191, Lore: ['{"text":"A map of the entire continent of","color":"dark_purple"}', '{"text":"Drehmal, showing the locations","color":"dark_purple"}', '{"text":"of its towns, major rivers,","color":"dark_purple"}', '{"text":"coastlines, and more.","color":"dark_purple"}', '{"text":" "}', '{"text":"Towns & Cities:","color":"gray","italic":false}', '{"text":"New Drabyel","color":"green"}', '{"text":"Okeke","color":"yellow"}', '{"text":"Ebonrun","color":"red"}', '{"text":"Athrah","color":"gold"}', '{"text":"Fort Nimahj","color":"dark_blue"}', '{"text":"Tharxax","color":"dark_red"}', '{"text":"Mohta","color":"aqua"}', '{"text":"Gozak","color":"dark_green"}', '{"text":"Firteid","color":"dark_aqua"}', '{"text":"Mossfield","color":"blue"}', '{"text":"Highfall","color":"dark_purple"}', '{"text":"Dusps","color":"light_purple"}']}, map: 103}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:diamond", Count: 1b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 32b}, sell: {id: "minecraft:shulker_box", tag: {display: {Name: '{"text":"Runic Vessel","italic":false}', Lore: ['{"text":"An arcane crate dotted with","color":"dark_purple"}', '{"text":"magical runes. It can be used as","color":"dark_purple"}', '{"text":"a portable storage device.","color":"dark_purple"}']}, BlockEntityTag: {id: "minecraft:shulker_box", CustomName: '{"text":"Runic Vessel"}'}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:command_block", tag: {display: {Name: '{"text":"Runic Catalyst","color":"aqua","italic":false}', Lore: ['{"text":"A small, magical orb valued by"}', '{"text":"traders and arcanists. They have"}', '{"text":"several applications in both"}', '{"text":"magical creations and technology."}']}, CustomModelData: 1000000, RunicCatalyst: 1b}, Count: 12b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 20b}, sell: {id: "minecraft:bundle", tag: {display: {Lore: ['{"text":"Can store up to 64 different stackable items."}', '{"text":"While in inventory, drag and right click items"}', '{"text":"onto bundle to store inside. Right click to take"}', '{"text":"most recently stored item out of bundle."}', '{"text":"Crouch and right click while in hand to throw"}', '{"text":"out all stored items."}']}}, Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:soul_torch", Count: 12b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], Fire: 0s, CanPickUpLoot: 0b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, PortalCooldown: 0}`
+    ??? info "Acacia Merchant"
+        `/summon minecraft:villager -2713.50 77.00 -1832.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-10.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Acacia Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:acacia_log", Count: 5b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 0, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:acacia_sapling", Count: 2b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:fletcher", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1142791690L, PortalCooldown: 0}`
+    ??? info "Copper Merchant"
+        `/summon minecraft:villager -2710.50 77.00 -1824.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 1b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-176.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Copper Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:copper_ingot", Count: 16b}, sell: {id: "minecraft:emerald", Count: 1b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:copper_ingot", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.0d, 0.0d, 0.0d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:armorer", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1142791690L, PortalCooldown: 0}`
+    ??? info "Terracotta Merchant"
+        `/summon minecraft:villager -2707.50 77.00 -1831.50 {DeathTime: 0s, RestocksToday: 0, Xp: 0, LeftHanded: 0b, OnGround: 0b, AbsorptionAmount: 0.0f, FoodLevel: 0b, LastRestock: 0L, Attributes: [{Name: "minecraft:generic.max_health", Base: 20.0d}, {Name: "minecraft:generic.movement_speed", Base: 0.5d}], Invulnerable: 1b, Brain: {memories: {}}, Age: 0, HandDropChances: [0.085f, 0.085f], Rotation: [-10.0f, 0.0f], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], HurtByTimestamp: 0, ForcedAge: 0, CustomName: '{"text":"Terracotta Merchant"}', ArmorItems: [{}, {}, {}, {}], Air: 300s, HandItems: [{}, {}], NoAI: 1b, Offers: {Recipes: [{xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:white_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:orange_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:magenta_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_blue_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:yellow_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:lime_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:pink_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:gray_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:light_gray_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:cyan_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:purple_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:blue_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:brown_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:green_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:red_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}, {xp: 1, buy: {id: "minecraft:emerald", Count: 1b}, sell: {id: "minecraft:black_terracotta", Count: 8b}, uses: 0, priceMultiplier: 0.0f, maxUses: 9999999, rewardExp: 0b, demand: 0, specialPrice: 0, buyB: {id: "minecraft:air", Count: 0b}}]}, Inventory: [], Gossips: [], FallDistance: 0.0f, NoGravity: 1b, Motion: [0.07858285139641315d, 0.0d, 2.2747520939814394d], VillagerData: {type: "minecraft:savanna", profession: "minecraft:mason", level: 99}, Fire: 0s, CanPickUpLoot: 1b, Health: 20.0f, HurtTime: 0s, FallFlying: 0b, PersistenceRequired: 1b, LastGossipDecay: 1142791690L, PortalCooldown: 0}`

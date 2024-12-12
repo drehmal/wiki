@@ -95,8 +95,14 @@ On an island off the region's south eastern coast is a monastery/library that wa
 
 **Coordinates:** (X: 4805, Y: 122, Z: 4567)
 
-### [[Teiruun Monastery]]
+### Teiruun Monastery
 
-Teiruun Monastery is a towering complex filled with hostile Virtuo-worshiping [[Drehmari]] priors and monks, located high in the Verdant Mountains to the northeast of the Black Jungle. The monastery's Parish secretly experimented with ways of potentially converting Drehmari into [[Virmari]], without the direct intervention of the Goddess herself.
+[[Teiruun Monastery]] is a towering complex filled with hostile Virtuo-worshiping [[Drehmari]] priors and monks, located high in the Verdant Mountains to the northeast of the Black Jungle. The monastery's Parish secretly experimented with ways of potentially converting Drehmari into [[Virmari]], without the direct intervention of the Goddess herself.
  
 **Coordinates:** (X: 5618, Y: 174, Z: 2974)
+
+### Virtuo Statue
+
+Along the mountainous northern edge of the Black Jungle, a colossal statue of [[Virtuo]]'s likeness is carved into the mountainside. An altar at its base contains offerings to the Goddess, and some valuable loot can be found in the lantern Virtuo holds.
+
+**Coordinates:** (X: 4167, Y: 93, Z: 2503)

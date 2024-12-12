@@ -1,7 +1,6 @@
 ---
 tags:
   - Books
-  - Devotion Books
 ---
 
 # Getting Warmer?

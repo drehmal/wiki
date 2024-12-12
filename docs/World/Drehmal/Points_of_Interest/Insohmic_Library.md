@@ -6,6 +6,8 @@ tags:
 
 # Insohmic Library
 
+--8<-- "under_construction.md"
+
 ![[Insohmic_library.webp]]{ align=right width="300" }
 
 **The Insohmic Library** (or Old Library Tower) is a ruined tower in the [[Spearhead Forest]] region, located on the eastern coast of [[Mossfield]].

@@ -5,6 +5,8 @@ tags:
 
 # Primal Caverns
 
+--8<-- "under_construction.md"
+
 ![[Primal_caverns.webp]]{ align=right width="300" }
 
 The Primal Caverns, also known as the Chamber of Dreams, is the resting place of Drehmal.

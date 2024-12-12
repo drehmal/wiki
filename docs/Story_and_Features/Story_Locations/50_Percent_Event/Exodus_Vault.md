@@ -61,7 +61,7 @@ In addition, there are 4 lore books found at this location: <br>
 - [[Gokoh's Victory Lap]] contains the gloating of Gokoh, a Blue Exodus sergeant, whose colossal weapons have been approved for use aboard the Aphelion. <br>
 - [[Kovis's Hypothesis]] is written by a [[Kovis|Blue Exodus staffer]], and contains a mix of known facts and speculation on an Avsohmic device known as the Resonant Eye, which becomes a pertinent part of the later story. <br>
 - [[Musings of Kahmas]] is written by General [[Kahmas Tuhs]], and contains some of the general's second thoughts regarding Avsohmic expansion. <br>
-- [[Water-Damaged Letter]] is written by an unnamed deliveryperson who worked between the vault and [[The Foundry]], detailing some of the increased military presence in and around the vault at the time of writing.
+- [[Water-Damaged Letter]] is written by an unnamed deliveryperson who worked between the vault and the [[Foundry]], detailing some of the increased military presence in and around the vault at the time of writing.
 
 ## Lore
 The Exodus Vault was the headquarters of Blue Exodus during Avsohm's reign. It was considered among the most secure locations in the empire, containing a significant amount of Blue Exodus' machinery and personnel. While the Exodus Vault has always been entirely underground, it was even harder to find in Avsohm's era, as the Exodus Citadel outside of it used to be at the bottom of Lake Nimahj. Personnel who worked within the Citadel were not allowed to visit the vault unless given explicit permission.

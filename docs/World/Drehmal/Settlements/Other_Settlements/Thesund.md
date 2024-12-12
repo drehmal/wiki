@@ -4,7 +4,7 @@ tags:
     - Cities
 ---
 
-# Dusps
+# Thesund
 
 ![[Thesund1.webp]]{ align=right width="300" }
 
@@ -12,14 +12,14 @@ Thesund is a small [village](/Settlements) in the [[Capital Valley]] [region](/R
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem). 
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `-339, 703`
 
 ## Unique Merchants and Villagers
 
 Thesund is home to a market where permanent merchants offer the following trades:
 
-- **[[Artisan Items#Thesund Runic Blacksmith]]**
+- **[[Artisan Items#Thesund|Thesund Runic Blacksmith]]**
     - Upgrade Leather Horse Armor to Hefty Barding for 8 Scales
     - Upgrade Leather Horse Armor to War Barding for 12 Scales
 

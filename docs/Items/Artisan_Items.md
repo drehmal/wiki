@@ -4,6 +4,31 @@ Artisan items are special items with custom names, descriptions, stat modifiers,
 
 Artisan items are denoted by a yellow "Artisan" text in their item description.
 
+## Artisan Armor Sets
+
+At [official towns](/World/Drehmal/Settlements/Official_Towns/), Runic Blacksmiths sell complete sets of artisan armor, which provides a uniform stat boost for each piece worn. These artisan sets vary in quality and material based on how far in the game they are meant to be accessed. Towns closer to the center of the map generally sell weaker armor sets (chainmail or iron), while the furthest towns sell enhanced diamond artisan armor sets, which require Runic Amplifiers to purchase.
+
+A list of artisan sets and their stat bonuses is found in the dropdown table below.
+
+??? warning "All Artisan Armor Sets"
+    |   **Town**  | **Set Name** | **Material** | **Stats/Boosts** |
+    |:-----------:|:------------:|:------------:|:----------------:|
+    | [[Athrah]]  | Rejuvenating Set | Diamond  | +20% Max Health, -0.01 Movement Speed per piece worn, stacking up to +80% Max Health, -0.04 Movement Speed with full set. |
+    | [[Drabyel]] | Set of Neutrality | Leather | Despite being leather, each piece of this set has decent armor, and adds +1 armor toughness when worn. |
+    | [[Dusps]]   | Floral Set   | Iron  | +6% Attack Speed per piece worn, stacking up to 24% Attack Speed with full set. |
+    | [[Ebonrun]] | Fortified Set | Iron | +8% Max Health per piece worn, stacking up to +32% Max Health with full set. |
+    | [[Firteid]] | Superheated Set | Diamond | -3 Max Health, +2 Attack Damage per piece worn, stacking up to -12 Max Health (-6 Hearts) and +8 Attack Damage with full set. |
+    | [[Fort Nimahj]] | Survivor's Set | Iron | +4% Max Health, +4% Movement Speed, +4% Attack Speed per piece worn, stacking up to +16% of each with full set. |
+    | [[Gozak]] | Barbed Set | Iron | All come enchanted with Thorns IV, and grant +0.4 Attack Speed per piece worn, stacking up to +1.6 Attack Speed with full set. |
+    | [[Highfall]] | Pale Steel Set | Diamond | Each piece of this armor grants +2 Armor Toughness when worn, and adds 0.01 Movement Speed, stacking up to 0.04 Movement Speed with full set. |
+    | [[Mohta]] | Amphibious Set | Chainmail | Comes with various enchantments, and each piece adds +20% Knockback Resistance, up to +80% Knockback Resistance with full set. |
+    | [[Mossfield]] | Messenger's Set | Iron | +10% Movement Speed per piece worn, stacking up to +40% Movement Speed with full set. |
+    | [[Naharja]] | Vivid Set | Diamond | All pieces come enchanted with Unbreaking III, and add +2 Armor Toughness. +12% Armor per piece worn, stacking up to +48% Armor with full set. |
+    | [[New Sahd]] | Lazulite Set | Diamond | +2 Armor Toughness per piece, and +8% Attack Damage per piece worn, stacking up to +32% Attack Damage. |
+    | [[Okeke]] | Rhythm-Chain Set | Chainmail | Enchanted with Unbreaking X. |
+    | [[Rhaveloth]] | Burnt Templar Set | Diamond | +2 Armor Toughness and +4 Max Health per piece worn, stacking up to +16 Max Health (+8 Hearts) with full set. |
+    | [[Tharxax City]] | Crystal Fiber Set | Diamond | +2 Armor Toughness, +15% Movement Speed, and -2 Max Health per piece worn, stacking up to +60% Movement Speed and -8 Max Health (-4 Hearts) with full set. |
+
 ## Central Regions
 These artisan items are sold by Runic Blacksmiths in the [Central Regions](/World/Drehmal/Regions/Central_Regions/)—[[Capital Valley]], [[Palisades Heath]], and the [[Gulf of Drehmal]].
 
@@ -1751,6 +1776,8 @@ This section contains artisan items found in the [Outer Regions](/World/Drehmal/
 ### [[Morah]]
 The Runic Blacksmith in Morah is found at **(4502, 146, 5590)**.
 
+**Sunrise Seekers:**
+
 |                     |                   |
 | ------------------- | ----------------- |
 | **Base Item**      | Iron Boots        |
@@ -1776,7 +1803,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore**[^2] | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Helmet  |
 
 **Lazulite Chestplate:**
@@ -1789,7 +1816,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost                                                                                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Chestplate  |
 
 **Lazulite Leggings:**
@@ -1802,7 +1829,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost        |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Leggings  |
 
 **Lazulite Boots:**
@@ -1815,7 +1842,7 @@ The Runic Blacksmith in New Sahd is located at **(4734, 66, 5662)**.
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
+| **Lore** | Blessed with potentia close to that of rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious. |
 | **Cost** | Runic Amplifier <br>Diamond Boots   |
 
 **Pathfinder's Vestments:**
@@ -2001,7 +2028,7 @@ The Naharja Runic Blacksmith is located in the southeastern portion of the city,
 | **Lore** | Unstoppable. Unbreakable. Indomitable. The will of one's soul is the break against the inevitable.   |
 | **Cost** | 2 Celestial Alloy (Netherite Ingots) <br> 1 Soul Asteria (Nether Star)  |
 
-Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in an alleyway in Naharja, at **(286, 101, -830)**.
+On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja. One of these is another Runic Blacksmith, the "Specialty Blacksmith," who can be found in a stall immediately outside the primary Runic Blacksmith's shop, at **(286, 101, -830)**.
 
 **Olkahan Pickaxe:**
 
@@ -2030,9 +2057,9 @@ Another Runic Blacksmith, the "Specialty Blacksmith," can be found in a stall in
 | **Lore** | Victory is best achieved with confidence. Victory is best kept with competence. |
 | **Cost** | 20 Amethyst Shards  |
 
-On the Day of Patronage every 5 in-game days, additional traders spawn in Naharja, but none sell any artisan items...except for one very specific circumstance.
+There is one more, extremely specific circumstance in which another artisan item can be obtained.
 
-On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then a "Gourd Merchant" will spawn at **(212, 101, -819)**, selling one Halloween-exclusive artisan item.
+On Halloween, vanilla Minecraft mobs spawn with pumpkins on their heads, and this mechanic is utilized by the Drehmal datapack to determine if it is currently Halloween. If the player has a Day of Patronage on Halloween, then the "Gourd Merchant" who spawns at **(212, 101, -819)** will also sell one Halloween-exclusive artisan item, in addition to their normal stock.
 
 **Very Large Pumpkin:**
 
@@ -2131,3 +2158,4 @@ The Runic Blacksmith in Ytaj is located in the southeastern portion of the regio
 
 
 [^1]: Comes from the term "tetrodotoxin," the neurotoxin most closely associated with pufferfish.
+[^2]: Prior to the 2.2.2 update, this set's description was different, reading: "Blessed with potentia second only to rehntite's, lapis lazuli is far softer and easier to use. In a land where rehntite was never found, it is uniquely precious." This was changed due to a conflict with the description of the [[Crystal Digging Claws]], which asserts that a different material, mendarum, is actually the second highest-potentia material.

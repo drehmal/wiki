@@ -25,7 +25,7 @@ The Resonant Halls contain some of the final secrets regarding [[Avsohm|Avsohm's
 ## Story
 Once the player makes it back to the [[Terminus Network|Terminus]] from Azimuth Labs, they are given another item by the yellow-possessed [[avSYS]]. 
 
-This [[Trinkets|trinket]], the ![[resonant_thing.gif]]{ width="32" } *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
+[[Trinkets#Resonant Thing|This trinket]], the ![[resonant_thing.gif]]{ width="32" } *Resonant Thing*, tells the player: "Deep within the mountain of holes, lies a place that will empty your soul."
 
 Returning to Mt. Yavhlix, the mysterious voice returns to give the player a cryptic message: a direct quotation of the [[Stranded Thesis]]. It disappears until the player reaches the seal, returning only to break it and beckon the player forward into the halls.
 
@@ -97,4 +97,4 @@ There is little lore to the Resonant Halls that is not simply a part of the main
 Multiple pertinent Avsohmic officers are known to have spent time here, predominantly [[Orix Cehein]] as the facility's commanding officer, [[Eleis]] and later [[Thresa Vera]] as Chief Science Officer (CSO), and Researcher Cehva.
 
 ## Extras
-The dialogue transcript from this section of the story can be found [[End-Game_Dialogue.md|here]]. This article pertains to the 4th and 5th sections: **Terminus (Post-Azimuth)** and **Resonant Halls**.
+The dialogue transcript from this section of the story can be found [[End-Game_Dialogue.md#Terminus (Post-Azimuth)|here]]. This article pertains to the 4th and 5th sections: **Terminus (Post-Azimuth)** and **Resonant Halls**.

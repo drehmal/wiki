@@ -13,9 +13,6 @@ The town is populated entirely by [[Drehmari]] who worship the serpentine creato
 
 Entering the town for the first time grants the "Children of Drehmal" advancement.
 
-![[drabyel_banner.png]]{ width="100" }
-> The banner found throughout Drabyel, resembling the three hills over the [[Primal Caverns]] on a lime green background.
-
 ## Layout/Points of Interest
 
 ![[Drabyel_map.webp]]{ width="400" } 
@@ -69,15 +66,15 @@ The Drabyel [[Adventuring Merchant]] is found under a signature orange/red wool 
 
 |  **Cost**  | **Item** |
 |:----------:|:---------------------------:|
-| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="48" } | 
-| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="48" } |
+| 10 Scales | Capital Valley Map <br> ![[map_104.png]]{ width="200" } | 
+| 45 Scales <br> 1 Diamond | Map of Drehmal <br> ![[map_103.png]]{ width="200" } |
 | 20 Scales | Bundle |
 | 32 Scales <br> 12 [[Runic Catalyst|Runic Catalysts]] | Runic Vessel |
 | 12 Scales | Saddle |
 
 ### Runic Blacksmith
 
-The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims, and six artisan items, whose details can be found [[Artisan Items#Central Regions|here]].
+The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village map and Adventuring Merchant, in a small smithy outside of the house, beneath the merchants' signature blue wool tent. This building is labeled "Goibhniu's Smithy". This blacksmith offers two armor trims in addition six artisan items, whose details can be found [[Artisan Items#Central Regions|here]]. This includes a full set of artisan leather armor, the Set of Neutrality, whose pieces all have the armor equivalent of iron armor, and add +1 Armor Toughness.
 
 **Coordinates:** (526, 65, 1841)
 
@@ -89,7 +86,7 @@ The [[Runic Blacksmith]] in Drabyel is located in the house opposite the village
 | 16 Scales | Raiser Armor Trim <br> ![[raiser_armor_trim_smithing_template.png]]{ width="48" } |
 | 10 Scales <br> Leather Helmet | *Helmet of Neutrality* |
 | 14 Scales <br> Leather Chestplate | *Chestpiece of Neutrality* |
-| 12 Scales <br> Leather Chestplate | *Leggings of Neutrality* |
+| 12 Scales <br> Leather Leggings | *Leggings of Neutrality* |
 | 10 Scales <br> Leather Boots | *Boots of Neutrality* |
 | 16 Scales <br> Iron Axe | *Fair-Minded Axe* |
 | 8 Scales <br> Shield | *Shield of Neutrality* |

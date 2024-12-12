@@ -12,7 +12,7 @@ Solvei is a small [village](/Settlements) in the [[Capital Valley]] [region](/Re
 
 Like most cities, it is heavily guarded by [Runic Golems](https://minecraft.gamepedia.com/Iron_Golem). 
 
-??? warning "Spoiler: Location"
+!!! abstract "Location"
 	Approximate Coordinates: `1536, 74, 815`
 
 ## Unique Merchants and Villagers

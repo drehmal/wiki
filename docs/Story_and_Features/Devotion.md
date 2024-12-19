@@ -60,7 +60,7 @@ Drehmal's devotion hint book reads as follows:
 Devotion hints for Drehmal are found at the base of statues of the serpent throughout the [Central Regions](/World/Drehmal/Regions/Central_Regions/).
 
 ??? info "Hint Locations"
-    Statues of Drehmal with offerings can be found in [[Drehua Temple]], [[Drabyel]], [[Gozak]], near the [[Palisades Heath#Drehuan Sculptures|Drehuan Sculptures in Palisades Heath]], [[Solvei]], and [[Drahbes]].
+    Statues of Drehmal with offerings can be found in [[Drehua Temple]], [[Drabyel]], [[Gozak]], near the [[Palisades Heath#Drehuan Sculptures|Drehuan Sculptures in Palisades Heath]], [[Solvei]], the ruins of [[North Heartwood#Ruins of Rhaverik|Rhaverik]], and [[Drahbes]].
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |
@@ -180,7 +180,7 @@ Vayniklah's devotion hint book reads as follows:
 Hints for Vayniklah's devotion items are found inside large kegs of mead, scattered throughout [[Akhlo'Rohma]]. Items inside of these kegs, at the bottom of the water in an item frame, are high-level offerings to the Aspect of Life. All of these kegs are marked with a sign that references the item inside, and all share the exact same build pattern.
 
 ??? info "Hint Locations"
-    There are 5 of these kegs in the region, found at the following locations: a [[Maelmari]]-occupied house in the southwest, the basement of [[Ancehl Castle]], [[Dusps]] near the Northern Kitchen restaurant, [[Marahza]] very close to the Temple of Bloom and Bough, and [[Akhlo'Rohma#Esipelli Vineyard|Esipelli Vineyard]].
+    There are 6 of these kegs in the region, found at the following locations: a [[Maelmari]]-occupied house in the southwest, the basement of [[Ancehl Castle]], [[Dusps]] near the Northern Kitchen restaurant, [[Marahza]] very close to the Temple of Bloom and Bough, on an isolated plateau in the northeast, and [[Akhlo'Rohma#Esipelli Vineyard|Esipelli Vineyard]].
 
 ??? question "Accepted Offerings"
     | **Value**      | **Items**                                  |

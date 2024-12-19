@@ -72,10 +72,21 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
     | [[Ebony Veldt]] | In the ruins of [[Caer Adacia]]. Deep underground, a building has a staircase which appears to be blocked off by collapsed rubble. Digging through this rubble leads to a small altar with the stone in an item frame. | **(-1285, 5, 416)** |
     | [[Mt. Yavhlix]] | In a shulker box in the [[Resonant Halls]], inside the same side room that contains the [[Activity_Log-_Project_Panopticon.md|Activity Log - Project Panopticon]] book. | **(26897, 78, -43)** |
 
-## Final Locations and Use
+## Final Locations
 !!! danger "If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article."
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
+
+The final three Fervor Stones are found on [[Lo'Dahr]].
+
+??? warning "Final Fervor Stone Locations"
+    | **Fervor Stone** | **Domain** | **Location** | **Coordinates** |
+    |:----------------:|:----------:|:-------------------------------------------|:------------:|
+    | Agony            | [[Nahyn's Domain]] | In a chest near the top of [[Fort Aelon]]. | **(79, 194, -254)** |
+    | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], reached by digging through a wall, in a chest behind a banner. | **(252, 78, -825)** |
+    | Worry            | [[Loe's Domain]] | In an isolated room along the [[Castle Greyspire]] roof. | **(-845, 215, 516)** |
+
+## Use
 
 Fervor Stones are used to upgrade [Mythical Weapons](/Items/Mythical_Weapons/) at the Soletta, the fabled forge in [[Ytaj]] behind the Prismatic Council room. 
 
@@ -93,14 +104,7 @@ Stones of Luxury add a permanent +4 Max Health (+2 Hearts) buff to the mythical 
 
 Stones of Worry add a permanent +0.01 Movement Speed to the mythical weapon when held, adding to existing bonuses or penalties in the same manner as Stones of Luxury.
 
-The final three Fervor Stones are found on [[Lo'Dahr]].
-
-??? warning "Final Fervor Stone Locations"
-    | **Fervor Stone** | **Domain** | **Location** | **Coordinates** |
-    |:----------------:|:----------:|:-------------------------------------------|:------------:|
-    | Agony            | [[Nahyn's Domain]] | In a chest near the top of [[Fort Aelon]]. | **(79, 194, -254)** |
-    | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], reached by digging through a wall, in a chest behind a banner. | **(252, 78, -825)** |
-    | Worry            | [[Loe's Domain]] | In an isolated room along the [[Castle Greyspire]] roof. | **(-845, 215, 516)** |
+Only one type of each Fervor Stone may be applied to a given weapon: it is not possible to, for instance, stack three Stones of Worry onto a single mythical.
 
 ## Extras
 There are exactly enough Fervor Stones in the map to upgrade all 8 Mythical weapons, so losing or accidentally destroying one (which can occur at the Soletta through known, but rare bugs) could lock the player out of fully upgrading all Mythicals. 

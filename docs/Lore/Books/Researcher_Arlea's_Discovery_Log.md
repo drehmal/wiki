@@ -7,7 +7,7 @@ tags:
 
 --8<-- "25_spoiler.md"
 
-This book can be found in an item frame in [[Sal'Mevir]]. It details a discovery that leads to the [[DoS]] taking over Sal'Mevir and the creation of the Temporal Engine.
+This book can be found in an item frame in [[Sal'Mevir]]. It details a discovery that leads to the [[Avsohm#Department of Science|DoS]] taking over Sal'Mevir and the creation of the Temporal Engine.
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in [[Castle Greyspire]].
+This book can be found on a lectern in [[Greyspire Castle]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

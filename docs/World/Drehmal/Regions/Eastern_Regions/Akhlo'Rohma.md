@@ -13,7 +13,7 @@ Akhlo'Rohma is made up of mostly flat grassland with some large terracotta hills
 - Central: The flowers of the central segment consist of a pink, red and gold color pallette. This area consists generally of flatter grassland, with some rolling hills. <br>
 - South: The southern segment has flowers that are primarily purple and blue, but also have red, pink and gold/yellow features. <br>
 
-The region also includes the [[Sunken Astral Body]], a large crater with a lake at the bottom, containing a stone island riddled with smaller craters. The Akhlo'Rohman landscape features bluffs and rocks with vividly-colored terracotta, mostly dark pink and red, but also with some stripes of yellow, blue and green.
+The region also includes the Sunken Astral Body, a large crater with a lake at the bottom, containing a stone island riddled with smaller craters. The Akhlo'Rohman landscape features bluffs and rocks with vividly-colored terracotta, mostly dark pink and red, but also with some stripes of yellow, blue and green.
 
 The city of [[Dusps]] is located atop a colorful hill in southern Akhlo'Rohma, along with the small village of [[Marahza]] to the north, on the south banks of the Resting River. 
 

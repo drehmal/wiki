@@ -858,7 +858,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This advanced Avsohmic plate was clearly well cared-for, but part of the inscription inside is illegible: "Goh......ase use this! It's all I can... to p....... ou when y... et into... hts. I lo...... - Thr..." |
-| **Obtain** | Located in the ruins of [[Fortahn]], in the [[Gulf of Drehmal]]. Chest located at **(370, 65, -93)**  |
+| **Obtain** | Located in the ruins of [[Gulf of Drehmal#Ruins of Fortahn|Fortahn]], in the [[Gulf of Drehmal]]. Chest located at **(370, 65, -93)**  |
 
 ??? "Extra Lore"
     This item appears to have belonged to [[Gohri Zed]], whose name was cut off as "Goh," and the inscription appears to have come from her partner, [[Thresa Vera]].

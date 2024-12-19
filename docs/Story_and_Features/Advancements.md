@@ -159,7 +159,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Supersoldier Certification | Now you'll be known as 'Captain Drehmal'. - Cleared all 6 waves of the Arena | Complete all 6 waves of the Arena within the [[Foundry]]. |
     | Temporal Ruins | An ancient city of science and knowledge, locked in a temporal stasis preventing structural degradation. - Discovered Sal'Mevir | Enter [[Sal'Mevir]]. |
     | All That Remains | Avsohm was highly technologically advanced, yet they still fell to ruin. - Discovered the Exodus Citadel | Enter the [[Exodus Citadel]]. |
-    | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Sunken Astral Body]]. |
+    | I'm on the moooon... it's made of cheeeeese... | Why do I feel so much lighter? - Discovered a sunken Astral Body | Discover the [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]]. |
     | Vault of Knowledge | Avsohm stored scores of knowledge within expansive hidden libraries and vaults across the realm. - Discovered the last Avsohmic Vault | Discover the [[Avsohmic Vault]] off the Casain coast. |
     | The Lost Cavern | Ages ago, Avsohm used this cave to gather Rehntite, an incredibly strong mineral with untold arcane potential. Unfortunately, the method of extraction has been lost to time. - Discovered the Rehntite Cave | Enter the [[Rehntite Cave]]. |
     | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |

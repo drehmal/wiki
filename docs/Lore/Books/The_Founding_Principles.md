@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in [[Castle Greyspire]]. It proclaims to contain the founding laws of the universe, but the only remaining pages assert that there is one singular higher intellect upon which all of reality depends.
+This book can be found on a lectern in [[Greyspire Castle]]. It proclaims to contain the founding laws of the universe, but the only remaining pages assert that there is one singular higher intellect upon which all of reality depends.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

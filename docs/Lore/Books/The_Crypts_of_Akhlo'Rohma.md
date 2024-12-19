@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in the library in [[Dusps]], and contains information on the crypts below [[Ancehl]] Castle.
+This book can be found in a chest in the library in [[Dusps]], and contains information on the crypts below [[Ancehl Castle]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

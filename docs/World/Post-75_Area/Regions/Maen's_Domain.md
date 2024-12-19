@@ -16,7 +16,7 @@
 
 |                  |                   |
 |:----------------:|:-----------------:|
-| **Minecraft Biome**  | Wooded Badlands Plateau  |
+| **Minecraft Biome**  | Old Growth Pine Taiga  |
 | **Water Color**      | Black    |
 | **Sky Color**        | Red     |
 

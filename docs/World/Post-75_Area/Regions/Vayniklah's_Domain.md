@@ -16,7 +16,7 @@
 
 |                  |                   |
 |:----------------:|:-----------------:|
-| **Minecraft Biome**  | Jungle Edge  |
+| **Minecraft Biome**  | Sparse Jungle  |
 | **Water Color**      | Sea Foam Green    |
 | **Sky Color**        | Light Green     |
 

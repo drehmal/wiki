@@ -15,11 +15,11 @@ Scattered throughout the map of [[Overworld|Drehmal]] are many different settlem
 | [[Fort Nimahj]]     | [[North Tharxax]]    | 24                                              |
 | [[Okeke]]           | [[Merijool]]         | 32                                              |
 | [[Mohta]]           | [[Lorahn'Kahl]]      | 50                                              |
-| [[New Drabyel]]     | [[Capital Valley]]   | 35                                              | 
+| [[Drabyel|New Drabyel]]     | [[Capital Valley]]   | 35                                              | 
 | [[Dusps]]           | [[Akhlo'Rohma]]      | 96                                              |
 | [[Gozak]]           | [[North Heartwood]]  | 28                                              |
 | [[Firteid]]         | [[Black Jungle]]     | 516 (including [[Kiln of Virtuo|Kiln]] district) |
-| [[New Mossfield]]   | [[Spearhead Forest]] | 40                                              |     
+| [[Mossfield|New Mossfield]]   | [[Spearhead Forest]] | 40                                              |     
 | [[New Sahd]]        | [[Sahd]]             | 53                                              |                    
 | [[Highfall]]        | [[Highfall Tundra]]  | 109                                             |        
 

@@ -58,7 +58,7 @@ Four lore books can also be found in this location: <br>
 - [[Researcher Noam's Rant]] is found in the large building, along with the Mythbreaker fragment.
 
 ## Lore
-Sal'Mevir was seemingly an active Avsohmic research site before it was fully commissioned by the [[DoS]], and appears to have been [[Thought-recording_of_Ekari,_Number_8710.md|initially designed]] by the architect [[Ekari]].
+Sal'Mevir was seemingly an active Avsohmic research site before it was fully commissioned by the [[Avsohm#Department of Science|DoS]], and appears to have been [[Thought-recording_of_Ekari,_Number_8710.md|initially designed]] by the architect [[Ekari]].
 
 At some point in the late second Avihm, a researcher named Arlea made a discovery that spurred Avsohm to fully convert the site into a government-run Ancillary Research Facility, placing specific emphasis on the research of runes with power over time. Combining the discoveries of Arlea with [[Baen Vehmil|Vehmil]] and [[Thresa Vera|Thresa]]'s stasis technology, this facility saw the creation of the first temporal stasis pod prototypes. Eventually, these were improved upon to the point that they saw use throughout the empire, predominantly at the [[Stasis Facility]] and in the punishment of criminals.
 

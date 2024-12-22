@@ -10,9 +10,7 @@ tags:
 
 ![[Emperors_estate.webp]]{ align=right width="300" }
 
-The emperor's estate, now abandoned, is located on the island of [[Sahd Island|Sahd]].
-
-It is mentioned in the book [[Sahd's Bloodshed]].
+The emperor's estate, now abandoned, is located on the island of [[Sahd]].
 
 Two graves can be found in a central courtyard:
 

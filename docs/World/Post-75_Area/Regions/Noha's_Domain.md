@@ -57,7 +57,7 @@ A quartz gateway can be found inside the large black mountain just southeast of 
 
 [[Lajani]] is the only remaining major settlement in Noha's Domain, and the remnant of what was once a thriving, bustling community. It is built around the bones of [[Noha]] herself.
 
-Lajani is also a separate Minecraft biome from the rest of Noha's Domain—a Modified Wooded Badlands Plateau—allowing it to retain the vibrant color and precipitation of the region from before its patron Aspect died.
+Lajani is also a separate Minecraft biome from the rest of Noha's Domain—a Cherry Grove biome—allowing it to retain the vibrant color and precipitation of the region from before its patron Aspect died.
 
 **Coordinates:** (X: 935, Y: 49, Z: -270)
 

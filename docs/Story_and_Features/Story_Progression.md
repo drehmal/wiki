@@ -149,7 +149,7 @@ This is not the end of the story.
 ## Azimuth Labs (POST-YAV/END-GAME SPOILERS BEGIN HERE) { data-search-exclude }
 Once the player returns to Mt. Yavhlix, they will be greeted by a voice in chat, which first appears as three yellow question marks. This voice tells the player that without Tethlaen, the realm is surely doomed, and that although the player already knows far too much, the voice will assist them in weaving the final threads of Avsohm's fate. 
 
-The voice instructs the player to return to the Terminus, where it takes control of avSYS. It dispenses the Silent Thing, a [[Trinkets|trinket]] which directs the player to the [[Sunken Astral Body]], east of [[Dusps]].
+The voice instructs the player to return to the Terminus, where it takes control of avSYS. It dispenses the Silent Thing, a [[Trinkets|trinket]] which directs the player to the [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]], east of [[Dusps]].
 
 At the Sunken Astral Body, the voice will manifest once again, summoning a bolt of energy to destroy a veilstone seal in the ground and grant the player access to [[Azimuth Labs]], the secret former headquarters of Avsohm's alchemical branch, [[Red Dawn]]. Here, the player can find evidence of unethical experimentation and advanced military plans, making clear Avsohm's intention to completely overtake the [Aspects](/Lore/Higher_Beings/Aspects/) and rule over all realms.
 

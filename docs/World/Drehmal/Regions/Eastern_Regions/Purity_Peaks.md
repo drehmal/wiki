@@ -49,7 +49,7 @@ A pale stone temple and living quarters sit high in the Nahynaga Mountains north
 
 ### Sal'Mevir
 
-[[Sal'Mevir]] was a combination city/research facility in the southeastern mountains of Purity Peaks, entirely dedicated to the Avsohmic [[DoS|Department of Science]]'s research and manufacturing operations. It is the largest example of the signature white-and-purple late-Avsohmic architecture, and its structure is still well-preserved by ancient stasis technology. The ruins are patrolled by mechanical guards.
+[[Sal'Mevir]] was a combination city/research facility in the southeastern mountains of Purity Peaks, entirely dedicated to the Avsohmic [[Avsohm#Department of Science|Department of Science]]'s research and manufacturing operations. It is the largest example of the signature white-and-purple late-Avsohmic architecture, and its structure is still well-preserved by ancient stasis technology. The ruins are patrolled by mechanical guards.
 
 Sal'Mevir is the site of the 25% completion story event.
 

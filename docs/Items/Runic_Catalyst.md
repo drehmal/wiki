@@ -12,7 +12,7 @@ Runic Catalysts all share the same lore text:
 
 ## Lore
 
-Lore-wise, runic catalysts are not necessarily all the same thing, despite sharing a common texture and description in-game. Technically, due to the way that Drehmal's magic system functions, almost anything could technically be a "runic catalyst," so long as it is capable of having magical runes transcribed onto it in some way. Therefore, Runic Catalysts effectively serve as a generic stand-in for any kind of magically charged item, and are therefore placed in many, many different types of structures and environments.
+Lore-wise, runic catalysts are not necessarily all the same thing, despite sharing a common texture and description in-game. Due to the way that Drehmal's magic system functions, almost anything could technically be a "runic catalyst," so long as it is capable of having magical runes transcribed onto it in some way. Runic Catalysts effectively serve as a generic stand-in for any kind of magically charged item, and are therefore placed in many, many different types of structures and environments.
 
 ## Full List
 

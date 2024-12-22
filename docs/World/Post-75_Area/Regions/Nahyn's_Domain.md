@@ -16,7 +16,7 @@
 
 |                  |                   |
 |:----------------:|:-----------------:|
-| **Minecraft Biome**  | Wooded Mountains  |
+| **Minecraft Biome**  | Windswept Forest  |
 | **Water Color**      | Blue              |
 | **Sky Color**        | Gray              |
 

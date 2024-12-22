@@ -99,7 +99,7 @@ The Terminus was born out of Avsohm's efforts to [[Ring Research Installation#Lo
 
 However, the warp tech was deemed inefficient due to the fact that each ring could only connect to its one linked ring, and vice versa. Thus, Vortu, an Avsohmic officer aboard the Aphelion, came up with the idea of a central hub where important locations could all be linked to, allowing for extremely rapid transfer of personnel, cargo, and energy around the empire. 
 
-The Terminus itself was built as a satellite to the Aphelion, allowing for direct access to and from Avsohm's flagship via the Terminus. The first Terminus tower was commissioned inside of the [[Primary Collection Facility]] in [[Mt. Yavhlix]], with the purpose of instantly transporting streams of freshly drawn [[Primal Energy|primal energy]]. Many more towers were built and planted across Drehmal (inside *and* outside the empire's territory), some in or near major Avsohmic cities.
+The Terminus itself was built as a satellite to the Aphelion, allowing for direct access to and from Avsohm's flagship via the Terminus. The first Terminus tower was commissioned inside of the [[Primary Energy Collection Facility]] in [[Mt. Yavhlix]], with the purpose of instantly transporting streams of freshly drawn [[Primal Energy|primal energy]]. Many more towers were built and planted across Drehmal (inside *and* outside the empire's territory), some in or near major Avsohmic cities.
 
 The new Terminus-based energy network proved to be extremely convenient for the empire. There were plans to construct even more warp towers that would be placed at every significant Avsohmic facility, but these plans never came to fruition before [[Fall of Avsohm|Avsohm's untimely collapse]].
 

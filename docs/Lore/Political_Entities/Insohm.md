@@ -10,4 +10,4 @@ Insohm notably waged a long war against [[Maelihs]] and his forces in the West, 
 
 Insohm fell into instability with the disappearance of its founder and original headquarters of [[Castle Hovadchear]], and was ruled for some time by [[Vahid|Master Vahid]] before it effectively dissolved with the departure of [[Virtuo]], marking the end of the Third Avihm.
 
-Today, over a hundred years since the departure of its Goddess, Insohm exists in name only, confined exclusively to the Insohmic Commonwealth in southern Spearhead Forest and the lone airship [[I.C.S. Arbiter]].
+Today, over a hundred years since the departure of its Goddess, Insohm exists in name only, confined exclusively to the Insohmic Commonwealth in southern Spearhead Forest and the lone airship [[ICS Arbiter]].

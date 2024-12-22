@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in [[Loeturia]]. It refers to [[Castle Greyspire]] as a place feared by some of the neighboring residents, and refers to some kind of grim rumors about its Duke.
+This book can be found in a chest in [[Loeturia]]. It refers to [[Greyspire Castle]] as a place feared by some of the neighboring residents, and refers to some kind of grim rumors about its Duke.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

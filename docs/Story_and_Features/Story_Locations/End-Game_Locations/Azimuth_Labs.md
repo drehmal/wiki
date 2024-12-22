@@ -12,7 +12,7 @@
 
 **Azimuth Labs**, also referred to as **Alchemy Central**, is the first major story location in the end-game, and the former headquarters of the [[Red Dawn]] alchemical society, one of three major corporations that practically made up branches of [[Avsohm|Avsohm's]] government. Azimuth Labs was the site of Red Dawn's (and by extension, some of Avsohm's) most secretive projects, started toward the end of the empire's lifespan.
 
-The entrance to Azimuth Labs is located at the [[Sunken Astral Body]], east of the city of [[Dusps]], but it is blocked off by a veilstone barrier until a dedicated story sequence directs the player and allows access to the facility.
+The entrance to Azimuth Labs is located at the [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]], east of the city of [[Dusps]], but it is blocked off by a veilstone barrier until a dedicated story sequence directs the player and allows access to the facility.
 
 ??? abstract "Coordinates"
     | **Location** | **X** | **Y** | **Z** |

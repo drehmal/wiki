@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in western [[Ytaj]]. It is a biography of Oriann, a [[Tehrmari]] woman who was the only known person to truly befriend the Sky Aspect [[Rihelma]], and was known for riding Rihelma in battle during the [[Divine Schism]].
+This book can be found in a chest in [[Mari]]'s room, in western [[Ytaj]]. It is a biography of Oriann, a [[Tehrmari]] woman who was the only known person to truly befriend the Sky Aspect [[Rihelma]], and was known for riding Rihelma in battle during the [[Divine Schism]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -28,6 +28,8 @@ Frenzy is best suited for a fast-paced, highly aggressive playstyle, giving the 
 
 Frenzy's special ability, Fatal Rampage, increases its base damage by 3 on a successful kill, stacking up to 3 times for a total of 19 damage per hit. This effect lasts for 6 seconds within each tier, reverting to the next lowest tier if another kill is not made during that window. Kills with +9 damage active reset the timer. If the timer runs out while in Tier 1 (+3 damage), the ability goes on cooldown.
 
+Fatal Rampage also goes on cooldown if Frenzy leaves the player's hand during the ability, either by scrolling off of the weapon or dropping it.
+
 ??? warning "Late-Game Spoilers: Upgrades"
     Like the other Mythicals, Frenzy can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Frenzy takes away only 2 Max Health (-1 Heart), grants +0.04 Movement Speed, and has a special ability cooldown of 45 seconds.
 

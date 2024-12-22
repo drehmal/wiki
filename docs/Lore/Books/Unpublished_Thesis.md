@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in [[Castle Greyspire]]. It contains ruminations on the nature of the "heart" and "mind," and the hypocrisy of the latter.
+This book can be found in a chest in [[Greyspire Castle]]. It contains ruminations on the nature of the "heart" and "mind," and the hypocrisy of the latter.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

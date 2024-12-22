@@ -16,7 +16,7 @@
 
 |                  |                   |
 |:----------------:|:-----------------:|
-| **Minecraft Biome**  | Taiga  |
+| **Minecraft Biome**  | Mangrove Swamp  |
 | **Water Color**      | Dark Gray         |
 | **Sky Color**        | Orange/Gray       |
 

@@ -23,7 +23,7 @@ This book can be found on a lectern in [[Shivering Pines Inn]]. It details the r
 > ---
 > Elmlhi and I put our heads together, and we've got a plan. In order to hear the echoing of laughter in these rafters, we've decided to use our shared expertise in brewing to create a drink to rival anything the Aspects could throw together. A pity about all of those kegs of Highfall Iceberg Stout we bought on our journey....
 >
-> P.S. Ehlmli wanted to make sure I mentioned that buying all of that alcohol was MY decision and not hers.
+> P.S. Elmlhi wanted to make sure I mentioned that buying all of that alcohol was MY decision and not hers.
 >
 > Day 13
 > ---
@@ -35,7 +35,7 @@ This book can be found on a lectern in [[Shivering Pines Inn]]. It details the r
 >
 > Day 52
 > ---
-> Work, work, work. That's all there is for me these days. We just got a new party up from some land far to the West looking for our specialty, Logger's Lager. Although I probably won't have a lot of time to keep this journal up to date, I do want to proudly announce that everything is coming up Ga'ran and Ehlmli these days.
+> Work, work, work. That's all there is for me these days. We just got a new party up from some land far to the West looking for our specialty, Logger's Lager. Although I probably won't have a lot of time to keep this journal up to date, I do want to proudly announce that everything is coming up Ga'ran and Elmlhi these days.
 >
 > Not only is our little inn bursting at the seams with guests and good cheer, but we are feeling more creative and productive than ever.
 >

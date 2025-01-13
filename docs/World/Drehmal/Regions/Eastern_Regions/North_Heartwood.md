@@ -83,3 +83,9 @@ Rhaverik was a town situated by a lake in the northwestern portion of the North 
 The Underwood is a series of vast, lush caverns and waterways underneath a plateau in the region's southwest. It was once the den of [[Muhs]], Aspect of Beasts, before he was slain here. Inside the Underwood are a castle guarded by "Templars of the Beast," which houses the [[Heartaxe]] legendary, and a small Drehmari village farther east.
 
 **Coordinates:** (X: 985, Y: 69, Z: 2734)
+
+## Extras
+
+### Heartwood Naming
+
+In previous versions of Drehmal, the North Heartwood was simply referred to as The Heartwood, and the [[South Heartwood]] was referred to only as "Mael's Desolation". This was changed in 2.2, as [[Avsohm]] existed before [[Maelihs|Mael]]'s destruction of the southern portion of the Heartwood. In the modern, post-desolation realm, it is likely that the North Heartwood would simply be known as the Heartwood by most denizens of Drehmal.

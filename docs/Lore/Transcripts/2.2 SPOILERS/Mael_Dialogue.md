@@ -378,7 +378,7 @@ If the player approaches Maelihs with [[Malevolentia]] in hand, then he will giv
 
 
 ### Devoted Introduction
-If the player has reached maximum devotion to Maelihs prior to the first meeting with him, then a different version of the introduction occurs.[^1] <br>
+If the player has reached maximum devotion to Maelihs prior to the first meeting with him, then a different version of the introduction occurs. <br>
 
 > \*Player first enters Mael's chamber, and approaches him.*
 >
@@ -392,6 +392,8 @@ If the player has reached maximum devotion to Maelihs prior to the first meeting
 >
 > [Player] Who are you? [This option then follows the default intro branch.]
 >
+> OR
+> 
 > [Player] I do. All hail his Radiance!
 >
 > [Maelihs] Fool.
@@ -427,7 +429,17 @@ If the player has reached maximum devotion to Maelihs prior to the first meeting
 > [Maelihs] The less of those there are, the better.
 >
 > [Maelihs] Now, if you must disturb my rest, then speak. [Player is given main 5 options.]
-
-
-
-[^1]: This interaction has not been confirmed in-game by a wiki editor, but this transcript is reverse-engineered from datapack files.
+>
+> \*If the player picks the first option, refusing to denounce Mael, then they will be given the same dialogue choice whenever they leave and re-approach him.*
+> 
+> [Maelihs] Have you ceased your worship of Maelihs?
+>
+> > [Player] Never! His Radiance is supreme! All hail Lord Maelihs!
+> > 
+> > [Maelihs] Then I have nothing more to say to you.
+> 
+> OR
+>
+> > [Player] Yes, I have.
+> >
+> > [Maelihs] Good. Then we may speak. [Player is given 5 main options.]

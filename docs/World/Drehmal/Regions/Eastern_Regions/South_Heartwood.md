@@ -77,3 +77,8 @@ Tahva is a settlement of pirates located on the islands of the southwestern Sout
 
 **Coordinates:** (X: 703, Y: 76, Z: 4674)
 
+## Extras
+
+### Heartwood Naming
+
+In previous versions of Drehmal, the South Heartwood was simply referred to as **Mael's Desolation**, and the [[North Heartwood]] was referred to only as "The Heartwood". This was changed in 2.2, as [[Avsohm]] existed before [[Maelihs|Mael]]'s destruction of the southern portion of the Heartwood. In the modern, post-desolation realm, the region is primarily known as Mael's Desolation or simply the Desolation, while "The Heartwood" refers to the still-standing forest in the north.

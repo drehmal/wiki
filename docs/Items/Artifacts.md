@@ -738,6 +738,22 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | The Swamp King originally declared himself "Supreme Grand Over-Ruler-Lord Sultan Viscount Tsar Baron Von Duke of the Greatswamp of Blessed Nimahj". It was shortened after he realized that the Swampfolk were having immense trouble remembering this title. |
 | **Obtain** | Located in [[Nimahj Swamp]], at the top of a spiral hill which culminates in the throne of the "Swamp King." Chest located at **(-2499, 135, 2858)**  |
 
+### Final Stand
+
+??? info "2.2.2 Artifact"
+    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which has not yet been made the official version of Drehmal as of early January 2025.
+
+|               |               |
+| ------------- | ------------- |
+| **Base Item**  | Bow   |
+| **Enchantments** | Power I <br>Punch I |
+| **Bonus Stats (In Off-Hand)**    | +2 Max Health (+1 Heart) <br>+1 Armor <br>+1 Armor Toughness |
+
+|            | **Lore and how to Obtain**  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | Folklore speaks of a small group of rebels that, after learning of Mael's plans for the Southern Heartwood, mounted a last defense atop the region's tallest peak. Onlookers from Mt. Scarstone watched as Mael's fleet flew overhead, only to shield their eyes from a blinding white light and a terrifyingly powerful wind. |
+| **Obtain** | Located in [[Castle Scarstone]], near the top of the structure. Chest located at **(2460, 209, 2159)**  |
+
 ### Florafilius
 
 |               |                       |
@@ -1054,6 +1070,22 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | Along with the military might of Emperor Diore I and his Vanguard, the other secret to Vir's steely grip over the East was the construction of sturdy stone forts in each province where the people could take shelter from attackers. This heavy crushing axe was used to cripple enemy ships when their occupants attempted to lay siege. |
 | **Obtain** | Located in the Virmari Fort in [[Highfall Tundra]]. Chest located at **(5269, 122, -2086)**   |
 
+### Last Breath of a Stargazer
+
+??? info "2.2.2 Artifact"
+    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which has not yet been made the official version of Drehmal as of early January 2025.
+
+|               |               |
+| ------------- | ------------- |
+| **Base Item**  | Spyglass   |
+| **Bonus Stats (In Main Hand)**   | +8% Movement Speed |
+| **Bonus Stats (In Off-Hand)**    | +1 Attack Damage <br>+1 Armor |
+
+|            | **Lore and how to Obtain**  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore**   | In Espinor, there lived an old astrologist who lacked capable equipment. With only a shoddy spyglass to their name, they never discovered anything of note. Until, one day, while viewing the western skies, they spotted a shimmering light. It birthed a new star, a twinkling speck, that only lived for a few moments before it fell to the horizon. The star died not long after, the astrologist assumed, unable to see behind their now seared eyes. |
+| **Obtain** | Located in the ruins of Espinor, at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2585, 100, 3929)**   |
+
 ### Lodebearer
 
 |             |                                     |
@@ -1079,7 +1111,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                |
 | ---------- | ------------------------------------------------------------------------- |
-| **Lore**   | Loe, Avatar of Ash, created the truest of ice to be used by her disciples |
+| **Lore**   | Loe, Avatar of Ash, created the truest of ice to be used by her disciples. |
 | **Obtain** | Located in eastern [[Merijool]], in the ruins of Kamt. Chest located at **(-656, 97, -1729)**           |
 
 ### Lomach's Warplate
@@ -1607,7 +1639,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | This sturdy rune-emblazoned shovel radiates with an inner warmth. Developed by commission from the King of Highfall himself, these powerful artifacts are a modern necessity when living on the frozen tundra |
+| **Lore**   | This sturdy rune-emblazoned shovel radiates with an inner warmth. Developed by commission from the King of Highfall himself, these powerful artifacts are a modern necessity when living on the frozen tundra. |
 | **Obtain** | Located at the gatehouse in [[Highfall Tundra]], along the path north to the [[Frozen Bite]] and [[Faehrcyle]]. Chest located at **(5087, 79, -2394)**       |
 
 ### Soilsplitter

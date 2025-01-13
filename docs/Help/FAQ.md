@@ -100,6 +100,10 @@ No, this wiki does not contain any information on the [unofficial "DLC" modpack]
 
 Frequently asked questions about the gameplay of Drehmal.
 
+### How Long Does Drehmal Take to Beat?
+
+Since story progress in Drehmal is so fundamentally driven by exploration, the time to complete a full playthrough will vary based on how thorough your exploration is. On the shorter end, playthroughs may take about 20-25 hours (typically for returning players who move quickly throughout the world, or multiplayer saves where not everybody sees the same places). On the longer end, first-time playthroughs by very thorough players may last for upwards of 50-60 hours.
+
 ### I'm Getting Really Bad Lag. What Should I Do?
 
 There are a number of things that can cause lag in Drehmal, and in Minecraft in general. Here are some options to try:

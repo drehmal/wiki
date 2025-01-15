@@ -126,7 +126,7 @@ Read the official changelog for 2.2.1 [here](https://www.drehmal.net/post/drehma
 
 ### 2.2.2 Changes (Upcoming)
 
-Version 2.2.2 (still in late development as of mid-January 2025) aims to serve as a polished final product of Drehmal: Apotheosis, seeking to fix almost all of the existing text errors and bugs in the map. It also adds a small amount of content, including a new secret advancement tied to a [[Aphelion|late-game story area]], three new [[artifacts]], an upgrade for the [[Artisan Items#Grimm Troupe|Nail]] artisan item, and more.
+Version 2.2.2 (still in late development as of mid-January 2025) aims to serve as a polished final product of Drehmal: Apotheosis, seeking to fix almost all of the existing text errors and bugs in the map. It also adds a small amount of content, including a new secret advancement tied to a [[Aphelion|late-game story area]], three new [[artifacts]], an upgrade for the [[Artisan Items#Grimm Troupe|Nail]] artisan item, textures for a few select artifacts, and more.
 
 ## How to Play
 

@@ -6,7 +6,7 @@ There are several dedicated places where Drehmal discussion takes place.
 
 The official **Drehmal: Apotheosis Discord Server**, sometimes referred to as **Drehmalcord**, is a Discord server owned by the Drehmal developer team, and the single most active place for discussing the map's lore, asking questions about its gameplay, and organizing community events.
 
-You can join the server at https://discord.drehmal.net (if that link isn't working for you, try navigating to the "Discord" tab on the main website, [drehmal.net](https://www.drehmal.net/).)
+You can join the server at [https://discord.drehmal.net](https://discord.drehmal.net) (if that link isn't working for you, try navigating to the "Discord" tab on the main website, [drehmal.net](https://www.drehmal.net/).)
 
 The Discord server has been active since the launch of [[Drehmal v2]] in March 2020, and currently sits at over 8900 members as of January 2025. The questions channels on this server, organized by how far into the map you are to protect players from being spoiled too badly, are the most reliable source of information and help if you're stuck somewhere or are just curious about something specific.
 

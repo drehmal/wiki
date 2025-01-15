@@ -15,16 +15,16 @@ This eventually led to the publishing of a second attempt at creating the world,
 ## Drehmal v1 (Legacy)
 
 !!! info "Main Article: [[Drehmal v1|Drehmal v1: Legacy]]"
+    If you want to play the archived version of Drehmal v1, navigate to the main page linked above.
 
 Drehmal v1 (Also known as Drehmal: Legacy) was the first version of Drehmal to exist as a Minecraft map, released on October 27, 2017 for Minecraft: Java Edition 1.12.1. This download was primarily a terrain map, with some recognizable biomes and regions from modern Drehmal. However, there was minimal extra content beyond the terrain.
 
 The map is only 8,000 blocks by 8,000 blocks in size, as opposed to the 12,000 by 12,000 block size of Drehmal v2. 
 
-**Download Link:** [Drehmal: Legacy](https://www.planetminecraft.com/project/drehmal-8000x8000-survival-adventure-map/)
-
 ## Drehmal v2 (Primordial)
 
 !!! info "Main Article: [[Drehmal v2|Drehmal v2.0: Primordial]]"
+    If you want to play the archived version of Drehmal v2.0, navigate to the main page linked above.
 
 Drehmal v2.0 (released with the subtitle: PRIMΩRDIAL) was the first major public update to Drehmal, first announced to PMC in early 2019 and officially released on March 31, 2020 for Minecraft Java Edition 1.15.2. 2.0 gained significant attention from posts by Keeko100 on r/gaming and r/Minecraft, each of which sit at over 100,000 upvotes.
 
@@ -61,8 +61,6 @@ Drehmal v2.2 (released with the subtitle: APOTHEΩSIS) was the most recent major
 ### v2.2.1 (1.20.1, Current)
 
 v2.2.1 is the initial 1.20.1 port of Drehmal v2.2, which also included a few balancing changes, bug fixes, and small pieces of content. 2.2.1 also added most vanilla items added in the 1.18, 1.19, and 1.20 updates to the map, albeit sometimes in minimal roles. 2.2.1 began as a fan-made port by tworoundcats, who was promoted to developer status after completing and presenting the port to the Drehmal dev team in the early summer of 2024.
-
-[Official v2.2.1 Changelog](https://www.drehmal.net/post/drehmal-apotheosis-v2-2-1-changelog)
 
 ### v2.2.2
 

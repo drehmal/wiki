@@ -131,3 +131,9 @@ Version 2.2.2 (still in late development as of mid-January 2025) aims to serve a
 ## How to Play
 
 Drehmal 2.2 is the current version of the map, and thus, can be played very easily by utilizing either the installer or manually downloading its parts. See the [[Getting Started]] page for more detailed help with this process.
+
+## Release Trailer
+
+The video below is the official release trailer for Drehmal: Apotheosis, uploaded on the same day as the full release.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/So3Z4MCLuRY?si=aVunubF5LlxEfoRi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

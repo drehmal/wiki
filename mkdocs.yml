@@ -131,6 +131,6 @@ extra:
       link: https://www.drehmal.net/
       name: "The Official Drehmal: APOTHEOSIS Web Page"
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/drehmal
+      link: https://discord.drehmal.net/
       name: The Official Drehmal Discord
   generator: false

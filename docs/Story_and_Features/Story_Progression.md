@@ -71,7 +71,7 @@ Upon returning to the Terminus after being prompted to do so in the Admin Wing, 
 ![[aphelion_outside.png]]
 > The Aphelion.
 
-Aboard the Aphelion, the player navigates through the ship via maintenance tunnels, uncovering a significant amount of information on Avsohmic studies regarding outer space, incredibly strong materials, and high concentrations of primal energy. The player can find the first bits of information about Avsohm's deeper ambitions here, shown through holotexts that espouse Anyr's desire to rule over the entirety of the universe after Avsohm's research found evidence of other realms. It is revealed that Avsohm attempted to peer outside of their realm (functionally a solar system), but were stopped by the [[Veil]], seemingly a space-time bubble that physically keeps the realm contained, and cannot be seen through. With this attempt foiled, they turned their attention to the divine moon of Lo'Dahr, which the Aphelion is currently orbiting.
+Aboard the Aphelion, the player navigates through the ship via maintenance tunnels, uncovering a significant amount of information on Avsohmic studies regarding outer space, incredibly strong materials, and high concentrations of primal energy. The player can find the first bits of information about Avsohm's deeper ambitions here, shown through holotexts that espouse Anyr's desire to rule over the entirety of the universe after researchers found evidence of other realms. It is revealed that Avsohm attempted to peer outside of their realm (functionally a solar system), but were stopped by the [[Veil]], an impervious space-time bubble that physically keeps the realm contained. With this attempt foiled, they turned their attention to the divine moon of Lo'Dahr, which the Aphelion is currently orbiting.
 
 The player then manages to navigate around the outside of the ship, through the vacuum of space, to a hangar bay containing a prototype warp tower. Here, they can activate an injection sequence, which drops the tower down and out of the ship. A few seconds later, the player can then press another button in the room to be transported to the landing spot of the tower: a lake on [[Lo'Dahr]].
 
@@ -82,7 +82,7 @@ The player then manages to navigate around the outside of the ship, through the 
 ## Core Facility (POST-75% SPOILERS BEGIN HERE)
 Upon first landing on Lo'Dahr, a likely first step will be following a compass found on the Aphelion to the [[Core Facility]], just east of the town of [[Naharja]]. This facility, whose function is not immediately clear, appears small at first, containing only a slightly fuzzy map of the moon's habitable area, a few blank holotext spots, and a security checkpoint reminiscent of that at the entrance to the Admin Wing. 
 
-The map found here highlights the rough locations of three other Avsohmic facilities, which are the next intended story locations on the moon. Each of these three facilities is intended to teach a player a mechanic that can then be used in the Core Facility.
+The map found here highlights the rough locations of three other Avsohmic facilities, which are the next intended story locations on the moon. Each of these three facilities is intended to teach the player a mechanic that can then be used in the Core Facility.
 
 ## Resupply Depot
 The [[Resupply Depot]], located in the southeast of Lo'Dahr in [[Rihelma's Domain]], was the first Avsohmic facility built on the moon, and is one of the four main Avsohmic facilities found on Lo'Dahr. It is situated on a floating island in the sky, and acted as a spaceport for Avsohm.
@@ -102,7 +102,7 @@ Within the facility, the player can find holotexts and books pertaining to the r
 ## Numencore
 At any point after arriving on Lo'Dahr, the player can solve the puzzle at the Core Facility, accessing the [[Numencore]], but the solution is not readily apparent unless they have visited the other three locations. 
 
-After passing through the admin-wing-like security checkpoint, the player comes to a hall with an inactive warp ring. By activating the warp ring using the solution from the Inscription Facility and applying the knowledge of the other two locations, the player can use this warp ring to access an extension of the Core Facility by the Numencore, Avsohm's true main target on the moon. 
+After passing through the admin wing-like security checkpoint, the player comes to a hall with an inactive warp ring. By activating the warp ring using the solution from the Inscription Facility and applying the knowledge of the other two locations, the player can teleport to an extension of the Core Facility by the Numencore, Avsohm's true main target on the moon. 
 
 The Numencore, located deep within the center of the moon itself, is a massive source of primal energy—the source of [[Khive|Mystic Elder Khive]]'s power. There are holotexts throughout the facility which establish that Avsohm's plan was to charge the Mythbreaker at the Numencore, use the spear's power to tear a hole in the Veil, and peer beyond the edges of the realm, but this operation was indefinitely postponed for fear of incurring Khive's wrath, and Avsohm fell before they had the chance to attempt this plan.
 
@@ -115,7 +115,7 @@ The Numencore, located deep within the center of the moon itself, is a massive s
 ![[numencore_core.png]]
 > The Numencore, with the Mythbreaker in its charging slot.
 
-Progression beyond this point requires the player to follow through on a version of Avsohm's plan found in the Numencore. They must charge the Inert Mythbreaker at the Numencore and engage in a chase sequence, evading enemies and magical projectiles sent from the sky by the greatly angered Khive, who [[Khive_Dialogue.md|speaks directly]] to the player. The destination of this run can be ascertained before this point through exploration, or through a "Primal Energy Radar" found at the Core Facility, pointing to [[Mt. Yavhlix]]. 
+Progression beyond this point requires the player to follow through on a modified version of Avsohm's plan found in the Numencore. They must charge the Inert Mythbreaker at the Numencore and engage in a chase sequence, evading enemies and magical projectiles sent from the sky by the greatly angered Khive, who [[Khive_Dialogue.md|speaks directly]] to the player. The destination of this run can be ascertained before this point through exploration, or through a "Primal Energy Radar" found at the Core Facility, pointing to [[Mt. Yavhlix]]. 
 
 The mountain is referenced several times before this point as a pertinent location for the empire, but upon visiting it, the facility inside is blocked off by an indestructible veilstone door (the same door used for spoilers on this wiki!). However, several sources, including some just outside the door, suggest that a powerful beam of primal energy could blast the door down.
 
@@ -125,7 +125,7 @@ If the player is able to navigate to the Mt. Yavhlix door with their charged Myt
 ![[primary_collection.png]]
 > The Primary Energy Collection Facility.
 
-Inside the door is the main Avsohmic facility built within Mt. Yavhlix: the [[Primary Energy Collection Facility]]. This facility, as hinted at in other areas of the map, was built to harness a massive source of primal energy found deep within the mountain itself, to power the entire empire. However, a horrific calamity seems to have started there, triggering the [[Fall of Avsohm|fall of the empire]]. Workers were consumed by beings known as "Those Beyond", and dark orbs that seemingly ate perfectly circular holes in things and people completely destroyed or rendered useless the vast majority of Avsohm's government and infrastructure.
+Inside the door is the main Avsohmic facility built within Mt. Yavhlix: the [[Primary Energy Collection Facility]]. This facility, as hinted at in other areas of the map, was built to harness a massive source of primal energy found deep within the mountain itself, thereby powering the entire empire. However, a horrific calamity seems to have started there, triggering the [[Fall of Avsohm|fall of the empire]]. Workers were consumed by beings known as "Those Beyond", and dark orbs that seemingly ate perfectly circular holes in things and people completely destroyed or rendered useless the vast majority of Avsohm's government and infrastructure.
 
 Inside of the facility, the player is [[Mt._Yavhlix_Dialogue.md|spoken to]] by a mysterious voice egging them on to an unclear goal, repeatedly telling them that there is "NOTHING TO LOSE." The player progresses by finding and turning on three override switches, which open the way to the energy source at the top of the facility: a tear in space and time, exposing the realm of Drehmal to the [[Nothing]]—a primordial void filled with extreme quantities of primal energy and unknown beings. By gathering 12 "Oculi of Nothing" and using them to override the seal (open the end portal), the player is granted access through the tear, into the [[Nothing Island|Nothing]].
 
@@ -133,7 +133,7 @@ Inside of the facility, the player is [[Mt._Yavhlix_Dialogue.md|spoken to]] by a
 ![[the_nothing.png]]
 > The Nothing.
 
-Inside the Nothing (very similar to the vanilla End dimension), the player is thrust into a fight against [[Tethlaen_Boss|Tethlaen]], the Aspect of Fear who has been missing for millennia. Upon killing Tethlaen, the regular Minecraft end portal appears in the center of the arena, and the player can enter it to see the vanilla Minecraft end credits and return to the Primary Collection Facility. 
+Inside [[Nothing Island|the Nothing]] (very similar to the vanilla End dimension), the player is thrust into a [[Tethlaen_Boss|fight]] against [[Tethlaen]], the Aspect of Fear who has been missing for millennia. Upon killing Tethlaen, the regular Minecraft end portal appears in the center of the arena, and the player can enter it to see the vanilla Minecraft end credits and return to the Primary Collection Facility. 
 
 This is not the end of the story.
 
@@ -156,7 +156,7 @@ At the Sunken Astral Body, the voice will manifest once again, summoning a bolt 
 ![[azimuth_gm.png]]
 > The God Machine.
 
-Eventually, the voice guides the player to the God Machine, a massive throne surrounded by an alchemical contraption that was intended to ascend Emperor Anyr to the level of a "god". However, the machine was activated prematurely, and the subsequent energy draw collapsed the entire Avsohmic energy grid, leading to the disconnection of all Terminus towers. The machine appears to have functioned properly, but nonetheless, Anyr died on the throne, his corpse still visible over a thousand years later.
+Eventually, the voice guides the player to the God Machine, a massive throne surrounded by an alchemical contraption that was intended to ascend Emperor Anyr to the level of a "god". The machine was activated prematurely, and the subsequent energy draw collapsed the entire Avsohmic energy grid, leading to the disconnection of all Terminus towers. The machine appears to have functioned properly, but nonetheless, Anyr died on the throne, his corpse still visible over a thousand years later.
 
 The player is then told to return to the Terminus.
 
@@ -168,7 +168,7 @@ Deep within the Primary Energy Collection Facility, another veilstone seal can b
 ![[resonant_eye.png]]
 > The Resonant Eye.
 
-The Resonant Eye is an extremely powerful divining lens, capable of peering beyond the Veil through the tear (the "Spiral Anomaly") present at Mt. Yavhlix. At the Eye, [15 total holotexts](/Story_and_Features/Holotexts/Post-Yav/Resonant_Halls/) can be found, containing research logs and notes on the first dives through the Eye. It is discovered in this facility that Tethlaen initially ventured into the rift to hold it closed from the inside, preventing primal energy from seeping into the realm and ultimately causing its demise. The Aspect and Avsohmic researchers, particularly [[Orix Cehein]], developed a strong rapport and symbiotic relationship, but the premature firing of the God Machine and subsequent fall of Avsohm led Tethlaen to become isolated and uncared for once again, with his body and mind gradually breaking down until he was killed by the player.
+The Resonant Eye is an extremely powerful divining lens, capable of peering beyond the Veil through the tear (the "Spiral Anomaly") present at Mt. Yavhlix. At the Eye, [15 total holotexts](/Story_and_Features/Holotexts/Post-Yav/Resonant_Halls/) can be found, containing research logs and notes on the first dives through the Eye. It is discovered in this facility that Tethlaen initially ventured into the rift to hold it closed from the inside, preventing primal energy from seeping into the realm and ultimately causing its demise. The Aspect and Avsohmic researchers, particularly [[Orix Cehein]], developed a strong rapport and symbiotic relationship, but the premature firing of the God Machine and subsequent fall of Avsohm led Tethlaen to become isolated. Without Avsohm's advanced technology and company to keep him healthy and sane, the Ever-Fear's body and mind gradually broke down until he was killed by the player, a husk of his former self.
 
 With this revelation, the player is transported back outside the Halls, and instructed to return to the Terminus once again, with the voice extending an invitation to its [[Court of Nothing|Court]].
 
@@ -177,7 +177,7 @@ With this revelation, the player is transported back outside the Halls, and inst
 ## Return to Stasis Facility { data-search-exclude }
 At the Terminus, a final trinket is dispensed: The Rhythmic Thing. This item directs the player back to where they arose: the Stasis Facility.
 
-At this point, the voice reveals their true identity: [[yellow|the Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including that of Drehmal, with far more power than any of the Aspects or [Deities](/Lore/Higher_Beings/Deities/). The Mythoclast gives the player a new rendition of the Mythbreaker (known in the community as the "True" Mythbreaker), and invites the player to their court, where the player is told that guests are expecting them.
+At this point, the voice reveals their true identity: [[yellow|the Mythoclast]], the being at the center of all creation, an omnipotent mind that ultimately governs all souls and realms, including that of Drehmal, with far more power than any of the Aspects or [Deities](/Lore/Higher_Beings/Deities/). The Mythoclast gives the player a new rendition of the Mythbreaker (known in the community as the "True" Mythbreaker), and invites the player to his court, where the player is told that guests are expecting them.
 
 The player is warned before entering that this is their final journey, as time flows differently where they're headed.
 
@@ -188,11 +188,11 @@ Upon stepping through the portal in the Stasis Facility, the player is transport
 ![[maddened_path.png]]
 > The Maddened Path.
 
-The [[Maddened Path]] is home to the penultimate story sequence, taking place near the Heart of the Void. As the player traverses the shattered terrain, some of which is reminiscent of terrain found on [[Overworld|Drehmal]], the Mythoclast admits to the player that they were behind the fall of Avsohm, explaining that Avsohm came too close to claiming their own proverbial crown, and could not have been allowed to attain the degree of power which they desired.
+The [[Maddened Path]] is home to the penultimate story sequence, taking place near the Heart of the Void (a mysterious nebula-like location at the center of the universe). As the player traverses the shattered terrain, some of which is reminiscent of terrain found on [[Overworld|Drehmal]], the Mythoclast admits to the player that he was behind the fall of Avsohm. He explains that Avsohm came too close to claiming his own proverbial crown, and the empire could not have been allowed to attain the degree of power which they desired.
 
-They also tell the player that they have one final person for them to meet, and that this person has specifically requested to see you, the player. The Mythoclast wishes the player luck before leaving them to the final boss fight.
+He also tells the player that there is one final person for them to meet, and that this person has specifically requested to see you, the player. The Mythoclast wishes the player luck before leaving them to the final boss fight.
 
-The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss appears like any other [[Drehmari]] wielding the scythe [[Oblivion]], but in his second phase, is revealed to be [[Drehn|Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful man, realized too late that he had created an empire that would stop at nothing to attain power, and after his death, his soul begged the Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's pawn, up until his death at the player's hands.
+The final fight, in an arena at the end of the path, is against the [[Emissary of the Void]]. This two-phase boss begins as a mysterious, purple hood-wearing [[Drehmari]] wielding the scythe [[Oblivion]], but in his second phase, is revealed to be [[Drehn|Drehn Mal'Sohm]], the founder and first emperor of Avsohm. Drehn, who was a generally peaceful and diplomatic man, realized too late that he had created an empire that would stop at nothing to attain power. After his death, he begged the Mythoclast to destroy Avsohm. This would not come to pass immediately, but he was kept alive as the Mythoclast's pawn, up until his death at the player's hands.
 
 After defeating the Emissary, one final portal is opened.
 

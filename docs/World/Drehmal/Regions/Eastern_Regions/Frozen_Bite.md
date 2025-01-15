@@ -62,6 +62,8 @@ Shivering Pines Inn is a large lodge and brewery, founded and run by Ga'ran and 
 
 ## Extras
 
-The Frozen Bite's terrain was the most heavily re-worked of all the regions between Drehmal v2.1 and 2.2. 
+![[frozenbite_comparison.png]]
+
+The Frozen Bite's terrain was the most heavily re-worked of all the regions between Drehmal v2.1 and 2.2, receiving a full overhaul along with parts of [[Highfall Tundra]].
 
 Every blackstone/basalt mountain in the Frozen Bite has a lava pool beneath.

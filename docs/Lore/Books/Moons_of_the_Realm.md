@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal: [[Lorahn]], [[Loruhn]], and [[LD|Lo'Dahr]].
+This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal: [[Lorahn]], [[Loruhn]], and [[LD|Lo'Dahr]]. It also references a rumored fourth, [[Lo'Veruhkt|hidden moon]], but writes this off as an impossibility.
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -17,11 +17,10 @@ This book can be found in a chest on the lower floor of the library in [[Okeke]]
 >
 > Loruhn
 > -------------------
-> Loruhn is smaller than Lorahn and always visible. it's a rocky moon with a small atmosphere that absorbs energy from Torahn's light, giving it a permanent aurora borealis visible at night. Loruhn is always visible, both day and night.
+> Loruhn is smaller than Lorahn and always visible. It's a rocky moon with a small atmosphere that absorbs energy from Torahn's light, giving it a permanent aurora borealis visible at night. Loruhn is always visible, both day and night.
 >
 > Lo'Dahr
 > -------------------
-> Lo'Dahr is a small bright yellow moon that never moves. It is only visible during the night, hanging just above the Southern horizon. It is known to be the home of Drehmal's deities and their more ethereal forms, created by Dahr, one of the elder Aspects. There is a large fallen fragment of what is believed to be Lo'Dahr directly east of Dusps, and is a popular site for researchers or religious groups. There are whisperings and rumors amongst insane alchemists and rural mountain people of a fourth and hidden moon, but no reputable astronomist has ever found evidence of such a thing. It is most likely a total fabrication.
-
-
-
+> Lo'Dahr is a small bright yellow moon that never moves. It is only visible during the night, hanging just above the Southern horizon. It is known to be the home of Drehmal's deities and their more ethereal forms, created by Dahr, one of the elder Aspects. There is a large fallen fragment of what is believed to be Lo'Dahr directly east of Dusps, and is a popular site for researchers or religious groups. 
+>
+> There are whisperings and rumors amongst insane alchemists and rural mountain people of a fourth and hidden moon, but no reputable astronomist has ever found evidence of such a thing. It is most likely a total fabrication.

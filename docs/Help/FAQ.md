@@ -80,6 +80,17 @@ This second version of the resource pack decreases the resolution and file size 
 
 Ensure that the resource pack is properly downloaded, and that your in-game language is set to either **English (US)** or **English (UK)**. The game only recognizes the file which replaces mob, item, and block names with their Drehmal equivalents if the language is set to one of these two options.
 
+### Where Can I Find Downloads for Older Versions?
+
+We strongly recommend that all first-time players go to the current version of Drehmal to fully experience the map and all of its features. However, if you would like to revisit the older versions for whatever reason, archived download links for some previous Drehmal versions are available on the [Drehmal Versions](/Misc/Versions/) page.
+
+### Can I Use Drehmal for My Server?
+
+Of course, you may run Drehmal on a server for the purpose of running a multiplayer playthrough. However, some people also wish to use Drehmal as a map for their own RPG-style public servers, which requires more setup and explicit permission from the developers. Generally, the creators of Drehmal permit people to use the map on servers, with some specific limitations: the map may not be monetized by you in any way, meaning that any servers with pay-to-win mechanics are not allowed to use the Drehmal map. Furthermore, the creators of the map must be properly credited.
+
+!!! danger "These guidelines have been written by a wiki editor, not a developer or creator of the Drehmal map."
+    If you would like to use Drehmal for your server, then the best course of action is simply to ask the creators directly in the Discord, with details on how you would specifically plan to do so. Permission may change on a case-by-case basis.
+
 ## Wiki Content
 
 Questions about this wiki itself, and its scope.

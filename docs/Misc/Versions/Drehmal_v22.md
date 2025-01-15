@@ -101,7 +101,7 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
         - [[Tul'Vohaln]] <br>
         - [[Warp Horse]] <br>
         - [[Whispersong]] <br>
-        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Lo'Dahr Trials](World/Post-75_Area/Points_of_Interest/Trials/)). <br>
+        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Lo'Dahr Trials](/World/Post-75_Area/Points_of_Interest/Trials/)). <br>
         The start of the quest for [[Oblivion]] was moved to [[Highfall]], with the Compass of Nihility previously being found beneath the Tidal Palace in [[Firteid]]. <br>
     ??? abstract "New (Non-Story) Content"
         2.2 adds many new settlements and other points of interest, many of which are listed below. <br>

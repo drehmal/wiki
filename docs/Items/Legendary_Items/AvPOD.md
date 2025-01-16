@@ -8,7 +8,7 @@
 
 The **AvPOD** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
-The AvPOD (short for Avsohmic Playback Organizer Device) is a legendary item that is capable of playing any individual song from the Drehmal: Apotheosis OST, as long as the player has heard it at some point (accessed the location where it plays). It is found in [[Tharxax City]], at the Lord Magister's Residence.
+The AvPOD (short for Avsohmic Playback Organizer Device) is a legendary item that is capable of playing any individual song from the Drehmal: Apotheosis [[soundtrack|OST]], as long as the player has heard it at some point (accessed the location where it plays). It is found in [[Tharxax City]], at the Lord Magister's Residence.
 
 <br> <br> <br>
 

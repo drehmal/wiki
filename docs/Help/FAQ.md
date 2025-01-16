@@ -105,7 +105,7 @@ In short, this wiki has a larger scope than the Fandom wiki, uses canon informat
 
 ### Is There Any DLC Content on this Wiki?
 
-No, this wiki does not contain any information on the [unofficial "DLC" modpack](https://modrinth.com/modpack/drehmal-apotheosis-2.2-dlc) for Drehmal v2.2, created by developer tworoundcats. None of the people who work on this wiki have played the DLC, and it is not an official part of Drehmal, so it is unlikely that it will be added in the future, although a separate, much smaller wiki/guide may be created.
+No, this wiki does not contain any information on the [[DLC|unofficial "DLC" modpack]] for Drehmal v2.2, created by developer tworoundcats. None of the people who work on this wiki have played the DLC, and it is not an official part of Drehmal, so it is unlikely that it will be added in the future, although a separate, much smaller wiki/guide may be created.
 
 ## Gameplay
 

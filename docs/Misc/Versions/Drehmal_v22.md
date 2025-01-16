@@ -132,6 +132,12 @@ Version 2.2.2 (still in late development as of mid-January 2025) aims to serve a
 
 Drehmal 2.2 is the current version of the map, and thus, can be played very easily by utilizing either the installer or manually downloading its parts. See the [[Getting Started]] page for more detailed help with this process.
 
+An archived download of the initial full release (the 1.17.1 version of the map) can be found here, if you would like to play this version: <br>
+**World Download:** [Drehmal v2.2.0](https://drive.google.com/file/d/14vXAeD4le2Vv1K2zi8ke81fmSp9R2cfM/view) <br>
+**Resource Pack:** [Primordial Pack 2.2](https://drive.google.com/file/d/1tfNII7Hy-6Q6Qlr9APzcWsp8Yv9t4Hcf/view)
+
+In addition, you will need Fabric for Minecraft 1.17.1 and all of the required mods. An archived version of the modlist page can be found [here](https://web.archive.org/web/20240619180147/https://www.drehmal.net/2-2-mod-list).
+
 ## Release Trailer
 
 The video below is the official release trailer for Drehmal: Apotheosis, uploaded on the same day as the full release.

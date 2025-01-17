@@ -12,4 +12,4 @@ As it does not contain a true main story or questline, Drehmal: Legacy can only 
 
 ## Download Link
 
-The original Planet Minecraft upload of Drehmal v1 is still up, accessible through [this link](https://www.planetminecraft.com/project/drehmal-8000x8000-survival-adventure-map/) (or by simply searching "Drehmal: Legacy" on PMC).
+The original Planet Minecraft upload of Drehmal v1 is still up, accessible through [this link](https://www.planetminecraft.com/project/drehmal-8000x8000-survival-adventure-map/) (or by simply searching "Drehmal: Legacy" on PMC). This map can be played on a vanilla 1.12.1 client.

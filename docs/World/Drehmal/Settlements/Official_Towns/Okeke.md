@@ -132,6 +132,13 @@ Okeke's theme song is "Night Owls", by Drehmal composer Chris Nesja.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Xem1lAHvuk?si=rpMNjkQolSTMwSu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Prior Versions
+
+Okeke received a modest update in [[Drehmal v22|version 2.2]], adding its docks, more housing to the east, and some slightly more intriguing buildings.
+
+![[Okeke1.webp]]
+> Okeke as it appeared in version 2.1.
+
 ### Merchant Respawn Commands
 
 In the event that one of the custom merchants in Okeke is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.

@@ -60,8 +60,17 @@ The Numencore likely went physically untouched until Avsohm's colonization of th
 Several prominent Avsohmic characters are known to have spent time at the Numencore facility, including [[Kahmas Tuhs]], Ekoh, Cehva, and Marto.
 
 ## Extras
+
+### Trivia
+
 Boundary-breaking in the Numencore can reveal two easter eggs.
 
 ??? danger "Forbidden Knowledge!"
     Directly underneath the facility, obtainable only by using cheats to enter Creative or Spectator Mode, the player can obtain the **Meethbreekr**, a joke rendition of the Mythbreaker. The Meethbreekr is a golden shovel enchanted with Level 255 Sharpness, dealing a patently absurd 130.5 damage per hit. <br>
     Deep inside the core itself, a player head resembling a plush figure of Maelihs can be found.
+
+### Soundtrack
+
+The song that plays when entering the Numencore for the first time is simply titled "The Core", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iqGsl0c_njI?si=siO6rfVX7oJhyiqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

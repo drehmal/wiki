@@ -67,6 +67,21 @@ The Maddened Path appears to be made up of remnants of Drehmal that are approach
 This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Great Work]], but believes there is still one more step to true apotheosis. He describes visions of the Heart of the Void and eidolic whispers pushing him there, presumably from [[Aok]].
 
 ## Extras
+
+### Trivia
+
 The enemies along the path with unreadable names do in fact have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend."
 
+***
+
+The majority of the Maddened Path is made up of re-used structures, including High Arch (the land arch over [[Tharxax City]]), the main domed building of [[Av'Sal]], [[Akhlo'Rohma|Akhlo'Rohman]] flowers, and warp rings from [[Khive's Domain]].
+
+### Dialogue
+
 A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.md#The Maddened Path|here]]. This article pertains only to the 9th section on that page, the **Maddened Path**.
+
+### Soundtrack
+
+The theme song for the Maddened Path is "Before the Storm", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ylo0oRnBzec?si=LJ3tr06ZG8FAbRn7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

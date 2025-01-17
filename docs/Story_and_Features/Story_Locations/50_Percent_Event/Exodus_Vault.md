@@ -71,3 +71,11 @@ The Vault was, at some point or another, worked in by many pertinent figures in 
 Kovis' work in particular is critical to understanding the history of the site, as she was the primary mind behind the Graviton Crucible. The Graviton Crucible, located within the northern wing of the vault, is an extremely intricate machine, capable of forging highly powerful materials. When the form of the Mythbreaker was revealed to Avsohm through the Resonant Eye, [[Thresa Vera|CSO Thresa]] brought the data to Kovis, who was able to devise schematics to forge the spear's blade using the Crucible. The Inert Mythbreaker was first created in the vault, and shortly thereafter, it was split into two separate pieces. These fragments were spread between [[Sal'Mevir]] and the Graviton Crucible in Exodus Vault, to prevent it from falling into the wrong hands before the weapon would supposedly be reunited, charged and used by [[Anyr|Emperor Anyr]].
 
 Many of the workers present at the vault during [[Fall of Avsohm|Avsohm's sudden fall]] appear to have been corrupted, becoming the humanoid enemies found by the player, including Lost Technician Naskiki, the technician responsible for the [[Warp Horse]] prototype.
+
+## Extras
+
+### Soundtrack
+
+The theme song of the Exodus Vault is "Down the Tubes" by Penngo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM7pqgq8ghg?si=eSJdXlD5gDP73ezP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -24,7 +24,7 @@ In [[Drehmal v21|version 2.1]], Drehmal had a soundtrack composed of tracks from
 
 ## 2.2 Original Soundtrack
 
-With the [[Drehmal v22|2.2 update]], Drehmal completely ditched outside music in favor of an OST, featuring 51 tracks produced by Chris Nesja (plus two songs by builder Penngo). Parts of the soundtrack were slowly released to patrons in the years leading to 2.2's release, and it has been fully incorporated into the map since the first 2.2 beta.
+With [[Drehmal v22|the 2.2 update]], Drehmal completely ditched outside music in favor of an OST, featuring 51 tracks produced by Chris Nesja (plus two songs by builder Penngo). Parts of the soundtrack were slowly released to patrons in the years leading to 2.2's release, and it has been fully incorporated into the map since the first 2.2 beta.
 
 In-game, the volume of the soundtrack is controlled by the "Locational Music" slider in audio settings.
 

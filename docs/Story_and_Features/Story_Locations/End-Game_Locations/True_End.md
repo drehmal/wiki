@@ -75,4 +75,13 @@ Southeast of the Primal Caverns, a statue of Verrhys, made of identical material
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
 
 ## Extras
+
+### Dialogue
+
 A full transcript of the Mythoclast's dialogue can be found [[End-Game_Dialogue.md#True End|here]], with this article only pertaining to section 10: **True End**.
+
+### Soundtrack
+
+The theme song for the True End/Final Grave, which begins playing in time with the credits, is "Death of a World", by Drehmal composer Chris Nesja. This song is based off of "Death of Åse", a classical composition by Norwegian composer Edvard Grieg.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6yb-QK8PL8?si=-64kIfXhhHREz7Jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

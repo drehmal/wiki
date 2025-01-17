@@ -20,7 +20,7 @@ Drehmal has its own subreddit, over at [r/Drehmal](https://www.reddit.com/r/Dreh
 
 ## Twitter/Bluesky
 
-The Drehmal team ran an official Twitter account for several years, at [@DrehmalMC](https://x.com/DrehmalMC). In November 2024, the dev team decided to move off of the platform indefinitely, migrating to [Bluesky](https://bsky.app/profile/drehmal.net).
+The Drehmal team ran an official Twitter account beginning in 2021, at [@DrehmalMC](https://x.com/DrehmalMC). In November 2024, the dev team decided to move off of the platform indefinitely, migrating to [Bluesky](https://bsky.app/profile/drehmal.net).
 
 ## YouTube
 

@@ -1,4 +1,4 @@
-# Ultva, Genocide of One and Hovadchear, Master of the Order
+# Ultva & Hovadchear
 
 --8<-- "spoiler.md"
 

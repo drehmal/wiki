@@ -9,6 +9,6 @@ Hovadchear Myrik was the co-founder of the [[Insohm|Order of Insohm]] and one of
 
 ## Master of Insohm
 
-## Disappearance (END-GAME SPOILERS)
+## Disappearance
 
-## In-Game Bossfight (END-GAME SPOILERS)
+## In-Game

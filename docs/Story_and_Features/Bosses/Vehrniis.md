@@ -14,7 +14,7 @@ The Vehrniis can be fought at any time if the player reaches her arena, and defe
 
 ### Origin and Name
 
-The Vehrniis was built off of an armor stand "worm" experiment built by Numbers, Drehmal's lead coder in 2.2. She was given the nickname "Bernice" early in development, and this has persisted as the name she is best known by to this day. The name "Vehrniis" was coined in order to make "Bernice" sound more like a name that could fit in the world of Drehmal.
+The Vehrniis was built off of an armor stand "worm" experiment built by Numbers, Drehmal's lead coder in 2.2. She was given the nickname "Bernice" early in development, and this has persisted to this day as her most frequently used name in the community. The name "Vehrniis" was coined in order to make "Bernice" sound more like a name that could fit in the world of Drehmal.
 
 ### Soundtrack
 

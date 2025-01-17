@@ -11,4 +11,4 @@ Ultva Utofal was the co-founder of the [[Insohm|Order of Insohm]] and one of its
 
 ## Disappearance
 
-## In-Game Bossfight (END-GAME SPOILERS)
+## In-Game

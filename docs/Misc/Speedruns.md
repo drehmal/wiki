@@ -3,7 +3,7 @@ search:
  boost: 0.7
 ---
 
-# Drehmal Speedrunning
+# Speedrunning
 
 --8<-- "spoiler.md"
 

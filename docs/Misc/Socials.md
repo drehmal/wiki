@@ -1,4 +1,4 @@
-# Drehmal Socials
+# Socials
 
 There are several dedicated places where Drehmal discussion takes place.
 

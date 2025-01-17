@@ -1,4 +1,4 @@
-# Drehmal Soundtrack
+# Soundtrack
 
 Since version 2.1, Drehmal has had some kind of soundtrack, with songs beyond vanilla Minecraft's soundtrack being used in specific locations. In 2.2, this is a fully original soundtrack, composed by Chris Nesja.
 

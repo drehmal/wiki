@@ -119,3 +119,13 @@ The new Terminus-based energy network proved to be extremely convenient for the 
 
 Upon defeating [[Tethlaen]] in the [[Nothing]], the player will begin the end-game sequence, in which they are spoken to by [[yellow|a mysterious voice]]. This sequence sees the player return to the Terminus three times, each time being given a trinket that leads them to one of the main [end-game locations](/Story_and_Features/Story_Locations/End-Game_Locations/). During this time, avSYS appears to be possessed by the being speaking to the player.
 
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+## Extras
+
+### Soundtrack
+
+The theme song that plays in the Terminus is "Space Between Spaces", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKLHxcXhjpY?si=-UeskaFRHCGeNESa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

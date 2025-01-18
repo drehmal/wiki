@@ -641,5 +641,11 @@ Around the top of Lahrs' room, a musical staff is drawn on the walls, looping ar
 
 ***
 
+### Soundtrack
+
+Ytaj's theme song is "Sacred Halls", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLjh5Aok180?si=jYGoqTzURqWCIR03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [^1]: Prior to v2.2.2 in late November 2024, there were a total of 111 Divine Baubles, but 4 more were added in this update. Additional 2.2.2-only Bauble locations are listed at the end of the table.
 [^2]: This mural has been disputed between Mari and Maen. It is most likely Mari, based on prototype versions of this build in the Dev Zone and the fact that Maen and Moen are across from one another in this interpretation.

@@ -44,7 +44,7 @@ In the arena at the end of the path, the final boss manifests: the [[Emissary of
 
 When the player depletes the Emissary's health bar, he pulls back his hood to reveal his true face, and the name at the top of the screen changes to "[[Drehn|Drehn Mal'Sohm]], the First [Emperor](/Lore/Historical_Figures/Avsohm/Emperors/)," revealing the true identity of the Emissary.
 
-When the player defeats Drehn, the Mythoclast offers additional insight into what just occurred. Late in his life, Drehn had realized that his empire would grow to unsustainable lengths, and was likely to discover and interfere with something they should not based on their findings at [[Mt. Yavhlix]]. When his soul arrived at the Court of Nothing after his death, he pleaded with the Mythoclast to destroy the empire, or to at least allow him to see the end. The Mythoclast obliged, allowing Drehn to remain alive as his servant. Eventually, when the time came, the Emissary was sent to sabotage Avsohm on the ground level, with multiple accounts of him being sighted during the [[Fall of Avsohm|events that ended of the empire]], most notably at the [[Stasis Facility]]. His defeat at the hands of the player marks the end of his subjugation under the Mythoclast, and his soul is set free.
+When the player defeats Drehn, the Mythoclast offers additional insight into what just occurred. Late in his life, Drehn had realized that his empire would grow to unsustainable lengths, and was likely to discover and interfere with something they should not based on their findings at [[Mt. Yavhlix]]. When his soul arrived at the Court of Nothing after his death, he pleaded with the Mythoclast to destroy the empire, or to at least allow him to see the end. The Mythoclast obliged, allowing Drehn to remain alive as his servant. Eventually, when the time came, the Emissary was sent to sabotage Avsohm on the ground level, with multiple accounts of him being sighted during the [[Fall of Avsohm|events that ended the empire]], most notably at the [[Stasis Facility]]. His defeat at the hands of the player marks the end of his subjugation under the Mythoclast, and his soul is set free.
 
 The Mythoclast informs the player that "nothing remains," and opens one final portal at the center of the arena, leading to [[True End|one final area]].
 
@@ -67,6 +67,21 @@ The Maddened Path appears to be made up of remnants of Drehmal that are approach
 This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Great Work]], but believes there is still one more step to true apotheosis. He describes visions of the Heart of the Void and eidolic whispers pushing him there, presumably from [[Aok]].
 
 ## Extras
+
+### Trivia
+
 The enemies along the path with unreadable names do in fact have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend."
 
+***
+
+The majority of the Maddened Path is made up of re-used structures, including High Arch (the land arch over [[Tharxax City]]), the main domed building of [[Av'Sal]], [[Akhlo'Rohma|Akhlo'Rohman]] flowers, and warp rings from [[Khive's Domain]].
+
+### Dialogue
+
 A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.md#The Maddened Path|here]]. This article pertains only to the 9th section on that page, the **Maddened Path**.
+
+### Soundtrack
+
+The theme song for the Maddened Path is "Before the Storm", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ylo0oRnBzec?si=LJ3tr06ZG8FAbRn7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

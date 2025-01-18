@@ -396,6 +396,13 @@ Rhaveloth's theme song is "Ebb and Flow", by Drehmal composer Chris Nesja.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwhDah9hIro?si=Huk4PomrOkNw2vOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Older Versions
+
+Firteid received a massive update in [[Drehmal v22|version 2.2]], being upgraded from a modest village/town to the largest city in Drehmal.
+
+![[Firteid1.webp]]
+> Firteid as it appeared in 2.1.
+
 ### Merchant Respawn Commands
 
 In the event that one of the custom merchants in Firteid is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.

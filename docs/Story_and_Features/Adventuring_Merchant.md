@@ -3,15 +3,22 @@
 --8<-- "under_construction.md"
 
 ![[drabyel_adventuring_merchant.png]]
-> Adventuring Merchant in New Drabyel
+> The Adventuring Merchant in New Drabyel.
 
-Adventuring Merchants are special merchants, one of which can be found in each [official town/city](/World/Drehmal/Official_Towns/). An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of [[Overworld|Drehmal]] that displays all official towns on the mainland, a bundle, a relic vessel, and another special item that is unique to the merchant, and usually is associated with their area.
+Adventuring Merchants are special merchants, one of which can be found in each [official town/city](/World/Drehmal/Official_Towns/) (with the exception of [[Rhaveloth]]). An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of [[Overworld|Drehmal]] that displays all official towns on the mainland, a bundle, a runic vessel (shulker box), and another special item that is unique to the merchant, and usually is associated with their area.
 
-## Lore
+## Trades
 
-Adventuring Merchants stand under the protection of [[Green Serpent]].
+Every Adventuring Merchant has the following trades:
 
-## Map of Drehmal
+| Price | Purchase |
+|:---------:|:----------------------:|
+| 10x Scale | Regional Map |
+| 45x Scale <br>1x Diamond | Map of Drehmal |
+| 20x Scale | Bundle |
+| 32x Scale + 12x Runic Catalyst | Runic Vessel |
+
+### Map of Drehmal
 
 Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the shape of the continent and the relative locations of towns on it, as well as the positions of the four visible celestial bodies in the sky.
 
@@ -35,31 +42,36 @@ Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the 
 
 ![[map_103.png]]{ width="400" }
 
-## Adventuring Merchants
-
-**Every Adventuring Merchant has the following trades:**
-| Price | Purchase |
-|-|-|
-| 10x Scale | Map of [Region] |
-| 45x Scale + 1x Diamond | Map of Drehmal |
-| 20x Scale | Bundle |
-| 32x Scale + 12x Runic Catalyst | Runic Vessel |
-
-**List of Adventuring Merchants:**
-
-| Location | Regional Map | Special Trade |
-|-|-|-|
-
-## Regional Maps
+### Regional Maps
 
 Regional maps show the region surrounding the Adventuring Merchant's town, as well as parts of bordering regions. Marked on the map are several simple symbols that denote points of interest.
 
-**Description:**
-> A map of the region surrounding [town name], with markers signifying important locations.
+## List
 
-| Region | Image |
-|-|-|
+|   Location   | Regional Map | Special Trade Offering |
+|:------------:|:------------:|:-------------:|
+| [[Athrah]]   | Casai Map <br> ![[map_150.png]]{ width="200" } | Orderflame Torches |
+| [[Drabyel]]  | Capital Valley Map <br> ![[map_104.png]]{ width="200" } | Saddle |
+| [[Dusps]]    | Akhlo'Rohma Map <br> ![[map_112.png]]{ width="200" } | Bone Meal |
+| [[Ebonrun]]  | Mt. Ebonfire Map <br> ![[map_116.png]]{ width="200" } | TNT |
+| [[Firteid]]  | Black Jungle Map <br> ![[map_1004.png]]{ width="200" } | Spyglass |
+| [[Fort Nimahj]] | North Tharxax Map <br> ![[map_1000.png]]{ width="200" } | Book and Quill |
+| [[Gozak]]    | Heartwood Map <br> ![[map_1003.png]]{ width="200" } | Golden Apple |
+| [[Highfall]] | Highfall Tundra Map <br> ![[map_1006.png]]{ width="200" } | Lava Bucket |
+| [[Mohta]]    | Lorahn'Kahl Map <br> ![[map_1002.png]]{ width="200" } | Lead |
+| [[Mossfield]] | Spearhead Forest Map <br> ![[map_1005.png]]{ width="200" } | Sugar Cane |
+| [[New Sahd]] | Sahd Map <br> ![[map_1007.png]]{ width="200" } | Candles |
+| [[Okeke]]    | Merijool Map <br> ![[map_114.png]]{ width="200" } | Scaffolding |
+| [[Tharxax City]] | South Tharxax Map <br> ![[map_1001.png]]{ width="200" } | Iron Horse Armor |
 
+There is one uniquely named Adventuring Merchant, located in a late-game area.
+
+??? warning "Post-75% Location Spoiler"
+    Adventuring Merchant Eliana, located in [[Naharja]], sells a different set of items, related to her particular area.
+
+## Lore
+
+Adventuring Merchants stand under the protection of [[Green Serpent]], the ancient merchants' guild that was once an extension of [[Avsohm]]'s government.
 
 ## Extras
 

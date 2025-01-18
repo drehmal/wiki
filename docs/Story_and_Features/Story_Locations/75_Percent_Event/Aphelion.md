@@ -112,4 +112,16 @@ There is an extremely well-hidden target block in the throne room on the lowest 
 ### Trivia
 The term "*Aphelion*" is a [real English word](https://simple.wikipedia.org/wiki/Aphelion), and is a term used to refer to the furthest point in a planet's orbit from the sun. A generic term for such a point (if not orbiting the sun) is an *apsis*.
 
+### Soundtrack
+
+There are two songs in the soundtrack dedicated to the Aphelion, both by Drehmal composer Chris Nesja.
+
+The first, "Welcome Aboard", begins playing during the shuttle ride.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUhe-6CUSUs?si=vzAedWEkx4m9Ravt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The second, "Imponderous", plays during the spacewalk sequence.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9sdIYrisM8?si=_jylpPiRM1bCWT-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [^1]: i don't have to be impartial in footnotes: if you kill the roombots, you will NOT be granted favorable reincarnation by Voynahla! Do NOT hurt them they are my friends >:(

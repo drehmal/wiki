@@ -31,10 +31,13 @@ Runic Amplifiers are sold by Runic Blacksmiths at the following locations:
 ## Armor Trims
 Armor Trims can be obtained in Drehmal through trading with certain Runic Blacksmiths. Drehmal's resource pack gives armor trims custom textures to correspond with the areas where they are sold, but these do not actually change the pattern or vanilla mechanic underlying armor trims.
 
+![[drehmal_armortrims.png]]
+> An image depicting the 16 decorative armor trim patterns, with their re-made textures in Drehmal.
+
 ??? warning "Armor Trim Locations"
     | **Image** | **Name** | **Location** | **Cost** |
     |:---------:|:-----------------:|:---------------|:------------:|
-    | ![[coast_armor_trim_smithing_template.png]]{ width="32" } | Coast Armor Trim | N/A  | Crafting |
+    | ![[coast_armor_trim_smithing_template.png]]{ width="32" } | Coast Armor Trim | [[Port Solitude]] | Reach the maximum level in [[Devotion#Dahr Rewards|Dahr's Devotion]]. |
     | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
     | ![[eye_armor_trim_smithing_template.png]]{ width="32" } | Eye Armor Trim | [[Rhaveloth#Runic Blacksmith|Rhaveloth Runic Blacksmith]] | 16 Gold Ingots |
     | ![[host_armor_trim_smithing_template.png]]{ width="32" } | Host Armor Trim | [[Athrah#Runic Blacksmith|Athrah Runic Blacksmith]] | 16 Copper Ingots |

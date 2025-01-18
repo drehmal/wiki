@@ -195,6 +195,15 @@ Highfall's theme is "Ashen Sky" by Drehmal composer Chris Nesja.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2OPvX3UA7Fo?si=Oi2ijVsBmHT6-vV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### 2.1 Version
+
+Highfall received a significant update in [[Drehmal v22|version 2.2]], including the removal of the [[Frozen Bite#Grimm Troupe|Grimm Troupe]] (now in the Frozen Bite), and the addition of more buildings in the eastern outskirts.
+
+![[Highfall_City1.webp]]
+> Highfall as it appeared in Drehmal 2.1.
+
+This change was made primarily by return_of_the_gamer (officially credited in the map as "Maelhrizz"), a prominent Drehmal community member.
+
 ### Merchant Respawn Commands
 
 In the event that one of the custom merchants in Highfall is turned into a witch or dies, the following commands can be used (through a command block) in order to respawn them. See [[FAQ#Can Custom Villagers Be Respawned?|this page]] for more information on these commands.

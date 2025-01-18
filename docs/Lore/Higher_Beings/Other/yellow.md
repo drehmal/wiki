@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-**The Mythoclast** (meaning "myth-breaker", also known to Avsohm as "Him-Beyond" and often informally referred to by the Drehmal community as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
+**The Mythoclast** (meaning "myth-breaker", also known to [[Avsohm]] as "Him-Beyond" and often informally referred to by the Drehmal community as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
 
 Although his influence is often hidden, The Mythoclast plays a central role in the story of Drehmal, having directly intervened in the realm's history by personally smiting the [[Avsohm|Avsohmic Empire]], as well as functioning as the player's guide through the end-game sequence. During these events, he gives several revelations about the history of Avsohm and what ultimately spelled the empire's doom.
 
@@ -17,7 +17,9 @@ The Mythoclast's true material form is not known, but he presents the player wit
 
 ## Abilities
 
-The Mythoclast possesses an extreme degree of power, with little limit as to what he is able to do. During the story, the Mythoclast demonstrates his ability to effortlessly blast through veilstone, bend runic technology to his will, teleport anyone anywhere, and preserve deceased mortals as puppets, controlling a functionally endless army of higher beings. Although not confirmed, it also appears that The Mythoclast has the ability to cause large structures to disappear entirely, as he is the primary suspect for the disappearance of [[Castle Hovadchear]].
+The Mythoclast possesses an extreme degree of power, with little limit as to what he is able to do. During the story, the Mythoclast demonstrates his ability to effortlessly blast through veilstone, bend runic technology to his will, teleport anyone anywhere, and preserve deceased mortals as puppets, controlling a functionally endless army of higher beings. 
+
+Although not confirmed, it also appears that The Mythoclast might have the ability to cause large structures to disappear entirely, as he is a possible suspect in the disappearance of [[Castle Hovadchear]].
 
 The Mythoclast decides the destiny of all souls when they pass through [[Court of Nothing|his Court]] on their way from death to rebirth.
 
@@ -33,10 +35,14 @@ After defeating [[Tethlaen]] and returning to Drehmal, a mysterious voice (shown
 
 ## Identity
 
-The true identity of the Mythoclast has been the source of intense speculation within the Drehmal community, as many have entertained the idea that he may have been born mortal, but managed to ascend to his current level of omnipotence, potentially through completion of the [[Ambition]]. It has been theorized that if this is the case, then the Mythoclast may even be a known figure from the realm of Drehmal, as he seems to take a particular interest in our realm.
+The true identity of the Mythoclast has been the source of intense speculation within the Drehmal community. Many have entertained the idea that he may have been born mortal, but managed to ascend to his current level of omnipotence, potentially through completion of the [[Ambition]]. It has been theorized that if this is the case, then the Mythoclast may even be a known figure from the realm of Drehmal, as he seems to take a particular interest in our realm.
 
 Many characters have been proposed as potential candidates for the original identity of the Mythoclast, although none of these theories have been confirmed by developers or reached any sort of consensus among the community. Such characters include [[Verrhys]], [[Akim]], and [[Aok]], to name a few.
 
 ## Dialogue 
 
 A full transcript for all of The Mythoclast's dialogue from the end-game sequence can be found [[End-Game_Dialogue.md|here]] (full story spoilers).
+
+## Extras
+
+Mytho has an [official Twitter account](https://x.com/mr_o_clast) followed by the Drehmal account, although he has not posted in a long time.

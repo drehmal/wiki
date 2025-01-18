@@ -129,9 +129,9 @@ Beginning in the [[Primary Energy Collection Facility]] inside [[Mt. Yavhlix]], 
 
 ??? warning "End-Game Soundtracks"
     | **Title** | **Location** | **Notes** |
-|:--------------:|:--------------:|:-------------------------------------------------------------------|
-| [Nothing to Lose](https://youtu.be/fzMip_LU2SE?si=E26fg6OblOyjSmj2) | [[Nothing Island|The Nothing]] | Theme for the [[Tethlaen Boss|Tethlaen]] boss fight. |
-| [Fate of the Fallen](https://youtu.be/S0uuMANmz_M?si=xmieCe6b6Q87fwOR) | [[Court of Nothing]] | Theme for the [[UH|Ultva & Hovadchear]] boss fight. |
-| [Before the Storm](https://youtu.be/Ylo0oRnBzec?si=Zv-nbcnS3g4IjsmM) | [[Maddened Path]] | Composer Chris Nesja stated in a YouTube reply that this song was inspired by the Outer Wilds OST. |
-| [At the Edge of Oblivion](https://youtu.be/-NBy8oQW4fE?si=h-IIe2Uv5H9e7V_p) | [[Maddened Path]] | Theme for the [[Emissary of the Void]] boss fight. |
-| [Death of a World](https://youtu.be/a6yb-QK8PL8?si=CD3grGaQRCAiOf3S) | [[True End]] | Plays out over the final credits, on a very specific timer. This song is based on "[Death of Åse](https://youtu.be/2aKxf1h5r4g?si=E4VShWu7o7sJOBcZ)", a Romantic-era composition from the incidental music written by Edvard Grieg for [Peer Gynt](https://en.wikipedia.org/wiki/Peer_Gynt), a 19th-century Norwegian play by Henrik Ibsen.  |
+    |:--------------:|:--------------:|:-------------------------------------------------------------------|
+    | [Nothing to Lose](https://youtu.be/fzMip_LU2SE?si=E26fg6OblOyjSmj2) | [[Nothing Island|The Nothing]] | Theme for the [[Tethlaen Boss|Tethlaen]] boss fight. |
+    | [Fate of the Fallen](https://youtu.be/S0uuMANmz_M?si=xmieCe6b6Q87fwOR) | [[Court of Nothing]] | Theme for the [[UH|Ultva & Hovadchear]] boss fight. |
+    | [Before the Storm](https://youtu.be/Ylo0oRnBzec?si=Zv-nbcnS3g4IjsmM) | [[Maddened Path]] | Composer Chris Nesja stated in a YouTube reply that this song was inspired by     the Outer Wilds OST. |
+    | [At the Edge of Oblivion](https://youtu.be/-NBy8oQW4fE?si=h-IIe2Uv5H9e7V_p) | [[Maddened Path]] | Theme for the [[Emissary of the Void]] boss fight. |
+    | [Death of a World](https://youtu.be/a6yb-QK8PL8?si=CD3grGaQRCAiOf3S) | [[True End]] | Plays out over the final credits, on a very specific timer. This song is based on "[Death of Åse](https://youtu.be/2aKxf1h5r4g?si=E4VShWu7o7sJOBcZ)", a Romantic-era composition from the incidental music written by Edvard Grieg for [Peer Gynt](https://en.wikipedia.org/wiki/Peer_Gynt), a 19th-century Norwegian play by Henrik Ibsen.  |

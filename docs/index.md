@@ -68,6 +68,10 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
     - (Lore) **[Transcripts](/Lore/Transcripts/)** <br>
     - (Misc) *[[Cat Maps]]* <br>
     - (Misc) *[[Glossary]]* <br>
+    - (Misc) *[[Socials]]* <br>
+    - (Misc) *[[Soundtrack]]* <br>
+    - (Misc) *[[Splashes]]* <br>
+    - (Misc) **[Versions](/Misc/Versions/)** <br>
     - (Story & Features) *[[Advancements]]* <br>
     - (Story & Features) *[[Devotion]]* <br>
     - (Story & Features) **[Holotexts](/Story_and_Features/Holotexts/)** <br>

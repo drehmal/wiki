@@ -39,6 +39,7 @@ Messages are ordered in approximate chronological order, where applicable. Messa
 | [Player] was cut apart by Nothing | Unknown. |
 | [Player] pushed their luck | Unknown. |
 | [Player] was diced to pieces | Unknown. |
+| [Player] should have ducked | Unknown. |
 | [Player] didn't bounce | New message for death by fall damage. |
 | [Player] was bifurcated by holy moonlight | Death to [[Ascendance]]'s special ability. |
 | [Player] was blown to smithereens <br> [Player] became tomorrow's newspaper headline <br> [Player] became just another statistic | Shot by [[Zenith]]'s gun mode. |
@@ -73,7 +74,6 @@ Messages are ordered in approximate chronological order, where applicable. Messa
 | [Player] bore witness to true fear | Unknown, presumably [[Tethlaen Boss|Tethlaen]]. |
 | [Player] was consumed by Nothing | Attempting to leave the boundaries of the [[Nothing Island]]. |
 | [Player] was consumed by the God Machine | Fall into the yellow stained glass around the God Machine at [[Azimuth Labs]]. |
-| [Player] should have ducked | Unknown. |
 | It seems that [Player] has decided not to continue the journey. | Leaving the area during the Lunar Base sequence, while opening the path to [[Azimuth Labs]]. |
 | [Player] fell through the multiverse | Falling into the void at the [[Maddened Path]] while on low health. |
 

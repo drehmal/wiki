@@ -11,7 +11,7 @@ Most higher beings in the realm of Drehmal fall under the category of Aspects. A
 
 ### [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/)
 
-Major Aspects are considered to be the most important Aspects and those with the broadest domains, and they were directly created by the [[Primal Tree]]. A subcategory of the Major Aspects are the Elder Aspects ([[Khive]], [[Dahr]], [[Rihelma]], and [[Taihgel]]), who are deemed to be the most powerful. All eight Major Aspects have [[Devotion|devotion]] sites in-game, in addition to the three [Deities](/Lore/Higher_Beings/Deities/).
+Major Aspects are considered to be the most important Aspects and those with the broadest domains, and they were directly created by the [[Primal Tree]]. A subcategory of the Major Aspects are the Elder Aspects (also referred to as the "Great Aspects")—[[Khive]], [[Dahr]], [[Rihelma]], and [[Taihgel]]—who are deemed to be the most powerful. All eight Major Aspects have [[Devotion|devotion]] sites in-game, in addition to the three [Deities](/Lore/Higher_Beings/Deities/).
 
 ### [Minor Aspects](/Lore/Higher_Beings/Aspects/Minor_Aspects/)
 

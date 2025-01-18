@@ -68,7 +68,7 @@ Messages are ordered in approximate chronological order, where applicable. Messa
 | [Player] was vored by bernice uwu | Has a miniscule (1 in 1000) chance of playing if killed by the [[Vehrniis]]. |
 | [Player] was blown up by Sea Bomb | Unknown, likely associated with the [[Vehrniis]]. |
 | [Player] was evaporated <br> [Player] was reduced to steam <br> [Player] was boiled alive | Death to the [[Vehrniis]]'s "laser" attack. |
-| [Player] felt Khive's wrath | Hit by a lightning bolt during the Mythbreaker Run. |
+| [Player] felt Khive's wrath | Hit by one of Khive's aerial projectiles during the Mythbreaker Run. |
 | [Player]'s body was filled with holes <br> [Player] was blown to pieces <br> [Player] was blown apart | Death to one of the soldiers in the [[Primary Energy Collection Facility]] |
 | [Player] learned true fear | Likely [[Tethlaen Boss|Tethlaen]]. |
 | [Player] bore witness to true fear | Unknown, presumably [[Tethlaen Boss|Tethlaen]]. |

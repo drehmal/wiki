@@ -42,7 +42,7 @@ Messages are ordered in approximate chronological order, where applicable.
 | [Player] became primal energy | Shot by the Executive Unit in the [[Foundry]]. |
 | [Player] was shot | Shot by one of the gun-wielding enemies in [[Exodus Vault]] or the [[Primary Energy Collection Facility]]. |
 
-30 additional new death messages, specific to sequences or locations after the 75% mark, are contained in the drop-down below. Potential spoilers ahead.
+30 additional new death messages, specific to sequences or locations after the 75% mark, are contained in the drop-down below. Potential spoilers (through the end of the game) ahead.
 
 ??? warning "Late-Game Death Messages"
     | **Message** | **Cause(s)** |

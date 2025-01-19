@@ -1,7 +1,5 @@
 # Av'Sal
 
---8<-- "under_construction.md"
-
 ![[avsal.png]]
 > Av'Sal, viewed from the northeast.
 
@@ -9,7 +7,7 @@
 
 Following the [[Fall of Avsohm|collapse of the empire]] over a thousand years ago, the city was left almost completely abandoned, and most of the city has been picked clean. The city is primarily inhabited today by [[Mihkmari]] scavengers.
 
-!!! abstract "Coordinates"
+!!! abstract "Location"
     Av'Sal's central island is at approximately `-242, 67, 1532`.
 
 Av'Sal's most prominent gameplay features include a [[Terminus Network#Towers|Terminus Tower]] and the [[Av'Sal Repository]], a central hub for knowledge that the player gathers along their journey and the location of part of a [[Mythbreaker|very powerful weapon]].

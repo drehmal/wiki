@@ -6,8 +6,8 @@
 
 The **Last Avsohmic Vault** is a secret [[Avsohm|Avsohmic]] facility located on an island off the western coast of [[Casai]]. It is home to one [legendary weapon](/Items/Legendary_Items/), an artifact, and two lore books.
 
-!!! abstract "Coordinates"
-    `-3618 82 -1200`
+!!! abstract "Location"
+    Approximate Coordinates: `-3618 82 -1200`
 
 Arriving at the Avsohmic Vault for the first time grants the "Vault of Knowledge" advancement. Its location is hinted at by two other books in the world: [[The White Vault]] found in [[Athrah]] and [[Journal of Councilman Kihfs'Mihnar]] found in the [[Insohmic Library]].
 

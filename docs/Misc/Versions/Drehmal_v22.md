@@ -122,6 +122,8 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
 
 Version 2.2.1 made very few real content changes, mainly focusing on being a serviceable port of the map to Minecraft 1.20.1. This port was done by new developer tworoundcats, with some small content additions from the Drehmal team.
 
+While the port to 1.20 does mean that blocks can now be placed as low as y=-64 and as high as y=324, this ability is not utilized in any new builds, cave systems, or other terrain features. Almost all major builds exist exactly as they were in the initial full release, with a few small exceptions.
+
 Read the official changelog for 2.2.1 [here](https://www.drehmal.net/post/drehmal-apotheosis-v2-2-1-changelog).
 
 ### 2.2.2 Changes (Upcoming)

@@ -29,7 +29,7 @@ Near the center of the Birthing Grounds, a swirling growth made up of carnelian 
 
 ## Lore
 
-The Birthing Grounds appears to have been a significant resource for the [[Empire of Maelihs]] throughout its history, contributing to the empire's armed forces and food supply. The [[Artisan Items#Fleshcoaxer|Fleshcoaxer]] artisan item, sold in [[Rhaveloth]], establishes that certain [[Maelmari]], known as "Breeders", are skilled at coaxing tender meat to come to the surface of the Birthing Grounds. A Meat Baby is found in the Meat Shop in Rhaveloth, roasting over an open fire in the basement. It is possible that both the Meat Babies and the fleshy ground itself are sources of the city's mystery meats.
+The Birthing Grounds appears to have been a significant resource for the [[Empire of Maelihs]] throughout its history, contributing to the empire's armed forces and food supply. The [[Artisan Items#Rhaveloth|Fleshcoaxer]] artisan item, sold in [[Rhaveloth]], establishes that certain [[Maelmari]], known as "Breeders", are skilled at coaxing tender meat to come to the surface of the Birthing Grounds. A Meat Baby is found in the Meat Shop in Rhaveloth, roasting over an open fire in the basement. It is possible that both the Meat Babies and the fleshy ground itself are sources of the city's mystery meats.
 
 The Birthing Grounds' primary purpose, however, seems to have been the creation of Skullchildren and/or Skullbeasts. The book [[Dahroc's Notes]], found in the [[Burnt Palace]], establishes that the [[Skullmother]] was once kept shackled in the Birthing Grounds, where she was used to create legions of Skullbeasts to fight in [[Maelihs|Mael]]'s wars. The Skullmother was released into the sea by Maelihs in Av3 687.
 

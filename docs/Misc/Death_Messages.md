@@ -25,6 +25,7 @@ Messages are ordered in approximate chronological order, where applicable.
 | **Message** | **Cause(s)** |
 |:--------------------------:|:-----------------------------------:|
 | [Player] didn't bounce | New message for death by fall damage. |
+| [Player] saw something they shouldn't have | Attempting to force your way through a nether portal before it breaks. |
 | [Player] was strangled to death | Death while held by [[Oblivion]]'s special ability. |
 | [Player] was atomized | Killed by the [[Mythbreaker]]'s Core Collapse ability. |
 | [Player] was bifurcated by holy moonlight | Death to [[Ascendance]]'s special ability. |
@@ -71,6 +72,7 @@ Messages are ordered in approximate chronological order, where applicable.
     | [Player] bore witness to true fear | Unknown, presumably [[Tethlaen Boss|Tethlaen]]. |
     | [Player] was consumed by Nothing | Attempting to leave the boundaries of the [[Nothing Island]]. |
     | [Player] was consumed by the God Machine | Fall into the yellow stained glass around the God Machine at [[Azimuth Labs]]. |
+    | [Player] became primal energy | (Duplicate) Killed by the energy blast that opens the pathway to [[Azimuth Labs]]. |
     | It seems that [Player] has decided not to continue the journey. | Leaving the area during the Lunar Base sequence, while opening the path to [[Azimuth Labs]]. |
     | [Player] fell through the multiverse | Falling into the void at the [[Maddened Path]] while on low health. |
     | [Player] was trampled underfoot | Dying to the [[Emissary of the Void]]'s dash attack. |

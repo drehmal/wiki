@@ -84,3 +84,9 @@ The following is a transcript of Mystic Elder [[Khive]]'s dialogue during the [[
 > [Mystic Elder Khive] It will only lead to ruin.
 >
 > *The arcane presence vanishes.*
+
+### Bonus
+
+If the player attempts to use a [[Trinkets#Khivian Scroll of Sanctuary|Khivian Scroll of Sanctuary]] during the run, the scroll will be ineffective, and Khive will mock the player:
+
+> [Mystic Elder Khive] Thy thinketh to use my own works against me? Pathetic. The master's tools cannot dismantle the master's house.

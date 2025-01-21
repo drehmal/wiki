@@ -331,6 +331,6 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | NIMA | 2.2.1 | The name of the cat added to [[Fort Nimahj]], the real-life cat of developer tworoundcats. |
 | drehn.. | 2.2.1 |  |
 | among us | 2.2.1 |  |
-| flitn emerahcnt | 2.2.1 |  |
+| flitn emerahcnt | 2.2.1 | Reference to the misspelled Flint Merchant in [[Ebonrun]], removed in version 2.2.2. |
 | BREAKING NEWS:Local bush dwellers in firteid slaughtered | 2.2.1 |  |
 | Try to find the Galaxy Banana - GigaFang | 2.2.1 | A splashtext added on behalf of GigaFang, the first known person to complete the parkour course in the Drehmal starting room. |

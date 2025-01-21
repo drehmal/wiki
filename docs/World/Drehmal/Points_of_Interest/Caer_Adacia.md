@@ -1,7 +1,5 @@
 # Caer Adacia
 
---8<-- "under_construction.md"
-
 ![[caer_adacia.png]]
 
 **Caer Adacia** (pronounced "Care uh-dah-see-uh") is a large, hidden dungeon in the eastern [[Ebony Veldt]]. An underground city initially formed by exiled criminals of the [[First Tharhan Empire]], Caer Adacia was the capital of the [[Second Tharhan Empire]] in mid-Av2, but has been under control of many different larger powers since then. Since the fall of [[Insohm]], the city has fallen into ruin and become largely abandoned by the [[Drehmari]].
@@ -51,6 +49,8 @@ To the west, Caer Adacia can be loosely divided into two or three areas. In the 
 ### Cave Floor
 
 The floor of the Caer Adacia cave is home to similar buildings as those on top of the hill, with the addition of blue fences around their roofs. A patch of large mushrooms also inhabits the southern cave floor.
+
+The ground of the cave itself does contain valuable ores, including diamonds.
 
 ### Southwest
 

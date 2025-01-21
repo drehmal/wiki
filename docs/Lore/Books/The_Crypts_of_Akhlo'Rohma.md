@@ -20,7 +20,3 @@ This book can be found in a chest in the library in [[Dusps]], and contains info
 > Second, there are rumors of a magnificent treasure somewhere within the Crypts of Akhlo'Rohma. Up until now, however, would-be finders have had little luck finding their secrets.
 >
 > Only time will tell exactly what role history still has for these mysterious passages in one of the oldest cradles of civilization.
-
-
-
-

@@ -5,7 +5,7 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-This book can be found on a lectern in [[Ancehl Castle]].The text is concerned with the history of the castle. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
+This book can be found on a lectern in [[Ancehl Castle]].The text is concerned with the history of the castle. It is one of three books in the room with the "Dusty Memo," which hints at a [[Ancehl Castle#Dusty Memo|puzzle involving the books]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -13,7 +13,7 @@ This book can be found on a lectern in [[Ancehl Castle]].The text is concerned w
 | 1523  |  141  | -1975 |
 
 ## Transcription
-> Though Dohval Castle was once known by another name, that name has been lost to time. Recent archaeological study of nearby foundations suggests that ancient Aklo’Rohmans kept a large castle made primarily from diorite on the clifftop site alongside a very large mud brick city mostly built upon a portion of the peninsula which no longer exists.
+> Though Dohval Castle was once known by another name, that name has been lost to time. Recent archaeological study of nearby foundations suggests that ancient Akhlo'Rohmans kept a large castle made primarily from diorite on the clifftop site alongside a very large mud brick city mostly built upon a portion of the peninsula which no longer exists.
 >
 > Some time later, during the last century of Avsohmic rule, that city was almost entirely destroyed. Whether it was as a result of Avsohm’s construction and excavation on the site, some ramification of their violent, mysterious collapse, or simply the natural forces of wave erosion, the bulk of the peninsular cliff collapsed, taking all of its history with it.
 >
@@ -23,5 +23,5 @@ This book can be found on a lectern in [[Ancehl Castle]].The text is concerned w
 >
 > Dohval renamed the fort to Castle Dohval, and so it remained. House Dohval became a force in Duspian politics, where it too continues to be influential to this day.
 >
-> A slight man, Enesto Dohval nonetheless exuded an air of brash confidence. Originally hailing from far northern Aklo'Rohma, he initially ventured south with a clan of hardy shepherds and the goal of rekindling a regional union with Dusps which had withered away in the centuries since Avsohm's fall. Though not immune from the superstitions about that ancien.... (Other pages are torn off)
+> A slight man, Enesto Dohval nonetheless exuded an air of brash confidence. Originally hailing from far northern Akhlo'Rohma, he initially ventured south with a clan of hardy shepherds and the goal of rekindling a regional union with Dusps which had withered away in the centuries since Avsohm's fall. Though not immune from the superstitions about that ancien.... (Other pages are torn off)
 

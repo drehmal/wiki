@@ -1791,7 +1791,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Chipped murals on ancient walls tell the story of the Great Revel. While Vayniklah's faithful hoped to revive the soul of the world, instead they opened the door to something far more sinister. |
-| **Obtain** | Located in the [[Primal Sapling]] in [[Merijool]], and unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
+| **Obtain** | Located in the [[Glade of the Giant]] in [[Merijool]], unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
 
 ### Temporal Bow
 

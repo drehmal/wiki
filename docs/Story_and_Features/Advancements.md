@@ -164,7 +164,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | The Lost Cavern | Ages ago, Avsohm used this cave to gather Rehntite, an incredibly strong mineral with untold arcane potential. Unfortunately, the method of extraction has been lost to time. - Discovered the Rehntite Cave | Enter the [[Rehntite Cave]]. |
     | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |
     | Chamber of Dreams | Drehmal slumbers deep below; perhaps one day they will awaken. - Stepped into the entrance of the Primal Caverns | Enter the [[Primal Caverns]]. |
-    | Glade of the Giant | Deep within the uncharted jungles of old Merijool lies a being of great power. - Discovered the wellspring of a forgotten remnant | Discover the [[Primal Sapling]]. |
+    | Glade of the Giant | Deep within the uncharted jungles of old Merijool lies a being of great power. - Discovered the wellspring of a forgotten remnant | Discover the [[Glade of the Giant]]. |
     | This place was beautiful, once | Half the Heartwood, gone in an instant. - Discovered the epicenter of Mael's Desolation | Enter the [[Rock Maw]], epicenter of [Mael's Desolation](South Heartwood). |
     | Lofty Laboratory | On High Arch, over Tharxax City, perches the estate of an eccentric nobleman reliant on Maelihs to secure new Avsohmic technology for him to tinker with. - Discovered the Lord Magister’s Residence. | Enter the Lord Magister's Residence in [[Tharxax City]]. |
     | Ohh, bouncy! | Do you think it's alive? - Discovered the Slime Island | Enter the [[Slime Island]]. |

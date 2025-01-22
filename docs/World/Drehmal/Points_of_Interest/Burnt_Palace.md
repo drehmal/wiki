@@ -147,7 +147,7 @@ Most notably, however, Mael's mythical weapon [[Malevolentia]] is stuck into a s
 
 ![[bp_gate.png]]
 
-The closed door to the west of Mael's room contains a walkway out to a standalone tower, with one of the strange quartz gateways found around the world.
+The closed door to the west of Mael's room contains a walkway out to a standalone tower, with one of the [[Gates|strange quartz gateways]] found around the world.
 
 ## Ardent Set
 

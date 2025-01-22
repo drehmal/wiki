@@ -2,7 +2,7 @@
 
 ![[hunting_crypt.png]]{ align=right width="300" }
 
-The **Hunter's Crypt** is a small dungeon in northern [[Capital Valley]]/the southern [[Gulf of Drehmal]], the resting place of three members of the [[Hunting Party]]. An homage to the spawn tomb of previous Drehmal versions, the structure is relatively simple and contains three [[Artifacts]].
+The **Hunter's Crypt** is a small dungeon in northern [[Capital Valley]]/the southern [[Gulf of Drehmal]], and the resting place of three members of the [[Hunting Party]]. An homage to the spawn tomb of previous Drehmal versions, the structure is relatively simple and contains three [[Artifacts]].
 
 !!! abstract "Location"
     Approximate Coordinates: `325, 71, 290`

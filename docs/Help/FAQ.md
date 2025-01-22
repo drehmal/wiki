@@ -262,6 +262,8 @@ Depends! If we have an article on that location, it should have your answer. Man
 
 There are many knowledge gates in Drehmal—structures you technically *can* find and use at any point, but whose solutions are not readily apparent, only learned later in the map's story. You can always come back to interesting places later if you feel like you're missing something, and often, this is the best course of action, and what people will tell you if you ask.
 
+In particular, you may be looking at [[Gates]].
+
 ### How Do I Get Netherite?
 
 Netherite ([[Glossary|renamed]] under the Drehmal resource pack to "celestial" debris and alloy) is not accessible through normal Nether mining, as the dimension has been made completely inaccessible in the map. Netherite tools and armor can be found as rare loot in the late/end-game, which is the intended progression path, but a renewable source of netherite is found in the late-game as well (after the 75% completion mark).

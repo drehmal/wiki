@@ -12,7 +12,7 @@ The regional seat of power in Akhlo'Rohma for over 2000 years, Ancehl Castle sta
 Ancehl Castle is home to the following loot:
 
 - 1 [[Fervor Stones#Stone of Agony|Stone of Agony]] <br>
-- A full [[Artifacts#Cryptkeerper's Boots|set of artifact-level diamond armor]] <br>
+- A full [[Artifacts#Cryptkeeper's Boots|set of artifact-level diamond armor]] <br>
 - A separate [[Artifacts#Drehn's Peace|shield artifact]] <br>
 - The [[Orchidaceae]] legendary sword <br>
 - Two [[Artisan Items#Ancehl Castle|artisan items]], sold by the location's [[Runic Blacksmith]]

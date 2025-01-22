@@ -42,7 +42,7 @@ The "main" content in the Burnt Palace is through the northern door, but the ent
 
 ![[bp_map.png]]
 
-The aforementioned third door leads to a map room, occupied by two Servants and two Burnt Soldiers. The room is home to a map of [western Drehmal](/World/Drehmal/Regions/Western_Regions/), with a redstone dust border outlining the extent of [[Empire of Maelihs|Mael's Domain]]. This map shows that the empire currently stretches from the Hellcrags to encompass [[The Carmine]], [[South Tharxax]], the entirety of [[Anyr'Nogur]], most of [[Nimahj Swamp]], and [[Mt. Ebonfire]].
+The aforementioned third door leads to a map room, occupied by two Servants and two Burnt Soldiers. The room is home to a map of [western Drehmal](/World/Drehmal/Regions/Western_Regions/), with a redstone dust border outlining the extent of [[Empire of Maelihs|Mael's Domain]]. This map shows that the empire currently stretches from the Hellcrags to encompass [[The Carmine]], [[South Tharxax]], the [[Ebony Veldt]], the entirety of [[Anyr'Nogur]], most of [[Nimahj Swamp]], and [[Mt. Ebonfire]].
 
 A kitchen can also be accessed from this room, with a few more Servants.
 
@@ -95,7 +95,7 @@ The meaning of this memorial, as well as its parallel at the [[Kiln of Virtuo]],
 
 **Coordinates:** (-3989, 90, 6015)
 
-Returning to the tree mural and taking the left staircase, players can follow a long series of spiral stairways upward to a library room with a single large chair. Behind this chair is the [[Tattered Diary of Klyhf Him'lahk]], the first-hand account of alchemist [[Klyhf Him'lahk]]'s time in the service of [[Maelihs]] and his attempt to complete the [[Great Work]] by betraying his lord.
+Returning to the tree mural and taking the left staircase, players can follow a long series of spiral stairways upward to a library room with a single large chair. Behind this chair is the [[Tattered Diary of Klyhf Him'lahk]], the first-hand account of alchemist [[Klyhf|Klyhf Him'lahk]]'s time in the service of [[Maelihs]] and his attempt to complete the [[Great Work]] by betraying his lord.
 
 A piece of the Ardent set is also found here: next to the throne, players can dig through the center of the 3-block wide case of bookshelves to find a secret room, holding the [[Artifacts#Ardent Will|Ardent Will]] chestplate.
 
@@ -167,7 +167,7 @@ The Burnt Palace holds a whopping 11 lore books. These books are mentioned if fo
 
 - [[Av3_902_-_Time_Immemorial.md|Av3 902 - Time Immemorial]] in Mael's bedchambers at the top of the palace. <br>
 - [[Av3_903_-_Sister.md|Av3 903 - Sister]], also in Mael's bedroom. <br>
-- [[Av4_12_-_A_Monument_to_All_My_Sins.md|Av4 12 - A Monument to All My Sins]] <br>
+- [[Av4_12_-_A_Monument_to_All_My_Sins.md|Av4 12 - A Monument to All My Sins]] in Mael's room. <br>
 - [[Burnt Generals' Orders]] near the top of the staircase, guarded by Tevus. <br>
 - [[Dahroc's Notes]] in the northwest, near a massive crane/lever. <br>
 - [[Manifesto of the Sunchasers]] in the observatory tower to the south. <br>
@@ -223,7 +223,7 @@ The next year, Av3 903, Mael writes that Virtuo has left for [[Eastern Xivrhynt]
 
 ### Modern Day
 
-To this day, Mael has not been seen again at the Burnt Palace, leaving the Burnt Generals to command in the vacuum. This is the state of affairs when the player reaches the dungeon.
+To this day, Mael has not been seen again at the Burnt Palace, leaving the Burnt Generals to command in his absence, unaware that he one day wishes to raze the palace. This is the state of affairs when the player reaches the dungeon.
 
 ## Extras
 

@@ -57,7 +57,7 @@ See [[Primal Sapling]].
 
 ### Trivia
 
-There are multiple references to the number 23 in the glade, which is the number of [Aspects](/Lore/Higher_Beings/Aspects/):
+There are two clear references to the number 23 in the glade, which is the number of [Aspects](/Lore/Higher_Beings/Aspects/):
 
 - There are 23 lily pads in the water surrounding the sapling. <br>
 - On the body of the tree itself, there are several blue and white flowers, which hold a golden apple in their centers. There are 21 such flowers, and there are 2 enchanted golden apples ("Fruit of the Primal Tree") found in item frames on the tree independent of a flower. Combined with the implication that Aspects were literally or figuratively born from flowers of the [[Primal Tree]], as well as the [family tree mural](aspects.png), these flowers have also been speculated to represent the Aspects. Specifically, the 21 flowers could represent the majority of the Aspects on the normal dark oak branches, while the 2 flower-less Fruits of the Primal Tree may represent or be tied to the spruce branch outliers, [[Verrhys]] and [[Lahrs]].

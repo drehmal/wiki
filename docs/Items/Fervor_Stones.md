@@ -42,7 +42,7 @@ The Stone of Luxury is one of three Fervor Stones, taking on a dark green color 
 ??? success "Stone of Luxury Locations"
     |  **Region**  |                 **Location/How to Obtain**                     | **Coordinates** |
     |:------------:|:---------------------------------------------------------------|:---------------:|
-    | [[Ebony Veldt]]/[[Anyr'Nogur]] | Clear the [[Foundry]] arena in less than 6 minutes (only registered if the Foundry has already been cleared once). This stone will then appear in an item frame over the control panel for the Foundry. | **(-3307.5, 112.5, 1657)** |
+    | [[Ebony Veldt]]/[[Anyr'Nogur]] | Clear the [[Foundry]] arena in less than 6 minutes. This stone will then appear in an item frame over the control panel for the Foundry. | **(-3307.5, 112.5, 1657)** |
     | [[Hellcrags]] | At the [[Burnt Palace]], hidden in a room behind a basalt/crying obsidian mural. | **(-3974, 46, 6015)** |
     | [[Casai]]    | In the ruins of Zahra, in a tomb beneath a building with a single red terracotta block covered in glow lichen. | **(-3068, 59, -692)** |
     | [[South Tharxax]] | In the tomb at the very top of [[Loraga Keep]], where the Infected King spawns. | **(-1721, 164, 3037)** |

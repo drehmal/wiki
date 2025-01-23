@@ -44,7 +44,7 @@ Many doors must be broken through.
 
 ### Throne Room
 
-Through the first door to the right after entering the castle is a purple and red throne room, decorated with a large chandelier. A [[Runic Catalysts|Runic Catalyst]] sits at the top of the throne below, and a block of serpent scales can be taken from the throne.
+Through the first door to the right after entering the castle is a purple and red throne room, decorated with a large chandelier. A [[Runic Catalyst]] sits at the top of the throne below, and a block of serpent scales can be taken from the throne.
 
 ### Tower
 

@@ -63,7 +63,7 @@ Maelihs will grant the following rewards as players increase their devotion to h
     | Lvl 9  | Runic Book (Sharpness IV & Power IV) |
     | Lvl 10 | Sprout of Anguish +3 <br>Celestial Upgrade Smithing Template            |
 
-Maelihs' [[Relics|Relic]] is the **Sprout of Anguish**, a flaming sapling that increases attack damage when held in a player's off-hand.
+Maelihs' [[Relics|relic]] is the **[[Relics#Sprout of Anguish|Sprout of Anguish]]**, a flaming sapling that increases attack damage when held in a player's off-hand.
 
 ??? info "Sprout of Anguish Details"
     | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |

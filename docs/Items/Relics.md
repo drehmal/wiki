@@ -67,7 +67,7 @@ Mortality is a skull-shaped relic, given as a devotion reward for the Aspect of 
 At the beginning of the [[Divine Schism]], upon realizing that other Aspects could die, Voynahla chose to take his own life, and due to his powers over death itself, he remains in a permanent state of undeath. Mortality +3 asserts that this state of affairs is Voynahla's preferred method of existence.
 
 ## Mysterial
-**Mysterial** is a strange magical orb, given as a devotion reward for the Mystic Elder [[Khive]] at the [[Nameless Ziggurat]]. It provides a significant movement speed boost as a percentage of player speed, rather than a flat boost. This comes at the cost of an attack damage penalty, making it optimal for quick travel by foot, but not use in combat.
+**Mysterial** is a strange magical orb, given as a devotion reward for the Mystic Elder [[Khive]] at the ziggurat of [[Ihted]]. It provides a significant movement speed boost as a percentage of player speed, rather than a flat boost. This comes at the cost of an attack damage penalty, making it optimal for quick travel by foot, but not use in combat.
 
 | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
 |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|

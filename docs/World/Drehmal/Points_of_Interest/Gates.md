@@ -1,5 +1,9 @@
 # Gates
 
+--8<-- "spoiler.md"
+
+!!! danger "While these structures can be found at any point by exploring the open world, they are tied to content that can absolutely be considered late-game spoilers."
+
 ![[bp_gate.png]]
 
 Throughout [[Overworld|Drehmal]], players may find mysterious gateway structures, such as the one pictured above. These predominantly take the same form, appearing as tall quartz structures with deep blue bases. The potential function of these gates is a very common question for first-time Drehmal players. 

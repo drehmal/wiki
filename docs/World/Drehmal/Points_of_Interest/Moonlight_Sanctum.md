@@ -59,3 +59,7 @@ The "rites" referred to here are the Ancient Theocracy Rites, a piece of paper f
 ### Stone of Agony
 
 A [[Fervor Stones#Stone of Agony|Stone of Agony]] is also located within this structure. From a tall platform in the northeast of the dungeon, a banner is visible in the cavern's ceiling to the west. Just over the banner is a small alcove, containing a chest with the Stone of Agony.
+
+## Lore
+
+The Moonlight Sanctum was a construction of the [[Tri-Moon Theocracy]], built to function as a necrotic engine. The goal of this structure was to continually revive and kill a set of subjects, harnessing the energy released from this process to somehow complete the [[Great Work]]. How exactly this would have worked is unclear, but this process is heavily tied to the necromantic traditions of the region, inspired by [[Aok]].

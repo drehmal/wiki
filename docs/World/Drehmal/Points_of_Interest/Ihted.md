@@ -1,7 +1,5 @@
 # Ihted
 
---8<-- "under_construction.md"
-
 !!! note "This location shares a name with other places in the Drehmal universe. This page is about the ruins in Capital Valley."
 
 ![[ihted_ruins.png]]

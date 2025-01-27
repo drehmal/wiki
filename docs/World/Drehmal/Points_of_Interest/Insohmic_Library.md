@@ -1,7 +1,5 @@
 # Insohmic Library
 
---8<-- "under_construction.md"
-
 ![[Insohmic_library.webp]]{ align=right width="300" }
 
 The **Insohmic Library** (or Old Library Tower) is a ruined tower in the [[Spearhead Forest]] region, located off the eastern coast of [[Mossfield]]. Formerly the headquarters of the [[Insohm|Order of Insohm]] in its final days, this relatively small structure is home to the [[Peace Treaty]] legendary weapon.

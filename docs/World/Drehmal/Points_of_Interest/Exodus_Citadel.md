@@ -1,7 +1,5 @@
 # Exodus Citadel
 
---8<-- "under_construction.md"
-
 ![[exodus_citadel.png]]
 
 The **Exodus Citadel** is a prismarine structure that sits in Lake Nimahj, in the [[Nimahj Swamp]] region. This citadel was once a key [[Avsohm|Avsohmic]] facility, but it has largely fallen to ruin in recent years. 

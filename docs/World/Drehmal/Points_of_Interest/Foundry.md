@@ -1,7 +1,5 @@
 # The Foundry
 
---8<-- "under_construction.md"
-
 ![[foundry_bridge.png]]
 
 **The Foundry** is an [[Avsohm|Avsohmic]] facility along the border of the [[Anyr'Nogur]] and [[Ebony Veldt]] regions, which served as the empire's center for arms manufacturing and combat training. In-game, the Foundry is a special combat challenge, in which players become enhanced and must defeat 6 waves of highly challenging enemies.

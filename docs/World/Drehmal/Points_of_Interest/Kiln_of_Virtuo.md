@@ -103,7 +103,7 @@ A broken [[Gates|gateway]] is found nearby, which cannot be meaningfully interac
 
 A larger pool is found in this room, containing two axolotls named "Ada" and "Solos".
 
-The main room, here, is Virtuo's personal bedchamber, with a mural of her face over the bed. The [[Powerless]] book is found in this room.
+The main room here, is Virtuo's personal bedchamber, with a mural of her face over the bed. The [[Powerless]] book is found in this room.
 
 ### Virtuo Devotion Guide
 
@@ -355,6 +355,10 @@ The Kiln was invaded by [[Maelihs]] at the end of the [[Tidal War]], an encounte
 Following Virtuo's departure at the end of Av3, the Kiln saw a decrease in pilgrims, following the trend of people across the continent abandoning Virtuo worship. However, new members of the faith did step up to maintain the facilities, and it is still one of the more busy, lively areas in modern-day Drehmal.
 
 ## Extras
+
+### Trivia
+
+A player head made to resemble a plushie of Virtuo is hidden beneath the center of the carpets in her hidden underground room.
 
 ### Update History
 

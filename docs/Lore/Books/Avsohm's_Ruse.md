@@ -5,7 +5,7 @@ tags:
 
 --8<-- "minor_spoiler.md"
 
-This book can be found on a lectern in [[Ancehl Castle]]. Its contents are an allegation that Avsohm fabricated the three schools of Alchemy, when in fact, they are all one. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
+This book can be found on a lectern in [[Ancehl Castle]]. Its contents are an allegation that Avsohm fabricated the three schools of Alchemy, when in fact, they are all one. It is one of three books in the room with the "Dusty Memo," which hints at a [[Ancehl Castle#Dusty Memo|puzzle involving the books]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

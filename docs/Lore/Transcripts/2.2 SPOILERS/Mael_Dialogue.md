@@ -302,6 +302,12 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] Wherever she is at this time... I hope she is well.
 >
+> \*If the player is holding [[Eyebiter]] in their main hand, the following two lines will be added to this sequence:\*
+>>
+>> [Maelihs] It seems you carry the artifact of that meeting.
+>>
+>> [Maelihs] I would ask you not to turn the eye inlaid to that shield towards me.
+>
 > [Player] What kind of “regret”?
 >
 > [Maelihs] When I roamed Drehmal, I caused nothing but misery.

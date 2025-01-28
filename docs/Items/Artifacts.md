@@ -340,10 +340,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Gahwyn, "the Serendipitous," as he wanted to be called, was a rather vain member of the Hunting Party with unprecedented luck only outmatched by his tremendous skill with a bow. |
-| **Obtain** | Inside the eastern tomb within the [[Hunter's Crypt]]. Chest located at **(335, 46, 354)**                           |
+| **Obtain** | Inside the eastern tomb within the [[Hunters' Crypt]]. Chest located at **(335, 46, 354)**                           |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunter's Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
 
 ### Boots of the Ruthless
 
@@ -357,10 +357,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                        |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Hunting Party's berserker, Asrihk Clearbrook, was a mountain of a Drehmari with strong arms and a stronger heart. |
-| **Obtain** | Inside the western tomb within the [[Hunter's Crypt]]. Chest located at **(315, 46, 354)**       |
+| **Obtain** | Inside the western tomb within the [[Hunters' Crypt]]. Chest located at **(315, 46, 354)**       |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunter's Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
 
 ### Boots of the Scheming
 
@@ -374,10 +374,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Tracker was always full of schemes, her greatest being the slaying of the Father of Beasts. In success, she found herself tried for deicide under Avsohmic law and was ordered to swing within Av'Sal. |
-| **Obtain** | Inside the southern tomb within the [[Hunter's Crypt]]. Chest located at **(325, 46, 365)**                                                                                                              |
+| **Obtain** | Inside the southern tomb within the [[Hunters' Crypt]]. Chest located at **(325, 46, 365)**                                                                                                              |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunter's Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
 
 ### Boots of the Witness
 
@@ -1791,7 +1791,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Chipped murals on ancient walls tell the story of the Great Revel. While Vayniklah's faithful hoped to revive the soul of the world, instead they opened the door to something far more sinister. |
-| **Obtain** | Located in the [[Primal Sapling]] in [[Merijool]], and unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
+| **Obtain** | Located in the [[Glade of the Giant]] in [[Merijool]], unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
 
 ### Temporal Bow
 

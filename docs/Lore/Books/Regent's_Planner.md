@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, presumably Ehzar, it shows that by the present day, the Duke of Ancehl has died, meaning a regent must take over for the child Duchess, and discusses Ehzar's ambition to complete the [[Great Work]].
+This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, Ehzar, it shows that by the present day, the Duke of Ancehl has died, and he rules in lieu of the child Duchess. Within, Ehzar claims to be a successor of [[Red Dawn]], and discusses his particular, grotesque vision for completing the [[Great Work]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -15,7 +15,7 @@ This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent 
 >
 > Confirmation has just come in that blueprints for Avsohmic-era technology was found in the old Insohmic Aerie facility. While the Golden Order will doubtless have interest in conducting their own investigation, I should make a trip there posthaste before they learn any secrets that were intended for me.
 >
-> I have heard back from Kherac. As I feared, those operating in the Hellcrags are completely unaware of the core tenants. They concern themselves with manufacturing new strains of followers to aid Maelihs’s war effort. How droll.
+> I have heard back from Kherac. As I feared, those operating in the Hellcrags are completely unaware of the core tenets. They concern themselves with manufacturing new strains of followers to aid Maelihs’s war effort. How droll.
 >
 > In addition, I shall need to speak to Duchess Cerice about approving further excavations under the castle. Surely, there must be more secrets in the Crypts. It is imperative that the meeting happens in her quarters so that I can exchange the new bedside collector for the old.
 >

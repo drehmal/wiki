@@ -1360,7 +1360,7 @@ The Fort Nimahj Runic Blacksmith is located at **(-1703, 155, 1865)**.
 | **Cost** | 30 Scales <br>32 Copper Ingots   |
 
 ### [[ICS Arbiter]]
-The Runic Blacksmith on the ICS Arbiter sells one artisan item, and is located at **(-467, 84, -1944)**.
+The Runic Blacksmith on the I.C.S. Arbiter sells one artisan item, and is located at **(-467, 84, -1944)**.
 
 **Emergency Respirator:**
 

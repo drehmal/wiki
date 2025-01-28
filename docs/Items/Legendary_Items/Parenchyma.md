@@ -8,7 +8,7 @@
 
 **Parenchyma** is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
-A legendary chestplate supposedly crafted by nature itself and found at the [[Primal Sapling]] in [[Merijool]], Parenchyma is an extremely powerful item in its own right, granting small amounts of healing on a successful kill.
+A legendary chestplate supposedly crafted by nature itself and found at the [[Glade of the Giant]] in [[Merijool]], Parenchyma is an extremely powerful item in its own right, granting small amounts of healing on a successful kill.
 
 <br> <br> <br> <br> <br> <br>
 

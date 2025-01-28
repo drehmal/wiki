@@ -80,13 +80,13 @@ The town's cemetery is located directly behind the Temple of the Virtuous Trinit
 | fobk (Diorite grave) | Double chest with stained glass panes spelling out "fobk". | A reference to a long-running inside joke in the Drehmal dev team. |
 | R.I.P. <br> Malthazar <br> "My friends, Momeo and Muliet." | *Bercutio*, an iron sword with 11.5 attack damage from its Sharpness X enchantment but -749 durability. It is hard-coded to be too expensive to repair or further enchant, and can therefore only be used for one hit before instantly breaking. | Seemingly a reference to Romeo and Juliet. |
 | R.I.P. <br> Drehn Mal'Bohm <br> "I'm da bohm." <br> - Prior to death | Bohmplate, a chainmail chestplate with Blast Protection IV and Unbreaking III. | A pun based on [[Drehn|Drehn Mal'Sohm]], the first emperor of [[Avsohm]]. |
-| Unmarked grave to the right of Drehn Mal'Bohm | Counterfeit (Custom named green dye, enchanted with Looting III) <br> $wag Pants (Leather Leggings enchanted with Impaling V, Loyalty III, Lure III, Piercing IV, and Power V) | Joke items. |
+| (On back of grave): R.I.P. $wagmohney <br> {BOTTOM TEXT{ | Counterfeit (Custom named green dye, enchanted with Looting III) <br> $wag Pants (Leather Leggings enchanted with Impaling V, Loyalty III, Lure III, Piercing IV, and Power V) | Joke items. |
 
 ### The Lord's Garden
 
 The majority of eastern Dusps is taken up by a large garden, consisting of several small flower patches separated by hedges. Several bee nests are found in this area, as well as a magenta concrete tower at the southeastern edge of the city, overlooking the land below.
 
-A statue of [[Virtuo]] is found in the hedges behind the temple, with a glistering melon slice and an orderflame lantern at its base.
+A statue of [[Virtuo]] is found in the hedges behind the temple,with a glistering melon slice and an orderflame lantern at its base.
 
 Through a small hedge maze at the gardens' entrance next to the cemetery, an additional grave can be found. This grave reads: <br>
 > Rest in Peace <br>

@@ -44,7 +44,7 @@ Drehmal will grant the following rewards in exchange for increasing player devot
     | Lvl 9  | Runic Book (Unbreaking III)    |
     | Lvl 10 | Effloresce +3                  |
 
-Drehmal's [[Relics|Relic]] is Effloresce, a small tree sapling that grants a variety of modest stat boosts.
+Drehmal's [[Relics|relic]] is **[[Relics#Effloresce|Effloresce]]**, a small tree sapling that grants a variety of modest stat boosts.
 
 ??? info "Effloresce Details"
     | **Relic Level**       | **Stat Modifiers**                                 | **Lore Text**                                                   |

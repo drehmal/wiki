@@ -101,7 +101,7 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
         - [[Tul'Vohaln]] <br>
         - [[Warp Horse]] <br>
         - [[Whispersong]] <br>
-        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Lo'Dahr Trials](/World/Post-75_Area/Points_of_Interest/Trials/)). <br>
+        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Trials](/World/Post-75_Area/Points_of_Interest/Trials/)). <br>
         The start of the quest for [[Oblivion]] was moved to [[Highfall]], with the Compass of Nihility previously being found beneath the Tidal Palace in [[Firteid]]. <br>
     ??? abstract "New (Non-Story) Content"
         2.2 adds many new settlements and other points of interest, many of which are listed below. <br>
@@ -121,6 +121,8 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
 ### 2.2.1 Changes
 
 Version 2.2.1 made very few real content changes, mainly focusing on being a serviceable port of the map to Minecraft 1.20.1. This port was done by new developer tworoundcats, with some small content additions from the Drehmal team.
+
+While the port to 1.20 does mean that blocks can now be placed as low as y=-64 and as high as y=324, this ability is not utilized in any new builds, cave systems, or other terrain features. Almost all major builds exist exactly as they were in the initial full release, with a few small exceptions.
 
 Read the official changelog for 2.2.1 [here](https://www.drehmal.net/post/drehmal-apotheosis-v2-2-1-changelog).
 

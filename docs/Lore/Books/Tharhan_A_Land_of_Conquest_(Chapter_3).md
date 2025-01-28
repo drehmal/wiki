@@ -25,5 +25,5 @@ This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj S
 >
 > Though Empresses Canirah I and Tiderra III were also relatively effective monarchs, the good days for Tharhan weren't to last forever. Far away in the East, an heir to the Chosen Kingdom who had renounced his birthright but nonetheless found himself in command of a new state would make two discoveries that would change the world.
 >
-> The lost rehntite cave of Akhlo'Rohma and the anomalous Mt. Yavhlix were a catalyst that allowed Avsohmic technology to develop at a dizzying pace. It was well into the reign of Tiderra III when her loyal Nightwalkers were first confronted by Drehn Mal'Sohm's forces, but it was clear that Tharhan had no hope of resistance. Very few arcanists, no matter how trained, could hope to win against a squadron of soldiers armed with energy rifles.
+> The lost rehntite cave of Akhlo'Rohma and the anomalous Mt. Yavhlix were catalysts that allowed Avsohmic technology to develop at a dizzying pace. It was well into the reign of Tiderra III when her loyal Nightwalkers were first confronted by Drehn Mal'Sohm's forces, but it was clear that Tharhan had no hope of resistance. Very few arcanists, no matter how trained, could hope to win against a squadron of soldiers armed with energy rifles.
 

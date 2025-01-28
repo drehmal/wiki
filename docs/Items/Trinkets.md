@@ -53,7 +53,7 @@ Relic vessels are used by throwing them onto a Devotion altar. At this point, a 
     | [[Sepulchral Altar]]  | [[Maelihs]]      | Dangling from a chain far above the bridge leading into the altar. Chest located at **(-2857, 106, 5331)**. |
     | [[Star-Rise Bastion]] | [[Rihelma]]      | In a mycelium room below the main bastion. Chest located at **(-955, 166, -4138)**. |
     | [[Wokonori]]          | [[Taihgel]]      | Behind a waterfall that runs through the dwelling. Chest located at **(4289, 92, -977)**. |
-    | [[Nameless Ziggurat]] | [[Khive]]        | In a 1-block-wide room in the underground ruins of Ihted, behind iron bars. Chest located at **(1069, 55, 1115)**. |
+    | [[Ihted]]             | [[Khive]]        | In a 1-block-wide room in the underground ruins of Ihted, behind iron bars. Chest located at **(1069, 55, 1115)**. |
     | [[Port Solitude]]     | [[Dahr]]         | In the tunnel where the water from outside the town drains into the sea. Chest located at **(1864, 60, 4251)**. |
     | [[Marahza]]           | [[Vayniklah]]    | Hidden beneath a singular block of polished diorite in the Temple of Bloom and Bough. Chest located at **(2312, 73, -1611)**. |
     | [[Perishing Well]]    | [[Voynahla]]     | In the ceiling, above a gap in the bridge near the site's entrance. Chest located at **(-3137, 105, -999)**. |

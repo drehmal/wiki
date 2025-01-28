@@ -42,7 +42,7 @@ The eighth lamp is on top of a tall circular platform. No normal enemies spawn w
 
 South of this final lamp is a pedestal, holding the [[Artifacts#Iker Harvester|Iker Harvester]] artifact.
 
-Through this door, a winding blue stained glass path leads to a purple crystal, housing a tomb that presumably belongs to [[Oriann]] and the [[Aeongale]] legendary.
+Through this door, a winding blue stained glass path leads to a purple crystal, housing a tomb that presumably belongs to [[Oriann]]. A chest with the [[Aeongale]] legendary sits opposite this coffin.
 
 The passage out the back of this area leads to an exit, following a stream to the eastern border of Rihelma's Domain with the Lunar Wastes.
 

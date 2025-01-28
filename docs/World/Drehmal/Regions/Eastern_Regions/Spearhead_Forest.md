@@ -23,7 +23,7 @@ Spearhead Forest is home to the coastal town of [[Mossfield|New Mossfield]] on a
 
 Spearhead Forest's early history is largely traced back to the eastern [[Empire of Vir]], which most likely governed it until [[Avsohm|Avsohmic]] conquest reached the region. The region was effectively a colony under Avsohm, with Avsohmic embassies built in its towns and villages, although the empire had little to do in the area besides use it for lumber.
 
-In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
+In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
 
 The Order was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. Both the Insohmic Commonwealth and Provinces of Vir fought against separatists to secure the Order's unity during the [[Insohmic Civil War]], and emerged victorious. It is also probable that they acquired territory in the West during the [[Battle for Drehmal]].
 

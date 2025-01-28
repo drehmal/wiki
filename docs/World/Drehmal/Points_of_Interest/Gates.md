@@ -36,3 +36,13 @@ There are six of these structures located in Drehmal, five of which take on the 
 
 ![[totoron_gate.png]]
 > The gate in the Totoron Lakes area of [[Faehrcyle]].
+
+## Broken Gates
+
+In addition to the 6 gates listed above, there are 2 which share the normal structure, but have been broken beyond repair. These gates cannot be meaningfully interacted with.
+
+![[kiln_broken_gate.png]]
+> The broken gate in the hidden room of the [[Kiln of Virtuo]].
+
+![[tehrmia_broken_gate.png]]
+> The broken gate at the [[Tehrmari Monastery]].

@@ -107,6 +107,18 @@ This book can be found on a lectern in a comedy club in [[Rhaveloth]].
 
 ***
 
+## Fishing
+
+This book can be found on a lectern in a lakeside cabin in the southeastern [[Verdant Labyrinth]]. It hints at a [[Runic Catalyst]] at the bottom of the lake.
+
+### Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3678  | 158   | 2774  |
+
+### Transcription
+> i went fishing and caught something too heavy for my rod...
+
 ## Teiruun Sensory Deprivation
 
 This book can be found on a lectern in the facility beneath [[Teiruun Monastery]], recording the finding that sensory deprivation can temporarily result in some kind of augmentation. Within this room, a lever can be pulled to open the wall and reveal a wither skeleton named "The Deprived."
@@ -120,6 +132,21 @@ This book can be found on a lectern in the facility beneath [[Teiruun Monastery]
 > We have found that taking away the senses brings our kindred closer to Virtuo for a time, but our sovereign minds are lost after too long a period.
 >
 > It is clear this treatment is not sufficient.
+
+***
+
+## Flying Virmari
+
+This book is found on a lectern in a watchtower at [[Teiruun Monastery]], establishing that [[Virmari]] had the ability to fly.
+
+### Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5552  |  226  | 3000  |
+
+### Transcription
+> I'm so close... <br>
+> Imagine it! Soaring through the air like the Virmari of old...
 
 ***
 

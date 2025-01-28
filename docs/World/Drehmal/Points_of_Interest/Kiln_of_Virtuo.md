@@ -360,6 +360,12 @@ Following Virtuo's departure at the end of Av3, the Kiln saw a decrease in pilgr
 
 A player head made to resemble a plushie of Virtuo is hidden beneath the center of the carpets in her hidden underground room.
 
+***
+
+For Halloween 2023, the Kiln of Virtuo was redecorated to be Halloween-themed by a mix of devs and community members, with a custom soundtrack made for the event. A screenshot of the Halloween Kiln can be seen, along with the theme song, in this video by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioJ3hOauTuQ?si=NshFZjQZGZKhqtGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Update History
 
 The Kiln of Virtuo received possibly the single largest upgrade in [[Drehmal v22|the 2.2 update]], being expanded from a simple quartz structure with a pool to a much more intricate palace complex, as well as adding its trading district and the Divination Facility.

@@ -119,6 +119,8 @@ This book can be found on a lectern in a lakeside cabin in the southeastern [[Ve
 ### Transcription
 > i went fishing and caught something too heavy for my rod...
 
+***
+
 ## Teiruun Sensory Deprivation
 
 This book can be found on a lectern in the facility beneath [[Teiruun Monastery]], recording the finding that sensory deprivation can temporarily result in some kind of augmentation. Within this room, a lever can be pulled to open the wall and reveal a wither skeleton named "The Deprived."

@@ -92,9 +92,10 @@ An Infinite Mode Foundry run has the same first 6 waves as the normal Foundry, b
 
 There are also three mobs exclusive to Infinite Mode:
 
-- **Elite Technomancer:** A custom evoker with 32 base health and the full set of attacks, including vex summons. Has a chance to drop its custom player head on death. Begins spawning on every wave beginning in Wave 7. <br>
-- **Commander Unit:** A wither skeleton taking the appearance of the celestial armor-clad Lost Avsohmic Commander enemies found in the late-game [[Primary Energy Collection Facility]] dungeon. Very tanky, with 90 base health and 10 base attack damage. Exact spawn conditions unclear.[^1] <br>
-- **Electric Unit:** A skeleton mob with relatively modest stats. However, it is capable of a massively powerful, drawn-out "deathray" attack. Exact spawn condition unclear.[^2]
+??? warning "Infinite Mode Units"
+    **Elite Technomancer:** A custom evoker with 32 base health and the full set of attacks, including vex summons. Has a chance to drop its custom player head on death. Begins spawning on every wave beginning in Wave 7. <br>
+    **Commander Unit:** A wither skeleton taking the appearance of the celestial armor-clad Lost Avsohmic Commander enemies found in the late-game [[Primary Energy Collection Facility]] dungeon. Very tanky, with 90 base health and 10 base attack damage. Exact spawn conditions unclear.[^1] <br>
+    **Electric Unit:** A skeleton mob with relatively modest stats. However, it is capable of a massively powerful, drawn-out "deathray" attack. Exact spawn condition unclear.[^2]
 
 ## Extras
 

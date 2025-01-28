@@ -5,7 +5,7 @@
 The **Tehrmari Monastery** is a somewhat hidden monastery in the mountains east of [[Purity Peaks]]. One of two places where [[Tehrmari]] are found on Drehmal, it is home to a [[Fervor Stones#Stone of Luxury|Stone of Luxury]].
 
 !!! abstract "Location"
-    Coordinates (Dock): `2610, 63, -150`
+    Coordinates (Dock): `2610, 63, -150` <br>
     Coordinates (Mountain): `2945, 183, -107`
 
 The monastery can be found by following a path that begins at a spruce wood dock, on the eastern shore of the largest lake in Purity Peaks. This path winds through the woods and up the side of the mountain, guided by white lamppost-like structures and gateways.

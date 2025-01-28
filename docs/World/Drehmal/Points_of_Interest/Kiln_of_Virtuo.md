@@ -47,7 +47,7 @@ Seemingly named after the [[Tidal Dynasty]], the Dynasty Hotel is the primary ho
 
 ### Grave of Pure Patrons
 
-A large graveyard is located southwest of the Kiln, labeled with two signs which read "GRAVE OF PURE PATRONS" and "THEIR CONTRIBUTIONS WILL NOT BE FORGOTTEN". This area contains gravestones dedicated to some of Drehmal's Patreon subscribers, who were canonically raptured in the [[Fall of Avsohm]]. 6 of their graves contain chests beneath.
+A large graveyard is located southwest of the Kiln, labeled with two signs which read "GRAVE OF PURE PATRONS" and "THEIR CONTRIBUTIONS WILL NOT BE FORGOTTEN". This area contains gravestones dedicated to some of the map's Patreon subscribers, who were canonically raptured in the [[Fall of Avsohm]]. 6 of their graves contain chests beneath.
 
 ### Divination Facility (Project ArkAngel)
 
@@ -284,7 +284,7 @@ Rahmac runs a white and cyan wool tent east of the main path, and sells art.
 |:----------:|:---------------------------:|
 | 3 Scales | 1 White Banner |
 | 2 Scales | 3 Paintings |
-| 20 Scales | Rahmac's Magnum Opus <br> ![[magnum_opus.png]]{ width="48" } |
+| 20 Scales | Rahmac's Magnum Opus <br> ![[magnum_opus.png]]{ width="96" } |
 
 ### Florien
 

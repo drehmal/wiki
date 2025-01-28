@@ -89,7 +89,7 @@ At the very top of this staircase beyond the Red Dawn room, the path opens to a 
 > IN MEMORY OF THE LAND LONG LOST <br>
 > May we never forget the lives lost to the Bright Capital. Naurduul thrive, may the Burnt never die!
 
-The meaning of this memorial, as well as its parallel at the [[Kiln of Virtuo]], has been the subject of intense speculation within the lore community. It seems to reference the pre-[[Felling]] relationship between the [[Maelruhn]] and the [[Viruhn]].
+The meaning of this memorial, as well as its [[Kiln of Virtuo#Karesh Signs|parallel]] at the [[Kiln of Virtuo]], has been the subject of intense speculation within the lore community. It seems to reference the pre-[[Felling]] relationship between the [[Maelruhn]] and the [[Viruhn]].
 
 #### Library Room
 

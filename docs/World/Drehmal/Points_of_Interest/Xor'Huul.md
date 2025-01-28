@@ -2,7 +2,7 @@
 
 ![[xorhuul.png]]
 
-**Xor'Huul** (also sometimes spelled **Xorhuul**, pronounced "zoor-who'll") is a ruined settlement on the [[Island of Dawn]]. It is a significant dungeon, containing a [[Fervor Stones#Stone of Agony|Stone of Agony]], four lore books, an [[Artifacts|artifact]], and more.
+**Xor'Huul** (also sometimes spelled **Xorhuul**, pronounced "zoor-hool") is a ruined settlement on the [[Island of Dawn]]. It is a significant dungeon, containing a [[Fervor Stones#Stone of Agony|Stone of Agony]], four lore books, an [[Artifacts|artifact]], and more.
 
 Built in a cave system on the Island of Dawn, Xor'Huul was founded by a tribe exiled from [[Casai]] in mid-Av2, after the founding of the [[Casain Empire]]. The inhabitants came to live on the island until just after the [[Fall of Avsohm]], and were prominent worshippers of [[Koh]], the Aspect of Stone.
 

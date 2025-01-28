@@ -18,7 +18,7 @@ Divided into Central, Western, Eastern, and Outer groups, the region pages each 
 
 The [Settlements](/World/Drehmal/Settlements/) tab is where you'll find articles on the many towns, cities, and villages of Drehmal. From trades available at these locations to the unique facets of each location, these articles are your go-to for navigating Drehmal's centers of population.
 
-### Points of Interest (Under Construction)
+### Points of Interest (Partially Under Construction)
 Finally, in the [Points of Interest](/World/Drehmal/Points_of_Interest/) folder, you'll find pages on the many notable POIs scattered throughout Drehmal—important, interesting locations that deserve a page of their own, but aren't a major settlement.
 
 ## Other Dimensions

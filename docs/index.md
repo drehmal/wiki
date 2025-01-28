@@ -79,6 +79,7 @@ Navigating through these tabs is the cleanest way to use this wiki, but there is
     - (World) **[Central Regions](/World/Drehmal/Regions/Central_Regions/)** <br> 
     - (World) **[Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/)** <br>
     - (World) **[Official Towns](/World/Drehmal/Settlements/Official_Towns/)** <br>
+    - (World) **[Major POI](/World/Drehmal/Points_of_Interest/)** <br>
     ??? warning "Late-Game (Post-75%) Content"
         - (World) **[Post-75% Regions](/World/Post-75_Area/Regions/)**
 

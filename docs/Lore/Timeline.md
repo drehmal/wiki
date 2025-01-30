@@ -2,15 +2,36 @@
 
 --8<-- "under_construction.md"
 
+--8<-- "spoiler.md"
+
+!!! warning "The following timeline contains significant spoilers through the end-game of Drehmal v2.2, as discovering parts of the world's history is a central driving force for the main story. Particularly towards the end of Av2, some details are intentionally omitted for spoiler reasons, mostly pertaining to information found at the very end of the story."
+
+## Overview
+
 The history of the realm known as Drehmal is divided into four eras, each known as an “Avihm.” Each avihm is not a set amount of time, but rather, the end of an avihm is typically marked by an extremely significant, world-changing event. 
 
-The First Avihm (Av1) is mostly lost to time, but is known to contain the beginning of civilization after the realm was created by the [[Primal Tree]] and [Aspects](/Lore/Higher_Beings/Aspects/), and ended with the destruction of the Primal Tree and subsequent creation of the three deities. The Second Avihm (Av2) is marked by the meteoric rise of [[Drehmari]] civilization throughout the continent, and in particular, the dominance of the highly advanced [[Avsohm|Empire of Avsohm]] in its later centuries. Av2 spanned nearly 2000 years, and ended with the [[Fall of Avsohm|mysterious collapse of the Avsohmic empire]]. The Third Avihm (Av3) lasted just over a thousand years, and was defined by conflicts between the remaining political entities, primarily the Order of [[Insohm]] in the East and the forces of [[Maelihs]] in the West, ending with the departure of the goddess [[Virtuo]] and dissolution of Insohm. The Fourth Avihm (Av4) is the current era, with little centralized power or advanced civilization to be found in the now-fragmented realm. A playthrough of Drehmal begins with the player’s awakening at the Stasis Facility, approximately 100 years into the Av4.
+The First Avihm (Av1) is mostly lost to time, but is known to contain the beginning of civilization after the realm was created by the [[Primal Tree]] and [Aspects](/Lore/Higher_Beings/Aspects/), and ended with the destruction of the Primal Tree and subsequent creation of the three [deities](/Lore/Higher_Beings/Deities/). 
 
-## The First Avihm
+The Second Avihm (Av2) is marked by the meteoric rise of [[Drehmari]] civilization throughout the continent, and in particular, the dominance of the highly advanced [[Avsohm|Empire of Avsohm]] in its later centuries. Av2 spanned nearly 2000 years, and ended with the [[Fall of Avsohm|mysterious collapse of the Avsohmic empire]]. 
+
+The Third Avihm (Av3) lasted approximately 900 years, and was defined by conflicts between the remaining political entities, primarily the Order of [[Insohm]] in the East and the forces of [[Maelihs]] in the West. It ended with the departure of the goddess [[Virtuo]] and dissolution of Insohm. 
+
+The Fourth Avihm (Av4) is the current era, with little centralized power or advanced civilization to be found in the now-fragmented realm. A playthrough of Drehmal begins with the player’s awakening at the Stasis Facility, approximately 100 years into the Av4.
+
+Dates in Drehmal's calendar system are written with the era first, followed by the year: `Av2 1750` would refer to the 1,750th year of the Second Avihm. Months and days are also sometimes referenced, but these are less frequent and not always consistent in their formatting.
+
+
+## The First Avihm (Av1)
+
+Practically nothing is known about the dawn of the realm besides the basic creation myth, which asserts that the [[Primal Tree]] was the first being in Drehmal. It is said that reality itself formed around the base of the tree, with the disc taking shape around the tree's roots. Due to the mystery surrounding the First Avihm, it is unclear if the physical creation of the world itself would be considered part of Av1, or pre-historical entirely.
+
+| **Date** | **Event Description** |
+|:--------:|:------------------------------------------------------------------------------------------------------------------|
+| Unknown  | 
 
 Little is known about the First Avihm. It is clear that it ended with the destruction of the world and the Primal Tree, and the birth of The Three Deities. Some of the structures on the map are thought to date from this period, such as the dark pyramid under [[Castle Scarstone]].
 
-## The Second Avihm (1820 years)
+## The Second Avihm
 
 **Before Civilization** _After the destruction of the world from the First Avihm, the Primal Tree is split into three deities; Drehmal, the Final Aspect; Maelihs, God of Chaos, Conflict, and Corruption; and Virtuo, Goddess of Peace, Purity, and Perfection._
 

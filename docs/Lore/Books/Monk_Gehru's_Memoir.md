@@ -27,7 +27,7 @@ This book can be found in a chest outside the [[Kiln of Virtuo]], in the Kiln At
 >
 > I bid a sudden farewell to all my parishioners at Tharxax, leaving the little church I had built in the hands of a reliable Drehmari called Armut. And then I made a beeline for Firteid, only to find the great city in mourning. I learned that on Virtuo's Audience Day that week, no Virmari nor the Goddess herself, were seen. The halls of the Grand Parish complex were empty, and devoid of all personal effects.
 >
-> Weak in the knees, I prayed to Virtuo for strength and cried for what felt like two weeks straight in the quiet altars of the Kiln. I met occasional hermit Virmari remaining in the realm who had heard the news and offered condolences. Although I begged them to stay and helped me rebuild, they soon went on their way, preferring to follow their own path.
+> Weak in the knees, I prayed to Virtuo for strength and cried for what felt like two weeks straight in the quiet altars of the Kiln. I met occasional hermit Virmari remaining in the realm who had heard the news and offered condolences. Although I begged them to stay and help me rebuild, they soon went on their way, preferring to follow their own path.
 >
 > Eventually, I found strength, and gradually purpose returned. If Virtuo needed to leave, it was surely to help some other people in far more need than the Drehmari. And she had chosen me as her sole representative in Drehmari affairs! Putting aside my lamentations, I began rebuilding the Kiln according to my own views with Virtuo's blessing. I attempted to draw on the open-mindedness of Daydra and humor of Luvic as I set about my work.
 >

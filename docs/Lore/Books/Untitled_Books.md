@@ -4,8 +4,6 @@ tags:
 ---
 # Untitled Books
 
---8<-- "spoiler.md"
-
 Untitled books that are (at least somewhat) relevant to the world are contained within this page, along with given titles that describe their contents.
 
 ------------------------------------------------------------------------

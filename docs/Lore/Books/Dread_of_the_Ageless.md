@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in the library atop [[Ihted Academy]]. It contains a description of a monster from the sky that killed the Avsohmic officers at the [[Ring Facility]] on the day of the Empire's fall, which took the form of a creature with "knotted, repulsive wings" before transforming into a drill and descending upon the facility.
+This book can be found in a chest in the library near the top of [[Ihted Academy]]. It contains a description of a monster from the sky that killed the Avsohmic officers at the [[Ring Facility]] on the [[Fall of Avsohm|day of the empire's fall]], which took the form of a creature with "knotted, repulsive wings" before transforming into a drill and descending upon the facility.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

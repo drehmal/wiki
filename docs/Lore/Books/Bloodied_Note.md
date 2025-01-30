@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in an item frame atop Aldregakar in [[Rihelma's Domain]], near the large pit with a waterfall.
+This book can be found in an item frame atop Aldregakar in [[Rihelma's Domain]], near the large pit with a waterfall that leads to the [[Augural Tangle]].
 
 ## Coordinates
 | **X** | **Y** | **Z**  |

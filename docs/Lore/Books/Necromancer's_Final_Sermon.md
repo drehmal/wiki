@@ -13,8 +13,7 @@ This book can be found on a lectern in an underground necromantic church in the 
 ## Transcription
 > Brethren, we gather today for our final meeting below the Skullbeast's remains.
 >
-> In many ways, we have failed. Hundreds of the brightest lights in alchemy have been extinguished, and much of Lorahn'Kahl and the southern Tharxax plains have been ravaged by the mad
-rampage of our escaped Sacrificed. If Saint Raene were still with us, she would be dismayed. The Great Work remains undone.
+> In many ways, we have failed. Hundreds of the brightest lights in alchemy have been extinguished, and much of Lorahn'Kahl and the southern Tharxax plains have been ravaged by the mad rampage of our escaped Sacrificed. If Saint Raene were still with us, she would be dismayed. The Great Work remains undone.
 >
 > And yet, this is the way of our discipline. All alchemy is built on the blood of previous practitioners. In that respect, we have come so very far. The earliest triumphs came from Saint Raene herself. When she sat in meditation for three years on each of the first three Spheres and theorized the Necrotic Engine, a new school of alchemy was born. We put Red Dawn and its idiotic sycophantry to shame.
 >

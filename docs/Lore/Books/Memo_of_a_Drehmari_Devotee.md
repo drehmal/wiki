@@ -35,8 +35,7 @@ This book can be found in a chest at a small camp in the [[Crimson Gorge]]. It i
 >
 > We cannot be peaceful, pure, or perfect, so why should we try? The Maelmari priests heard my yearning call and generously told me all they knew.
 >
-> Now I must complete my journey to the south-west. I will not stop until I reach the Titans of Strength and Servitude at the mouth of the Hellcrags. Only then can I become a true
-Drehmari prophet of Maelihs.
+> Now I must complete my journey to the south-west. I will not stop until I reach the Titans of Strength and Servitude at the mouth of the Hellcrags. Only then can I become a true Drehmari prophet of Maelihs.
 >
 > If some traveler miraculously comes upon my encampment, please take this journal and continue my mission.
 >

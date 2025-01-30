@@ -13,7 +13,7 @@ This book can be found in a chest at a church in western [[Spearhead Forest]].
 ## Transcription
 > I am sure of it! I heard footsteps! Why can I not see those intruders, for whoever's sake!
 >
-> I am stuck in here, in a endless cycle of fear and silence. One day, the intruders will barge in this place and cut me throat, and end my life. I cannot let this happen.
+> I am stuck in here, in a endless cycle of fear and silence. One day, the intruders will barge in this place and cut my throat, and end my life. I cannot let this happen.
 >
 > I do not remember the last time I felt something else than fear or loneliness. I must be going insane.
 >

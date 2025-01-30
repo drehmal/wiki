@@ -63,7 +63,7 @@ This book can be found on a lectern in the now-overgrown Hydroponics Lab section
 > -A Chthonic Rose
 > -A Heartwood Mahogany
 > -A Veldt Acacia
-> -A Terhmian Aspen
+> -A Tehrmian Aspen
 > -A Merioak
 > -A Spearhead Spruce
 

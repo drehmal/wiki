@@ -27,7 +27,3 @@ This book can be found in a chest in [[Mohta]], and contains a history of the [[
 > Instead of wasting troops invading the Theocracy, Avsohm instead supported an assassination against the Theocracy's High Priests, leading to their instability and downfall. Avsohm was able to occupy Lorahn'Kahl in Av2 1748. However, with the fall of the Theocracy and their most powerful necromancers, meant their undead army would be uncontrolled and free to roam the lands. Thus, the Undead Horde was Avsohm's next major problem, as a massive undead army marched to the Central Plains.
 >
 > The Tri-Moon Theocracy, while mostly secretive and isolated, had a short moment of importance when they were a mere puppet for two greater powers. They ultimately had a significant impact on the political landscape of Avsohm, and thus shaping the future of Drehmal.
-
-
-
-

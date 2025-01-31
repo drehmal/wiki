@@ -131,7 +131,7 @@ At y=107, a door connects to the Sunchasers/library room staircase.
 
 At y=122, a platform holds the [[Burnt Generals' Orders]] book, as well as a map of the surrounding area. When the player approaches here, the area's miniboss, Tevus, spawns in alongside a Burnt Archer.
 
-Tevus is the Second Burnt General, and a Maelmari Brute outfitted in full celestial armor enchanted with Projectile Protection. He wields a Celestial Axe and a shield, and deals massive damage. He drops his helmet on death.
+Tevus is the Second Burnt General, and a Maelmari Brute outfitted in full celestial armor enchanted with Projectile Protection. Tevus wields a Celestial Axe and a shield, and deals massive damage. Tevus drops their helmet on death.
 
 ### Maelihs's Room
 

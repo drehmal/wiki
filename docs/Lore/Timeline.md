@@ -6,6 +6,10 @@
 
 !!! warning "The following timeline contains significant spoilers through the end-game of Drehmal v2.2, as discovering parts of the world's history is a central driving force for the main story. Particularly towards the end of Av2, some details are intentionally omitted for spoiler reasons, mostly pertaining to information found at the very end of the story."
 
+Dates in Drehmal's calendar system are written with the era first, followed by the year: `Av2 1750` would refer to the 1,750th year of the Second Avihm. Months and days are also sometimes referenced, but these are less frequent and not always consistent in their formatting.
+
+Not many specific dates are given in the map, so a large amount of this timeline is made up of approximate dates. The general sequence of major events is relatively well-understood, but the exact year that most events occurred is either not public knowledge or has not been fully established within the canon.
+
 ## Overview
 
 The history of the realm known as Drehmal is divided into four eras, each known as an “Avihm.” Each avihm is not a set amount of time, but rather, the end of an avihm is typically marked by an extremely significant, world-changing event. 
@@ -17,9 +21,6 @@ The Second Avihm (Av2) is marked by the meteoric rise of [[Drehmari]] civilizati
 The Third Avihm (Av3) lasted approximately 900 years, and was defined by conflicts between the remaining political entities, primarily the Order of [[Insohm]] in the East and the forces of [[Maelihs]] in the West. It ended with the departure of the goddess [[Virtuo]] and dissolution of Insohm. 
 
 The Fourth Avihm (Av4) is the current era, with little centralized power or advanced civilization to be found in the now-fragmented realm. A playthrough of Drehmal begins with the player’s awakening at the Stasis Facility, approximately 100 years into the Av4.
-
-Dates in Drehmal's calendar system are written with the era first, followed by the year: `Av2 1750` would refer to the 1,750th year of the Second Avihm. Months and days are also sometimes referenced, but these are less frequent and not always consistent in their formatting.
-
 
 ## The First Avihm (Av1)
 

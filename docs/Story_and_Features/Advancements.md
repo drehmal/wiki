@@ -266,7 +266,7 @@ This section contains 15 advancements, all related to exploration and specific g
     | Very Very Frightening              |  Strike a villager with lightning                                                           | Throw a Channeling trident at a villager in a thunderstorm (Vanilla). |
     | One Small Step                     |  Trek into the Lunar Wastes                                                                 | Step into the Lunar Wastes, outside the breathable boundary of Lo'Dahr. |
     | **_Breath Holding Champion_**      |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
-    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
+    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [[Eyebiter|special shield]] to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
     | Local Traditions                   |  Receive a gift during the Day of Patronage                                                 | Visit [[Naharja]] on a Day of Patronage, and receive a present from a villager.  |
     | **_Glimpse Into the Cosmos_**      |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of Aldregakar in [[Rihelma's Domain]]. |
     | Invasive Species                   |  Recall a horse to Lo'Dahr                                                                  | Use Warp Horse to summon a horse to Lo'Dahr.  |
@@ -298,7 +298,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | Timelord                           |  Wibbly-wobbly timey-wimey... stuff. - Exploited the Temporal Engine                        | Solve the main puzzle at [[Sal'Mevir]].                 |
     | Left Blade Fragment                |  The cutting edge of this half-spearhead slices through tough canvas on contact. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade.   | Claim the Left Blade Fragment at [[Sal'Mevir]].  |
     | The Might of Avsohm                |  You've been directed to visit an Avsohmic weapons depot. Wonder what sort of toys they're hiding... - Restored Network Linkage to 50%   | Awarded upon reaching 50% linkage.  |
-    | Accumulated Arms                   |  Trucks, tanks, planes, oh my gyatt![^2] - Infiltrated the Exodus Vault                     | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
+    | Accumulated Arms                   |  Trucks, tanks, planes, oh my! - Infiltrated the Exodus Vault                     | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
     | Right Blade Fragment               |  The inner edges of this half-spearhead are coated with a lattice of delicate primal catalysts. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade            | Claim the Right Blade Fragment at [[Exodus Vault]].   |
     | Anticlimax                         |  After reuniting the pieces of Avsohm's greatest weapon, you are struck by its lack of effectiveness. Is this really it? - Discovered Inert Mythbreaker    | Reunite the fragments of the [[Mythbreaker]] at the [[Av'Sal Repository]]. |
     | Security Unsecured                 |  With the energy network being almost fully restored, you've gained access to the Administrative Wing. - Restored Network Linkage to 75%                 | Awarded upon reaching 75% linkage. |
@@ -335,4 +335,4 @@ This section contains the 7 advancements on the secret tab.
     | And In The Light, Bind Them        | Oh, I shall be tempted. - Fully upgrade all eight Mythicals with Fervor Stones.                         |
 
 [^1]: This advancement is actually found in the Discoveries: Civilization branch, but is included here for spoiler reasons.
-[^2]: This wiki editor would like to attest that this is the actual in-game advancement text, and that he regrets this fact, but is dedicated to making this wiki thorough and accurate (a simple [sic] would have sufficed, but alas).
+[^2]: In version 2.2.1, this advancement reads "Trucks, tanks, planes, oh my gyatt!"

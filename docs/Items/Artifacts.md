@@ -27,7 +27,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | There is no question as to what makes a god, but to the common clay of civilization, what other way to describe the Harbinger of Calamity than a god? To see Her crest over the edge of the realm, knowing that you are now destined. Destined for ruination. |
 | **Obtain** | Located in southern [[Anyr'Nogur]], in a large magma field. Chest located at **(-3571, 71, 3349)**             |
 
-??? "Extra Lore"
+??? note "Extra Lore"
     Absolute Ruin is found beneath a chiseled taihryte brick in the center of a field of magma block, in southwestern Anyr'Nogur. If viewed from high up enough, this field takes a shape very similar to a manta ray, which is believed to be the approximate form of the [[Skullmother]], an immensely powerful beast utilized by [[Maelihs]] in his conquest of the West. The Skullmother is also the creature that caused the Desolation of the [[South Heartwood]], turning it from a dense forest to a completely barren wasteland, and this item appears to be describing the sight of the Skullmother approaching.
 
 ### Aegis of House Anyr
@@ -41,7 +41,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Co-opted for its significance to the Casain, the Ruby of the Dunes is accompanied by the ironic motto of a noble family which ceded its name: "The Lion Never Yields". |
-| **Obtain** | Located in the pyramid in [[Sal'Anyr]], in [[Anyr'Nogur]]. Chest located at **(-3468, 141, 2242)**                                                                                                     |
+| **Obtain** | Located in the pyramid in [[Sal'Anyr]], in [[Anyr'Nogur]]. Chest located at **(-3468, 141, 2242)**      |
 
 ### Air Sailor's Runehat
 
@@ -83,6 +83,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | This shield is emblazoned with the crest of Diore I Alvira, the great Virmari conqueror and Emperor. So long as his standard was in Virsuhl, the Southern Empire of Vir was said to possess coequal authority to Highfall itself. Without Diore and his kin, however, the great city soon fell to opportunists. |
 | **Obtain** | Located in the ruins of Virsuhl, in northern [[Spearhead Forest]]. Chest located at **(3984, 82, -12)**                       |
 
+??? note "Extra Lore"
+    This artifact is the only one to reference a "Southern" Empire of Vir, which seems to be a distinct political entity from the main Empire of Vir, centered in Highfall. The exact timeline surrounding these groups is not at all clear.
+
 ### Ancient Crown
 
 |          |              |
@@ -108,7 +111,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Emperor Anyr, the last ruler of Avsohm, strived to spread his Empire to the furthest reaches of the realm, and for his name to go down in history alongside Drehn Mal'Sohm's. |
-| **Obtain** | Found in a triangular temple within the southeastern plateau of Av'Sal. Chest located at **(1, 116, 1732)**                                                                   |
+| **Obtain** | Found in a triangular temple within the southeastern plateau of Av'Sal. Chest located at **(1, 116, 1732)**        |
 
 ### AP-357 Excavator
 
@@ -119,10 +122,10 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.2          |
 | **Enchantments**      | Efficiency VII |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                       |
+|            | **Lore and how to Obtain**  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | One of the very few pickaxes designed to mine rehntite salvaged by Insohm. With Avsohm's mine missing, Master Ultva ordered for every bit of the ancient bedrock beneath Rhaverik to be scoured. |
-| **Obtain** | Found in the flooded mines under [[Rhaverik]] in the [[North Heartwood]]. Chest at **(1078, 33, 2143)**                                                                                                           |
+| **Obtain** | Found in the flooded mines under [[Rhaverik]] in the [[North Heartwood]]. Chest at **(1078, 33, 2143)**    |
 
 ### Ardent Dream
 
@@ -136,7 +139,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | **Lore**   | The boots used by a Maelmari vigilante, who fought to protect her people from the Burnt God. |
-| **Obtain** | Located in a hidden side room of the [[Burnt Palace]], in the [[Hellcrags]]. Chest located at **(-4005, 75, 5967)**                             |
+| **Obtain** | Located in a hidden side room of the [[Burnt Palace]], in the [[Hellcrags]]. Chest located at **(-4005, 75, 5967)**       |
 
 ### Ardent Force
 
@@ -227,10 +230,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor**       | 3                           |
 | **Bonus Stats** | +1 Attack Damage, -2 Health |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                                 |
+|            | **Lore and how to Obtain**                    |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Vulteid, the former spiritual heart of the Black Jungle, was home to the Indomitable, a fearsome local militia recognizable for their battle skirts and three straight swords. During the long era of Tidal oppression, many Firteidan children prayed to see those distinctive figures striding out of the lava fields to liberate them from the tyranny. |
-| **Obtain** | Located in the ruins of [[Vulteid]], in the [[Black Jungle]]. Chest located at **(3786, 85, 3927)**                        |
+| **Obtain** | Located in the ruins of [[Vulteid]], in the [[Black Jungle]]. Chest located at **(3786, 85, 3927)**      |
+
+??? note "Extra Lore"
+    There is another artifact named "Indomitable", possibly a reference to Vulteid's historical forces. That artifact is a strong diamond chestplate, located in the Totoron Lakes sub-region of [[Faehrcyle]], far to the north of the Black Jungle.
 
 ### Astorahnni Ceremonial Plate
 
@@ -243,7 +249,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                                                                             |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Though their faith grew out of Lai worship In Eastern Merijool the Astorahn tribes eventually came to believe in a different, true source of warmth. This shining plate is emblazoned with a stylized depiction of that heavenly body. |
-| **Obtain** | Located at the Astorahnni Tower, in the northwestern [[Gulf of Drehmal]]. Chest located at **(-181, 206, -573)**                                  |
+| **Obtain** | Located at the Astorahnni Tower, in the northwestern [[Gulf of Drehmal]]. Chest located at **(-181, 206, -573)**     |
+
+??? note "Extra Lore"
+    This artifact's description seems to conflict with the history of Merijool, as [[Lai]] worship historically flourished in Western Merijool, while the East was devoted to [[Loe]].
 
 ### AvEP-83
 
@@ -257,6 +266,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Insohmic scientists under Ultva's leadership tried their best to replicate this lightweight, ultra durable plate discovered in Sal'Mevir, but were not successful. Their impatient commander stormed out, never to be seen again. |
 | **Obtain** | Located at the top of the [[Insohmic Research Center]], in the [[North Heartwood]]. Chest located at **(1956, 103, 1497)** |
+
+??? note "Extra Lore"
+    This seems to reference the departure of [[Ultva]] for the [[Avsohmic Vault]], where he would go insane and die within its walls. Insohm's inability to replicate this Avsohmic technology seems to have been the final straw that broke his spirit.
 
 ### Axe of Growth
 
@@ -299,6 +311,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | An old worn blade made of a strange material.                         |
 | **Obtain** | Found in a hidden side room of the [[Avsohmic Vault]]. Item Frame located at **(-3661, 77, -1171)** |
 
+??? note "Extra Lore"
+    A version of the Nullblade artifact found in the Insohmic [[Coven of Potentia]], this artifact has only 1 durability, while the regular Nullblade is unbreakable. This may have been a weapon [[Ultva]] used to take his own life while in the vault.
+
 ### Boltcatcher's Cradle
 
 |             |                                |
@@ -308,10 +323,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor**       | 6                              |
 | **Bonus Stats** | +0.01 Speed, +0.2 Attack Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                               |
+|            | **Lore and how to Obtain**              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Electroplated leggings imbued with the might of the Tempest. Tiny arcs of electricity dance across the wearer's fingers, calling forth unfamiliar memories of an ancient lunar conflict. |
 | **Obtain** | Located in a tall deepslate/copper structure in the [[Frozen Bite]]. Chest located at **(4665, 154, -3164)** |
+
+??? note "Extra Lore"
+    Filled with references to the Aspect of Storms, [[Palaesida|Tempest Palaesida]], this artifact also vaguely mentions the [[Divine Schism]]. The reason for a connection between Palaesida and the Frozen Bite is not entirely clear.
 
 ### Boots of Deigh
 
@@ -323,7 +341,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor Toughness**| 2                                                       |
 | **Bonus Stats**     | +10 Max Health, +10% Movement Speed, -90% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                           |
+|            | **Lore and how to Obtain**      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Ostracized by Maelmari and Drehmari alike in the west, the Mihkmari had resigned themselves to life on the fringes. Deigh the Dawnstrider, rebel hero and visionary, gathered them together, and led them to a foothold in land Mael could not conquer. The Mihkmari who wears his boots have the loyalty of ten thousand crossbows. |
 | **Obtain** | Located in the hanging [[Mihkmari]] tower in the [[Verdant Labyrinth]]. Chest located at **(3325, 165, 2669)**           |
@@ -343,7 +361,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Inside the eastern tomb within the [[Hunters' Crypt]]. Chest located at **(335, 46, 354)**                           |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system. These are equivalent to the 2.1 "Paladin" boots.
 
 ### Boots of the Ruthless
 
@@ -354,13 +372,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Enchantments**    | Unbreaking III      |
 | **Bonus Stats** | +0.2 Attack Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                        |
+|            | **Lore and how to Obtain**   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Hunting Party's berserker, Asrihk Clearbrook, was a mountain of a Drehmari with strong arms and a stronger heart. |
 | **Obtain** | Inside the western tomb within the [[Hunters' Crypt]]. Chest located at **(315, 46, 354)**       |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system. These are equivalent to the 2.1 "Warrior" boots.
 
 ### Boots of the Scheming
 
@@ -371,13 +389,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Enchantments**    | Unbreaking III         |
 | **Bonus Stats** | +0.01 Movement Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                            |
+|            | **Lore and how to Obtain**   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Tracker was always full of schemes, her greatest being the slaying of the Father of Beasts. In success, she found herself tried for deicide under Avsohmic law and was ordered to swing within Av'Sal. |
-| **Obtain** | Inside the southern tomb within the [[Hunters' Crypt]]. Chest located at **(325, 46, 365)**                                                                                                              |
+| **Obtain** | Inside the southern tomb within the [[Hunters' Crypt]]. Chest located at **(325, 46, 365)**                   |
 
 ??? "Extra Lore"
-    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system.
+    One of three pairs of leather boots found at the [[Hunters' Crypt]], referencing the three leather boots items that made up Drehmal 2.1's class system. These are equivalent to the 2.1 "Rogue" boots.
 
 ### Boots of the Witness
 
@@ -393,8 +411,10 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | To the King of Nothing, it is all patterns. Only the same people, hopes, triumphs, and mistakes under a new guise, trillions upon trillions of times. But not Drehmal. But not you. |
 | **Obtain** | Located in a tent in southern [[Faehrcyle]]. Chest located at **(1853, 115, -3158)**            |
 
-??? "Extra Lore"
-    These boots appear to reference an extremely late-game character known sometimes as the [[yellow|King of Nothing]], but insinuates that for some reason, Drehmal is special to him. 
+??? note "Extra Lore"
+    These boots appear to reference an extremely late-game character known sometimes as the [[yellow|King of Nothing]], but insinuates that for some reason, Drehmal is special to him. It is found in the same tent as the untitled [[Untitled Books#Barhvama Doh|Barhvama Doh]] book. There has been significant discourse in the lore community about why Drehmal is special to this figure, ranging from the idea that he originates from this realm to the exploits of powerful Drehmari such as [[Aok]] or [[Avsohm]].
+
+    There is one other piece of this "set", the Greaves of the Witness, also found in Faehrcyle.
 
 ### Casain Theater Mask
 
@@ -408,6 +428,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizens of Sahd. This is one of his more curious possessions. |
 | **Obtain** | Located in the largest building in the town of [[Morah]], on [[Sahd]]. Item frame located at **(4484, 157, 5514)**         |
+
+??? note "Extra Lore"
+    The Laughing Dragon, the Aspect [[Mari]], is known to have resided on Sahd. The Arc of Twilight is a concept from a Sahdan religion detailed in [[The Path Part 1 The Arc of Twilight|The Path Part 1: The Arc of Twilight]], referring to the unseen portion of the larger cycle of life and existence.
 
 ### Chronicler's Offering
 
@@ -480,6 +503,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | Aw man... |
 | **Obtain** | Located on an armor stand in western [[Capital Valley]]. Armor Stand located at **(95, 92, 1067)**     |
 
+??? note "Extra Lore"
+    so we back in the mines
+
 ### Crest of Mekta
 
 |               |                                             |
@@ -506,6 +532,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | The Grand Pontiff of Peace was the kindest of the Parish's three leaders, regarded as a natural extension of the Goddess' love. Unfortunately, when she expressed distaste towards the Pontiff of Perfection's aspirations, she was swiftly disposed of. |
 | **Obtain** | Located in a hidden cave, in a bar in [[Firteid]]. Chest located at **(3888, 52, 3586)**    |
 
+??? note "Extra Lore"
+    The Grand Pontiff of Peace seems to have been murdered by [[Vahid]].
+
 ### Cryptkeeper's Boots
 
 |             |                   |
@@ -514,7 +543,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor**       | 2                 |
 | **Bonus Stats** | +8% Attack Damage |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                      |
+|            | **Lore and how to Obtain**      |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Recently recovered from the Crypts of Akhlo'Rohma, these Avsohmic guard’s boots were built by Blue Exodus to allow the wearer to perceive, detain, and silence an arcanist before they can utter a single word. |
 | **Obtain** | One of four artifacts that make up the Cryptkeeper's Set, in [[Ancehl Castle]]. Chest located at **(1510, 135, -1941)**      |
@@ -569,7 +598,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This gigantic, but somehow lightweight shield oozes with divine energy. An irresponsible gift to the Frostfang tribes in thanks for helping make a dragon's wildest dreams into reality. |
-| **Obtain** | Located in a frozen lake in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**                                                                                                                         |
+| **Obtain** | Located in a frozen lake in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**           |
+
+??? note "Extra Lore"
+    This shield was likely granted to the Frostfang tribes by [[Loeleyhn]], Aspect of Snow, in return for massively expanding her domain by way of the [[Frostfang Catastrophe]].
 
 ### Damaged Vorpal Greatsword
 
@@ -580,7 +612,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.2                                                      |
 | **Enchantments**      | Sharpness I <br>Smite III <br>Bane of Arthropods III <br>Unbreaking I |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                      |
+|            | **Lore and how to Obtain**              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Half of the sword wielded by Eoglef, a great Frostfang hero. A gleaming gray heirloom that supposedly split from the hero brute's strength when Eoglef decapitated the kraken-serpent Krendahl. |
 | **Obtain** | Located in the castle in eastern [[Highfall]]. Chest located at **(6171, 83, -1103)** |
@@ -594,10 +626,10 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.8                    |
 | **Enchantments**      | Unbreaking X <br>Mending |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                    |
+|            | **Lore and how to Obtain**          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The isolated Tharhan kingdom of Dehar once thrived in the heart of Ebonfire, and was well known for their distinctive runic metalworking techniques. After Dehar fell to the Nightwalkers, Deharian steel remained a mystery that even Avsohm couldn't solve. |
-| **Obtain** | Located in a small structure near the summit of [[Mt. Ebonfire]]. Chest located at **(-3049, 222, 343)**                                                                                                                                                                                           |
+| **Obtain** | Located in a small structure near the summit of [[Mt. Ebonfire]]. Chest located at **(-3049, 222, 343)**      |
 
 ### Disciple's Greaves
 
@@ -608,13 +640,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor Toughness**| 1                               |
 | **Enchantments**        | Fire Protection VII <br>Unbreaking IX |
 
-|            | **Lore and how to Obtain**                                                                                                                                         |
+|            | **Lore and how to Obtain**    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | What crazed lunatic would seek out such beasts? Who would go as far as to call out for the ruinous Mother, knowing that she is gone, away at the end of the world? |
 | **Obtain** | Located in [[The Carmine]], at the [[Birthing Grounds]]. Chest located at **(-2250, 7, 5585)**     |
 
 ??? "Extra Lore"
-    These leggings likely belonged to Skull Disciple [[Ossein]], during his time at the Birthing Grounds before venturing to the point where he is found by the player.
+    These leggings likely belonged to Skull Disciple [[Ossein]], during his time at the Birthing Grounds before venturing to the point where he is found by the player. It is found next to the [[Disciple's Log]] book.
 
 ### Dragonslayer Sword
 
@@ -629,6 +661,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ----------------------------------------------------- |
 | **Lore**   | The old, weathered blade of a fabled Tehrmari hunter. |
 | **Obtain** | Located in the large domed building at the center of [[Av'Sal]]. Dropped by Arnstehn.              |
+
+??? note "Extra Lore"
+    A clear reference to Dragonslayer Ornstein from Dark Souls 1.
 
 ### Drehn's Peace
 
@@ -654,10 +689,10 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 0.6        |
 | **Enchantments**      | Silk Touch |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                         |
+|            | **Lore and how to Obtain**        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The large Drehuan sculptor's tool has sat undisturbed within a statue since before the Chosen Kingdom was founded. The statue was refurbished by the order of Emperor Drehn of Avsohm, but its secrets were not divulged until now. |
-| **Obtain** | Found inside the large Drehuan Statue in [[Palisades Heath]]. Chest located at **(24, 105, 2435)**        |
+| **Obtain** | Found inside the large Drehuan Statue in [[Palisades Heath]], opened by mining a chiseled blackstone block at the bottom of its staff. Chest located at **(24, 105, 2435)**        |
 
 ### Drinking Hat
 
@@ -671,6 +706,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------- |
 | **Lore**   | He was number one!                                                  |
 | **Obtain** | Located in a grave in the northern portion of the mountain range between [[Faehrcyle]] and the [[Frozen Bite]]. Chest located at **(4447, 148, -3720)** |
+
+??? note "Extra Lore"
+    A reference to Smitty Werbenjagermanjensen from Spongebob Squarepants. He was number one!
 
 ### Duspian Chausses
 
@@ -699,6 +737,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | -------------------------------------------------------------------- |
 | **Lore**   | Thousands were chosen. None have succeeded.                          |
 | **Obtain** | Located in a small tower in [[Nimahj Swamp]]. Chest located at **(-2176, 126, 2326)** |
+
+??? note "Extra Lore (Late-Game Spoilers)"
+    Closely parallels part of the [[Mt. Yavhlix Dialogue|dialogue]] inside the [[Primary Energy Collection Facility]].
 
 ### Emberhost
 
@@ -780,7 +821,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain** |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | This unusual work of footwear was created for Kazabar, chieftain of Zarha so that he could be completely surrounded at all times by the art he loved so much. He perished by his own hand after consuming the toxic pigments within a particularly vibrant oil painting. |
-| **Obtain** | Located in the ruins of Zahra in [[Casai]]. Chest located at **(-3037, 63, -735)** |
+| **Obtain** | Located in the ruins of Zarha in [[Casai]]. Chest located at **(-3037, 63, -735)** |
 
 ### Foreigner's Lodestar
 
@@ -793,6 +834,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | An old fisherman cast his line into the ocean and almost immediately felt a tug like nothing he had ever felt before. It threatened to pull him off of his feet, but he refused to concede. Unmooring, he allowed the beast to pull his craft westward. He never returned. |
 | **Obtain** | Located on an island in the far east of the [[Frozen Bite]]. Chest located at **(6603, 83, -2821)** |
+
+??? note "Extra Lore"
+    The "Foreigner" as a title is only used one other time in the map, referring to an [[yellow|end-game character]]. The craft referenced here may be the strange ship off the western coast of [[Mt. Yavhlix]] which holds a [[Fervor Stones#Stone of Agony|Stone of Agony]].
 
 ### Form-fitting Leggings
 
@@ -818,7 +862,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The eloquent and passionate Dahe Clan were known for their beautiful silken garments that left little to the imagination. |
-| **Obtain** | Located in the Dahe clan ruins in [[Sahd]]. Chest located at **(4518, 64, 5748)**, also containing the Form-fitting Leggings.                                                             |
+| **Obtain** | Located in the Dahe clan ruins in [[Sahd]]. Chest located at **(4518, 64, 5748)**, also containing the Form-fitting Leggings.       |
+
+??? note "Extra Lore"
+    These two artifacts are tied to Sahd's Dahe Clan, associated with [[Moen]], Aspect of Pleasure.
 
 ### Freebooter's Breeches
 
@@ -861,6 +908,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ---------------------------------------------------------------------------- |
 | **Lore**   | The proud and bloodthirsty Osaigah Clan had a simple motto: No pain, no gain. |
 | **Obtain** | Located in [[Sahd]], at the base of the [[Emperor's Estate]]. Chest located at **(5037, 120, 6345)**   |
+
+??? note "Extra Lore"
+    This artifact belonged to Sahd's Osaigah Clan, tied to the Aspect of Pain, [[Maen]].
 
 ### Goh's Plate
 
@@ -907,6 +957,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | If one were to witness a power so great it tore through gods and empires with ease, what else could one do than revere it? |
 | **Obtain** | Located in a strange quartz structure in northeastern [[Faehrcyle]]. Chest located at **(4397, 141, -3886)**    |
 
+??? note "Extra Lore"
+    Heavily associated with the Boots of the Witness artifact in southern Faehrcyle, and the "[[yellow|King of Nothing]]" referenced in that artifact.
+
 ### Gumption
 
 |              |         |
@@ -916,7 +969,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed** | 1.2     |
 | **Enchantments**     | Mending |
 
-|            | **Lore and how to Obtain**                                                                                                                                                         |
+|            | **Lore and how to Obtain**         |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The twin blades of this war axe glimmer gleefully when you grip its comfortable handle. When you swing it, it seems to subtly change its angle of attack to inflict maximum damage. |
 | **Obtain** | Located in an isolated house in [[North Tharxax]]. Chest located at **(-1048, 71, 2503)**        |
@@ -962,6 +1015,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | The King of Glass speaks to no one, for his death would come too easily. |
 | **Obtain** | Located in the [[Black Jungle]], east of the ruins of [[Vulteid]]. Chest located at **(4088, 228, 3834)**      |
 
+??? note "Extra Lore"
+    The meaning of this artifact is very poorly understood. It may be tied to the [[Black Jungle#Black Ruins|Blackstone Ruins]] found directly to the southeast, with this "King of Glass" being the ruler of that state, or it may be tied to [[Verrhys]], the mysterious Aspect of Silence referenced therein.
+
 ### Her Truth
 
 |             |                                                         |
@@ -976,6 +1032,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | There exists a prophet who lives on the moon out of sight. She sees visitations from all, even those beyond, for her visions are boundless. |
 | **Obtain** | Located in a floating piece of glass over the Tinaxi Pools at [[Veruhkt Plateau]]. Chest located at **(4285, 123, -1719)**     |
 
+??? note "Extra Lore"
+    This refers to [[Rihelma]], the enigmatic Aspect of Sky who resides on the hidden moon of [[Lo'Veruhkt]].
+
 ### Ignus Scythe
 
 |               |               |
@@ -985,7 +1044,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 2             |
 | **Enchantments**      | Fire Aspect III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                    |
+|            | **Lore and how to Obtain**        |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This well-balanced tool gleams with the ever-shifting luster of magma itself. Sacred to Taihgel worshippers, it looks like it would be equally effective at dividing earth and rending flesh. |
 | **Obtain** | Located in a black concrete monolith, in the central magma fields of the [[Black Jungle]]. Chest located at **(4546, 43, 3731)**        |
@@ -1002,6 +1061,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | If you hold a hand to its scarred, lukewarm breast, you can feel the slow rumbling beat of a heart that refuses to die. |
 | **Obtain** | Located in a structure within a lava pool at [[Faehrcyle]], in the volcanic Totoron Lakes sub-region. Chest located at **(3373, 70, -4032)**  |
+
+??? note "Extra Lore"
+    The name of this item, "Indomitable", is also the name of Vulteid's historical militia referenced in the Ash-Stained Battle Skirt artifact. A possible connection between the two is unclear.
 
 ### Inspector's Sidearm
 
@@ -1028,7 +1090,10 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Two zippers break the uniformity of this padded mask's exterior, enough for one eye to see and the mouth to consume. |
-| **Obtain** | Located at the Skeveraan Laboratory in [[Spearhead Forest]]. Chest located at **(3124, 25, 1270)**                                               |
+| **Obtain** | Located at the Skeveraan Laboratory in [[Spearhead Forest]]. Chest located at **(3124, 25, 1270)**       |
+
+??? note "Extra Lore"
+    The one eye makes it a possibility that this mask belonged to [[Vahid]], who lost an eye in a very similar manner to his Goddess, [[Virtuo]].
 
 ### Insurance
 
@@ -1042,6 +1107,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The cautious and devout Zedoh Clan made sure that there was always a contingency plan. Unfortunately, these seasoned survivors could not withstand the ravages of time. |
 | **Obtain** | Located in the Zedoh Clan ruins in [[Sahd]]. Chest located at **(5191, 115, 5574)**     |
+
+??? note "Extra Lore"
+    Tied to Sahd's Zedoh Clan, associated with the Aspect of Fear, [[Tethlaen]].
 
 ### Jack's Jacket
 
@@ -1086,6 +1154,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | In Espinor, there lived an old astrologist who lacked capable equipment. With only a shoddy spyglass to their name, they never discovered anything of note. Until, one day, while viewing the western skies, they spotted a shimmering light. It birthed a new star, a twinkling speck, that only lived for a few moments before it fell to the horizon. The star died not long after, the astrologist assumed, unable to see behind their now seared eyes. |
 | **Obtain** | Located in the ruins of Espinor, at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2585, 100, 3929)**   |
 
+??? note "Extra Lore"
+    An account of the desolation of the South Heartwood by the [[Skullmother]].
+
 ### Lodebearer
 
 |             |                                     |
@@ -1126,6 +1197,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | Born an especially weak Mihkmari, Lomach's parents decided to volunteer him for Red Dawn experimentation at the Burnt Palace. Reborn in a new form through innovative necromancy, he relearned speech and later carried the great hero Deigh as he traveled the realm to unite their people. |
 | **Obtain** | Located in a [[Mihkmari]] camp in the [[Ebony Veldt]]. Chest located at **(-1174, 70, 802)**  |
 
+??? note "Extra Lore"
+    This artifact establishes that Ravagers, renamed to "Grafted Mihkmari" in Drehmal's resource pack, were once humanoid [[Mihkmari]] that were turned into their current weaponized forms through alchemy. 
+
 ### Lookout Legwear
 
 |                 |                   |
@@ -1135,7 +1209,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor Toughness**| 1                 |
 | **Enchantments**        | Feather Falling III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                      |
+|            | **Lore and how to Obtain** |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Named for the phrase uttered by bystanders on each of the four occasions that a guard fell off an unsafe bridge or balcony into the canyon below. Now considered cursed, but probably wearable. |
 | **Obtain** | Located at the Maelmari Lookout in the southeastern portion of the [[Carmine]]. Chest located at **(-2079, 154, 5977)**  |
@@ -1153,6 +1227,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | A jagged stone dagger, made specifically for sacrifices. It is said to have been an integral part of a necrotic engine's operations. |
 | **Obtain** | Located in [[Lorahn'Kahl]], off the east of the path leading between the Whale's Tale and [[Mohta]]. Chest located at **(-108, 67, 4802)** |
+
+??? note "Extra Lore"
+    Presumably part of the [[Moonlight Sanctum]]'s necrotic engine at one point. Found alongside the [[Ancient Sacrament]] book.
 
 ### Lost King's Crown
 
@@ -1195,6 +1272,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | A woman's carefully crafted gift to the lord of desolation. Despite its great craftsmanship, it was met with no embrace, for Mael had been forsaken once before. |
 | **Obtain** | Located at a shrine on the largest island south of the [[South Heartwood]]. Chest located at **(946, 151, 5052)**  |
 
+??? note "Extra Lore"
+    This artifact was clearly meant to be a gift similar to [[Malevolentia]], Mael's signature weapon, but its craftsmanship could not compare to the mythical status of that weapon. The previous time that Mael was forsaken potentially refers to his experience with [[Klyhf|Klyhf Him'lahk]], a Red Dawn alchemist who befriended and then betrayed the god in the pursuit of the [[Great Work]].
+
 ### Mantle of the Calamitous
 
 |             |                                                         |
@@ -1204,7 +1284,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Enchantments**    | Unbreaking I                                            |
 | **Bonus Stats** | -15% Max Health, +15% Movement Speed, -15% Attack Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                             |
+|            | **Lore and how to Obtain**        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The raw, absolute power of a Skullbeast can drive one to fiendish hysterics in pursuit of further strength. This toothy mantle was an early project of one such pursuer, but was cast aside in favor of armor featuring the ribs of a Skullbeast. Now fully gripped by madness, they have completed their magnum opus. |
 | **Obtain** | Located near the exposed bones of a large creature in the [[Ebony Veldt]]. Chest located at **(-2145, 67, 412)**  |
@@ -1236,6 +1316,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------------------- |
 | **Lore**   | As said by the eidolic whispers, "HERE YOU SHALL DREAM OF TEETH AND ONLY TEETH." |
 | **Obtain** | Located in the small desert between [[Veruhkt Plateau]] and [[Highfall Tundra]], in a sculpture of a head. Chest located at **(4464, 42, -2110)**          |
+
+??? note "Extra Lore"
+    Connected to the other mentions of teeth, "eidolic" and "eidolism", this artifact can be tied to the [[Primary Energy Collection Facility]].
 
 ### Mirage
 
@@ -1321,6 +1404,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | Made from an incredible durable material discovered in small quantities at Sal'Mevir. The Insohmic Coven of Potentia used these weapons to control their Chosen. |
 | **Obtain** | Located in the Insohmic [[Coven of Potentia]] on the east coast of the Shattered Peninsula. Chest located at **(6035, 61, 1515)**                       |
 
+??? note "Extra Lore"
+    Another version of this artifact, the Bloodied Nullblade, is found in the [[Avsohmic Vault]].
+
 ### Outlaw's Boots
 
 |             |                                      |
@@ -1333,6 +1419,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | --------------------------------------------------------------------- |
 | **Lore**   | Always on the run. Always got a plan.                                 |
 | **Obtain** | Located in the abandoned mining town in the [[South Heartwood]], at the grave of "Mi'cah Behl." Chest located at **(1436, 62, 3839)** |
+
+??? note "Extra Lore"
+    One of many Red Dead Redemption 2 references in this small town.
 
 ### Oversized Scalpel
 
@@ -1392,7 +1481,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Enchantments**    | Unbreaking II      |
 | **Bonus Stats** | +10% Attack Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                           |
+|            | **Lore and how to Obtain**           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | An ornamental helm worn by Narid of Azaim. The Casain residents of Azaim were cursed by fate, as the home they chose to be free from Maelihs' advances in the West was the very site of Gendrik's Incursion. With the Council deadlocked, Maelmari made short work of the Akhlo'Rohman countryside. |
 | **Obtain** | Located in the ruins of Azaim, in northern [[Akhlo'Rohma]]. Chest located at **(2751, 134, -1921)**  |
@@ -1628,6 +1717,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | The beloved axe of a former executioner. |
 | **Obtain** | Located in the large domed building at the center of [[Av'Sal]]. Dropped by a [[Mihkmari]] named Smau. |
 
+??? note "Extra Lore"
+    A clear reference to Executioner Smough from Dark Souls 1.
+
 ### Snowsbane
 
 |               |                                           |
@@ -1637,7 +1729,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1                                         |
 | **Enchantments**      | Fire Aspect IV <br>Efficiency III <br>Unbreaking III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                    |
+|            | **Lore and how to Obtain**     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This sturdy rune-emblazoned shovel radiates with an inner warmth. Developed by commission from the King of Highfall himself, these powerful artifacts are a modern necessity when living on the frozen tundra. |
 | **Obtain** | Located at the gatehouse in [[Highfall Tundra]], along the path north to the [[Frozen Bite]] and [[Faehrcyle]]. Chest located at **(5087, 79, -2394)**       |
@@ -1694,7 +1786,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.2          |
 | **Enchantments**      | Unbreaking III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                              |
+|            | **Lore and how to Obtain**      |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Masquerading as an average fishing pole, this trick weapon conceals a serrated blade in its handle. When a button is pressed, the line becomes sticky enough to ensnare very large prey. |
 | **Obtain** | Located in [[Mohta]]. Chest located at **(45, 70, 5313)**      |
@@ -1711,7 +1803,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Rosefather Xenoh, friend of Noha, was buried here. After her premature demise, he traveled across the realm planting roses and watering them with his tears. |
-| **Obtain** | Located in a small shrine in eastern [[Akhlo'Rohma]]. Chest located at **(2997, 81, -1622)**                                                                                           |
+| **Obtain** | Located in a small shrine in eastern [[Akhlo'Rohma]]. Chest located at **(2997, 81, -1622)**  |
 
 ### Starpiercer
 
@@ -1722,7 +1814,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.6         |
 | **Enchantments**      | Sharpness III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                 |
+|            | **Lore and how to Obtain**       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Members of the Coven of Koh speak in hushed whispers about the fabled pickaxe which finally broke the Star of Alanys, a brutally jagged rock from elsewhere that glittered green and gold. |
 | **Obtain** | Located in the Coven of Koh, on the [[Island of Dusk]]. Chest located at **(-2332, 87, -3804)**   |
@@ -1739,6 +1831,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Only the bravest of the Seldom-Seen are assigned to watch over the caverns so close to the surface. To protect the throne of the Underliege from probing Two-Eyes is a solemn duty that is not taken lightly. |
 | **Obtain** | Located deep underground in eastern [[Faehrcyle]], beneath the mountain range separating the region from [[Akhlo'Rohma]]. Chest located at **(3627, 13, -2548)**   |
+
+??? note "Extra Lore"
+    Almost certainly a reference to [[Neverdawn]].
 
 ### Stoneshaper
 
@@ -1776,10 +1871,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.6          |
 | **Enchantments**      | Unbreaking IV |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                                         |
+|            | **Lore and how to Obtain**     |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | This stored blade belonged to Artohris of Ancehl. Though he was the son of a nobleman, he was strong and virtuous. On his final mission, he attempted to make a journey alone to the Burnt Palace to fight Maelihs. Instead, he found his way to the Sepulchral Altar and became one of Maelihs' most trusted servants, before meeting his end on the battlefield. |
 | **Obtain** | Located on [[Maehrn'Vhos]], the colossal wall separating the [[Ebony Veldt]] and [[Merijool]]. Chest located at **(-2253, 119, -140)**    |
+
+??? note "Extra Lore"
+    In name, a clear reference to Knight Artorias from Dark Souls 1.
 
 ### Talisman of Endless Growth
 
@@ -1788,10 +1886,13 @@ These artifacts can be found at any time through exploration of the continent of
 | **Base Item**   | Green Dye                        |
 | **Bonus Stats** (Off-Hand) | +25% Armor, +10% Armor Toughness |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                        |
+|            | **Lore and how to Obtain**   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Chipped murals on ancient walls tell the story of the Great Revel. While Vayniklah's faithful hoped to revive the soul of the world, instead they opened the door to something far more sinister. |
 | **Obtain** | Located in the [[Glade of the Giant]] in [[Merijool]], unlocked by finding multiple levers in the area's large pyramid. Chest located at **(-991, 77, -346)**  |
+
+??? note "Extra Lore"
+    The murals referenced in this artifact's description do not appear to actually exist in this structure. Almost nothing else is known about the supposed "Great Revel", but it seems that it had a role in the creation of the [[Primal Sapling]].
 
 ### Temporal Bow
 
@@ -1817,7 +1918,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Archduke Hishrin Elsahr Ombahr Drehn-Anyr Hovadchear Vahidson I is the sole monarch of the noble lands in West Faehrcyle. This sacred staff is proof of his noble lineage and Aspect-blessed wisdom. |
-| **Obtain** | Located at the [[Crystalline Colonnade]] on [[Faehrcyle]]'s western coast. Chest located at **(1027, 99, -2999)**    |
+| **Obtain** | Located at the Crystalline Colonnade in [[Schlonko]], on [[Faehrcyle]]'s western coast. Chest located at **(1027, 99, -2999)**    |
 
 ### The Immortal Slap Fish
 
@@ -1863,12 +1964,17 @@ These artifacts can be found at any time through exploration of the continent of
 | ![[totemofdying.png]]{ width="48" }            |                                                          |
 | ----------- | -------------------------------------------------------- |
 | **Base Item**   | Totem of Undying |
-| **Bonus Stats** (Off-Hand) | +??? Max Health, +??? Movement Speed, +??? Attack Damage <br> This item reduces the player's Max Health to 1 (0.5 Health). |
+| **Bonus Stats** (Off-Hand) | +??? Max Health, +??? Movement Speed, +??? Attack Damage <br> This item reduces the player's Max Health to 1 (0.5 Hearts). |
 
 |            | **Lore and how to Obtain**                                          |
 | ---------- | ------------------------------------------------------------------- |
 | **Lore**   | Nihil! Nihil! NIHIL!                                                |
 | **Obtain** | Located in a large black grave northeast of the ruins of Azaim, in northern [[Akhlo'Rohma]]. Chest located at **(2839, 114, -2046)** |
+
+??? note "Extra Lore"
+    In previous versions, Totems of Undying were simply renamed to "Totem of Dying" in the Drehmal resource pack, explained as a totem carried by followers of [[Voynahla]]. For 2.2, this was reverted, and instead, this artifact was added. It is available as a custom emote in the Drehmal Discord server.
+
+    The item's description is a reference to Mohg, Lord of Blood, a boss from Elden Ring. His most infamous attack sees him chant "Nihil! Nihil! NIHIL!", dealing unavoidable damage to the player anywhere in his arena.
 
 ### Unlimited Power
 
@@ -1881,6 +1987,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | --------------------------------------------------------------------- |
 | **Lore**   | "Everything that has transpired has done so according to my plan."    |
 | **Obtain** | Located in the roof of a building in [[Fort Nimahj]]. Chest located at **(-1721, 175, 1897)** |
+
+??? note "Extra Lore"
+    Likely a reference to Emperor Palpatine from Star Wars, given that its name is a line he speaks in Episode III (Revenge of the Sith) and the quote in the description is close to a line he says in Episode VI (Return of the Jedi). This bow carries an illegal mix of the Mending and Infinity enchantments.
 
 ### Vikhtor's Spoils
 
@@ -1931,7 +2040,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | ...                                                                |
 | **Obtain** | Located in an underground cavern, beneath the ruins of a blackstone and obsidian city in the [[Black Jungle]]. Chest located at **(4291, 20, 4125)** |
 
-??? "Extra Lore"
+??? note "Extra Lore"
     This artifact is found beneath a ruin that is heavily associated with the mysterious Aspect of Silence, [[Verrhys]]. The artifact is found in front of a statue of Verrhys, and is completely unnamed.
 
 
@@ -1975,6 +2084,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | One of Amohn Aihura's two famous armaments. The crashing sound of thunder rings out when it meets its unlucky target. Legends speak of Amohn's heroics at the First Battle of Ytaj, when the Palaesidans overcame a Loyalist ambush led by Sereven to take the palace themselves. |
 | **Obtain** | Located in [[Palaesida's Domain]], in a hidden underground grave for Amohn Aihura and two other disciples of [[Palaesida]]. Chest located at **(631, 7, 435)**     |
 
+??? note "Extra Lore"
+    Amohn Aihura's two artifact-tier weapons, Shock & Awe, are based on [a military strategy](https://en.wikipedia.org/wiki/Shock_and_awe) of the same name that focuses on overwhelming dominance, pushing enemies to surrender or lose morale.
+
 ### Blaze-Blessed Breeches
 
 |                 |                                           |
@@ -2010,10 +2122,9 @@ These artifacts can be found at any time through exploration of the continent of
 | -------------------- | -------------------------------- |
 | **Base Item**            | Diamond Boots                    |
 | **Armor**                | 3                                |
-| **Armor Toughness**     | 2                                |
-| Knockback Resistance | 100%                             |
+| **Armor Toughness**     | 2                                |                           
 | **Enchantments**             | Blast Protection VII <br>Unbreaking II |
-| **Bonus Stats**          | -30% Attack Speed                |
+| **Bonus Stats**          | 100% Knockback Resistance <br>-30% Attack Speed                |
 
 |            | **Lore and how to Obtain**   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2046,7 +2157,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                          |
 | ---------- | ----------------------------------------------------------------------------------- |
 | **Lore**   | One day, it'll spread to you too... Spread further, beyond horizons, without end... |
-| **Obtain** | Located in a small, isolated cave beneath [[Greyspire Castle]]. Chest located at **(-828, 159, 481)**            |
+| **Obtain** | Located in a small, isolated cave beneath [[Greyspire Castle]]. Not accessible without digging or spectating through the mountain. Chest located at **(-828, 159, 481)**            |
 
 ### Equinox
 
@@ -2098,7 +2209,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | This ceremonial pickaxe was the symbol of the Underliege's rule in the realm of Neverdawn. It is said that Mari's visit so impressed Az'Kaneev the Studious that he granted him this artifact in exchange for telling the court the entire history of the Realm before the Primal Tree's fall. |
+| **Lore**   | This ceremonial pickaxe was the symbol of the Underliege's rule in the realm of [[Neverdawn]]. It is said that Mari's visit so impressed Az'Kaneev the Studious that he granted him this artifact in exchange for telling the court the entire history of the Realm before the Primal Tree's fall. |
 | **Obtain** | Located in [[Ytaj]], in what appears to be [[Mari]]'s room. Chest located at **(-188, 49, -1627)**  |
 
 ### Harvester's Overalls
@@ -2191,7 +2302,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor Toughness**| 4                                     |
 | **Enchantments**        | Projectile Protection IV <br>Unbreaking VI |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                     |
+|            | **Lore and how to Obtain**   |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | The Duke of Greyspire kept this ornate crystalline accessory despite the sickening atrocities of its previous wearer. Its pleasing golden gleam embodies the vibrance of a promise never kept. |
 | **Obtain** | Located in [[Greyspire Castle]]. Chest located at **(-819, 196, 518)**   |
@@ -2220,7 +2331,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Armor Toughness**| 2                                |
 | **Bonus Stats**     | -8 Max Health, +20% Attack Speed |
 
-|            | **Lore and how to Obtain**                                                                                                                                           |
+|            | **Lore and how to Obtain**     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | With unprecedented humility, the Abyssal Elder offers a strangely smooth carapace which refracts into streaks of brilliant color when illuminated by a bright light. |
 | **Obtain** | Given as a reward for completing Dahr's trial at the [[Abyssal Rise]]. Chest located at **(-197, 18, 1177)** upon trial completion. |
@@ -2264,7 +2375,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Not a single speck of dirt mars the polished bone of this ancient shovel. It was used once to bury the physical remains of Voynahla after their suicide, and once again to exhume their skull by Voynahla's orders. |
-| **Obtain** | Located in the large chapel in [[Voynahla's Domain]], behind Conservator Ulvahn. Chest located at **(399, 84, 980)**    |
+| **Obtain** | Located in the large chapel in [[Voynahla's Domain]], behind Conservator Ulavahn. Chest located at **(399, 84, 980)**    |
 
 ### Shock
 
@@ -2280,6 +2391,9 @@ These artifacts can be found at any time through exploration of the continent of
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | One of Amohn Aihura's two famous armaments. A wickedly curved greatsword that pulses with electricity. Legends speak of Amohn's heroics at the First Battle of Ytaj, when the Palaesidans overcame a Loyalist ambush led by Sereven to take the palace themselves. |
 | **Obtain** | Located in [[Palaesida's Domain]], in a hanging cage. Found in the same chest as the [[Notice of Punishment]] book. Chest located at **(327, 42, 475)**      |
+
+??? note "Extra Lore"
+    Amohn Aihura's two artifact-tier weapons, Shock & Awe, are based on [a military strategy](https://en.wikipedia.org/wiki/Shock_and_awe) of the same name that focuses on overwhelming dominance, pushing enemies to surrender or lose morale.
 
 ### Vuxli's Stirring Rod
 
@@ -2318,7 +2432,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Attack Speed**  | 1.6       |
 | **Enchantments**      | Looting III |
 
-|            | **Lore and how to Obtain**                                                                                                                                                                                                                                                                                                                     |
+|            | **Lore and how to Obtain**     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Two friends grew up in the slums of the great river city of Athrah, long ago, and made a living as thieves. When one disappeared after trying to steal from a traveling order of monks, the other used the combined funds to buy this sturdy rod, which lifted them out of desperation. On a fateful day many decades later, the two reunited. |
 | **Obtain** | Located in a hidden room in southeast [[Ytaj]]. Chest located at **(29, 44, -1540)**     |
@@ -2346,6 +2460,9 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Lore**   | The Bereft is watching, seeker. Do you know who they left for you? Do you? |
 | **Obtain** | Located near the bottom of the [[Primary Energy Collection Facility]] in Mt. Yavhlix. Chest located at **(26858, 39, -154)**        |
 
+??? note "Extra Lore"
+    It is not clear who The Bereft is, although it has been speculated to be [[Aok]], the proposed source of the dialogue inside the facility.
+
 ### Null Cuirass
 
 |                 |                                               |
@@ -2360,6 +2477,9 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Child of Khive, subjugated by one beyond. Child of Khive, close the tear. Child of Khive, save them! |
 | **Obtain** | Located in an upper area of the [[Primary Energy Collection Facility]] in Mt. Yavhlix. Chest located at **(26962, 98, -128)**        |
+
+??? note "Extra Lore"
+    The child of Khive referenced here is clearly [[Tethlaen]], stuck inside the tear and attempting to hold it closed to save the realm. It is unclear, however, who exactly is the "one beyond" subjugating them.
 
 ### Null Greaves
 
@@ -2376,6 +2496,9 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Lore**   | The Ambition is already complete. |
 | **Obtain** | Located in a side room of the [[Primary Energy Collection Facility]] in Mt. Yavhlix, near the soul sand pit. Chest located at **(26872, 71, -54)**        |
 
+??? note "Extra Lore"
+    The [[Ambition]] is the extremely mysterious final end-goal of [alchemy in Drehmal](/Lore/Magic/Alchemy/), a step beyond even the [[Great Work]]. Two people—[[Aok]] and [[Akim]]—are believed to have finished the Great Work, but this is the only source which outright claims that the Ambition has been done.
+
 ### Null Helmet
 
 |                 |                                               |
@@ -2390,6 +2513,9 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | It is an atrocity no soul should bear the weight of. The fissure is now our fate. If only they knew. If only you knew. |
 | **Obtain** | Located in [[Primary Energy Collection Facility]] in Mt. Yavhlix, in a labyrinthine room full of smooth stone slabs. Chest located at **(26921, 96, -150)**        |
+
+??? note "Extra Lore"
+    The fissure here is the tear at Mt. Yavhlix, which is stated by many sources to be slowly killing the realm.
 
 !!! danger "This final artifact is found in a post-Yavhlix end-game story location."
 

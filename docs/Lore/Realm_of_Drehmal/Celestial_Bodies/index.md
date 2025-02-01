@@ -4,20 +4,20 @@ Outside of the [[disc]], five other celestial bodies make up the realm of Drehma
 
 ## Torahn
 
-![[torahn.png]]
+![[torahn.png]]{ width="300" }
 
 The [[Torahn]] is the name of the sun in Drehmal. Mechanically, this sun is a simple re-skin of the vanilla Minecraft sun. However, it may hold a bizarre secret...
 
 ## Lorahn
 
-![[lorahn_nightsky.png]]
+![[lorahn_nightsky.png]]{ width="300" }
 > Lorahn in the night sky.
 
 [[Lorahn]] is the closest moon to Drehmal, and arguably the most important to the life of an average Drehmari. It replaces the vanilla Minecraft moon, moving from east to west in the sky at night, directly opposing the [[Torahn]] (sun). Lorahn takes on a standard appearance similar to Earth's moon, although lore-wise it changes colors in 5-day cycles.
 
 ## Loruhn
 
-![[loruhn_nightsky.png]]
+![[loruhn_nightsky.png]]{ width="300" }
 > Loruhn in the night sky.
 
 [[Loruhn]] is a moon which is always (somewhat) visible from Drehmal. It can just barely be seen during the day as a faint white spot in the sky, but at night, it lights up with auroras on its surface. These are depicted by green, blue, and purple lines wrapping around the center of the moon.
@@ -26,7 +26,7 @@ Loruhn orbits in a 16-day cycle around Drehmal, starting due north at the dawn o
 
 ## Lo'Dahr
 
-![[lodahr_nightsky.png]]
+![[lodahr_nightsky.png]]{ width="300" }
 > Lo'Dahr in the night sky.
 
 [[LD|Lo'Dahr]] is a stationary moon located south of Drehmal, which can be seen over the southern horizon every night. It glows a bright yellow in the night sky, but cannot be seen in the daytime.

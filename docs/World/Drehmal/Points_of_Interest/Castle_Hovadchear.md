@@ -11,6 +11,8 @@ Today, the location is still only a crater, with a single structure at its north
 
 ## Lore
 
-Castle Hovadchear served as the capital of [[Insohm]] from the time that it was founded as the Insohmic Coalition by Hovad and [[Ultva]], up until the castle's mysterious disappearance.
+Castle Hovadchear served as the capital of [[Insohm]] from the time that it was founded as the Insohmic Coalition by Hovad and [[Ultva]], up until the castle's mysterious disappearance.[^1]
 
 It is not known what caused the vanishing of the castle, although several potential culprits have been suggested. These include [[yellow|an extremely powerful end-game character]], the bizarre monsters seen around the time of [[Fall of Avsohm|Avsohm's demise]], and more, but no answers have been found.
+
+[^1]: Some sources are conflicted on whether Castle Hovadchear or Old [[Mossfield]] was the true capital of Insohm. Both locations were central to the Order.

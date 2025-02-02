@@ -4,7 +4,7 @@
 
 --8<-- "75_spoiler.md"
 
-Found in the tower bay of the [[Aphelion]], this holotext seems to contain the moment that the [[Terminus]] was first conceptualized, as a hub for primal energy, personnel, and cargo transport.
+Found in the tower bay of the [[Aphelion]], this holotext seems to contain the moment that the [[Terminus Network|Terminus]] was first conceptualized, as a hub for primal energy, personnel, and cargo transport.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

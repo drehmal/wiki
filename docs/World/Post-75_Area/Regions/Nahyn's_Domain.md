@@ -48,7 +48,7 @@ Two custom enemies can also be found here.
 
 ## History
 
-The known history of Nahyn's Domain is mostly tied to the history of the Free Lands of Rohei (later the [[Roheian Empire]]). After the original founders of Rohei were exiled from [[Naharja]] in the bordering [[Moen's Domain]], they appear to have settled in the northern and western portions of Nahyn's Domain, particularly at [[Fort Aelon]]. Rohei became a powerful player in [[Tehrmari]] politics on the moon, but it ultimately collapsed prior to the modern day.
+The known history of Nahyn's Domain is mostly tied to the history of the Free Lands of Rohei (later the [[Rohei|Roheian Empire]]). After the original founders of Rohei were exiled from [[Naharja]] in the bordering [[Moen's Domain]], they appear to have settled in the northern and western portions of Nahyn's Domain, particularly at [[Fort Aelon]]. Rohei became a powerful player in [[Tehrmari]] politics on the moon, but it ultimately collapsed prior to the modern day.
 
 ## Points of Interest
 
@@ -60,7 +60,7 @@ The northeastern of the three mountains in Nahyn's Domain is hollow, and inside 
 
 ### Fort Aelon
 
-[[Fort Aelon]] is a now-abandoned castle in the northwest of Nahyn's Domain, which once served as a key location for the [[Roheian Empire]]. A [[Fervor Stones#Stone of Agony|Stone of Agony]] is found at this location.
+[[Fort Aelon]] is a now-abandoned castle in the northwest of Nahyn's Domain, which once served as a key location for the [[Rohei|Roheian Empire]]. A [[Fervor Stones#Stone of Agony|Stone of Agony]] is found at this location.
 
 **Coordinates:** (X: 88, Y: 153, Z: -275)
 

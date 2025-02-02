@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-Found in a room with two rudimentary warp tower prototypes, this holotext seems to be from the time that the [[Terminus]]' construction was first being planned.
+Found in a room with two rudimentary warp tower prototypes, this holotext seems to be from the time that the [[Terminus Network|Terminus]]' construction was first being planned.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

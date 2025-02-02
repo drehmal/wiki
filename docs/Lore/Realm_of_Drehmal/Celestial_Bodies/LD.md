@@ -33,5 +33,5 @@ Some content that involves Lo'Dahr is not readily accessible to players, and can
     This is a significant story spoiler pertaining to content that is unlocked following the 75% completion event. We STRONGLY advise that you do not continue to this next page unless you have FINISHED the 75% completion event, all the way through to the **"Apotheosis"** advancement. <br>
     ![Spoiler Door](/assets/img/spoiler_door.png) <br>
     ??? danger "Post-75% Link"
-        See [[Lo'Dahr|this page]] and folder for details on the in-game location of Lo'Dahr.
+        See [[Lo'Dahr|this page]] and folder for details on late-game Lo'Dahr content.
    

@@ -32,7 +32,7 @@ The chestplate is a decent defensive tool, adding Armor and Armor Toughness almo
 This is compounded by the chestplate's special ability, Bolt from the Blue. This ability adds an 8% chance on all attacks to deal a critical hit (separate from the jumping critical hits of vanilla Minecraft), significantly increasing the amount of damage dealt by that hit.
 
 ## How to Obtain
-Thundercrux is located in the [[Heart of the Tempest]], the large dark stone orb at the center of the storm (not actually moving in-game) in [[Palaesida's Domain]].
+Thundercrux is located in the [[Palaesida's Domain#Heart of the Tempest|Heart of the Tempest]], the large dark stone orb at the center of the storm (not actually moving in-game) in [[Palaesida's Domain]].
 
 The player must navigate up to the Heart through the debris swirling around it, with a small entrance on the north side of the structure. Inside, they will find the draconic skeleton of the deceased Aspect, and at the center of this chamber, a trapped chest containing Thundercrux.
 

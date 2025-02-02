@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in an item frame atop a firewatch tower in [[Nahyn's Domain]]. It provides insight as to the origins of the [[Roheian Empire]], asserting that Rohei was initially a fusion of two clans that were exiled from [[Naharja]] for engaging in bloody skirmishes with one another in the streets.
+This book can be found in an item frame atop a firewatch tower in [[Nahyn's Domain]]. It provides insight as to the origins of the [[Rohei|Roheian Empire]], asserting that Rohei was initially a fusion of two clans that were exiled from [[Naharja]] for engaging in bloody skirmishes with one another in the streets.
 
 ## Coordinates
 | **X** | **Y** | **Z**  |

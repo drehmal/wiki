@@ -6,7 +6,7 @@ The **Verdant Labyrinth** is a small region in southeastern [[Overworld|Drehmal]
 
 ## Geography
 
-The Verdant Labyrinth is made up of canyons with waterways and a network of winding, grassy paths, surrounded by cliffs and spires of gray striped stone. Some spruce trees are also scattered throughout the land. The Labyrinth has two gates: one stands at the end of a road from [[Gozak]], marking the border between a small plain to the west of the Labyrinth (but still part of the overall region) and the Labyrinth itself, and the other being at the end of a road from [[Firteid]], demarcating the boundary between the Verdant Labyrinth and the Black Jungle to the east. There is also a passageway cutting through the Verdant Mountains to Spearhead Forest in the north. At the end of this snowy mountain pass is the start of a road that leads to [[New Mossfield]].
+The Verdant Labyrinth is made up of canyons with waterways and a network of winding, grassy paths, surrounded by cliffs and spires of gray striped stone. Some spruce trees are also scattered throughout the land. The Labyrinth has two gates: one stands at the end of a road from [[Gozak]], marking the border between a small plain to the west of the Labyrinth (but still part of the overall region) and the Labyrinth itself, and the other being at the end of a road from [[Firteid]], demarcating the boundary between the Verdant Labyrinth and the Black Jungle to the east. There is also a passageway cutting through the Verdant Mountains to Spearhead Forest in the north. At the end of this snowy mountain pass is the start of a road that leads to [[Mossfield]].
 
 There are no major settlements in the Verdant Labyrinth, however there is a significant presence of [[Mihkmari]] across the area.
 

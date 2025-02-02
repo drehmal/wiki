@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in [[New Elvett]]. It notes the odd towers connected to the bridge over the area, wondering how they may be connected together.
+This book can be found in a chest in [[Elvett]]. It notes the odd towers connected to the bridge over the area, wondering how they may be connected together.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

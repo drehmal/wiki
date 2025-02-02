@@ -987,7 +987,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------- |
 | **Lore**   | A rough, thick, and heavy blade; akin to large chunk of raw ore. It could hardly be called a sword. |
-| **Obtain** | Located in southwestern [[South Tharxax]], near the lava lake that forms the natural border with The [[Carmine]]. Chest located at **(-2326, 74, 4393)**      |
+| **Obtain** | Located in southwestern [[South Tharxax]], near the lava lake that forms the natural border with [[The Carmine]]. Chest located at **(-2326, 74, 4393)**      |
 
 ### Harbormaster's Cap
 
@@ -1212,7 +1212,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain** |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Named for the phrase uttered by bystanders on each of the four occasions that a guard fell off an unsafe bridge or balcony into the canyon below. Now considered cursed, but probably wearable. |
-| **Obtain** | Located at the Maelmari Lookout in the southeastern portion of the [[Carmine]]. Chest located at **(-2079, 154, 5977)**  |
+| **Obtain** | Located at the Maelmari Lookout in the southeastern portion of [[The Carmine]]. Chest located at **(-2079, 154, 5977)**  |
 
 ### Lorahn Sacrificial Blade
 
@@ -1498,7 +1498,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain** |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | This wickedly sharp rapier was wielded by the Whispers, elite guards of the Insohmic Coalition Grand Council. After the departure of Master Vahid, they abandoned their former masters to become a guild of deadly assassins. |
-| **Obtain** | Found in the sunken ship on the shore of the [[Carmine]]. Chest located at **(-3056, 62, 3952)** |
+| **Obtain** | Found in the sunken ship on the shore of [[The Carmine]]. Chest located at **(-3056, 62, 3952)** |
 
 ### Rhalon's Chestplate
 
@@ -1570,7 +1570,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | Repeated death wears away at a vessel, sapping the spirit’s tethers and rendering it brittle like rust on an old iron blade. |
-| **Obtain** | Located in small building on a dock in southwestern [[Lorahn'Kahl]], on the coast before the biome shifts to the [[Carmine]]. Chest located at **(-1503, 63, 5988)**  |
+| **Obtain** | Located in small building on a dock in southwestern [[Lorahn'Kahl]], on the coast before the biome shifts to [[The Carmine]]. Chest located at **(-1503, 63, 5988)**  |
 
 ### S21A-"Dragon"
 

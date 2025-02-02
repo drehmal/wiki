@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest underground in the ruins of [[Old Elvett]]. It was written by a barkeeper about an ominous, hooded figure wielding a scythe in the bar, who the author calls "an emissary of the empire's end."
+This book can be found in a chest underground in the ruins of [[Elvett|Old Elvett]]. It was written by a barkeeper about an ominous, hooded figure wielding a scythe in the bar, who the author calls "an emissary of the empire's end."
 
 ## Coordinates
 | **X** | **Y** | **Z** |

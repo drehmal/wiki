@@ -76,6 +76,16 @@ The True End appears to have been inevitable, as suggested by the fact that warp
 
 ## Extras
 
+### Trivia
+
+A copy of the 2.1 Spawn Tomb, the same structure as the [[Hunters' Crypt]], is located underground in the True End, west of the Primal Caverns.
+
+***
+
+![[gael_arena.png]]
+
+In the True End dimension, north of the Sal'Mevir area, players can find a circle of chairs. In the center of these chairs is a single piece of charcoal in an item frame, named "Blood of the Dark Soul". This item has no lore text, and is a simple reference to [Slave Knight Gael](https://darksouls3.wiki.fextralife.com/Slave+Knight+Gael+(Boss)) and his arena from Dark Souls 3.
+
 ### Dialogue
 
 A full transcript of the Mythoclast's dialogue can be found [[End-Game_Dialogue.md#True End|here]], with this article only pertaining to section 10: **True End**.

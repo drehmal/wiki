@@ -1,5 +1,8 @@
 # Celestial Bodies of Drehmal
 
+![[three_moons.png]]
+> The three moons visible in Drehmal's night sky: Lorahn (left), Loruhn (center), and Lo'Dahr (right).
+
 Outside of the [[disc]], five other celestial bodies make up the realm of Drehmal: the [[Torahn]], and four moons—[[Lorahn]], [[Loruhn]], [[LD|Lo'Dahr]], and [[Lo'Veruhkt]].
 
 ## Torahn
@@ -13,7 +16,7 @@ The [[Torahn]] is the name of the sun in Drehmal. Mechanically, this sun is a si
 ![[lorahn_nightsky.png]]{ width="300" }
 > Lorahn in the night sky.
 
-[[Lorahn]] is the closest moon to Drehmal, and arguably the most important to the life of an average Drehmari. It replaces the vanilla Minecraft moon, moving from east to west in the sky at night, directly opposing the [[Torahn]] (sun). Lorahn takes on a standard appearance similar to Earth's moon, although lore-wise it changes colors in 5-day cycles.
+[[Lorahn]] is the closest moon to Drehmal, and arguably the most important to the life of an average Drehmari. It replaces the vanilla Minecraft moon, moving from east to west in the sky at night, directly opposite the [[Torahn]] (sun). Lorahn takes on a standard appearance similar to Earth's moon, although lore-wise it changes colors in 5-day cycles.
 
 ## Loruhn
 

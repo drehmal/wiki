@@ -4,7 +4,7 @@
 
 **Lo'Dahr**, also known as the **Divine Moon**, is one of the moons of the realm of Drehmal, and the home of the [Aspects](/Lore/Higher_Beings/Aspects). It appears to the south in the night sky, and does not move.
 
-<br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 ## Mechanics
 
@@ -25,16 +25,13 @@ The [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]], located in the mounta
 
 It is suggested by [[Prefect's Grumblings]] that the Aspects may still be alive on Lo'Dahr as evidenced by the presence of a colorful patch of the moon beneath the cloud layer. While there has been very little to no contact between the Aspects and the people of the [[disc]] in over a millennium, it does seem to be the case that Lo'Dahr is still home to the Aspects and possibly even more civilization.
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
-Late into the game and feeling confused? Expecting more on this topic?
-??? example "...yeah, I was."
-    Are you *sure?*
-    ??? quote "No, I just like clicking on things that I shouldn't because I JUST CAN'T HELP MYSELF!"
-        ![[meme_kill.webp]]
-    ??? warning "Yes!"
-        You are absolutely certain that there should be something else here?
-        ??? warning "Yes, I'm sure!"
-            And have you reached 75% completion, and finished that event, all the way through the "Apotheosis" advancement?
-            ??? danger "Yeah, I have!"
-                It sounds like you might be looking for [[Lo'Dahr|this page]].
+Some content that involves Lo'Dahr is not readily accessible to players, and can be considered a very significant spoiler. If you are late into the game and want to read more about this moon, click the dropdown below. 
+
+??? warning "Late-Game Content"
+    This is a significant story spoiler pertaining to content that is unlocked following the 75% completion event. We STRONGLY advise that you do not continue to this next page unless you have FINISHED the 75% completion event, all the way through to the **"Apotheosis"** advancement. <br>
+    ![Spoiler Door](/assets/img/spoiler_door.png) <br>
+    ??? danger "Post-75% Link"
+        See [[Lo'Dahr|this page]] and folder for details on the in-game location of Lo'Dahr.
+   

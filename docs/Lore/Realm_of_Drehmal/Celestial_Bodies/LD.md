@@ -4,6 +4,8 @@
 
 **Lo'Dahr**, also known as the **Divine Moon**, is one of the moons of the realm of Drehmal, and the home of the [Aspects](/Lore/Higher_Beings/Aspects). It appears to the south in the night sky, and does not move.
 
+<br> <br> <br> <br> <br> <br> <br> <br>
+
 ## Mechanics
 
 Lo'Dahr follows a very simple mechanic, appearing only at night. It can be seen due south in the sky, at an altitude of 26.5 degrees above the horizon (the same altitude as [[Loruhn]]). Lo'Dahr does not move, and emanates a bright yellow aura around its main spherical body.

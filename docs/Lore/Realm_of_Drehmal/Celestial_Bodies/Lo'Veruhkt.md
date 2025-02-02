@@ -24,6 +24,6 @@ The hidden moon is also closely tied to [[Rihelma|Star-Rise Drake Rihelma]], the
 
 --8<-- "LD_spoiler.md"
 
-![[loveruhkt_nightsky.png]]
+![[loveruhkt_nightsky.png]]{ align=right width="200" }
 
 Lo'Veruhkt can be seen in-game during and after the 75% completion event on the [[Aphelion]]. If the player is in the Space or Lo'Dahr dimensions, the moon can be seen toward the bottom of the skybox. It appears as a thin, purple crescent, visible at all times of day. It follows the same clockwise, 16-day orbital pattern as [[Loruhn]], but directly opposite that moon. Whereas Loruhn is in the north-northeastern sky on Day 1, Lo'Veruhkt starts out in the south-southwest.

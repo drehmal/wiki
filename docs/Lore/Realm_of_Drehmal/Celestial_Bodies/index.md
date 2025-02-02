@@ -52,3 +52,4 @@ Lo'Veruhkt is a very mysterious place, worshipped by the peoples of [[Veruhkt Pl
         ![[night1_disc_system.png]]
     !!! example "Night 9 (Lo'Veruhkt)"
         ![[night9_disc_system.png]] 
+    At 00:00 on Day 9 (the very start of Day 9), all 5 celestial bodies are aligned in a vertical plane: Lo'Dahr sits between Drehmal and Loruhn in a total eclipse, while Lorahn is directly over the disc and the Torahn is directly beneath it. Lo'Veruhkt rests directly beneath Drehmal (possibly behind or in front of it), between the underside of the disc and the Torahn.

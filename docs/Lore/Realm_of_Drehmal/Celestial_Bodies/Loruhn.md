@@ -13,6 +13,7 @@ Loruhn sits approximately 26.5 degrees above the horizon.
 ### Day-Night Cycle
 
 ![[loruhn_daysky.png]]{ width="300" }
+> Loruhn in the daytime.
 
 Loruhn appears as a nondescript white blob in the daytime sky, shown above. It drifts slowly clockwise, disappearing just before 19:00 in-game time. At about 19:20, it fades back into the skybox as its night sky texture. It continues to drift clockwise in this form at night, fading out as the Torahn begins to rise at about 05:00. It takes approximately an hour for the daytime version of Loruhn to re-appear, around 06:00, and the cycle repeats.
 

@@ -2,7 +2,7 @@
 
 ![[lorahn_nightsky.png]]{ align=right width="200" }
 
-**Lorahn** (pronounced "lore-awn") is the closest moon to Drehmal, and consequently the largest in the night sky. It appears as a bright white rocky moon, very similar to Earth's real moon.
+**Lorahn** (pronounced "lor-on") is the closest moon to Drehmal, and consequently the largest in the night sky. It appears as a bright white rocky moon, very similar to Earth's real moon.
 
 ## Mechanics
 

@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in the Golden Order Star Center observatory at [[Dusps]]. It contains some records on the astronomical observations of the moons of Drehmal, and posits that the [Aspects](/Lore/Higher_Beings/Aspects/) may still be alive.
+This book can be found on a lectern in the Golden Order Star Center observatory at [[Dusps]]. It contains some records on the astronomical observations of the moons of Drehmal, and posits that the [Aspects](/Lore/Higher_Beings/Aspects/) may still be alive on [[LD|Lo'Dahr]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

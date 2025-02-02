@@ -46,4 +46,4 @@ Night 1 is the first night the player experiences on Drehmal, which will encompa
 
 Loruhn is best known to the people of Drehmal for its permanent auroras, visible from the disc at night, which have been the source of significant artistic inspiration. Loruhn was one of the three moons worshipped by the [[Tri-Moon Theocracy]], being referred to in the [[Ancient Sacrament]] as the "home of drakes". 
 
-After the events of the [[Divine Schism]], which ended in [[Maen]], Aspect of Pain, murdering the Aspect of Storms [[Palaesida]], Maen was permanently exiled from the Aspects' home on Lo'Dahr. Maen was shackled to Loruhn, where he remains to this day.
+After the events of the [[Divine Schism]], which ended in [[Maen]], Aspect of Pain, murdering the Aspect of Storms, [[Palaesida]], Maen was permanently exiled from the Aspects' home on Lo'Dahr. Maen was shackled to Loruhn, where he remains to this day.

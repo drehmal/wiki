@@ -71,3 +71,8 @@ The admin wing, while not constituting a large amount of time spent in the map, 
 
 ![[admin_upper_room.png]]
 > The upper room of the admin wing.
+
+## Extras
+
+![[stock.png]]
+> The economy is thriving. Maelmari are in shambles. Life in the Empire is good.

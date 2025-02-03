@@ -4,7 +4,7 @@
 
 --8<-- "postyav_spoiler.md"
 
-**The Veil** is a physical boundary along the very edges of the realm in space, which prevents any observation or physical passage outside of the realm.
+**The Veil** is a physical boundary along the very edges of the realm in space, which prevents any observation or physical passage outside of the realm. Outside of the Veil lies the [[Nothing]].
 
 The origins of the Veil are unclear.
 
@@ -16,7 +16,7 @@ The reconstructed text of the [[Codex Celestus]] suggests that [[Vayniklah]] and
 
 [[Aok]], the First Necromancer and first known Drehmari to complete the [[Great Work]], is implied to have the ability to transcend the Veil by the book [[Dear Aok]].
 
-[[Avsohm]], in their later years under Emperor [[Anyr]], attempted to peer beyond the Veil, seeking to learn the truth of the universe outside of their realm. Using the Resonant Eye to peer into the [[Nothing]] through the Spiral Anomaly in [[Mt. Yavhlix]], Avsohm learned of the existence of trillions of other realms outside their own, varying drastically in size and all contained by their own Veils. This revelation, in turn, showed that the "stars" in the night sky were not actually stars, but rather, other realms' light shining through the veil. When Avsohm attempted to use the Eye to peer beyond the Veil directly, from the [[Aphelion]], however, the Eye was unable to see through in more detail.
+[[Avsohm]], in their later years under Emperor [[Anyr]], attempted to peer beyond the Veil, seeking to learn the truth of the universe outside of their realm. Using the Resonant Eye to peer into the [[Nothing]] through the Spiral Anomaly in [[Mt. Yavhlix]], Avsohm learned of the existence of trillions of other realms outside their own, varying drastically in size and all contained by their own Veils. This revelation, in turn, showed that the "stars" in the night sky were not actually stars, but rather, other realms' light shining through the veil. When Avsohm attempted to use a new set of Eyes on the [[Aphelion]] to look more closely at those realms, they were blocked by the Veil.
 
 Avsohm was also able to recreate the fundamental matter that makes up the Veil, Veilstone, and condensed it into a nigh-unbreakable form, Condensed Veilstone. This block is the Drehmal resource pack's name for bedrock, placed by Avsohm to guard some of their most dangerous and secretive projects.
 

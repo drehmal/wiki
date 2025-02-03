@@ -33,6 +33,8 @@ Western Xivrhynt is described by a [[Mael Dialogue|late-game dialogue interactio
 
 Eastern Xivrhynt, said to be a months-long trip from the main continent by sea, is depicted in more detail in [[Expedition Team Log]]. This book writes that the landscape is warped and twisted, often shrouded in a thick black fog. The crew found the ruins of what they believed to be the Bright Capital partially submerged underwater, with something in the center of the ruins emanating a black light. 11 of the 15 crew members were then wiped out by [[Those Beyond]], prompting the team to return to Drehmal and plan for an expedition to the west instead. This all suggests a strong connection between East Xiv and the [[Nothing]], with a strong possibility that another tear in the fabric of reality, similar to the Spiral Anomaly at [[Mt. Yavhlix]], exists on this continent. This journey to Western Xivrhynt would not come to pass before the end of Avsohm. 
 
+The [[Artifacts#Leliouria|Leliouria]] artifact likely originates from Red Dawn's Eastern Xivrhynt expedition.
+
 In one of the final sequences in the game, a character describes the endless space beyond the [[Veil]] as "the primordial nothing and pockets of chromatic fury". This seems to very closely parallel the states of the two halves of Xivrhynt.
 
 ## Extras

@@ -76,6 +76,10 @@ The enemies along the path with unreadable names do in fact have names, although
 
 The majority of the Maddened Path is made up of re-used structures, including High Arch (the land arch over [[Tharxax City]]), the main domed building of [[Av'Sal]], [[Akhlo'Rohma|Akhlo'Rohman]] flowers, and warp rings from [[Khive's Domain]].
 
+***
+
+The Heart of the Void, the massive nebula cloud in the backdrop, can be very faintly seen in the skybox on Drehmal and more prominently on Lo'Dahr.
+
 ### Dialogue
 
 A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.md#The Maddened Path|here]]. This article pertains only to the 9th section on that page, the **Maddened Path**.

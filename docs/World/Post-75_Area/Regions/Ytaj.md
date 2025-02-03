@@ -255,7 +255,7 @@ After the Schism, which resulted in the deaths of [[Noha]], [[Palaesida]], and (
 
 At some point, [[Yriel]], the servant of the Aspects, was sent into Ytaj to murder a large faction of the Talon, effectively the La'Tehrmari police/guard force. The Talon had become a corrupt, incredibly oppressive force on Lo'Dahr, particularly prejudiced against the Ro'Tehrmari, and the Aspects, while unable to interfere directly, decided to act against them. Yriel, using their [[Syzygy|signature weapon]], single-handedly slayed the majority of the Talon in Ytaj, greatly breaking the faction's grasp on the moon.
 
-The Prismatic Council appears to be the official name for a gathering of all the Aspects and Deities, with their meetings taking place in the grandiose Prismatic Council chamber near the center of Ytaj. Several important meetings are known to have occurred here, particularly towards the end of the Third Avihm, when [[Khive]] summoned Mael and Virtuo to Ytaj in order to fully explain their origins, as well as Virtuo's final interaction with the Aspects before departing for [[Eastern Xivrhynt]].
+The Prismatic Council appears to be the official name for a gathering of all the Aspects and Deities, with their meetings taking place in the grandiose Prismatic Council chamber near the center of Ytaj. Several important meetings are known to have occurred here, particularly towards the end of the Third Avihm, when [[Khive]] summoned Mael and Virtuo to Ytaj in order to fully explain their origins, as well as Virtuo's final interaction with the Aspects before departing for Eastern [[Xivrhynt]].
 
 Today, Ytaj appears much less densely inhabited than it was at its peak, with only a handful of Tehrmari servants, Maelihs, and Precocious Kinah currently living in the palace.
 
@@ -484,7 +484,7 @@ Virtuo's tower is located in the far northeast of Ytaj proper, with two discrete
 
 The bottom level is accessible directly from Taihgel's room in the eastern wing of Ytaj. This level holds an ornate fountain and pool, similar to the one found at the [[Kiln of Virtuo]], as well as Virtuo's secondary devotion altar at **(9, 64, -1706)**. The pool is filled by a series of fountains originating from a fish tank high up in the ceiling, which forms the barrier between the two levels as well.
 
-The upper level has a very similar layout to the upper level of Mael's tower, including a deity-sized throne, bed, pool, garden, and kitchen. A desk is also found in a room next to the throne, with a lectern holding the [[Closed Diary]], the last known writing by Virtuo before her departure for [[Eastern Xivrhynt]]. The [[Artifacts#Fortitude|Fortitude]] artifact can be found in a chest next to her bed, along with a player head resembling the Goddess.
+The upper level has a very similar layout to the upper level of Mael's tower, including a deity-sized throne, bed, pool, garden, and kitchen. A desk is also found in a room next to the throne, with a lectern holding the [[Closed Diary]], the last known writing by Virtuo before her departure for Eastern [[Xivrhynt]]. The [[Artifacts#Fortitude|Fortitude]] artifact can be found in a chest next to her bed, along with a player head resembling the Goddess.
 
 #### Taihgel's Room
 

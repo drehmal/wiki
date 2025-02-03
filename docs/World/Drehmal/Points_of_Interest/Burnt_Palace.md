@@ -209,7 +209,7 @@ In mid-late Av3, Mael's empire waged wars throughout the continent against [[Ins
 
 Records in the Burnt Palace show that in the late 600s, Mael began to visibly unravel, becoming less warlike and visibly depressed, frequently lashing out at his underlings. He grew complacent in the final years of the [[Battle for Drehmal]], particularly after losing [[Caer Adacia]] to Insohm, and even renounced his ways by releasing the [[Skullmother]] into the ocean. He would come to the negotiating table with Insohm and Virtuo in Av3 700, ending the war by ceding much of his territory outside the Hellcrags and Carmine.
 
-Grief would continue to eat away at Mael's mind for centuries, culminating in the deity taking a trip to his place of birth: [[Western Xivrhynt]].
+Grief would continue to eat away at Mael's mind for centuries, culminating in the deity taking a trip to his place of birth: Western [[Xivrhynt]].
 
 ### Departure
 
@@ -217,7 +217,7 @@ Maelihs visited Xivrhynt towards the end of Av3, and discovered something about 
 
 After what Mael learned, [[Khive]] decided to summon both Mael and Virtuo to the Aspects' palace of Ytaj in order to explain the deities' true origins. We are not told exactly what this is, only that it makes Mael "disgusted" by the Maelruhn and Viruhn, and that Virtuo "feels regret for something she never did".
 
-The next year, Av3 903, Mael writes that Virtuo has left for [[Eastern Xivrhynt]], mourning the fact that he never got to truly apologize to her for all of his past wrongdoings. He falls into a deep depression, as the Third Avihm ends with the Departure of Virtuo.
+The next year, Av3 903, Mael writes that Virtuo has left for Eastern [[Xivrhynt]], mourning the fact that he never got to truly apologize to her for all of his past wrongdoings. He falls into a deep depression, as the Third Avihm ends with the Departure of Virtuo.
 
 12 years later, a greatly disillusioned and guilt-stricken Maelihs decides he has had enough of this palace. He resolves to leave the palace for good, heading to Ytaj indefinitely to live with the [Aspects](/Lore/Higher_Beings/Aspects/), and vows to one day return to his castle to destroy it.
 

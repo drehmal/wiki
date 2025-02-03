@@ -2536,9 +2536,9 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 ??? "Extra Lore (Expansive)"
     Leliouria completely handicaps the player, making them functionally unable to move while on the ground, dropping them to a half heart of health, and making their attacks effectively useless.
 
-    Leliouria is an incredibly unique artifact, reportedly found by [[Red Dawn]] during a "far-flung expedition," likely the manned expedition to [[Eastern Xivrhynt]] that occurred late in [[Avsohm]]'s reign, as described in the [[Expedition Team Log]] book. 
+    Leliouria is an incredibly unique artifact reportedly found by [[Red Dawn]] during a "far-flung expedition," likely the manned expedition to Eastern [[Xivrhynt]] that occurred late in [[Avsohm]]'s reign, as described in the [[Expedition Team Log]] book. 
     
-    The term "Leliouria" refers to a somewhat obscure classification of demon as described by the real-world 11th-century Byzantine theologian Michael Psellos. Leliouria are his highest classification of demon, who inhabit "the ether beyond the moon," very strongly mirroring the lore of Drehmal's universe, in which ascension could be obtained by conquering the "Spheres," likely referring to a form of astral projection to each of the moons.
+    The term "Leliouria" refers to a somewhat obscure classification of demon as described by the real-world 11th-century Byzantine theologian Michael Psellos. Leliouria are his highest classification of demon, inhabiting "the ether beyond the moon". This very strongly mirrors the lore of Drehmal's universe, in which ascension could be obtained by conquering the "Spheres," likely referring to a form of astral projection to each of the moons.
 
     Only the Lore text referencing the "far-flung expedition" is legible in-game, with lines of dark red obfuscated text between them. These lines can be read, however, through commands. They read as follows:
 

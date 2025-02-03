@@ -146,7 +146,7 @@ It is clearly tied to [[Maelihs]], potentially representing a future where he co
 ### Location/Summary
 This book can be found in a chest in the [[Brightwyrm's Caldarium]], upon completion of [[Lai]]'s trial at that location.
 
-Its text appears to represent the timeline in which [[Virtuo]] molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[Nothing|The Nothing]] at large, furthering the ties between Virtuo, [[Eastern Xivrhynt]], and the Nothing.
+Its text appears to represent the timeline in which [[Virtuo]] molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[Nothing|The Nothing]] at large, furthering the ties between Virtuo, Eastern [[Xivrhynt]], and the Nothing.
 
 ### Transcription
 > 5:1 - She will walk the copse, and the ancient trees shall stand at attention.

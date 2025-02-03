@@ -346,7 +346,7 @@ The "Bartender" is located inside Vir Spirits west of the docks, and sells two u
 
 ## Lore
 
-The Kiln of Virtuo has likely existed for almost the entirety of the [[Virtuo|Goddess's]] life, having served as her base of operations and holiest site for effectively all of recorded history. Its signposts referencing the Battle of Karesh seem to imply that this structure was somehow founded by [[Viruhn]] survivors, who were once allied with the Bright Capital in what is now [[Eastern Xivrhynt]].
+The Kiln of Virtuo has likely existed for almost the entirety of the [[Virtuo|Goddess's]] life, having served as her base of operations and holiest site for effectively all of recorded history. Its signposts referencing the Battle of Karesh seem to imply that this structure was somehow founded by [[Viruhn]] survivors, who were once allied with the Bright Capital in what is now Eastern [[Xivrhynt]].
 
 [[Drehmari]] followers of the Goddess made routine pilgrimages to the Kiln during Virtuo's 3000 years on Drehmal, often highlighted by a chance to see the Lady of the Mirror in person. She seems to have lived here for most of her life. The Kiln was heavily incorporated into the traditions of the people of [[Firteid]], including the Wellspring Day festivities. During the height of the [[Tide Queen]]'s paranoia, outside travelers were either heavily taxed or blocked from entering the holy site at all.
 

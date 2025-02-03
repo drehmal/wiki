@@ -51,6 +51,10 @@ Virtuo and Insohm were eventually able to beat back Mael's forces after the leng
 
 She has not been seen or heard from since.
 
+## Sphere of Influence
+
+While Virtuo and the Virmari have (mostly) left Drehmal for the time being, Virtuo worship is still seen as the default Drehmari faith throughout a large part of the continent. The Goddess is still worshipped everywhere in the East, although some smaller Aspect faiths also flourish unofficially in towns like [[Highfall]], [[Marahza]], and [[Schlonko]], and [[Fort Nimahj]] remains a bastion of her faith in the west.
+
 ## In-Game Interactions
 
 --8<-- "spoiler.md"
@@ -59,4 +63,4 @@ She has not been seen or heard from since.
 
 Virtuo cannot be interacted with in any way in-game, but her chambers in [[Ytaj]] can be explored. Here is where players will find the [[Closed Diary]], the book which details her decision to leave for Eastern Xivrhynt. This room also holds the aforementioned [[Artifacts#Fortitude|Fortitude]] shield, a real artifact.
 
-Virtuo's ultimate fate is mentioned in the [[True End|final sequence of the game]].
+Virtuo's ultimate fate is revealed in the [[True End|final sequence of the game]].

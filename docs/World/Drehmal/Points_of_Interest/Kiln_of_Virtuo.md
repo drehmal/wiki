@@ -146,6 +146,8 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 
     ![[purifying_light.gif]]{ width="320" }
 
+Like all other devotion sites, the Kiln of Virtuo is home to a [[Trinkets#Relic Vessel|Relic Vessel]]. The Relic Vessel here is located at the southeastern corner of the island, beneath a small torii gate southeast of the large pink tree.
+
 ## Unique Villagers
 
 There are 13 permanent, custom merchants located in the Kiln District.

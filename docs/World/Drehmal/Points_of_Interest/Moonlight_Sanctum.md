@@ -56,6 +56,9 @@ The "rites" referred to here are the Ancient Theocracy Rites, a piece of paper f
 ??? warning "Puzzle Solution"
     The 6 arrows on the wall can each point towards one of 8 letters, and there are 6 lines on the piece of paper. If the player turns each arrow in its item frame to point toward the first letter of its respective line in the Ancient Theocracy Rites, spelling out the word "DIVINE," a flooded passageway will open in the ground. Ascendance is found at the end of this tunnel.
 
+!!! tip "Exploit"
+    The glass leading to the Moonlight Sanctum's inner core can technically be broken at any time, but this is simply blocked by the Mining Fatigue effect. As such, this can be circumvented in the same way that a vanilla Ocean Monument can be, using TNT to blow the door without slaying the Elder Guardians.
+
 ### Stone of Agony
 
 A [[Fervor Stones#Stone of Agony|Stone of Agony]] is also located within this structure. From a tall platform in the northeast of the dungeon, a banner is visible in the cavern's ceiling to the west. Just over the banner is a small alcove, containing a chest with the Stone of Agony.

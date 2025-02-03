@@ -11,7 +11,7 @@ It is named as such because, unlike Earth, it is not a globe. Rather, it is a fl
 
 ## Lore
 
-The disc is believed to have formed around the base and roots of the [[Primal Tree]] at the dawn of the realm, and has since been dominated by [[Drehmari]] civilization. Its was formed in part by the [Aspects](/Lore/Higher_Beings/Aspects/), and its land was initially split into three continents: [[Primzahl]] in the center, home of the Tree, and two continents in the west and east whose names are not known. The [[Maelruhn]] and [[Viruhn]] likely came to settle these two continents, respectively, and their conflict caused the destruction of the land.
+The disc is believed to have formed around the base and roots of the [[Primal Tree]] at the dawn of the realm, and has since been dominated by [[Drehmari]] civilization. Its was formed in part by the [Aspects](/Lore/Higher_Beings/Aspects/), and its land was initially split into three continents: [[Lore Locations#Primzahl|Primzahl]] in the center, home of the Tree, and two continents in the west and east whose names are not known. The [[Maelruhn]] and [[Viruhn]] likely came to settle these two continents, respectively, and their conflict caused the destruction of the land.
 
 The land was then reimagined and rebuilt by [[Drehmal]] in the early Second Avihm, and since then, it has hosted the same three continents. [[Overworld|Drehmal]] is the only one of these confirmed to have any remaining civilization, and is where functionally all of known history has taken place. The continents of Western and Eastern [[Xivrhynt]] are also supposedly on the disc, but not present in-game. 
 

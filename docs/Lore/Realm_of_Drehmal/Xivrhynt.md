@@ -13,7 +13,7 @@ These two continents are remnants of the world from the First Avihm, mentioned v
 ![[av1map.png]]
 > A map depicting the three continents of the First Avihm, with the original western continent on the left, Primzahl in the center, and the original eastern continent on the right.
 
-In the First Avihm, the land on the disc was partitioned into three continents: the central land of [[Primzahl]] and two outer continents, to the far west and east respectively. The western continent was likely inhabited by the [[Maelruhn]], with the [[Viruhn]] living on the eastern continent.
+In the First Avihm, the land on the disc was partitioned into three continents: the central land of [[Lore Locations#Primzahl|Primzahl]] and two outer continents, to the far west and east respectively. The western continent was likely inhabited by the [[Maelruhn]], with the [[Viruhn]] living on the eastern continent.
 
 The [[Felling]] of the [[Primal Tree]] almost totally destroyed the land of the disc, with [[Drehmal]] born at the dawn of Av2 to rebuild the world. The other two deities are believed to have come from the two outer continents, with [[Maelihs]] being born in the west and [[Virtuo]] originating from the east. 
 

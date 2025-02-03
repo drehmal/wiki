@@ -1,28 +1,40 @@
+---
+search:
+  boost: 1.5
+---
+
 # Drehmal
 
-!!! tip "This page is about the serpent deity. For the physical setting of the story by the same name, see [[Overworld|Drehmal]]."
-
-> - **Titles:** The Serpent, The Realmbinder, The Last Divine, The Final Aspect [misleading], God of Preservation, God of Neutrality
-> - **Classification:** Deity
-> - **Parent:** [[Primal Tree]]
-> - **Year of Birth:** Final Year of Av1
-> - **[[Devotion]] Site:** [[Drehua Temple]]
+!!! tip "This page is about the serpent deity. For the physical setting of the story, which goes by the same name, see [[Overworld|Drehmal (Location)]]."
 
 ![[drehmal_statue.png]]
-> Statue of Drehmal at Drehua Temple
+> The statue of Drehmal at Drehua Temple.
 
-Drehmal is the most powerful of the three deities born from the Primal Tree upon [[Felling|its collapse]] at the end of the First Avihm. With most of the land destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one. The deity's name traces its roots to the [[Ancient Drehua|ancient Drehua]] people, who used their word "Drehmal", meaning the world, to refer to the Serpent.
+Drehmal is the most powerful of the three deities born from the Primal Tree upon [[Felling|its collapse]] at the end of the First Avihm. With most of the land destroyed, Drehmal took it upon themselves to shape a new world from the ruined remains of the old one, earning the "Realmbinder" epithet. The deity's name traces its roots to the [[Ancient Drehua|ancient Drehua]] people, who used their word "Drehmal", meaning the world, to refer to the Serpent.
+
+|  |  |
+|:----------:|:----------------------:|
+| **Titles** | The Serpent <br>Great Serpent <br>Realmbinder <br>Shaper-Serpent <br>The Last Divine <br>The Final Aspect (misleading) <br>Liege of All <br>God of Preservation <br>God of Neutrality |
+| **Classification** | [Deity](/Lore/Higher_Beings/Deities/) |
+| **Family** | [[Primal Tree]] (Parent) <br> [[Maelihs]] (brother) <br> [[Virtuo]] (Sister) |
+| **Gender** | Neutral (they/them) |
+| **[[Devotion]] Site** | [[Drehua Temple]] |
 
 ## Characteristics
 
-Drehmal takes the form of a gargantuan, pale green serpent with antlers, a beard and sharp teeth. They are known for their incredibly wise snd peaceful demeanor. Drehmal is referred to exclusively with gender-neutral "they," "them," and "their" pronouns.
+Drehmal takes the form of a gargantuan, pale green serpent with antlers, a leafy beard, and sharp teeth. They are known for their incredibly wise and peaceful demeanor. Drehmal is referred to exclusively with gender-neutral "they," "them," and "their" pronouns.
 
 ## History 
 
-In the First Avihm, before being granted their current deific identity, Drehmal was merely a simple worm of some sorts. As recounted by [[The Parable of the Worm]], they were approached by two figures, a "beast of the sky" and a "beast of the depths". Both criticized the worm for not acting on their potential, yet they resolved to wait for the right time.
-During the Battle of Karesh, the worm nestled between the roots of the Primal Tree, and the Tree gifted a portion of its remaining essence to the worm, ascending them to the divine serpent Drehmal.
+In the First Avihm, before being granted their current deific identity, Drehmal was merely a simple worm. As recounted by [[The Parable of the Worm]], they were approached by two figures, a "beast of the sky" and a "beast of the depths". Both criticized the worm for not acting on their potential, yet they resolved to wait for the right time.
 
-Drehmal spent the early days of the Second Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with [[Drehmari]], especially the ancient Drehua people of Palisahd (modern day [[Palisades Heath]]). Four such interactions, as recorded by Drehua monks who became heralded as prophets, are recorded in the four Parables at Drehua Temple. After Drehmal's work was completed, they buried themselves far beneath the [[Primal Caverns]] and fell into a deep, dream-filled slumber. Drehmal continued to be worshipped throughout Palisades Heath, the Central Plains and the Heartwood. Worship of Drehmal became most widespread under the rule of [[Avsohm]], which originated in the Central Plains and spread its religion around the continent. Worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was banned in the empire under the reign of [[Zorhis Ifeihl]], and [[Maelihs]] was an enemy of the state, meaning citizens paid homage to either [[Virtuo]] or Drehmal. Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm.
+During the [[Felling]], the worm nestled between the roots of the Primal Tree, and the Tree gifted a portion of its remaining essence to the worm, ascending them to the divine serpent Drehmal.
+
+Drehmal spent the early days of the Second Avihm molding landforms and fostering new life. During this time, Drehmal often interacted with [[Drehmari]], especially the ancient Drehua people of Palisahd (modern day [[Palisades Heath]]). Four such interactions, as recorded by Drehua monks who became heralded as prophets, are recorded in the four Parables at Drehua Temple. After Drehmal's work was completed, they buried themselves far beneath the [[Primal Caverns]] and fell into a deep, dream-filled slumber. 
+
+Drehmal continued to be worshipped throughout Palisades Heath, the Central Plains ([[Capital Valley]] + [[Gulf of Drehmal]]) and the Heartwood. Worship of Drehmal became most widespread under the rule of [[Avsohm]], which originated in the Central Plains and spread its religion around the continent. Worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was banned in the empire under the reign of [[Ifeihl|Zorhis Ifeihl]], and [[Maelihs]] was an enemy of the state, meaning citizens paid homage to either [[Virtuo]] or Drehmal. 
+
+Today, Drehmal is still worshiped in their traditional sphere of influence from before the rise and expansion of Avsohm. However, it has been nearly 3000 years since they were last seen above the surface, and their faith has not been the dominant religious force on the continent for a long time.
 
 ## In-Game Interactions
 

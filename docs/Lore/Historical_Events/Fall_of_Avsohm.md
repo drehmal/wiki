@@ -1,7 +1,5 @@
 # The Fall of Avsohm
 
---8<-- "under_construction.md"
-
 The Empire of [[Avsohm]], far and away the most powerful political entity to ever exist on [[Overworld|Drehmal]], met a mysterious and violent fate, marking the end of the Second Avihm. The [[Story Progression|main story]] of the map often revolves around uncovering the truth of what happened to Avsohm and why, and this article contains an account of the empire's death.
 
 This information is designed to be learned in-game over the course of nearly the entire story, so be advised that if you have not completed the story, much of this information may be new to you, likely spoiling the experience of playing the game yourself.
@@ -38,7 +36,7 @@ The main issue with this plan was the logistical aspect of the energy demand. Bo
 
 ## Events
 
-### God Machine
+**God Machine**
 
 The Fall of Avsohm began with the activation of the God Machine. 
 
@@ -46,7 +44,7 @@ According to the [[gm_status.md|machine status holotext]] at [[Azimuth Labs]], t
 
 The exact timeline of the empire's fall after this event is not clear, but several disparate events and methods of destruction are detailed.
 
-### Mt. Yavhlix
+**Mt. Yavhlix**
 
 Shortly after the God Machine was activated, the Resonant Eye deep inside of Mt. Yavhlix [[eye_emergency.md|opened]] on its own, filling with "incomprehensible projections". Chief Observer [[Orix Cehein]] ordered that the veilstone seal be put in place over the facility, and immediately left.
 
@@ -58,27 +56,35 @@ Several [holotexts in the facility](/Story_and_Features/Holotexts/Mt._Yavhlix_Du
 
 Those Beyond, with their task largely complete, consumed themselves, one another, and even portions of the holotexts, causing them to be filled with holes.
 
-### Aphelion
+**Aphelion**
+
+***
 
 Supposedly [[aphelion_yav.md|propagating through the surveillance camera feed]] between Mt. Yavhlix and the [[Aphelion]], the hole monsters were able to reach the empire's flagship. Commander Verpyne sent an SOS through [[avSYS]] to any high-ranking officers, which went unanswered until the player heard it in the 75% event.
 
 Based on the relative lack of damage to the ship itself, it seems that Those Beyond may not have reached the Aphelion in large numbers, but many of the crew members were killed or corrupted by the Nothing.
 
-### Storm
+**Storm**
 
 Multiple accounts, including [[Wisewoman's Journal]] and [[Simplicity's Reward]], describe a massive storm enveloping the realm, starting at Mt. Yavhlix and spreading throughout the rest of the continent. The former source writes of "streaks of primal, yellow light" crashing down from the clouds, wreaking havoc on their targets.
 
-### Ring Facility
+***
+
+**Ring Facility**
 
 In [[Khive's Domain]], the book [[Dread of the Ageless]] describes the unique fate of the Avsohmic [[Ring Facility]]. There, a bizarre creature manifested in the sky: a "twisted thing" with "knotted, repulsive wings" bending the light around itself impossibly. The [[Tehrmari]] account states that the creature emanated a disturbing two-tone sound, like a bell ringing out, before turning into a large drill and descending upon the lake facility, killing everyone inside and disappearing. It can be assumed that the other Avsohmic facilities on Lo'Dahr suffered a similar fate.
 
-### Stasis Facility
+***
+
+**Stasis Facility**
 
 Immediately following Orix's order to seal off Mt. Yavhlix, he and a select few other high-ranking Avsohmic officials were put into indefinite temporal stasis at the [[Stasis Facility]]. Intending to remain in stasis for a few years then awaken to re-establish the empire, these people were instead frozen in time for over a thousand years. 
 
 The facility was breached by the [[Emissary of the Void]], likely just after the fall. It is possible that the Emissary tampered with the facility's system, extending the duration of stasis to an indefinite amount of time to sabotage the remnants of the empire.
 
-### Dune Wars
+***
+
+**Dune Wars**
 
 On the day of Avsohm's fall, [[Maelihs]], in a perpetual state of war against the empire, learned that their infrastructure and leadership had been mysteriously devastated. Wasting no time, the Burnt Lord launched an all-out assault on the western stronghold of [[Sal'Anyr]]. Deploying the [[Skullbeasts]] for the very first time, Mael's forces captured and razed Sal'Anyr in a day, and expanded their conquest to the entirety of the west. 
 
@@ -94,11 +100,13 @@ Mytho states that Avsohm was one of very few groups that became powerful enough 
 
 Multiple different beings are implicated in the mass killing of Avsohm's people.
 
-### Those Beyond
+**Those Beyond**
 
 [[Those Beyond]] are the dark orbs which chewed through the majority of the people at [[Mt. Yavhlix]], and the main source of the "perfectly circular holes" found throughout the Avsohmic ruin. They appear to have entered through the Spiral Anomaly, and may have also spread to other Avsohmic facilities such as the [[Aphelion]].
 
-### Gaping Hole
+***
+
+**Gaping Hole**
 
 The Gaping Hole is a name given to the massive black and red worm monster with reported sightings around the time of the fall of Avsohm. The books at the [[Nihilist's Cabin]] center around it, primarily [[Creature of Nothing]], which implies that this monster created the massive tunnel beneath [[Highfall]] leading to the Compass of Nihility in the [[Oblivion]] questline.
 
@@ -109,11 +117,15 @@ The Gaping Hole seems to be able to kill anything it looks at, turning its targe
 ![[yav_worm.png]]
 > A projection of what seems to be the Gaping Hole in the [[Resonant Halls]].
 
-### Drill Monster
+***
+
+**Drill Monster**
 
 The drill monster referenced in [[Dread of the Ageless]] seems to be a different creature from the rest of the reported beasts on the day of Avsohm's fall. It is possible, however, that it is simply another form of the Gaping Hole, based on the fact that it refracts light in a similar color scheme and is also described as emitting a two-tone ringing noise.
 
-### The Pawn
+***
+
+**The Pawn**
 
 The [[Emissary of the Void]], also referred to as "The Pawn", is a mysterious figure in the service of The Mythoclast. Wearing a purple hood and wielding a copy of the [[Oblivion]] scythe, the Emissary appeared at several locations throughout the realm immediately leading up to the fall of Avsohm, acting as an omen for the empire's demise. These sightings include those documented in [[The Omen]] at a bar in [[Elvett]], in [[Bryde's Warning]] in [[Capital Valley]], and at the [[Stasis Facility]] as captured by the security cameras in the facility.
 

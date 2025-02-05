@@ -55,7 +55,9 @@ When Avsohm was ravaged by mysterious forces, the Stasis Facility was put into f
 As seen on the "[[stasis_info.md|-STASIS SYSTEM LOG-]]" holotext, four other pods were opened and evacuated at some point in the 17 years prior to the player's awakening. These four pods (Pods 10, 20, 22, and 24) are visibly open in the starting room, and do not contain corpses like the others on the top two rows. The inhabitant of Pod 10, [[Kahmas Tuhs]], is a very pertinent figure in the world's history, while the other three names do not seem to be referenced elsewhere. Currently, it is not known if these characters are discoverable in the world.
 
 ??? warning "End-Game Lore Tie-Ins"
-    Shortly afterwards, the facility was breached by an unknown entity. This entity appears to be the [[Emissary of the Void]], sent to sabotage the Stasis Facility. If the player digs into a particular wall in the Stasis Facility's main room, they may find a spiral staircase leading upward to a security room, which contains a still shot of the Emissary in the Stasis Facility, holding [[Oblivion]].
+    Shortly afterwards, the facility was breached by an unknown entity. This entity appears to be the [[Emissary of the Void]], sent to sabotage the Stasis Facility. <br> 
+    If the player digs into a particular wall in the Stasis Facility's main room, they may find a spiral staircase leading upward to a security room, which contains a still shot of the Emissary in the Stasis Facility, holding [[Oblivion]]. <br>
+    ![[stasis_em.png]]
 
 ## Story (Return - END-GAME SPOILERS)
 

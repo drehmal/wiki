@@ -192,6 +192,8 @@ Av4, the current era, is still very young. The departure of Virtuo and Vahid led
 | c. Av4 1-10 | The Insohmic Council crumbles without a leader or the stable influence of Virtuo's Grand Parish. Riots destroy Old Mossfield, the Akhlo'Rohman countryside is pillaged by Maelmari forces, and civilization largely reverts back to small city-states. |
 | Av4 12 | Overwhelmed by grief and self-loathing, Maelihs finally decides that he can no longer remain in the [[Burnt Palace]]. He leaves to be with the Aspects in [[Ytaj]], vowing to one day return and destroy his creations. |
 | Av4 26 | West and East Merijool, who feuded for millennia over their worship of [[Lai]] and [[Loe]], respectively, unite into a single agnostic republic for the first time. |
+| Av4 83 | Stasis Facility Pod 10, holding [[Kahmas Tuhs]], is evacuated. |
+| Av4 91 | Pods 20, 22, and 24 are evacuated. |
 | Av4 100 | The player(s), members of the [Stasis Eight](/Lore/Historical_Figures/Avsohm/Stasis_Eight/), are released from temporal stasis in the [[Stasis Facility]] after an emergency evacuation is triggered. The main story of the map begins here. |
 
 [^1]: One source, [[The Hunting of Greatbeast Muhs]], gives this date, while an advancement for finding the Underwood area gives the date of the Hunting as Av2 1583. 

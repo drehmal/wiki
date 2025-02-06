@@ -1,6 +1,9 @@
-# Virtuo
+---
+search:
+  boost: 1.5
+---
 
---8<-- "under_construction.md"
+# Virtuo
 
 ![[virtuo_statue.png]]
 > A statue of Virtuo carved into the Verdant Mountains, in the northern [[Black Jungle]].

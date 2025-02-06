@@ -50,7 +50,7 @@ In the eastern Frozen Bite is a small settlement based around a large, red tent 
 
 ### Nihilist's Cabin
 
-Hidden between mountains on the Frozen Bite's east coast is an abandoned wooden cabin. It once belonged to a mysterious individual who investigated the forces that caused [[Fall of Avsohm|Avsohm's demise]], and is involved in the quest for the mythical weapon [[Oblivion]].
+Hidden between mountains on the Frozen Bite's east coast is an [[Nihilist's Cabin|abandoned wooden cabin]]. It once belonged to a mysterious individual who investigated the forces that caused [[Fall of Avsohm|Avsohm's demise]], and is involved in the quest for the mythical weapon [[Oblivion]].
 
 **Coordinates:** (X: 5824, Y: 63, Z: -2988)
 

@@ -20,7 +20,7 @@ The term "ardorbrand" is likely a portmanteau of "Ardor," meaning "enthusiasm" o
 > The four sprites of Ardorbrand, from +0 to +3.
 
 ## Cryostatic
-**Cryostatic** is a talisman made of Divine Ice, given as a devotion reward for the Aspect of Cold, [[Loe|Glacial Elder Loe]], at the [[Crystalline Colonnade]]. It is capable of greatly increasing attack speed at the cost of attack damage, making it useful for players who prefer to fight quickly.
+**Cryostatic** is a talisman made of Divine Ice, given as a devotion reward for the Aspect of Cold, [[Loe|Glacial Elder Loe]], at the Crystalline Colonnade in [[Schlonko]]. It is capable of greatly increasing attack speed at the cost of attack damage, making it useful for players who prefer to fight quickly.
 
 | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
 |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|

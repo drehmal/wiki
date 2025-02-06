@@ -21,3 +21,6 @@ This book can be found on a lectern in the observatory atop [[Naharja]]. It docu
 >
 > Even stranger still, the star appears to blink! Its brightness waxes and wanes even faster than it orbits. I must admit, I have no explanation for its behavior. It is completely unlike any other object I've ever seen.
 
+## Extras
+
+While this book claims that Loruhn and Lo'Veruhkt complete a full orbital cycle every 14 days, they actually complete a cycle once every 16 days in-game.

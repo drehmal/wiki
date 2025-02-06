@@ -19,7 +19,7 @@ The Repository is also home to the hilt of the [[Mythbreaker]], Avsohm's greates
 ## Story
 The player can access the repository at any time after reaching Av'Sal, often one of the first stops after exiting the Stasis Facility. Besides assembling the Mythbreaker, it does not itself host any story events at this point, primarily acting as a hub for information and to provide hints to the player when connecting concepts in the later game.
 
-Upon obtaining the two Mythbreaker blade fragments at the [[Sal'Mevir|25 percent]] and [[Exodus Vault|50 percent]] story locations, the player can reconnect them to the hilt at the Repository and claim the [[Mythbreaker#Inert Mythbreaker|Inert Mythbreaker]].
+Upon obtaining the two Mythbreaker blade fragments at the [[Sal'Mevir|twenty-five percent]] and [[Exodus Vault|fifty percent]] story locations, the player can reconnect them to the hilt at the Repository and claim the [[Mythbreaker#Inert Mythbreaker|Inert Mythbreaker]].
 
 Another section of the Repository is unlocked as [[Admin Wing|part of the 75% completion event]], and can be accessed from the main hall of the Repository after this event.
 

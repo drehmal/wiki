@@ -23,7 +23,7 @@ This book can be found on a lectern in [[Ancehl Castle]]. Its text gives an over
 >
 > Then, they should move to beasts. Dissect and learn the function of each organ. Use a specialized Locate rune to detect the location of the soul. And once again, discover the function of each component.
 >
-> Finally, learn to find and manipulate one’s own soul during meditation. Once one has learned to travel to the First Sphere,  they may use the title “alchemist”, and are prepared for a lifelong journey of self-discovery.
+> Finally, learn to find and manipulate one’s own soul during meditation. Once one has learned to travel to the First Sphere, they may use the title “alchemist”, and are prepared for a lifelong journey of self-discovery.
 >
 > Aside from satiating one's spirit, alchemy has a great many practical applications. While healing the sick with potions is perhaps the best-known usage of the discipline, alchemy can be applied to harden and preserve natural materials like wood from decay for many hundreds of years past when it would normally rot. It can enable communication between Drehmari and animals. It can even make hardtack taste like a full Casain quail feast! I implore you, dear reader, take up the discipline today.
 

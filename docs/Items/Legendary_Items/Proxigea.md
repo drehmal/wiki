@@ -43,4 +43,4 @@ Defeating The Vehrniis opens a door in the northern side of the arena, leading t
 **Coordinates:** (-419, 4, 481)
 
 ## Lore
-As its item description states, [[Dahr]] created Proxigea as a mocking gift to an "empire of purity" in Av1, knowing that even a weapon as powerful as this would not be able to stand up to his own power. This empire is very likely the [[Viruhn]], an ancient empire from Av1 that is assumed to have lived in the eastern portion of the modern-day continent of [[Overworld|Drehmal]] and possibly what is now [[Eastern Xivrhynt]].
+As its item description states, [[Dahr]] created Proxigea as a mocking gift to an "empire of purity" in Av1, knowing that even a weapon as powerful as this would not be able to stand up to his own power. This empire is very likely the [[Viruhn]], an ancient empire from Av1 that is assumed to have lived in the eastern portion of the modern-day continent of [[Overworld|Drehmal]] and possibly what is now Eastern [[Xivrhynt]].

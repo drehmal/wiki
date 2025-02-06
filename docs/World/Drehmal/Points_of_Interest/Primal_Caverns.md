@@ -36,3 +36,7 @@ The Primal Caverns were watched over as a sacred place by remaining devotees of 
 ### Trivia
 
 At the bottom of the pool near the back of the cave is a hidden room. This room is home to an armor stand with a zombie head, leather pants, and golden boots, dubbed "Jack's Corner" by a sign.
+
+***
+
+A potted azalea tree sits at the very top of the central green mountain, almost certainly a reference to the [[Primal Tree]], as this type of tree is used to represent the Primal Tree in other places.

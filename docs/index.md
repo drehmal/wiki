@@ -59,6 +59,10 @@ At the top of your screen, you should see 6 main tabs besides the current one, w
 
 Navigating through these tabs is the cleanest way to use this wiki, but there is also a built-in search function! Just be aware, this search bar will reveal **all** matches for a term, including matches for early-game terms on very late-game articles. Therefore, it is recommended that you stay away from that feature if you are at all concerned about spoilers. For your protection, some extremely spoiler-heavy end-game articles do not appear in search results, but can be found from the [Story Locations](/Story_and_Features/Story_Locations/) folder if you have reached that point and want to read about them.
 
+Pages which contain outdated information or are unfinished are marked with the "Under Construction" tag, which looks like this:
+
+--8<-- "under_construction.md"
+
 ??? note "Progress Notes: Finished Sections"
     At this time, there should not be any remaining outdated pages (besides a few which are clearly labeled as such in the [POI](/World/Drehmal/Points_of_Interest/) folder).The following sections/pages have been thoroughly updated with new content and edited to a final-ish state. Sections are denoted in **bold**, while individual pages are denoted with *italics*. This will be updated as further progress is made. <br>
     - (Help) *[[Getting Started]]* <br>

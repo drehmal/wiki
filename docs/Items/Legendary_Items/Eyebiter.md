@@ -33,7 +33,7 @@ This legendary is found in the [[Sepulchral Altar]], the devotion site of [[Mael
 **Coordinates:** (-2806, 39, 5387)
 
 ## Lore
-The shield is crafted out of the stolen eye of the goddess [[Virtuo]], after it was ripped out by [[Maelihs]] in their confrontation at the [[Kiln of Virtuo]] during the [[Tidal War]]. This was an inciting incident for the eventual fates of both deities, as Virtuo would come to lose faith in her purpose on Drehmal and leave for [[Eastern Xivrhynt]], while Maelihs eventually grew resentful of the empire he had created, and abandoned the continent for [[LD|Lo'Dahr]].
+The shield is crafted out of the stolen eye of the goddess [[Virtuo]], after it was ripped out by [[Maelihs]] in their confrontation at the [[Kiln of Virtuo]] during the [[Tidal War]]. This was an inciting incident for the eventual fates of both deities, as Virtuo would come to lose faith in her purpose on Drehmal and leave for Eastern [[Xivrhynt]], while Maelihs eventually grew resentful of the empire he had created, and abandoned the continent for [[LD|Lo'Dahr]].
 
 ## Extras
 Eyebiter is required for one late-game [[Advancements|advancement]]. At [[Ihted Academy]], the Shackled Sentinel enemies fire magical lasers at the player, and the "BE NOT AFRAID" is given for reflecting these lasers back at one (as shown in this page's gif). This can only be done using Eyebiter's special ability.

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found on a lectern in [[Virtuo]]'s chamber in [[Ytaj]]. Written by the Goddess herself, it contains her thoughts and future direction following the meeting with the Aspects that she initiated following the events of her previous diary, [[Powerless]]. Within, she resolves to travel to [[Eastern Xivrhynt]], as she believes she could do more good in that scarred land, and takes her Parish with her, partially to remove [[Vahid]] from the continent.
+This book can be found on a lectern in [[Virtuo]]'s chamber in [[Ytaj]]. Written by the Goddess herself, it contains her thoughts and future direction following the meeting with the Aspects that she initiated following the events of her previous diary, [[Powerless]]. Within, she resolves to travel to Eastern [[Xivrhynt]], as she believes she could do more good in that scarred land, and takes her Parish with her, partially to remove [[Vahid]] from the continent.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

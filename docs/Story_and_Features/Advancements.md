@@ -85,7 +85,7 @@ This section contains the 48 advancements in the "Drehmal" tab, which are almost
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
 ### ![Celestial Alloy](/assets/img/adv/celestial_alloy.png){ width="36" } Fabled Equipment 
-This section contains the 39 advancements found in the "Fabled Equipment" tab (15 Legendary Weapons, 10 Legendary Armor, 5 Legendary Gear, 9 Mythicals).
+This section contains the 39 advancements found in the "Fabled Equipment" tab (15 Legendary Weapons, 10 Legendary Armor, 5 Legendary Gear, 9 Mythicals). These advancements are granted to all players when any player picks up the associated item for the first time.
 
 ??? warning "**Fabled Equipment:** *Legendary Weapons* - "*Some weapons are greater than your standard blade. One of a kind, only found in guarded or secret locations.*"
     |    **Advancement**          | **Description**                                                                             |             **Requirement**              |
@@ -93,11 +93,11 @@ This section contains the 39 advancements found in the "Fabled Equipment" tab (1
     | Masayoshi                   | Recipe for Masayoshi, the deceased Tide Queen's ancient blade, unlocked.                    | Find [[Masayoshi]]                       |
     | One Thousand Scars          | Recipe for One Thousand Scars, the ancient blade of the First Avihm, unlocked.              | Find [[One Thousand Scars]]              |
     | Osteogenesis                | Recipe for Osteogenesis, the bane of Skullbeasts, unlocked.                                 | Find [[Osteogenesis]]                    |
-    | The Frostfang               | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked.                  | Find [[The Frostfang]]                   |
+    | The Frostfang               | Recipe for the Frostfang, the signature weapon of Homli Tahsgan, unlocked.                  | Find the [[Frostfang]]                   |
     | Peace Treaty                | Recipe for Peace Treaty, the symbol of undying alliances, unlocked.                         | Find [[Peace Treaty]]                    |
     | Orchidaceae                 | Recipe for the Orchidaceae, a treasure hunter's favorite, unlocked.                         | Find [[Orchidaceae]]                     |
     | Emperor Anyr's Scepter      | Recipe for Emperor Anyr's Scepter, the tool of the last emperor of Avsohm, unlocked.        | Find [[Emperor Anyr's Scepter]]          |
-    | The Heartaxe                | Recipe for the Heartaxe, weapon of fables, unlocked.                                        | Find [[The Heartaxe]]                    |
+    | The Heartaxe                | Recipe for the Heartaxe, weapon of fables, unlocked.                                        | Find the [[Heartaxe]]                    |
     | Crystal Digging Claws       | Recipe for the Crystal Digging Claw, tool of pride, unlocked.                               | Find [[Crystal Digging Claws]]           |
     | Flammer                     | Recipe for the Flammer, the explosive mining tool, unlocked.                                | Find [[Flammer]]                         |
     | Hovadchear's Greathammer    | Recipe for Hovadchear's Greathammer, famed weapon of Master Hovadchear of Insohm, unlocked. | Find [[Hovadchear's Greathammer]]        |
@@ -131,7 +131,7 @@ This section contains the 39 advancements found in the "Fabled Equipment" tab (1
     | Avsohmic Playback Organizer Device | Recipe for the avPOD, portable audio recording and playback apparatus, unlocked.            | Find [[avPOD]] |
     | LATE-GAME LEGENDARY ITEMS          | \*The legendary gear found below is from a post-75% area.*                                  |  |
     | Eldermead                          | Recipe for a flagon of Eldermead, gift of Vayniklah, unlocked.                              | Find [[Eldermead]] |
-    | Stasis Bolts                       | Recipe for a quiver of Stasis Bolts, gift of Khive, unlocked.                               | Find [[Stasis Bolts]] |
+    | Stasis Bolts                       | Recipe for a quiver of Stasis Bolts, gift of Khive, unlocked.                               | Find [[Stasis Bolt|Stasis Bolts]] |
 
 ??? warning "**Fabled Equipment:** *Mythicals* - *Few weapons achieve this status. Uncovering an immensely powerful Mythical weapon requires skill of the highest caliber.*"
     |    **Advancement**          | **Description**                                                                             |             **Requirement**              |
@@ -181,7 +181,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | Secret Sanctum | A civilization lost to the ravages of time and conquest still retained one secret, until now - Discovered the true Altar of Insight | Discover the [[Altar of Insight]]. |
     | Monastery of Virtuo | A devout order of Drehmari founded this austere monastery long ago to follow the teachings of Virtuo. What secrets lie within its lofty towers and crystal caverns? - Discovered Teiruun | Discover [[Teiruun Monastery]]. |
     | The Insohmic Library | After the disappearance of Castle Hovadchear, this was the Order of Insohm's headquarters. - Discovered the Old Library Tower | Discover the [[Insohmic Library]]. |
-    | Grave of Frost | A master arcanist of unlimited potentia, he froze the North in rebellion to Avsohm. - Discovered the resting place of Homli Tahsgan | Discover [[Homli's Grave]]. |
+    | Grave of Frost | A master arcanist of unlimited potentia, he froze the North in rebellion to Avsohm. - Discovered the resting place of Homli Tahsgan | Discover the [[Grave of Frost]]. |
     | Wall of the West | BIG WALL. - Discovered Maehrn'Vhos | Discover [[Maehrn'Vhos]]. |
     | Capital of War | Sal'Anyr's fall marked the beginning of the Dune Wars, and the start of the third Avihm. - Discovered the ruins of Sal'Anyr | Enter the ruins of [[Sal'Anyr]]. |
     | The Moonlight Sanctum | The Tri-Moon Theocracy used this place as a necrotic engine. Using the potentia of strange aquatic creatures, they performed abhorrent rituals and raised thousands of undead. - Discovered the Moonlight Sanctum | Enter the [[Moonlight Sanctum]]. |
@@ -266,7 +266,7 @@ This section contains 15 advancements, all related to exploration and specific g
     | Very Very Frightening              |  Strike a villager with lightning                                                           | Throw a Channeling trident at a villager in a thunderstorm (Vanilla). |
     | One Small Step                     |  Trek into the Lunar Wastes                                                                 | Step into the Lunar Wastes, outside the breathable boundary of Lo'Dahr. |
     | **_Breath Holding Champion_**      |  Survive the Lunar Wastes                                                                   | Survive the Lunar Wastes                 |
-    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [special shield](Eyebiter) to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
+    | BE NOT AFRAID                      |  Reflect the lasers of a Shackled Sentinel                                                  | Use a [[Eyebiter|special shield]] to reflect the attack of a Shackled Sentinel at [[Ihted Academy]].   |
     | Local Traditions                   |  Receive a gift during the Day of Patronage                                                 | Visit [[Naharja]] on a Day of Patronage, and receive a present from a villager.  |
     | **_Glimpse Into the Cosmos_**      |  Bring a Glimpse to the peak of the Starrise                                                | Bring a Glimpse—one of the zombies from [[Khive's Domain]] with a single large eye—across Lo'Dahr to the top of Aldregakar in [[Rihelma's Domain]]. |
     | Invasive Species                   |  Recall a horse to Lo'Dahr                                                                  | Use Warp Horse to summon a horse to Lo'Dahr.  |
@@ -298,7 +298,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | Timelord                           |  Wibbly-wobbly timey-wimey... stuff. - Exploited the Temporal Engine                        | Solve the main puzzle at [[Sal'Mevir]].                 |
     | Left Blade Fragment                |  The cutting edge of this half-spearhead slices through tough canvas on contact. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade.   | Claim the Left Blade Fragment at [[Sal'Mevir]].  |
     | The Might of Avsohm                |  You've been directed to visit an Avsohmic weapons depot. Wonder what sort of toys they're hiding... - Restored Network Linkage to 50%   | Awarded upon reaching 50% linkage.  |
-    | Accumulated Arms                   |  Trucks, tanks, planes, oh my gyatt![^2] - Infiltrated the Exodus Vault                     | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
+    | Accumulated Arms                   |  Trucks, tanks, planes, oh my! - Infiltrated the Exodus Vault                     | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
     | Right Blade Fragment               |  The inner edges of this half-spearhead are coated with a lattice of delicate primal catalysts. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade            | Claim the Right Blade Fragment at [[Exodus Vault]].   |
     | Anticlimax                         |  After reuniting the pieces of Avsohm's greatest weapon, you are struck by its lack of effectiveness. Is this really it? - Discovered Inert Mythbreaker    | Reunite the fragments of the [[Mythbreaker]] at the [[Av'Sal Repository]]. |
     | Security Unsecured                 |  With the energy network being almost fully restored, you've gained access to the Administrative Wing. - Restored Network Linkage to 75%                 | Awarded upon reaching 75% linkage. |
@@ -306,7 +306,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | Heightened Clearance               |  avSYS has granted you heightened Terminus permissions. The door in the Outer Towers wing of the Terminus should now be accessible. - Permissions reacquired       | Awarded as part of the 75% completion event, after completing the [[Admin Wing]] section.   |
     | In Thy Glory Afar                  |  To witness the fullest breadth of the skies above... to behold the golden sails shining against the black veil... a glorious sight indeed. - Boarded the Aphelion.  | Board the [[Aphelion]] in the second half of the 75% completion event.  |
     | Backwards Thinking                 |  Rule of Observation! - Learned how to use Khive's Warp Rings                               | Successfully use a warp ring at the [Ring Research Installation](Ring_Facility.md).     |
-    | Master of Maintenance              |  If only you were still around when Avsohm fell. - Repaired the Inscription Machinery       | Solve the main puzzle at the [[Inscription Facility]].  |
+    | Master of Maintenance              |  If only you were still around when Avsohm fell. - Repaired the Inscription Machinery       | Solve the main puzzle at the [[Inscription Complex]].  |
     | Energy Technician                  |  Scotty? - Beamed down Primal Energy                                                        | Solve the main puzzle at the [[Resupply Depot]].     |
     | Apex of Divinity                   |  An immense source of power, untouched and untainted. - Entered the Numencore               | Solve the puzzle at the [[Core Facility]], entering the [[Numencore]].     |
     | No Fear                            |  You have been the last dream of my soul. - Incurred the wrath of Khive                     | Began the Mythbreaker Run by charging the [[Mythbreaker]] at the [[Numencore]].     |
@@ -335,4 +335,4 @@ This section contains the 7 advancements on the secret tab.
     | And In The Light, Bind Them        | Oh, I shall be tempted. - Fully upgrade all eight Mythicals with Fervor Stones.                         |
 
 [^1]: This advancement is actually found in the Discoveries: Civilization branch, but is included here for spoiler reasons.
-[^2]: This wiki editor would like to attest that this is the actual in-game advancement text, and that he regrets this fact, but is dedicated to making this wiki thorough and accurate (a simple [sic] would have sufficed, but alas).
+[^2]: In version 2.2.1, this advancement reads "Trucks, tanks, planes, oh my gyatt!"

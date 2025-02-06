@@ -41,7 +41,7 @@ Emerging from the Primal Caverns, the player reaches the Final Grave, coming acr
 
 After the credits have ended and the player has sat with the corpse of their creator for a few minutes, the [[yellow.md|Mythoclast]] speaks one more time, telling the player of the ultimate fate of the realm. 
 
-[[Virtuo]] met her demise at the edge of the realm, in [[Eastern Xivrhynt]], succumbing to "decay" (likely meaning the [[Nothing]]).
+[[Virtuo]] met her demise at the edge of the realm, in Eastern [[Xivrhynt]], succumbing to "decay" (likely meaning the [[Nothing]]).
 
 [[Maelihs]] was never able to overcome his pride and leave [[LD|Lo'Dahr]], and was among the last to die there, watching the world crumble away before he had righted any of his wrongs.
 
@@ -75,6 +75,16 @@ Southeast of the Primal Caverns, a statue of Verrhys, made of identical material
 The True End appears to have been inevitable, as suggested by the fact that warping into the future via the Temporal Engine at Sal'Mevir projects the player into this very dimension, in a version of the area covered in the same lifeless desert. 
 
 ## Extras
+
+### Trivia
+
+A copy of the 2.1 Spawn Tomb, the same structure as the [[Hunters' Crypt]], is located underground in the True End, west of the Primal Caverns.
+
+***
+
+![[gael_arena.png]]
+
+In the True End dimension, north of the Sal'Mevir area, players can find a circle of chairs. In the center of these chairs is a single piece of charcoal in an item frame, named "Blood of the Dark Soul". This item has no lore text, and is a simple reference to [Slave Knight Gael](https://darksouls3.wiki.fextralife.com/Slave+Knight+Gael+(Boss)) and his arena from Dark Souls 3.
 
 ### Dialogue
 

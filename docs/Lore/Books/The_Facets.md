@@ -14,13 +14,11 @@ tags:
 
 !!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above."
 
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
-
-The Facets are a collection of seven (7) signed, written (non-editable) books found in [[Lo'Dahr]] through a questline tied to a [[Syzygy|powerful weapon]]. The first six facets are all awarded after completing one of the [six trials](/World/Post-75_Area/Points_of_Interest/Trials/) on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
+The Facets are a collection of seven (7) signed (non-editable), written books found in [[Lo'Dahr]] through a questline tied to the [[Syzygy]] mythical weapon. The first six facets are all awarded after completing one of the [six trials](/World/Post-75_Area/Points_of_Interest/Trials/) on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
 
 The facets are written as verses of scripture, containing apocalyptic prophecies foreseen by [[Rihelma]].
 
-The exact meaning behind these books is not well-known, but it is heavily believed that each of them represents some kind of future pertaining to an extremely important character in the lore of Drehmal. These may be tied to the [[Ambition]], an act that can be invoked in order to become nearly or truly omnipotent, and what each character would do if given this sort of power.
+The exact meaning behind these books is not well-known, but it is heavily believed that each of them represents some kind of future pertaining to an extremely important character in the lore of Drehmal.
 
 ***
 
@@ -62,7 +60,7 @@ It is believed to be a description of a hypothetical world in which [[Aok]], the
 ### Location/Summary
 This book can be found in a chest in the [[Star-Rise Orrery]], upon completion of [[Rihelma]]'s trial at that location.
 
-It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the [[Fall of Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge. This is likely tied to a [[yellow|particular end-game figure]].
+It is not clear exactly whose possible future this text refers to, and in fact, it may be the only facet that is not an unfulfilled future. This facet has clear parallels to the [[Fall of Avsohm]], from the perfectly circular creatures known as Those Beyond to accounts of a golden eye manifesting in the sky, punishing the seekers of forbidden knowledge. This is likely tied to [[yellow|The Mythoclast]].
 
 ### Transcription
 > 2:1 - The sky will blacken and shadows will grow longer than ever before. Tendrils of dark will seep into every corner of the world, grasping at forbidden knowledge.
@@ -146,7 +144,7 @@ It is clearly tied to [[Maelihs]], potentially representing a future where he co
 ### Location/Summary
 This book can be found in a chest in the [[Brightwyrm's Caldarium]], upon completion of [[Lai]]'s trial at that location.
 
-Its text appears to represent the timeline in which [[Virtuo]] molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[Nothing|The Nothing]] at large, furthering the ties between Virtuo, [[Eastern Xivrhynt]], and the Nothing.
+Its text appears to represent the timeline in which [[Virtuo]] molds the realm into her idea of true perfection, entirely symmetrical and in perfect order. In this scenario, she assumes complete control over the Aspects and rules as the strongest part of a perfect triumvirate, until eventually the "dark wind" blows and brings decay to this beautiful world. This may be a reference to Those Beyond or [[Nothing|The Nothing]] at large, furthering the ties between Virtuo, Eastern [[Xivrhynt]], and the Nothing.
 
 ### Transcription
 > 5:1 - She will walk the copse, and the ancient trees shall stand at attention.
@@ -193,15 +191,16 @@ It is believed that this book represents a reality tied closely to [[Lahrs]], As
 
 ## Facet VII
 
-This book can be found in a chest at [[Yriel's Sanctuary]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
-
 ### Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
 | 1923  |  25   | 1865  |
 
 ### Location/Summary
-The final facet seems to be Rihelma's prophecy tied to the player's ultimate goal. In this timeline, "children of quartz and glass" awaken, likely referring to the resurrection of [[Avsohm]] (figuratively and/or literally through the resurrection of important figures and rebuilding of its ruins). They proceed to take "the treasures of the tomb," likely referring to the [[Mythbreaker]], successfully using it to tear through and peer beyond the Veil. This ends on a positive note: "millions of flowers will bloom like golden sand on a placid seashore" may refer to the fulfillment of [[Anyr]]'s goal of conquering and ruling over all of existence as a god-emperor, although this Facet in particular is very mysterious.
+
+This book can be found in a chest at [[Yriel's Sanctuary]], far to the southeast of the rest of the inhabitable portion of Lo'Dahr. This area is only accessible after completing all six trials tied to the previous six facets, and the player is rewarded at this location with the [[Syzygy]] mythical weapon. The book lies in a chest behind the weapon.
+
+The final facet seems to be Rihelma's prophecy tied to the player's ultimate goal. The remnants of [[Avsohm]] awaken to a dying world and grow in "six bursts", potentially referring to the six trials passed to get here. They are awarded the "treasures of the tomb", likely referring either to Syzygy, found here at Yriel's Tomb, or the [[Mythbreaker]]. A family is reunited, possibly meaning that the Aspects, also associated with flower imagery, mend their differences and come together once again.
 
 ### Transcription
 > 7:1 - Children of quartz and glass shall awaken, removing the cord that attaches them to the corpse of their hideous mother.

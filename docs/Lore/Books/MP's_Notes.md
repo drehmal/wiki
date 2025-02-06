@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame in the Parliament building in [[Dusps]], describing increasing political tensions in the region between Dusps and [[Ancehl]].
+This book can be found in an item frame in the Parliament building in [[Dusps]], describing increasing political tensions in the region between Dusps and [[Ancehl Castle|Ancehl]].
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

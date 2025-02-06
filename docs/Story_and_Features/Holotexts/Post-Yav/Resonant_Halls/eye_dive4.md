@@ -25,4 +25,4 @@ I SEE YOU <br>
 Projecting results!
 >
 > **DIVE NOTES - Ch. Obs. Orix Cehein** <br>
-> Signal focused on the largest energy signature detected in Dive #03. **The flow of time surrounding this signal appears dilated, moving faster closer to the origin**. The Eye perceived two images. one seems to be a spear in full spectrum. The other, some kind of… court?
+> Signal focused on the largest energy signature detected in Dive #03. **The flow of time surrounding this signal appears dilated, moving faster closer to the origin**. The Eye perceived two images. One seems to be a spear in full spectrum. The other, some kind of… court?

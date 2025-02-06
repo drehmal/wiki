@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest within a small structure directly off the path in [[Lorahn'Kahl]] between the [[Palisades Heath#Whale's Tale|Whale's Tale]] and [[Mohta]], alongside the Lorahn Sacrificial Blade Artifact. Its text calls upon the three moons of Drehmal in a necromantic rite, referencing the traditions of necromancy in the Lorahn'Kahl region.
+This book can be found in a chest within a small structure directly off the path in [[Lorahn'Kahl]] between the [[Palisades Heath#Whale's Tale|Whale's Tale]] and [[Mohta]], alongside the Lorahn Sacrificial Blade Artifact. Its text calls upon the three moons of Drehmal—[[Lorahn]], [[Loruhn]], and [[LD|Lo'Dahr]]—in a necromantic rite.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

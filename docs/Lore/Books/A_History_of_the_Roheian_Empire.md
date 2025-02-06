@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in an item frame at [[Fort Aelon]], in the northwestern portion of [[Nahyn's Domain]]. It describes the history of the [[Roheian Empire]], a [[Tehrmari]] political entity born from a group of people forced out of [[Naharja]].
+This book can be found in an item frame at [[Fort Aelon]], in the northwestern portion of [[Nahyn's Domain]]. It describes the history of the [[Rohei|Roheian Empire]], a [[Tehrmari]] political entity born from a group of people forced out of [[Naharja]].
 
 ## Coordinates
 | **X** | **Y** | **Z**  |

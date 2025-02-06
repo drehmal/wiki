@@ -8,7 +8,7 @@ This book can be found in a chest in [[Ebonrun]], referencing the large volcanic
 ## Coordinates
 | **X** | **Y** | **Z** |
 | :---: | :---: | :---: |
-|  (x)  |  (y)  |  (z)  |
+|  -2969  |  125  |  -218  |
 
 ## Transcription
 > With the new taxes Mael's generals have put onto us, we need to grow our mining operations... quickly. So, I've scouted out a new, previously untapped mining location - and it's not too far from here!

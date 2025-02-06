@@ -1,5 +1,7 @@
 # Khive Dialogue
 
+--8<-- "spoiler.md"
+
 !!! danger "SPOILER WARNING! This page contains a **full transcript** of a very late-game main story sequence, which can only be initiated after the 75% story mark."
 
 !!! danger "If you have not gained access to the Primary Collection Facility at Mt. Yavhlix by breaking the seal (large door seen in the below spoiler image), then you have not seen this yet!"

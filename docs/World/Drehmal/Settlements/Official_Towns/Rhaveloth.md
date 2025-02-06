@@ -191,19 +191,6 @@ One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys 
 | 2 Gold Ingots | 1 Blaze Rod |
 | 2 Blaze Rods | 1 Gold Ingot |
 
-### Blaze Merchant
-
-One of five merchants in the northern Rhaveloth bazaar, the Blaze Merchant buys and sells blaze rods. This merchant is found toward the west end of the bazaar, in a crimson/jungle wood stall.
-
-**Coordinates:** (-2888, 67, 5167)
-
-**Trades:**
-
-|  **Cost**  | **Item** |
-|:----------:|:---------------------------:|
-| 2 Gold Ingots | 1 Blaze Rod |
-| 2 Blaze Rods | 1 Gold Ingot |
-
 ### Crimson Merchant
 
 One of five merchants in the northern Rhaveloth bazaar, the Crimson Merchant sells carnelian (crimson) logs and fungi. This merchant is found near the center of the bazaar, in a crimson wood stall along the wall.

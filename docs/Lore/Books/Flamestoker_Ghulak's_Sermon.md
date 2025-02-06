@@ -17,7 +17,7 @@ This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws th
 >
 > For you see, brethren, just as we venerate the dancing flicker of the Brightwyrm's sacred flame, so too must we devote ourselves to our betrayed creator, Maelihs himself. It is said that the Burnt Father held great esteem for each of his Aspect forerunners, but held Lai in highest regard. Though he was badly disfigured by the cowardly fires of his own kin, accursed Virtuo, Maelihs saw that the Brightwyrm does not take sides, and admired the spontaneity and passion of our kin.
 >
-> Although Lai would never subject Himself to the call of any deity, we believe that by instructing His child, Infernal Lailoehn, to aid our Maelmari brethren in burning a grand swathe through this Realm with her imperfect terrestrial fire, He has lent His support to our people and to the Burnt Father's cause.
+> Although Lai would never subject Himself to the call of any deity, we believe that by instructing His child, Infernal Lailoehn, to aid our Maelmari brethren in burning a grand swathe through this Realm with his imperfect terrestrial fire, He has lent His support to our people and to the Burnt Father's cause.
 >
 > Therefore, though we rightly spend much of our time in devout meditation over the mysteries and revelations in the pure chaos of our Sacred Flame, we should not lose sight of our secondary duty to Maelihs. While our creed prevents us from venturing into his holy sanctuary, we should still find the time to send our thoughts and prayers towards the deity which brought us the gift of Ascension.
 >

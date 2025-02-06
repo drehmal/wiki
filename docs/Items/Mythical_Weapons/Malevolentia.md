@@ -18,7 +18,7 @@ The signature weapon of the chaos deity [[Maelihs]], it is found in his chamber 
 | **Enchantments**                     | Fire Aspect IV  |
 | **Ability**                          | **Infernal Ground**: "*Crouch and use your drop item key to project a trident that grants a resistance-granting aura wherever it lands. Crouch longer for increased effectiveness.*" <br> The duration of the crouch determines both the duration of the effect, and its radius. <br> **Cooldown**: 20s after the ability ends |
 | **Lore**                             | Mael cast aside his signature trident-sword after Virtuo's flight. Fueled only by grief and a powerful ennui, he abandoned his palace, perhaps residing with the Aspects on Lo'Dahr. While the Burnt Generals feel his return is an inevitability, they do not mind their increased status in his absence. |
-| **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second [[Burnt General]].    |
+| **Obtain**                           | Found atop the [[Burnt Palace]], in the [[Hellcrags]]. Guarded by the Second [[Burnt Generals|Burnt General]].    |
 
 ## Gameplay
 Malevolentia is a heavily NBT-modified netherite sword, and behaves as such.

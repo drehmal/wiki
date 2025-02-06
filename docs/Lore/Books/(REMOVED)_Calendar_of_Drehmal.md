@@ -129,3 +129,9 @@ This book is **no longer on the map**, but in previous versions, was found in th
 > Lorahn Phase:
 >
 > Full shimmering yellow moon
+
+## Trivia
+
+Taking this book to be true, a full year would only be 225 days long on Drehmal, spread out over nine 25-day months. This is only about 61.6% of the number of days in the Gregorian calendar, meaning that an equivalent year in the Gregorian system would end on August 13. 
+
+If we convert the timeline of Drehmal to our calendar system, the entirety of post-[[Felling]] history has actually only lasted for about 1,740 years, rather than the 2,825 years in Drehmal's calendar system (This does not account for their days being longer, however).

@@ -46,7 +46,9 @@ If you are struggling with the arena, consider some of the following tips:
 - You'll probably want at least a full suit of unenchanted diamond armor in order to survive some of the heavier hitters, and the Protection enchantment (recommended level 3 or higher) will make your life a lot easier here. Also consider Unbreaking and Mending, as armor can take quite a beating from all the damage it'll be blocking. <br>
 - You'll likely want at least a [Legendary-Tier Item](/Items/Legendary_Items/) as your main weapon in the Foundry, and some of the weaker legendaries probably won't even be enough. Consider bringing a strong [Mythical Weapon](/Items/Mythical_Weapons/). <br>
 - There is no one "best" set of armor or weapons. It is ultimately up to you and your playstyle, but there are some common recommendations. For instance, [[Frenzy]]'s damage-stacking ability is ideal for the Foundry's large waves of enemies, and paired with [[Parenchyma]], this weapon's health penalty can be overcome. <br>
-- Stay mobile. Standing still for too long is a surefire way to get surrounded by enemies or bombarded with projectiles, especially in later waves. 
+- Stay mobile. Standing still for too long is a surefire way to get surrounded by enemies or bombarded with projectiles, especially in later waves. <br>
+- Bring high-saturation food. Just a stack of bread won't cut it, since you'll need to eat again every time you get hit, and you'll need fuel if you don't want to be a stationary target. Consider cooked meats. <br>
+- Bring a strong ranged weapon. The Rage Unit and Executive Unit can both one-shot players from close range, and are ravager/iron golem mobs which will almost instantly deal melee damage if the player gets too close. You'll definitely want at least one ranged option for the later waves. 
 
 ### Enemies
 

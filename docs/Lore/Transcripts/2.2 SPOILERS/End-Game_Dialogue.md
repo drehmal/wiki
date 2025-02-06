@@ -308,7 +308,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > [The Mythoclast] Come, then. Don’t keep them waiting.
 >
-> \*Player steps into the main room of the Court, summoning Ultva & Hovadchear. Upon defeating them, dialogue resumes:*
+> \*Player steps into the main room of the Court, summoning [[UH|Ultva & Hovadchear]]. Upon defeating them, dialogue resumes:*
 >
 > [The Mythoclast] What a horrible fate that befell those two. I pitied them, bringing them under my wing, but it is time for their rebirth.
 >
@@ -363,7 +363,7 @@ The following is a transcription of the entirety of the [[yellow|Mythoclast]]'s 
 >
 > [The Mythoclast] I wish you the best of luck.
 >
-> \*Dialogue pauses. Player proceeds to the final arena, and dialogue resumes upon victory over the Emissary.*
+> \*Dialogue pauses. Player proceeds to the final arena, and dialogue resumes upon victory over the [[Emissary of the Void|Emissary]].*
 >
 > [The Mythoclast] Incredible. You gave him the final sendoff he wished for. His subjugation is over.
 >

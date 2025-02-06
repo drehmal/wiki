@@ -97,7 +97,7 @@ The New Drabyel Runic Blacksmith is located just outside of a building in the ce
 
 |          | Lore and Cost                                                 |
 | -------- | ------------------------------------------------------------- |
-| **Lore** | An axe used by those who guarded the Primal caverns long ago. |
+| **Lore** | An axe used by those who guarded the Primal Caverns long ago. |
 | **Cost** | Iron Axe <br>16 Scales                                        |
 
 **Shield of Neutrality:**
@@ -786,7 +786,7 @@ The Mossfield Runic Blacksmith is found at **(4132, 66, 1737)**.
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Leggings made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.  |
+| **Lore** | Boots made to magically enhance and protect the messengers within the Order of Insohm. While at first glance it appears to be a heavier piece of equipment, the runes engraved on its inner layer make it incredibly light.  |
 | **Cost** | Iron Boots <br>15 Scales    |
 
 **ICF Infantry Handaxe:**
@@ -1738,8 +1738,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Originally discovered by Red Dawn, this this helm inflicts massive damage to the brain while forcing the body to generate muscle mass. Now available to Drehmari
-for the first time.  |
+| **Lore** | Originally discovered by Red Dawn, this this helm inflicts massive damage to the brain while forcing the body to generate muscle mass. Now available to Drehmari for the first time.  |
 | **Cost** | 28 Scales |
 
 **Battlecruisers:**
@@ -2101,6 +2100,8 @@ At an isolated building in the northwestern portion of Noha's Domain, a singular
 
 ### [[Riverstead Town]]
 The Runic Blacksmith at the Riverstead Town, the "Veteran Craftsman," sells one artisan item, and is located at **(-359, 107, -27)**.
+
+**Ol' Reliable:**
 
 |                  |     |
 | ---------------- | --------- |

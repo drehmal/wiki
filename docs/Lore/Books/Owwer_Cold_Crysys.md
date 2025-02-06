@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame at the [[Crystalline Colonnade]], sacred place of [[Loe]]. It is not a writable book, and provides hints as to the accepted [[Devotion]] gifts for [[Loe]].
+This book can be found in an item frame at the Crystalline Colonnade, sacred place of [[Loe]], just outside the town of [[Schlonko]]. It is not a writable book, and provides hints as to the accepted [[Devotion]] gifts for [[Loe]].
 
 ## Coordinates
 | **X**  | **Y** |  **Z**  |

@@ -6,7 +6,7 @@ tags:
 
 --8<-- "spoiler.md"
 
-This book can be found on a lectern atop the [[Burnt Palace]]. Written by [[Maelihs]] after he went to [[Western Xivrhynt]], it hints at a secret about the origins of himself and [[Virtuo]] told to him by [[Khive]], implying that two groups called the Maelruhn and Viruhn were driving forces in making these two deities into who they are.
+This book can be found on a lectern atop the [[Burnt Palace]]. Written by [[Maelihs]] after he went to Western [[Xivrhynt]], it hints at a secret about the origins of himself and [[Virtuo]] told to him by [[Khive]], implying that two groups called the Maelruhn and Viruhn were driving forces in making these two deities into who they are.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

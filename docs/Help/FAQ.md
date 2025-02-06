@@ -19,6 +19,10 @@ No, unfortunately, there is no Bedrock version of Drehmal. Drehmal will only fun
 
 Previously, Drehmal v2.1 was built for JE version 1.16.5, and v2.2: Apotheosis was initially developed for version 1.17.1. The Apotheosis update was ported to 1.20.1 in mid-2024, and the 1.20.1 port, known officially as version 2.2.1, is currently the official version, and the only version available for download on [drehmal.net](https://drehmal.net). 
 
+### Does Drehmal Work on Newer Versions?
+
+No. Drehmal is designed only to work on its current version of Minecraft, which is 1.20.1 for version 2.2.1 and above. Loading the map on previous or later versions will break several features related to the extensive datapack, breaking almost all of the custom gameplay features such as weapon abilities, story sequences, advancements, music, and more.
+
 ### Should I Play Drehmal With Others or Alone?
 
 People often ask whether they should play this map on their own or with others. As is the case with many of these questions, it depends! There is not truly an official recommendation, although the map has been designed to be fully compatible with multiplayer, up to 8 people at once. Note: this limit does not mean that more than 8 people cannot play on a Drehmal server, but rather, it simply means that some story locations are not designed for more than 8 players at a time.
@@ -76,7 +80,7 @@ Are you stuck on an infinite Mojang loading screen, particularly when you try to
 
 This second version of the resource pack decreases the resolution and file size of the title screen panorama, among other small atlas changes, which can cause this infinite loading screen issue.
 
-### I Can't See Custom Item Names, How Do I See That?
+### I Can't See Custom Item Names.
 
 Ensure that the resource pack is properly downloaded, and that your in-game language is set to either **English (US)** or **English (UK)**. The game only recognizes the file which replaces mob, item, and block names with their Drehmal equivalents if the language is set to one of these two options.
 
@@ -88,8 +92,16 @@ We strongly recommend that all first-time players go to the current version of D
 
 Of course, you may run Drehmal on a server for the purpose of running a multiplayer playthrough. However, some people also wish to use Drehmal as a map for their own RPG-style public servers, which requires more setup and explicit permission from the developers. Generally, the creators of Drehmal permit people to use the map on servers, with some specific limitations: the map may not be monetized by you in any way, meaning that any servers with pay-to-win mechanics are not allowed to use the Drehmal map. Furthermore, the creators of the map must be properly credited.
 
-!!! danger "These guidelines have been written by a wiki editor, not a developer or creator of the Drehmal map."
+!!! warning "These guidelines have been written by a wiki editor, not a developer or creator of the Drehmal map."
     If you would like to use Drehmal for your server, then the best course of action is simply to ask the creators directly in the Discord, with details on how you would specifically plan to do so. Permission may change on a case-by-case basis.
+
+### Can I Get Drehmal's Terrain Without all the Custom Features?
+
+Some players, particularly server owners, want to use Drehmal for its terrain but wish to remove its additional gameplay features, such as legendary and mythical weapons, and ignore its story. While we strongly recommend just playing the map as intended with minimal additions or removals, this question is still asked somewhat frequently.
+
+Fundamentally, if you just want a cool terrain map, you are probably better off not using Drehmal at all. Removing any of the custom features would require making significant alterations to the datapack on your own, as the team is not interested in releasing a version of the map without its full content.
+
+If you really want the terrain itself, perhaps look into earlier versions such as [[Drehmal v2|version 2.0]], which has almost all of the modern terrain but is a more bare-bones story. Unless you know how to automate such a process through your own coding knowledge, there is no simple way to just remove the custom content from Drehmal.
 
 ## Wiki Content
 

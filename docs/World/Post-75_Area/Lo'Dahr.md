@@ -66,4 +66,8 @@ Six mysterious gate-like structures with infused amethyst floors (typically acco
         | [[Faehrcyle]] <br> **(3538, 88, -4052)** | [[Lai's Domain#Gateway Temple|Lai's Domain]] <br> **(969, 129, -949)** | Can be opened from either side. |
         | [[Spearhead Forest]] <br> **(3102, 108, 383)** | [[Vayniklah's Domain#Gateway Cavern|Vayniklah's Domain]] <br> **(-329, 92, -1089)** | Can only be opened from overworld side. Only non-conventional portal, which has an infused amethyst block inside of a hollowed-out stump, rather than in a quartz gateway. |
 
+## Extras
+
+!!! tip "Looking for more general info on the lore of Lo'Dahr from a spoiler-free perspective, including references to the moon found in the overworld? See the [[LD|other Lo'Dahr page]]."
+
 [^1]: These meteors are one of the primary reasons why render and simulation distance should be the same when playing Drehmal. Meteors appear based on render distance, but can only move when inside a player's simulation distance. Therefore, a higher render distance than sim distance can result in meteors appearing at the edge of a player's view, but becoming stuck, making a very persistent loud noise and only moving if approached.

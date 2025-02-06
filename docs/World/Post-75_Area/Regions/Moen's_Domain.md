@@ -40,7 +40,7 @@ Rabbits spawn throughout the biome, including special blue variants with the nam
 
 Moen's Domain's history is closely intertwined with the history of its lone city, Naharja. Naharja has long acted as the capital of [[Tehrmari]] civilization, and particularly, the home of the La'Tehrmari, the upper class of fully ascended Tehrmari who work and live directly with the [Aspects](/Lore/Higher_Beings/Aspects/). 
 
-One of the most significant factions in Tehrmari history, the [[Roheian Empire]], was born out of two groups who were ousted from Naharja after engaging in bloody battles in the city's streets.
+One of the most significant factions in Tehrmari history, the [[Rohei|Roheian Empire]], was born out of two groups who were ousted from Naharja after engaging in bloody battles in the city's streets.
 
 Modern Naharja has a less strict hierarchy in place, with Ro'Tehrmari heavily outnumbering the ascended La'Tehrmari in the city.
 

@@ -97,7 +97,7 @@ The New Drabyel Runic Blacksmith is located just outside of a building in the ce
 
 |          | Lore and Cost                                                 |
 | -------- | ------------------------------------------------------------- |
-| **Lore** | An axe used by those who guarded the Primal caverns long ago. |
+| **Lore** | An axe used by those who guarded the Primal Caverns long ago. |
 | **Cost** | Iron Axe <br>16 Scales                                        |
 
 **Shield of Neutrality:**

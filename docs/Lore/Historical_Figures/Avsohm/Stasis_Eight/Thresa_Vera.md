@@ -4,11 +4,16 @@
 
 Thresa is one of the members of the Stasis Eight, the eight characters that players can spawn as. Thresa is located in Pod 1.
 
-## Appearance
+## Description
+
+A character description for Thresa from official promotion posts reads as follows:
+
+> Thresa Vera, Avsohm’s Chief Science Officer, is a somewhat stoic, but highly intelligent, observant, and efficient woman. Despite her impassive demeanor she is quite-well liked for her organization skills and leadership qualities. Thresa had a collection of potted plants.
 
 ![[thresa_ref.png]]
+> Thresa's official reference art.
 
-According to her official reference art above, Thresa stands at approximately 5 feet, 8 inches tall. She has a very pale complexion and light blonde hair, which gradually fades to black. She has a relatively long face and pronounced, sharp features. She wears a pendant bearing the Avsohmic [[Torahn]], and has golden rings at the end of her black horns.
+According to her official reference art above, Thresa stands at approximately 5 feet, 8 inches tall (~173 cm). She has a very pale complexion and light blonde hair, which gradually fades to black. She has a relatively long face and pronounced, sharp features. She wears a pendant bearing the Avsohmic [[Torahn]], and has golden rings at the end of her black horns.
 
 ## History
 
@@ -41,7 +46,7 @@ There are at least 24 references to Thresa in the map, the most of any Stasis 8 
 - [[Researcher Cehva's Side Project]] - Mention. <br>
 - [[Researcher Noam's Rant]] - Mention. <br>
 - [[Safety Precautions]] - Off-hand mention. <br>
-- [[Sahndi's Diary]] - References her activity at Sal'Mevir, discussing temporal stasis and the Apotheosis Project. <br>
+- [[Sahndi's Diary]] - Account of a conversation between her and Vehmil, discussing temporal stasis and the Apotheosis Project. <br>
 - [[Vehmil's Reflections]] - Referenced by Vehmil.
 
 **Holotexts:**
@@ -61,11 +66,7 @@ There are at least 24 references to Thresa in the map, the most of any Stasis 8 
 
 ## Extras
 
-A character description for Thresa from official promotion posts reads as follows:
-
-> Thresa Vera, Avsohm’s Chief Science Officer, is a somewhat stoic, but highly intelligent, observant, and efficient woman. Despite her impassive demeanor she is quite-well liked for her organization skills and leadership qualities. Thresa had a collection of potted plants.
-
-This note about potted plants lines up with the fact that the [[admin_departure.md|Thresa's Departure]] holotext in the [[Admin Wing]] is found in a room with potted plants. It is likely that this was Thresa's office during the empire's reign.
+The note about potted plants from Thresa's character promotion lines up with the fact that the [[admin_departure.md|Thresa's Departure]] holotext in the [[Admin Wing]] is found in a room with potted plants. It is likely that this was Thresa's office during the empire's reign.
 
 ### Minecraft Skin
 

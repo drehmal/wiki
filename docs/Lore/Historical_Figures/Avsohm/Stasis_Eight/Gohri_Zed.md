@@ -1,14 +1,19 @@
 # Gohri Zed
 
-**Gohri Zed**, originally Gorui Zed, is a [[Veruhkt Plateau|Veruhktian]]-born programmer who worked for the [[Avsohm|Avsohmic Empire]] during its reign, working on the [[avSYS]] project. She was in a relationship with [[Thresa Vera]], and was close friends with [[Baen Vehmil]].
+**Gohri Zed**, originally Gorui, is a [[Veruhkt Plateau|Veruhktian]]-born programmer who worked for the [[Avsohm|Avsohmic Empire]] during its reign, working on the [[avSYS]] project. She was in a relationship with [[Thresa Vera]], and was close friends with [[Baen Vehmil]].
 
 Gohri is one of the members of the Stasis Eight, the eight characters that players can spawn as. She is located in Pod 2.
 
-## Appearance
+## Description 
+
+A character description for Gohri from official promotion posts reads as follows:
+
+> Gohri Zed was one of the lead programmers for avSYS. She has powerful intuition and a passionate personality. Though not the hardest worker, she elevates her teammates and always brings good ideas to the table. Gohri indulges in blacksmithing as a hobby.
 
 ![[gohri_ref.png]]
+> Gohri's official reference art.
 
-Gohri is relatively short and stout, standing at only 5'2" according to her official reference art above. She has short orange hair and short, light brown horns. She wears a rainbow-colored bead bracelet.
+Gohri is relatively short and stout, standing at only 5'2" (~157.5 cm). She has short orange hair and short, light brown horns. She wears a rainbow-colored bead bracelet.
 
 ## History
 
@@ -38,13 +43,9 @@ There are at least 11 references to Gohri in the map.
 - [[stasis_smoke.md|Gohri's Safety Design]] - Stasis Facility (Author) <br>
 - [[avsal_door.md|Gohri's Safety Concerns]] - [[Av'Sal]] (Author) <br>
 - [[salmevir_stasis.md|Thresa's Collaboration]] - [[Sal'Mevir]] (Mention) <br>
-- [[admin_departure.md|Thresa's Departure]] - Admin Wing (Mention)
+- [[admin_departure.md|Thresa's Departure]] - [[Admin Wing]] (Mention)
 
 ## Extras
-
-A character description for Thresa from official promotion posts reads as follows:
-
-> Gohri Zed was one of the lead programmers for avSYS. She has powerful intuition and a passionate personality. Though not the hardest worker, she elevates her teammates and always brings good ideas to the table. Gohri indulges in blacksmithing as a hobby.
 
 ### Minecraft Skin
 

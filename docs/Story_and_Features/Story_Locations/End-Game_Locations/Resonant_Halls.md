@@ -76,6 +76,8 @@ The staircase takes the player to a set of three iron doors, all of which open u
 
 At the top of the staircase, the player can access some non-gameplay-important rooms, such as a library, but will eventually come to a large hole, dropping down into a massive, water-filled chamber with large pipes. In this section, the third major area, the player will be given the Blindness effect, and they must navigate between small pockets of air surrounded by glass bubbles, while also avoiding swimming Hole Remnants. This area can be quite difficult to navigate at times, but the exit is found in the third distinct segment of this area, which is much more tightly packed with pipes than the other two.
 
+In version 2.2.1, this area is much more difficult to navigate due to changes made to the Blindness effect made between Minecraft 1.17.1 and 1.20.1. This makes the visibility in this underwater section much lower than intended, and was reverted in version 2.2.2.
+
 ??? question "Example Route"
     The submerged area can be navigated as such: <br>
     ![[halls_map3.png]]

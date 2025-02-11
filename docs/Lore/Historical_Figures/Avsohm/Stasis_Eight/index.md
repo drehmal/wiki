@@ -19,11 +19,3 @@ The **Stasis Eight** are a group of eight [[Avsohm|Avsohmic]] [[Drehmari]] who a
 - **Pod 7:** [[Zevve Kai]]
 
 - **Pod 8:** [[Ekari]]
-
-
-
-
-
-
-
-

@@ -8,7 +8,7 @@ Thresa is one of the members of the Stasis Eight, the eight characters that play
 
 ![[thresa_ref.png]]
 
-According to her official reference art above, Thresa stands at approximately 5 feet, 8 inches tall. She has a very pale complexion and light blonde hair, which gradually fades to black. She has a relatively long face and pronounced, sharp features.
+According to her official reference art above, Thresa stands at approximately 5 feet, 8 inches tall. She has a very pale complexion and light blonde hair, which gradually fades to black. She has a relatively long face and pronounced, sharp features. She wears a pendant bearing the Avsohmic [[Torahn]], and has golden rings at the end of her black horns.
 
 ## History
 
@@ -49,14 +49,14 @@ There are at least 24 references to Thresa in the map, the most of any Stasis 8 
 - [[stasis_emergency.md|Emergency Comms Transcript]] - [[Stasis Facility]] (Mention/Feature) <br>
 - [[salmevir_stasis.md|Thresa's Collaboration]] - [[Sal'Mevir]] (Author) <br>
 - [[exodus_meeting.md|Meeting Excerpt]] - [[Exodus Vault]] (Mention) <br>
-- [[admin_contact.md|Thought from Viil]] - [[Admin Wing]] (Mention)
-- [[admin_departure.md|Thresa's Departure]] - Admin Wing (Author)
-- [[final_core_mythbreaker.md|Mythbreaker Integration]] - [[Numencore]] (Mention)
-- [[eye_emergency.md|EMERGENCY LOG]] - [[Resonant Halls]] (Mention)
-- [[eye_log5.md|RESEARCH LOG #5]] - Resonant Halls (Author)
-- [[eye_log6.md|RESEARCH LOG #6]] - Resonant Halls (Author)
-- [[eye_log7.md|RESEARCH LOG #7]] - Resonant Halls (Author)
-- [[eye_log9.md|RESEARCH LOG #9]] - Resonant Halls (Author)
+- [[admin_contact.md|Thought from Viil]] - [[Admin Wing]] (Mention) <br>
+- [[admin_departure.md|Thresa's Departure]] - Admin Wing (Author) <br>
+- [[final_core_mythbreaker.md|Mythbreaker Integration]] - [[Numencore]] (Mention) <br>
+- [[eye_emergency.md|EMERGENCY LOG]] - [[Resonant Halls]] (Mention) <br>
+- [[eye_log5.md|RESEARCH LOG #5]] - Resonant Halls (Author) <br>
+- [[eye_log6.md|RESEARCH LOG #6]] - Resonant Halls (Author) <br>
+- [[eye_log7.md|RESEARCH LOG #7]] - Resonant Halls (Author) <br>
+- [[eye_log9.md|RESEARCH LOG #9]] - Resonant Halls (Author) <br>
 - [[eye_log10.md|RESEARCH LOG #10]] - Resonant Halls (Author)
 
 ## Extras

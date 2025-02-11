@@ -60,7 +60,7 @@ There are at least 23[^1] references to Orix in the map, the second-most among m
 
 ## Extras
 
-Orix is usually referred to with the title of Chief Observer, but is sometimes also referred to with the acronym "C.O.O." This full acronym is never written out in-game.
+Orix is usually referred to with the title of Chief Observer, but is sometimes also referred to with the acronym "C.O.O." This full acronym is never written out in-game, but is presumed to stand for "Chief Observation Officer".
 
 ### Minecraft Skin
 

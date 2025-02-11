@@ -31,11 +31,11 @@ Thresa would spend the rest of the empire's lifespan as a researcher at the DoS,
 
 There are at least 24 references to Thresa in the map, the most of any Stasis 8 member.
 
-**Artifacts:**
+**Artifacts (1):**
 
 - [[Artifacts#Goh's Plate|Goh's Plate]]: A chestplate gifted to Gohri by Thresa, found in [[Fortahn]].
 
-**Books:**
+**Books (11):**
 
 - [[Stasis Subject Roster]] - Mentioned as one of the officers in stasis. <br>
 - [[A Retrospective]] - Thresa's own account of her early life, found at [[Caer Adacia]]. <br>
@@ -49,7 +49,7 @@ There are at least 24 references to Thresa in the map, the most of any Stasis 8 
 - [[Sahndi's Diary]] - Account of a conversation between her and Vehmil, discussing temporal stasis and the Apotheosis Project. <br>
 - [[Vehmil's Reflections]] - Referenced by Vehmil.
 
-**Holotexts:**
+**Holotexts (12):**
 
 - [[stasis_emergency.md|Emergency Comms Transcript]] - [[Stasis Facility]] (Mention/Feature) <br>
 - [[salmevir_stasis.md|Thresa's Collaboration]] - [[Sal'Mevir]] (Author) <br>

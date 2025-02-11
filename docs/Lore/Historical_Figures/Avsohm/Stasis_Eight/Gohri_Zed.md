@@ -25,11 +25,11 @@ However, Gohri became highly invested in her new life, forming close relationshi
 
 There are at least 11 references to Gohri in the map.
 
-**Artifacts:**
+**Artifacts (1):**
 
 - [[Artifacts#Goh's Plate|Goh's Plate]]: A chestplate gifted to Gohri by Thresa, found in [[Fortahn]].
 
-**Books:**
+**Books (5):**
 
 - [[Stasis Subject Roster]] - Mentioned as one of the officers in stasis. <br>
 - [[A Retrospective]] - Thresa's account of her early life, found at [[Caer Adacia]]. Thresa's relationship with Gohri is a central part of this memoir. <br>
@@ -37,7 +37,7 @@ There are at least 11 references to Gohri in the map.
 - [[Letter from Gohri]] - Authored by Gohri and sent to Thresa. <br>
 - [[Vehmil's Reflections]] - Referenced by Vehmil.
 
-**Holotexts:**
+**Holotexts (5):**
 
 - [[stasis_emergency.md|Emergency Comms Transcript]] - [[Stasis Facility]] (Mention/Feature) <br>
 - [[stasis_smoke.md|Gohri's Safety Design]] - Stasis Facility (Author) <br>

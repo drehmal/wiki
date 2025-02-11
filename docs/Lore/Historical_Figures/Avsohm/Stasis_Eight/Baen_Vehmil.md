@@ -27,7 +27,7 @@ Vehmil came to strongly dislike Anyr as he worked with the Emperor more closely,
 
 There are at least 12 references to Vehmil in the map.
 
-**Books:**
+**Books (8):**
 
 - [[Stasis Subject Roster]] - Mentioned as one of the officers in stasis. <br>
 - [[A Retrospective]] - Thresa's account of her early life, found at [[Caer Adacia]]. Expands on Vehmil's characterization, and gives the earliest known account of him at Av'Sal University. <br>
@@ -38,7 +38,7 @@ There are at least 12 references to Vehmil in the map.
 - [[Sahndi's Diary]] - Account of a conversation between him and Thresa, discussing temporal stasis and the Apotheosis Project. <br>
 - [[Vehmil's Reflections]] - The only book in the map authored by Vehmil, it paints a picture of where he was in life toward the end of the empire, and establishes his feelings on other Avsohmic figures. 
 
-**Holotexts:**
+**Holotexts (4):**
 
 - [[stasis_emergency.md|Emergency Comms Transcript]] - [[Stasis Facility]] (Mention/Feature) <br>
 - [[salmevir_pearl.md|The Primal Walkers]] - [[Sal'Mevir]] (Mention) <br>

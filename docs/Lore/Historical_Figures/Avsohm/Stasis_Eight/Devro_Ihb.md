@@ -25,11 +25,13 @@ Some time after settling down in [[Port Solitude]] following his career as a sai
 
 ## In-Map References
 
-**Artifacts:**
+There are at least 9 text references to Devro Ihb in the map.
+
+**Artifacts (1):**
 
 - [[Artifacts#Sea Legs|Sea Legs]]: Captain Ihb's old pants, found at his home in [[Kazzani]].
 
-**Books:**
+**Books (7):**
 
 - [[Stasis Subject Roster]] - Mentioned as one of the officers in stasis. <br>
 - [[Diary of Devro Ihb]] - Written by Ihb, found in [[Port Solitude]]. <br>
@@ -39,7 +41,7 @@ Some time after settling down in [[Port Solitude]] following his career as a sai
 - [[Travels of Captain Ihb, Volume II]] - Found in [[Elvett]], the second of Ihb's three-part novel series. <br>
 - [[Travels of Captain Ihb, Volume III]] - Found in a treehouse in the [[Black Jungle]], the last of Ihb's three-part novel series.
 
-**Holotexts:**
+**Holotexts (1):**
 
 - [[depot_pilot.md|Ace Pilot Ihb's Experience]] (Author)
 

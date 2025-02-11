@@ -1,8 +1,8 @@
 # Baen Vehmil
 
-**Baen Vehmil**, typically known only by his last name, was a Senior Researcher in the [[Avsohm|Avsohmic]] [[Avsohm#Department of Science|DoS]], and is the third member of the Stasis Eight. He was close friends with [[Thresa Vera]] and [[Gohri Zed]]. 
+**Baen Vehmil**, typically known only by his last name, was a Senior Researcher in the [[Avsohm|Avsohmic]] [[Avsohm#Department of Science|DoS]]. He was close friends with [[Thresa Vera]] and [[Gohri Zed]]. 
 
-Vehmil is one of the members of the Stasis Eight, the eight characters that players can spawn as. He is located in Pod 3.
+Vehmil is one of the members of the Stasis Eight, the eight characters that players can spawn as. He was located in Pod 3.
 
 ## Description
 
@@ -13,7 +13,7 @@ A character description for Vehmil from official promotion posts reads as follow
 ![[vehmil_ref.png]]
 > Vehmil's official reference art.
 
-Vehmil stands about 5'7" (~170 cm) tall. He has an olive complexion and brown hair, with thick, curved black horns. He has runic tattoos on his right forearm.
+Vehmil stands about 5'7" (~170 cm) tall. He has an olive complexion and brown hair, with thick, curved black horns. He has a runic tattoo on his right forearm.
 
 ## History
 

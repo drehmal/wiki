@@ -2,7 +2,7 @@
 
 **Thresa Vera** (pronounced "thress-uh vair-uh") was one of the highest-ranking officers in [[Avsohm]], being the acting Chief Science Officer (CSO) of the [[Avsohm#Department of Science|DoS]] at the time of the [[Fall of Avsohm|empire's fall]]. She was in a relationship with [[Gohri Zed]], and was close friends with [[Baen Vehmil]].
 
-Thresa is one of the members of the Stasis Eight, the eight characters that players can spawn as. Thresa is located in Pod 1.
+Thresa is one of the members of the Stasis Eight, the eight characters that players can spawn as. She was located in Pod 1.
 
 ## Description
 

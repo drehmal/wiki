@@ -2,7 +2,7 @@
 
 **Gohri Zed**, originally Gorui, is a [[Veruhkt Plateau|Veruhktian]]-born programmer who worked for the [[Avsohm|Avsohmic Empire]] during its reign, working on the [[avSYS]] project. She was in a relationship with [[Thresa Vera]], and was close friends with [[Baen Vehmil]].
 
-Gohri is one of the members of the Stasis Eight, the eight characters that players can spawn as. She is located in Pod 2.
+Gohri is one of the members of the Stasis Eight, the eight characters that players can spawn as. She was located in Pod 2.
 
 ## Description 
 

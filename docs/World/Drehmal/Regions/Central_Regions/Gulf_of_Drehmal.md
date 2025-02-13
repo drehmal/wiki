@@ -43,12 +43,12 @@ The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is i
 
 ### Ruins of Drahbes
 
-Drahbes was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilization that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region, bordering on the [[Akhlo'Rohma]] and [[Purity Peaks]] regions. Outside of the ruins is a small settlement with houses of grass and wood.
+[[Drahbes]] was the greatest city state of the many that populated Dreh'Noha in the early Second Avihm. It was this civilization that gave way to the Chosen Kingdom and ultimately the Empire of Avsohm. Today, the ruins of their immense, walled city and large royal ziggurat, all built from brick, granite and concrete, remain on the eastern edge of the region, bordering on the [[Akhlo'Rohma]] and [[Purity Peaks]] regions. Outside of the ruins is a small settlement with houses of grass and wood.
 
 **Coordinates:** (X: 1583, Y: 65, Z: -377)
 
 ### Ruins of Fortahn
 
-Fortahn was a major Avsohmic-era city that sat along a river delta feeding into the Gulf of Drehmal. The city was destroyed by the forces that caused the Fall of Avsohm, and despite an attempt to hide and barricade everyone, its people were massacred. The sprawling stone-brick-and-quartz ruins are still visible today.
+[[Fortahn]] was a major Avsohmic-era city that sat along a river delta feeding into the Gulf of Drehmal. The city was destroyed by the forces that caused the Fall of Avsohm, and despite an attempt to hide and barricade everyone, its people were massacred. The sprawling stone-brick-and-quartz ruins are still visible today.
 
 **Coordinates:** (X: 341, Y: 66, Z: -85)

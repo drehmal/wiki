@@ -155,6 +155,8 @@ Early Av3 also saw a mass exodus from Casai, with Drehmari at the edge of the we
 
 Like the rest of Casai, [[Voynahla]] worship appears to have been prevalent in Athrah, and is likely still the dominant religion among its modern inhabitants.
 
+Athrah is the oldest surviving major town/city in the realm.
+
 ## Extras
 
 ### Soundtrack

@@ -1,100 +1,89 @@
----
-tags:
-  - Locations
-  - Regions
-  - Western Regions
----
-
 # Casai
 
-![[Casai1.webp]]{ align=right width="300" }
+![[CS_landscape.png]]{ align=right width="300" }
+
+**Casai** is an arid, mostly orange-colored region in northwestern [[Overworld|Drehmal]]. It is featured prominently in the game's lore, with the region having a distinct culture that has influenced other areas beyond Casai itself.
 
 ## Geography
 
-The region features striking terrain such as icy pillars, red sand dunes, and towering rock spires. A river runs from Athrah down the middle of the region before draining into the bay between Casai and Merijool.
+Casai is located in the northwestern corner of the main continent. It borders [[Mt. Ebonfire]] to the south and [[Merijool]] to the east. The actual land border with Merijool is relatively short, with the Zephyr Sound separating the two regions from the middle of Casai's eastern edge up to the ocean in the north.
 
-Regions that border Casai include:
+The region's landscape is extremely recognizable for its abundance of red (orange) sand, which forms the vast majority of the landscape. Its southern section is covered in acacia trees and patches of grass, as well as bluffs with white-and-yellow striped cliffs. The northern section (possibly called "the Redsteps") has less vegetation, and it is home to cliffs with red, orange, yellow and brown stripes. An area in the center is scattered with stone spires of the same color pattern. A peninsula and island chain on the region's north coast completely lack red sand, with the terrain consisting instead of grass and gray stone rocks.
 
-- [[Mount Ebonfire]]
-- [[Ebony Veldt]]
-- [[Merijool]]
+**Environmental Sub-Regions:**
 
-## Notable Locations
+- Area with striped-sided bluffs, acacia trees and some grass in south <br>
+- Area with some acacia trees and red, orange, yellow and brown striped spires in center <br>
+- Plain red sand area with striped-sided bluffs and some snow, ice and acacia trees <br>
+- Mountainous peninsula and island chain with stone, grass, and spruce and oak trees in north
 
-- The village of [[Athrah]]
-- The [[Avsohmic Vault]]
-
-## In the Lore
-
-![[Casai2.webp]]{ align=right width="300" }
-
-> The Casai Peninsula, not unlike Merijool, was once a very different place. With the Frostfang Catastrophe, the hot desert morphed into a land of striking contrast; red sand topped with snow and pillars of ice. The Casain are fierce warriors with a great pride for their homeland. At the advent of the Third Avihm, they were forced to migrate East due to the threat of invasion by Maelihs. Despite many returning to the area after being recaptured from Mael by Insohm much later in the Third Avihm, the Casain people remain mostly scattered.[^1]
+The city of [[Athrah]] sits on the northern shore of Lake Athrah, in the north part of the region.
 
 ## History
 
-### Tribal Period
+Casai, like many other northern regions, originally had a different environment, being described as a "lush steppe" prior to the [[Frostfang Catastrophe]]. The Casain people first separated from the Ebohni tribe of the [[Ebony Veldt]] to the south in the early Second Avihm. They settled primarily in the region's central river valleys, which were more suitable for agriculture than the relatively infertile land that made up the rest of the region. Early Casains were known to have interacted with the Ebohni, but also the Merians (from Merijool) and the Tharhans. They began to divide into different tribes or clans, but maintained overall peace. This agricultural power and lack of conflict allowed Casain civilization to prosper, and cities were formed.
 
-In the early days after the end of the deity war, Casai was inhabited by Casian tribes, a group which was an offshoot of the Ebonhi tribes of South Casai and the Ebony Veldt. They interacted regularly with the tribes around them, mostly the Ebonhi but occasionally Merians (tribes of Merijool) and the Tharhans (tribes of modern day Tharxax and Ebony Veldt). They were relatively peaceful (especially at the tip of Casai) compared to other tribal societies at the time. Most of the tribes gathered around the central river valley (modern day Athrah River), where the perfect conditions for farming existed. The Casian society ended up as the most advanced group at the time, other than the city-states of the Central Plains.[^2]
+The warrior-king [[Athrah Zarha]] of the Zarha tribe in southern Casai sought to unite the region under one rule for the first time. In his conquests, he secured an area in the north of the region that was used to build a great new city and potential capital, [[Athrah]]. Athrah Zarha grew his domain by denying trade to non-conformers, and his kingdom eventually grew to the size where he declared the beginning of the [[Casain Empire]]. The Xorha Clan, the last resistance, killed the king in battle, and as such were banished from the region (eventually resettling on the [[Island of Dawn]] and founding [[Xor'Huul]]).
 
-### Athrah’s Conquests
+After a failed war to expand eastward into Merijool, the empire began settling the Ebony Veldt and coast of modern-day [[Anyr'Nogur]]. They then fought to gain the Tharhan lands controlled by [[Six Tharhan Kingdoms|six different kingdoms]], but were kept at bay by a third party from [[Caer Adacia]] who formed the [[Second Tharhan Empire]]. Despite their defeat, the Casain Empire retained its hold on its territory (as well as new parts of the Golden Sands), and the region entered the Casain Golden Age as the empire enjoyed peace and thriving trade with Tharhan.
 
-In Av2 1189, the City of Athrah was founded on the north shore of Lake Athrah. The city was created by a great warrior from the Zarha tribe of South Casai, Athrah Zarha. Athrah’s kingdom grew, and by using trade embargoes he pressured all of Casai to unite under him. In Av2 1255, The Casian Empire was formed.[^3]
+Casai, along with most of the West, succumbed to [[Avsohm|Avsohmic]] rule in the late Second Avihm, probably retaining status as a province of the empire. It was likely inducted through negotiation rather than conquest, as was customary for Avsohm. The Casains' traditional [[Voynahla]]-based religion was viewed with contempt by the new rulers and would eventually be outlawed. The [[Frostfang Catastrophe]] dried the region's land and made the climate colder, however the societal impact was less severe than that on other areas closer to the storm's epicenter.
 
-### The Early Casain Empire
+When the [[Dune Wars]] commenced upon [[Fall of Avsohm|Avsohm's collapse]], fear grew in Casai about an invasion from [[Maelihs]]. Casains fled en masse to other regions, most prominently [[Akhlo'Rohma]], where a large Casain community still lives despite historical and ongoing discrimination and conflict with the natives.
 
-Although all the tribal societies of Casai joined the empire, there were groups of barbarians that remained in North Casai. While attempting to subdue them, Athrah Zarha was killed in battle. One way or another these lands were secured, and by Av2 1445, Casai was ready for its first major fight.[^4]
+It is unclear whether or not Casai was ever successfully absorbed into [[Empire of Maelihs|Maelihs's empire]], but the Casain Empire was independent by the late Third Avihm and became one of the later members of the [[Insohm|Order of Insohm]]. Casai contributed to the Insohmic Coalition's efforts in the [[Battle for Drehmal]], and was likely granted new territory in doing so. 
 
-### The Zephyr War and Colonialism
+The Order broke down at the end of the Third Avihm, and Maelihs retook all his land lost to the Coalition, extending as far north as [[Ebonrun]] in the north of the Mt. Ebonfire region. The Casain Empire, although still sovereign, is now confined to only the region of Casai itself and exists under the threat of attacks from Maelihs's forces.
 
-In Av2 1445, The Casian Empire fought with West Merijool over control of the plains between the two peninsulas. This conflict was known as the Zephyr War. Despite Casai’s status as one of the most advanced societies at the time, West Merijool still handed them a disastrous defeat. They cemented control of the plains, leaving Casai to look elsewhere for fertile farmland. The only place in their vicinity not claimed by other powers was the Golden Sands (modern day Anyr’Nogur), its lush coastline, and a valley in between the desert and [[Mount Ebonfire]].[^5] Casai took advantage of the opportunity, founding a colony there in around Av2 1460.[^6] The center of this colony was likely Sal’Iloh, a spiritual city founded by Casai on the central plateau of the Golden Sands. The colonists adapted to their situation, and became a fishing society along the lush shoreline, today known as Anyr’Okahp.[^7] Various other coastal cities were founded by Casai in this time.[^8]
+## Regional Map
 
-### The Casain Golden Age
+**Map of Casai (sold by [[Adventuring Merchant]] in Athrah):**
 
-During this period, Casai grew economically and militarily, becoming a dominant power in the realm. They worked on strengthening their borders, and traded with distant nations including the [[Chosen Kingdom]] and [[Dominion of Ancehl|Ancehl]]. With this newfound power came a greed for more power. Casai saw an opportunity in the wealth-filled Ebonfire region. However, this region was already controlled by the Tharhan Empire, which had put a lot of resources into its retention. Despite this, Casai declared war on the Tharhans in Av2 1472.[^9]
+![[map_150.png]]{ width="300" }
 
-### The Ebonfire War
+## Terminus Tower
 
-Casai was at a serious disadvantage in this conflict. Transporting troops to Ebonfire was a near impossible task, and even if it was achieved the Tharhans had military camps set up in highly defensible positions. Casai would never gain anything except worthless territory in the western part of the region.[^10] Casai also took a different approach to the war: attacking the Tharhan-controlled western wall, Maehrn’Vhos.[^11] This attempt to breach the Tharhan heartlands was also fruitless, and between these campaigns Casai lost a devastating amount of troops, resources, and power. With their economy and military in ruins, a great decline began within the empire.[^12]
+![[CS_tower.png]]
+> Casai's Terminus tower.
 
-### Decline
+Casai's [[Terminus Network#Towers|Terminus tower]] is relatively short, sitting on a bluff in the region's north. Most of the spire is frozen in a large, conical chunk of ice. No hostile enemies are present.
 
-With so many problems in the Empire, the government had to shift its focus mostly onto the people on the peninsula itself. The people in the Golden Sands colony became disconnected, and in Av2 1534, they fought a civil war against the Casian homeland. They succeeded, and formed the Golden Kingdom.[^13] Over time, the Avsohmic Empire grew in power, eventually landing at the doorstep of Casai after Merijool’s integration.[^14] The circumstances of Casai’s integration is not known, but it is likely that they willingly joined Avsohm to save their declining society, similar to how their southern neighbor, the Tharhan Empire, did.[^15]
+**Coordinates:** (X: -2777, Y: 144, Z: -1324)
 
-### Under Avsohm
+## Points of Interest
 
-Under Avsohm, Casai prospered economically. A large teleportation pier was built in Athrah, allowing traders from across the realm to reach the city. The Frostfang Catastrophe of Av2 1646 turned the hot desert of Casai into a cold desert, with red sand topped by ice. The Central Valley remained relatively warm, however. Not much anti-Avsohmic sentiment was known to be created by the disaster, unlike in neighboring Merijool.[^16] In Av2 1724, a vault was built on an island, Ortethi’s Rest, off Casai’s west coast.[^17] Forbidden Avsohmic knowledge was stored in this vault, which could only be accessed by high ranking Avsohmic officials and high ranking officials from the three Avsohmic partner corporations.[^18] This time of prosperity would come to a crashing halt in Av2 1820, when Avsohm fell.
+### Athrah
 
-### The Great Casain Migration
+[[Athrah]] is a city in northern Casai, positioned on the northern edge of the region's large red sand desert and on the north coast of Lake Athrah. It contains an old town, a slum, and a market, and the buildings have unique architecture that mostly uses acacia wood, red sandstone, and brown terracotta. The city has served as the capital city of the Casain Empire ever since its founding thousands of years ago.
 
-Although resistance fighters held back for a while, by Av3 21 their stronghold at Caer Adacia fell, and the first of the Dune Wars ended. Maelihs’ army was making a rapid advance toward Casai, and in response local leaders ordered a full evacuation of the peninsula, which had already begun with the fall of Avsohm. Most, if not all people left Casai, spreading out over all of Drehmal (most ended up in Akhlo’Rohma or the Spearhead Forest). The peninsula would not be repopulated for several centuries.
+**Coordinates:** (X: -2721, Y: 66, Z: -1778)
 
-### Repopulation
+### Avsohmic Vault
 
-Not much is known about Casai after this time period, however it is known that at some point in the Third Avhim after Av3 655 and before Av3 847 the West was reconquered by the Order of Insohm. At that point, a large number of Casains moved back to their homeland. Despite this, many remained in the East, leaving multiple cities in Casai such as Zarha permanently abandoned.
+On a small island off the region's west coast is [[Avsohmic Vault|an Avsohmic vault]]. It was once one of many that were commissioned by [[Ifeihl|Emperor Ifeihl]] to store sensitive information pertaining to operations at [[Mt. Yavhlix]]. It was rediscovered by the [[Insohm|Order of Insohm]], and efforts were made to open it in hopes of revealing long-lost knowledge that would empower the Order. The door was successfully opened, and [[Ultva|Master Ultva]] searched the information inside. He was supposedly affected mentally by something he read, driving him to lock himself inside, never to be seen again. [[Vahid|Master Vahid]] quickly discontinued the operation, and abandoned Insohmic construction and equipment can still be found at the vault's entrance. The [[Ultva's Bowblade]] legendary is found here.
 
-### Modern Day
+**Coordinates:** (X: -3618, Y: 82, Z: -1200)
 
-Today, Casai is a shell of the magnificent empire it once was. It is poor compared to other regions and is missing many former inhabitants. Athrah’s teleportation pier lies defunct, and Casai doesn’t get much trade. Despite this, they seem to be rebuilding the society they once had. Most importantly they remain united and proud - a tradition that dates all they way back to Athrah Zarha.
+### Perishing Well
 
+The [[Perishing Well]] is a dark and empty shrine to Voynahla inside of a stone spire in the region's west, led into by a broken red sandstone bridge. It seems to have been in use since ancient times, as it was the site where the emperor of Casai received the prophecy that prompted the Tharhan War of Unification. The temple holds Voynahla's [[Devotion|devotion]] altar.
 
-<!--Footnotes-->
+**Coordinates:** (X: -3137, Y: 97, Z: -1015)
 
-[^1]: https://docs.google.com/document/d/1DTHkp2cgMyqNtAEpwHSMpE9_vZ1xycq-GQltz9kNBh0/edit
-[^2]: [[Origins of the Casain (book)]]
-[^3]: [[The Casain Empire (book)]]
-[^4]: [[The Casain Empire (book)]]
-[^5]: [[The Casain Empire (book)]]
-[^6]: "and the Casai colonization didn't begin til 1460" -Keeko100     8/25/20
-[^7]:[[The Casain Empire (book)]]
-[^8]: Evidence of ruins along the shoreline
-[^9]: [[The Casain Empire (book)]]
-[^10]: [[The Casain Empire (book)]]
-[^11]: [[Tale of Maerhn'Vhos (book)]]
-[^12]: [[The Casain Empire (book)]]
-[^13]: [[The Casain Empire (book)]]
-[^14]: "and Casai/Merijool were both in Avsohm" -Keeko100 08/10/2020
-[^15]: "Tharhan did definitely join willingly as they were struggling to expand and satisfy their population's needs, so control wasn't reaaally necessary" -Keeko100 8/27/2020
-[^16]: https://docs.google.com/document/d/1DTHkp2cgMyqNtAEpwHSMpE9_vZ1xycq-GQltz9kNBh0/edit
-[^17]: [[The White Vault (book)]]
-[^18]: [[Av2 1724 - Creation of the Vaults (book)]]
+### Ruins of Sal'Lohd
 
+The ruins of the former port town of Sal'Lohd sit on the east coast of Casai, along the Zephyr Sound. It was once an important location for Casain commerce, partly due to strict trade laws, and its markets were patrolled by the Lohdan Port Authority. The [[Artifacts#Inspector's Sidearm|Inspector's Sidearm]] artifact is found here.
+
+**Coordinates:** (X: -2384, Y: 66, Z: -1118)
+
+### Ruins of Zarha
+
+Zarha was a city in southern Casai that was home to the Zarha tribe, from which Athrah Zarha came. One other Zarha chieftain is known; Kazabar, who had a deep love for art and died by "consuming the toxic pigments within a particularly vibrant oil painting". The [[Artifacts#Foot Easels|Foot Easels]] artifact and a [[Fervor Stones#Stone of Luxury|Stone of Luxury]] are found here.
+
+**Coordinates:** (X: -3030, Y: 65, Z: -760)
+
+## Extras
+
+![[grubby.png]]
+
+When viewed on a map, the above landform in Casai's western mountain range looks something like a smiley face, somewhat reminiscent of a donkey. Per co-creator Keeko100, this face may be called either "Grubby" or "Schlubby".

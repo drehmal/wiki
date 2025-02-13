@@ -8,7 +8,8 @@
 
 Akhlo'Rohma stretches from the east coast of the Gulf of Drehmal to the western edge of the Veruhkt Plateau. A mountain range divides the region from [[Faehrcyle]] to the north, and the Nahynaga Mountains separate it from [[Grand Pike Canyon]] to the southeast. The region also borders [[Veruhkt Plateau]] to the east, [[Purity Peaks]] to the south and the [[Gulf of Drehmal]] region to the southwest.
 
-Akhlo'Rohma is made up of mostly flat grassland with some large terracotta hills, but the region is most recognizable by the fact that it is densely populated with gigantic flowers. Based on the type of flowers present, the region can be split into three distinct horizontal segments: <br>
+Akhlo'Rohma is made up of mostly flat grassland with some large terracotta hills, but the region is most recognizable by the fact that it is densely populated with gigantic flowers. Based on the type of flowers present, the region can be split into three distinct horizontal segments: 
+
 - North: The northern segment includes all Akhlo'Rohman land north of the Resting River (a large river flowing from Veruhkt Plateau in the east out into the Gulf of Drehmal to the west). The flowers here are all almost entirely white, and the land is significantly hillier than it is in the southern portion of the region. <br>
 - Central: The flowers of the central segment consist of a pink, red and gold color pallette. This area consists generally of flatter grassland, with some rolling hills. <br>
 - South: The southern segment has flowers that are primarily purple and blue, but also have red, pink and gold/yellow features. <br>
@@ -33,7 +34,7 @@ Today, Akhlo'Rohma is among the most populated regions in Drehmal. [[Virtuo]] is
 
 **Map of Akhlo'Rohma (sold by [[Adventuring Merchant]] in [[Dusps]]):**
 
-![[map_112.png]]{ width="256" }
+![[map_112.png]]{ width="300" }
 
 ## Terminus Tower
 
@@ -78,7 +79,7 @@ The [[Rehntite Cave]] is a vast, open cavern within the mountains to the northwe
 
 ### Ruins of Azaim
 
-Azaim was a city in north Akhlo'Rohma that was settled by Casain migrants. It was destroyed in Gendrik's Incursion, leaving behind ruins.
+[[Azaim]] was a city in north Akhlo'Rohma that was settled by Casain migrants. It was destroyed in Gendrik's Incursion, leaving behind ruins.
 
 **Coordinates:** (X: 2738, Y: 122, Z: -1960)
 

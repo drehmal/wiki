@@ -7,7 +7,7 @@ The sprawling, vibrant, and hand-designed realm of Drehmal is one of its largest
 ## Wiki Organization
 The main explorable area of Drehmal: Apotheosis is Drehmal, the main 12,000 by 12,000 block continent where the player finds themselves at the beginning of the story and spends the vast majority of their time. In the [Drehmal](/World/Drehmal/) section, you can find a page dedicated to [[Overworld|the location of Drehmal itself]], as well as three folders: Regions, Points of Interest, and Settlements.
 
-### Regions (Partially Under Construction)
+### Regions
 [Regions](/World/Drehmal/Regions/) is where you should start if you're just looking for some help in thoroughly exploring Drehmal's vast open world. There are 31 distinct regions in Drehmal, each with their own distinct terrain features and several unique points of interest. 
 
 Divided into Central, Western, Eastern, and Outer groups, the region pages each contain a description of that region's terrain, what we know about its history within the broader scope of Drehmal, a description of its [[Terminus Network#Towers|Terminus tower]], if applicable, and a full list of major POIs in that region, with coordinates for all locations given. 

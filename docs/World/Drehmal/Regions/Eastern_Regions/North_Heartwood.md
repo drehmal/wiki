@@ -29,7 +29,7 @@ After the [[Fall of Avsohm|fall of Avsohm]], the Gozaki Union and other kingdoms
 
 **Map of the North Heartwood (sold by [[Adventuring Merchant]] in [[Gozak]]):**
 
-![[map_1003.png]]{ width="256" }
+![[map_1003.png]]{ width="300" }
 
 ## Terminus Tower
 
@@ -68,13 +68,13 @@ Rhaverik Inn & Trading Post is located on the road outside the former town of Rh
 
 ### Ruins of Kazzani
 
-Kazzani was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely destroyed by Skullbeasts during [[Maelihs]]'s desolation of the [[South Heartwood]].
+[[Kazzani]] was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely destroyed by Skullbeasts during [[Maelihs]]'s desolation of the [[South Heartwood]].
 
 **Coordinates:** (X: 1797, Y: 97, Z: 3252)
 
 ### Ruins of Rhaverik
 
-Rhaverik was a town situated by a lake in the northwestern portion of the North Heartwood. After the "Hovadchear Vein" and "Coalition Seam" (underground rehntite deposits) were discovered beneath the town, Master Ultva of Insohm commissioned a large mine here to supply the Order. The intense excavation caused tunnels to collapse, creating sinkholes on the surface that destroyed buildings, and resulting in tens of casualties. Most of Rhaverik's population fled after this incident, and eventually it was rendered completely deserted, except for one lone resident.
+[[Rhaverik]] was a town situated by a lake in the northwestern portion of the North Heartwood. After the "Hovadchear Vein" and "Coalition Seam" (underground rehntite deposits) were discovered beneath the town, Master Ultva of Insohm commissioned a large mine here to supply the Order. The intense excavation caused tunnels to collapse, creating sinkholes on the surface that destroyed buildings, and resulting in tens of casualties. Most of Rhaverik's population fled after this incident, and eventually it was rendered completely deserted, except for one lone resident.
 
 **Coordinates:** (X: 1078, Y: 63, Z: 2124)
 

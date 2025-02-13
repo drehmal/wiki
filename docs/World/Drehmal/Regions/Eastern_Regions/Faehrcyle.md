@@ -42,12 +42,12 @@ Faehrcyle's [[Terminus Network#Towers|Terminus tower]] is located in the region'
 
 ### Homli Tahsgan's Grave
 
-The burial site of Homli Tahsgan is in a pit in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers", named Stray mobs. The [[Frostfang]] legendary weapon can be found here.
+The [[Grave of Frost|burial site]] of Homli Tahsgan is in a pit in southern Faehrcyle, surrounded by a circular fortified wall and guarded by "Frostfang Gravewatchers", named Stray mobs. The [[Frostfang]] legendary weapon can be found here.
 
 **Coordinates:** (X: 2291 , Y: 40, Z: -2960)
 
 ### Schlonko
 
-Schlonko is a small port town on the western coast of Faehrcyle, and is the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing her [[Devotion|devotion]] altar, sits on a bluff above the town.
+[[Schlonko]] is a small port town on the western coast of Faehrcyle, and is the capital of the Duchy of Hishrin. Its buildings are constructed of spruce and dark oak wood. The Crystalline Colonnade, a temple to Loe containing her [[Devotion|devotion]] altar, sits on a bluff above the town.
 
 **Coordinates:** (X: 1105, Y: 65, Z: -3026)

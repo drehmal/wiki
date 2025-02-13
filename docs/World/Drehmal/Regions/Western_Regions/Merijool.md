@@ -1,70 +1,89 @@
----
-tags:
-  - Locations
-  - Regions
-  - Western Regions
----
-
 # Merijool
 
-![[Merijool1.webp]]{ align=right width="300" }
+![[MJ_landscape.png]]{ align=right width="300" }
+
+**Merijool** (pronounced "merry-yool") is a region in northwestern [[Overworld|Drehmal]]. Its landscape is made up of temperate, autumnal forest with red-colored leaves.
 
 ## Geography
 
-This region is located in the North-west, and is mainly known for its autumnal forests. There are several parts of it that are inhibited by giant mushrooms. A river runs from the lake that Okeke borders, separating East Merijool and West Merijool, draining into the ocean down the middle of the region. In the north-eastern part of Merijool stands [[Mt. Mekta|Mount Mekta]], the third largest mountain in Drehmal.
+Merijool is located on the north coast of the continent, forming the west shore of the Gulf of Drehmal. The region borders the [[Gulf of Drehmal]] region to the southeast, [[Casai]] to the west (although the Zephyr Sound occupies a lot of space between the two regions), and [[Mt. Ebonfire]] and the [[Ebony Veldt]] to the southwest. A horizontal segment of the Burnt Mountains divides the region from more of the Ebony Veldt to the south.
 
-Regions bordering Merijool include:
+Merijool is split into an east and west half by a wide river flowing into the northern ocean. Despite this, the two sides differ mainly in lore, and the region's overall landscape is mostly uniform. The region is populated with oak and birch woods with bright, red leaves, patches of giant mushrooms, grasslands, lakes, and bluffs with orange cliffs. Standing out in contrast to the usual terrain is the land surrounding the [[Primal Sapling]] in the south, which is characterized by red, orange and yellow mountains and a small jungle-like biome.
 
-- [[Casai]]
-- [[Gulf of Drehmal]]
+**Environmental Sub-Regions:**
 
-## Notable Locations
+- The snow-capped [[Mt. Mekta]] in the northeast <br>
+- Jungle mountain bowl in the southeast surrounding the [[Primal Sapling]]
 
-- The village of [[Okeke]]
-- The great wall of [[Maerhn'Vhos]]
-- [[Mt. Mekta]]
-
-## In the Lore
-
-![[Merijool2.webp]]{ align=right width="300" }
-
-> The Merijool Peninsula was once a lush jungle, but with the Frostfang Catastrophe of Av2 1646, climate change rapidly cooled the area and turned it to an autumnal forest. Throughout history, the people of Merijool have suffered internal conflicts and civil wars because of differing Aspect religions (Lai, The Brightwyrm in the west and Glacial Elder Loe in the east). Only recently have they overcome their religious differences to form together under a single, atheist society. There was also a short period of their history where they worshipped Maelihs.
+On the south edge of a lake in southern Merijool (the source of the region's central river) is the town of [[Okeke]].
 
 ## History
 
-### Early Days
+Like many other northern regions, Merijool once had a much different environment and climate. It was initially a jungle, similar to [[Lorahn'Kahl]] and the [[Black Jungle]]. In the early Second Avihm, Merijool was inhabited by many "Merian" tribes. From the very beginning, there has been a cultural distinction and rivalry between the east and west. The Merians came to be predominantly faithful to [[Loe]] in the east and [[Lai]] in the west. Known examples of eastern Loe-supporters were the Mekta tribe and the people of the town of Kamt. At some point, some of the tribes (most likely those in the east only) were united under a Grand Council based at Arijoor Forks. It is unclear how long this union lasted. 
 
+In the Av2 1400s, the [[Casain Empire]] launched an attack on western Merijool with the intent of eastward expansion. Although the region's peoples were still disorganized, they were able to band together, and, using [[Arcanism|arcanism]], successfully ward off the invaders. This conflict is known as the Zephyr War. Some time later, the Kingdom of Western Merijool was established, officially unifying the western tribes. Western Merijool would develop a peaceful relationship with the [[Second Tharhan Empire]] after it was founded centuries later.
 
+Merijool, along with the majority of the West, was subsumed under the [[Avsohm|Empire of Avsohm]], probably through a series of annexations. Avsohm appears to have had little direct impact on the region. However, the [[Frostfang Catastrophe]] that took place at this time (due to the affairs of Avsohm) permanently altered its environment, transforming the climate from tropical to temperate. These drastic and adverse effects posed a major challenge to the region's people, since they had to adapt to a completely new environment and some elements of their old culture were lost.
 
-In the early days after the deity war, Merijool was inhabited by the Merian tribes. At some point between Av2 1000 and Av2 1412, the tribes joined together, and created a United Tribal Merijool. 
+After [[Fall of Avsohm|the empire's fall]], the region was presumably attacked by the forces of [[Maelihs]]. However, it is not known if they succeeded in conquering the region for a short period of time. Merijool became a later member of the [[Insohm|Insohmic Council]], and as such, they participated in the [[Battle for Drehmal]], possibly earning additional territory. 
 
-### Religious Differences
+Following the end of the Order and the dawn of the Fourth Avihm, Merijool finally united into a single, secular state: the Republic of Merijool, in Av4 26.
 
-In the West, the Brightwyrm Lai, Aspect of Warmth was worshipped (reasons for this could include a warmer climate, flatter landscape, a seemingly volcanic north based on its many fissures (plus its proximity to the Silveht island volcano), and/or the location of the important West Merijoolan city of Okeke, in the warmer south). In the East, the Glacial Elder Loe, Aspect of Cold was worshipped (reasons for this could include a colder climate, the more mountainous landscape of the East, and/or the glaciers that cover the north on Mt. Mekta, on the lower slopes of which an important East Merijoolan city, Kamt, was built.)
+## Regional Map
 
-### Dual Kingdoms Period
+**Map of Merijool (sold by [[Adventuring Merchant]] in Okeke):**
 
-In Av2 1412, Merijool split into two Kingdoms, West and East, due to these religious differences. They went to war for centuries, with neither coming out on top. West Merijool had a rivalry with the Casian Empire, eventually winning full control over the plains between the two in the Zephyr War of Av2 1445. West Merijool also attempted to best the Tharhan Empire in the Av2 1500s. They failed miserably, and were not even able to approach the Western Wall, Maehrn’Vhos. While Merijool was fighting their battles, the Avsohmic Empire was growing in power, eventually posing a significant threat to Merijool. In response to this, the warring West and East were forced to join together in a sort of defense pact to try and resist Avsohm.
+![[map_114.png]]{ width="300" }
 
-<figure markdown>
-  ![[Merijool3.webp]]{ width="300" }
-  <figcaption>Maehrn'Vhos</figcaption>
-</figure>
+## Terminus Tower
 
+![[MJ_tower.png]]
+> The Merijool tower.
 
-### Under Avsohm
+Merijool's [[Terminus Network#Towers|Terminus tower]] is located on a hilltop in the region's center, along the western bank of the central river. Most of it is encased in a wood-and-stone mill-like structure with stairs and ladders leading up its sides to a small platform at the top. The structure is guarded by zombie villagers named "Undead Huntsman".
 
-Despite their forced unification, Merijool surrendered after Avsohm put some pressure on them. (Relatively small amount compared to other Avsohmic campaigns). The Merijool peninsula was now United under the Avsohmic flag, along with their rival neighbors of Casai and Tharhan. Merijool prospered under Avsohm, even though there was internal dissent against the external Avsohmic rule. However, this prosperity was severely impacted by the Frostfang Catastrophe of  Av2 1646.
+**Coordinates:** (X: -1302, Y: 152, Z: -945)
 
-### Post-Frostfang
+## Points of Interest
 
-The catastrophe completely changed Merijool’s ecosystem. The peninsula transitioned from a lush rainforest to a autumnal forest. Merijoolan culture was heavily damaged also, as the people now had to adapt to a much colder climate. This catastrophe increased internal strife in a couple ways. Firstly, as the catastrophe was largely viewed as Avsohm’s fault, the Merijoolans became even more resistant to Avsohm’s rule. Secondly, the catastrophe likely increased worship of the aspect Loe in the East, due to its proximity to the epicenter of the Frostfang Catastrophe in Faercyle, while in the West, it likely increased the worship of Lai as a sort of light in a dark time. This would lead to Merijool becoming a war centered society once again.
+### Arijoor Forks
 
-### Maelihs’ Occupation
+Arijoor Forks is a group of solid, grass-topped stone structures in mid-eastern Merijool. It has two separated parts: the western part has structures with many right angles, while the eastern part has mostly circular structures. Arijoor Forks was the meeting place of the Grand Council that governed the people of east Merijool at some point in the Second Avihm.
 
-When Avsohm fell and Maelihs overtook Western Drehmal, his war culture was praised in Merijool. This led to him gaining control of the peninsula without a fight. During its occupation by Maelihs, Neo-Maelmarism grew as a dominant religion within Merijool.
+**Coordinates:** (X: -860, Y: 85, Z: -1140)
 
-### Insohm to Modern Times
+### ICS Arbiter
 
-Not much is known about Merijool after this time period, but at some point in the Third Avihm the Order of Insohm fought against Maelihs, and took back control of Merijool. The people of Merijool finally put aside their religious differences, and joined together in a single athiest society. Currently they are United, with the seat of power being in Okeke.
+The [[ICS Arbiter]] is a large airship and the the head of the Insohmic fleet. It once served as a military vessel and its conference room was used by the Insohmic Council. With the Order having mostly fallen apart, the ship now hosts loyalists wishing to continue to carry out Insohm's missions and possibly restore it to its former glory. The ship is currently positioned off the northeastern coast of Merijool.
 
+**Coordinates:** (X: -478, Y: 102, Z: -1950)
+
+### Maehrn'Vhos
+
+[[Maehrn'Vhos]], dubbed the "Great Wall of the West", is a towering, ornately carved stone wall, situated on the border between southwestern Merijool and the [[Ebony Veldt]]. A road runs through a gap in its center. It was originally built by the Second Tharhan Empire to ensure safety from the Casain Empire and West Merijool to the north. Today, the wall is used as a [[Mihkmari]] checkpoint.
+
+**Coordinates:** (X: -2171, Y: 63, Z: -161)
+
+### Okeke
+
+[[Okeke]] is a small town in southern Merijool that is built across a stream feeding into a lake. Its buildings are contiguous and composed mostly of stone and spruce wood, having flat roofs with parapets, giving a castle-like appearance. The town might be the capital of the Republic of Merijool due to its geographically neutral location.
+
+**Coordinates:** (X: -1562, Y: 68, Z: -495)
+
+### Primal Sapling
+
+The Primal Sapling is a colossal, flowering tree in southern Merijool, standing in the [[Glade of the Giant]]. Jungle trees grow in the area surrounding it (likely surviving remnants of the ecosystem from before the Frostfang Catastrophe), and this portion of land is encircled by mountains that obscure outside view. A mysterious, stone, pyramidal temple lays underneath the tree's canopy. The Primal Sapling sprouted from the remains of the much greater [[Primal Tree]] that existed in the First Avihm until [[Felling|its destruction]]. The [[Parenchyma]] legendary and a [[Fervor Stones#Stone of Agony|Stone of Agony]] are found here.
+
+**Coordinates:** (X: -1200, Y: 64, Z: -340)
+
+### Ruins of Kamt
+
+[[Kamt]] was an ancient stone city in northeastern Merijool, built at the eastern base of Mt. Mekta. An ice statue makes it apparent that its residents worshiped [[Loe]]. The city now lies in ruins, but is home to the [[Artifacts#Loe'Othrah|Loe'Othrah]] artifact and within visibility of the ICS Arbiter.
+
+**Coordinates:** (X: -640, Y: 99, Z: -1710)
+
+### Shrine of Eternal Flame
+
+The [[Shrine of Eternal Flame]] is a pyramid-shaped stone temple and [[Devotion|devotion]] site to [[Lai]] in the region's northwest. Its name comes from the sacred, eternal flame at its center, which once burned perpetually but is no longer lit.
+
+**Coordinates:** (X: -1430, Y: 77, Z: -1620)

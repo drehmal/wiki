@@ -337,7 +337,7 @@ The thrones on the upper level, however, all share the same size and solid quart
 
 Starting from the green/orange/yellow throne just west of the main southern entrance and working clockwise, the presumed Aspect thrones are as follows: Vayniklah, Muhs, Dahroehl, Maen, Mari, Tethlaen, Moen, Loeleyhn, Loe, Lai, Lailoehn, Nahyn, Koh, Noha, Lahrs, Rihalae, Palaesida, and Voynahla.
 
-The lowest level of the chamber contains an elaborate mural on the floor, and to the south, a small staircase leads down to another room. This room contains six murals on its walls, tied to the [Trials](/World/Post-75_Area/Points_of_Interest/Trials/), as well as one large mural at the end, representing a genealogy tree. This is the family tree of the Aspects and Deities, and it has been the subject of significant speculation.
+The lowest level of the chamber contains an elaborate mural on the floor, and to the south, a small staircase leads down to another room. This room contains six murals on its walls, tied to the [Trials](/World/Late-Game/Points_of_Interest/Trials/), as well as one large mural at the end, representing a genealogy tree. This is the family tree of the Aspects and Deities, and it has been the subject of significant speculation.
 
 ![[family_tree.png]]
 > The family tree mural in Ytaj.
@@ -629,7 +629,7 @@ In addition to the Maelihs and Virtuo heads, a player head in the likeness of [[
 
 ***
 
-For the most part, Aspects who have a [domain](/World/Post-75_Area/Regions/) on the moon have a room which is on the same side (west-east) of Ytaj as their domain is, relative to Ytaj. The western regions are owned by Khive, Vayniklah, Dahr, Loe, and Maen, all of whom have rooms in the western half of Ytaj. Rihelma, Voynahla, Palaesida, Nahyn, Lai, Lahrs, and Taihgel own regions on the eastern side of the moon, and have rooms in eastern Ytaj. 
+For the most part, Aspects who have a [domain](/World/Late-Game/Regions/) on the moon have a room which is on the same side (west-east) of Ytaj as their domain is, relative to Ytaj. The western regions are owned by Khive, Vayniklah, Dahr, Loe, and Maen, all of whom have rooms in the western half of Ytaj. Rihelma, Voynahla, Palaesida, Nahyn, Lai, Lahrs, and Taihgel own regions on the eastern side of the moon, and have rooms in eastern Ytaj. 
 
 There is one exception to this rule, as [[Moen's Domain]] falls just east of the midline, but her room in Ytaj is in the west. This is almost certainly to hold the Emotion Trio's rooms together, near their parent, Khive.
 

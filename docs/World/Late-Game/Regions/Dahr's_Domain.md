@@ -84,7 +84,7 @@ The swamp sub-region is inhabited primarily by outlaws, such as the enemies foun
 
 ### Abyssal Rise
 
-[[Abyssal Rise]] is a massive structure found in the far southern lake of Dahr's Domain, and is the site of Dahr's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/).
+[[Abyssal Rise]] is a massive structure found in the far southern lake of Dahr's Domain, and is the site of Dahr's [Trial](/World/Late-Game/Points_of_Interest/Trials/).
 
 **Coordinates:** (X: -198, Y: 17, Z: 1170)
 

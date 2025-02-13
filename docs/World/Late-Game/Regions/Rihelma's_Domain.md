@@ -111,7 +111,7 @@ What looks like a small landing pad protrudes out of the northeastern face of Al
 
 ### Star-Rise Orrery
 
-The [[Star-Rise Orrery]] is a massive, elaborate planetarium/orrery found inside of the eastern portion of Aldregakar. It is the site of Rihelma's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/).
+The [[Star-Rise Orrery]] is a massive, elaborate planetarium/orrery found inside of the eastern portion of Aldregakar. It is the site of Rihelma's [Trial](/World/Late-Game/Points_of_Interest/Trials/).
 
 **Coordinates:** (X: 1084, Y: 82, Z: 895)
 

@@ -4,7 +4,7 @@
 
 --8<-- "LD_spoiler.md"
 
-The **Six Trials** are gameplay challenges and puzzles found at major points of interest throughout the moon of [[Lo'Dahr]]. Each of these trials is found in a different [Aspect Domain](/World/Post-75_Area/Regions/), spread out across the moon's area.
+The **Six Trials** are gameplay challenges and puzzles found at major points of interest throughout the moon of [[Lo'Dahr]]. Each of these trials is found in a different [Aspect Domain](/World/Late-Game/Regions/), spread out across the moon's area.
 
 Each of the trials is indirectly given by one of the [Aspects](/Lore/Higher_Beings/Aspects/), framed as a trial to test your character in some way that pertains to that Aspect, and each Aspect's trial is found within their physical domain on Lo'Dahr. When a trial location is approached for the first time, the following message will play in chat:
 

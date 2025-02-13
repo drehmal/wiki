@@ -61,5 +61,5 @@ Off the western boundary of [[Khive's Domain]] is a small pool, the only source 
 
 ### Yriel's Sanctuary
 
-[[Yriel's Sanctuary]] is not truly a part of the Lunar Wastes, but it is located within them. Found far to the southeast of Lo'Dahr's habitable area, this location is accessed by completing the [six Trials](/World/Post-75_Area/Points_of_Interest/Trials/) found around Lo'Dahr.
+[[Yriel's Sanctuary]] is not truly a part of the Lunar Wastes, but it is located within them. Found far to the southeast of Lo'Dahr's habitable area, this location is accessed by completing the [six Trials](/World/Late-Game/Points_of_Interest/Trials/) found around Lo'Dahr.
 

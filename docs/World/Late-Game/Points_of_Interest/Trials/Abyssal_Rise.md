@@ -6,7 +6,7 @@
 
 ![[abyssal_rise.png]]
 
-**Abyssal Rise** is the site of the [[Dahr|Abyssal Elder Dahr]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). It is contained within a structure in a southern lake, at the far end of [[Dahr's Domain|his domain]].
+**Abyssal Rise** is the site of the [[Dahr|Abyssal Elder Dahr]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/). It is contained within a structure in a southern lake, at the far end of [[Dahr's Domain|his domain]].
 
 ??? abstract "Location"
     | **X** | **Y** | **Z** |

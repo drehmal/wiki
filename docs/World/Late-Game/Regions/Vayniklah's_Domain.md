@@ -94,7 +94,7 @@ On the eastern bank of the river that runs through this region, a large complex 
 
 ### Temple of Life
 
-The Temple of Life is a temple located on an island in the southern lake of Vayniklah's Domain, at the bottom of the region's wide waterfall. It is the site of Vayniklah's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). The [[Eldermead]] legendary is found here.
+The Temple of Life is a temple located on an island in the southern lake of Vayniklah's Domain, at the bottom of the region's wide waterfall. It is the site of Vayniklah's [Trial](/World/Late-Game/Points_of_Interest/Trials/). The [[Eldermead]] legendary is found here.
 
 **Coordinates:** (X: -462, Y: 72, Z: -222)
 

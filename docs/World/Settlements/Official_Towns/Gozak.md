@@ -2,7 +2,7 @@
 
 ![[Gozak1.webp]]{ align=right width="300" }
 
-**Gozak** is a town in the [[North Heartwood]], near the eastern edge of the region. It is accessible through a partially-intact path that runs from [[Capital Valley]] through a clearing in the North Heartwood, which also continues east to the [[Verdant Labyrinth]], connecting to [[Spearhead Forest]] and the [[Black Jungle]]. Gozak is a very common second town for players to discover, due to its proximity to the [Central Regions](/World/Drehmal/Regions/Central_Regions/).
+**Gozak** is a town in the [[North Heartwood]], near the eastern edge of the region. It is accessible through a partially-intact path that runs from [[Capital Valley]] through a clearing in the North Heartwood, which also continues east to the [[Verdant Labyrinth]], connecting to [[Spearhead Forest]] and the [[Black Jungle]]. Gozak is a very common second town for players to discover, due to its proximity to the [Central Regions](/World/Regions/Central_Regions/).
 
 !!! abstract "Location"
 	Approximate Coordinates: `2276, 57, 2526`

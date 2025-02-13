@@ -14,7 +14,7 @@ search:
 ![[LD_domains.png]]
 > A map outlining the main regions of Lo'Dahr.
 
-This section contains pages on the Aspect Domains of [[Lo'Dahr]], analogous to the [Regions](/World/Drehmal/Regions/) of Drehmal.
+This section contains pages on the Aspect Domains of [[Lo'Dahr]], analogous to the [Regions](/World/Regions/) of Drehmal.
 
 There are a total of 15 regions on the divine moon: 14 extremely distinct, fantastical regions owned and shaped by one of the [Aspects](/Lore/Higher_Beings/Aspects/), which are simply named after their patron Aspect, and the great city of [[Ytaj]], a colossal temple complex known as the "sacred place of all divinity," which itself serves as the 15th region.
 
@@ -22,7 +22,7 @@ The [[Lunar Wastes]] can be counted as a 16th region, but they are more akin to 
 
 ## Wiki Organization
 
-The pages for Lo'Dahr regions follow a similar format to the [Overworld Region Pages](/World/Drehmal/Regions/), although their smaller size, increased focus on hostile mob spawns, and incredible variation in appearance necessitate a slightly different format.
+The pages for Lo'Dahr regions follow a similar format to the [Overworld Region Pages](/World/Regions/), although their smaller size, increased focus on hostile mob spawns, and incredible variation in appearance necessitate a slightly different format.
 
 Regions on Lo'Dahr are all made up of a single biome, meaning there are only 16 total biomes in this dimension. This also means that different textures can be applied to these biomes. Often, the color of water, the horizon, and other commonly placed blocks like grass blocks will change depending on the region they are placed in, adding to the overall theme of that area. This information is denoted in a table at the beginning of each region article.
 

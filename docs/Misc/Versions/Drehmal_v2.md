@@ -6,7 +6,7 @@
 
 Featuring fully re-imagined terrain on a larger, 12k by 12k grid, the landscape of Drehmal v2 is nearly identical to the current version. The lone exception to this is the rework of the northeastern regions which was done in 2.2.
 
-This version also introduced the foundations of the current Drehmal experience, including the main story that revolves around the [[Avsohm|Empire of Avsohm]], rudimentary variants of custom [Legendary](/Items/Legendary_Items/) and [Mythical](/Items/Mythical_Weapons/) gear, the vast majority of the realm's [official towns](/World/Drehmal/Settlements/Official_Towns/), and more.
+This version also introduced the foundations of the current Drehmal experience, including the main story that revolves around the [[Avsohm|Empire of Avsohm]], rudimentary variants of custom [Legendary](/Items/Legendary_Items/) and [Mythical](/Items/Mythical_Weapons/) gear, the vast majority of the realm's [official towns](/World/Settlements/Official_Towns/), and more.
 
 2.0 also tweaked the class system, allowing players to select one of three pairs of boots, which could be upgraded to higher tiers for increasing stat bonuses.
 

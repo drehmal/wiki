@@ -6,7 +6,7 @@
 
 ![[temple_of_life.png]]
 
-The **Temple of Life** is the site of [[Vayniklah|Life-Bringer Vayniklah]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). It is found in the center of a large lake, atop a waterfall in the southern extent of [[Vayniklah's Domain|her domain]].
+The **Temple of Life** is the site of [[Vayniklah|Life-Bringer Vayniklah]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/). It is found in the center of a large lake, atop a waterfall in the southern extent of [[Vayniklah's Domain|her domain]].
 
 ??? abstract "Location"
     | **X** | **Y** | **Z** |

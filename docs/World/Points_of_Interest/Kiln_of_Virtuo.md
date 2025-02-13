@@ -109,7 +109,7 @@ The main room here, is Virtuo's personal bedchamber, with a mural of her face ov
 
 ![[kiln_shrine.png]]
 
-Several low-level devotion offerings to Virtuo are found around her shrine in the front of the Kiln, but higher-level offerings must be found at statues of her form throughout [eastern Drehmal](/World/Drehmal/Regions/Eastern_Regions/).
+Several low-level devotion offerings to Virtuo are found around her shrine in the front of the Kiln, but higher-level offerings must be found at statues of her form throughout [eastern Drehmal](/World/Regions/Eastern_Regions/).
 
 Virtuo statues can be found throughout the east, including in [[Dusps]], [[Highfall]], [[Mossfield]], [[Firteid]], and elsewhere in the [[Black Jungle]].
 

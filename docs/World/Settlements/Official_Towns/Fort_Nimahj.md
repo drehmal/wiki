@@ -132,7 +132,7 @@ The Beetroot Merchant is located in a white/red tent, near the entrance to the m
 
 ## Lore
 
-Fort Nimahj has been inhabited by many different civilizations over its history, possibly emerging as one of the [[Six Tharhan Kingdoms]] before being annexed by [[Avsohm]] in late Av2. It was also held by [[Insohm]] in mid-Av3, and is the only place in [western Drehmal](/World/Drehmal/Regions/Western_Regions/) which has been able to consistently repel the advances of the [[Empire of Maelihs]]. [[Osteogenesis]], a legendary weapon designed specially to combat Skullbeasts, is held below this town and appears to have never left its walls, meaning that the Skullbeasts were likely not deployed against Fort Nimahj.
+Fort Nimahj has been inhabited by many different civilizations over its history, possibly emerging as one of the [[Six Tharhan Kingdoms]] before being annexed by [[Avsohm]] in late Av2. It was also held by [[Insohm]] in mid-Av3, and is the only place in [western Drehmal](/World/Regions/Western_Regions/) which has been able to consistently repel the advances of the [[Empire of Maelihs]]. [[Osteogenesis]], a legendary weapon designed specially to combat Skullbeasts, is held below this town and appears to have never left its walls, meaning that the Skullbeasts were likely not deployed against Fort Nimahj.
 
 Today, Fort Nimahj stands as the last bastion of [[Virtuo]]'s faith in the west, and as such, its inhabitants have become somewhat paranoid and reclusive, very rarely leaving the fort's walls.
 

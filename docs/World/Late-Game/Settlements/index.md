@@ -11,7 +11,7 @@ search:
 
 --8<-- "under_construction.md"
 
-Scattered throughout the map of [[Lo'Dahr]] are many different settlements. These settlements vary greatly in size, from populations of less than 20 to over 100 inhabitants. Settlements can be categorized into ["official" towns](/World/Lo'Dahr/Settlements/Official_Towns/), which always have an [[Adventuring Merchant]], a special [[Advancements|advancement]] for discovering them under the "Civilization" category, and an inn of some sorts. The only official town in Lo'Dahr is [[Naharja]]. There are also many ["unofficial" settlements](/World/Drehmal/Settlements/Other_Settlements/) across the map that are usually smaller.
+Scattered throughout the map of [[Lo'Dahr]] are many different settlements. These settlements vary greatly in size, from populations of less than 20 to over 100 inhabitants. Settlements can be categorized into ["official" towns](/World/Lo'Dahr/Settlements/Official_Towns/), which always have an [[Adventuring Merchant]], a special [[Advancements|advancement]] for discovering them under the "Civilization" category, and an inn of some sorts. The only official town in Lo'Dahr is [[Naharja]]. There are also many ["unofficial" settlements](/World/Settlements/Other_Settlements/) across the map that are usually smaller.
 
 ## List
 

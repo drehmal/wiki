@@ -66,7 +66,7 @@ The northeastern of the three mountains in Nahyn's Domain is hollow, and inside 
 
 ### Hypogean Labyrinth
 
-The [[Hypogean Labyrinth]] is a maze found in the center of the mountainous portion of Nahyn's Domain, and the site of Nahyn's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/).
+The [[Hypogean Labyrinth]] is a maze found in the center of the mountainous portion of Nahyn's Domain, and the site of Nahyn's [Trial](/World/Late-Game/Points_of_Interest/Trials/).
 
 **Coordinates:** (X: 478, Y: 162, Z: -127)
 

@@ -58,7 +58,7 @@ Lai's Domain has some [[Tehrmari]] inhabitants, although its history is not part
 
 ### Brightwyrm's Caldarium
 
-The [[Brightwyrm's Caldarium]] is the site of Lai's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/), and is accessed from a blackstone gateway at the top of the volcano.
+The [[Brightwyrm's Caldarium]] is the site of Lai's [Trial](/World/Late-Game/Points_of_Interest/Trials/), and is accessed from a blackstone gateway at the top of the volcano.
 
 **Coordinates:** (X: 1143, Y: 213, Z: -1232)
 

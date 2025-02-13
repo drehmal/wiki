@@ -60,7 +60,7 @@ Messages are ordered in approximate chronological order, where applicable.
     | [Player] was crushed by Tremorlith | Dying to a Tremorlith, the deepslate-skinned magma cubes in [[Nahyn's Domain]]. |
     | [Player] erupted | Supposed to be tied to the volcano hoglins in [[Lai's Domain]], but possibly unused or bugged (could not be replicated by wiki testers). |
     | [Player] overreacted | Stand next to the explosion when solving the [[Resupply Depot]] puzzle. |
-    | [Player] faced divine punishment | Killed by a lightning strike that accompanies a chest spawning at the completion of a [trial](/World/Post-75_Area/Points_of_Interest/Trials/). |
+    | [Player] faced divine punishment | Killed by a lightning strike that accompanies a chest spawning at the completion of a [trial](/World/Late-Game/Points_of_Interest/Trials/). |
     | [Player] was swallowed by the Vehrniis | Has a roughly 50% chance of playing if killed by the [[Vehrniis]]. |
     | [Player] couldn't squirm away from the Vehrniis | Has a roughly 50% chance of playing if killed by the [[Vehrniis]]. |
     | [Player] was vored by bernice uwu | Has a miniscule (1 in 1000) chance of playing if killed by the [[Vehrniis]]. |

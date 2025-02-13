@@ -51,7 +51,7 @@ Lorahn'Kahl's Terminus tower is situated in the middle of a small, mostly-enclos
 
 ### Mohta
 
-[[Mohta]] is an [official town](/World/Drehmal/Settlements/Official_Towns/) located on a beach peninsula in southeastern Lorahn'Kahl. Its architecture uses a circular, stilted structure, mostly composed of jungle wood, with domed, prismarine roofs. The town is fortified by a wooden wall that cuts across the peninsula, shielding it from the inland. Mohta was founded by survivors after the reign of the Tri-Moon Theocracy, and it has long been subject to persistent attacks from [[Maelmari]] troops.
+[[Mohta]] is an [official town](/World/Settlements/Official_Towns/) located on a beach peninsula in southeastern Lorahn'Kahl. Its architecture uses a circular, stilted structure, mostly composed of jungle wood, with domed, prismarine roofs. The town is fortified by a wooden wall that cuts across the peninsula, shielding it from the inland. Mohta was founded by survivors after the reign of the Tri-Moon Theocracy, and it has long been subject to persistent attacks from [[Maelmari]] troops.
 
 **Coordinates:** (X: -49, Y: 71, Z: 5235)
 

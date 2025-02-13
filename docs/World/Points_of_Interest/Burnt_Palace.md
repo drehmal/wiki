@@ -42,7 +42,7 @@ The "main" content in the Burnt Palace is through the northern door, but the ent
 
 ![[bp_map.png]]
 
-The aforementioned third door leads to a map room, occupied by two Servants and two Burnt Soldiers. The room is home to a map of [western Drehmal](/World/Drehmal/Regions/Western_Regions/), with a redstone dust border outlining the extent of [[Empire of Maelihs|Mael's Domain]]. This map shows that the empire currently stretches from the Hellcrags to encompass [[The Carmine]], [[South Tharxax]], the [[Ebony Veldt]], the entirety of [[Anyr'Nogur]], most of [[Nimahj Swamp]], and [[Mt. Ebonfire]].
+The aforementioned third door leads to a map room, occupied by two Servants and two Burnt Soldiers. The room is home to a map of [western Drehmal](/World/Regions/Western_Regions/), with a redstone dust border outlining the extent of [[Empire of Maelihs|Mael's Domain]]. This map shows that the empire currently stretches from the Hellcrags to encompass [[The Carmine]], [[South Tharxax]], the [[Ebony Veldt]], the entirety of [[Anyr'Nogur]], most of [[Nimahj Swamp]], and [[Mt. Ebonfire]].
 
 A kitchen can also be accessed from this room, with a few more Servants.
 

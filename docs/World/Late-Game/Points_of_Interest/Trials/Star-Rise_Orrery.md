@@ -6,7 +6,7 @@
 
 ![[starrise_orrery.png]]
 
-**Star-Rise Orrery** is the site of the [[Rihelma|Star-Rise Drake Rihelma]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/), accessed through a small cavern in the northern face of Aldregakar, the massive mountain in [[Rihelma's Domain]].
+**Star-Rise Orrery** is the site of the [[Rihelma|Star-Rise Drake Rihelma]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/), accessed through a small cavern in the northern face of Aldregakar, the massive mountain in [[Rihelma's Domain]].
 
 ??? abstract "Location"
     | **X** | **Y** | **Z** |

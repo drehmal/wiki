@@ -4,7 +4,7 @@
 > - **Belligerents:** [[Empire of Maelihs]] vs. Remnants of [[Avsohm|Empire of Avsohm]], Other Resistance
 > - **Leaders:** [[Maelihs]] (Empire of Maelihs)
 
-The Dune Wars were a series of conflicts fought between the Empire of Maelihs and unorganized resistance in the remains of the Empire of Avsohm, as Maelihs conquered the majority of [West](/World/Drehmal/Regions/Western_Regions/) in the wake of [Fall of Avsohm|Avsohm's collapse].
+The Dune Wars were a series of conflicts fought between the Empire of Maelihs and unorganized resistance in the remains of the Empire of Avsohm, as Maelihs conquered the majority of [West](/World/Regions/Western_Regions/) in the wake of [Fall of Avsohm|Avsohm's collapse].
 
 ## Background
 

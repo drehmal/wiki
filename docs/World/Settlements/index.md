@@ -1,6 +1,6 @@
 # Settlements
 
-Scattered throughout the map of [[Overworld|Drehmal]] are many different settlements. These settlements vary greatly in size, from populations of less than 10 to over 500 inhabitants. Settlements can be categorized into ["official" towns](/World/Drehmal/Settlements/Official_Towns/), which always have an [[Adventuring Merchant]], a special [[Advancements|advancement]] for discovering them under the "Civilization" category, and an inn of some sorts. There are also many ["unofficial" settlements](/World/Drehmal/Settlements/Other_Settlements/) across the map that are usually smaller.
+Scattered throughout the map of [[Overworld|Drehmal]] are many different settlements. These settlements vary greatly in size, from populations of less than 10 to over 500 inhabitants. Settlements can be categorized into ["official" towns](/World/Settlements/Official_Towns/), which always have an [[Adventuring Merchant]], a special [[Advancements|advancement]] for discovering them under the "Civilization" category, and an inn of some sorts. There are also many ["unofficial" settlements](/World/Settlements/Other_Settlements/) across the map that are usually smaller.
 
 ## List
 

@@ -6,7 +6,7 @@
 
 ![[hypogean_labyrinth.png]]
 
-The **Hypogean Labyrinth** is the site of the [[Nahyn|Summit-Drake Nahyn]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). It is accessed through a maze structure (pictured above) on a mountain in [[Nahyn's Domain]].
+The **Hypogean Labyrinth** is the site of the [[Nahyn|Summit-Drake Nahyn]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/). It is accessed through a maze structure (pictured above) on a mountain in [[Nahyn's Domain]].
 
 ??? abstract "Location"
     | **Location** | **X** | **Y** | **Z** |

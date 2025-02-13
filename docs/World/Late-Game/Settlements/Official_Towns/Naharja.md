@@ -143,7 +143,7 @@ Naharja's [[Adventuring Merchant]] is Adventuring Merchant Eliana, the owner of 
 | 10 Amethyst Shards | Bundle |
 | 20 Amethyst Shards | Note Box: The Trials |
 
-The note box, referencing the [trials](/World/Post-75_Area/Points_of_Interest/Trials/), contains a piece of paper which reads:
+The note box, referencing the [trials](/World/Late-Game/Points_of_Interest/Trials/), contains a piece of paper which reads:
 
 > The six ancient La'Tehrmari trials are still around. They're still in use, apparently! I wonder what'll happen if an unchosen Drehmari completes all six? If you're having trouble finding 'em, I'm fairly certain that the Prismatic Council chamber at Ytaj - the giant dome - has murals on the wall that might help.
 

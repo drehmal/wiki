@@ -82,7 +82,7 @@ On the southern shore of Lake Khanak lie the ruins of a fishing village, whose l
 
 ### Mystic Gallery
 
-The [[Mystic Gallery]] is a small shrine in the northern portion of Khive's Domain, in the second environmental sub-region with no trees. This site is the location of Khive's [Trial](/World/Post-75_Area/Points_of_Interest/Trials/), which rewards the player with the [[Stasis Bolt]] legendary.
+The [[Mystic Gallery]] is a small shrine in the northern portion of Khive's Domain, in the second environmental sub-region with no trees. This site is the location of Khive's [Trial](/World/Late-Game/Points_of_Interest/Trials/), which rewards the player with the [[Stasis Bolt]] legendary.
 
 **Coordinates:** (X: -761, Y: 98, Z: -795)
 

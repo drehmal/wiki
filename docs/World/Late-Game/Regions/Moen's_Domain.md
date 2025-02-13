@@ -54,6 +54,6 @@ The [[Terminus Network|Terminus]] tower in Maen's Domain is the only tower on al
 
 ### Naharja
 
-[[Naharja]] is the largest settlement on Lo'Dahr, and the only [official town](/World/Drehmal/Settlements/Official_Towns/) not located on [[Overworld|Drehmal]]. Naharja is home to several unique merchants, items, and lore books, and has a unique festival that takes place on every fifth day.
+[[Naharja]] is the largest settlement on Lo'Dahr, and the only [official town](/World/Settlements/Official_Towns/) not located on [[Overworld|Drehmal]]. Naharja is home to several unique merchants, items, and lore books, and has a unique festival that takes place on every fifth day.
 
 **Coordinates:** (X: 263, Y: 75, Z: -785)

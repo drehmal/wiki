@@ -6,7 +6,7 @@
 
 ![[brightwyrm_caldarium.png]]
 
-**Brightwyrm's Caldarium** is the site of [[Lai|Brightwyrm Lai]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). It is accessed through a gate at the top of the volcanic caldera in [[Lai's Domain]].
+**Brightwyrm's Caldarium** is the site of [[Lai|Brightwyrm Lai]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/). It is accessed through a gate at the top of the volcanic caldera in [[Lai's Domain]].
 
 ??? abstract "Location"
     | **X** | **Y** | **Z** |

@@ -6,7 +6,7 @@
 
 ![[mystic_gallery.png]]
 
-The **Mystic Gallery** is the site of [[Khive|Mystic Elder Khive]]'s [Trial](/World/Post-75_Area/Points_of_Interest/Trials/). 
+The **Mystic Gallery** is the site of [[Khive|Mystic Elder Khive]]'s [Trial](/World/Late-Game/Points_of_Interest/Trials/). 
 
 ??? abstract "Location"
     | **X** | **Y** | **Z** |

@@ -1,6 +1,6 @@
 # Cat Maps
 
-Hidden throughout the world of Drehmal are dozens of easter eggs in the form of a "cat map," a filled map that depicts Priscilla, the cat of Drehmal co-creator Keeko100, sitting in a loafed position. These maps are found in item frames at numerous locations in the world, typically with only one map per structure. All [major towns](/World/Drehmal/Settlements/Official_Towns/) except for [[Firteid]] contain one Priscilla map, and they are almost exclusively found at major [Points of Interest](/World/Drehmal/Points_of_Interest/). 
+Hidden throughout the world of Drehmal are dozens of easter eggs in the form of a "cat map," a filled map that depicts Priscilla, the cat of Drehmal co-creator Keeko100, sitting in a loafed position. These maps are found in item frames at numerous locations in the world, typically with only one map per structure. All [major towns](/World/Settlements/Official_Towns/) except for [[Firteid]] and [[Rhaveloth]] contain one Priscilla map, and they are almost exclusively found at major [Points of Interest](/World/Points_of_Interest/). 
 
 ![[Catmap.webp]]{ align=right width="300" }
 

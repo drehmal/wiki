@@ -11,19 +11,20 @@ Spearhead Forest is located on and encompasses a large portion of the eastern co
 The western, inland section and majority of the region's land area is covered in forest with tall spruce and oak trees and partial-podzol floor. The areas near the northern and central shore are more open and grassy, and the trees here are thinly dispersed. A large lake filled with gigantic lilypads and flowers lies in the region's center. Two large islands, known as the Shattered Peninsula, lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone. Beaches of gravel, dirt and clay line the coast.
 
 **Environmental Sub-Regions:**
-
-- Spruce and oak coniferous forest in west <br>
-- Large lake/inland sea in the center of the region <br>
-- Sparsely wooded grassland along northeastern coast <br>
+- Spruce and oak coniferous forest in west
+- Large lake/inland sea in the center of the region
+- Sparsely wooded grassland along northeastern coast
 - Shattered Peninsula (wooded islands in southeast)
 
 Spearhead Forest is home to the coastal town of [[Mossfield|New Mossfield]] on a peninsula in the southeast and the small village of [[Helmshire]] in the western forest, below the Nahynaga mountains. 
 
 ## History
 
-Spearhead Forest's early history is largely traced back to the eastern [[Empire of Vir]], which most likely governed it until [[Avsohm|Avsohmic]] conquest reached the region. The region was effectively a colony under Avsohm, with Avsohmic embassies built in its towns and villages, although the empire had little to do in the area besides use it for lumber.
+In the early and/or mid-Second Avihm, the entire region was ruled by the powerful, [[Virmari]]-led [[Empire of Vir]], with power being consolidated in the northern city of Virsuhl. It is unknown if Virsuhl was the empire's official capital, although it is the most likely candidate. The empire declined and eventually collapsed due to poor management by its rulers.
 
-In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
+Virsuhl continued to serve as a center of commerce, particuarly for trading timber, and it most likely never fell under the rule of [[Avsohm]]. Avsohm appears to have stayed out of the rest of the region as well for its entire duration.
+
+In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
 
 The Order was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. Both the Insohmic Commonwealth and Provinces of Vir fought against separatists to secure the Order's unity during the [[Insohmic Civil War]], and emerged victorious. It is also probable that they acquired territory in the West during the [[Battle for Drehmal]].
 
@@ -33,7 +34,7 @@ After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third
 
 ## Regional Map
 
-**Map of Spearhead Forest (sold by [[Adventuring Merchant]] in [[Mossfield|New Mossfield]]):**
+**Map of Spearhead Forest (sold by [[Adventuring Merchant]] in New Mossfield):**
 
 ![[map_1005.png]]{ width="256" }
 
@@ -50,7 +51,7 @@ Spearhead Forest's Terminus tower is located on the region's eastern coast, just
 
 ### Castle Hovadchear Crater
 
-**Coordinates:** (X: 3219, Y: 86, Z: 1716)
+**Coordinates:** (X: 3324, Y: 32, Z: 1815)
 
 Castle Hovadchear was once the grand headquarters of the Order of Insohm and likely the home of [[Hovadchear|Master Hovadchear]] himself. In the late Third Avihm, the entire building as well as the ground beneath it suddenly vanished, leaving only a large crater behind. Today, a small, stone building overlooking the crater contains a memorial to Hovadchear Myrik (who went missing alongside the castle), which is guarded by "The Mourner". This structure contains the [[Hovadchear's Greathammer]] legendary weapon.
 
@@ -62,9 +63,9 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 ### Insohmic Coven of Potentia
 
-The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt Generals|Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
+**Coordinates:** (X: 5031, Y: 92, Z: 1523)
 
-**Coordinates:** (X: 6006, Y: 92, Z: 1514)
+The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
 
 ### Insohmic Library Tower
 
@@ -98,9 +99,9 @@ Sevick was an isolated town on a small, solitary island in the eastern ocean. It
 
 ### Ruins of Virsuhl
 
-Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
+Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the Empire of Vir until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
 
-**Coordinates:** (X: 3971, Y: 71, Z: -43)
+**Coordinates:** (X: 3971, Y: 72, Z: -43)
 
 ### Skeveraan's House
 
@@ -114,4 +115,4 @@ Timberhearth Observatory & Museum is a building positioned on a bluff in the reg
 
 A multitude of artifacts are set on display inside: a gravity-defying pillar from [[Avsohm|Avsohmic]] ruins, a set of alchemical supplies, a rehntite catalyst from [[Av'Sal]], an ancient mosaic from the Black Jungle, a gemstone holding divine magic from Purity Peaks, some rubble from [[Rhaveloth]], chunks of material from the [[Kiln of Virtuo]], saplings from the [[North Heartwood|North]] and [[South Heartwood]] and an Avsohmic holograph apparatus from [[Sal'Anyr]]. The upper floor functions as an observatory with a telescope dome and an orrery.
 
-**Coordinates:** (X: 4138, Y: 127, Z: 296)
+**Coordinates:** (X: 4138, Y: 127, Z: 288)

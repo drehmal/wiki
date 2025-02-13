@@ -272,6 +272,10 @@ These commands are very long, and therefore cannot be used through the in-game c
 
 Commands to summon specific merchants from towns can be found on their [town](/World/Settlements/Official_Towns/) or [POI](/World/Points_of_Interest/) pages.
 
+### I Have Text Stuck in the Top Left Corner of My Screen.
+
+You have likely activated the fabric skyboxes debug HUD on accident. By default, this can be toggled with the F12 key, but you can check your keybinds if this does not work to make the text go away for you.
+
 ### I'm Stuck On [A Puzzle]. What Do I Do?
 
 Depends! If we have an article on that location, it should have your answer. Many of the game's true puzzles are confined to [Story Locations](/Story_and_Features/Story_Locations/), so if you're somewhere along the story's main path, then the wiki article for that location almost certainly can help.

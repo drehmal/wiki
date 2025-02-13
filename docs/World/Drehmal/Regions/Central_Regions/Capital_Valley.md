@@ -30,7 +30,7 @@ Worship of [[Drehmal]] is the dominant religion in the region, as it is througho
 
 **Map of Capital Valley (sold by [[Adventuring Merchant]] in [[Drabyel|New Drabyel]]):**
 
-![[map_104.png]]{ width="256" }
+![[map_104.png]]{ width="300" }
 
 ## Terminus Towers
 
@@ -49,7 +49,7 @@ There is also a short Terminus tower on Av'Sal's central island. The area surrou
 
 ### Hunter's Crypt
 
-The Hunter's Crypt is a series of underground stone brick chambers, three of which contain the tombs of members of the hunting party that killed [[Muhs|Greatbeast Muhs]]; Gahwyn the Hunter, Asrihk Clearbrook the Berserker and the Tracker (name unknown). 
+The [[Hunters' Crypt|Hunter's Crypt]] is a series of underground stone brick chambers, three of which contain the tombs of members of the hunting party that killed [[Muhs|Greatbeast Muhs]]; Gahwyn the Hunter, Asrihk Clearbrook the Berserker and the Tracker (name unknown). 
 
 The entire structure is a reference to the 2.1 version of Drehmal, in which the [[Stasis Facility]] was replaced by this very crypt, and the player simply awoke inside. The three tombs each contain a pair of boots, which are a reference to the class boots present in that older version of Drehmal.
 
@@ -77,13 +77,13 @@ Drehmal is believed to be slumbering deep underneath the Primal Caverns today, h
 
 ### Ruins of Ihted
 
-The original name of Ihted is unknown, but its ruins were named by archaeologists after a different city with similarities from the First Avihm. The town, sitting on the east bank of the Noroehl River, predates Avsohm, and it was left completely abandoned during the reign of [[Ifeihl|Emperor Zorhis Ifeihl]] after its inhabitants were exiled for illegally worshiping [[Khive]]. The ancient ziggurat remains there until this day, being frequented by wandering mystics and serving as a [[Devotion|devotion]] site for Khive. The ruins contain passageways and rooms hidden underground.
+The original name of [[Ihted]] is unknown, but its ruins were named by archaeologists after a different city with similarities from the First Avihm. The town, sitting on the east bank of the Noroehl River, predates Avsohm, and it was left completely abandoned during the reign of [[Ifeihl|Emperor Zorhis Ifeihl]] after its inhabitants were exiled for illegally worshiping [[Khive]]. The ancient ziggurat remains there until this day, being frequented by wandering mystics and serving as a [[Devotion|devotion]] site for Khive. The ruins contain passageways and rooms hidden underground.
 
 **Coordinates:** (X: 1062, Y: 65, Z: 1097)
 
 ### Solvei
 
-Solvei is a village lying on a small stream running from one lake to another, near the region's eastern border with [[Purity Peaks]]. Its buildings are built mostly out of spruce, oak and grass.
+[[Solvei]] is a village lying on a small stream running from one lake to another, near the region's eastern border with [[Purity Peaks]]. Its buildings are built mostly out of spruce, oak and grass.
 
 **Coordinates:** (X: 1559, Y: 75, Z: 800)
 
@@ -95,6 +95,6 @@ The [[Stasis Facility]] is an underground complex near the Primal Caverns that h
 
 ### Thesund
 
-Thesund is a tiny village perched atop a cliff overlooking a lake below the Burnt Mountains. The settlement only has five buildings, made of wood (spruce and oak) and grass, all surrounding a central square. The village was likely founded shortly after Avsohm's collapse by surviving children.
+[[Thesund]] is a tiny village perched atop a cliff overlooking a lake below the Burnt Mountains. The settlement only has five buildings, made of wood (spruce and oak) and grass, all surrounding a central square. The village was likely founded shortly after Avsohm's collapse by surviving children.
 
 **Coordinates:** (X: -375, Y: 109, Z: 758)

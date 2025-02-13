@@ -10,8 +10,9 @@ Highfall Tundra is situated on Drehmal's east coast. It borders the [[Frozen Bit
 
 The region is split by a river and lake into north and south segments. Highfall sits on an island at the mouth of the river. The southern segment includes grassland dotted with spruce and oak trees and a large peninsula with rocky, slightly-snowy terrain. In the northern segment are lowlands with small streams and spruce woods in the east, as well as dry land in the west, and highlands consisting of snow-covered tundra. Here, there are also several glaciers, acting as sources for rivers feeding into the eastern ocean.
 
-**Environmental Sub-Regions:** <br>
-- Rocky, hilly peninsula in the southeast
+**Environmental Sub-Regions:**
+
+- Rocky, hilly peninsula in the southeast <br>
 - Small desert in the far west, along the mountains bordering the [[Veruhkt Plateau]] region <br>
 - Snowy highland tundra in the east
 
@@ -31,7 +32,7 @@ Worship of [[Virtuo]] is the most common local religion.
 
 **Map of Highfall Tundra (sold by [[Adventuring Merchant]] in Highfall):**
 
-![[map_1006.png]]{ width="256" }
+![[map_1006.png]]{ width="300" }
 
 ## [[Terminus Network|Terminus Tower]]
 

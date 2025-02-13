@@ -11,9 +11,10 @@ Spearhead Forest is located on and encompasses a large portion of the eastern co
 The western, inland section and majority of the region's land area is covered in forest with tall spruce and oak trees and partial-podzol floor. The areas near the northern and central shore are more open and grassy, and the trees here are thinly dispersed. A large lake filled with gigantic lilypads and flowers lies in the region's center. Two large islands, known as the Shattered Peninsula, lay a substantial distance away from the mainland in the ocean to the southeast. The region's terrain is mostly flat, with a few small cliffs (especially along the shoreline) and crags with gray, white and beige stone. Beaches of gravel, dirt and clay line the coast.
 
 **Environmental Sub-Regions:**
-- Spruce and oak coniferous forest in west
-- Large lake/inland sea in the center of the region
-- Sparsely wooded grassland along northeastern coast
+
+- Spruce and oak coniferous forest in west <br>
+- Large lake/inland sea in the center of the region <br>
+- Sparsely wooded grassland along northeastern coast <br>
 - Shattered Peninsula (wooded islands in southeast)
 
 Spearhead Forest is home to the coastal town of [[Mossfield|New Mossfield]] on a peninsula in the southeast and the small village of [[Helmshire]] in the western forest, below the Nahynaga mountains. 
@@ -22,7 +23,7 @@ Spearhead Forest is home to the coastal town of [[Mossfield|New Mossfield]] on a
 
 In the early and/or mid-Second Avihm, the entire region was ruled by the powerful, [[Virmari]]-led [[Empire of Vir]], with power being consolidated in the northern city of Virsuhl. It is unknown if Virsuhl was the empire's official capital, although it is the most likely candidate. The empire declined and eventually collapsed due to poor management by its rulers.
 
-Virsuhl continued to serve as a center of commerce, particuarly for trading timber, and it most likely never fell under the rule of [[Avsohm]]. Avsohm appears to have stayed out of the rest of the region as well for its entire duration.
+Virsuhl continued to serve as a center of commerce, particularly for trading timber, and it most likely never fell under the rule of [[Avsohm]]. Avsohm appears to have stayed out of the rest of the region as well for its entire duration.
 
 In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
 
@@ -36,7 +37,7 @@ After the sudden disappearance of [[Vahid|Master Vahid]] at the end of the Third
 
 **Map of Spearhead Forest (sold by [[Adventuring Merchant]] in New Mossfield):**
 
-![[map_1005.png]]{ width="256" }
+![[map_1005.png]]{ width="300" }
 
 ## [[Terminus Network|Terminus Tower]]
 
@@ -85,7 +86,7 @@ Lily Meadows Inn is a colorful inn in central Spearhead Forest, on a small islan
 
 **Coordinates:** (X: 4142, Y: 65, Z: 1725)
 
-### Ruins of Mossfield
+### Ruins of (Old) Mossfield
 
 Mossfield was originally built as a port for an unknown kingdom some time in the Second Avihm. It rose to prominence in the early Av3 500s, when the recreation of airship trade made it an optimal hub of commerce. It quickly grew in size, and became the capital of the Order of Insohm (shortly) and Insohmic Commonwealth. As the Order expanded, Mossfield developed into the largest city in Drehmari history and a center of industry, art and knowledge. It was mostly destroyed at the end of the Third Avihm by intense riots, as Insohm fractured following the departure of Master [[Vahid]]. The grand city's stone ruins lay just up the hill from the modern town of New Mossfield.
 
@@ -99,13 +100,13 @@ Sevick was an isolated town on a small, solitary island in the eastern ocean. It
 
 ### Ruins of Virsuhl
 
-Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the Empire of Vir until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
+[[Virsuhl]] was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the Empire of Vir until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
 
 **Coordinates:** (X: 3971, Y: 72, Z: -43)
 
 ### Skeveraan's House
 
-A large, lakeside house was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practitioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which supported its owner's friendly guise. 
+A [[Skeveraan Laboratory|large, lakeside house]] was home to a Skeveraan who was responsible for abducting many of the children in nearby Helmshire, unbeknownst to the villagers. The Skeveraan is a sect of Bionic Alchemists, and its practitioners are widely condemned by other alchemists. They stitch together features of different corpses into one entity, in order to fabricate creatures with the benefits of its constituent parts. The basement of this house was used as a secret laboratory, hidden under the pleasant-looking upper floors which supported its owner's friendly guise. 
 
 **Coordinates:** (X: 3130, Y: 30, Z: 1273)
 

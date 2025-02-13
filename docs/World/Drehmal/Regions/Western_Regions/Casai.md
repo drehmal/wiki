@@ -72,13 +72,13 @@ The [[Perishing Well]] is a dark and empty shrine to Voynahla inside of a stone 
 
 ### Ruins of Sal'Lohd
 
-The ruins of the former port town of [[Sal'Lohd]] sit on the east coast of Casai, along the Zephyr Sound. It was once an important location for Casain commerce, partly due to strict trade laws, and its markets were patrolled by the Lohdan Port Authority. The [[Artifacts#Inspector's Sidearm|Inspector's Sidearm]] artifact is found here.
+The ruins of the former port town of Sal'Lohd sit on the east coast of Casai, along the Zephyr Sound. It was once an important location for Casain commerce, partly due to strict trade laws, and its markets were patrolled by the Lohdan Port Authority. The [[Artifacts#Inspector's Sidearm|Inspector's Sidearm]] artifact is found here.
 
 **Coordinates:** (X: -2384, Y: 66, Z: -1118)
 
 ### Ruins of Zarha
 
-[[Zarha]] was a city in southern Casai that was home to the Zarha tribe, from which Athrah Zarha came. One other Zarha chieftain is known; Kazabar, who had a deep love for art and died by "consuming the toxic pigments within a particularly vibrant oil painting". The [[Artifacts#Foot Easels|Foot Easels]] artifact and a [[Fervor Stones#Stone of Luxury|Stone of Luxury]] are found here.
+Zarha was a city in southern Casai that was home to the Zarha tribe, from which Athrah Zarha came. One other Zarha chieftain is known; Kazabar, who had a deep love for art and died by "consuming the toxic pigments within a particularly vibrant oil painting". The [[Artifacts#Foot Easels|Foot Easels]] artifact and a [[Fervor Stones#Stone of Luxury|Stone of Luxury]] are found here.
 
 **Coordinates:** (X: -3030, Y: 65, Z: -760)
 

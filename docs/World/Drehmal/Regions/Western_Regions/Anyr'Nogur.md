@@ -58,7 +58,9 @@ On the region's western coast are the ancient, red sandstone ruins of a Casain c
 
 ### Rainbow Desert
 
-A large span of desert in the southern portion of Anyr'Nogur is filled with rainbow-colored sand patterns, centered around a rainbow pyramid. This land is inhabited by rainbow (jeb) sheep, and is almost exclusively referred to within the community as the "Gay Desert". The pyramid at the center of the sub-region holds a single chest with a re-named and re-textured golden apple, the **Gay Apple**.
+![[gaydesert.png]]
+
+A large span of desert in the southern portion of Anyr'Nogur is filled with rainbow-colored sand patterns, centered around a rainbow pyramid. This land is inhabited by rainbow (jeb) sheep, and is almost exclusively referred to within the community as the "Gay Desert". The pyramid at the center of the sub-region holds a single chest with a re-named and re-textured golden apple, the **Gay Apple**. ![[gay_apple.png]]
 
 **Coordinates:** (X: -3204, Y: 137, Z: 3039)
 

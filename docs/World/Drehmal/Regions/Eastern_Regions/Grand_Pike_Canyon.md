@@ -45,7 +45,7 @@ In the far northeast of the region is a small, partially ruined house. Inside, a
 
 ### Shatterhorn Gulch
 
-Shatterhorn Gulch is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their criminals and prisoners of war. The [[Festering Strides]] legendary item can be found here.
+[[Shatterhorn Gulch]] is a massive prison in eastern Grand Pike Canyon, consisting of three stone towers. It was used by the Order of Insohm to securely contain their criminals and prisoners of war. The [[Festering Strides]] legendary item can be found here.
 
 **Coordinates:** (X: 4652, Y: 77, Z: -753)
 

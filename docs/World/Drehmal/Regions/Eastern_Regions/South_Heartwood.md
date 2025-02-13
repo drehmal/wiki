@@ -43,7 +43,7 @@ The South Heartwood's [[Terminus Network#Towers|Terminus tower]] is located in t
 
 ### Epicenter of Mael's Desolation
 
-The epicenter of Mael's Desolation is a vast, pitch-black, scorched crater in the region's middle (east side of the desolated area). Its ground sinks toward its center, where a large, circular shrine made of Skullbeast bones sits. The mythical weapon [[Calamity]] can be obtained here.
+The [[Rock Maw]] is the epicenter of Mael's Desolation, a vast, pitch-black, scorched crater in the region's west. Its ground sinks toward its center, where a large, circular shrine made of Skullbeast bones sits. The mythical weapon [[Calamity]] can be obtained here.
 
 **Coordinates:** (X: 1030, Y: 60, Z: 3833)
 
@@ -55,7 +55,7 @@ Directly outside of the epicenter, to the east, is an old, dilapidated Western-s
 
 ### Port Solitude
 
-Port Solitude is a small, isolated port town on the region's southern coast. Most of its buildings consist of jungle and spruce wood, with red and orange roofs. The town has existed in some form since the Second Avihm, and today it serves as a harbor and pit stop for sailors and pirates. Visitors can shop at the market or pray to [[Dahr]] for safe travels at his church, which has a [[Devotion|devotion]] altar. Passive Mihkmari make up half of Port Solitude's residents.
+[[Port Solitude]] is a small, isolated port town on the region's southern coast. Most of its buildings consist of jungle and spruce wood, with red and orange roofs. The town has existed in some form since the Second Avihm, and today it serves as a harbor and pit stop for sailors and pirates. Visitors can shop at the market or pray to [[Dahr]] for safe travels at his church, which has a [[Devotion|devotion]] altar. Passive Mihkmari make up half of Port Solitude's residents.
 
 **Coordinates:** (X: 1870, Y: 67, Z: 4258)
 
@@ -73,7 +73,7 @@ Stromnar was an Avsohmic-era city in the eastern South Heartwood with a "strong 
 
 ### Tahva
 
-Tahva is a settlement of pirates located on the islands of the southwestern South Heartwood. It is formed by a cluster of niches in the steep, rocky slopes of the islands, with wooden (oak and spruce) supports and infrastructure. The Tahvan people often embark on voyages across the sea, and settle on whatever land they come across.
+[[Tahva]] is a settlement of pirates located on the islands of the southwestern South Heartwood. It is formed by a cluster of niches in the steep, rocky slopes of the islands, with wooden (oak and spruce) supports and infrastructure. The Tahvan people often embark on voyages across the sea, and settle on whatever land they come across.
 
 **Coordinates:** (X: 703, Y: 76, Z: 4674)
 

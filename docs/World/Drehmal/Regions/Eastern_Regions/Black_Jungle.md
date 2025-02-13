@@ -36,7 +36,7 @@ Worship of [[Virtuo]] is still the primary religious faith in the Black Jungle.
 
 **Map of Black Jungle (sold by [[Adventuring Merchant]] in [[Firteid]]):**
 
-![[map_1004.png]]{ width="256" }
+![[map_1004.png]]{ width="300" }
 
 ## Terminus Tower
 
@@ -79,7 +79,7 @@ The [[Kiln of Virtuo]] is large, ornately decorated temple dedicated to Virtuo t
 
 ### Ruins of Vulteid
 
-Vulteid was a city in the west Black Jungle that was of religious importance to the local practitioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood.
+[[Vulteid]] was a city in the west Black Jungle that was of religious importance to the local practitioners of Virtuo's faith. The city was also well-known for its fearsome militias. Its architecture is similar to that of Firteid, but the buildings utilize deepslate and blackstone as its primary materials, and the roofs are always carnelian wood.
 
 **Coordinates:** (X: 3772, Y: 86, Z: 3948)
 
@@ -91,7 +91,7 @@ Zovan was a town on the west coast of the Black Jungle. A large bridge built by 
 
 ### Sahdan Monastery
 
-On an island off the region's south eastern coast is a monastery/library that was built by Sahdans in the mid Second Avihm. It holds two books containing information on Sahd's ancient history, as well as a compass pointing toward Sahd.
+On an island off the region's south eastern coast is a [[Sahdan Monastery|monastery/library]] that was built by Sahdans in the mid Second Avihm. It holds two books containing information on Sahd's ancient history, as well as a compass pointing toward Sahd.
 
 **Coordinates:** (X: 4805, Y: 122, Z: 4567)
 

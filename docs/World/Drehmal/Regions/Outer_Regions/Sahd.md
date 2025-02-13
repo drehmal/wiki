@@ -23,7 +23,7 @@ The city of [[New Sahd]] is located by the bay in the west, at the mouth of the 
 
 ## History
 
-Sahd's ancient history is unknown, but by some time in the mid-Second Avihm, the region's people were divided into [[Sahdan Clans|three clans]]: the Dahe in the north, the Zedoh in the east, and the Osaigah in the south. These clans clashed with each other, culminating in a tragic battle at Mt. Narukin in which all sides were massacred. This destroyed the system of clans.
+Sahd's ancient history is unknown, but by some time in the mid-Second Avihm, the region's people were divided into three clans: the Dahe in the north, the Zedoh in the east, and the Osaigah in the south. These clans clashed with each other, culminating in a tragic battle at Mt. Narukin in which all sides were massacred. This destroyed the system of clans.
 
 The state of the region after this is unclear, with the existence of the [[Emperor's Estate]] implying that there was at least one larger kingdom or empire coming out of the fall of the clans. However, it is known with certainty that the island was overrun by criminals. Sahdan prisoners began being deported to the Black Jungle immediately after the [[Empire of Vir]] fell, around Av2 1360.
 

@@ -103,6 +103,12 @@ Fundamentally, if you just want a cool terrain map, you are probably better off 
 
 If you really want the terrain itself, perhaps look into earlier versions such as [[Drehmal v2|version 2.0]], which has almost all of the modern terrain but is a more bare-bones story. Unless you know how to automate such a process through your own coding knowledge, there is no simple way to just remove the custom content from Drehmal.
 
+### Do I Really Need the Mods? What Do They Do?
+
+Strictly speaking, the mods are not required for most of the map to work. They primarily serve as optimization and visual mods for custom textures and item models, as well as adding the custom skyboxes. The mods do not add significant new content, but rather, help the vanilla-plus content in the map to work and render properly.
+
+Attempting to play without the mods will make traversing the main story very difficult, primarily because [holotexts](/Story_and_Features/Holotexts/) will not appear. These are crucial hints for main story sections, and even leaving the starting area without them is difficult. The map will load and the terrain will be present if you do not have the mods installed, but if you intend to play through Drehmal's actual story at all, do not attempt to play without the mods.
+
 ## Wiki Content
 
 Questions about this wiki itself, and its scope.

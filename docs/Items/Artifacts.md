@@ -1401,7 +1401,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Made from an incredible durable material discovered in small quantities at Sal'Mevir. The Insohmic Coven of Potentia used these weapons to control their Chosen. |
+| **Lore**   | Made from an incredibly durable material discovered in small quantities at Sal'Mevir. The Insohmic Coven of Potentia used these weapons to control their Chosen. |
 | **Obtain** | Located in the Insohmic [[Coven of Potentia]] on the east coast of the Shattered Peninsula. Chest located at **(6035, 61, 1515)**                       |
 
 ??? note "Extra Lore"
@@ -1552,7 +1552,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | These incredible durable boots are all that are left of the Soldier Nemynar, legendary leader of the Hunting Party who perished victorious in his quest for vengeance. |
+| **Lore**   | These incredibly durable boots are all that are left of the Soldier Nemynar, legendary leader of the Hunting Party who perished victorious in his quest for vengeance. |
 | **Obtain** | Located in a large beehive in the [[Underwood]], beneath the [[North Heartwood]]. Chest located at **(1073, 79, 2934)**  |
 
 ### Rusty Sword

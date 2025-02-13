@@ -62,5 +62,8 @@ At the very top of the room is a massive orb, strongly resembling an eye. It is 
 ## Extras
 The dialogue transcript from this section can be found [[End-Game_Dialogue.md#Terminus (Post-Halls)|here]]. This article contains sections 6-8 (**Terminus (Post-Halls)** through **Court of Nothing**).
 
+***
+
+In [[Drehmal v21|version 2.1]], the Court was accessed from a portal on top of a mountain on the [[Island of Dawn]], not at the Stasis Facility. The build for the portal can still be found deep inside that mountain.
 
 [^1]: From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" or "they" to describe Mytho and his voice are purely for spoiler protection at that point in the story.

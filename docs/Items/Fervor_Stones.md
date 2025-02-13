@@ -83,7 +83,7 @@ The final three Fervor Stones are found on [[Lo'Dahr]].
     | **Fervor Stone** | **Domain** | **Location** | **Coordinates** |
     |:----------------:|:----------:|:-------------------------------------------|:------------:|
     | Agony            | [[Nahyn's Domain]] | In a chest near the top of [[Fort Aelon]]. | **(79, 194, -254)** |
-    | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], reached by digging through a wall, in a chest behind a banner. | **(252, 78, -825)** |
+    | Luxury           | [[Moen's Domain]] | In a hidden building in [[Naharja]], in a chest behind a banner. | **(252, 78, -825)** |
     | Worry            | [[Loe's Domain]] | In an isolated room along the [[Greyspire Castle]] roof. | **(-845, 215, 516)** |
 
 ## Use

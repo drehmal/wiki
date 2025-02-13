@@ -69,6 +69,7 @@ Pages which contain outdated information or are unfinished are marked with the "
     - (Help) *[[FAQ]]* <br>
     - (Items) **[All Pages/Sections](/Items/)** <br>
     - (Lore) **[Books](/Lore/Books/)** <br>
+    - (Lore) **[Stasis 8](/Lore/Historical_Figures/Avsohm/Stasis_Eight/)** <br>
     - (Lore) **[Transcripts](/Lore/Transcripts/)** <br>
     - (Misc) *[[Cat Maps]]* <br>
     - (Misc) *[[Glossary]]* <br>
@@ -80,8 +81,7 @@ Pages which contain outdated information or are unfinished are marked with the "
     - (Story & Features) *[[Devotion]]* <br>
     - (Story & Features) **[Holotexts](/Story_and_Features/Holotexts/)** <br>
     - (Story & Features) *[[Story Progression]]* + **[Story Locations](/Story_and_Features/Story_Locations/)** <br>
-    - (World) **[Central Regions](/World/Drehmal/Regions/Central_Regions/)** <br> 
-    - (World) **[Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/)** <br>
+    - (World) **[Regions](/World/Drehmal/Regions/)** <br>
     - (World) **[Official Towns](/World/Drehmal/Settlements/Official_Towns/)** <br>
     - (World) **[Major POI](/World/Drehmal/Points_of_Interest/)** <br>
     ??? warning "Late-Game (Post-75%) Content"

@@ -58,6 +58,12 @@ The [[Foundry]] was an underground Avsohmic facility/factory in the region's sou
 
 **Coordinates:** (X: -3276, Y: 157, Z: 1500)
 
+### Maehrn'Vhos
+
+[[Maehrn'Vhos]], dubbed the "Great Wall of the West", is a towering, ornately carved stone wall, situated on the border between southwestern [[Merijool]] and the Ebony Veldt. A road runs through a gap in its center. It was originally built by the Second Tharhan Empire to ensure safety from the Casain Empire and West Merijool to the north. Today, the wall is used as a [[Mihkmari]] checkpoint.
+
+**Coordinates:** (X: -2171, Y: 63, Z: -161)
+
 ### Mihkmari Camp
 
 A small camp of [[Mihkmari]] is found in acacia wood treehouses in the eastern Veldt, at the southern end of the bridge. This includes a Grafted Mihkmari, guarding the [[Artifacts#Lomach's Warplate|Lomach's Warplate]] artifact.

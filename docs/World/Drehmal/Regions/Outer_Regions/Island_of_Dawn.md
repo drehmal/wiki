@@ -51,7 +51,7 @@ A custom mooshroom named "Kayleigh" stands on the very top of the tower's highes
 
 ### Trivia
 
-The Island of Dawn was the access point for the end-game [[Court of Nothing]] sequence in [[Drehmal 21|version 2.1]], which has since been moved. The now-unused portal for this sequence can still be found deep inside of the large mountain in the western portion of the island.
+The Island of Dawn was the access point for the end-game [[Court of Nothing]] sequence in [[Drehmal v21|version 2.1]], which has since been moved. The now-unused portal for this sequence can still be found deep inside of the large mountain in the western portion of the island.
 
 ***
 

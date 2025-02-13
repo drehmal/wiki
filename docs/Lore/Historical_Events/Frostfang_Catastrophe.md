@@ -2,6 +2,8 @@
 
 --8<-- "under_construction.md"
 
+!!! note "This page is a lore summary of the Frostfang Catastrophe as a historical event. For the in-map book found in Okeke, see [[The Frostfang Catastrophe]]."
+
 The **Frostfang Catastrophe** was an ecological event in Av2 1646 stemming from a conflict between [[Avsohm]] and the tribes of [[Faehrcyle]], led by [[Homli Tahsgan]].
 
 ## Background

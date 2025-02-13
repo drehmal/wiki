@@ -3,6 +3,10 @@ tags:
   - Books
 ---
 
+# The Frostfang Catastrophe (Book)
+
+!!! note "This page is about the book found in Okeke describing the event. For a more thorough lore summary of the Frostfang Catastrophe including information from other sources, see [[Frostfang Catastrophe|this page]]."
+
 This book can be found in a chest on the upper level of the library in [[Okeke]], and tells the story of the [[Frostfang Catastrophe]].
 
 ## Coordinates

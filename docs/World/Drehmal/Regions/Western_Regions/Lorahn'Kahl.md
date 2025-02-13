@@ -20,7 +20,7 @@ The town of [[Mohta]] sits on the tip of a peninsula in the region's east.
 
 ## History
 
-In the early Second Avihm, Lorahn'Kahl was inhabited by a people known as the "Kahlans", who maintained trade with the [[Ancient Drehua]] people to the north.
+In the early Second Avihm, Lorahn'Kahl was inhabited by a people known as the "Kahlans", who maintained trade with the Ancient Drehua people to the north.
 
 The region's history throughout the following centuries is unknown, but some time in the late Av2 1300s or 1400s, outcast [[Necromancy|necromancers]] from the [[Chosen Kingdom]] migrated to Lorahn'Kahl and assembled under the leadership of Saint Raene. This was the foundation of the [[Tri-Moon Theocracy]], which worshiped the trio of [[Lorahn]], [[Loruhn]], and [[LD|Lo'Dahr]].
 
@@ -36,7 +36,7 @@ Mohta once again stands under threat of attack, and is the only remaining settle
 
 **Map of Lorahn'Kahl (sold by [[Adventuring Merchant]] in Mohta):**
 
-![[map_1002.png]]
+![[map_1002.png]]{ width="300" }
 
 ## Terminus Tower
 

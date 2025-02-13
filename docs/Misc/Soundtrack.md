@@ -74,7 +74,7 @@ These 8 songs are tied to a specific location or sequence, but are not town them
 
 ### Town Themes
 
-These 14 songs are each the theme song of an [official town](/World/Drehmal/Settlements/Official_Towns/).
+These 14 songs are each the theme song of an [official town](/World/Settlements/Official_Towns/).
 
 !!! note "This section does not include theme songs for potential late-game spoiler areas, which can be found in the late-game section."
 

@@ -14,7 +14,7 @@ tags:
 
 !!! danger "Despite being found in the late game and not the end-game, any substantive discussion around these books will necessarily delve into end-game spoilers. Even if you have found these books in your playthrough, it is still strongly recommended that you do not read this article unless you have already reached the true end of the map, as described above."
 
-The Facets are a collection of seven (7) signed (non-editable), written books found in [[Lo'Dahr]] through a questline tied to the [[Syzygy]] mythical weapon. The first six facets are all awarded after completing one of the [six trials](/World/Post-75_Area/Points_of_Interest/Trials/) on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
+The Facets are a collection of seven (7) signed (non-editable), written books found in [[Lo'Dahr]] through a questline tied to the [[Syzygy]] mythical weapon. The first six facets are all awarded after completing one of the [six trials](/World/Late-Game/Points_of_Interest/Trials/) on the moon, and the seventh is awarded at the final location the player is guided towards after completing all of the trials.
 
 The facets are written as verses of scripture, containing apocalyptic prophecies foreseen by [[Rihelma]].
 

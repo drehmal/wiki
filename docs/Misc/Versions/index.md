@@ -28,7 +28,7 @@ The map is only 8,000 blocks by 8,000 blocks in size, as opposed to the 12,000 b
 
 Drehmal v2.0 (released with the subtitle: PRIMΩRDIAL) was the first major public update to Drehmal, first announced to PMC in early 2019 and officially released on March 31, 2020 for Minecraft Java Edition 1.15.2. 2.0 gained significant attention from posts by Keeko100 on r/gaming and r/Minecraft, each of which sit at over 100,000 upvotes.
 
-Drehmal v2 is the first instance of modern Drehmal, featuring a massive terrain overhaul which brought the landscape very close to its current appearance and size. It also greatly increased the amount of structures found throughout the world, added the majority of the [towns](/World/Drehmal/Settlements/Official_Towns/), the first custom weapons, and the first iteration of the main story.
+Drehmal v2 is the first instance of modern Drehmal, featuring a massive terrain overhaul which brought the landscape very close to its current appearance and size. It also greatly increased the amount of structures found throughout the world, added the majority of the [towns](/World/Settlements/Official_Towns/), the first custom weapons, and the first iteration of the main story.
 
 ## Drehmal v2.1 (Timebreak)
 

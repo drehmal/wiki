@@ -6,7 +6,7 @@ Artisan items are denoted by a yellow "Artisan" text in their item description.
 
 ## Artisan Armor Sets
 
-At [official towns](/World/Drehmal/Settlements/Official_Towns/), Runic Blacksmiths sell complete sets of artisan armor, which provides a uniform stat boost for each piece worn. These artisan sets vary in quality and material based on how far in the game they are meant to be accessed. Towns closer to the center of the map generally sell weaker armor sets (chainmail or iron), while the furthest towns sell enhanced diamond artisan armor sets, which require Runic Amplifiers to purchase.
+At [official towns](/World/Settlements/Official_Towns/), Runic Blacksmiths sell complete sets of artisan armor, which provides a uniform stat boost for each piece worn. These artisan sets vary in quality and material based on how far in the game they are meant to be accessed. Towns closer to the center of the map generally sell weaker armor sets (chainmail or iron), while the furthest towns sell enhanced diamond artisan armor sets, which require Runic Amplifiers to purchase.
 
 A list of artisan sets and their stat bonuses is found in the dropdown table below.
 
@@ -30,7 +30,7 @@ A list of artisan sets and their stat bonuses is found in the dropdown table bel
     | [[Tharxax City]] | Crystal Fiber Set | Diamond | +2 Armor Toughness, +15% Movement Speed, and -2 Max Health per piece worn, stacking up to +60% Movement Speed and -8 Max Health (-4 Hearts) with full set. |
 
 ## Central Regions
-These artisan items are sold by Runic Blacksmiths in the [Central Regions](/World/Drehmal/Regions/Central_Regions/)—[[Capital Valley]], [[Palisades Heath]], and the [[Gulf of Drehmal]].
+These artisan items are sold by Runic Blacksmiths in the [Central Regions](/World/Regions/Central_Regions/)—[[Capital Valley]], [[Palisades Heath]], and the [[Gulf of Drehmal]].
 
 ### [[Drabyel|New Drabyel]]
 The New Drabyel Runic Blacksmith is located just outside of a building in the center of the town, at **(526, 65, 1839)**.
@@ -209,7 +209,7 @@ There is a Runic Blacksmith on the top level of the Whale's Tale, located at **(
 | **Cost** | 14 Scales  |
 
 ## Eastern Regions
-This section contains artisan items sold by Runic Blacksmiths in the [Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/).
+This section contains artisan items sold by Runic Blacksmiths in the [Eastern Regions](/World/Regions/Eastern_Regions/).
 
 ### [[Ancehl Castle]]
 The Runic Blacksmith in Ancehl Castle is located in the orange concrete building near its entrance, at **(1524, 150, -1967)**.
@@ -957,7 +957,7 @@ An isolated cabin on the eastern face of the hill with the Veruhkt Plateau tower
 | **Cost** | 30 Scales  |
 
 ## Western Regions
-This section contains artisan items sold by Runic Blacksmiths in the [Western Regions](/World/Drehmal/Regions/Western_Regions/).
+This section contains artisan items sold by Runic Blacksmiths in the [Western Regions](/World/Regions/Western_Regions/).
 
 ### [[Anyr'Nogur]]
 An isolated house in southwestern Anyr'Nogur is home to a Runic Blacksmith, at **(-3460, 125, 2803)**.
@@ -1770,7 +1770,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 | **Cost** | 33 Scales <br>64 Bricks |
 
 ## Outer Regions
-This section contains artisan items found in the [Outer Regions](/World/Drehmal/Regions/Outer_Regions/)—[[Sahd]] and the [[Island of Dusk|Islands of Dusk]] and [[Island of Dawn|Dawn]]. The only artisan items in the Outer Regions are found on Sahd.
+This section contains artisan items found in the [Outer Regions](/World/Regions/Outer_Regions/)—[[Sahd]] and the [[Island of Dusk|Islands of Dusk]] and [[Island of Dawn|Dawn]]. The only artisan items in the Outer Regions are found on Sahd.
 
 ### [[Morah]]
 The Runic Blacksmith in Morah is found at **(4502, 146, 5590)**.

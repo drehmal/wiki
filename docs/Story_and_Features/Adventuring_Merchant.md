@@ -5,7 +5,7 @@
 ![[drabyel_adventuring_merchant.png]]
 > The Adventuring Merchant in New Drabyel.
 
-Adventuring Merchants are special merchants, one of which can be found in each [official town/city](/World/Drehmal/Official_Towns/) (with the exception of [[Rhaveloth]]). An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of [[Overworld|Drehmal]] that displays all official towns on the mainland, a bundle, a runic vessel (shulker box), and another special item that is unique to the merchant, and usually is associated with their area.
+Adventuring Merchants are special merchants, one of which can be found in each [official town/city](/World/Official_Towns/) (with the exception of [[Rhaveloth]]). An Adventuring Merchant's stall or building is marked by red and orange wool awning. Each of them sells a map of the town's region, a map of [[Overworld|Drehmal]] that displays all official towns on the mainland, a bundle, a runic vessel (shulker box), and another special item that is unique to the merchant, and usually is associated with their area.
 
 ## Trades
 

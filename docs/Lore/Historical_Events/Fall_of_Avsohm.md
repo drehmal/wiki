@@ -1,5 +1,7 @@
 # The Fall of Avsohm
 
+!!! note "This page is an extensive lore summary of the events leading up to and happening during the collapse of the empire. For the much shorter lore book found in the map in Drabyel, see [[The Fall of Avsohm]]."
+
 The Empire of [[Avsohm]], far and away the most powerful political entity to ever exist on [[Overworld|Drehmal]], met a mysterious and violent fate, marking the end of the Second Avihm. The [[Story Progression|main story]] of the map often revolves around uncovering the truth of what happened to Avsohm and why, and this article contains an account of the empire's death.
 
 This information is designed to be learned in-game over the course of nearly the entire story, so be advised that if you have not completed the story, much of this information may be new to you, likely spoiling the experience of playing the game yourself.

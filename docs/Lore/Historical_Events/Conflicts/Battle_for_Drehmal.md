@@ -9,7 +9,7 @@ The Battle of Drehmal was a long war waged by the Order of Insohm against the Em
 
 ## Background
 
-Masters Ultva and Hovadchear, the founders of the Order of Insohm, were greatly inspired by the immense power and success of the [[Avsohm|Avsohmic Empire]] in the Second Avihm. Their intention for the Order was to be an alliance of many countries participating in a unified struggle against the Empire of Maelihs in the [West](/World/Drehmal/Regions/Western_Regions/). Insohm paid a lot of effort to the research and recreation of Avsohmic technology, which the masters believed was the key to a successful war against Maelihs's forces. The early years of the Order were plagued with war and internal conflict. However, the alliance ultimately remained intact, and after a period of peace and preparation, the Coalition began their campaign in the West.
+Masters Ultva and Hovadchear, the founders of the Order of Insohm, were greatly inspired by the immense power and success of the [[Avsohm|Avsohmic Empire]] in the Second Avihm. Their intention for the Order was to be an alliance of many countries participating in a unified struggle against the Empire of Maelihs in the [West](/World/Regions/Western_Regions/). Insohm paid a lot of effort to the research and recreation of Avsohmic technology, which the masters believed was the key to a successful war against Maelihs's forces. The early years of the Order were plagued with war and internal conflict. However, the alliance ultimately remained intact, and after a period of peace and preparation, the Coalition began their campaign in the West.
 
 ## Early War
 

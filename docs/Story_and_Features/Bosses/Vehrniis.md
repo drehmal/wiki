@@ -8,7 +8,7 @@
 
 **The Vehrniis** (pronounced "vurr-neese") is a massive sea serpent boss found in [[Challenger's Grotto]].
 
-The Vehrniis can be fought at any time if the player reaches her arena, and defeating her rewards the player with the [[Proxigea]] legendary weapon. This is not one of the [six trials](/World/Post-75_Area/Points_of_Interest/Trials/) on the moon.
+The Vehrniis can be fought at any time if the player reaches her arena, and defeating her rewards the player with the [[Proxigea]] legendary weapon. This is not one of the [six trials](/World/Late-Game/Points_of_Interest/Trials/) on the moon.
 
 ## Extras
 

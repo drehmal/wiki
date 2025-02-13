@@ -46,12 +46,12 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
 - Added custom [[Adventuring Merchant]] and [[Runic Blacksmith]] merchants, which offer specialized trades for adventuring/exploring materials and unique Artisan gear, respectively. <br>
 - Added [[Runic Catalyst|Runic Catalysts]], an uncommon type of loot found throughout the world used as currency with the aforementioned new merchant types. <br>
 - Added the city of [[Rhaveloth]]. <br>
-- Added eleven new [small settlements](/World/Drehmal/Settlements/Other_Settlements/) to the world. <br>
+- Added eleven new [small settlements](/World/Settlements/Other_Settlements/) to the world. <br>
 - Fully rebuilt all 39 ruins across Drehmal to be visually distinct from one another, and to have clear lore that sets them apart. Previously, all ruined towns were, for the most part, generic stone brick ruins. <br>
 - The terrain of the [[Frozen Bite]] and [[Highfall Tundra]] regions in the northeast were fully rebuilt to stand out more from neighboring [[Faehrcyle]] and add variety. <br>
 - A complete custom [[soundtrack]] was added to the game, replacing the previous soundtrack which was made up of tracks from popular video games such as The Legend of Zelda: Breath of the Wild, Hollow Knight, and Bloodborne. <br>
 - Massively expanded several ruins and inhabited towns. Most notably, these include [[Firteid]], [[Highfall]], the [[Kiln of Virtuo]], the [[Burnt Palace]], and [[Sal'Anyr]].
-- Added various new non-settlement [points of interest](/World/Drehmal/Points_of_Interest/) throughout the world, ranging from small loot structures to massive dungeons and complex structures. These include [[Teiruun Monastery]], [[Ancehl Castle]], and [[Drehua Temple]], to name a few.
+- Added various new non-settlement [points of interest](/World/Points_of_Interest/) throughout the world, ranging from small loot structures to massive dungeons and complex structures. These include [[Teiruun Monastery]], [[Ancehl Castle]], and [[Drehua Temple]], to name a few.
 - Added well over 100 new lore books. <br>
 - Removed access to the Nether. Nether portals now self-destruct almost immediately after being lit. <br>
 - Re-textured default villagers to be [[Drehmari]] consistent with Drehmal's lore, making them look like regular humans with antlers. Other races were also given custom textures, including the [[Maelmari]] and [[Tehrmari]], found throughout the world.
@@ -101,7 +101,7 @@ For official developer changelogs, see [drehmal.net/blog](https://www.drehmal.ne
         - [[Tul'Vohaln]] <br>
         - [[Warp Horse]] <br>
         - [[Whispersong]] <br>
-        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Trials](/World/Post-75_Area/Points_of_Interest/Trials/)). <br>
+        The two new mythical weapons added are [[Zenith]] (in the [[Foundry]]) and [[Syzygy]] (as a reward for completing the [Trials](/World/Late-Game/Points_of_Interest/Trials/)). <br>
         The start of the quest for [[Oblivion]] was moved to [[Highfall]], with the Compass of Nihility previously being found beneath the Tidal Palace in [[Firteid]]. <br>
     ??? abstract "New (Non-Story) Content"
         2.2 adds many new settlements and other points of interest, many of which are listed below. <br>

@@ -26,7 +26,7 @@ Merchants that specialize in selling specific items (usually related to their su
 
 [[Runic Blacksmith|Runic Blacksmiths]] are present in most settlements, and some other populated structures (or random, solitary locations), indicated by blue striped canvas. They sell [[Artisan Items|artisan items]], which have stat modifiers and lore pertaining to where the blacksmith is.
 
-[[Adventuring Merchant|Adventuring Merchants]] are present at all official towns on [[Overworld|Drehmal]], indicated by striped red and orange canvas. They sell a map of the town's region (showing some nearby landmarks), a map of Drehmal showing the locations of all [official towns](/World/Drehmal/Settlements/Official_Towns/) on the mainland continent, bundles, and an additional item that differs with each merchant.
+[[Adventuring Merchant|Adventuring Merchants]] are present at all official towns on [[Overworld|Drehmal]], indicated by striped red and orange canvas. They sell a map of the town's region (showing some nearby landmarks), a map of Drehmal showing the locations of all [official towns](/World/Settlements/Official_Towns/) on the mainland continent, bundles, and an additional item that differs with each merchant.
 
 ## [[Devotion]]
 

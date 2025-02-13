@@ -114,7 +114,7 @@ The [[Mythbreaker]] is a spear, forged by the Empire of [[Avsohm]] as their pros
 There is only one mythical weapon found outside of the main open world of Drehmal.
 
 ### Syzygy ![[syzygy.png]]{ width="36" }
-[[Syzygy]] is a mythical crossbow, obtained by completing all six of its [trials](/World/Post-75_Area/Points_of_Interest/Trials/) in the post-75% area.
+[[Syzygy]] is a mythical crossbow, obtained by completing all six of its [trials](/World/Late-Game/Points_of_Interest/Trials/) in the post-75% area.
 
 ??? warning "Syzygy Details (LATE-GAME SPOILERS)"
     | ![[syzygy.png]]{ width="48" } | Syzygy                               |

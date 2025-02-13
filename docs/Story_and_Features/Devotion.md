@@ -57,7 +57,7 @@ Drehmal's devotion hint book reads as follows:
 
 > Dear traveler, welcome to Drehua. We encourage you to follow the path until its end and stay for a teaching in the Hall of Tranquility. And remember that the **Serpent** is long; feel free to leave an offering by **any statue of Their form**, not just those in this place.
 
-Devotion hints for Drehmal are found at the base of statues of the serpent throughout the [Central Regions](/World/Drehmal/Regions/Central_Regions/).
+Devotion hints for Drehmal are found at the base of statues of the serpent throughout the [Central Regions](/World/Regions/Central_Regions/).
 
 ??? info "Hint Locations"
     Statues of Drehmal with offerings can be found in [[Drehua Temple]], [[Drabyel]], [[Gozak]], near the [[Palisades Heath#Drehuan Sculptures|Drehuan Sculptures in Palisades Heath]], [[Solvei]], the ruins of [[North Heartwood#Ruins of Rhaverik|Rhaverik]], and [[Drahbes]].
@@ -75,7 +75,7 @@ Virtuo's devotion hint book reads as follows:
 
 > When Virtuo left, She took most of her Virmari with her. But while some left the faith in disgust, the faith of most Drehmari have not shaken. In **Parishes all across the East**, we of the lesser race continue to leave offerings at **Her statues**. We all know that our kind and noble Goddess will soon return!
 
-Devotion hints for Virtuo are found at the base of statues of her form, found throughout the [Eastern Regions](/World/Drehmal/Regions/Eastern_Regions/).
+Devotion hints for Virtuo are found at the base of statues of her form, found throughout the [Eastern Regions](/World/Regions/Eastern_Regions/).
 
 ??? info "Hint Locations"
     Statues of Virtuo are located in four major eastern towns: [[Dusps]], [[Highfall]], [[Mossfield]], and [[Firteid]]. The [[Black Jungle#Virtuo Statue|State of Virtuo]] in the Black Jungle also contains offerings to the Goddess.
@@ -93,7 +93,7 @@ Mael's devotion hint book reads as follows:
 
 > Attention, spectators. The Speakers of the Sepulchral Altar would like to thank you for attending today’s Ascension. On behalf of the Burnt Generals, we ask that you leave offerings at the many other **statues of Maelihs throughout His domain** instead of coming to the sanctum after the ritual. Thank you.
 
-Similar to the other two deities, devotion hints for Maelihs are found at the base of statues of his form, found throughout his domain in the [Western Regions](/World/Drehmal/Regions/Western_Regions/).
+Similar to the other two deities, devotion hints for Maelihs are found at the base of statues of his form, found throughout his domain in the [Western Regions](/World/Regions/Western_Regions/).
 
 ??? info "Hint Locations"
     Statues of Maelihs are found in only three major towns: [[Rhaveloth]], [[Ebonrun]], and [[Tharxax City]]. The final devotion hint, and the only one containing his highest-tier offering, is a different statue, similar to Virtuo. This statue is the Titan of Strength, found at the entrance to the [[Hellcrags]].

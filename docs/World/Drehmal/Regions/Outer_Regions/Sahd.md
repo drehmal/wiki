@@ -39,6 +39,9 @@ Sahd appears to have experienced an isolated yet peaceful history throughout the
 
 ## Terminus Tower
 
+![[SD_tower.png]]
+> The Sahd tower.
+
 Sahd's [[Terminus Network#Towers|Terminus tower]] is located in the Seha Highlands east of New Sahd, directly next to a pagoda. A row of floating platforms suspended by balloons forms a bridge between this structure's highest floor and the top leaves of a cherry blossom tree that stands in front of the tower. On the far side of the treetop, a ladder leads up to a couple of small wooden platforms attached to the side of the Terminus tower at its midpoint. There are no hostile entities present.
 
 **Coordinates:** (X: 5014, Y: 186, Z: 5626)

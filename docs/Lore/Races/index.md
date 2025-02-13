@@ -2,7 +2,7 @@
 
 The realm of Drehmal contains at least five distinct humanoid races, all of which can be found and interacted with in game to some extent.
 
-## Main 5
+## Main Races
 
 [[Drehmari]]: The dominant humanoid race, replacing standard villagers.
 

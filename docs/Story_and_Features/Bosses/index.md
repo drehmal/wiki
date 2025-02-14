@@ -6,4 +6,4 @@ Drehmal contains multiple custom bosses and minibosses, some of which can be fou
 
 For the purposes of this wiki, **Bosses** are custom enemies with a health bar that appears at the top of the screen when fought. Some can be found in the open world as optional challenges, but others are only reached through story progression into the end-game.
 
-**Minibosses**, on the other hand, are simply named entities that do not have a health bar, but who are much stronger than normal enemies or have an encounter centered around them.
+**[Minibosses](/Story_and_Features/Bosses/Minibosses/)**, on the other hand, are simply named entities that do not have a health bar, but who are much stronger than normal enemies or have an encounter centered around them.

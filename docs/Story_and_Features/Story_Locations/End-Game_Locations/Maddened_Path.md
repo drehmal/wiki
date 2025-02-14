@@ -51,7 +51,7 @@ The Mythoclast informs the player that "nothing remains," and opens one final po
 ## Gameplay
 In the Maddened Path, the player remains in Adventure Mode. 
 
-The majority of the area must be traversed by jumping between floating chunks of land and structures. Typically, if not clear, the path forward is denoted by carpets placed on these platforms. The player is not punished for falling into the void by death like they are at the [[Nothing Island|Nothing]], but rather, are teleported back to a prior checkpoint.
+The majority of the area must be traversed by jumping between floating chunks of land and structures. Typically, if not clear, the path forward is denoted by carpets placed on these platforms. The player is not punished for falling into the void by death like they are at the [[Nothing Island|Nothing]], but rather, are teleported back to a prior checkpoint and lose a small amount of health. If a player falls on very low health, they will die (and receive a unique death message).
 
 There are custom enemies found along the path, but they do not all exhibit hostility toward the player. They each have custom models, and if hovered over, their names appear as garbled text. These include versions of humanoid enemies (skeletons and zombies), as well as guardians.
 

@@ -100,3 +100,9 @@ Multiple pertinent Avsohmic officers are known to have spent time here, predomin
 
 ## Extras
 The dialogue transcript from this section of the story can be found [[End-Game_Dialogue.md#Terminus (Post-Azimuth)|here]]. This article pertains to the 4th and 5th sections: **Terminus (Post-Azimuth)** and **Resonant Halls**.
+
+### Soundtrack
+
+The Resonant Halls has its own version of the Mt. Yavhlix ambience, "Resonant Halls" by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PaxLkUCB7Lk?si=beezBFwftV3xSQaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

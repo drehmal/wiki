@@ -135,3 +135,14 @@ Beginning in the [[Primary Energy Collection Facility]] inside [[Mt. Yavhlix]], 
     | [Before the Storm](https://youtu.be/Ylo0oRnBzec?si=Zv-nbcnS3g4IjsmM) | [[Maddened Path]] | Composer Chris Nesja stated in a YouTube reply that this song was inspired by the Outer Wilds OST. |
     | [At the Edge of Oblivion](https://youtu.be/-NBy8oQW4fE?si=h-IIe2Uv5H9e7V_p) | [[Maddened Path]] | Theme for the [[Emissary of the Void]] boss fight. |
     | [Death of a World](https://youtu.be/a6yb-QK8PL8?si=CD3grGaQRCAiOf3S) | [[True End]] | Plays out over the final credits, on a very specific timer. This song is based on "[Death of Åse](https://youtu.be/2aKxf1h5r4g?si=E4VShWu7o7sJOBcZ)", a Romantic-era composition from the incidental music written by Edvard Grieg for [Peer Gynt](https://en.wikipedia.org/wiki/Peer_Gynt), a 19th-century Norwegian play by Henrik Ibsen.  |
+
+#### Bonus Tracks
+
+In addition to the main 51 songs, there are 3 additional bonus tracks which may not be considered full songs, but rather, are ambient sounds tied to [[Mt. Yavhlix]]. These are not included in the main Drehmal OST playlist, but can be found on Chris Nesja's YouTube channel.
+
+??? question "Yav Ambience"
+    | **Title** | **Location** | **Notes** |
+    |:--------------:|:--------------:|:-------------------------------------------------------------------|
+    | [The Mountain of Holes](https://youtu.be/k_dB8MBCEDk?si=D3DilOkR4fKx0ky3) | Outside of [[Mt. Yavhlix]]. | Very faint ambience when standing outside of the door. |
+    | [Fear and Madness](https://youtu.be/ASLPyUvMR4Q?si=RDLsF-ppg1SX8nRF) |  Inside of Mt. Yavhlix. | More prominent ambience in the [[Primary Energy Collection Facility]], with more jarring noises. |
+    | [Resonant Halls](https://youtu.be/PaxLkUCB7Lk?si=jnRqvTxuPqMmVZlU) | In the [[Resonant Halls]] | A further iteration of the previous two tracks. |

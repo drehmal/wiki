@@ -47,3 +47,11 @@ The Primary Energy Collection Facility is a significant dungeon in the end-game,
 A secret pitch-black underground maze is located in the region, containing a [[Oblivion|valuable prize]]. The knowledge of the whereabouts of its entrance and the key needed are acquired through a longer quest.
 
 **Coordinates:** (X: 1663, Y: 97, Z: -4135)
+
+## Extras
+
+### Soundtrack
+
+When standing just outside of the large door at Mt. Yavhlix, a faint ambient track plays. This is "The Mountain of Holes", by Drehmal composer Chris Nesja.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_dB8MBCEDk?si=D3DilOkR4fKx0ky3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

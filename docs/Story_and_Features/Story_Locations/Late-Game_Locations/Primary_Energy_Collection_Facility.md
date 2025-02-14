@@ -97,5 +97,11 @@ For additional information on the lore of the facility, particularly the expedit
 ## Extras
 Far in the back of the cave that the facility sits in, to the right (west), a chest with a unique sword can be found. This netherite sword, named "A Dumb Sword," has every single enchantment in the game.
 
+### Soundtrack
+
+The track which plays inside of Mt. Yavhlix, including its brief skips and eerie noises, is "Fear and Madness", by Drehmal composer Chris Nesja. It is an elaboration on the ambience from outside of the mountain.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASLPyUvMR4Q?si=E87syvYtd8DqpIlL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [^1]: Screenshot taken with night vision effect applied, as the inside of the mountain is usually extremely dark. 
 [^2]: While in Mt. Yavhlix, the item-name dialogue feature should not affect the NBT data of any held items—for example, Mythical and Legendary weapons may have their names changed, but this should not affect their functionality at all. However, it is known that if the player places or holds a shulker box containing other items with custom NBT data (enchanted books, artifacts, custom weapons, or any other items that Drehmal re-skins), the NBT data of the items inside the shulker can be erased. Therefore, it is recommended that you as the player refrain from bringing shulker boxes into Mt. Yavhlix, but if you must do so, then try to avoid storing anything valuable with custom NBT data in that shulker box.

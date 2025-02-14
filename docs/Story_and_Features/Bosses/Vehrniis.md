@@ -34,11 +34,11 @@ Like all other bosses, the Vehrniis' health scales based on the number of player
 
 | **Players** | **Health** |
 |:-----------:|:----------:|
-| 1 | 1900 |
-| 2-3 | 3000 |
-| 4-5 | 4200 |
-| 6-7 | 5500 |
-| 8+ | 7500 |
+| 1 | 190 |
+| 2-3 | 300 |
+| 4-5 | 420 |
+| 6-7 | 550 |
+| 8+ | 750 |
 
 ![[bernice.png]]
 
@@ -64,7 +64,7 @@ It is not known exactly when this challenge was issued, but per developer inform
 
 ### Known Issues
 
-The Vehrniis boss fight is known to be extremely laggy at times, making the boss move in a very slow and choppy manner. This seems to be particularly prevalent in version 2.2.1, and there is no known simple fix. This issue has reportedly been fixed in later 2.2.2 versions, but experiences may vary.
+The Vehrniis boss fight is known to be extremely laggy at times, making the boss move in a very slow and choppy manner as if the ticks per second have drastically dropped. This seems to be particularly prevalent in version 2.2.1, and there is no known simple fix. This issue has reportedly been fixed in later 2.2.2 versions, but experiences may vary.
 
 ### Origin and Name
 

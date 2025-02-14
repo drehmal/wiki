@@ -45,7 +45,7 @@ He is immediately capable of a wide range of attacks using his scythe and manipu
 
 The Emissary is best fought like a Dark Souls boss at this point; sneaking in for short windows to get in a melee attack or two before re-establishing distance.
 
-## Phase 2 { data-search-exclude }
+### Phase 2 { data-search-exclude }
 
 ![[em_p2.png]]
 > The Phase 2 Emissary, mid-attack.

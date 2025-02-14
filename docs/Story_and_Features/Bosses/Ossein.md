@@ -25,7 +25,7 @@ Players will come to the shrine pictured above, with the message "A calamitous e
 
 ## Fight
 
-After a few seconds, Ossein will appear in the center of the arena, riding a skeleton horse. While on horseback, Ossein will utilize exclusively ranged attacks, shooting at the player with a Power 20-enchanted bow and blindness-tipped arrows. Ossein's is also capable of spawning wither skull projectiles, telegraphed by a small ring of particles over the ground, where groups of 3-5 will appear. The horse can be killed relatively easily, as it has only 40 health.
+After a few seconds, Ossein will appear in the center of the arena, riding a skeleton horse. While on horseback, Ossein will utilize exclusively ranged attacks, shooting at the player with a Power 20-enchanted bow and blindness-tipped arrows. Ossein's is also capable of spawning wither skull projectiles, telegraphed by a small ring of particles over the ground, where groups of 3-4 will appear. The horse can be killed relatively easily, as it has only 40 health.
 
 Like all bosses, Ossein's health scales based on the number of players configured in the `/trigger Settings` menu.
 
@@ -36,6 +36,8 @@ Like all bosses, Ossein's health scales based on the number of players configure
 | 4-5 | 320 |
 | 6-7 | 455 |
 | 8+ | 560 |
+
+![[ossein.png]]
 
 Once Ossein's horse is dead, he becomes much more mobile and dangerous, wielding a base movement speed of 0.42 (over 4x faster than the player's walk speed). On foot, he will continue shooting at the player with his bow and wither skull projectiles, but can also switch to Calamity. When the item in Ossein's right hand switches to the claw, players have about a second to get out of the range of his True Catastrophe attack, in which he will rise straight up and slam into the ground, dealing damage to anything within about 10-15 blocks of his landing point.
 

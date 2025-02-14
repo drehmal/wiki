@@ -34,7 +34,7 @@ There are at least 5 references to Ekari in the map.
 - [[Stasis Subject Roster]] - Mentioned as one of the officers in stasis. <br>
 - [[A Brief Overview of Avsohmic Art History]] - A summary of Avsohmic art history which mentions Ekari's historical relevance. <br>
 - [[Thought-recording of Ekari, Number 8710]] - A diary from Ekari in the [[Admin Wing]], as they conceptualized [[Sal'Mevir]]. <br>
-- [[Wealthy Citizen’s Reflections]] - The author of this book found in [[Av'Sal]] mentions her working relationship to Ekari.
+- [[Wealthy Citizen's Reflections]] - The author of this book found in [[Av'Sal]] mentions her working relationship to Ekari.
 
 ## Extras
 

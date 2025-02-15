@@ -54,7 +54,7 @@ This refers to the pockets of powdered snow in the area. At the bottom of these 
     
 Loe will grant the following rewards in exchange for increasing player devotion:
 
-??? success "Devotion Rewards"
+??? success "Loe Devotion Rewards"
     | Level  | Reward                               |
     |:------:|:-------------------------------------|
     | Lvl 1  | Cryostatic +0                        |

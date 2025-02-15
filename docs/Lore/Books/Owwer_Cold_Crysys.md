@@ -16,7 +16,7 @@ This book can be found in an item frame at the Crystalline Colonnade, sacred pla
 > Tho nu pits ar shoing up less, we wysh they wud just stop for gud!
 
 ## Translation
-> We have grown impatient as of late. Another new pit of **strange soft snow** has opened up around our Arch-Duchal Castle! Despite throwing all of those things **into the pits** like the Loe Follower said!
+> We have grown impatient as of late. Another new pit of **strange soft snow** has opened up around our Archducal Castle! Despite throwing all of those things **into the pits** like the Loe Follower said!
 >
 > Though new pits are showing up less, we wish they would just stop for good!
 

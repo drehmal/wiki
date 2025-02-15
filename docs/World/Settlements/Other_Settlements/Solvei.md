@@ -1,9 +1,3 @@
----
-tags:
-    - Locations
-    - Cities
----
-
 # Solvei
 
 ![[Solvei1.webp]]{ align=right width="300" }

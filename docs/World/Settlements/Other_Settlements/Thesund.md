@@ -1,9 +1,3 @@
----
-tags:
-    - Locations
-    - Cities
----
-
 # Thesund
 
 ![[Thesund1.webp]]{ align=right width="300" }

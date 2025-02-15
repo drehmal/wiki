@@ -1,7 +1,5 @@
 # I.C.S. Arbiter
 
---8<-- "under_construction.md"
-
 ![[ics_arbiter.png]]
 
 The **I.C.S. Arbiter** (likely standing for Insohmic Coalition Ship) is an airship located just off the northeastern coast of [[Merijool]]. Along with [[Mossfield]], it is the only surviving remnant of the [[Insohm|Order of Insohm]] in modern Drehmal. The [[Whispersong]] legendary bow is found here.

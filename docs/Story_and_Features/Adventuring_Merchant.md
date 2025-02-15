@@ -1,7 +1,5 @@
 # Adventuring Merchant
 
---8<-- "under_construction.md"
-
 ![[drabyel_adventuring_merchant.png]]
 > The Adventuring Merchant in New Drabyel.
 
@@ -30,11 +28,11 @@ Every Adventuring Merchant on Drehmal sells a Map of Drehmal, which depicts the 
 > Okeke (yellow) <br>
 > Ebonrun (light red)<br>
 > Athrah (orange)<br>
-> Fort Nimahj (blue)<br>
+> Fort Nimahj (blue - west)<br>
 > Tharxax (red)<br>
 > Mohta (light blue)<br>
 > Firteid (cyan)<br>
-> Mossfield (medium blue)<br>
+> Mossfield (blue - east)<br>
 > Highfall (magenta)<br>
 > Dusps (pink)
 

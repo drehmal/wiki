@@ -1,7 +1,5 @@
 # v2: PRIMΩRDIAL
 
---8<-- "under_construction.md"
-
 **Drehmal v2: PRIMΩRDIAL** (also referred to simply as v2 or 2.0) was the first major update to the Drehmal Minecraft map, released on March 31, 2020 for Minecraft: Java Edition 1.15.2.
 
 Featuring fully re-imagined terrain on a larger, 12k by 12k grid, the landscape of Drehmal v2 is nearly identical to the current version. The lone exception to this is the rework of the northeastern regions which was done in 2.2.

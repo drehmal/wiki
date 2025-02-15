@@ -5,8 +5,6 @@ search:
 
 # Terminus Network
 
---8<-- "under_construction.md"
-
 ![[central_towers.png]]
 > The Central Towers Hall in the Terminus
 

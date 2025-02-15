@@ -1,7 +1,5 @@
 # v2.2: APOTHEΩSIS
 
---8<-- "under_construction.md"
-
 **Drehmal v2.2: APOTHEΩSIS** is the most recent major content update to Drehmal v2. Made over the course of more than three years by a greatly expanded team of over 15 developers, 2.2 is by far the largest content update for Drehmal.
 
 2.2 was released in beta form on August 19, 2023, and was fully released on April 5, 2024. It has since received one major update: version 2.2.1 on July 16, 2024, which ported the map to Minecraft 1.20.1.

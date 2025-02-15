@@ -5,8 +5,6 @@ search:
 
 # Drehmal (Location)
 
---8<-- "under_construction.md"
-
 !!! tip "This page is about the world of Drehmal which players can explore in-game. For the serpent deity that shares a name with the world, see [[Drehmal]]."
 
 ![[full_drehmal_map.png]]{ align=center width="800" }

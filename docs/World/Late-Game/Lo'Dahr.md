@@ -18,8 +18,6 @@ search:
 
 # Lo'Dahr
 
---8<-- "under_construction.md"
-
 ![[zoomed_LD_map.png]]
 
 The divine moon of **Lo'Dahr** is the home of the [Aspects](/Lore/Higher_Beings/Aspects/), and the second main dimension available to explore in Drehmal: Apotheosis. The habitable area of the moon encompasses slightly fewer than 3000 by 3000 blocks, making Lo'Dahr significantly smaller than Drehmal. However, the moon adds markedly more extravagant biomes, adds many custom mobs, boasts builds that surpass those found on the main continent, and is even more densely packed with things to do and explore than Drehmal.

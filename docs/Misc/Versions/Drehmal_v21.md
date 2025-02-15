@@ -1,7 +1,5 @@
 # v2.1: TIMEBREAK
 
---8<-- "under_construction.md"
-
 ![[2.1_map.png]]
 > The map of Drehmal as it appeared in v2.1. The large-scale terrain is nearly identical to the current version in 2.2, with the exception of the northeastern [[Frozen Bite]] and [[Highfall Tundra]] regions, which were reworked completely in 2.2.
 

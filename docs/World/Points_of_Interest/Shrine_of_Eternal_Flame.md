@@ -4,6 +4,9 @@
 
 The **Shrine of Eternal Flame** is a ziggurat-style temple in northwestern [[Merijool]], home to the [[devotion]] site of the Brightwyrm [[Lai]], Aspect of Warmth.
 
+!!! abstract "Location"
+    Approximate Coordinates: `-1430, 85, -1630`
+
 Discovering this location for the first time grants the "Ash Heap" advancement.
 
 ## Lai Devotion Guide

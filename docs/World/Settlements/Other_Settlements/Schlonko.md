@@ -2,7 +2,7 @@
 
 ![[schlonko.png]]
 
-**Schlonko** is a small settlement situated on [[Faehrcyle's]] western coast, within the small patch of forest that remains from the region's pre-[[Frostfang Catastrophe]] climate. Being the only settlement in the Faehrcyle region, Schlonko has no roads leading to it, its main entrance being a small dock.
+**Schlonko** is a small settlement situated on [[Faehrcyle]]'s western coast, within the small patch of forest that remains from the region's pre-[[Frostfang Catastrophe]] climate. Being the only settlement in the Faehrcyle region, Schlonko has no roads leading to it, its main entrance being a small dock.
 
 !!! abstract "Location"
     Approximate Coordinates: `1104, 64, -3036`

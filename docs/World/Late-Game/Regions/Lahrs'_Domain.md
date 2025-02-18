@@ -57,8 +57,8 @@ Multiple custom enemies can also be found in Lahrs' Domain, making traversal of 
 
 | Category   | Description                                    |
 |:----------:|:-----------------------------------------------|
-| **Name**   | Larvolve/Putate/Cyclofly                                       |
-| **Base Mob** | Silverfish/Shulker/Phantom                                      |
+| **Name**   | Larvolve / Putate / Cyclofly                                       |
+| **Base Mob** | Silverfish / Shulker / Phantom                                      |
 | **Image**  | ![[cyclofly.png]]{ width="100" }  |
 | **Description** | Silverfish with the custom name "Larvolve" may spawn in this biome, and after some amount of time, they will enter a cocoon, turning into a stationary Shulker mob named "Putate". This shulker has thorns, but can be killed, and will release a cloud of poison on death. If this shulker survives for long enough, it will evolve into a "**Cyclofly**", the custom phantom shown above. These phantoms will fly in a small circle just above the ground when idle, and attack the player as usual when approached.  |
 

@@ -20,7 +20,7 @@ It is easiest to simply leave them alone until coming across an explanation for 
 There are six of these structures located in Drehmal, five of which take on the default quartz gateway appearance. One, located in [[Spearhead Forest]], appears as a stump instead.
 
 ![[merijool_gate.png]]
-> The gate in northeastern [[Merijool]], at the southern base of [[Mt. Mekta]].
+> The gate in northeastern [[Merijool]], at the southern base of Mt. Mekta.
 
 ![[arkangel_gate.png]]
 > The gate in the Divination Facility behind the [[Kiln of Virtuo]], activated through Project ArkAngel.

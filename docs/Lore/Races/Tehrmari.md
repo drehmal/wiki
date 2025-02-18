@@ -49,7 +49,7 @@ The Talon were responsible for perpetuating a functional apartheid system agains
 
 #### Wingmakers
 
-The Wingmakers are the La'Tehrmari recruiting and missionary arm. They were led by the Benefactors, the first of whom was [[Froslea]], the founder of the Wingmakers.
+The Wingmakers are the La'Tehrmari recruiting and missionary arm. They were led by the Benefactors, the first of whom was [[Froslea]], the founder of the Wingmakers. The current Benefactor is [[Ytaj#Benefactor Zabuyah|Zabuyah]], who can be found in [[Ytaj]] selling books that hint at the locations of overworld [[devotion]] sites.
 
 The Wingmakers were responsible for seeking out Drehmari worthy of ascension, and were the reason all La'Tehrmari had to spend a year on the [[disc]], working to enact the will of the Aspects among the Drehmari.
 

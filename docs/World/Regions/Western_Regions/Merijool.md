@@ -12,7 +12,7 @@ Merijool is split into an east and west half by a wide river flowing into the no
 
 **Environmental Sub-Regions:**
 
-- The snow-capped [[Mt. Mekta]] in the northeast <br>
+- The snow-capped Mt. Mekta in the northeast <br>
 - Jungle mountain bowl in the southeast surrounding the [[Primal Sapling]]
 
 On the south edge of a lake in southern Merijool (the source of the region's central river) is the town of [[Okeke]].

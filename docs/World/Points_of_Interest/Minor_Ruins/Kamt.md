@@ -1,9 +1,3 @@
----
-tags:
-  - Locations
-  - Points of Interest
----
-
 # Kamt
 
 --8<-- "under_construction.md"

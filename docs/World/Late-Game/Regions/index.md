@@ -9,8 +9,6 @@ search:
 
 --8<-- "LD_spoiler.md"
 
---8<-- "under_construction.md"
-
 ![[LD_domains.png]]
 > A map outlining the main regions of Lo'Dahr.
 

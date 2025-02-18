@@ -15,7 +15,7 @@ Entering Drehua Temple for the first time grants the "Serpent's Chosen" advancem
 
 Drehua Temple has a relatively linear layout, with a single winding path made of diorite in the ground, symbolically representing Drehmal themselves. At the beginning of this path, an infused amethyst block with the [[Welcome to Drehua Temple]] book is found, which provides a hint toward the accepted devotion offerings for Drehmal. The path winds through the gardens at the front of the temple, leading up to the shrine and then through to the monks' living quarters, which contain the Parables.
 
-### Drehmal Shrine
+### Drehmal Devotion Guide
 
 ![[drehmal_shrine.png]]
 

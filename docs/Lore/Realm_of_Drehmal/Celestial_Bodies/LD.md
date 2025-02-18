@@ -23,6 +23,8 @@ Lo'Dahr was one of the three moons of Drehmal worshipped by the [[Tri-Moon Theoc
 
 The [[Akhlo'Rohma#Sunken Astral Body|Sunken Astral Body]], located in the mountains east of [[Dusps]], is a massive crater believed to be a fallen fragment of Lo'Dahr. It appears notably alien, featuring lighter gravity, strange materials not seen elsewhere on Drehmal, and glass jellyfish. This site was very popular with certain religious groups and researchers following its discovery in mid-late Av2. Perhaps the most prominent was Project ArkAngel, an [[Avsohm|Avsohmic]] [[Kiln of Virtuo#Divination Facility (Project ArkAngel)|project]] which attempted to research a material found at the impact site in a cave behind the [[Kiln of Virtuo]].
 
+The [[Tehrmari]], who appear very sparingly in Drehmal within the [[Purity Peaks]] region, originated from Lo'Dahr.
+
 It is suggested by [[Prefect's Grumblings]] that the Aspects may still be alive on Lo'Dahr as evidenced by the presence of a colorful patch of the moon beneath the cloud layer. While there has been very little to no contact between the Aspects and the people of the [[disc]] in over a millennium, it does seem to be the case that Lo'Dahr is still home to the Aspects and possibly even more civilization.
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>

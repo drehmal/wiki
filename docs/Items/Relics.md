@@ -24,7 +24,7 @@ The term "ardorbrand" is likely a portmanteau of "Ardor," meaning "enthusiasm" o
 
 | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
 |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|
-| Cryostatic +0        | 5% Attack Damage <br>+15% Attack Speed             | An ingot of Divine Ice appears in your hands, pleasantly cooling your skin. It isn't much to look at... |
+| Cryostatic +0        | -5% Attack Damage <br>+15% Attack Speed             | An ingot of Divine Ice appears in your hands, pleasantly cooling your skin. It isn't much to look at... |
 | Cryostatic +1        | -15% Attack Damage <br>+30% Attack Speed           | An ingot of Divine Ice elongates in your hands, accompanied by a relieving chill. Your loyalty is given begrudging respect. |
 | Cryostatic +2        | -25% Attack Damage <br>+45% Attack Speed           | An ingot of Divine Ice sprouts into crystals, causing your breath to fog. Your dependable kindness is rewarded with approving admiration. |
 | Cryostatic +3        | -35% Attack Damage <br>+60% Attack Speed           | Your ingot forms into a frigid crystalline talisman, arcing with the colors of the aurora. Loe now fully trusts you to help bring peaceful stability to a realm "cursed" by annoyance and thoughtless caprice. |

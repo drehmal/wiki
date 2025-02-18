@@ -1,7 +1,5 @@
 # v3: April Fools
 
---8<-- "under_construction.md"
-
 ![[v3_map.jpeg]]
 > A screenshot of the map of Drehmal v3.
 

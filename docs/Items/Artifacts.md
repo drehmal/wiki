@@ -1817,7 +1817,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lore**   | Members of the Coven of Koh speak in hushed whispers about the fabled pickaxe which finally broke the Star of Alanys, a brutally jagged rock from elsewhere that glittered green and gold. |
-| **Obtain** | Located in the Coven of Koh, on the [[Island of Dusk]]. Chest located at **(-2332, 87, -3804)**   |
+| **Obtain** | Located in the [[Coven of Koh]], on the [[Island of Dusk]]. Chest located at **(-2332, 87, -3804)**   |
 
 ### Steelspinner
 

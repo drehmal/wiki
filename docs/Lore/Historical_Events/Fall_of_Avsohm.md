@@ -138,6 +138,12 @@ As written in [[The Pawn]] at the [[Nihilist's Cabin]], the Pawn is believed to 
 
 The description of [[Oblivion]] suggests that the Pawn was responsible for killing the most important Avsohmic commanders and leaders. There are no surviving accounts of the Emissary hunting down any of these leaders, although it is possible that this was his intention in sabotaging the Stasis Facility.
 
+***
+
+**Blasphemous Eye**
+
+The Blasphemous Eye was a massive, golden eye which is reported to have appeared in the sky during the fall of Avsohm, wreaking focused havoc upon the land. It is mentioned very sparingly, but has been hypothesized to be the eye of the Mythoclast himself, actively smiting down the realm.
+
 ## Facet Connection
 
 [[The Facets#Facet II|Facet II]] very closely parallels the events of the fall of Avsohm:
@@ -156,9 +162,9 @@ The description of [[Oblivion]] suggests that the Pawn was responsible for killi
 
 This seems to imply that [[Rihelma]] foresaw the destruction of the empire before it happened, and the Prismatic Council was either unable or unwilling to prevent it.
 
-Furthermore, this "Blasphemous Eye" seems to be similar to the eye at the top of the [[Court of Nothing]]. A now-deleted lore book was the only clear reference to this eye, stating that it appeared during the storm and shot down a focused beam of energy into the "northeastern mountains". 
+Furthermore, this "Blasphemous Eye" seems to be similar to the eye at the top of the [[Court of Nothing]]. A now-deleted lore book was the only clear first-hand account of this eye, stating that it appeared during the storm and shot down a focused beam of energy into the "northeastern mountains". 
 
-This was widely interpreted to mean that the Mythoclast shot a concentrated beam of Primal Energy into Azimuth Labs to kill [[Anyr]] immediately following his ascension, explaining the Emperor's death, but its removal from the map calls this into question.
+This was widely interpreted to mean that the Mythoclast shot a concentrated beam of Primal Energy into Azimuth Labs to kill [[Anyr]] immediately following his ascension, explaining the Emperor's death, but its removal from the map calls this into question. The Blasphemous Eye is also mentioned by [[Maelihs]] in his [[Mael Dialogue|dialogue]].
 
 ## Impact
 
@@ -166,7 +172,7 @@ A thousand years later, it is evident that the realm of Drehmal never truly reco
 
 Avsohm's untimely demise left a massive power vacuum throughout its sphere of influence, which spanned almost the entire continent. Regional leaders were forced to take control, and most distanced themselves from Avsohm as much as they could. Furthermore, many seem to have developed an aversion to cooperating with other states and creating larger coalitions.
 
-Avsohm also kept their secrets particularly well. Even though their technology could be accessed by many survivors, many of the most important pieces of knowledge connected to the Miracle of Avsohm died with them. This included the location of the [[Rehntite Cave]], the method of safely mining [[rehntite]] itself, the secrets of [[Primal Energy]], and the way to enter [[Mt. Yavhlix]].
+Avsohm also kept their secrets particularly well. Even though their technology could be accessed by many survivors, many of the most important pieces of knowledge connected to the Miracle of Avsohm died with them. This included the location of the [[Rehntite Cave]], the method of safely mining [[rehntite]] itself, the secrets of [[Primal Energy]], and the way to enter [[Mt. Yavhlix]]. Some of this information was recorded, but the forces that destroyed the empire also seem to have destroyed some written knowledge pertaining to their most secretive efforts.
 
 Whispers of what caused Avsohm's demise eventually passed into myth. All of Avsohm's advanced facilities became ancient ruins littering the landscape, and even the gods spoke in hushed tones about the impossibly powerful forces that must have been behind it. Mystic Elder [[Khive]] vaguely seems to understand that a single being was behind it, referring to the destruction of the empire as "The Foreigner" intervening. [[Maelihs]] states that he does not know exactly what was behind it, but the thought is one of very few things that makes him uneasy.
 

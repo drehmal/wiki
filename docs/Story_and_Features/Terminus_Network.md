@@ -5,8 +5,6 @@ search:
 
 # Terminus Network
 
---8<-- "under_construction.md"
-
 ![[central_towers.png]]
 > The Central Towers Hall in the Terminus
 
@@ -95,7 +93,7 @@ After visiting the [[Admin Wing|admin wing]] of the [[Av'Sal Repository]] and up
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-The Terminus was born out of Avsohm's efforts to [[Ring Research Installation#Lore|study the warp rings]] in [[Khive's Domain]], the original source of the empire's knowledge on teleportation magic. By studying and reverse-engineering the rings' magic runes, Avsohm was eventually able to create rudimentary versions of the warp towers found across the map, which continued to be developed.
+The Terminus was born out of Avsohm's efforts to [[Ring Facility#Lore|study the warp rings]] in [[Khive's Domain]], the original source of the empire's knowledge on teleportation magic. By studying and reverse-engineering the rings' magic runes, Avsohm was eventually able to create rudimentary versions of the warp towers found across the map, which continued to be developed.
 
 However, the warp tech was deemed inefficient due to the fact that each ring could only connect to its one linked ring, and vice versa. Thus, Vortu, an Avsohmic officer aboard the Aphelion, came up with the idea of a central hub where important locations could all be linked to, allowing for extremely rapid transfer of personnel, cargo, and energy around the empire. 
 

@@ -237,7 +237,7 @@ Throughout western Merijool, five locations of sacred, chromatic flames can be f
 
 Loe's devotion hint book (when translated to not be intentionally misspelled) reads as follows:
 
-> We have grown impatient as of late. Another new pit of **strange soft snow** has opened up around our Arch-Duchal Castle! Despite throwing all of those things **into the pits** like the Loe Follower said!
+> We have grown impatient as of late. Another new pit of **strange soft snow** has opened up around our Arch-Ducal Castle! Despite throwing all of those things **into the pits** like the Loe Follower said!
 >
 > Though new pits are showing up less, we wish they would just stop for good!
 

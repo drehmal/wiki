@@ -1,7 +1,5 @@
 # Story and Features
 
-!!! warning "The Story & Features section is currently a work in progress. Pages may be incomplete, and several more are yet to be added. Stay tuned!"
-
 The map of Drehmal fundamentally revolves around its story, and the special mechanics that it adds to the game of Minecraft. Articles relating to the main story of Drehmal: Apotheosis and the unique features tied to the map are found in this section of the wiki.
 
 ## Main Story
@@ -12,7 +10,7 @@ For a summary of the main story, see [[Story Progression]].
 
 Individual pages on each story location, including a summary of the story events there, gameplay tips, and lore on the location in-universe, can be found [here](/Story_and_Features/Story_Locations/).
 
-## Terminus Network
+## [[Terminus Network]]
 
 Scattered around the map are Terminus towers, white and purple spires from the top of which you can teleport to the Terminus. The Terminus is a hub that allows you to teleport to any tower that you have unlocked previously by finding and using. Unlocking Terminus towers is the primary method through which the story is progressed.
 

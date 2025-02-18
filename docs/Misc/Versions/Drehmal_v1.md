@@ -1,7 +1,5 @@
 # v1: Legacy
 
---8<-- "under_construction.md"
-
 ![[legacy_map.jpg]]
 
 **Drehmal v1**, also known as **Drehmal: Legacy**, is the first public release of a Drehmal Minecraft map, published to Planet Minecraft on October 27, 2017. It is compatible with Minecraft: Java Edition 1.12.1.

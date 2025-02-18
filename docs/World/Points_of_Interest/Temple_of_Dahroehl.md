@@ -14,7 +14,7 @@ The puzzle at the Temple of Dahroehl is first hinted at by the [[Hastily-Left Me
 
 > I don't have long to live. I finally found this temple. The monks should have left instructions about where to find the treasure in the small cave where that waterfall in the central room flows from. Do what I could not
 
-Sure enough, swimming up the central waterfall, players will find another book under a chiseled stone brick: the [[Cryptic Ode]]. This book provides a series of hints to finding the treasures here.
+Sure enough, swimming up the central waterfall, players will find another book under an off-colored block: the [[Cryptic Ode]]. This book provides a series of hints to finding the treasures here.
 
 ??? question "Cryptic Ode Transcription"
     Dahroehl, Water Wyrm

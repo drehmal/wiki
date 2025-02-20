@@ -1,6 +1,6 @@
 # Blue Exodus
 
-![[blue_e.png]]
+![[blue_e.png]]{ width="200" }
 > The Blue Exodus logo, as seen at the Exodus Vault.
 
 **Blue Exodus** was a corporation focused on producing military equipment and a member of [[Avsohm]]'s Big Three, a group of three semi-independent organizations that were brought under the empire's wing, acting as branches of their government. Because of this strong relation, most Blue Exodus officials disappeared during the events of [[Fall of Avsohm|Avsohm's collapse]], causing the organization's abrupt end.

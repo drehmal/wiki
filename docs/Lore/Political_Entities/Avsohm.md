@@ -119,6 +119,14 @@ Avsohm was the only civilization in Drehmal to manipulate veilstone, the fundame
 
 Avsohm was a very large state, and therefore necessarily a very diverse one. Much of what would be considered "Avsohmic" culture is more so in line with the culture that developed in the central regions, around [[Av'Sal]] and Dreh'Noha. The picture that is painted of this culture is relatively militaristic, with a flair for opulence around their capital in particular. Average citizens were often very patriotic, although class divides began to dampen these sentiments towards the end of the empire's time.
 
+### Religion
+
+Following its Central Plains traditions, the empire spread worship of [[Drehmal]] throughout their lands, although as time went on, they also pivoted more towards the [[Virtuo]] worship widely popular in the east. Under the reign of Ifeihl, worship of the [Aspects](/Lore/Higher_Beings/Aspects/) was outlawed entirely, and this remained the case until the empire's end.
+
+[[Maelihs]] was considered an enemy of the state throughout all of Avsohm's existence, and while they never broke out into all-out war against him or [[Empire of Maelihs|his empire]], there was constant tension between the two sides.
+
+Toward the end of Avsohm, emperors were also worshipped to some degree, especially Drehn and Anyr.
+
 ### Art
 
 Most of what is known about Avsohmic art beyond architecture comes from the [[A Brief Overview of Avsohmic Art History]] book. This book establishes that the empire was initially responsible for a rapid series of changes in the art world that coincided with the Miracle of Avsohm, as Drehuan art in particular saw a renaissance and evolution. Ifeihl was particularly accepting of more abstract art, but the jingoism of Anyr's reign also came with a crackdown on the arts. Art became much less of a medium for creative expression, and more of a way to honor Avsohm's superiors (the gods and emperors).

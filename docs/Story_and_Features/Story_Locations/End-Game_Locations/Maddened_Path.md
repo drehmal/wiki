@@ -74,7 +74,11 @@ The enemies along the path with unreadable names do in fact have names, although
 
 ***
 
-The majority of the Maddened Path is made up of re-used structures, including High Arch (the land arch over [[Tharxax City]]), the main domed building of [[Av'Sal]], [[Akhlo'Rohma|Akhlo'Rohman]] flowers, and warp rings from [[Khive's Domain]].
+The majority of the Maddened Path is made up of re-used structures, including High Arch (the land arch over [[Tharxax City]]), graves and flowers from [[Voynahla's Domain]], the main domed building of [[Av'Sal]], [[Akhlo'Rohma|Akhlo'Rohman]] flowers, and warp rings from [[Khive's Domain]]. Other examples include:
+
+- The bottom of the arena in the center of the path is actually the Tower of Drehmal from [[Ytaj]], flipped upside down. <br> 
+- The bridge between the final island and the arena is the statue of [[Malevolentia]], from the Titan of Strength at the entrance to the [[Hellcrags]]. <br>
+- Spiky rocks in the sky from [[Palaesida's Domain]].
 
 ***
 

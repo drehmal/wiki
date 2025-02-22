@@ -44,3 +44,8 @@ One part of the community reconstruction of the [[Codex Celestus]] has been spec
 While "silence" does not fit in the initial five-letter gap, the specific reference to silence in this sentence has led some to believe that this refers to Verrhys. From this passage, it might be inferred that Verrhys somehow erased all knowledge of themselves from the minds of the other Aspects, as told by [[Khive]]. This would explain why Verrhys is the only Aspect not mentioned by others, or referenced in the braziers, thrones, and general layout of Ytaj.
 
 Verrhys is also the presumptive subject of [[The Facets#Facet III|Facet III]], a facet which seems to revolve around the concept of silence.
+
+??? warning "End-Game Spoiler"
+    This information on Verrhys is a massive spoiler for the FINAL area in the map. Unless you have reached the ending of the main story, and reached the designated black concrete Credits Room, you should not click on this.
+    ??? danger "Show me!"
+        Another statue of Verrhys, with its wings outstretched, is found in the [[True End|final location in the story]]. Read that page for more information.

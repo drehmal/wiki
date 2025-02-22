@@ -5,7 +5,7 @@ Powerful beings that govern the realm are responsible for many natural phenomena
 ## [Aspects](/Lore/Higher_Beings/Aspects/)
 
 ![[aspects.png]]
-> Family tree of the Aspects and Deities of Drehmal. Each block represents an Aspect, besides the three at the very top, which represent the three deities ([[Maelihs]], [[Drehmal]], [[Virtuo]], left to right).
+> Family tree of the Aspects and Deities of Drehmal. Each block represents an Aspect, besides the three at the very top, which represent the three deities ([[Maelihs]], [[Drehmal]], [[Virtuo]], left to right) Note: Maen and Tethlaen are disputed, potentially swapping places depending on how one interprets their color schemes.
 
 Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are draconic deities who govern their own domains of nature, and some create children who inherit subcategories of their parent or parents' jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
 

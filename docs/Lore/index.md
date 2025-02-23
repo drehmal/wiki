@@ -1,6 +1,6 @@
 # Lore
 
-!!! warning "The Lore section is still under construction. At this time, the Books section is in a functionally completed state, but all other sub-categories are still very much a work in progress. Stay tuned for further updates!"
+!!! warning "The Lore section is still under construction. At this time, the Books, Races, Realm of Drehmal, and Transcripts sections are complete, but the other sub-categories remain partially unfinished. Stay tuned for further updates!"
 
 Beyond the [[Story Progression|main story]] alone, Drehmal's world is richly populated with side content that deeply fleshes out its world, broadly categorized as lore. This section includes a significant amount of supplemental information found throughout the map, from a collection of every [written lore book](/Lore/Books/) to pages containing all of the known information on specific figures in the history of the realm.
 

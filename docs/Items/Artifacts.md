@@ -601,7 +601,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in a frozen lake in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**           |
 
 ??? note "Extra Lore"
-    This shield was likely granted to the Frostfang tribes by [[Loeleyhn]], Aspect of Snow, in return for massively expanding her domain by way of the [[Frostfang Catastrophe]].
+    This shield was possibly granted to the Frostfang tribes by [[Loeleyhn]], Aspect of Snow, in return for massively expanding her domain by way of the [[Frostfang Catastrophe]].
 
 ### Damaged Vorpal Greatsword
 

@@ -15,7 +15,7 @@ search:
 | **Titles** | God of Chaos, Conflict, and Corruption <br>The Burnt Lord <br>His Radiance |
 | **Classification** | [Deity](/Lore/Higher_Beings/Deities/) |
 | **Family** | [[Primal Tree]] (Parent) <br> [[Drehmal]] (sibling) <br> [[Virtuo]] (Sister) |
-| **Gender** | Male (he/him) |
+| **Gender** | Masculine (he/him) |
 | **[[Devotion]] Site** | [[Sepulchral Altar]] in [[Rhaveloth]] |
 
 ## Characteristics

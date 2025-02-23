@@ -6,7 +6,7 @@
 |:----------:|:----------------------:|
 | **Titles** | Reticent Verrhys |
 | **Classification** | [Aspect](/Lore/Higher_Beings/Aspects/) |
-| **Family** | ??? |
+| **Family** | [[Lahrs]] (???) |
 | **Gender** | Neutral (it/they) |
 
 ## In-Game

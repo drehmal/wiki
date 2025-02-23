@@ -14,7 +14,7 @@
 Dahroehl's passage in [[Theogony Volume III]] reads:
 
 > Fluvial Dahroehl, Aspect of Freshwater
-> -------------------
+> ***
 > Child of Dahr, they populated the world with rivers and lakes.
 
 Dahroehl is unique among the Aspects in that third-person references to Dahroehl alternate between masculine (he/him) and feminine (she/her) pronouns, as seen in [[Three Great Sigils]]. This seems to indicate that Dahroehl is genderfluid to some degree, matching well with his domain. For the sake of simplicity, the map often uses they/them pronouns for Dahroehl, and it seems that the alternating he/she usage may be exclusive to Dahroehl's worshippers in-universe.

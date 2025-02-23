@@ -14,7 +14,7 @@
 Koh's passage in [[Theogony Volume III]] reads:
 
 > Wise Worm Koh, Aspect of Stone
-> -------------------
+> ***
 > A reclusive Aspect, only helping those in dire need.
 
 ![[koh.png]]

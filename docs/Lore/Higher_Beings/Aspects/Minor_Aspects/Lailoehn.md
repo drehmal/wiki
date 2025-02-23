@@ -16,7 +16,7 @@
 Lailoehn's passage in [[Theogony Volume III]] says:
 
 > Infernal Lailoehn, Aspect of Fire
-> -------------------
+> ***
 > Child of Lai, he is ferocious, gluttonous, and disdainful.
 
 Lailoehn's personality is fiery to match his domain, as noted above. He is depicted in a small statue shown at the top of this page, appearing to be a relatively generic winged red dragon.

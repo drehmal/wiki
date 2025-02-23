@@ -14,7 +14,7 @@
 Lahrs' passage in [[Theogony Volume III]] reads as follows:
 
 > Lahrs, the Burgeoning, Aspect of Resonance
-> -------------------
+> ***
 > Considered by many to be a Major Aspect, Lahrs tends to a wide domain encompassing cycles, music, the seasons, balance, growth, and decay. Without their influence, the realm would quickly decay into nothingness.
 
 Lahrs' canon pronouns are given to be he/him or she/her by the developers, but this usually translates to use of they/them to refer to the Aspect in-map. There are no canon instances of Lahrs being referred to using feminine pronouns.

@@ -14,7 +14,7 @@
 Loeleyhn's passage in [[Theogony Volume III]] reads:
 
 > Avalanche Loeleyhn, Aspect of Snow
-> -------------------
+> ***
 > Child of Loe, she is harsh, with a rapier wit. She and Lailoehn are in a relationship.
 
 Loeleyhn is in a romantic relationship with [[Lailoehn]], Aspect of Fire and child of [[Lai]].

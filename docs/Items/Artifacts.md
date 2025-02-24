@@ -426,7 +426,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizens of Sahd. This is one of his more curious possessions. |
+| **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizen of Sahd. This is one of his more curious possessions. |
 | **Obtain** | Located in the largest building in the town of [[Morah]], on [[Sahd]]. Item frame located at **(4484, 157, 5514)**         |
 
 ??? note "Extra Lore"

@@ -31,7 +31,7 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 >
 > Wise Worm Koh, Aspect of Stone
 > -------------------
-> A reclusive Aspect, only helping those in dire need.
+> A reclusive Aspect, responsible for tunnels and caverns.
 >
 > Summit-Drake Nahyn, Aspect of Mountains
 > -------------------
@@ -47,11 +47,11 @@ This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an o
 >
 > Greatbeast Muhs, Aspect of Beasts
 > -------------------
-> Created by Vayniklah to help foster life. Was killed by a hunting party some time in Av2.
+> Assisted Vayniklah in creating beasts. Was killed by the Hunting Party some time in Av2.
 >
 > Mari the Great, Aspect of Drehmari
 > -------------------
-> Created mortals and the mind, some say he still walks among us.
+> Assisted Vayniklah in creating the Drehmari form.
 >
 > Maen, Moen, and Tethlaen, the three Aspects of Emotion
 > -------------------

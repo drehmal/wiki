@@ -15,7 +15,7 @@ Koh's passage in [[Theogony Volume III]] reads:
 
 > Wise Worm Koh, Aspect of Stone
 > ***
-> A reclusive Aspect, only helping those in dire need.
+> A reclusive Aspect, responsible for tunnels and caverns.
 
 ![[koh.png]]
 > The statue of Koh on the Island of Dawn.

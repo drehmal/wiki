@@ -24,7 +24,7 @@ Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive,
 
 Our wiki is an effort to document Drehmal's wonders and provide a single centralized resource for help in navigating the map for new and experienced players alike. This project is spearheaded entirely by highly invested community members, in direct collaboration with the map's developers, helping us to be as thorough and comprehensive as possible.
 
-[Official Drehmal Website (Map Download) :material-omega: ](https://drehmal.net){ .md-button } 
+[Official Drehmal Website (Map Download) :material-omega: ](https://drehmal.net){ .md-button .md-button--primary }
 
 [Join the Official Drehmal Discord! :fontawesome-brands-discord: ](https://discord.drehmal.net){ .md-button .md-button--primary }
 

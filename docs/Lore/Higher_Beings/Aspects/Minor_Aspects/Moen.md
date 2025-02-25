@@ -1,6 +1,6 @@
 # Moen
 
-**Moen** (pronounced "mow-en")is the Aspect of Pleasure. She is one of three children of [[Khive]], who represent the three Primal Emotions—[[Tethlaen|Fear]], [[Maen|Pain]], and Pleasure.
+**Moen** (pronounced "mow-en") is the Aspect of Pleasure. She is one of three children of [[Khive]], who represent the three Primal Emotions—[[Tethlaen|Fear]], [[Maen|Pain]], and Pleasure.
 
 |  |  |
 |:----------:|:----------------------:|

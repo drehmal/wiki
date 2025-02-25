@@ -19,6 +19,8 @@ Nahyn's passage in [[Theogony Volume III]] reads:
 
 Nahyn's exact size is unclear, but he is at least smaller than the other Aspects, possibly being more comparable to a [[Drehmari]].
 
+He seems to be a clear parallel to [[Noha]], as their domains (Mountains and Meadows) are natural opposites, while he is very small and she is possibly the single largest Aspect.
+
 ## In-Map References
 
 There are very few clear references to Nahyn in the map, although the people of [[Wokonori]] are said to have once worshipped him as part of the trio of earth-related Aspects (alongside [[Koh]] and [[Taihgel]]).

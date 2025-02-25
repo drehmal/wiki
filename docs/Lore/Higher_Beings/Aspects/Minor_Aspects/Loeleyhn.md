@@ -9,7 +9,7 @@
 | **Family** | [[Loe]] (Parent) |
 | **Gender** | Feminine (she/her) |
 
-## Characteristics
+## Description
 
 Loeleyhn's passage in [[Theogony Volume III]] reads:
 
@@ -20,6 +20,10 @@ Loeleyhn's passage in [[Theogony Volume III]] reads:
 Loeleyhn is in a romantic relationship with [[Lailoehn]], Aspect of Fire and child of [[Lai]].
 
 Loeleyhn does not have a canon physical depiction that is shown in the map.
+
+### Color Scheme
+
+Loeleyhn's color scheme is white, light blue, and purple.
 
 ## In-Map References
 

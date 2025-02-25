@@ -9,7 +9,7 @@
 | **Family** | [[Taihgel]] (Parent) <br> [[Nahyn]] (Sibling) |
 | **Gender** | Neutral (it/they) |
 
-## Characteristics
+## Description
 
 Koh's passage in [[Theogony Volume III]] reads:
 
@@ -23,6 +23,10 @@ Koh's passage in [[Theogony Volume III]] reads:
 A statue of Koh does exist, depicting it as a simple white worm, made of calcite and diorite. This statue is found on the [[Island of Dawn]], just to the northeast of [[Star-Rise Bastion]].
 
 Koh is said to be reclusive, but very wise. They are said to have created the world's tunnels and caves.
+
+### Color/Build Scheme
+
+Koh's colors include black and different shades of gray, with purple accents. All of the default types of stone are associated with Koh, including stone, (deep)slate, andesite, diorite, granite, Taihryte, calcite, and basalt. Additionally, builds referencing Koh often make use of Drehmal's custom-textured Amethyst Tile blocks and vanilla amethyst blocks.
 
 ## In-Map References
 

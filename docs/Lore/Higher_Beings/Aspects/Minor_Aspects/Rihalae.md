@@ -9,7 +9,7 @@
 | **Family** | [[Rihelma]] (Mother) <br> [[Palaesida]] (Half-Sibling) |
 | **Gender** | Feminine (she/it) |
 
-## Characteristics
+## Description
 
 Rihalae's passage in [[Theogony Volume III]] reads: 
 
@@ -18,6 +18,10 @@ Rihalae's passage in [[Theogony Volume III]] reads:
 > Free-spirited, jovial, the fastest Aspect.
 
 There is no known depiction of Rihalae's physical form in Drehmal.
+
+### Color/Build Scheme
+
+Rihalae's colors seem to be blue and purple, similar to her mother. Builds referencing Rihalae are often open to the air.
 
 ## In-Map References
 

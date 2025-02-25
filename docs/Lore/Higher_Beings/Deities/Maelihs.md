@@ -18,7 +18,7 @@ search:
 | **Gender** | Masculine (he/him) |
 | **[[Devotion]] Site** | [[Sepulchral Altar]] in [[Rhaveloth]] |
 
-## Characteristics
+## Description
 
 Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He is known for being wrathful and aggressive, constantly being in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
 

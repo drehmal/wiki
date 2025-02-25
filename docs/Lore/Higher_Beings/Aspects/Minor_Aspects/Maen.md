@@ -9,7 +9,7 @@
 | **Family** | [[Khive]] (Parent) <br> [[Tethlaen]] and [[Moen]] (siblings) |
 | **Gender** | Masculine (**he**/it) |
 
-## Characteristics
+## Description
 
 Maen's passage in [[Theogony Volume III]] is shared with his two siblings, and reads:
 
@@ -20,6 +20,10 @@ Maen's passage in [[Theogony Volume III]] is shared with his two siblings, and r
 No depictions or descriptions of Maen's physical form are found in the map.
 
 Maen is depicted as hateful, in line with his rule over pain.
+
+### Color/Build Scheme
+
+Maen's color scheme consists of black, red, and blue (specifically the darker blue-green shade which Minecraft refers to as cyan). Maen-related builds often make heavy use of slate bricks.
 
 ## Role and Powers
 

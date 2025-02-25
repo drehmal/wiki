@@ -4,13 +4,19 @@
 
 --8<-- "postyav_spoiler.md"
 
-**The Mythoclast** (meaning "myth-breaker", also known as the "King of Nothing", "The Foreigner", or "Him-Beyond" and often informally referred to by the Drehmal community as "Mytho," "Mr. O'Clast," or "Yellow") is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler and creator of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
+**The Mythoclast**  is the most powerful known being in the universe of Drehmal. Referring to himself as the "titanic power at the center of creation," he is implied to be the ruler and creator of all existence, including innumerable other realms besides Drehmal. He first appears to the player upon completion of the [[Mt. Yavhlix]] dungeon as a disembodied voice, speaking with the name **"???"**. His first words to the player indicate the start of the end-game.
 
 Although his influence is often hidden, The Mythoclast plays a central role in the story of Drehmal, having directly intervened in the realm's history by personally smiting the [[Avsohm|Avsohmic Empire]], as well as functioning as the player's guide through the end-game sequence. During these events, he gives several revelations about the history of Avsohm and what ultimately spelled the empire's doom.
 
+|  |  |
+|:----------:|:----------------------:|
+| **Titles** | King of Nothing <br> The Foreigner <br> Him-Beyond (by [[Avsohm]]) <br> Mytho (Informal community name) <br> Mr. O'Clast (Very informal community name) <br> Yellow (Informal, non-spoiler community name) |
+| **Classification** | ??? |
+| **Gender** | Masculine (he/him) |
+
 ## Appearance
 
-The Mythoclast's true material form is not known, but he presents the player with a mural that purports to capture his approximate image. He tells the player that his material form is "difficult to represent," but it is not known exactly what this means. This mural (pictured below) shows the form of a golden, serpentine dragon. His true name also induces an overwhelming, dizzy sensation upon being heard by mortal ears for the first time. 
+The Mythoclast's true material form is not known, as he tells the player it is "difficult to represent," but he presents the player with a mural that purports to capture his approximate image. This mural (pictured below) shows the form of a golden, serpentine dragon. His true name also induces an overwhelming, dizzy sensation upon being heard by mortal ears for the first time. 
 
 ![[mytho_portrait.png]]
 > An artistic representation of the Mythoclast, including the Mythbreaker in the bottom left corner.
@@ -19,9 +25,9 @@ The Mythoclast's true material form is not known, but he presents the player wit
 
 The Mythoclast possesses an extreme degree of power, with little limit as to what he is able to do. During the story, the Mythoclast demonstrates his ability to effortlessly blast through veilstone, bend runic technology to his will, teleport anyone anywhere, and preserve deceased mortals as puppets, controlling a functionally endless army of higher beings. 
 
-Although not confirmed, it also appears that The Mythoclast might have the ability to cause large structures to disappear entirely, as he is a possible suspect in the disappearance of [[Castle Hovadchear]].
+Although not confirmed, it also appears that The Mythoclast might have the ability to cause large structures to disappear (or move elsewhere) entirely, as he is a possible suspect in the disappearance of [[Castle Hovadchear]].
 
-The Mythoclast decides the destiny of all souls when they pass through [[Court of Nothing|his Court]] on their way from death to rebirth.
+The Mythoclast decides the fate of all souls when they pass through [[Court of Nothing|his Court]] on their way from death to rebirth.
 
 ## In Drehmal's History
 

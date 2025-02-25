@@ -11,7 +11,7 @@
 | **Family** | [[Lai]] (Parent) |
 | **Gender** | Masculine (he/him) |
 
-## Characteristics
+## Description
 
 Lailoehn's passage in [[Theogony Volume III]] says:
 
@@ -22,6 +22,10 @@ Lailoehn's passage in [[Theogony Volume III]] says:
 Lailoehn's personality is fiery to match his domain, as noted above. He is depicted in a small statue shown at the top of this page, appearing to be a relatively generic winged red dragon.
 
 Lailoehn is stated to be in a romantic relationship with [[Loeleyhn]], the Aspect of Snow and child of [[Loe]].
+
+### Color/Build Scheme
+
+Lailoehn's colors are red, yellow, and orange, the standard colors associated with a hot flame. Builds dedicated to him use Taihryte and Red Taihryte bricks, as well as usually incorporating a flame design.
 
 ## Role and Powers
 

@@ -9,7 +9,7 @@
 | **Family** | [[Dahr]] (Parent) <br> [[Palaesida]] (Half-Sibling) |
 | **Gender** | Neutral/Fluid (see below) |
 
-## Characteristics
+## Description
 
 Dahroehl's passage in [[Theogony Volume III]] reads:
 
@@ -22,6 +22,10 @@ Dahroehl is unique among the Aspects in that third-person references to Dahroehl
 Little is known about Dahroehl's appearance, although she would likely take some kind of serpentine form based on the "wyrm" descriptor.
 
 Personality-wise, Dahroehl is consistently referred to as somewhat vain.
+
+### Color/Build Scheme
+
+Dahroehl's color scheme appears to be blue and green. Blocks commonly associated with the Aspect of Freshwater include prismarine and its variants, as well as any flowing water.
 
 ## In-Map References
 

@@ -11,7 +11,7 @@ Tethlaen disappeared from the realm in early Av2, with many rumors circulating t
 | **Family** | [[Khive]] (Parent) <br> [[Maen]] and [[Moen]] (siblings) |
 | **Gender** | Masculine (**he**/**they**) |
 
-## Characteristics
+## Description
 
 Tethlaen's passage in [[Theogony Volume III]] is shared with their two siblings, and reads:
 
@@ -24,6 +24,10 @@ A passage from the [[Uninvited Guests]] book depicts Tethlaen's physical form as
 > Tethlaen preferred the form of a great flying lizard in the days of legends and heroes, and he struck quite a hideous figure. Upon his four scaled legs were swordlike talons. His two great wings were as black as night. He had eight piercingly blue eyes and a maw with three rows of evenly-spaced razor-edged teeth.
 
 Tethlaen's characterization differs based on the source, with some clearly painting him as a villain (such as the book quoted above) while others depict him as a more noble force.
+
+### Color/Build Scheme
+
+Tethlaen's color scheme is black and white, with occasional gray. Builds referencing him typically lean more into the black.
 
 ## Role & Powers
 

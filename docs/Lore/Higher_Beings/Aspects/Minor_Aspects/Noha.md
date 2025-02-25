@@ -9,7 +9,7 @@
 | **Family** | [[Taihgel]] (Parent) <br> [[Vayniklah]] (Parent) |
 | **Gender** | Feminine (**she**/they) |
 
-## Characteristics
+## Description
 
 Noha's passage in [[Theogony Volume III]] reads:
 
@@ -20,6 +20,10 @@ Noha's passage in [[Theogony Volume III]] reads:
 Noha is believed to have been one of the physically largest Aspects, if not the single largest. She is depicted as gentle and kind, caring for her lands and its inhabitants, animals and [[Drehmari]]. 
 
 The Aspects' family tree mural depicts Noha as a direct descendant of [[Taihgel]], the Aspect of Land, and [[Vayniklah]], Aspect of Life. This makes Noha one of only two Aspects to functionally have two Aspect parents, along with [[Palaesida]].
+
+### Color/Build Scheme
+
+Noha's colors are green, yellow, and blue, depicting a meadow with flowers and the sky above.
 
 ## Role
 

@@ -9,7 +9,7 @@
 | **Family** | [[Taihgel]] (Parent) |
 | **Gender** | Masculine (he/him) |
 
-## Characteristics
+## Description
 
 Nahyn's passage in [[Theogony Volume III]] reads:
 
@@ -17,9 +17,13 @@ Nahyn's passage in [[Theogony Volume III]] reads:
 > ***
 > A perfectionist who compensates for his small size by creating large landforms.
 
-Nahyn's exact size is unclear, but he is at least smaller than the other Aspects, possibly being more comparable to a [[Drehmari]].
+Nahyn's exact size is unclear, but he is at least smaller than the other Aspects, possibly being more comparable to a [[Drehmari]]. Besides his size, his physical form is not depicted or described in-game.
 
 He seems to be a clear parallel to [[Noha]], as their domains (Mountains and Meadows) are natural opposites, while he is very small and she is possibly the single largest Aspect.
+
+### Color/Build Scheme
+
+Nahyn's colors are black, gray, white, and blue, often representing different layers of stone within a mountain and the sky above.
 
 ## In-Map References
 

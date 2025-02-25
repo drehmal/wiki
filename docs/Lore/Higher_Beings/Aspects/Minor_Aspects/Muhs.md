@@ -11,7 +11,7 @@ Muhs is one of four dead Aspects, having been slain by a mortal [[Hunting Party]
 | **Family** | [[Vayniklah]] (Parent/Creator?) |
 | **Gender** | Masculine (**he**/they) |
 
-## Characteristics
+## Description
 
 Muhs' passage in [[Theogony Volume III]] reads:
 
@@ -22,6 +22,10 @@ Muhs' passage in [[Theogony Volume III]] reads:
 This passage once stated that Muhs was created by [[Vayniklah]] in order to help her create beasts, but this has since been changed. However, Vayniklah's top-tier [[relics|relic]] does state that she created the first Aspects in the second generation, and the family tree mural indicates that Muhs is one of these creations.
 
 No detailed description of his physical form is given in-map, but small bits and pieces of Muhs' body are known from [[The Hunting of Greatbeast Muhs]]. He appears to have been a large, four-legged creature, described as having fur, paws, a snout, and a tail that he used as a weapon—overall a more mammalian dragon. Muhs' blood is also described as a deep green ichor.
+
+### Color/Build Scheme
+
+Muhs is typically associated with brown, green, and gray. Builds concerning Muhs are often lush caves or similar.
 
 ## Role
 

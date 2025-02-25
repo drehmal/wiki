@@ -9,7 +9,7 @@
 | **Family** | [[Khive]] (Parent) <br> [[Tethlaen]] and [[Maen]] (siblings) |
 | **Gender** | Feminine (**she**/they) |
 
-## Characteristics
+## Description
 
 Moen shares a passage in [[Theogony Volume III]] with her two siblings:
 
@@ -18,6 +18,10 @@ Moen shares a passage in [[Theogony Volume III]] with her two siblings:
 > Created and maintain the Primal Emotions, all three of which are vital for functional souls. Moen lives on Lo'Dahr, Maen is shackled to Loruhn, and Tethlaen is widely believed to be dead after disappearing.
 
 Moen is characterized as being extremely pleasant and friendly, in line with her domain.
+
+### Color/Build Scheme
+
+Moen is heavily associated with pink, magenta, red, and white. Designs concerning Moen often utilize heart patterns.
 
 ## Role
 

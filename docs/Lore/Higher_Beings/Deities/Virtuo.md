@@ -20,7 +20,7 @@ Virtuo mysteriously took flight in Av3 903, departing with the entirety of her G
 | **Gender** | Feminine (she/her) |
 | **[[Devotion]] Site** | [[Kiln of Virtuo]] |
 
-## Characteristics
+## Description
 
 Virtuo takes the form of a 12-foot tall Drehmari (humanoid) with shimmering blue horns, blue hair and very tan/nearly orange skin. She is known to be calm, wise and stunningly beautiful.
 

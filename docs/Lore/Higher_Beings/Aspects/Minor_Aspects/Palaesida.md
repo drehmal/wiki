@@ -9,7 +9,7 @@
 | **Family** | [[Dahr]] (Father) <br> [[Rihelma]] (Mother) <br> [[Dahroehl]] and [[Rihalae]] (Half-Siblings) |
 | **Gender** | Masculine (he/him) |
 
-## Characteristics
+## Description
 
 Palaesida's passage in [[Theogony Volume III]] reads:
 
@@ -20,6 +20,10 @@ Palaesida's passage in [[Theogony Volume III]] reads:
 Palaesida is generally depicted as a rebellious and mischievous Aspect.
 
 Palaesida is one of only two Aspects who is explicitly shown to be the child of two other Aspects, being a cross between [[Dahr]], Aspect of Sea, and [[Rihelma]], Aspect of Sky. The only other such Aspect is [[Noha]], a cross between [[Taihgel]] and [[Vayniklah]].
+
+### Color/Build Scheme
+
+Palaesida's colors are black, gray, and yellow, associated with storm clouds and lightning bolts. His builds often make use of (deep)slate bricks and copper lightning rods.
 
 ## In-Map References
 

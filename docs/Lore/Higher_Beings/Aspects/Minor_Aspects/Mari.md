@@ -9,7 +9,7 @@
 | **Family** | [[Vayniklah]] (Parent/Creator?) |
 | **Gender** | Masculine (he/him) |
 
-## Characteristics
+## Description
 
 Mari's passage in [[Theogony Volume III]] reads as follows:
 
@@ -22,6 +22,10 @@ Mari's passage in [[Theogony Volume III]] reads as follows:
 The statue above, from the [[Emperor's Estate]], is the only known depiction of Mari's physical form in the map. Based on this statue, Mari is perhaps the singular most humanoid Aspect.
 
 Mari is extremely wise and patient, and has historically been among the most active Aspects on the [[disc]].
+
+### Color Scheme
+
+Mari's color scheme is green, red, and yellow, often with the yellow in the center of a more elaborate pattern.
 
 ### Name
 

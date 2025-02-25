@@ -9,7 +9,7 @@
 | **Family** | [[Verrhys]] (???)  |
 | **Gender** | Neutral (**he/they**/she) |
 
-## Characteristics
+## Description
 
 Lahrs' passage in [[Theogony Volume III]] reads as follows:
 
@@ -22,6 +22,10 @@ Lahrs' canon pronouns are given to be he/him or she/her by the developers, but t
 Lahrs' physical form is not depicted or described anywhere in the map, officially.
 
 He is portrayed as very diplomatic, often embodying the spirit of compromise.
+
+### Color/Build Scheme
+
+Lahrs' primary colors are green and orange, although builds dedicated to Lahrs often use a variety of other colors. Typically, these builds will play off of opposite, balancing forces, such as blue/red yin-yang-like symbols. Mushrooms are also very frequently used in Lahrs-related builds.
 
 ## Role
 

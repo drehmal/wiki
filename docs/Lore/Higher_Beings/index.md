@@ -15,7 +15,7 @@ Major Aspects are considered to be the most important Aspects and those with the
 
 ### [Minor Aspects](/Lore/Higher_Beings/Aspects/Minor_Aspects/)
 
-Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exception to this is [[Lahrs]], who was created by the Primal Tree and is the subject of debate for classification ([[Verrhys]] was also created by the Primal Tree, but their existence isn't known to people in the present day.)
+Minor Aspects are younger and less powerful Aspects, and are the children of Major Aspects. The exceptions to this are [[Verrhys]] and [[Lahrs]], who seemingly comprise their own separate lineage from the rest of the Aspects.
 
 ### Aspect List
 

@@ -249,7 +249,9 @@ In the western tower—Maelihs' tower—Mael himself is found sitting in his thr
 
 It is unknown exactly how old Ytaj is, but it does appear to have served as the center for the Aspects' affairs on Lo'Dahr since at least the mid-Second Avihm. Ytaj likely originated no earlier than early Av2, as it prominently features towers specifically dedicated to the Deities, who did not exist in Av1. Ytaj could have plausibly been built as a direct result of the Aspects largely withdrawing from [[Drehmari]] affairs on [[Overworld|Drehmal]], as they seem to have had a minimal presence on the [[disc]] since at least mid-late Av2, and would have needed a new home.
 
-Ytaj was a central location in the events of the [[Divine Schism]], which saw the Aspects split into two warring factions, the Palaesidans and Anti-Palaesidans, named for Palaesida, the Aspect of Storms, whose actions arguably set the entire Schism in motion, and whose death brought about its end. Ytaj saw at least two battles during the Divine Schism, and appears to have been under control of both sides at different points in the war.
+Ytaj was a central location in the events of the [[Divine Schism]], which saw the Aspects split into two warring factions, the Palaesidans and Anti-Palaesidans, named for Palaesida, the Aspect of Storms, whose actions arguably set the entire Schism in motion, and whose death brought about its end. Ytaj saw at least two battles during the Divine Schism, and appears to have been under control of both sides at different points in the war. 
+
+!!! bug "If this is still on the wiki, please go harass @k182 in the discord server and get him to actually rewrite the divine schism part of this article. You may be a little bit mean to him, within reason."
 
 After the Schism, which resulted in the deaths of [[Noha]], [[Palaesida]], and (indirectly) [[Voynahla]], the Aspects mostly became reclusive, fearing that they too could lose their lives if they dared to show their physical forms. As a result, astral projection to Ytaj became the primary means of communication between the Aspects, and today, as we learn from Mael, only a few Aspects—including [[Dahr]], [[Khive]], [[Nahyn]], and [[Dahroehl]]—still visit physically on a regular basis.
 
@@ -558,7 +560,7 @@ Voynahla's room is located in southeastern Ytaj, just down the stairs to the rig
 
 Palaesida's room is the final Aspect room using this ordering convention, and is located in the southeast of Ytaj, just to the east of the entrance. It is a circular room with a ceiling made out of gray wool and white/yellow stained glass, simulating storm clouds and lightning strikes. In the center of the room, a carpet pattern appears to show the color scheme of Palaesida's face when he was alive.
 
-Palaesida's room is relatively unique, containing a series of stone tablets with signs around the room, which tell the story of the [[Divine Schism]], the conflict that claimed Palaesida's life, likely erected as a memorial to the fallen Aspect after the Schism. These signs are the clearest tie between the Divine Schism and the [[Frostfang Catastrophe]] on Drehmal. The signs read as follows:
+Palaesida's room is relatively unique, containing a series of stone tablets with signs around the room which tell the story of the [[Divine Schism]]. Palaesida played a central role in this conflict, and the tablets were likely erected as a memorial to the fallen Aspect after the Schism. These signs are the clearest tie between the Divine Schism and the [[Frostfang Catastrophe]] on Drehmal. The signs read as follows:
 
 ??? info "Palaesida Tablets Transcription"
     A meeting of the Prismatic Council commences, <br>

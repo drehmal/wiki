@@ -114,9 +114,9 @@ m--lves. Whil- - -u-- --- p--s-cal-- --te-f--e wit- the-r ---airs, I ---- tha- -
 > If you are reading these words, then my only loyal apprentice remaining will have judged you worthy. If we do not have time or occasion to speak, I hope that you will have the integrity to help me in my quest to right the many wrongs I have committed.
 
 [^a]: Possibly "unearthed"?
-[^b]: Likely referring to the Mt. Yavhlix seal
-[^c]: Potentially "sound"?
-[^d]: Possibly "Great/Grand creators," although would not mesh perfectly with rest of sentence
+[^b]: Likely referring to the Mt. Yavhlix seal.
+[^c]: Potentially "sound" or "noise".
+[^d]: Possibly "Great/Grand creators," although would not mesh perfectly with rest of sentence. Believed to refer to [[Verrhys]].
 [^e]: Or "arbor"
 [^g]: Unclear
 [^h]: "Potential"?

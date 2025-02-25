@@ -14,7 +14,7 @@ icon: material/home
 !!! tip "Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!"
 
 !!! note "WIP"
-    This wiki is a work in progress, with many pages still unfinished. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the `#wiki-creation` channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account.
+    This wiki is a work in progress. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the `#wiki-creation` channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account.
 
 <figure markdown>
   ![[primal_start.png]]{ width="800" }
@@ -24,9 +24,9 @@ Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive,
 
 Our wiki is an effort to document Drehmal's wonders and provide a single centralized resource for help in navigating the map for new and experienced players alike. This project is spearheaded entirely by highly invested community members, in direct collaboration with the map's developers, helping us to be as thorough and comprehensive as possible.
 
-[Official Drehmal Website (Map Download) :material-omega: ](https://drehmal.net){ .md-button .md-button--primary }
+**Official Drehmal Website (Map Download)**: [:material-omega:](https://drehmal.net){ .md-button .md-button--primary }
 
-[Join the Official Drehmal Discord! :fontawesome-brands-discord: ](https://discord.drehmal.net){ .md-button .md-button--primary }
+**Join the Official Drehmal Discord!** [:fontawesome-brands-discord:](https://discord.drehmal.net){ .md-button .md-button--primary }
 
 ## Spoilers, the Wiki, and You!
 Drehmal is a fantastic experience, and while this wiki is here to help you navigate and learn more about it, we CANNOT stress enough that you should attempt to find things for yourself on this map! There are many huge moments in the map's story, incredible hidden areas, and progression-locked abilities that are cool to read about, but much more fun to discover on your own!

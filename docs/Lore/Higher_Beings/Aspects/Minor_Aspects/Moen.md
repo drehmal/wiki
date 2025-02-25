@@ -7,7 +7,7 @@
 | **Titles** | Kind Wyrm Moen |
 | **Classification** | [Minor Aspect](/Lore/Higher_Beings/Aspects/Minor_Aspects/) |
 | **Family** | [[Khive]] (Parent) <br> [[Tethlaen]] and [[Maen]] (siblings) |
-| **Gender** | Feminine (she/they) |
+| **Gender** | Feminine (**she**/they) |
 
 ## Characteristics
 

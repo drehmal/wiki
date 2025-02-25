@@ -12,6 +12,7 @@ theme:
     repo: fontawesome/brands/github
     admonition: 
       abstract: fontawesome/solid/map-location
+    annotation: material/plus-circle
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

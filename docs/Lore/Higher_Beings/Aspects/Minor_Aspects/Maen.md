@@ -7,7 +7,7 @@
 | **Titles** | Abominate Maen |
 | **Classification** | [Minor Aspect](/Lore/Higher_Beings/Aspects/Minor_Aspects/) |
 | **Family** | [[Khive]] (Parent) <br> [[Tethlaen]] and [[Moen]] (siblings) |
-| **Gender** | Masculine (he/it) |
+| **Gender** | Masculine (**he**/it) |
 
 ## Characteristics
 

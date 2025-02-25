@@ -9,7 +9,7 @@ Muhs is one of four dead Aspects, having been slain by a mortal [[Hunting Party]
 | **Titles** | Greatbeast <br> Father of Beasts |
 | **Classification** | [Minor Aspect](/Lore/Higher_Beings/Aspects/Minor_Aspects/) |
 | **Family** | [[Vayniklah]] (Parent/Creator?) |
-| **Gender** | Masculine (he/they) |
+| **Gender** | Masculine (**he**/they) |
 
 ## Characteristics
 

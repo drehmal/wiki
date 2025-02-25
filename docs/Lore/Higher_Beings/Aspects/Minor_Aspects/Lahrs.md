@@ -7,7 +7,7 @@
 | **Titles** | The Ever-Chant <br> Lahrs, the Burgeoning |
 | **Classification** | [Minor Aspect](/Lore/Higher_Beings/Aspects/Minor_Aspects/) (Disputed) |
 | **Family** | [[Verrhys]] (???)  |
-| **Gender** | Neutral (he/they/she) |
+| **Gender** | Neutral (**he/they**/she) |
 
 ## Characteristics
 

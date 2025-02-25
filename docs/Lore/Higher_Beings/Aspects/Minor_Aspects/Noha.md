@@ -7,7 +7,7 @@
 | **Titles** | Noha of Meadows (or simply "Meadows") |
 | **Classification** | [Minor Aspect](/Lore/Higher_Beings/Aspects/Minor_Aspects/) |
 | **Family** | [[Taihgel]] (Parent) <br> [[Vayniklah]] (Parent) |
-| **Gender** | Feminine (she/they) |
+| **Gender** | Feminine (**she**/they) |
 
 ## Characteristics
 

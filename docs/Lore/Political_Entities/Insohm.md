@@ -16,7 +16,7 @@ This allowed Drehmari use of airships for the first time since the fall of Avsoh
 
 Over the course of the late Av3 500s, Insohm expanded through trade agreements to lead a broad alliance of eastern states, including those in [[Highfall]], [[Akhlo'Rohma]], and [[Faehrcyle]]. 
 
-In Av3 600, the [[Insohmic Civil War]] broke out following a massacre of civilians by separatist militias, and an 11-year civil war would follow. During this time, an Insohmic airship passed over [[Tidal Dynasty]] airspace, bringing the people of the [[Black Jungle]] into the war as well. Insohmic loyalists would win the war, establishing Insohm as the major power in the east for good, and the subsequent [[Tidal Wars]] saw the collapse of the Dynasty into the Parochial Enclave of Firteid, an Insohmic member state.
+In Av3 600, the [[Insohmic Civil War]] broke out following a massacre of civilians by separatist militias, and an 11-year civil war would follow. During this time, an Insohmic airship passed over [[Tidal Dynasty]] airspace, bringing the people of the [[Black Jungle]] into the war as well. Insohmic loyalists would win the war, establishing Insohm as the major power in the east for good, and the subsequent [[Tidal War]] saw the collapse of the Dynasty into the Parochial Enclave of Firteid, an Insohmic member state.
 
 Following this shorter series of conflicts, Insohm began to harness some of the lost [[Avsohm|Avsohmic]] technology they had recovered, building powerful weapons such as the [[ICS Arbiter]]. Shortly afterwards, the [[Battle for Drehmal]] would begin: a centuries-long war of liberation, seeking to re-capture the west from the [[Empire of Maelihs]]. The Battle for Drehmal appears to have lasted for over 200 years, all the way until the end of Av3.
 

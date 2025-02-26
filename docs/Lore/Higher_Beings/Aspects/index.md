@@ -31,3 +31,5 @@ The Aspects are believed to have once been extremely active on the [[disc]], liv
 Following the events of the [[Divine Schism]], most of the Aspects became reclusive, realizing that they could die and fearing that they would be killed by their brethren just like [[Palaesida]]. The death of [[Muhs]] shortly thereafter was the final nail in the coffin for most Aspects, with very few spending any time on Drehmal since late Av2. 
 
 It is unclear to what extent the Aspects are all necessary for the continued function of the world, long after taking part in its original creation. There are some clear effects to the death of Aspects, as seen in the late game, and some Aspects, such as the Emotion trio, are still said to manage their respective emotion within the Drehmari population.
+
+The Aspects and Deities together make up the **Prismatic Council**, the official governing body of the divine moon of [[LD|Lo'Dahr]].

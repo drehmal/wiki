@@ -120,10 +120,10 @@ The other mention is in the [[Artifacts#Null Greaves|Null Greaves]] in the [[Pri
 
 The former source is believed to be Khive writing about [[Aok]], suggesting that the First Necromancer also attempted the Ambition. 
 
-The Ambition is widely believed to be tied to the secret sixth sphere (2) mentioned by [[Akim]] in the [[Dusty Tome]], as the final step beyond the Great Work revealed to those who have reached it. Akim ends this book by stating "my ambition knows no bounds", strongly suggesting that he attempted the Ambition.
+The Ambition is widely believed to be tied to the secret sixth sphere (1) mentioned by [[Akim]] in the [[Dusty Tome]], as the final step beyond the Great Work revealed to those who have reached it. Akim ends this book by stating "my ambition knows no bounds", strongly suggesting that he attempted the Ambition.
 { .annotate }
 
-2. Described as a "swirling vortex of yellow and purple, devouring all that stray near it", almost certainly the Heart of the Void.
+1. Described as a "swirling vortex of yellow and purple, devouring all that stray near it", almost certainly the Heart of the Void.
 
 [[The Facets]] have also been *speculated* to reflect possible realities in which different characters complete the Ambition, with Facet I seeming to be connected to Aok and predicting that he would raise an army of the dead to "fuel his ambition".
 

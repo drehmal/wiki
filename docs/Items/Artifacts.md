@@ -1700,7 +1700,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The noble Drehmari of Semehol refined slime mined from the nearby island and delivered it to Tharxax City. When they rose up against Ethgar, the Third Burnt General, her army made an example of them. Only their reinforced working gear remains. |
+| **Lore**   | The noble Drehmari of Semehol refined slime mined from the nearby island and delivered it to Tharxax City. When they rose up against Ethgar, the Third Burnt General, his army made an example of them. Only their reinforced working gear remains. |
 | **Obtain** | Located in the ruins of Semehol, just southeast of [[Tharxax City]]. Chest located at **(-1682, 67, 3857)**         |
 
 ### Smau's Hammer

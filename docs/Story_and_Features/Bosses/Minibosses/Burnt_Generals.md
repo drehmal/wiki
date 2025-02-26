@@ -30,8 +30,8 @@ Tevus is the Second General, and guards the most sacred place in Mael's empire: 
 
 ### Location
 
-Ethgar is the only Burnt General in the map who does not spawn in. Rather, they are located in [[Rhaveloth]], guarding the [[Sepulchral Altar]], and are present before the player arrives.
+Ethgar is the only Burnt General in the map who does not spawn in. Rather, he is located in [[Rhaveloth]], guarding the [[Sepulchral Altar]], and is present before the player arrives.
 
 ### Lore
 
-Ethgar seems to be more active than Tevus, with firsthand accounts of them oppressing the surrounding lands in [[South Tharxax]]. The [[Artifacts#Sliming Trousers|Sliming Trousers]] found in [[Semehol]] recount a time that Ethgar's army brutally crushed a rebellion in that town, and their fiery personality is also attested to in [[Dahroc's Notes]], where they are the only one to outright question [[Maelihs]] after he released the [[Skullmother]].
+Ethgar seems to be more active than Tevus, with firsthand accounts of his armies oppressing the surrounding lands in [[South Tharxax]]. The [[Artifacts#Sliming Trousers|Sliming Trousers]] found in [[Semehol]] recount a time that Ethgar's army brutally crushed a rebellion in that town, and his fiery personality is also attested to in [[Dahroc's Notes]], where he is the only one to outright question [[Maelihs]] after he released the [[Skullmother]].

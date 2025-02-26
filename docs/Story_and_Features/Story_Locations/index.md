@@ -62,7 +62,7 @@ Completing the Post-75% content will see the player enter a large dungeon at [[M
 
 ??? warning "Mt. Yavhlix Story Pages"
     [[Primary Energy Collection Facility]] <br>
-    [[The Nothing]]
+    [[Nothing Island|The Nothing]]
 
 ## End-Game: Post-Yavhlix
 After the boss fight in Mt. Yavhlix, the vanilla Minecraft credits will play, but this is by no means the end of the story. The player will be directly guided through the "end-game" at this point, across multiple locations.

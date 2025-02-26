@@ -142,6 +142,12 @@ There are a number of things that can cause lag in Drehmal, and in Minecraft in 
 - Try tweaking other settings in Minecraft's "Video Settings" tab which impact performance, such as turning graphics to "Fast," turning leaves to "Fast," and so on. <br>
 - Ensure that you have allocated the proper amount of RAM to your Drehmal Minecraft installation. Sometimes, allocating either too little (less than 4 GB) or too much (the majority of your machine's total RAM) can cause persistent lag issues. On an existing installation, the RAM can be changed by changing the number in the "JVM Arguments" dropdown box of the installation in the vanilla launcher. This box, underneath "More Options," should have a string that looks like `-Xmx8192M`, where "8192" is a number referring to the Megabytes of RAM allocated (this number is about 8GB of RAM). You can simply adjust this number to something else (like 10240 for just over 10 GB of RAM), save the installation, and play.
 
+### How Do I Fix the "Enable Command Blocks" Message?
+
+If you're playing on a server, this message might mean that you need to enable command blocks in your server properties file.
+
+If you checked and they are enabled, or you're playing on a singleplayer world, this is usually a sign of a corrupted save file. Reinstall the world manually, and ensure that you unzip the world inside of your saves folder. Moving an unzipped folder with as many moving parts as the Drehmal world is a common cause of world corruption.
+
 ### I Lost a Custom Item. Can I Get It Back?
 
 Drehmal has many custom items, most of which can be recovered if lost or destroyed. [Legendaries](/Items/Legendary_Items/) and [Mythicals](/Items/Mythical_Weapons/) can be crafted via the recipes that you learn when you first find them. [[Artisan Items]] can be purchased again from their original vendor, and [[Runic Catalyst|Runic Catalysts]] can be bought in the late-game, or simply duplicated using creative mode.

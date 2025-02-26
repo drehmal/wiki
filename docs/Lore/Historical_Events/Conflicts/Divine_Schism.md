@@ -4,7 +4,6 @@ The **Divine Schism** was the first and only conflict between the [Aspects](Lore
 
 This conflict led to the some of the only Aspect deaths by the present day, claiming the lives of [[Noha]], [[Palaesida]], and (indirectly) [[Voynahla]], as well as resulting in the indefinite exile of [[Maen]].
 
-**Known Belligerents:**
 |                    | **Palaesidans** | **Anti-Palaesidans/Loyalists** |
 |:------------------:|:---------------:|:--------------------:|
 | **Known Belligerents:** | [[Palaesida]] and forces (including [[Amohn Aihura]]) <br> [[Rihalae]] <br> [[Loeleyhn]] (implied) | [[Rihelma]] and forces (including [[Oriann]]) <br> [[Lai]] <br> [[Loe]] <br> [[Maen]] <br> The [[Tehrmari#Talon|Talon]], led by [[Sereven]] <br> [[Blue Exodus]] mercenaries, led by [[Kahmas Tuhs]] and [[Orix Cehein]] |

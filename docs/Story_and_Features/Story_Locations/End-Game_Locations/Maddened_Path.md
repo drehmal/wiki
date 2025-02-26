@@ -64,7 +64,7 @@ After the Emissary fight has concluded, the player can step into the final porta
 ## Lore
 The Maddened Path appears to be made up of remnants of Drehmal that are approaching the Heart of the Void, where realms are created and ultimately pulled back at the end of their lifespans. The skybox in this area shows numerous bright spots resembling stars in all directions, although the knowledge unveiled in the Resonant Eye's third dive would suggest that these are all other realms, systems of celestial bodies contained in their own [[Veil|Veils]]. To the south, the player can see the disc of Drehmal, which appears barren and covered in sand. To the north, the Heart of the Void, a massive swirling cluster of purple and orange somewhat reminiscent of an eye, looms over the backdrop of the Maddened Path.
 
-This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Great Work]], but believes there is still one more step to true apotheosis. He describes visions of the Heart of the Void and eidolic whispers pushing him there, presumably from [[Aok]].
+This location is referenced elsewhere in the map, but primarily as a mythical or figurative place. In the [[Dusty Tome]], it is written about by [[Akim]], an alchemist who claims to have completed the [[Alchemy#Great Work|Great Work]], but believes there is still one more step to true apotheosis. He describes visions of the Heart of the Void and [[Alchemy#Eidolic Whispers|eidolic whispers]] pushing him there.
 
 ## Extras
 

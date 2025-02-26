@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writing of an alchemist named [[Akim]] who claims to have completed the [[Great Work]], and seeks even further power by ascending to the final Sixth Sphere.
+This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writing of an alchemist named [[Akim]] who claims to have completed the [[Alchemy#Great Work|Great Work]], and seeks even further power by ascending to the final Sixth Sphere.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

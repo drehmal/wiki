@@ -3,7 +3,7 @@
 ![[red_dawn_banner.png]]
 > The Red Dawn banner.
 
-**Red Dawn** was an [alchemical](/Lore/Magic/Alchemy/) society, and a member of [[Avsohm]]'s Big Three, a group of three semi-independent organizations that were brought under the empire's wing, acting as branches of their government. Red Dawn was responsible for many of Avsohm's most cutting-edge research projects, including some deemed too unethical or taboo to be public information, and their specific actions were largely kept secret by the government.
+**Red Dawn** was an [alchemical](Alchemy.md) society, and a member of [[Avsohm]]'s Big Three, a group of three semi-independent organizations that were brought under the empire's wing, acting as branches of their government. Red Dawn was responsible for many of Avsohm's most cutting-edge research projects, including some deemed too unethical or taboo to be public information, and their specific actions were largely kept secret by the government.
 
 Red Dawn was headquartered at [[Azimuth Labs]] during the time of Avsohm, but the organization itself predated the empire and (to some extent) survived its collapse.
 
@@ -13,7 +13,7 @@ Red Dawn was headquartered at [[Azimuth Labs]] during the time of Avsohm, but th
 
 Red Dawn was formed in early Av2, following the establishment of modern alchemy at [[Ancehl Castle]]. It was likely formed at some point in the Av2 1300s, around the time that its respective school, Asomatous alchemy, was established. 
 
-Red Dawn prided itself on its willingness to reject the ethical code of Ancehlian alchemists, focusing entirely on the Doctrine of Spheres and pursuing whatever was necessary to attain their [[Great Work]]. They appear to have had a presence in many different states, mostly flocking to whoever had the most power and wealth to support their endeavors.
+Red Dawn prided itself on its willingness to reject the ethical code of Ancehlian alchemists, focusing entirely on the Doctrine of Spheres and pursuing whatever was necessary to attain their [[Alchemy#Great Work|Great Work]]. They appear to have had a presence in many different states, mostly flocking to whoever had the most power and wealth to support their endeavors.
 
 The group was therefore drawn to [[Avsohm]] as it became a titanic superpower, and a mutual relationship was born. Red Dawn used Avsohm's funding and access to highly prized materials in order to power its own research, and the empire was able to utilize Red Dawn's expertise and experimentation to further its dominance over the realm.
 

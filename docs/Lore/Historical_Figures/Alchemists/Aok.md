@@ -1,6 +1,6 @@
 # Aok
 
-**Aok** (pronounced "ay-ock"), sometimes referred to with the titles "First of the Dead", "Last of the Living," or "The First Necromancer", was an ancient alchemist who lived in the first Avihm. Widely believed to be the first Drehmari to ever complete the [[Great Work]], he is also credited as the inventor of [[necromancy]].
+**Aok** (pronounced "ay-ock"), sometimes referred to with the titles "First of the Dead", "Last of the Living," or "The First Necromancer", was an ancient alchemist who lived in the first Avihm. Widely believed to be the first person in the realm to ever complete the [[Alchemy#Great Work|Great Work]], he is also credited as the inventor of [[necromancy]].
 
 ## Known References
 
@@ -13,8 +13,14 @@ Aok is extremely mysterious, being very poorly understood by modern Drehmari eve
 - [[Dusty Tome]]: This book, written by [[Akim]], references Aok as the first to complete the Great Work, but states that Aok was unable to take the [[Ambition|final step]]. <br>
 - [[The Great Work]]: This book at the [[Nimahj Alchemy Fortress]] mentions Aok (as "The First Necromancer") as one of two alchemists to ever complete the Great Work. <br>
 
-## Possible Connections
+## Late-Game Speculation and Possible Connections
 
-Aok is believed to be deeply involved in many other parts of the lore, but this is all highly speculative and/or tied to leaked content. I will return later to decide what to do with this page.
+--8<-- "spoiler.md"
 
+--8<-- "postyav_spoiler.md"
 
+!!! info "See [[Alchemy#Eidolic Whispers|Eidolic Whispers]] on the Alchemy page."
+
+Although this is speculation, Aok is believed by many community members to be the source of the [[Alchemy#Eidolic Whispers|eidolic whispers]] heard throughout Drehmal. Aok is a being with power over death due to his masterful necromancy, making him a match for the position of "eidolon", and has also been known to transcend the Veil, planting him in the [[Nothing]]. The whispers are seemingly heard by the players inside of [[Mt. Yavhlix]], the location of Drehmal's tear into the Nothing.
+
+Therefore, it is possible that the [[Mt. Yavhlix Dialogue]] comes from Aok, driving the player towards the Nothing and goading them into killing [[Tethlaen]]. If this is the case, Aok thanks the player after they kill Tethlaen, and is seemingly not heard from again.

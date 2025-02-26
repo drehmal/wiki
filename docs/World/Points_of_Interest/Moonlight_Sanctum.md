@@ -65,4 +65,4 @@ A [[Fervor Stones#Stone of Agony|Stone of Agony]] is also located within this st
 
 ## Lore
 
-The Moonlight Sanctum was a construction of the [[Tri-Moon Theocracy]], built to function as a necrotic engine. The goal of this structure was to continually revive and kill a set of subjects, harnessing the energy released from this process to somehow complete the [[Great Work]]. How exactly this would have worked is unclear, but this process is heavily tied to the necromantic traditions of the region, inspired by [[Aok]].
+The Moonlight Sanctum was a construction of the [[Tri-Moon Theocracy]], built to function as a necrotic engine. The goal of this structure was to continually revive and kill a set of subjects, harnessing the energy released from this process to somehow complete the [[Alchemy#Great Work|Great Work]]. How exactly this would have worked is unclear, but this process is heavily tied to the necromantic traditions of the region, inspired by [[Aok]].

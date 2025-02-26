@@ -43,7 +43,7 @@ At the first two locations, the player receives details on Anyr's machinations w
 
 ## Identity
 
-The true identity of the Mythoclast has been the source of intense speculation within the Drehmal community. Many have entertained the idea that he may have been born mortal, but managed to ascend to his current level of omnipotence, potentially through completion of the [[Ambition]]. It has been theorized that if this is the case, then the Mythoclast may even be a known figure from the realm of Drehmal, as he seems to take a particular interest in our realm.
+The true identity of the Mythoclast has been the source of intense speculation within the Drehmal community. Many have entertained the idea that he may have been born mortal, but managed to ascend to his current level of omnipotence, potentially through completion of the [[Alchemy#Ambition|Ambition]]. It has been theorized that if this is the case, then the Mythoclast may even be a known figure from the realm of Drehmal, as he seems to take a particular interest in our realm.
 
 Many characters have been proposed as potential candidates for the original identity of the Mythoclast, although none of these theories have been confirmed by developers or reached any sort of consensus among the community. Such characters include [[Verrhys]], [[Akim]], and [[Aok]], to name a few.
 

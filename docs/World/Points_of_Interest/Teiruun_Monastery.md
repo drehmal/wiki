@@ -23,7 +23,7 @@ This opens into a room with a flooded, complex floor pattern. There are several 
 
 ### Library Room
 
-Partially up a spiral diorite staircase (at y=202) is a library room, containing several notable lore books. This includes the [[History of Teiruun]] book on a lectern at the front of the room, telling the story of the monastery. In a sectioned-off area of the upper balcony, another lectern holds the [[Dusty Tome]] book, an extremely significant work written by [[Akim]], the second [alchemist](/Lore/Magic/Alchemy/) known to have completed the [[Great Work]].
+Partially up a spiral diorite staircase (at y=202) is a library room, containing several notable lore books. This includes the [[History of Teiruun]] book on a lectern at the front of the room, telling the story of the monastery. In a sectioned-off area of the upper balcony, another lectern holds the [[Dusty Tome]] book, an extremely significant work written by [[Akim]], the second [alchemist](Alchemy.md) known to have completed the [[Alchemy#Great Work|Great Work]].
 
 ### Reaching the Top
 
@@ -49,7 +49,7 @@ The monastery developed into a place known for meditation and wellness, with its
 
 After the departure of Virtuo, ending the Third Avihm, the monks at Teiruun grew emboldened by their newfound lack of oversight. Previously, [[Virmari]] could only be created with the explicit blessing of the goddess Virtuo herself, being her specific ascended form of Drehmari. However, the monks at Teiruun grew obsessed with finding a different path to ascension, trying to create Virmari without the Goddess through alchemical means. This resulted in decades of cruel experiments, including on pilgrims who came to the monastery in search of healing. Eventually, they believed themselves successful, with Abbot Balthysar apparently being the closest to a true Virmari that anyone had created in almost 100 years.
 
-The monastery also very prominently holds the only known writing of [[Akim]], stated by multiple sources to be the second known finisher of the [[Great Work]]. Referred to as the "Lord of Dust", Akim's exact actions are not clear at all, but his writing, [[Dusty Tome]], clearly references the secret Sixth Sphere, and therefore potentially the [[Ambition]]. The fact that his book is found here does not necessarily mean that Akim himself lived here, but at the very least, it shows that the monks of Teiruun likely tried to follow his teachings.
+The monastery also very prominently holds the only known writing of [[Akim]], stated by multiple sources to be the second known finisher of the [[Alchemy#Great Work|Great Work]]. Referred to as the "Lord of Dust", Akim's exact actions are not clear at all, but his writing, [[Dusty Tome]], clearly references the secret Sixth Sphere, and therefore potentially the [[Alchemy#Ambition|Ambition]]. The fact that his book is found here does not necessarily mean that Akim himself lived here, but at the very least, it shows that the monks of Teiruun likely tried to follow his teachings.
 
 ## Extras
 

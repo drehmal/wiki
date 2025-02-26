@@ -40,7 +40,7 @@ Several other very prominent figures in Avsohm were employed by the DoS, includi
 
 The "Big Three" were a group of three external agencies which were functionally absorbed into Avsohm's government over the course of [[Ifeihl]] and [[Anyr]]'s reigns. Most were significantly older than the empire, and to some degree, outlived the empire.
 
-**[[Red Dawn]]** was an advanced [alchemical](/Lore/Magic/Alchemy/) society that predated Avsohm, and bounced around between several major powers throughout history. Chasing the completion of the [[Great Work]], they were drawn to Avsohm for their willingness to fund alchemical practices that more traditional schools saw as unethical.
+**[[Red Dawn]]** was an advanced [alchemical](Alchemy.md) society that predated Avsohm, and bounced around between several major powers throughout history. Chasing the completion of the [[Alchemy#Great Work|Great Work]], they were drawn to Avsohm for their willingness to fund alchemical practices that more traditional schools saw as unethical.
 
 **[[Blue Exodus]]** was a private military organization built out of the town of [[South Heartwood#Ruins of Stromnar|Stromnar]] in the South Heartwood. They eventually came to act as the main wing of Avsohm's military, using the empire's excess of [[Primal Energy]], [[rehntite]], and scientific knowledge to create a highly advanced, continent-spanning army.
 

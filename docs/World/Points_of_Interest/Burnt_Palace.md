@@ -95,7 +95,7 @@ The meaning of this memorial, as well as its [[Kiln of Virtuo#Karesh Signs|paral
 
 **Coordinates:** (-3989, 90, 6015)
 
-Returning to the tree mural and taking the left staircase, players can follow a long series of spiral stairways upward to a library room with a single large chair. Behind this chair is the [[Tattered Diary of Klyhf Him'lahk]], the first-hand account of alchemist [[Klyhf|Klyhf Him'lahk]]'s time in the service of [[Maelihs]] and his attempt to complete the [[Great Work]] by betraying his lord.
+Returning to the tree mural and taking the left staircase, players can follow a long series of spiral stairways upward to a library room with a single large chair. Behind this chair is the [[Tattered Diary of Klyhf Him'lahk]], the first-hand account of alchemist [[Klyhf|Klyhf Him'lahk]]'s time in the service of [[Maelihs]] and his attempt to complete the [[Alchemy#Great Work|Great Work]] by betraying his lord.
 
 A piece of the Ardent set is also found here: next to the throne, players can dig through the center of the 3-block wide case of bookshelves to find a secret room, holding the [[Artifacts#Ardent Will|Ardent Will]] chestplate.
 
@@ -197,7 +197,7 @@ It appears that the bulk of Mael's research and military development occurred he
 
 [[Klyhf|Klyhf Him'lahk]] was a [[Red Dawn]] alchemist in early Av3. After falling from an airship, he was found by the Empire of Mael, and in a desperate attempt to save his own life, defected to the Burnt Lord's forces in Av3 9. Over the next 12 years, Klyhf would come to take charge on all alchemical happenings within the Burnt Palace, and eventually came to realize that he was the only person in the castle who saw Mael not as a perfect supreme being, but as a peer. 
 
-Surprisingly, Maelihs reciprocated this feeling, seeming to confide in Klyhf, take pleasure in speaking with him about his work, and he even came to share the alchemist's enthusiasm for his craft. The two became friends, but ultimately, as an alchemist, Klyhf's priority was the same as it had always been: completion of the [[Great Work]]. Understanding that alchemical power had to come from somewhere, Klyhf came to the uncomfortable resolution in Av3 18 that the only way he could see his dream become reality was by sacrificing Maelihs.
+Surprisingly, Maelihs reciprocated this feeling, seeming to confide in Klyhf, take pleasure in speaking with him about his work, and he even came to share the alchemist's enthusiasm for his craft. The two became friends, but ultimately, as an alchemist, Klyhf's priority was the same as it had always been: completion of the [[Alchemy#Great Work|Great Work]]. Understanding that alchemical power had to come from somewhere, Klyhf came to the uncomfortable resolution in Av3 18 that the only way he could see his dream become reality was by sacrificing Maelihs.
 
 Klyhf spent the next three years perfecting his machine, and in Av3 21, he attempted to use the machine and trick Mael into sacrificing himself. He failed.
 

@@ -1,5 +1,7 @@
 # Sahd
 
+!!! info "This page is about the island region of Sahd. You may be looking for the major town on this island, [[New Sahd]]."
+
 ![[SD_landscape.png]]{ align=right width="300" }
 
 **Sahd** is an island region in [[Overworld|Drehmal's]] southeastern ocean. It doesn't appear on the map sold by [[Adventuring Merchant|Adventuring Merchants]] and its existence is scarcely hinted to in other parts of the world, making it a somewhat difficult discovery for the player to make.

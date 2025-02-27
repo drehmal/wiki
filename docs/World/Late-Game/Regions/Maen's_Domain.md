@@ -50,7 +50,7 @@ Maen's Domain was once home to the Coven of Alchemists, a group of alchemists wh
 
 ### Coven of Alchemists
 
-The [[Coven of Alchemists]] was a group of [alchemists](/Lore/Magic/Alchemy/) living in a castle near the center of Maen's Domain. This castle contains several lore books detailing its unethical experimentation, which resulted in knowledge on the three Primal Emotions—Pain, Pleasure, and Fear. An [[Artifacts#Involuntary Ranged Injection Mechanism|artifact]] can also be found here.
+The [[Coven of Alchemists]] was a group of [alchemists](Alchemy.md) living in a castle near the center of Maen's Domain. This castle contains several lore books detailing its unethical experimentation, which resulted in knowledge on the three Primal Emotions—Pain, Pleasure, and Fear. An [[Artifacts#Involuntary Ranged Injection Mechanism|artifact]] can also be found here.
 
 **Coordinates:** (X: -99, Y: 51, Z: -310)
 

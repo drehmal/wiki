@@ -44,7 +44,7 @@ The player then descends into a now-exposed underground tunnel, traveling throug
 
 The core of Azimuth Labs is made up of a central, circular chamber split into four rooms, each of which contains a holotext. In these holotexts, Avsohm's late-stage plans for global domination are made explicitly clear. The holotexts specifically concern Emperor Anyr's "ascension," part of the Apotheosis plan, asserting that it would allow Avsohm to achieve their greatest ambitions. These writings establish that Avsohm intended to force the [Aspects](/Lore/Higher_Beings/Aspects/) into submission, and believed wholeheartedly that they had adequate technology to thoroughly defeat the forces of [[Maelihs]] in a day if they desired to do so. 
 
-Deeper into the facility, the player can discover a portion of an unfinished Avsohmic warp tower, as well as a crack in a pipe leading to a side area that contains the [[Artifacts#Leliouria|Leliouria]] artifact. A hallway leads to the culmination of Red Dawn's efforts, their truest attempt at the [[Great Work]]: The God Machine.
+Deeper into the facility, the player can discover a portion of an unfinished Avsohmic warp tower, as well as a crack in a pipe leading to a side area that contains the [[Artifacts#Leliouria|Leliouria]] artifact. A hallway leads to the culmination of Red Dawn's efforts, their truest attempt at the [[Alchemy#Great Work|Great Work]]: The God Machine.
 
 ![[azimuth_gm.png]]
 > The God Machine in its entirety.

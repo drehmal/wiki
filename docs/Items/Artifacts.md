@@ -426,7 +426,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizens of Sahd. This is one of his more curious possessions. |
+| **Lore**   | The Laughing Dragon, who glimpsed the Arc of Twilight, is perhaps the most revered citizen of Sahd. This is one of his more curious possessions. |
 | **Obtain** | Located in the largest building in the town of [[Morah]], on [[Sahd]]. Item frame located at **(4484, 157, 5514)**         |
 
 ??? note "Extra Lore"
@@ -601,7 +601,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in a frozen lake in [[Faehrcyle]]. Chest located at **(2174, 63, -3448)**           |
 
 ??? note "Extra Lore"
-    This shield was likely granted to the Frostfang tribes by [[Loeleyhn]], Aspect of Snow, in return for massively expanding her domain by way of the [[Frostfang Catastrophe]].
+    This shield was possibly granted to the Frostfang tribes by [[Loeleyhn]], Aspect of Snow, in return for massively expanding her domain by way of the [[Frostfang Catastrophe]].
 
 ### Damaged Vorpal Greatsword
 
@@ -1273,7 +1273,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located at a shrine on the largest island south of the [[South Heartwood]]. Chest located at **(946, 151, 5052)**  |
 
 ??? note "Extra Lore"
-    This artifact was clearly meant to be a gift similar to [[Malevolentia]], Mael's signature weapon, but its craftsmanship could not compare to the mythical status of that weapon. The previous time that Mael was forsaken potentially refers to his experience with [[Klyhf|Klyhf Him'lahk]], a Red Dawn alchemist who befriended and then betrayed the god in the pursuit of the [[Great Work]].
+    This artifact was clearly meant to be a gift similar to [[Malevolentia]], Mael's signature weapon, but its craftsmanship could not compare to the mythical status of that weapon. The previous time that Mael was forsaken potentially refers to his experience with [[Klyhf|Klyhf Him'lahk]], a Red Dawn alchemist who befriended and then betrayed the god in the pursuit of the [[Alchemy#Great Work|Great Work]].
 
 ### Mantle of the Calamitous
 
@@ -1318,7 +1318,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in the small desert between [[Veruhkt Plateau]] and [[Highfall Tundra]], in a sculpture of a head. Chest located at **(4464, 42, -2110)**          |
 
 ??? note "Extra Lore"
-    Connected to the other mentions of teeth, "eidolic" and "eidolism", this artifact can be tied to the [[Primary Energy Collection Facility]].
+    Connected to the other mentions of teeth, "eidolic" and "eidolism", this artifact can be tied to the [[Alchemy#Eidolic Whispers|Eidolic Whispers]].
 
 ### Mirage
 
@@ -1700,7 +1700,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                                                                                                          |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | The noble Drehmari of Semehol refined slime mined from the nearby island and delivered it to Tharxax City. When they rose up against Ethgar, the Third Burnt General, her army made an example of them. Only their reinforced working gear remains. |
+| **Lore**   | The noble Drehmari of Semehol refined slime mined from the nearby island and delivered it to Tharxax City. When they rose up against Ethgar, the Third Burnt General, his army made an example of them. Only their reinforced working gear remains. |
 | **Obtain** | Located in the ruins of Semehol, just southeast of [[Tharxax City]]. Chest located at **(-1682, 67, 3857)**         |
 
 ### Smau's Hammer
@@ -2420,7 +2420,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Made of resilient steel, this shortsword sports a unique sporting hilt. Oddly, small figures of axolotls playing in a spring are prominently featured in shallow relief all along the blade. |
+| **Lore**   | Made of resilient steel, this shortsword sports a unique curling hilt. Oddly, small figures of axolotls playing in a spring are prominently featured in shallow relief all along the blade. |
 | **Obtain** | Located in a small settlement in [[Lai's Domain]]. Chest located at **(1370, 138, -1204)**      |
 
 ### Worn Ironreed Rod
@@ -2497,7 +2497,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Obtain** | Located in a side room of the [[Primary Energy Collection Facility]] in Mt. Yavhlix, near the soul sand pit. Chest located at **(26872, 71, -54)**        |
 
 ??? note "Extra Lore"
-    The [[Ambition]] is the extremely mysterious final end-goal of [alchemy in Drehmal](/Lore/Magic/Alchemy/), a step beyond even the [[Great Work]]. Two people—[[Aok]] and [[Akim]]—are believed to have finished the Great Work, but this is the only source which outright claims that the Ambition has been done.
+    The [[Alchemy#Ambition|Ambition]] is the extremely mysterious final end-goal of [alchemy in Drehmal](Alchemy.md), a step beyond even the [[Alchemy#Great Work|Great Work]]. Two people—[[Aok]] and [[Akim]]—are believed to have finished the Great Work, but this is the only source which outright claims that the Ambition has been done.
 
 ### Null Helmet
 

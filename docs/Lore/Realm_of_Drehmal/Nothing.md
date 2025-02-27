@@ -22,7 +22,7 @@ Residing for long amounts of time in the Nothing appears to be extremely damagin
 
 The tear at [[Mt. Yavhlix]] seems to be allowing the Nothing to slowly creep its way into Drehmal, with [[Khive]] believing in [[Codex Celestus]] that this will eventually spell the doom of the realm if not addressed. There also appears to be a similar tear in Eastern [[Xivrhynt]], where Those Beyond have also been sighted.
 
-The Nothing is very heavily associated with [[Aok]], as he is said to have the power to transcend the [[Veil]], is very likely referenced during and around the [[Primary Energy Collection Facility]] sequence, and also may be connected to Eastern Xivrhynt through the [[Artifacts#Leliouria|Leliouria]]. Further writing on this subject is highly speculative.
+The Nothing is potentially associated with [[Aok]], as he is said to have the power to transcend the [[Veil]], is very likely referenced during and around the [[Primary Energy Collection Facility]] sequence, and also may be connected to Eastern Xivrhynt through the [[Artifacts#Leliouria|Leliouria]] artifact. Further writing on this subject is highly speculative.
 
 The center of the Nothing is known as the Heart of the Void, a mysterious eye-shaped nebula of orange, yellow, and purple. It is from here that the King of Nothing rules.
 

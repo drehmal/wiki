@@ -25,7 +25,7 @@ In the early and/or mid-Second Avihm, the entire region was ruled by the powerfu
 
 Virsuhl continued to serve as a center of commerce, particularly for trading timber, and it most likely never fell under the rule of [[Avsohm]]. Avsohm appears to have stayed out of the rest of the region as well for its entire duration.
 
-In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear Crater|Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
+In the mid Third Avihm, the introduction of airships used for trading brought about the rapid growth of the port city of Mossfield. When the [[Insohm|Order of Insohm]] was established, it was initially based here before [[Castle Hovadchear]] was constructed in the region's southwest and declared its headquarters. An independent state known as the "Insohmic Commonwealth" was also founded in Mossfield to preside over the Order of Insohm.
 
 The Order was joined by many countries, including the Provinces of Vir, which had likely formed in the north of the region earlier in the Avihm. Both the Insohmic Commonwealth and Provinces of Vir fought against separatists to secure the Order's unity during the [[Insohmic Civil War]], and emerged victorious. It is also probable that they acquired territory in the West during the [[Battle for Drehmal]].
 
@@ -66,7 +66,7 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 **Coordinates:** (X: 5031, Y: 92, Z: 1523)
 
-The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
+The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt Generals|Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
 
 ### Insohmic Library Tower
 

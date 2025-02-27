@@ -73,7 +73,7 @@ This section contains the 48 advancements in the "Drehmal" tab, which are almost
     | Oh Shiny | Distract Maelmari with gold | Distract a [[Maelmari]] (piglin) by throwing gold. |
     | Sticky Situation | Jump into a honey block to break your fall | Jump into the side of a honey block and slide down it, breaking your fall. |
     | Total Beelocation | Move a Bee Nest, with 3 bees inside, using Silk Touch | |
-    | REMOVED ADVANCEMENTS | \* The following advancement was in the 1.17 version of Drehmal: Apotheosis, but is not present in the current patch. | |
+    | MISSING ADVANCEMENTS | \* The following advancement is missing in Version 2.2.1, but is present in earlier and later versions of Drehmal: Apotheosis. | |
     | A Complete Catalogue | Tame all cat variants! | Tame all 11 cat variants. |
   
 ## Moderate Exploration Spoilers: Fabled Equipment and Discoveries
@@ -242,7 +242,7 @@ This section contains the 21 advancements found in the Discoveries tab under the
     | Some Hope For the Future?          | The Prismatic Council has entrusted you with the weapon of its fallen champion so that the realm might be saved from its direst fates. - Discovered Yriel's Sanctuary | Complete all 6 Lo'Dahr Trials and follow the portal from Ytaj to Yriel's Sanctuary. |
     | Atop Paradise                      | Rihelma's most sacred lands lie atop the largest and highest single mountain in the realm. - Summitted Aldregakar, the Star-Rise | Reach the top of [[Rihelma's Domain|Aldregakar]] in southeast Lo'Dahr. |
     | Augural Tangle                     | Its cosmic crystals are mysterious refractions of worlds and times unknown, seen by the piercing mind of the enigmatic Aspect of Sky. - Discovered the Augural Tangle | Enter the [[Augural Tangle]] inside of [[Rihelma's Domain|Aldregakar]]. |
-    | Heart of the Tempest               | After being interred, the bones of Palaesida grew restless. Bursting out of their casket, they formed a mindlessly destructive cloud which rendered a scenic land uninhabitable - Breached the Heart of the Tempest | Enter the large floating orb in the center of [[Palaesida's Domain]]. |
+    | Heart of the Tempest               | After being interred, the bones of Palaesida grew restless. Bursting out of their casket, they formed a mindlessly destructive cloud which rendered a scenic land uninhabitable. - Breached the Heart of the Tempest | Enter the large floating orb in the center of [[Palaesida's Domain]]. |
     | Class in Session                   | Though it was the source of their greatest sorrow, Khive could not destroy a repository of so much runic knowledge. Transplanted onto Lo'Dahr, the lower floors are home to the Mystics and their pupils. - Discovered Ihted Academy | Discover [[Ihted Academy]] in [[Khive's Domain]]. |
     | Greyspire Castle                   | While it is undisputed that this soaring fortification was once the headquarters of the Anti-Palaesidan faction during the Divine Schism, speculative whispers are more plentiful than facts about its current cloaked master. - Discovered Greyspire Castle | Discover [[Greyspire Castle]] in [[Loe's Domain]]. |
     | Final Harvest                      | When Noha took her own life, she also stole the confidence and optimism of the other Aspects. Newly paranoid and filled with a sudden listlessness, the warring factions quickly began to broker a peace. Her bones continue to provide for many. - Discovered Noha of Meadows | Find [[Lajani]], the town in [[Noha's Domain]]. |
@@ -276,7 +276,7 @@ This section contains 15 advancements, all related to exploration and specific g
     | **_Cover Me in Starstuff_**        |  Get a full suit of Celestial Armor                                                         | Obtain a full suit (Helmet, Chestplate, Leggings, Boots) of celestial (netherite) armor. |
     | **_Catching Stars_**               |  Be hit by a falling meteoroid                                                              | Be hit by a falling piece of celestial debris on Lo'Dahr. |
     | Bundled Up                         |  Withstand the chill of a Freorig                                                           | Resist the cold from a Freorig, the ice golems in [[Loe's Domain]], by wearing a leather chestplate near one. |
-    | REMOVED ADVANCEMENTS               | \* The following two advancements were in the 1.17 version of Drehmal: Apotheosis, but are not present in the current patch. | |
+    | MISSING ADVANCEMENTS               | \* The following two advancements are missing in Version 2.2.1, but are present in earlier and later versions of Drehmal: Apotheosis. | |
     | **_Otherworldly Expedition_**      | Explore every Aspect Domain                                                                 | Explore all 15 Aspect Domains on Lo'Dahr. |
     | **_Now You're Thinking With..._**  | Find all Lo'Dahr Portals                                                                    | Find all 12 portals between Lo'Dahr and Drehmal (6, each with one portal in each dimension). |
    

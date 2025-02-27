@@ -37,4 +37,4 @@ Maelmari are broadly hostile to other races, and can be found throughout the rea
 
 ## Spread
 
-Maelmari are found en masse in the [[Hellcrags]] and [[The Carmine]]. They can also be found guarding [[Ebonrun]], in the ruins of [[Semehol]], at encampments in [[North Tharxax]] and the [[Ebony Veldt]], and in smaller outposts in [[Akhlo'Rohma]] and [[Casai]], among others.
+Maelmari are found en masse in the [[Hellcrags]] and [[The Carmine]]. They can also be found guarding [[Ebonrun]], in the ruins of [[Semehol]], at encampments in [[North Tharxax]] and the [[Ebony Veldt]], and in smaller outposts in [[Merijool]], [[Akhlo'Rohma]], and [[Casai]], among others.

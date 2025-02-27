@@ -41,7 +41,7 @@ Once inside the castle's walls, the crypts can be accessed via a long spiral sta
 **Coordinates:** (1477, 101, -1956)
 
 ## Lore
-The description of the item itself references the early practices of [Alchemy](/Lore/Magic/Alchemy/), developed here at Ancehl Castle. It is not clear exactly how this weapon factors into the history of alchemy.
+The description of the item itself references the early practices of [Alchemy](Alchemy.md), developed here at Ancehl Castle. It is not clear exactly how this weapon factors into the history of alchemy.
 
 ## Extras
 The word "Orchidaceae" is the scientific name for the Orchid family, a common type of flower.

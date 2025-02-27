@@ -44,8 +44,6 @@ The lore surrounding Greyspire Castle is extremely mysterious, and on its surfac
 
 It is unclear when the castle was first built, but its usage of flora from Khive's Domain and abundance of esoteric knowledge seems to suggest that its original inhabitants may have been disciples of [[Khive]], possibly transplanted onto the moon along with [[Ihted Academy]] in Av1. This may also be the reason why the two named inhabitants of the castle have last names beginning with "Khi", as some sort of signifier that they were disciples of Khive. 
 
-A lore leak ties this location (specifically the Luminous Diadem artifact) to [[Aok]], implying that the "previous owner" referenced in the item's description was, in fact, the First Necromancer.
-
 The writings in Greyspire on the nature of the universe seem to be among the most accurate in the map, with the [[Stranded Thesis]] even being directly quoted by [[yellow|an immensely powerful being]] in the end-game. Missing pages from [[The Founding Principles]] seem to suggest that the knowledge in that book was very close to reality, and had to be destroyed by a higher power, as seen in the [[Fall of Avsohm]].
 
 During the [[Divine Schism]], Greyspire Castle was the headquarters of the Anti-Palaesidan faction. Since the Schism, they have been an extremely mysterious force in Loe's Domain, with the nearby residents of [[Loeturia]] knowing extremely little about its current rulers beyond whispered rumors.

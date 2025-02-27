@@ -22,7 +22,7 @@ Drehmal is the most powerful of the three deities born from the Primal Tree upon
 
 While Drehmal is effectively a direct creation of the Primal Tree like their siblings, they are special in the fact that they inherited easily the largest amount of the Tree's power and memories. In some ways, Drehmal is more of a direct continuation of the Tree's consciousness than they are a child of the Tree.
 
-## Characteristics
+## Description
 
 Drehmal takes the form of a gargantuan, pale green serpent with antlers, a leafy beard, and sharp teeth. They are known for their incredibly wise and peaceful demeanor. Drehmal is referred to exclusively with gender-neutral "they," "them," and "their" pronouns.
 

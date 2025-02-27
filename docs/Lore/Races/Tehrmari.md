@@ -65,12 +65,12 @@ Some notable historical Tehrmari figures can be found in [this folder](/Lore/His
 
 ### History
 
-The timeline of Tehrmari history is not clear, but some of the major events are somewhat well-established. The Tehrmari were likely first made in either late Av1 or early Av2, as Lo'Dahr became the home of most Aspects. The La'Tehrmari order was the first to develop, with the Ro'Tehrmari becoming a prominent force as multiple generations of Tehrmari were brought into the world.
+The timeline of Tehrmari history is not clear, but some of the major events are somewhat well-established. The Tehrmari were likely first made in mid-late Av1, as Lo'Dahr became the home of most Aspects. The La'Tehrmari order was the first to develop, with the Ro'Tehrmari becoming a prominent force as multiple generations of Tehrmari were brought into the world.
 
 The lands of [[Rohei]] were inhabited entirely by Ro'Tehrmari, exiled from [[Naharja]] due to their penchant for engaging in gang warfare in the streets. Their religion differed at times with the La'Tehrmari, at one point recognizing worship of the [Deities](/Lore/Higher_Beings/Deities/) before returning to Aspect worship.
 
-The La'Tehrmari and Ro'Tehrmari appear to have taken opposite sides in the [[Divine Schism]]. The Palaesidans, who held [[Ytaj]] until the end of the Schism, took Sereven hostage at one point, suggesting that they were more aligned with the Ro'Tehrmari. Ro outside of Ytaj were hunted by the Talon, with particularly high concentrations of Ro in the lands of [[Rohei]], encompassing parts of [[Nahyn's Domain]], [[Moen's Domain]], [[Voynahla's Domain]], and [[Dahr's Domain]].
-
+The La'Tehrmari and Ro'Tehrmari appear to have taken opposite sides in the [[Divine Schism]]. The Palaesidans, who held [[Ytaj]] until the end of the Schism, took Sereven hostage at one point, suggesting that they were more aligned with the Ro'Tehrmari. Ro outside of Ytaj were hunted by the Talon, with particularly high concentrations of Ro in the lands of [[Rohei]] and the Republic of [[Arkeje]], encompassing parts of [[Nahyn's Domain]], [[Palaesida's Domain]], [[Moen's Domain]], [[Dahr's Domain]], and [[Voynahla's Domain]].
+'
 Following the Schism, Tehrmari continued to exist in two distinct classes, although some Ro'Tehrmari were ascended to La through completion of the [Trials](/World/Late-Game/Points_of_Interest/Trials/). The Talon continued to oppress the Ro, however, and the Aspects, displeased, conscripted [[Yriel]] as their servant. The Moonsworn's most prominent act on Lo'Dahr was to wipe out almost all of the Talon at Ytaj, taking away the La'Tehrmari ability to continue their oppression of the Ro.
 
 Today, the Ro are the dominant class of Tehrmari on Lo'Dahr, and are present in Hevhlak as well. The La still hold more political power, but are smaller in numbers.

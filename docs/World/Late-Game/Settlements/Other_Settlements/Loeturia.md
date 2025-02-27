@@ -19,7 +19,34 @@ Loeturia is built at the base of a large hill in the west of Loe's Domain, and i
 
 Steps on either wall lead up to the main feature of the town, a large temple-like structure with one large room. In the center of this room is one of the quartz [[gates]] found throughout Drehmal and Lo'Dahr, inactive.
 
+## Unique Villagers
+
+### Runic Blacksmith
+
 A [[Runic Blacksmith]] is located in a tent in the southeast corner, selling [[Artisan Items#Loeturia|two artisan items]].
+
+**Coordinates:** (-973, 75, 762)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 7 Amethyst Shards | *Hand-Stitched Sweater* |
+| 10 Amethyst Shards | *Sliding Shield* |
+
+### Hot Chocolate Merchant
+
+A merchant named "Hot Chocolate Merchant" stands in a booth near the entrance to the town, selling potions themed around hot chocolate and cider.
+
+**Coordinates:** (-969, 75, 739)
+
+**Trades:**
+
+|  **Cost**  | **Item** |
+|:----------:|:---------------------------:|
+| 2 Amethyst Shards | *Hot Chocolate* <br> Effects: Resistance (30s) |
+| 3 Amethyst Shards | *Hot Chocolate with Marshmallows* <br> Effects: Resistance (45s) |
+| 7 Amethyst Shards | *Lai Cider* <br> Effects: Slowness II (2m) <br> Absorption V (2m) |
 
 ## Lore
 

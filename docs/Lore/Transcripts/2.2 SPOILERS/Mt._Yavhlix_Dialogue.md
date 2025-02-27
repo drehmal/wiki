@@ -8,7 +8,7 @@
 
 !!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
 
-Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will be spoken to by a mysterious voice, understood to belong to [[Aok]]. 
+Upon first entering the [[Primary Energy Collection Facility]], just after the [[Khive_Dialogue.md|Mythbreaker run dialogue by Khive]] ends, the player will be spoken to by a mysterious voice. Although this is not confirmed in-game, it is widely believed in the community that this dialogue is an expression of the [[Alchemy#Eidolic Whispers|eidolic whispers]], possibly coming from [[Aok]].
 
 This dialogue does not transpire in the in-game chat, but rather through the name of any item the player is holding. Any item that the player has in their hand may have its name changed to one of these lines for a few seconds before being changed back, until the full sequence has ended.
 

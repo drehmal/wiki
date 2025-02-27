@@ -30,7 +30,7 @@ Merchants that specialize in selling specific items (usually related to their su
 
 Devotion is a mechanic that allows players to give offerings to certain [Aspects](/Lore/Higher_Beings/Aspects/) and [Deities](/Lore/Higher_Beings/Deities/), in the form of specific items that appease them. Offerings are given at devotion altars dedicated to the recipient, 11 of which are found throughout the world. The more items offered, the more the player's devotion to that Aspect/Deity increases. As it increases, they will be gifted rewards, including relics (offhand stat-modifying items).
 
-## Soundtrack
+## [[Soundtrack]]
 
 Drehmal boasts a [custom OST](https://www.youtube.com/playlist?list=PLXvAOqL1yGd2s1dBYMoNzLDnpJNK6nWvm) created by Chris Nesja and Penngo, with tracks corresponding to individual towns and areas, as well as general exploration music. Every official town on the map has its own theme song. There are also leitmotifs for certain entities that are present throughout multiple tracks. Many tracks can be listened to at (almost) any time in-game with the item [[AvPod]], as long as the player has heard them at some point before.
 

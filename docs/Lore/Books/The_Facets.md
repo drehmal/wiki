@@ -32,7 +32,7 @@ The exact meaning behind these books is not well-known, but it is heavily believ
 ### Location/Summary
 This book can be found in a chest at the [[Mystic Gallery]], upon completion of [[Khive]]'s trial at that location.
 
-It is believed to be a description of a hypothetical world in which [[Aok]], the First Necromancer, completes the [[Ambition]]. In this timeline, Aok gains supreme power over the [Aspects](/Lore/Higher_Beings/Aspects/), with particular focus on his killing of Khive, the Aspect of Magic whom Aok is implied to have betrayed. Aok calls upon an army of the dead to wage his war against the Aspects, and ultimately wins, causing all to collapse into one.
+It is believed to be a description of a hypothetical world in which [[Aok]], the First Necromancer, completes the [[Alchemy#Ambition|Ambition]]. In this timeline, Aok gains supreme power over the [Aspects](/Lore/Higher_Beings/Aspects/), with particular focus on his killing of Khive, the Aspect of Magic whom Aok is implied to have betrayed. Aok calls upon an army of the dead to wage his war against the Aspects, and ultimately wins, causing all to collapse into one.
 
 ### Transcription
 > 1:1 - His maw is wide, his teeth are many. Of the wicked, he is the most profaned.

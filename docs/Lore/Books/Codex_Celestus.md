@@ -90,7 +90,7 @@ m--lves. Whil- - -u-- --- p--s-cal-- --te-f--e wit- the-r ---airs, I ---- tha- -
 > ANNAL 2: CREATION AND ANCESTRY
 > -_-_-_-_-_-_-_-_-_-
 >
-> The Aspect of -----[^c], the one I refer to here as our ----- --------[^d], has erased their self from our minds, leaving only silence where memory once thrived. I remember when I was young, ambitious and prideful. Our ----- -------- cared for me and my siblings, and helped us find compromise, though it pained them to see a disc begin to take shape around the -----[^e].
+> The Aspect of -----[^c], the one I refer to here as our ----- --------[^d], has erased their self from our minds, leaving only silence where memory once thrived. I remember when I was young, ambitious and prideful. Our ----- -------- cared for me and my siblings, and helped us find compromise, though it pained them to see a disc begin to take shape around the roots[^e].
 >
 > That spirit of compromise lives on in Lahrs. As Aspect of Resonance, they help make sure that our disciplines play in harmony, and that creation remains ordered and cyclical. It is as if each of our  ----- --------’s memories was inherited by Lahrs, leaving only an empty shell behind. Even putting our minds together, all of the siblings of my generation could remember almost nothing about our (fathe/mothe)r.
 >
@@ -114,10 +114,10 @@ m--lves. Whil- - -u-- --- p--s-cal-- --te-f--e wit- the-r ---airs, I ---- tha- -
 > If you are reading these words, then my only loyal apprentice remaining will have judged you worthy. If we do not have time or occasion to speak, I hope that you will have the integrity to help me in my quest to right the many wrongs I have committed.
 
 [^a]: Possibly "unearthed"?
-[^b]: Likely referring to the Mt. Yavhlix seal
-[^c]: Potentially "sound"?
-[^d]: Possibly "Great/Grand creators," although would not mesh perfectly with rest of sentence
-[^e]: Likely "realm"
+[^b]: Likely referring to the Mt. Yavhlix seal.
+[^c]: Potentially "sound" or "noise".
+[^d]: Possibly "Great/Grand creators," although would not mesh perfectly with rest of sentence. Believed to refer to [[Verrhys]].
+[^e]: Or "arbor"
 [^g]: Unclear
 [^h]: "Potential"?
 [^i]: Could also be "feel" - another possible interpretation of this sentence could be ""I can still feel his/her soundless hate/pain festering/lingering everywhere."

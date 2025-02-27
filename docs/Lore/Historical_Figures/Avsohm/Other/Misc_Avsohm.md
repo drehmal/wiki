@@ -10,7 +10,7 @@ Achet was an Avsohmic officer, frequently mentioned between the [[Aphelion]] and
 
 ## Ahdul
 
-Ahdul was a high-ranking member of [[Red Dawn]], holding the title of [Alchemical](/Lore/Magic/Alchemy/) Secretary, and a prominent figure within Avsohm.
+Ahdul was a high-ranking member of [[Red Dawn]], holding the title of [Alchemical](Alchemy.md) Secretary, and a prominent figure within Avsohm.
 
 ## Anyra
 

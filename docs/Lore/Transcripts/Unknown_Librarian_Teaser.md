@@ -4,7 +4,7 @@
 
 !!! warning "While it does not itself contain any spoilers, an interpretation of its lore implications is found at the end of this page, which does mention some very spoiler-y end-game characters."
 
-From August 16-19, 2023, these messages were posted by a Discord user called "???," with the username "the_unknown_librarian." This user had joined the server in April of 2021, has a unique "Visitor" role, and to this day, has only sent the following 17 messages, all in the official Announcements channel.
+From August 16-19, 2023, these messages were posted by a Discord user called "???," with the username "the_unknown_librarian." This user had joined the server in April of 2021, has a unique "Visitor" role, and for years, had only sent the following 17 messages, all in the official Announcements channel.
 
 The final message was followed by the official announcement of the Drehmal: Apotheosis Public Beta, 19 minutes later, on August 19, 2023.
 

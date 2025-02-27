@@ -41,7 +41,7 @@ The final set of stairs leads out of this room to the north, and leads to the ve
 
 In the First Avihm, Ihted Academy was a hub for runic magic, and a massive collection of arcane knowledge. Seemingly taught by [[Khive]] himself, the students of the academy were plentiful. At this time, the academy was also in the city of Ihted, a massive city whose location has been fully lost to time. 
 
-The academy is cited as the source of Khive's greatest tragedy, likely referring to [[Aok]]'s completion of the [[Great Work]] and invention of [[Necromancy]] in Av1. Following this tragedy, Khive physically transplanted the entire building to his domain on Lo'Dahr, effectively quarantining it without having to destroy a massive repository of knowledge.
+The academy is cited as the source of Khive's greatest tragedy, likely referring to [[Aok]]'s completion of the [[Alchemy#Great Work|Great Work]] and invention of [[Necromancy]] in Av1. Following this tragedy, Khive physically transplanted the entire building to his domain on Lo'Dahr, effectively quarantining it without having to destroy a massive repository of knowledge.
 
 The advancement states that the Mystics inhabit the academy's lower floors, implying that there are still students or disciples of Khive here. Unless they are the Shackled Sentinels or their tethers, this seems to no longer be the case. The only being clearly stated to reside here is Yvinahl, Khive's extremely mysterious disciple mentioned in the Magestep description.
 

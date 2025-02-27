@@ -25,10 +25,9 @@ This book can be found in a chest at a tower in [[Sahd]]. It is the last of thre
 >
 > With our powerful memories, we can see the strengths and drawbacks of each powerful motivator. By harnessing them through thoughtful action and compromise, we can accomplish great things and accumulate what is known as wisdom.
 >
-> Perhaps the wisest individual in all of Sahd is Mari, the Laughing Dragon himself. By seeing all there was to see if the pain, pleasure, and fear of Drehmari in his travels throughout the realm, he managed to find such wisdom that he has managed to live entirely within the daytime of the world after glimpsing the arc of twilight.
+> Perhaps the wisest individual in all of Sahd is Mari, the Laughing Dragon himself. By seeing all there was to see of the pain, pleasure, and fear of Drehmari in his travels throughout the realm, he managed to find such wisdom that he has managed to live entirely within the daytime of the world after glimpsing the arc of twilight.
 >
-> It is our duty to follow his example and find a way to become truly eternal. By achieving great wisdom, we can follow Mari's lead and forever continue our journey of discovery. Only then will we truly
-begin to make progress along the Path of Enlightenment. One day, we too shall glimpse the arc of twilight and know all there is to know.
+> It is our duty to follow his example and find a way to become truly eternal. By achieving great wisdom, we can follow Mari's lead and forever continue our journey of discovery. Only then will we truly begin to make progress along the Path of Enlightenment. One day, we too shall glimpse the arc of twilight and know all there is to know.
 >
 > This is why those of the Path emblazon ourselves with the insignia of a midair Vibrant Salmon. While the cycle will likely recycle most of our souls to be born anew, we seek, in this life or next, to forever move against the current until we can become like the Laughing Dragon.
 >

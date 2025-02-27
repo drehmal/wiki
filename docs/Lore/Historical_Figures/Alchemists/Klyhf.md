@@ -1,6 +1,6 @@
 # Klyhf Him'lahk
 
-**Klyhf Him'lahk** (pronounced "cliff him-lock") was a Drehmari alchemist who defected from [[Red Dawn]] in early Av3 to work under [[Maelihs]] at the [[Burnt Palace]]. 
+**Klyhf Him'lahk** (pronounced "cliff him-lack") was a Drehmari alchemist who defected from [[Red Dawn]] in early Av3 to work under [[Maelihs]] at the [[Burnt Palace]]. 
 
 Him'lahk came very close to completing the [[Alchemy#Great Work|Great Work]] by slowly gaining the Burnt Lord's trust and attempting to sacrifice him in a machine built within his very own tower of the palace, but his plan was ultimately foiled. Mael killed him, and razed his tower.
 

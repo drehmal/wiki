@@ -95,9 +95,6 @@ The [[Mythbreaker]] is a spear, forged by the Empire of [[Avsohm]] as their pros
     | **Lore**                         | The Pawn of Nothing has long acted as a grim guardian, always observing but never acting. On one occasion, this rule was broken. That day, he wielded this weapon as the emissary of Avsohm's destruction and ensured that no leader survived.    |
     | **Obtain**                       | Follow the trail beginning in [[Highfall]] to Oblivion's hiding spot in the far north. |
 
-
-
-
 ### Zenith ![[zenith_sword.png]]{ width="36" }
 [[Zenith]] is a combination sword and laser gun, built by the Empire of [[Avsohm]]. It is unlocked by clearing the arena at the [[Foundry]].
 
@@ -123,4 +120,4 @@ There is only one mythical weapon found outside of the main open world of Drehma
     | **Enchantments**                 | Quick Charge I |
     | **Ability**                      | **Draconitic Rebuke**: "*Swap to your offhand to enter sniper mode. While in sniper mode, steady your aim to charge a super powerful shot.*" <br> **Cooldown**: 20s      |
     | **Lore**                         | Yriel the Moonsworn, greatest of all Tehrmari, was the Aspects' solution to mortal interference. Empowered by the blessings of the Prismatic Council, Yriel carried out the Elder Will and delivered it swiftly. Tragically, they were butchered by a falsely-pure fanatic of Virtuo at the climax of the Battle for Drehmal. For centuries, their hallowed weapon has sought a worthy set of hands. May yours serve it well. |
-    | **Obtain**                       | Complete all 6 of the [[Lo'Dahr]] trials.               |
+    | **Obtain**                       | Complete all 6 of the [Lo'Dahr trials](/World/Late-Game/Points_of_Interest/Trials/).               |

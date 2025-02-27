@@ -2420,7 +2420,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**                                                                                                                                                                   |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Made of resilient steel, this shortsword sports a unique sporting hilt. Oddly, small figures of axolotls playing in a spring are prominently featured in shallow relief all along the blade. |
+| **Lore**   | Made of resilient steel, this shortsword sports a unique curling hilt. Oddly, small figures of axolotls playing in a spring are prominently featured in shallow relief all along the blade. |
 | **Obtain** | Located in a small settlement in [[Lai's Domain]]. Chest located at **(1370, 138, -1204)**      |
 
 ### Worn Ironreed Rod

@@ -8,7 +8,7 @@ search:
 ![[virtuo_statue.png]]
 > A statue of Virtuo carved into the Verdant Mountains, in the northern [[Black Jungle]].
 
-Virtuo is one of the three deities born upon the [[Felling|destruction of the Primal Tree]] at the end of the First Avihm. Virtuo is the most widely worshipped figure in the realm, serving as a bastion of peace and hope in the perpetual [[Drehmari]] war against [[Maelihs]] and his forces.
+**Virtuo** (pronounced "vurr-chew-oh") is one of the three deities born upon the [[Felling|destruction of the Primal Tree]] at the end of the First Avihm. Virtuo is the most widely worshipped figure in the realm, serving as a bastion of peace and hope in the perpetual [[Drehmari]] war against [[Maelihs]] and his forces.
 
 Virtuo mysteriously took flight in Av3 903, departing with the entirety of her Grand Parish to a location unknown to most common folk, leaving massive portions of the realm in shock and ushering in the end of the Third Avihm. In the hundred years since that day, some have abandoned her faith, calling her a traitor, while others wait diligently for her return.
 

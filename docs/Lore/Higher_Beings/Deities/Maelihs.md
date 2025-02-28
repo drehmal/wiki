@@ -55,6 +55,49 @@ After the departure of Virtuo, Maelihs's remorse deepened greatly. As his empire
 
 Mael's traditional territory is the [[Hellcrags]] and [[The Carmine]], but over time, he has frequently captured and lost most of Western Drehmal. At the time of the player's journey, Mael's empire additionally holds the regions of [[South Tharxax]], [[Nimahj Swamp]], parts of [[Lorahn'Kahl]], [[Nimahj Swamp]], [[Anyr'Nogur]], [[Mt. Ebonfire]], and the [[Ebony Veldt]].
 
+## Devotion Guide
+
+Mael's [[devotion]] site is the [[Sepulchral Altar]] in the Maelmari city of [[Rhaveloth]].
+
+Several lower-level devotion offerings to Maelihs are found in invisible item frames throughout the Sepulchral Altar structure, but higher-level offerings must be discovered at other statues of Mael throughout his domain in the west.
+
+Maelihs' domain stretches out across the majority of western Drehmal, and statues of the Chaos God can be found with offerings at their bases in several locations throughout the [[Empire of Maelihs|Empire]]. These locations include [[Ebonrun]], [[Tharxax City]], [[Rhaveloth]], and the [[Hellcrags]], with the offering at the base of the Titan of Strength in the Hellcrags being the only hint containing an adored item.
+
+??? question "Accepted Offerings"
+    | **Value**      | **Items**                                  |
+    |:--------------:|---------------------------------------------:|
+    | Liked          | Redstone Block <br>Golden Carrot <br>Chain       |
+    | Loved          | Bell <br>TNT                                     |
+    | Adored         | Respawn Anchor <br>Music Disc (Chirp)            |
+
+Maelihs will grant the following rewards as players increase their devotion to him:
+
+??? success "Devotion Rewards"
+    | Level  | Reward                               |
+    |:------:|:-------------------------------------|
+    | Lvl 1  | Sprout of Anguish +0 <br>Celestial Upgrade Smithing Template             |
+    | Lvl 2  | 32x Beetroot Seeds                   |
+    | Lvl 3  | Splash Potion of Great Harming       |
+    | Lvl 4  | Sprout of Anguish +1                 |
+    | Lvl 5  | Runic Book (Flame & Fire Aspect II)  |
+    | Lvl 6  | 9x Lava Bucket                       |
+    | Lvl 7  | Sprout of Anguish +2                 |
+    | Lvl 8  | Potion of Strength II                |
+    | Lvl 9  | Runic Book (Sharpness IV & Power IV) |
+    | Lvl 10 | Sprout of Anguish +3 <br>Celestial Upgrade Smithing Template            |
+
+Maelihs' [[Relics|relic]] is the **[[Relics#Sprout of Anguish|Sprout of Anguish]]**, a flaming sapling that increases attack damage when held in a player's off-hand.
+
+??? info "Sprout of Anguish Details"
+    | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
+    |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|
+    | Sprout of Anguish +0 | +2 Max Health (+1 Heart)                           | You have lit a flame that symbolizes your devotion to the God of Chaos. It is only kindling but the embers have begun to spread. |
+    | Sprout of Anguish +1 | +4 Max Health (+2 Hearts)                          | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire has already ignited and shall spread further. |
+    | Sprout of Anguish +2 | +6 Max Health (+3 Hearts)                          | You have lit a flame that symbolizes your devotion to the God of Chaos. The fire shall soon burn all it touches. |
+    | Sprout of Anguish +3 | +10 Max Health (+5 Hearts)                         | "Ah, Ael Irien... do you know what suffering you have inflicted upon this realm? Your greatest sin, felt by all souls, millennia later. You hide behind a curtain, concealing your true wickedness. You are cowardice incarnate." |
+
+    ![[sprout_of_anguish.gif]]{ width="320" }
+
 ## In-Game 
 
 --8<-- "spoiler.md"

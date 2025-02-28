@@ -111,4 +111,4 @@ It is discovered via his diaries at the top of the Burnt Palace that Maelihs mov
 
 Maelihs can be spoken to at his chamber via an in-game dialogue tree, which can be found in full [[Mael_Dialogue.md|here]].
 
-Maelihs's ultimate fate is mentioned by [[yellow|???]] in the [[True End|final sequence of the game]].
+Maelihs is mentioned by [[yellow|???]] in the [[True End|final sequence of the game]].

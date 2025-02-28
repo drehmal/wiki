@@ -91,6 +91,6 @@ While Drehmal remains in their deep slumber for the entirety of the player's exp
 
 A transcript of the climb's dialogue can be found [[Dreams_of_the_Serpent.md|here]].
 
-Drehmal is also prominently featured in the [[True End|final sequence of the game]], with their ultimate fate told to the player by [[yellow|???]].
+Drehmal is also prominently featured in the [[True End|final sequence of the game]], told to the player by [[yellow|???]].
 
 

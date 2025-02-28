@@ -109,4 +109,4 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 
 Virtuo cannot be interacted with in any way in-game, but her chambers in [[Ytaj]] can be explored. Here is where players will find the [[Closed Diary]], the book which details her decision to leave for Eastern Xivrhynt. This room also holds the aforementioned [[Artifacts#Fortitude|Fortitude]] shield, a real artifact.
 
-Virtuo's ultimate fate is revealed in the [[True End|final sequence of the game]].
+Virtuo is mentioned in the [[True End|final sequence of the game]].

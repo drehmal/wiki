@@ -1,5 +1,7 @@
 # Khive
 
+--8<-- "under_construction.md"
+
 **Khive** is the Aspect of Magic. One of the four Elder Aspects alongside [[Rihelma]], [[Dahr]], and [[Taihgel]], Khive is often considered the most powerful of the Aspects due to his ability to directly control [[Primal Energy]].
 
 Khive is perhaps the single most-discussed and most thoroughly characterized Aspect in the map. 

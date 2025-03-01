@@ -102,8 +102,10 @@ Like the other Major Aspects, Voynahla has a significant footprint on [[Lo'Dahr]
 
 Voynahla's room in [[Ytaj]] is located near the main entrance to the eastern wing, holding his secondary devotion altar and a large black animal skull, possibly the real skull of the Aspect himself.
 
+Voynahla's brazier in the Ytaj entrance is the only one lit with orderflame, referencing the fact that he is not alive like the other Aspects, but is also not truly dead.
+
 [[Voynahla's Domain]] in the southeast of the moon is a medium-sized region, dominated by gravestones, deep red water, and a massive black and red chapel in its center. This chapel, guarded by a miniboss named Conservator Ulavahn, holds the [[Artifacts#Sepelitem|Sepelitem]] artifact and the [[elegy of death]] book.
 
 Sepelitem is a celestial shovel which has been used twice: once to bury Voynahla's physical remains, then again to exhume his skull on the Aspect's own orders from beyond the Veil. The elegy of death affirms Voynahla's desire to one day see the destruction of the world.
 
-The community-restored [[Codex Celestus]] also mentions Voynahla, stating that he and [[Vayniklah]] together concern themselves with the transport of souls from beyond the Veil to their mortal vessels, then back out. This makes Voynahla one of only three Aspects confirmed to have some knowledge of what lies beyond the Veil.
+The community-restored [[Codex Celestus]] also mentions Voynahla, stating that he and [[Vayniklah]] together concern themselves with the transport of souls from beyond the Veil to their mortal vessels, then back out. This makes Voynahla one of the few Aspects confirmed to have some knowledge of what lies beyond the Veil.

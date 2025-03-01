@@ -81,7 +81,7 @@ Drehmal's [[Relics|relic]] is **[[Relics#Effloresce|Effloresce]]**, a small tree
 
     ![[effloresce.gif]]{ width="320" }
 
-## In-Game Interactions
+## Late-Game Info
 
 --8<-- "spoiler.md"
 

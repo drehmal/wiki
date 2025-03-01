@@ -101,7 +101,7 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 
     ![[purifying_light.gif]]{ width="320" }
 
-## In-Game Interactions
+## Late-Game Info
 
 --8<-- "spoiler.md"
 

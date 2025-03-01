@@ -98,7 +98,7 @@ Maelihs' [[Relics|relic]] is the **[[Relics#Sprout of Anguish|Sprout of Anguish]
 
     ![[sprout_of_anguish.gif]]{ width="320" }
 
-## In-Game 
+## Late-Game Info
 
 --8<-- "spoiler.md"
 

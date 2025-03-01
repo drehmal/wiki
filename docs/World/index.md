@@ -1,3 +1,7 @@
+---
+icon: material/earth
+---
+
 # World
 
 !!! warning "The World section is currently under construction, and is our #1 priority at this time. Many pages are unfinished or contain information written for Drehmal v2.1, and need to be updated or overhauled. Stay tuned for updates!"

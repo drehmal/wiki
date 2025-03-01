@@ -1,3 +1,7 @@
+---
+icon: fontawesome/solid/scroll
+---
+
 # Lore
 
 !!! warning "The Lore section is still under construction. At this time, the Books, Races, Realm of Drehmal, and Transcripts sections are complete, but the other sub-categories remain partially unfinished. Stay tuned for further updates!"

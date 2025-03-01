@@ -8,7 +8,7 @@
 | **Classification** | [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects/) |
 | **Family** | [[Primal Tree]] (Parent/Creator) <br> [Other Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/) (Siblings) <br> [[Mari]], [[Muhs]], and [[Noha]] (Children/Creations) |
 | **Gender** | Feminine (**she**/it) |
-| **[[Devotion]] Site** | [[Perishing Well]] |
+| **[[Devotion]] Site** | [[Marahza]] |
 
 ## Description
 
@@ -32,7 +32,9 @@ Vayniklah acts as the opposite to [[Voynahla]], and her powers are referenced le
 
 ## History
 
-Vayniklah is one of the Major Aspects, all believed to have been created by the [[Primal Tree]] before the creation of [[Drehmari]] and the start of the First Avihm. 
+Vayniklah is one of the Major Aspects, all believed to have been created by the [[Primal Tree]] before the creation of [[Drehmari]] and the start of the First Avihm.
+
+Early in the realm's history, likely before the dawn of Drehmari civilization, Vayniklah created the Aspects of Drehmari ([[Mari]]) and Beasts ([[Muhs]]), effectively her children, to help her make the more complex lifeforms of the realm. She is also one parent/creator of [[Noha]], Aspect of Harvest, alongside [[Taihgel]].
 
 It is unclear where, if at all, Vayniklah had significant pockets of worshippers or a clear sphere of influence. It is possible that her worship in Av1 was similar to that of [[Virtuo]] in Av2 and Av3, a widely beloved Aspect venerated by many. 
 

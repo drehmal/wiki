@@ -40,9 +40,9 @@ This book can be found on a lectern at the very top of [[Ihted Academy]]. The te
 > ANNAL 2: CREATION AND ANCESTRY
 > -_-_-_-_-_-_-_-_-_-
 >
-> --- ------ -- -----, t-e o-- I ----- to --re a- ---  --------, has e--s-- ----- ---- f--m --- -----, leav--g o-ly ------- ----e m-m--y -n-- ---v-ed. I r-----r --en I --s ----g, --------- --d p-------. --r -------- ca--d for -- a-d m- --------, --d he---d u- ---- --mp--mise, t-o-g- it pa---- ---- -- --e - dis- b-gin to take ----- ar-und --- ------.
+> --- ------ -- -----, t-e o-- I ----- to --re a- --- ----- --------, has e--s-- ----- ---- f--m --- -----, leav--g o-ly ------- ----e m-m--y -n-- ---v-ed. I r-----r --en I --s ----g, --------- --d p-------. --r ----- -------- ca--d for -- a-d m- --------, --d he---d u- ---- --mp--mise, t-o-g- it pa---- ---- -- --e - dis- b-gin to take ----- ar-und --- ------.
 >
-> That spir-- of co--romi-e live- -n in La--s. As ----ct of R-so--nc-, -hey he-- m-ke su-- that -ur d-sc--li--s s--- -- ----o-y, an- ---- -------- r--ains or---ed and ----ical. I- -- -- -- --ch -- ---  --------’- -------- w-- -------ed -- -----, ---vi-- -nly -- ----- sh-ll ---ind. --en pu----- o-r ----- ---e---r, --l of the s----ngs of my ge--rat--n c--ld --m---er ---ost -o--ing a--ut our -----r.
+> That spir-- of co--romi-e live- -n in La--s. As ----ct of R-so--nc-, -hey he-- m-ke su-- that -ur d-sc--li--s s--- -- ----o-y, an- ---- -------- r--ains or---ed and ----ical. I- -- -- -- --ch -- ---  ----- --------’- -------- w-- -------ed -- -----, ---vi-- -nly -- ----- sh-ll ---ind. --en pu----- o-r ----- ---e---r, --l of the s----ngs of my ge--rat--n c--ld --m---er ---ost -o--ing a--ut our -----r.
 >
 > I kn-w --at this m--t truly b- no coincide-ce; after all, I felt a portion of -- ---d that knew about the -------ntal em-tional forc-s leave me when my chi--ren ---- --to b----. But -- sug--st- a larger q----ion: How ---- -- o-- a---ene-s as ind-----als really c--es fro- our own -ouls? In any ---nt, it seems ----onable to a----e  ---t all o- --r ---e-- ---a---- -- --- ----------on  of t-e ----a- ------ ------ ---- --- ------ ----- -- ----- --- ---- --o- i------on. ---ugh my k-nd--d are mu-- -ore i-pr--sive, i- -- ------a -----n d-ty to be --e provi-er of the ene--y which makes t-eir ----- wor- pos---le!
 >

@@ -6,7 +6,7 @@
 |:----------:|:----------------------:|
 | **Titles** | Abyssal Elder <br> Great Sea Aspect |
 | **Classification** | [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects/) |
-| **Family** | [[Primal Tree]] (Parent/Creator) <br> [Other Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/) (Siblings) <br> [[Dahroehl]] (Child) <br> [[Palaesida]] (Son) |
+| **Family** | [[Primal Tree]] (Parent/Creator) <br> [Other Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/) (Siblings) <br> [[Dahroehl]] (Child) <br> [[Palaesida]] (Son with [[Rihelma]]) |
 | **Gender** | Masculine (he/him) |
 | **[[Devotion]] Site** | [[Port Solitude]] |
 

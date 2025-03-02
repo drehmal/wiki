@@ -12,7 +12,7 @@ This book can be found in a chest in the [[Sahdan Monastery]], and shows that th
 | 4813  |  125  | 4571  |
 
 ## Transcription
-> Sahd has become truly overrun with outlaws and vagabonds. I suppose the best way to remove them is, instead of placing them on our isolated piece of land, send them to the Black Jungle where they can run off on their own. We can't be bothered by them if they're and ocean's length away. Luckily, with the recent collapse of the Empire of Vir just last year, we can send prisoners there with little consequence.
+> Sahd has become truly overrun with outlaws and vagabonds. I suppose the best way to remove them is, instead of placing them on our isolated piece of land, send them to the Black Jungle where they can run off on their own. We can't be bothered by them if they're an ocean's length away. Luckily, with the recent collapse of the Empire of Vir just last year, we can send prisoners there with little consequence.
 
 
 

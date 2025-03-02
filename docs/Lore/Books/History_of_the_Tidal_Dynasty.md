@@ -13,7 +13,7 @@ This book can be found in a chest in the [[Firteid]] Library, and tells an abrid
 ## Transcription
 > The Black Jungle; a lawless land, plunged into chaos because of the fall of the Empire of Vir, sought a ruler strong enough to bind together the region. The Tide Queen, whose real name is unknown, seized this opportunity to create the Tidal Dynasty and conquer all of the Jungle. It was soon discovered that she held unlimited potentia. She would use this ability to make herself effectively immortal, regenerating all of her wounds and eradicating any diseases.
 >
-> Though she ruled well for many years, eventually the Tide Queen began to grow paranoid about  subversives within her realm. Along with this shift in mentality came a policy shift in favor of isolationism and defense. With an increasingly large military and the Queen's considerable tactical skill, the Dynasty began to grow its territory into that of the Gozaki Union and other east Heartwood kingdoms.
+> Though she ruled well for many years, eventually the Tide Queen began to grow paranoid about subversives within her realm. Along with this shift in mentality came a policy shift in favor of isolationism and defense. With an increasingly large military and the Queen's considerable tactical skill, the Dynasty began to grow its territory into that of the Gozaki Union and other east Heartwood kingdoms.
 >
 > It was around this time that Drehn Mal'Sohm visited Firteid and Vulteid. Rumor has it that both leaders had a look at the other's forces and mutually came to an agreement that neither desired a pitched war. An accord was quietly signed, and the Tidal Dynasty became one of the very few places in Drehmal to never fall under the ruling thumb of Avsohm.
 >

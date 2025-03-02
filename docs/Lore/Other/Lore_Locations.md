@@ -1,7 +1,5 @@
 # Lore-Only Locations
 
---8<-- "under_construction.md"
-
 Drehmal is a very large map, but it is outsized still by its expansive network of lore, developed for years before Drehmal v2 was created or even conceptualized. This page holds some of the locations which exist in Drehmal's lore, and may even be referenced in-game, but cannot actually be visited in the map.
 
 ## Primzahl
@@ -11,6 +9,8 @@ Drehmal is a very large map, but it is outsized still by its expansive network o
 ## Xivrhynt
 
 The continents of [[Xivrhynt]], Western and Eastern, are the broken, scarred remnants of the original far western and eastern continents from Av1, left at the far edges of the [[disc]].
+
+These continents include many, many locations, such as the remains of the ancient Bright Capital, which do not appear in-map.
 
 ## Old Drabyel
 

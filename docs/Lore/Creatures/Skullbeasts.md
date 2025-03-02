@@ -1,7 +1,5 @@
 # Skullbeasts
 
---8<-- "under_construction.md"
-
 **Skullbeasts** were massive, extremely powerful creatures created by the [[Skullmother]] and used for warfare by the [[Empire of Maelihs]] throughout the Third Avihm. They were responsible for some of the most significant destruction in the realm, including the destruction of [[Sal'Anyr]].
 
 The exact canon appearance of the Skullbeasts is not clear, but they are known to have been ferocious, gnarled creatures of twisted flesh and exposed bone. Their bones can be found in several locations on the map, most prominently at the [[Birthing Grounds]], where they were all created.

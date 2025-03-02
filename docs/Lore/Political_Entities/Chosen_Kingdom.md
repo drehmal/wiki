@@ -19,7 +19,7 @@ The Chosen Kingdom originated in the Central Plains of Dreh'Noha (split into the
 Little is known about the full history of the Chosen Kingdom, but some details on its end are clear. The father of [[Drehn|Drehn Mal'Sohm]] (1) was assassinated, giving Drehn the right to rule, but he initially refused this burden. Believing that the kingdom was too corrupt and not in line with his democratic ideals, Drehn eventually relented and took the crown, overhauling the kingdom into the Empire of [[Avsohm]].
 { .annotate }
 
-1. Named "Rohdirk Mal'Sohm" in an old external lore source, but this name does not appear in-map.
+1. Drehn's father was named "Rohdirk Mal'Sohm" in an old external lore source, but this name does not appear in-map.
 
 ## Culture
 

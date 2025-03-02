@@ -34,7 +34,7 @@ The city of Naharja takes up most of the northeastern portion of the region.
 
 No enemies naturally spawn in Moen's Domain, except for a rare Killer Bunny variant.
 
-Rabbits spawn throughout the biome, including special blue variants with the name **"Moen Rabbit"**.
+Rabbits spawn throughout the biome, including special colorful variants with the name **"Moen Rabbit"**.
 
 ## History
 

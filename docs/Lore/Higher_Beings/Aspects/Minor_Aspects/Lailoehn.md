@@ -29,7 +29,7 @@ Lailoehn's colors are red, yellow, and orange, the standard colors associated wi
 
 ## Role and Powers
 
-Lailoehn, as Aspect of Fire, is responsible for the most powerful common fire. His fire is one of five distinct types in the realm, considered to be more powerful than regular, chaotic fire and [[Virtuo]]'s orderflame, and similar to his father's Sacred Flame. Lailoehn is stated to have blessed some preferred noble families who worshipped him with the gift of his powerful flame, allowing them to become expert [[pyromancy|pyromancers]].
+Lailoehn, as Aspect of Fire, is responsible for the most powerful common fire. His fire is one of five distinct types in the realm, considered to be more powerful than regular, chaotic fire and [[Virtuo]]'s orderflame, and similar to his father's Sacred Flame. Lailoehn is stated to have blessed some preferred noble families who worshipped him with the gift of his powerful flame, allowing them to become expert pyromancers.
 
 Lailoehn also wields this extremely powerful flame himself, likely proving a very formidable combatant.
 

@@ -22,4 +22,4 @@ The [[Nothing]] is filled with pockets of Primal Energy, which are extremely har
 
 Avsohm also heavily weaponized primal energy, most notably fitting it into blasters, including the [[Zenith]] mythical weapon.
 
-The other major source of Primal Energy in the realm is the Numencore, a massive stockpile of the substance belonging to Mystic Elder Khive.
+Based on the Codex, the largest stable source of Primal Energy in the realm is the personal stockpile of Mystic Elder [[Khive]], located somewhere on [[LD|Lo'Dahr]].

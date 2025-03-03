@@ -11,7 +11,7 @@ The **Tidal Dynasty** was a kingdom in the far southeast of [[Overworld|Drehmal]
 
 The Tidal Dynasty was established by a mysterious and extremely powerful individual known only as the [[Tide Queen]], who seized power in [[Firteid]] shortly after the collapse of the [[Empire of Vir]] in Av2 1359. The Empire of Vir had been the dominant political force in eastern Drehmal for centuries, and the Tide Queen took advantage of this power vacuum.
 
-Early in her reign, the Tidal Dynasty was a peaceful, albeit stern neighbor. They had peaceful relations with [[Gozak]] and [[Espinor]] to the west, strong trade routes, and well-loved cultural traditions revolving around the [[Kiln of Virtuo]]. However, over time, the Tide Queen became more and more paranoid, turning her lands into an isolationist and oppressive state.
+Early in its existence, the Tidal Dynasty was a peaceful, albeit stern neighbor. They had peaceful relations with [[Gozak]] and [[Espinor]] to the west, strong trade routes, and well-loved cultural traditions revolving around the [[Kiln of Virtuo]]. However, over time, the Tide Queen became more and more paranoid, turning her lands into an isolationist and oppressive state.
 
 The Tidal Dynasty was the only [[Drehmari]] civilization in Av2 Drehmal which was able to dissuade [[Avsohm]] from invading or annexing it, as [[Drehn|Drehn Mal'Sohm]] and the Tide Queen came to a mutual agreement that they did not want war between their massive militaries. The Dynasty never fell under Avsohmic rule.
 

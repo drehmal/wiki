@@ -16,6 +16,6 @@ This holotext can be found at the Resonant Eye, deep within the [[Resonant Halls
 ![[eye_log4.png]]{ width="384" }
 
 ## Transcription
-> **Chief Science Officer Cehva**
+> **Research Officer Cehva**
 >
 > Orix was right. Tethlaen eventually tired, and we managed to speak with him properly. Our linguist managed to negotiate a deal. The Spiral Anomaly is to remain largely sealed, but we may be permitted to build a collection array to aid in energy production. Orix also proposed that we could build a restoration apparatus to combat the toll the Nothing has begun to take on Tethlaen’s body. The Aspect seemed almost relieved at this idea. It seems all will be well from here out. I’m just sad that so many had to die for us to reach this point. Hail to Avsohm, I suppose.

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in [[Ihted Academy]]. Written by a [[Blue Exodus]] soldier (possibly [[Orix Cehein]]) recruited to fight in the [[Divine Schism]], it shows that General Kahmas was one of the very few [[Drehmari]] to become truly respected by the inhabitants of [[Lo'Dahr]].
+This book can be found in a chest in [[Ihted Academy]]. Written by a [[Blue Exodus]] soldier (possibly [[Orix Cehein]]) recruited to fight in the [[Divine Schism]], it shows that General [[Kahmas Tuhs|Kahmas]] was one of the very few [[Drehmari]] to become truly respected by the inhabitants of [[Lo'Dahr]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

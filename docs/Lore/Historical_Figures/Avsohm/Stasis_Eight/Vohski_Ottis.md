@@ -19,7 +19,7 @@ Vohski stands at 5'9" (~175 cm). He is thin, with pale skin and messy brown hair
 
 Vohski has some of the least written lore of any Stasis Eight members. He claims to be the youngest Drehmari to ever earn a doctorate in the history of either Avsohm or the [[Chosen Kingdom]]. He was recruited to join the DoS immediately after earning this degree, where his genius was put towards the development of the empire's technology.
 
-Vohski's only detailed experiment is documented in his own words in [[Project Moonstrider]], in which Vohski led a team of [[Red Dawn]] alchemists in attempting to reverse Drehmari aging. This experiment, using bluegrass seeds carved with microscopic runes, proved to be extremely dangerous, killing one of the volunteer subjects and driving Ottis to his breaking point. He expresses a desire to work with previous highly respected colleagues such as [[Baen Vehmil]] and [[Kovis]], but begs [[Anyr]] to let him leave Red Dawn.
+Vohski's only detailed experiment is documented in his own words in [[Project Moonstrider]], in which Vohski led a team of [[Red Dawn]] alchemists in attempting to reverse Drehmari aging. This experiment, using bluegrass seeds carved with microscopic runes, proved to be extremely dangerous, killing one of the volunteer subjects and driving Ottis to his breaking point. He expresses a desire to work with previous highly respected colleagues such as [[Baen Vehmil]] and [[Misc Avsohm#Kovis|Kovis]], but begs [[Anyr]] to let him leave Red Dawn.
 
 ## In-Map References
 

@@ -21,7 +21,7 @@ There are no major settlements in Veruhkt Plateau.
 
 In the Second Avihm, Veruhkt Plateau was home to a highly advanced civilization who sought to reach the moon of Lo'Veruhkt, hidden out of sight beneath Drehmal. These Veruhktian people were likely ruled by a centralized political power, based in the capital city of Veruhkaan. In an event known by the Veruhktians as the "Desecration", the region was conquered by [[Anyr|Emperor Anyr]] of [[Avsohm]] and its Tech-Priests were massacred, leaving only three alive and in hiding. Veruhkaan was renamed to Sal'Veruhkt. 
 
-After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty for an indefinite but short amount of time. Eventually the region came under the rule of the [[Kingdom of Dusps]], who subjected the Veruhktians to harsh oppression and were responsible for the extinction of their culture and people. 
+After [[Fall of Avsohm|Avsohm's demise]], Veruhkt probably regained sovereignty for an indefinite but short amount of time. Eventually the region came under the rule of the Kingdom of [[Dusps]], who subjected the Veruhktians to harsh oppression and were responsible for the extinction of their culture and people. 
 
 ## Terminus Tower
 

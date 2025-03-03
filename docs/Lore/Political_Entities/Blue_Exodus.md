@@ -36,7 +36,7 @@ Kahmas is listed on the [[Stasis Subject Roster]] as an officer who was put into
 
 ### Kovis
 
-[[Kovis]] was a Blue Exodus technician responsible for the initial forging of the [[Mythbreaker]] by Avsohm. Her expertise was specifically sought out by CSO [[Thresa Vera]].
+[[Misc Avsohm#Kovis|Kovis]] was a Blue Exodus technician responsible for the initial forging of the [[Mythbreaker]] by Avsohm. Her expertise was specifically sought out by CSO [[Thresa Vera]].
 
 ## Extras
 

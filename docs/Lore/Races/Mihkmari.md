@@ -14,7 +14,7 @@ Mihkmari are those born from one Drehmari parent and one Maelmari parent. It is 
 
 Forced out of society, Mihkmari turned to lives of crime, living as scavengers and bandits in the fringes of the world. 
 
-After following significant persecution, the Mihkmari were led by [[Deigh]] the Dawnstrider to the [[Verdant Labyrinth]], a relatively uninhabited land far from Mael's reach. The largest concentration of Mihkmari can still be found in that region today.
+After following significant persecution, the Mihkmari were led by Deigh the Dawnstrider to the [[Verdant Labyrinth]], a relatively uninhabited land far from Mael's reach. The largest concentration of Mihkmari can still be found in that region today.
 
 Following the [[Fall of Avsohm]], Mihkmari settled in the ruins of [[Av'Sal]], thoroughly looting the fallen capital and building fortifications over parts of the rubble.
 

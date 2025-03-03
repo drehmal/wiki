@@ -22,7 +22,7 @@ In the early Second Avihm, the Gulf of Drehmal region was home to primitive Dreh
 
 Eventually, under the leadership of [[Drehn|Drehn Mal'Sohm]], the kingdom became the [[Avsohm|Empire of Avsohm]]. The coastal city of Fortahn in particular flourished under the empire's rule, but was left in ruins after its [[Fall of Avsohm|collapse]].
 
-In the Third Avihm, the [[United Townships of Dreh'Noha]] arose as the regional political power. It was a member of the [[Insohm|Order of Insohm]] until the latter's collapse at the end of the Avihm. The union still exists today.
+In the Third Avihm, the United Townships of Dreh'Noha arose as the regional political power. It was a member of the [[Insohm|Order of Insohm]] until the latter's collapse at the end of the Avihm. The union still exists today.
 
 ## Terminus Tower
 

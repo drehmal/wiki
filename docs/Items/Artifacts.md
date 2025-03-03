@@ -268,7 +268,7 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located at the top of the [[Insohmic Research Center]], in the [[North Heartwood]]. Chest located at **(1956, 103, 1497)** |
 
 ??? note "Extra Lore"
-    This seems to reference the departure of [[Ultva]] for the [[Avsohmic Vault]], where he would go insane and die within its walls. Insohm's inability to replicate this Avsohmic technology seems to have been the final straw that broke his spirit.
+    This seems to reference the departure of [[Ultva]] for the [[Avsohmic Vault]], where he would go insane. Insohm's inability to replicate this Avsohmic technology seems to have been the final straw that broke his spirit.
 
 ### Axe of Growth
 

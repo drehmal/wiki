@@ -65,28 +65,8 @@ Pages which contain outdated information or are unfinished are marked with the "
 --8<-- "under_construction.md"
 
 ??? note "Progress Notes: Finished Sections"
-    At this time, there should not be any remaining outdated pages (besides a few which are clearly labeled as such in the [POI](/World/Points_of_Interest/) folder).The following sections/pages have been thoroughly updated with new content and edited to a final-ish state. Sections are denoted in **bold**, while individual pages are denoted with *italics*. This will be updated as further progress is made. <br>
-    - (Help) *[[Getting Started]]* <br>
-    - (Help) *[[FAQ]]* <br>
-    - (Items) **[All Pages/Sections](/Items/)** <br>
-    - (Lore) **[Books](/Lore/Books/)** <br>
-    - (Lore) **[Stasis 8](/Lore/Historical_Figures/Avsohm/Stasis_Eight/)** <br>
-    - (Lore) **[Transcripts](/Lore/Transcripts/)** <br>
-    - (Misc) *[[Cat Maps]]* <br>
-    - (Misc) *[[Glossary]]* <br>
-    - (Misc) *[[Socials]]* <br>
-    - (Misc) *[[Soundtrack]]* <br>
-    - (Misc) *[[Splashes]]* <br>
-    - (Misc) **[Versions](/Misc/Versions/)** <br>
-    - (Story & Features) *[[Advancements]]* <br>
-    - (Story & Features) *[[Devotion]]* <br>
-    - (Story & Features) **[Holotexts](/Story_and_Features/Holotexts/)** <br>
-    - (Story & Features) *[[Story Progression]]* + **[Story Locations](/Story_and_Features/Story_Locations/)** <br>
-    - (World) **[Regions](/World/Regions/)** <br>
-    - (World) **[Official Towns](/World/Settlements/Official_Towns/)** <br>
-    - (World) **[Major POI](/World/Points_of_Interest/)** <br>
-    ??? warning "Late-Game (Post-75%) Content"
-        - (World) **[Post-75% Regions](/World/Late-Game/Regions/)**
+    !!! success " "
+        As of 3/3/2025, the only significant articles not finished are smaller points of interest. Some additional pages may also be added to the [political entities](/Lore/Political_Entities/) and [historical figures](/Lore/Historical_Figures/) sections, but the wiki is mostly finished.
 
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!

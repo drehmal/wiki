@@ -16,7 +16,7 @@ This location is home to some of the only [[Drehmari]] enemies in the game, a gr
 
 There are multiple possible methods to enter the fortress, including through a set of iron bars at the ground level, or from exposed balconies at the top.
 
-Starting from the bottom, players must dig through two layers of iron bars to find themselves in living quarters, full of Drehmari mercenaries. No unique loot is found here besides a [[Runic Catalysts|Runic Catalyst]], in a room behind two iron doors.
+Starting from the bottom, players must dig through two layers of iron bars to find themselves in living quarters, full of Drehmari mercenaries. No unique loot is found here besides a [[Runic Catalyst]], in a room behind two iron doors.
 
 A spiral staircase leads upwards from this area, first coming to another iron door. This door opens directly into a room with a mix of mercenaries and passive Drehmari villagers. This room has another Runic Catalyst in an item frame on the wall, as well as the [[Transcription of Artifact CXE-445]] book in a chest. The Drehmari appear to be attempting to build something in here.
 

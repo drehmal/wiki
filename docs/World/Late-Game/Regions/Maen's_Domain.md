@@ -32,7 +32,10 @@ In the north, a giant sword acts as a bridge between Vayniklah's Domain and Moen
 
 ## Gameplay
 
-Three different types of custom spiders can spawn in Maen's Domain.
+Three different types of custom spiders can spawn in Maen's Domain. (1)
+{ .annotate }
+
+1. Due to errors in the datapack regarding biomes, these spiders spawn in [[Noha's Domain]] rather than Maen's Domain in some versions, including 2.2.1.
 
 **Soulspinners** are custom spiders that temporarily decrease a player's max health on a successful hit.
 

@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in the Alchemist Coven building in [[Maen's Domain]]. It discusses fear, the third primal emotion, and its uses in alchemy.
+This book can be found in a chest in the [[Coven of Alchemists]] building in [[Maen's Domain]]. It discusses fear, the third primal emotion, and its uses in alchemy.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

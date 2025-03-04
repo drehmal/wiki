@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in an item frame in the Alchemist Coven building in [[Maen's Domain]]. It discusses pleasure, one of the three primal emotions, as a foil to pain and a source of Primal Energy.
+This book can be found in an item frame in the [[Coven of Alchemists]] building in [[Maen's Domain]]. It discusses pleasure, one of the three primal emotions, as a foil to pain and a source of Primal Energy.
 
 ## Coordinates
 | **X** | **Y** | **Z**  |

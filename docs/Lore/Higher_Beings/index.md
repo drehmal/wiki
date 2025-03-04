@@ -7,7 +7,7 @@ Powerful beings that govern the realm are responsible for many natural phenomena
 
 ## [Aspects](/Lore/Higher_Beings/Aspects/)
 
-Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are draconic/reptilian deities who govern their own domains of nature, and some create children who inherit subcategories of their parent or parents' jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
+Most higher beings in the realm of Drehmal fall under the category of Aspects. Aspects are draconic/reptilian deities who represent a primordial element of the natural world, and some create children who inherit subcategories of their parent or parents' jurisdiction. Aspects can be divided into two groups: Major and Minor Aspects.
 
 ### [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/)
 

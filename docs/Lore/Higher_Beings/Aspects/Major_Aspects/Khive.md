@@ -26,7 +26,7 @@ Khive's physical form resembles a large lizard, similar to a bearded dragon.
 
 ### Color/Build Scheme
 
-Khive is very heavily associated with the color yellow, as well as the flarepod (shroomlight) block. His builds often utilize a yellow and black color scheme.
+Khive is very heavily associated with the color yellow, as well as the flarepod (shroomlight) block. His builds often utilize a yellow and black color scheme, infused amethyst blocks, and red sandstone (particularly in ring structures).
 
 ## Role & Powers
 

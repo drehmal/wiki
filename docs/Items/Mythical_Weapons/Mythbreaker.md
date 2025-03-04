@@ -44,7 +44,7 @@ The Inert Mythbreaker can be charged up in order to power it further, which is l
 
 The Inert Mythbreaker is the version of the spear created by [[Avsohm]] in the late Second Avihm, after they learned of the nature of the universe through the Resonant Eye. Through that device, the empire was able to make out the shape of what they thought was a spear, and began work on re-creating this spear from their data.
 
-[[Kovis]], a member of [[Blue Exodus]] with significant expertise in the field of graviton theory, was central to the process of turning the data from the Eye into real schematics, and the blade was first forged at the Graviton Crucible in the [[Exodus Vault]].
+[[Misc Avsohm#Kovis|Kovis]], a member of [[Blue Exodus]] with significant expertise in the field of graviton theory, was central to the process of turning the data from the Eye into real schematics, and the blade was first forged at the Graviton Crucible in the [[Exodus Vault]].
 
 It appears to have been split into three parts somewhat shortly after its creation as a failsafe, being spread out into three of Avsohm's most secure Research & Development locations across the continent. It was made evident in testing that the blade was capable of storing incredible, nearly infinite amounts of [[Primal Energy]].
 

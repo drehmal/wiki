@@ -58,7 +58,50 @@ She has not been seen or heard from since.
 
 While Virtuo and the Virmari have (mostly) left Drehmal for the time being, Virtuo worship is still seen as the default Drehmari faith throughout a large part of the continent. The Goddess is still worshipped everywhere in the East, although some smaller Aspect faiths also flourish unofficially in towns like [[Highfall]], [[Marahza]], and [[Schlonko]], and [[Fort Nimahj]] remains a bastion of her faith in the west.
 
-## In-Game Interactions
+## Devotion Guide
+
+Virtuo's [[devotion]] site is the fabled [[Kiln of Virtuo]], located on an island just to the west of [[Firteid]].
+
+![[kiln_shrine.png]]
+
+Several low-level devotion offerings to Virtuo are found around her shrine in the front of the Kiln, but higher-level offerings must be found at statues of her form throughout [eastern Drehmal](/World/Regions/Eastern_Regions/).
+
+Virtuo statues can be found throughout the east, including in [[Dusps]], [[Highfall]], [[Mossfield]], [[Firteid]], and elsewhere in the [[Black Jungle]].
+
+??? question "Accepted Offerings"
+    | **Value**      | **Items**                                  |
+    |:--------------:|---------------------------------------------:|
+    | Liked          | Dried Kelp <br>Melon <br>Orderflame Lantern |
+    | Loved          | Orderflame Campfire <br>Glistering Melon Slice               |
+    | Adored         | Diamond <br>Music Disc (Far)          |
+
+??? success "Devotion Rewards"
+    | Level  | Reward                               |
+    |:------:|:-------------------------------------|
+    | Lvl 1  | Purifying Light +0               |
+    | Lvl 2  | 32x Melon Seeds                  |
+    | Lvl 3  | Potion of Healing II             |
+    | Lvl 4  | Purifying Light +1               |
+    | Lvl 5  | 64x Stripped Birch Log           |
+    | Lvl 6  | Splash Potion of Regeneration II |
+    | Lvl 7  | Purifying Light +2               |
+    | Lvl 8  | Runic Book (Mending)             |
+    | Lvl 9  | Totem of Undying                 |
+    | Lvl 10 | Purifying Light +3               |
+
+Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an orderflame candle which gives a flat boost to movement speed when held in the off-hand.
+
+??? info "Purifying Light Details"
+    | **Relic Name**       | **Stat Modifiers**                                 | **Lore Text**                                                   |
+    |:---------------------|:---------------------------------------------------|:----------------------------------------------------------------|
+    | Purifying Light +0   | +0.007 Movement Speed                              | You have lit a flame that symbolizes your devotion to the Goddess of Purity. It is small, but flickers in a perfectly steady rhythm. |
+    | Purifying Light +1   | +0.014 Movement Speed                              | You have lit a flame that symbolizes your devotion to the Goddess of Purity. The wax grows as the candle burns, dripping slowly upward in radially symmetric lines. |
+    | Purifying Light +2   | +0.021 Movement Speed                              | You have lit a flame that symbolizes your devotion to the Goddess of Purity. Its candle has grown so large as to require a lantern for conveyance. Yet, you feel rested and agile while holding it. |
+    | Purifying Light +3   | +0.028 Movement Speed                              | "For millennia, I didn't know the many wrongdoings of those who incited my birth. But fragments of memory gave me suspicions, and now, at last, I know the truth. I will do what I can to one day earn Naurduul's forgiveness." |
+
+    ![[purifying_light.gif]]{ width="320" }
+
+## Late-Game Info
 
 --8<-- "spoiler.md"
 
@@ -66,4 +109,4 @@ While Virtuo and the Virmari have (mostly) left Drehmal for the time being, Virt
 
 Virtuo cannot be interacted with in any way in-game, but her chambers in [[Ytaj]] can be explored. Here is where players will find the [[Closed Diary]], the book which details her decision to leave for Eastern Xivrhynt. This room also holds the aforementioned [[Artifacts#Fortitude|Fortitude]] shield, a real artifact.
 
-Virtuo's ultimate fate is revealed in the [[True End|final sequence of the game]].
+Virtuo is mentioned in the [[True End|final sequence of the game]].

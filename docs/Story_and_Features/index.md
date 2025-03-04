@@ -1,3 +1,7 @@
+---
+icon: material/snake
+---
+
 # Story and Features
 
 The map of Drehmal fundamentally revolves around its story, and the special mechanics that it adds to the game of Minecraft. Articles relating to the main story of Drehmal: Apotheosis and the unique features tied to the map are found in this section of the wiki.

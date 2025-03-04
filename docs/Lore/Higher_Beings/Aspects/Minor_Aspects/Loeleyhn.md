@@ -27,7 +27,7 @@ Loeleyhn's color scheme is white, light blue, and purple.
 
 ## In-Map References
 
-A small stone brick temple in southwestern [[Faehrcyle]] is dedicated to Loeleyhn, including the [[Frozen Hymn]] book. 
+A small stone brick temple in southwestern [[Faehrcyle]] is dedicated to Loeleyhn, including the [[Frozen Hymn]] book. The [[Artifacts#Crystalline Greatshield|Crystalline Greatshield]] is likely a reference to the Aspect of Snow.
 
 ## Late-Game Info
 

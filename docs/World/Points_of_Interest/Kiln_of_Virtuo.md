@@ -55,7 +55,7 @@ The Divination Facility is located behind the Kiln of Virtuo, in a cavern. An [[
 
 In order, these tell the story of the facility:
 
-- [[Negotiation Notes]] details the negotiation between the author, [[Eleis|CSO Eleis]], and the [[Virmari]] Grand Pontiff Arjuni, as Avsohm sought approval to pursue their work at the Divination Facility, researching divine magic. <br>
+- [[Negotiation Notes]] details the negotiation between the author, [[Misc Avsohm#Eleis|CSO Eleis]], and the [[Virmari]] Grand Pontiff Arjuni, as Avsohm sought approval to pursue their work at the Divination Facility, researching divine magic. <br>
 - [[Project ArkAngel]] outlines the goal of the project, recounting the discovery of an anomalous object in [[Purity Peaks]] and the decision to try and "activate" it somehow by using the Kiln's high levels of ambient magic. <br>
 - [[One Year Update]] was written after a year of work in the cave, with Avsohmic researchers having been locked inside for the entirety of this year. <br>
 - [[Energy Cascade Achieved]] was written after a breakthrough, in which the energy cascade that the researchers had been chasing was finally achieved. <br>

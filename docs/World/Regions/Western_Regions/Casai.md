@@ -2,7 +2,7 @@
 
 ![[CS_landscape.png]]{ align=right width="300" }
 
-**Casai** is an arid, mostly orange-colored region in northwestern [[Overworld|Drehmal]]. It is featured prominently in the game's lore, with the region having a distinct culture that has influenced other areas beyond Casai itself.
+**Casai** (pronounced "cass-sigh") is an arid, mostly orange-colored region in northwestern [[Overworld|Drehmal]]. It is featured prominently in the game's lore, with the region having a distinct culture that has influenced other areas beyond Casai itself.
 
 ## Geography
 

@@ -55,3 +55,10 @@ After the [[Fall of Avsohm]], however, Tethlaen was once again left to his own d
 The theme song for Tethlaen's boss battle is "Nothing to Lose", by Drehmal composer Chris Nesja.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fzMip_LU2SE?si=hfcIoyhow-gD20IF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Trivia
+
+Killing Tethlaen causes two small changes in the world, specifically in [[Ytaj]]. The brazier in front of the mural representing Tethlaen goes out, indicating that the fires are intrinsically linked to their respective Aspects' life forces somehow. Second, the large statue of [[Rihelma]] in the southeast has its redstone lamp eyes go dark. (1)
+{ .annotate }
+
+1. The Rihelma mechanic may or may not function properly in 1.20.1 versions of the map.

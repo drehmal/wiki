@@ -4,7 +4,7 @@
 
 All alchemy is done in pursuit of a singular, lofty goal: completion of the [[Alchemy#Great Work|Great Work]]. The Great Work is commonly defined as the harnessing and full usage of divine magic by a mortal: effectively, apotheosis.
 
-Alchemy in Drehmal is very heavily inspired by [real-world alchemy](https://en.wikipedia.org/wiki/Alchemy), an early form of science concerned with the transmutation of metals, development of universal cures, and the perfection of the human form through a *magnum opus*, or a 'great work'.
+Alchemy in Drehmal is very heavily inspired by [real-world alchemy](https://en.wikipedia.org/wiki/Alchemy), an early form of science concerned with the transmutation of metals, development of universal cures, and the perfection of the human form through a *magnum opus*, or a 'great work'. It also draws significantly from [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism).
 
 ## Origins
 

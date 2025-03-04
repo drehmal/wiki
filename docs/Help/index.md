@@ -1,3 +1,7 @@
+---
+icon: material/help-box
+---
+
 # Help
 
 Looking for help on an issue with the game, or just not sure what to do? This section contains pages that can help with either general questions regarding setup of Drehmal, where to start in the early game, and other frequently asked questions.

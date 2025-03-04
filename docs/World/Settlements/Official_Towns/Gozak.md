@@ -138,7 +138,7 @@ The Chicken Merchant purchases and sells both raw chicken and feathers.
 
 ## Lore
 
-Gozak was a historically powerful force in the Heartwood, acting as guardians of the forest and heading the [[Gozaki Union]]. Much of the area's political history is defined by conflict with the inhabitants of the nearby [[Black Jungle]], particularly the [[Tidal Dynasty]], as well as its membership in larger political bodies, such as [[Avsohm]] and [[Insohm]]. 
+Gozak was a historically powerful force in the Heartwood, acting as guardians of the forest and heading the Gozaki Union. Much of the area's political history is defined by conflict with the inhabitants of the nearby [[Black Jungle]], particularly the [[Tidal Dynasty]], as well as its membership in larger political bodies, such as [[Avsohm]] and [[Insohm]]. 
 
 The desolation of the [[South Heartwood]] in Av3 was a crippling blow to Gozak as a political force, greatly reducing their sphere of influence and leading its remaining inhabitants to become more reclusive, hiding in the forest rather than guarding it.
 

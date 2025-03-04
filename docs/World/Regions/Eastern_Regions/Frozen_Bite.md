@@ -23,7 +23,7 @@ There are no major settlements in the Frozen Bite.
 
 ## History
 
-Very little is known about the history of the Frozen Bite. The [[Empire of Vir]] may have expanded into the region in the early/mid Second Avihm, however there isn't enough evidence to confirm. The region has largely consisted of wilderness that has seldom been explored by outsiders, being loosely populated by "barbarians" that the [[Kingdom of Highfall]] wished to keep out of their territory. The environment was likely warmer and more hospitable to flora and fauna before the [[Frostfang Catastrophe]], although its impact on the region was mitigated by the mountains between the Frozen Bite and Faehrcyle.
+Very little is known about the history of the Frozen Bite. The [[Empire of Vir]] may have expanded into the region in the early/mid Second Avihm, however there isn't enough evidence to confirm. The region has largely consisted of wilderness that has seldom been explored by outsiders, being loosely populated by "barbarians" that the Kingdom of [[Highfall]] wished to keep out of their territory. The environment was likely warmer and more hospitable to flora and fauna before the [[Frostfang Catastrophe]], although its impact on the region was mitigated by the mountains between the Frozen Bite and Faehrcyle.
 
 ## Terminus Tower
 

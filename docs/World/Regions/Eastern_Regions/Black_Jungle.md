@@ -28,7 +28,7 @@ The region was subjugated under the [[Empire of Vir]] in the mid Second Avihm, a
 
 The region was never conquered by the [[Avsohm|Avsohmic Empire]], who wished not to engage in a bloody and costly war with the Tidal Dynasty's vast army. In the Third Avihm, the dynasty became isolationist and all foreigners were banned from its lands, other than the [[Kiln of Virtuo]] and a designated port. The Tidal Dynasty partook in the [[Insohmic Civil War]], joining forces with the [[Insohm|Insohmic]] separatists against the loyalists, ending in their own defeat. Soon afterwards, the dynasty's abuse of its power to exploit maritime trade prompted Insohm to begin secretly stirring political unrest in Firteid, ultimately leading to the Tide Queen's assassination.
 
-The [[Tidal War]] was fought between the Tidal military and Virtuo's Grand Parish (backed by the Insohmic Coalition) to determine the succeeding government. After a long conflict, in which Virtuo was injured in an attack by [[Maelihs]], Insohm and the Parish emerged victorious and founded the [[Parochial Enclave of Firteid]]. The Enclave remained as a member of Insohm for the whole duration of its lifetime, which lasted until the Grand Parish and Virtuo's sudden and unexplained departure at the end of the Third Avihm. The Tidal Republic rose in its place, and still governs Firteid today.
+The [[Tidal War]] was fought between the Tidal military and Virtuo's Grand Parish (backed by the Insohmic Coalition) to determine the succeeding government. After a long conflict, in which Virtuo was injured in an attack by [[Maelihs]], Insohm and the Parish emerged victorious and founded the Parochial Enclave of Firteid. The Enclave remained as a member of Insohm for the whole duration of its lifetime, which lasted until the Grand Parish and Virtuo's sudden and unexplained departure at the end of the Third Avihm. The Tidal Republic rose in its place, and still governs Firteid today.
 
 Worship of [[Virtuo]] is still the primary religious faith in the Black Jungle.
 
@@ -85,7 +85,7 @@ The [[Kiln of Virtuo]] is large, ornately decorated temple dedicated to Virtuo t
 
 ### Ruins of Zovan
 
-Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the [[Gozaki Union|Gozaki]] army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh oppression and ultimately massacre.
+Zovan was a town on the west coast of the Black Jungle. A large bridge built by Avsohm over the Strait of Vir in the late Second Avihm connected the Avsohmic city of Espinor in the [[South Heartwood]] to Zovan, in order to develop trade with the Tidal Dynasty. The town was occupied by the Gozaki army during the [[Insohmic Civil War]], and its inhabitants were subjected to harsh oppression and ultimately massacre.
 
 **Coordinates:** (X: 3010, Y: 105, Z: 3931)
 

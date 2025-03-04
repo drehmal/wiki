@@ -55,6 +55,8 @@ Khive's [[Relics|relic]] is **[[Relics#Mysterial|Mysterial]]**, a magical orb th
     | Mysterial +2         | +20% Movement Speed <br>-30% Attack Damage         | The third blessing of the Mystic One. It has been many ages since a single blessing was granted. |
     | Mysterial +3         | +30% Movement Speed <br>-40% Attack Damage         | In the First Avihm the rules of magic were taught to lowly Drehmari by Khive himself. The Mystic Elder's only wish is to go back and undo it all. To keep the secrets to himself. |
 
+    ![[mysterial.gif]]{ width="320" }
+
 Like all other devotion sites, a [[Trinkets#Relic Vessel|Relic Vessel]] can be found in Ihted. This relic vessel is found in the main underground area, behind iron bars in a 1-block wide room at **(1069, 55, 1115)**.
 
 ## Lore

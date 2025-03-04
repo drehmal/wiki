@@ -60,6 +60,6 @@ In Morah, a large house is the former (and possibly current) home of Mari, altho
 ![[room_mari.png]]
 > Mari's room in Ytaj.
 
-Mari has one of the most interesting rooms in [[Ytaj]], filled with various trinkets and collectibles, a [[Simple Haiku|book written by him to his Sahdan followers]], what looks to be a fragment of the [[Black Jungle]]'s [[Verrhys]] statue, the [[Biography of Dragonrider Oriann]] book, a [[Kohlohmah]] skeleton, and the [[Artifacts#Frontier's Edge|Frontier's Edge]] artifact.
+Mari has one of the most interesting rooms in [[Ytaj]], filled with various trinkets and collectibles, a [[Simple Haiku|book written by him to his Sahdan followers]], what looks to be a fragment of the [[Black Jungle]]'s [[Verrhys]] statue, the [[Biography of Dragonrider Oriann]] book, a [[Other Creatures#Kohlohmah|Kohlohmah]] skeleton, and the [[Artifacts#Frontier's Edge|Frontier's Edge]] artifact.
 
 Mari is also referenced in influencing the departure of [[Virtuo]] by informing her of suffering peoples at the edges of the realm in [[Xivrhynt]]. This served as the primary inspiration for Virtuo to leave the central continent, ending the Third Avihm, and also shows that Mari is aware of events in Xivrhynt. Based on the fact that he has visited the realm of [[Neverdawn]] as evidenced by the Frontier's Edge, it is possible that he has also been to post-[[Felling]] Xivrhynt.

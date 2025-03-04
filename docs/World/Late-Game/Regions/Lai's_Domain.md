@@ -52,7 +52,7 @@ Vanilla Blazes and Magma Cubes spawn in Lai's Domain, throughout the region, and
 
 ## History
 
-Lai's Domain has some [[Tehrmari]] inhabitants, although its history is not particularly clear. The Brulante family of noble [[Pyromancy|pyromancers]] lives in a manor in the northeast, and is said to possess a uniquely potent flame, distinct from those created by the various deities of Drehmal.
+Lai's Domain has some [[Tehrmari]] inhabitants, although its history is not particularly clear. The Brulante family of noble pyromancers lives in a manor in the northeast, and is said to possess a uniquely potent flame, distinct from those created by the various deities of Drehmal.
 
 ## Points of Interest
 

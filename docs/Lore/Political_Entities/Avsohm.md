@@ -32,7 +32,7 @@ For the most part, Avsohm appears to have been ruled almost entirely by the abso
 
 ### Department of Science
 
-The Avsohmic Department of Science (usually written as the acronym DoS) was Avsohm's primary government entity for scientific research. It was headed by the Chief Science Officer (CSO), of whom two are known: [[Eleis]] and [[Thresa Vera]], the latter of whom was the acting CSO at the time of the empire's collapse.
+The Avsohmic Department of Science (usually written as the acronym DoS) was Avsohm's primary government entity for scientific research. It was headed by the Chief Science Officer (CSO), of whom two are known: [[Misc Avsohm#Eleis|Eleis]] and [[Thresa Vera]], the latter of whom was the acting CSO at the time of the empire's collapse.
 
 Several other very prominent figures in Avsohm were employed by the DoS, including Senior Researcher [[Baen Vehmil]] and [[Vohski Ottis]]. They appear to have had major presences at several places in the map, including [[Sal'Mevir]] and [[Mt. Yavhlix]].
 

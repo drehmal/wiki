@@ -15,4 +15,4 @@ This book can be found in a chest in a building in [[Mossfield]], and references
 >
 > The crater itself was beautiful yet harrowing sight. It clearly was not natural as I had been told. The steep drop off from the forest above made it appear as a crater. To think that a great castle once stood here, a castle that housed the Insohmic Council, the greatest governing force of the Third Avihm... it's unthinkable. It was just plucked from existence, turned to nothing.
 >
-> And Insohmic shrine dedicated to Hovadchear Myrik, one of Insohm's founders, was here. Directly to the north of the crater, up on the cliff. It was his grace. So sad, to think what became of him, his partner, and the Order he made. We shall thank him for allowing us to live in a more peaceful world... albeit a dying one.
+> An Insohmic shrine dedicated to Hovadchear Myrik, one of Insohm's founders, was here. Directly to the north of the crater, up on the cliff. It was his grace. So sad, to think what became of him, his partner, and the Order he made. We shall thank him for allowing us to live in a more peaceful world... albeit a dying one.

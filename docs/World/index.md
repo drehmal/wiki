@@ -1,6 +1,8 @@
-# World
+---
+icon: material/earth
+---
 
-!!! warning "The World section is currently under construction, and is our #1 priority at this time. Many pages are unfinished or contain information written for Drehmal v2.1, and need to be updated or overhauled. Stay tuned for updates!"
+# World
 
 The sprawling, vibrant, and hand-designed realm of Drehmal is one of its largest strengths and player draws. This section of the wiki contains helpful information regarding exploration of Drehmal, from overviews of the realm's diverse regions to articles dedicated to the most intriguing points of interest scattered throughout the map.
 
@@ -12,13 +14,14 @@ The main explorable area of Drehmal: Apotheosis is Drehmal, the main 12,000 by 1
 
 Divided into Central, Western, Eastern, and Outer groups, the region pages each contain a description of that region's terrain, what we know about its history within the broader scope of Drehmal, a description of its [[Terminus Network#Towers|Terminus tower]], if applicable, and a full list of major POIs in that region, with coordinates for all locations given. 
 
-### Settlements (Partially Under Construction)
-
-!!! note "The major, official town pages have all been thoroughly updated and re-written for 2.2, but some of the smaller settlement pages are either outdated or empty."
+### Settlements
 
 The [Settlements](/World/Settlements/) tab is where you'll find articles on the many towns, cities, and villages of Drehmal. From trades available at these locations to the unique facets of each location, these articles are your go-to for navigating Drehmal's centers of population.
 
 ### Points of Interest (Partially Under Construction)
+
+!!! note "Almost all POI pages are complete, besides some minor ruins, which may not exist or may be stubs."
+
 Finally, in the [Points of Interest](/World/Points_of_Interest/) folder, you'll find pages on the many notable POIs scattered throughout Drehmal—important, interesting locations that deserve a page of their own, but aren't a major settlement.
 
 ## Other Dimensions

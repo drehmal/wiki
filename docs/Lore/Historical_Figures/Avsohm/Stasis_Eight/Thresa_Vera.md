@@ -25,7 +25,7 @@ Disillusioned with life in the aristocracy, Thresa decided to go to [[Av'Sal]] U
 
 ### DoS
 
-Thresa would spend the rest of the empire's lifespan as a researcher at the DoS, rising up the ranks until eventually replacing [[Eleis]] as Chief Science Officer. As CSO, Thresa worked closely with Emperor Anyr and the empire's brightest minds, including other members of the Stasis Eight. She was particularly active at [[Sal'Mevir]] and the [[Admin Wing]], and collaborated with Gohri and Vehmil to create the [[Stasis Facility]]. Thresa also oversaw operations at the Resonant Eye alongside [[Orix Cehein]].
+Thresa would spend the rest of the empire's lifespan as a researcher at the DoS, rising up the ranks until eventually replacing [[Misc Avsohm#Eleis|Eleis]] as Chief Science Officer. As CSO, Thresa worked closely with Emperor Anyr and the empire's brightest minds, including other members of the Stasis Eight. She was particularly active at [[Sal'Mevir]] and the [[Admin Wing]], and collaborated with Gohri and Vehmil to create the [[Stasis Facility]]. Thresa also oversaw operations at the Resonant Eye alongside [[Orix Cehein]].
 
 ## In-Map References
 

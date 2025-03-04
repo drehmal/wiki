@@ -41,7 +41,7 @@ It is revealed through transcriptions of dives into the [[Nothing]] by a device 
 
 The Resonant Eye was, as writings here attest, possibly Avsohm's greatest creation. A near-perfectly optimized [[Arcanism|runic]] machine, the Eye was capable of projecting images and audio from other locations, including those beyond the tear (the Spiral Anomaly), to the room where it was physically located in Mt. Yavhlix. There are 15 total holotexts in this facility, all found within this very room, and they tell the tale of Avsohm's interactions with the Eye.
 
-On the very first dive, the Eye was only able to make out the shape of wings, presumably those of Tethlaen, before the dive was aborted out of fear. On the second dive, the Avsohmic researchers were able to establish contact with Tethlaen, but could not communicate clearly, and decided to physically enter the tear. This was met with extreme violence from the Aspect, who slaughtered 41 members of the team—all except for the CSO, [[Eleis]], who survived, but was paralyzed from the neck down.
+On the very first dive, the Eye was only able to make out the shape of wings, presumably those of Tethlaen, before the dive was aborted out of fear. On the second dive, the Avsohmic researchers were able to establish contact with Tethlaen, but could not communicate clearly, and decided to physically enter the tear. This was met with extreme violence from the Aspect, who slaughtered 41 members of the team—all except for the CSO, [[Misc Avsohm#Eleis|Eleis]], who survived, but was paralyzed from the neck down.
 
 Gradually, Avsohm was able to develop a more positive relationship with Tethlaen, negotiating a deal that allowed them to collect energy from the tear while also helping to restore Tethlaen's body, which had been battered by the Nothing. 
 
@@ -96,7 +96,7 @@ There are also four lore books to be found at this location: three transcription
 ## Lore
 There is little lore to the Resonant Halls that is not simply a part of the main story.
 
-Multiple pertinent Avsohmic officers are known to have spent time here, predominantly [[Orix Cehein]] as the facility's commanding officer, [[Eleis]] and later [[Thresa Vera]] as Chief Science Officer (CSO), and Researcher Cehva.
+Multiple pertinent Avsohmic officers are known to have spent time here, predominantly [[Orix Cehein]] as the facility's commanding officer, [[Misc Avsohm#Eleis|Eleis]] and later [[Thresa Vera]] as Chief Science Officer (CSO), and Researcher Cehva.
 
 ## Extras
 The dialogue transcript from this section of the story can be found [[End-Game_Dialogue.md#Terminus (Post-Azimuth)|here]]. This article pertains to the 4th and 5th sections: **Terminus (Post-Azimuth)** and **Resonant Halls**.

@@ -16,4 +16,4 @@ This holotext is found in the Surveillance Room aboard the [[Aphelion]], and was
 ![[aphelion_anyr.png]]{ width="384" }
 
 ## Transcription
-> The last transmission we received detailed a huge military advance from Maelihs. He’s Taking advantage of all this chaos to finally move on Sal’Anyr. There have been no communications for over an hour. This is terrible. All we can do is sit and watch.
+> The last transmission we received detailed a huge military advance from Maelihs. He’s taking advantage of all this chaos to finally move on Sal’Anyr. There have been no communications for over an hour. This is terrible. All we can do is sit and watch.

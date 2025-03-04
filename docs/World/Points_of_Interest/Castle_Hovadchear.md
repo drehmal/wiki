@@ -9,6 +9,14 @@
 
 Today, the location is still only a crater, with a single structure at its northern end. This structure holds one evoker named "The Mourner", as well as a tomb dedicated to Hovadchear. This tomb contains the [[Hovadchear's Greathammer]] legendary weapon.
 
+Hovadchear's grave bears two signs, which read: <br>
+> Rest In Peace <br>
+> Hovadchear Myrik <br>
+> Companion of Ultva Utofal <br>
+>
+> Bastion of Truths <br>
+> Founder of the Order of Insohm
+
 ## Lore
 
 Castle Hovadchear served as the capital of [[Insohm]] from the time that it was founded as the Insohmic Coalition by Hovad and [[Ultva]], up until the castle's mysterious disappearance.[^1]

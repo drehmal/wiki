@@ -1,3 +1,7 @@
+---
+icon: fontawesome/solid/cat
+---
+
 # Miscellaneous
 
 This directory contains miscellaneous articles relating to Drehmal.

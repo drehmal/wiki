@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]] operated.
+This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]], particularly the [[Tide Queen]] herself, operated.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

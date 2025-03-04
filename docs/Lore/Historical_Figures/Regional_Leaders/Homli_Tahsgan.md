@@ -1,6 +1,6 @@
 # Homli Tahsgan
 
-**Homli Tahsgan** was a hero of the [[Faehrcyle|Faehrcylian]] Falcon Clan, and possibly a [[Potentia#People/Souls|Savant]]. Homli was the leader of a combined effort by Faehrcylian Tribes to deny [[Avsohm]] access to [[Mt. Yavhlix]], a task that he briefly succeeded in by summoning a colossal, magical blizzard. This event and its impact would come to be known as the [[Frostfang Catastrophe]], an ecological disaster that affected nearly a quarter of [[Overworld|Drehmal]].
+**Homli Tahsgan** (pronounced "home-lee taz-gan") was a hero of the [[Faehrcyle|Faehrcylian]] Falcon Clan, and possibly a [[Potentia#People/Souls|Savant]]. Homli was the leader of a combined effort by Faehrcylian Tribes to deny [[Avsohm]] access to [[Mt. Yavhlix]], a task that he briefly succeeded in by summoning a colossal, magical blizzard. This event and its impact would come to be known as the [[Frostfang Catastrophe]], an ecological disaster that affected nearly a quarter of [[Overworld|Drehmal]].
 
 ## History
 

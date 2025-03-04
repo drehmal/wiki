@@ -2,7 +2,10 @@
 
 ![[black_jungle_library.webp]]{ align=right width="300" }
 
-The Sahdan Monastery (no official name given) is a building on an island cliff off the southeastern coast of the [[Black Jungle]]. It looks to be a library, mainly filled with bookshelves. Two lore books here explain the relationship between the island of [[Sahd]] and the [[Tidal Dynasty]].
+The **Sahdan Monastery** (1) is a building on an island cliff off the southeastern coast of the [[Black Jungle]]. It looks to be a library, mainly filled with bookshelves. Two lore books here explain the relationship between the island of [[Sahd]] and the [[Tidal Dynasty]].
+{ .annotate }
+
+1. No official name given.
 
 !!! abstract "Location"
     Approximate Coordinates: `4804, 122, 4553`

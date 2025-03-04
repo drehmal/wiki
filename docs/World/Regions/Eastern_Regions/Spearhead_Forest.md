@@ -64,9 +64,9 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 ### Insohmic Coven of Potentia
 
-**Coordinates:** (X: 5031, Y: 92, Z: 1523)
-
 The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt Generals|Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
+
+**Coordinates:** (X: 5031, Y: 92, Z: 1523)
 
 ### Insohmic Library Tower
 

@@ -60,14 +60,6 @@ At the top of your screen, you should see 6 main tabs besides the current one, w
 
 Navigating through these tabs is the cleanest way to use this wiki, but there is also a built-in search function! Just be aware, this search bar will reveal **all** matches for a term, including matches for early-game terms on very late-game articles. Therefore, it is recommended that you stay away from that feature if you are at all concerned about spoilers. For your protection, some extremely spoiler-heavy end-game articles do not appear in search results, but can be found from the [Story Locations](/Story_and_Features/Story_Locations/) folder if you have reached that point and want to read about them.
 
-Pages which contain outdated information or are unfinished are marked with the "Under Construction" tag, which looks like this:
-
---8<-- "under_construction.md"
-
-??? note "Progress Notes: Finished Sections"
-    !!! success " "
-        As of 3/3/2025, the only significant articles not finished are smaller points of interest. Some additional pages may also be added to the [political entities](/Lore/Political_Entities/) and [historical figures](/Lore/Historical_Figures/) sections, but the wiki is mostly finished.
-
 <!-- ## Important Articles
 Check out these articles to find your way around Drehmal and this wiki!
 

@@ -1,6 +1,9 @@
 # Nimahj Alchemy Fortress
 
-The **Nimahj Alchemy Fortress** is a dungeon located in southern [[Nimahj Swamp]], inhabited by alchemists and their guards attempting to progress towards the [[Alchemy#Great Work|Great Work]]. 
+The **Nimahj Alchemy Fortress** (1) is a dungeon located in southern [[Nimahj Swamp]], inhabited by alchemists and their guards attempting to progress towards the [[Alchemy#Great Work|Great Work]]. 
+{ .annotate }
+
+1. No canonical name.
 
 Players can trigger a prominent animated sequence here, which creates one of the [[Gates|quartz gateway structures]] that can be found throughout the world. 
 

@@ -56,7 +56,7 @@ The North Heartwood's [[Terminus Network#Towers|Terminus tower]] is situated on 
 
 ### Insohmic Fortress
 
-A fortress atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology. [[Ultva|Master Ultva]] abandoned his commanding role in their efforts after the scientists failed to replicate an ancient Avsohmic chestplate. Even with the Order gone today, the fortress still houses mercenaries and the laboratory continues to be worked in.
+[[Insohmic Research Center|A fortress]] atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology. [[Ultva|Master Ultva]] abandoned his commanding role in their efforts after the scientists failed to replicate an ancient Avsohmic chestplate. Even with the Order gone today, the fortress still houses mercenaries and the laboratory continues to be worked in.
 
 **Coordinates:** (X: 1974, Y: 78, Z: 1507)
 

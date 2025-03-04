@@ -54,4 +54,4 @@ As a result of the fact that they were cut off from the mainland, Xor'Huul was n
 
 ### Build Contest
 
-Xor'Huul was the winner of the [2021 Ruins and Remnants Build Contest](https://youtu.be/Aff9XZDNAFw?si=rO9OVnTxCypsY9pB&t=644), a competition held within the Drehmal community to create new ruined cities and remnants of ancient civilizations. The top three placers were added to the map in [[Drehmal v22|version 2.2]]. This build was submitted by the user "Burnt General".
+Xor'Huul was the winner of the [2021 Ruins and Remnants Build Contest](https://youtu.be/Aff9XZDNAFw?si=rO9OVnTxCypsY9pB&t=644), a competition held within the Drehmal community to create new ruined cities and remnants of ancient civilizations. The top three placers were added to the map in [[Drehmal v22|version 2.2]]. This build was submitted by the user "Black Sabbath".

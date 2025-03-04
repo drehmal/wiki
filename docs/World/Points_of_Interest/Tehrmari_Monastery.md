@@ -2,7 +2,10 @@
 
 ![[tehrmari_monastery.png]]
 
-The **Tehrmari Monastery** is a somewhat hidden monastery in the mountains east of [[Purity Peaks]]. One of two places where [[Tehrmari]] are found on Drehmal, it is home to a [[Fervor Stones#Stone of Luxury|Stone of Luxury]].
+The **Tehrmari Monastery** or **Scalebound Monastery** (1) is a somewhat hidden monastery in the mountains east of [[Purity Peaks]]. One of two places where [[Tehrmari]] are found on Drehmal, it is home to a [[Fervor Stones#Stone of Luxury|Stone of Luxury]].
+{ .annotate }
+
+1. No canonical name.
 
 !!! abstract "Location"
     Coordinates (Dock): `2610, 63, -150` <br>

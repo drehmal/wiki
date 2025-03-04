@@ -6,7 +6,7 @@
 |:----------:|:----------------------:|
 | **Titles** | Land-Fall Drake |
 | **Classification** | [Major Aspect](/Lore/Higher_Beings/Aspects/Major_Aspects/) |
-| **Family** | [[Primal Tree]] (Parent/Creator) <br> [Other Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/) (Siblings) <br> [[Nahyn]] and [[Koh]] (Children/Creations) |
+| **Family** | [[Primal Tree]] (Parent/Creator) <br> [Other Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/) (Siblings) <br> [[Nahyn]], [[Noha]], and [[Koh]] (Children/Creations) |
 | **Gender** | Neutral (**it**/they) |
 | **[[Devotion]] Site** | [[Wokonori]] |
 

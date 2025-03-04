@@ -30,6 +30,8 @@ While he is still celebrated as a hero by some descendants of the Faehrcylian tr
 
 Regardless, Homli is still remembered in the realm today.
 
+A memorial to Homli Tahsgan, possibly his true burial site, is located in southwestern Faehrcyle, at the [[Grave of Frost]]. It holds the [[Frostfang]] legendary sword, the very same that he used to cause the Catastrophe.
+
 ## Extras
 
 Based on the [[(REMOVED) Calendar of Drehmal|removed calendar book]], Homli's last name may be [[Rihselch]] for "cold".

@@ -19,3 +19,15 @@ The issue of potentia with souls is more complicated. Different people, particul
 Based on the community restoration of the [[Codex Celestus]], popular mortal conceptions of potentia are in fact, not entirely true. [[Khive]] writes that in fact, he is the one who personally assigns different potentia levels to souls based on their intrinsic power, effectively setting a cap on their maximum magical ability. Nobody has truly unlimited potentia, he states. Rather, those said to have this ability generally belong to a class that he refers to as "Savants".
 
 Savants, as Khive writes, do always have high potentia, but it is not unlimited. Rather, they possess an innate ability, not granted by Khive, to wield magic without the use of runes, on small scales and in very particular ways. 
+
+### Souls
+
+Souls are one of the two fundamental substances as deduced by Khive in [[Codex Celestus]], alongside [[Primal Energy]].
+
+"Primal Souls" are a concept within Drehmal which only appear twice in 2.2: once, in the [[Flamestoker Ghulak's Sermon]] book:
+
+> Brethren, this twin loyalty between the Burnt Father and the Brightwyrm responsible for his burning will be the crucible which forges our spirits into true Primal Souls. Do not take this duty lightly.
+
+and then as the title of a secret [[advancements|advancement]].
+
+Primal Souls played more of a role in the lore of older versions of the map.

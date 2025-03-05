@@ -3,6 +3,8 @@ tags:
   - Books
 ---
 
+!!! note "This page is about the book by this name. For a larger overview of the conflict, see [[Insohmic Civil War]]."
+
 This book can be found in a chest in the library at [[Highfall]], and contains a historical account of the [[Insohmic Civil War]].
 
 ## Coordinates

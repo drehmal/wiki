@@ -100,7 +100,7 @@ Sevick was an isolated town on a small, solitary island in the eastern ocean. It
 
 ### Ruins of Virsuhl
 
-[[Virsuhl]] was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the Empire of Vir until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
+Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It was a powerful part of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade through the time of [[Avsohm]]. The city's faint, stone ruins can still be found in the midst of a forest, with the [[Artifacts#Alviran Signet Shield|Alviran Signet Shield]] artifact.
 
 **Coordinates:** (X: 3971, Y: 72, Z: -43)
 

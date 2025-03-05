@@ -1152,7 +1152,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | In Espinor, there lived an old astrologist who lacked capable equipment. With only a shoddy spyglass to their name, they never discovered anything of note. Until, one day, while viewing the western skies, they spotted a shimmering light. It birthed a new star, a twinkling speck, that only lived for a few moments before it fell to the horizon. The star died not long after, the astrologist assumed, unable to see behind their now seared eyes. |
-| **Obtain** | Located in the ruins of Espinor, at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2585, 100, 3929)**   |
+| **Obtain** | Located in the ruins of [[Espinor]], at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2585, 100, 3929)**   |
 
 ??? note "Extra Lore"
     An account of the desolation of the South Heartwood by the [[Skullmother]].
@@ -1944,7 +1944,7 @@ These artifacts can be found at any time through exploration of the continent of
 |            | **Lore and how to Obtain**  |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore**   | In the early years of the Tide Queen's reign, relations with Gozak were positive and even celebrated. A yearly festival would take place at the center of Espinor's great bridge, even after the Dynasty's invasions. | 
-| **Obtain** | Located in the ruins of Espinor, at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2623, 113, 3943)**    |
+| **Obtain** | Located in the ruins of [[Espinor]], at the western end of the bridge between the [[South Heartwood]] and [[Black Jungle]]. Chest located at **(2623, 113, 3943)**    |
 
 ### Timefall Boots
 

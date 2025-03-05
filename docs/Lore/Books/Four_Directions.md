@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found on a lectern in a ruined building just west of [[Sal'Lorahn]]. It references the four cardinal directions, each representing something relative to Sal'Lorahn. To the north of this ruined city lied the majority of the other governments of Drehmal, predominantly Tharhan kingdoms and Avsohm. The moon of [[Lo'Dahr]] lies in the southern sky. The "hidden sanctuary" to the east references the [[Moonlight Sanctum]]. "Canyons marked by dancing flame" to the west likely reference the [[Crimson Gorge]] or other parts of [[The Carmine]], possibly the [[Birthing Grounds]].
+This book can be found on a lectern in a ruined building just west of [[Sal'Lorahn]]. It references the four cardinal directions, each representing something relative to Sal'Lorahn. To the north of this ruined city lied the majority of the other governments of Drehmal, predominantly Tharhan kingdoms and Avsohm, who strongly condemned necromancy. The moon of [[Lo'Dahr]] lies in the southern sky. The "hidden sanctuary" to the east references the [[Moonlight Sanctum]]. A hidden underground church in the Moonspires to the west of this town is where the Theocracy originated.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

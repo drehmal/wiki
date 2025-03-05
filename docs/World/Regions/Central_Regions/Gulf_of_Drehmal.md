@@ -39,6 +39,8 @@ The Gulf of Drehmal's [[Terminus Network#Towers|Terminus tower]] sits half-subme
 
 The Astorahnni Tower is a tall, pointed tower in the region's northwest. It is inhabited by the hostile Sun Apostles, members of the Order of Astorahn. The Order of Astorahn was created in West Merijool on the foundation of the [[Torahn]] being the world's true source of warmth, as opposed to [[Lai]], Aspect of Warmth. Due to the Astorahnni's beliefs, which contradicted those of the Lai-worshiping people of West Merijool, they were banished from the land and they resettled in the Gulf of Drehmal region.
 
+The [[Artifacts#Astorahnni Ceremonial Plate|Astorahnni Ceremonial Plate]] artifact is found here.
+
 **Coordinates:** (X: -181, Y: 163, Z: -573)
 
 ### Ruins of Drahbes

@@ -68,7 +68,7 @@ Rhaverik Inn & Trading Post is located on the road outside the former town of Rh
 
 ### Ruins of Kazzani
 
-[[Kazzani]] was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely destroyed by Skullbeasts during [[Maelihs]]'s desolation of the [[South Heartwood]].
+[[Kazzani]] was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely abandoned following [[Maelihs]]'s desolation of the [[South Heartwood]].
 
 **Coordinates:** (X: 1797, Y: 97, Z: 3252)
 

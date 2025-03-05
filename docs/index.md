@@ -13,9 +13,6 @@ icon: material/home
 
 !!! tip "Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!"
 
-!!! note "WIP"
-    This wiki is a work in progress. If you'd like to help contribute to our ongoing expansion in any way (or just want to follow along with the process), then check out the `#wiki-creation` channel in the Discord, available if you've completed the map. Alternatively, you can inquire about the wiki on the Discord (we'll find you), or comment on any page on the website with a GitHub account.
-
 <figure markdown>
   ![[primal_start.png]]{ width="800" }
 </figure>

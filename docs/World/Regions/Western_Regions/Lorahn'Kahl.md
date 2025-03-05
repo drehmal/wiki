@@ -72,7 +72,7 @@ Nestled underground in the Moonspires (and beneath the ribcage of a [[Skullbeast
 
 ### Ruins of Eloa
 
-[[Eloa]] was once a city in central Lorahn'Kahl, and it was most likely self-governed by the House of Ayre, a royal family of [[Tahva|Tahvan]] descendance. They would have only held control for a brief period of time between Avsohm's fall and the area's conquest by Maelihs. Eventually, they were freed by Insohm. It is unclear whether the city was placed under the rule of a certain Insohmic member state or the House of Ayre was granted autonomous power, but Maelihs's military was soon to return and assert control once again. This resulted in the city being abandoned by its people, who all dispersed to other nearby cities. Eloa's expansive ruins can still be found today.
+[[Eloa]] was once a city in central Lorahn'Kahl, and it was most likely self-governed by the House of Ayre, a noble family of [[Tahva|Tahvan]] descent. They would have only held control for a brief period of time between Avsohm's fall and the area's conquest by Maelihs. Eventually, they were freed by Insohm. It is unclear whether the city was placed under the rule of a certain Insohmic member state or the House of Ayre was granted autonomous power, but Maelihs's military was soon to return and assert control once again. This resulted in the city being abandoned by its people, who all dispersed to other nearby cities. Eloa's expansive ruins can still be found today.
 
 **Coordinates:** (X: -713, Y: 68, Z: 4600)
 

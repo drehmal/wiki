@@ -50,7 +50,7 @@ Battle Pizzazzle is an ancient Veruhktian tower that was repurposed into a chall
 
 ### Ruins of Sal'Veruhkt
 
-Sal'Veruhkt, formerly Veruhkaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was possibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
+[[Sal'Veruhkt]], formerly Veruhkaan, was the capital city of the Veruhktian state. It was given its newer name after being conquered by Avsohm. It was possibly destroyed by the Kingdom of Dusps, or it fell into a ruined state as its population was lost under Duspian rule.
 
 **Coordinates:** (X: 3577, Y: 65, Z: -1362)
 

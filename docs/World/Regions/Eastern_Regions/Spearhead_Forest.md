@@ -64,9 +64,9 @@ Helmshire is a small village within the forest of the region's west. Its buildin
 
 ### Insohmic Coven of Potentia
 
-**Coordinates:** (X: 5031, Y: 92, Z: 1523)
-
 The Coven of Potentia was a group of "Chosen", who were [[Drehmari]] selected by the Order of Insohm for having high perceived potentia (power of soul). They were confined and trained at a facility on the eastern shore of an island far to the east of the mainland Spearhead Forest, with the goal of unlocking power that could be harnessed by the Order. The Chosen were physically threatened in order to be kept under control. The building and the surrounding woods were burnt down when one powerful member went rogue, causing operations to cease. Rhalon, [[Maelihs|Maelihs's]] first [[Burnt Generals|Burnt General]], set out on an expedition in the Fourth Avihm with several guards to explore the ruins of the Coven of Potentia, where they still dwell today.
+
+**Coordinates:** (X: 5031, Y: 92, Z: 1523)
 
 ### Insohmic Library Tower
 
@@ -100,7 +100,7 @@ Sevick was an isolated town on a small, solitary island in the eastern ocean. It
 
 ### Ruins of Virsuhl
 
-[[Virsuhl]] was a large city in northern Spearhead Forest during the Second Avihm. It served as the capital of the Empire of Vir until their collapse, and it continued to exist as a regional center of trade. The city's faint, stone ruins can still be found in the midst of a forest.
+Virsuhl was a large city in northern Spearhead Forest during the Second Avihm. It was a powerful part of the [[Empire of Vir]] until their collapse, and it continued to exist as a regional center of trade through the time of [[Avsohm]]. The city's faint, stone ruins can still be found in the midst of a forest, with the [[Artifacts#Alviran Signet Shield|Alviran Signet Shield]] artifact.
 
 **Coordinates:** (X: 3971, Y: 72, Z: -43)
 

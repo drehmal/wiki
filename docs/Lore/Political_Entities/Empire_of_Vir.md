@@ -10,7 +10,7 @@ Very few direct references to the Empire of Vir are found in the map, and only i
 
 Two artifacts reference this empire.
 
-[[Artifacts#Alviran Signet Shield|Alviran Signet Shield]] in [[Virsuhl]] references a "Southern" Empire of Vir based around that Spearhead Forest town, not brought up anywhere else:
+[[Artifacts#Alviran Signet Shield|Alviran Signet Shield]] in [[Spearhead Forest#Ruins of Virsuhl|Virsuhl]] references a "Southern" Empire of Vir based around that Spearhead Forest town, not brought up anywhere else:
 
 > This shield is emblazoned with the crest of Diore I Alvira, the great Virmari conqueror and Emperor. So long as his standard was in Virsuhl, the Southern Empire of Vir was said to possess coequal authority to Highfall itself. Without Diore and his kin, however, the great city soon fell to opportunists.
 

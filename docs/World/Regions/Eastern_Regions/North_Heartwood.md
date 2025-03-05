@@ -56,7 +56,7 @@ The North Heartwood's [[Terminus Network#Towers|Terminus tower]] is situated on 
 
 ### Insohmic Fortress
 
-A fortress atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology. [[Ultva|Master Ultva]] abandoned his commanding role in their efforts after the scientists failed to replicate an ancient Avsohmic chestplate. Even with the Order gone today, the fortress still houses mercenaries and the laboratory continues to be worked in.
+[[Insohmic Research Center|A fortress]] atop a crag in the northeastern North Heartwood was once used by the Order of Insohm to research Avsohmic technology. [[Ultva|Master Ultva]] abandoned his commanding role in their efforts after the scientists failed to replicate an ancient Avsohmic chestplate. Even with the Order gone today, the fortress still houses mercenaries and the laboratory continues to be worked in.
 
 **Coordinates:** (X: 1974, Y: 78, Z: 1507)
 
@@ -68,7 +68,7 @@ Rhaverik Inn & Trading Post is located on the road outside the former town of Rh
 
 ### Ruins of Kazzani
 
-[[Kazzani]] was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely destroyed by Skullbeasts during [[Maelihs]]'s desolation of the [[South Heartwood]].
+[[Kazzani]] was a town on the southern edge of the North Heartwood in the Second Avihm, sitting on a lake. It was the birthplace of renowned Avsohmic captain and novelist, [[Devro Ihb]]. The town was likely abandoned following [[Maelihs]]'s desolation of the [[South Heartwood]].
 
 **Coordinates:** (X: 1797, Y: 97, Z: 3252)
 

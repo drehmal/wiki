@@ -19,11 +19,11 @@ This book can be found in a chest in the library at [[Highfall]]. Allegedly base
 >
 > "Don’t think about anything except the wind.”
 >
-> For a few tense moments, everyone stood stock still. Finally, shoulders slumping,they returned to waiting, and eventually fell asleep. A devastating mistake.
+> For a few tense moments, everyone stood stock still. Finally, shoulders slumping, they returned to waiting, and eventually fell asleep. A devastating mistake.
 >
 > Suddenly, there was nothing but chaos and gnashing teeth. Screams began to echo through the passage. Huge slimy bodies pressed against the throngs of hopeless as perfectly circular holes revealed the clouded sky above.
 >
-> Dahlin laid his weight into the bricks which barred their escape, but by the time the hallway lights illuminated the passage made tomb, only seventeen others remained alive. Any who had held a position of authority or knew state secrets were gone, and most  of the others laid on the ground in a gory heap. Reeling and vomiting, Dahlin took the little girl’s hand and led her out of the still-burning town. The gambit had failed.
+> Dahlin laid his weight into the bricks which barred their escape, but by the time the hallway lights illuminated the passage made tomb, only seventeen others remained alive. Any who had held a position of authority or knew state secrets were gone, and most of the others laid on the ground in a gory heap. Reeling and vomiting, Dahlin took the little girl’s hand and led her out of the still-burning town. The gambit had failed.
 >
 > -------------------
 >

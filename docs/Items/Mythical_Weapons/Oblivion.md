@@ -37,9 +37,9 @@ Oblivion's special ability, Force of Nothing, allows its user to pick up a singl
 ## How to Obtain
 Oblivion is obtained through a questline that pushes the player to follow a trail of hints from one of Drehmal's major towns to a hidden structure that houses the mythical weapon.
 
-Oblivion's quest begins underneath the castle at the town of [[Highfall]] in the northeast of [[Overworld|Drehmal]]. Within this castle, a tight, cramped, narrow side room ends in an iron trapdoor, covering a ladder down to a cavern beneath the castle. This cavern, when followed, constricts into a pitch-black tunnel. This winding tunnel, which stretches on for over 700 blocks, eventually culminates in a colorful pocket of concrete, with a single chest hidden behind a wall. This chest contains a stack of Nihilist's Compass items, which are calibrated to lead the player to a point toward the north.
+Oblivion's quest begins underneath the castle at the town of [[Highfall]] in the northeast of [[Overworld|Drehmal]]. Within this castle, a tight, cramped, narrow side room ends in an iron trapdoor, covering a ladder down to a cavern beneath the castle. This cavern, when followed, constricts into a pitch-black tunnel. This winding tunnel, which stretches on for over 700 blocks, eventually culminates in a colorful pocket of concrete, with a single chest hidden behind a wall. This chest contains a stack of Compass of Nihility items, which are calibrated to lead the player to a point toward the north.
 
-The compass points toward an abandoned building in the northeast of the [[Frozen Bite]] region. The lodestone it is attuned to is found in a small attic room at the very top of the house, along with a chest containing a stack of Nihilist's Notes. This piece of paper has the following description:
+The compass points toward an [[Nihilist's Cabin|abandoned building]] in the northeast of the [[Frozen Bite]] region. The lodestone it is attuned to is found in a small attic room at the very top of the house, along with a chest containing a stack of Nihilist's Notes. This piece of paper has the following description:
 
 ![[nihilist_notes.png]]{ width="48" } 
 

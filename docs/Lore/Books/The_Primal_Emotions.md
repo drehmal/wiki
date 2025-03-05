@@ -7,7 +7,7 @@ tags:
 
 --8<-- "LD_spoiler.md"
 
-This book can be found in a chest in the Alchemist Coven building in [[Maen's Domain]]. It shows that through largely unethical experimentation, the alchemists here were able to determine the three "Primal Emotions:" pain, pleasure, and fear.
+This book can be found in a chest in the [[Coven of Alchemists]] building in [[Maen's Domain]]. It shows that through largely unethical experimentation, the alchemists here were able to determine the three "Primal Emotions:" pain, pleasure, and fear.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

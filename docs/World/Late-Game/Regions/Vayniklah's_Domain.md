@@ -88,7 +88,9 @@ A cavern in the northeast is linked to one of the mysterious gateway structures 
 
 ### Lifegiven Hospital
 
-On the eastern bank of the river that runs through this region, a large complex built into the side of a mountain serves as a [[Tehrmari]] hospital.
+![[lifegiven_outside.png]]
+
+On the eastern bank of the river that runs through this region, a large complex built into the side of a mountain serves as a [[Tehrmari]] hospital. This holds the book [[Lifegiven Ertri's Journal]], which details a horrific plague brought to the Tehrmari by [[Avsohm]]'s expedition to the moon.
 
 **Coordinates:** (X: 390, Y: 26, Z: -793)
 

@@ -99,7 +99,7 @@ The [[Resupply Depot]] was the [[Avsohm|Avsohmic Empire]]'s shipping hub and spa
 
 ### Ruins of Rihanar
 
-Rihanar is a now-abandoned city resting atop a large, floating island in the northern portion of the region. [[Artifacts#Phoenixfeather Cloak|One artifact]] found here tells the city's story.
+[[Rihanar]] is a now-abandoned city resting atop a large, floating island in the northern portion of the region. [[Artifacts#Phoenixfeather Cloak|One artifact]] found here tells the city's story.
 
 **Coordinates:** (X: 833, Y: 237, Z: 600)
 

@@ -53,6 +53,8 @@ The Black Jungle's [[Terminus Network#Towers|Terminus tower]] is located in the 
 
 The mysterious ruins (still completely intact) of a large city composed almost entirely of blackstone and obsidian, likely from the early Second Avihm, lies deep within the Black Jungle. It is centered around a temple/palace with an elevated throne. The city's inhabitants worshiped [[Verrhys]], evident due to a statue of the Aspect hidden in a large underground cavern. They were the only people who are known to have worshipped Verrhys, and a sign in front of this statue is the only known mention of Verrhys by name in the map. The residents died out for an unknown reason, but were once one of the largest cities in the ancient world.
 
+A [[Fervor Stones#Stone of Agony|Stone of Agony]] is located in one of the above-ground towers.
+
 The cavern underground can be accessed from a tower in the southwest of the town, which leads down into a pitch-black maze. An unnamed, bizarre artifact is found in front of the statue of Verrhys.
 
 **Coordinates:** (X: 4145, Y: 70, Z: 4136)

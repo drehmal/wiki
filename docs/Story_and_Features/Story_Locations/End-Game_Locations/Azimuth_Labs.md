@@ -53,6 +53,11 @@ The God Machine is an absolutely colossal contraption, atop which a throne sits.
 
 This device was constructed specifically for Emperor Anyr, with the plan being to infuse Anyr with divine power, allowing him to truly reign as God-Emperor and challenge the Aspects and [Deities](/Lore/Higher_Beings/Deities/). This would give the Empire of Avsohm complete domination over the realm of Drehmal. [[gm_status.md|A holotext]] near the apex states that the machine had initially succeeded in its job. And yet, when the player reaches the top of the God Machine, they are greeted by the corpse of Emperor Anyr.
 
+??? danger "Anyr Image"
+    ![[anyr_skelly_old.png]]
+    Anyr atop the God Machine. <br> <br>
+    In version 2.2.2, this model was updated, shown in [this image](anyr_skelly_new.png).
+
 The voice instructs the player to return to the Terminus, opening a portal back to the surface of the Sunken Astral Body.
 
 ## Gameplay

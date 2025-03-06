@@ -19,7 +19,7 @@ In Av2 1820, Anyr's reign was abruptly cut short by the events that caused the [
 
 Anyr's official reference sheet is not public, but some art from the dev team is, clearly showing his physical appearance.
 
-Anyr is depicted as a tall, thin, middle-aged man with tan skin and very sharp features. His ears are long, pointed, and angled slightly downwards, away from his thick matte black horns, which are in turn decorated with golden engravings. He is depicted with lots of golden accessories, including ear piercings and armor, as well as a red cape in his imperial regalia.
+Anyr is depicted as a tall, thin, middle-aged man with tan skin, dark but graying hair, and very sharp features. His ears are long, pointed, and angled slightly downwards, away from his thick matte black horns, which are in turn decorated with golden engravings. He is depicted with lots of golden accessories, including ear piercings and armor, as well as a red cape in his imperial regalia.
 
 ## Characteristics
 
@@ -78,6 +78,3 @@ Project Apotheosis was put on indefinite hold, however, due to the issue of char
 This plan was not enacted as initially intended. On the day that would be the empire's fall, the God Machine was activated, and claimed to succeed, but Anyr died on its throne regardless. The other facilities, not expecting the machine to be activated, lost power and were isolated from one another, as mysterious forces crept into the realm to [[Fall of Avsohm|punish the empire for its hubris]]. 
 
 Anyr's corpse would sit atop the God Machine for over a thousand years, where he is found in the end-game sequence.
-
-??? danger "Anyr"
-    ![[anyr_skelly_new.png]]

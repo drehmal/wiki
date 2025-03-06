@@ -1,6 +1,6 @@
 # Uffeihl Anyr
 
---8<-- "under_construction.md"
+--8<-- "spoiler.md"
 
 > - **Life Duration:** (Unknown year, probably late 1500s or early 1600s) - Av2 1820
 > - **Reign Duration:** (Unknown year, mid Av2 1700s) - Av2 1820

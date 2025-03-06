@@ -1,6 +1,6 @@
 # Drehn Mal'Sohm
 
---8<-- "under_construction.md"
+--8<-- "spoiler.md"
 
 > - **Life Duration:** (Unknown year, likely Av2 1500s) - (Unknown year, likely Av2 1700s)
 > - **Reign Duration:** (Unknown year, early adulthood likely Av2 late 1500s) - (Unknown year, likely late Av2 1600s or early Av2 1700s)

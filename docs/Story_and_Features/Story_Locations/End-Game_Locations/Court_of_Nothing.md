@@ -38,7 +38,10 @@ As the player enters this chamber, the voice reveals its true name, giving the p
 ![[mytho_portrait.png]]
 > The portrait of the Mythoclast.
 
-This room contains a mural of the Mythoclast. He[^1] claims it does not directly reflect his true physical form, which is incredibly difficult to capture. At this point, he grants the player a tangible reward for the journey they have undergone: a copy of the [[Mythbreaker]], named "The Mythbreaker." This version of the spear is as powerful as the charged variant at baseline, and can be used indefinitely without fear of it breaking. The Mythoclast then opens a portal to his Court, beckoning the player forth, but warning that this is a point of no return, as time runs differently there.
+This room contains a mural of the Mythoclast. He (1) claims it does not directly reflect his true physical form, which is incredibly difficult to capture. At this point, he grants the player a tangible reward for the journey they have undergone: a copy of the [[Mythbreaker]], named "The Mythbreaker." This version of the spear is as powerful as the charged variant at baseline, and can be used indefinitely without fear of it breaking. The Mythoclast then opens a portal to his Court, beckoning the player forth, but warning that this is a point of no return, as time runs differently there.
+{ .annotate }
+
+1. From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" or "they" to describe Mytho and his voice are purely for spoiler protection at that point in the story.
 
 ![[court_of_nothing.png]]
 > The main room of the Court of Nothing.
@@ -65,5 +68,3 @@ The dialogue transcript from this section can be found [[End-Game_Dialogue.md#Te
 ***
 
 In [[Drehmal v21|version 2.1]], the Court was accessed from a portal on top of a mountain on the [[Island of Dawn]], not at the Stasis Facility. The build for the portal can still be found deep inside that mountain.
-
-[^1]: From this point on in story articles, The Mythoclast is referred to using he/him pronouns, as is canon. Prior use of "it" or "they" to describe Mytho and his voice are purely for spoiler protection at that point in the story.

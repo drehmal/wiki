@@ -23,7 +23,10 @@ From the one holotext that she authored, it appears that Zevve's intelligence of
 
 ## In-Map References
 
-There are three named references to Zevve Kai in the map, with one other book likely written by her.[^1]
+There are three named references to Zevve Kai in the map, with one other book likely written by her. (1)
+{ .annotate }
+
+1. The book [[Intelligence Officer's Draft]] in the [[Admin Wing]] is likely written by Zevve.
 
 **Books (2):**
 
@@ -43,5 +46,3 @@ There are three named references to Zevve Kai in the map, with one other book li
 
 ![[zevve_selfie.png]]{ width="500" }
 > Zevve's skin in-game.
-
-[^1]: The book [[Intelligence Officer's Draft]] in the [[Admin Wing]] is likely written by Zevve.

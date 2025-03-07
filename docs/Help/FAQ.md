@@ -154,7 +154,7 @@ Drehmal has many custom items, most of which can be recovered if lost or destroy
 
 Some custom items, however, cannot be crafted or purchased again if lost. This includes [[Artifacts]], which have exactly one copy in the map and cannot be re-created if broken or lost, as well as [[Fervor Stones]]. Fervor Stones can be acquired using custom commands that are built in to the datapack, found at the end of [[Fervor Stones|their page]].
 
-Artifacts can be cheated back into the game using a `/give` command with the item's full NBT data, which will be a part of the default datapack starting in the 2.2.2 update. If your world download is on version 2.2.2 or higher[^1], you can use the command `/function dev:give/` followed by the artifact's name. However, as of now, these simple commands do not exist, and players must create the /give command to restore their artifact (we have people in the Discord who can help with this). 
+Artifacts can be cheated back into the game using a `/give` command with the item's full NBT data, which will be a part of the default datapack starting in the 2.2.2 update. If your world download is on version 2.2.2 or higher, you can use the command `/function dev:give/` followed by the artifact's name. However, as of now, these simple commands do not exist, and players must create the /give command to restore their artifact (we have people in the Discord who can help with this). 
 
 [[Relics]] can also be obtained using a [[Trinkets#Relic Vessel|Relic Vessel]], by throwing one onto the altar of the relic's Deity/Aspect. Lost relics can also be cheated in using built-in `/function` commands. See [[Relics#Extras|this page]] for a full list of those commands.
 
@@ -317,5 +317,3 @@ Yes, there are fully annotated world maps, although they are typically not share
 If you truly must have a more detailed map, then we may recommend the [Drehmal Overviewer](https://map.drehmal.cyou/). The maps found at this website have toggle-able markers that can show chests, passive mob spawn locations, and various other items, as well as the full terrain of the world. 
 
 !!! warning "If you decide to use these maps during your first playthrough, then we STRONGLY advise that you do not switch dimensions on these maps away from the overworld for spoiler reasons. Some late-game and end-game areas are made in custom dimensions, and even briefly viewing these may massively spoil your experience playing the map."
-
-[^1]: Anticipated release in mid-December 2024.

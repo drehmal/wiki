@@ -9,7 +9,7 @@
 
 1. An official timeline from [[Drehmal v21|version 2.1]] gives the date of Anyr's coronation as Av2 1761, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.
 
-**Uffeihl Anyr** (pronounced "oof-ale an-ear") (imperial title: Anyr Kalkorahm Al'Drehn Avsohm I), often referred to simply as **Anyr**, was an aristocrat and general, who later served as the third and final emperor of [[Avsohm]], directly succeeding [[Ifeihl|Zorhis Ifeihl]]. 
+**Uffeihl Anyr** (pronounced "oof-ale an-ear") (imperial title: Anyr Kalkorahm Al'Drehn Avsohm I), often referred to simply as **Anyr**, was an aristocrat and general who later served as the third and final emperor of [[Avsohm]], directly succeeding [[Ifeihl|Zorhis Ifeihl]]. 
 
 Anyr oversaw what many in Avsohm saw as a second golden age, progressing the empire's technology and military power even further, but also significantly cracked down on free speech and artistic expression, turning Avsohm into a markedly more authoritarian state. 
 
@@ -35,7 +35,7 @@ Anyr's greatest wish, above all else, was to fill the shoes of the first emperor
 
 Anyr's family was part of a noble house within Avsohm, who were appointed to control the lands of [[Anyr'Nogur]] and [[South Tharxax]] following the empire's annexation of the [[Second Tharhan Empire]] under [[Drehn]]'s reign. House Anyr governed from the desert metropolis of Azen'nath, a Casain settlement in the Golden Sands which was renamed to Sal'Iloh under Avsohmic rule.
 
-Anyr himself was a well-respected general in the Avsohmic military during the reign of Ifeihl, reportedly involved in conflicts in the continent's far northeast, possibly referring to either the [[Frostfang Catastrophe]] or war with the Kingdom of [[Highfall]].
+Anyr himself was a well-respected general in the Avsohmic military during the reign of Ifeihl, reportedly involved in conflicts in the continent's far northeast, possibly referring to either the [[Frostfang Catastrophe]] or war with the Kingdom of [[Highfall]]. He had a sibling named Arawehn, who lived in Sal'Anyr and governed in Uffeihl's absence.
 
 Avsohm's actions under Ifeihl were widely criticized, as the Emperor was seen as soft and unfit to lead such a massive state. In particular, Ifeihl's mishandling of the [[Tri-Moon Theocracy]], which resulted in hordes of undead roaming the land, was seen as the final straw, and Ifeihl was pressured to step down. Anyr, a military hero and a well-respected leader, was nominated to be the third Emperor, and an unsatisfied populace was swayed by his campaign.
 
@@ -50,6 +50,8 @@ Anyr's first act as emperor was to move his cabinet to [[Sal'Anyr]], the former 
 Anyr was known to have cracked down on the arts, particularly more abstract forms of art that blossomed under Ifeihl. His cabinet is implied to have threatened artists who did not comply to this change, with most of them pivoting to art that directly glorified Anyr, Drehn, [[Drehmal]], and [[Virtuo]].
 
 Over the course of his reign, Anyr also won over favor and continuously centralized power. Favoring Centralist policies over the Regionalists, Anyr effectively painted himself as the ultimate strongman, and won over the vast majority of the empire's population with his cult of personality. This can be seen in many places, such as the statue of Anyr holding up [[disc|the world]] in [[Av'Sal]].
+
+While he was emperor, Anyr took at least two wives, named Elzahra and Azehl, and had a daughter named Anyra by one of them. Anyra was still a child at the time of the empire's fall.
 
 ### Project Apotheosis
 

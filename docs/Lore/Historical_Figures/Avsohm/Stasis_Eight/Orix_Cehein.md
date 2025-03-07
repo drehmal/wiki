@@ -27,7 +27,10 @@ At the outset of the [[Fall of Avsohm]], Orix was present at the Primary Energy 
 
 ## In-Map References
 
-There are at least 23[^1] references to Orix in the map, the second-most among members of the Stasis Eight.
+There are at least 23 (1) references to Orix in the map, the second-most among members of the Stasis Eight.
+{ .annotate }
+
+1. The [[Tattered Schism Soldier's Journal]] book does not mention Orix by name, but there is a possibility that he is its author. If this is the case, Orix is tied for the most references in the map with [[Thresa Vera]] at 24.
 
 **Books (8):**
 
@@ -69,5 +72,3 @@ Orix is usually referred to with the title of Chief Observer, but is sometimes a
 
 ![[orix_selfie.png]]{ width="500" }
 > Orix's skin in-game.
-
-[^1]: The [[Tattered Schism Soldier's Journal]] book does not mention Orix by name, but there is a possibility that he is its author. If this is the case, Orix is tied for the most references in the map with [[Thresa Vera]] at 24.

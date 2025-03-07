@@ -12,7 +12,10 @@
 
 ![[palaesida_domain.png]]
 
-**Palaesida's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the deceased Aspect of Storms, Tempest [[Palaesida]]. This region was once a sea, but since its patron's death, has dried and blackened, eventually being consumed by an eternal storm after his bones arose from their resting place[^1]. The region sits just southeast of the geographic center of Lo'Dahr's habitable area, bordering [[Dahr's Domain]] to the west, [[Nahyn's Domain]] to the north, [[Rihelma's Domain]] to the east, and [[Voynahla's Domain]] to the south.
+**Palaesida's Domain** is one of 14 Aspect Domains on [[Lo'Dahr]], belonging to the deceased Aspect of Storms, Tempest [[Palaesida]]. This region was once a sea, but since its patron's death, has dried and blackened, eventually being consumed by an eternal storm after his bones arose from their resting place. (1) The region sits just southeast of the geographic center of Lo'Dahr's habitable area, bordering [[Dahr's Domain]] to the west, [[Nahyn's Domain]] to the north, [[Rihelma's Domain]] to the east, and [[Voynahla's Domain]] to the south.
+{ .annotate }
+
+1. While Palaesida's Domain is intended to be consumed by this eternal storm, this is not well represented due to Minecraft's technical constraints, as all of the terrain is static in-game.
 
 |                  |                   |
 |:----------------:|:-----------------:|
@@ -66,5 +69,3 @@ Inside this structure, players will find the skeleton of [[Palaesida]], as well 
 **Okhran Prison** was the primary prison facility on Lo'Dahr, and can be found within the second largest stone orb in the sky, north of the Heart.
 
 **Coordinates:** (X: 452, Y: 116, Z: 258)
-
-[^1]: While Palaesida's Domain is intended to be consumed by this eternal storm, this is not well represented due to Minecraft's technical constraints, as all of the terrain is static in-game.

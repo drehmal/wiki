@@ -1,12 +1,6 @@
----
-tags:
-  - Entities
-  - NPC
----
+# Cazooie
 
 --8<-- "spoiler.md"
-
-# Cazooie
 
 ![[Cazooie.webp]]{ align=right width="300" }
 

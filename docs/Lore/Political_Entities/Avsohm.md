@@ -5,12 +5,18 @@ search:
 
 # Avsohm
 
-> - **Duration:** (Unknown year, likely late Av2 1500s or early Av2 1600s)[^1] - Av2 1820
+<div class="annotate" markdown>
+
+> - **Duration:** (Unknown year, likely late Av2 1500s or early Av2 1600s) (1) - Av2 1820
 > - **Location:** [Central Drehmal](/World/Central_Regions/), [Western Drehmal](/World/Central_Regions/) (other than southwest), Islands of [[Island of Dawn|Dawn]] and [[Island of Dusk|Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood ([[North Heartwood|North]] and [[South Heartwood|South]])
 > - **Capital City:** [[Av'Sal]]
 > - **Form of Government:** Empire (ruled by an emperor and a senate)
 > - **Rulers:** [[Drehn|Drehn Mal'Sohm]], [[Ifeihl|Zorhis Ifeihl]], [[Anyr|Uffeihl Anyr]]
 > - **Religion:** Worship of [[Drehmal]] (or [[Virtuo]], depending on region)
+
+</div>
+
+1. An official timeline from [[Drehmal v21|version 2.1]] gives the date of Avsohm's founding as Av2 1535, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.
 
 ![[Av21800.png]]
 > A speculative map showing the realm in ~Av2 1800, at the height of the empire's power.
@@ -185,5 +191,3 @@ Avsohm's remaining facilities are often the main story locations which the playe
 !!! info "Main Article: [[Fall of Avsohm]]"
 
 Avsohm's demise was swift and brutal, leaving an incredibly confused populace in its wake. One day in Av2 1820, a massive storm began to envelop the realm, originating from Mt. Yavhlix. About 75% of Avsohm's officers and government leaders disappeared under mysterious circumstances over the course of a single day, and key buildings that held up the empire's infrastructure were riddled with holes, with varying accounts of the collapse. In the wake of the chaos, [[Maelihs]] invaded and razed Sal'Anyr, and began the years-long reconquest of the West that would come to be known as the [[Dune Wars]].
-
-[^1]: An official timeline from [[Drehmal v21|version 2.1]] gives the date of Avsohm's founding as Av2 1535, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.

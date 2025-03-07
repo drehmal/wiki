@@ -1,10 +1,16 @@
 # Chosen Kingdom
 
-> - **Duration:** c. Av2 1200 - c. Av2 1550[^1]
+<div class="annotate" markdown>
+
+> - **Duration:** c. Av2 1200 - c. Av2 1550 (1)
 > - **Location:** Central Plains ([[Capital Valley]] and [[Gulf of Drehmal]])
 > - **Capital City:** [[Drabyel]]
 > - **Form of Government:** Monarchy (ruled by the Chosen King)
 > - **Rulers:** [[Drehn]] Mal'Sohm (final king)
+
+</div>
+
+1. An official timeline from [[Drehmal v21|version 2.1]] places the creation of the Chosen Kingdom in Av2 1280 and its transition into the Avsohmic Empire in Av2 1535, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.
 
 The Chosen Kingdom was a kingdom located in the Central Plains during the Second Avihm, and the direct predecessor to the [[Avsohm|Avsohmic Empire]]. 
 
@@ -26,5 +32,3 @@ Little is known about the full history of the Chosen Kingdom, but some details o
 The Chosen Kingdom, being in the center of the continent during the Second Avihm, practiced worship of [[Drehmal]]. They notably ousted a group of "Lunar Necromancers" from their kingdom in Av2 1383, who would go on to settle in [[Lorahn'Kahl]] and create the [[Tri-Moon Theocracy]].
 
 The Chosen Kingdom seems to have had an extremely powerful aristocracy, as one of the reasons Drehn is stated to have turned down the crown was the influence of the wealthy on its government. In [[A Retrospective]], [[Thresa Vera]] mentions that her family was one of the original five wealthiest houses in the Chosen Kingdom, showing that the powerful and wealthy families in the Kingdom maintained their influence well into the reign of Avsohm.
-
-[^1]: An official timeline from [[Drehmal v21|version 2.1]] places the creation of the Chosen Kingdom in Av2 1280 and its transition into the Avsohmic Empire in Av2 1535, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.

@@ -22,12 +22,13 @@ The other known sighting of the Skullmother outside Mael's central regions was t
 
 It seems from this description that the Mother produced and dropped an actual bomb, possibly a specialized Skullbeast.
 
-For many centuries after this event, the Skullmother was kept in captivity by Maelihs's forces, occasionally being used to deploy more Skullbeasts. As the [[Battle for Drehmal|war]] with [[Insohm]] grew more serious towards the end of the Third Avihm, the [[Burnt Generals]] urged Mael to deploy the Mother again, but his guilt prevented him from doing so. In Av3 687[^1], Maelihs, acting alone, set the Skullmother free into the southwestern ocean, watching her swim away for good.
+For many centuries after this event, the Skullmother was kept in captivity by Maelihs's forces, occasionally being used to deploy more Skullbeasts. As the [[Battle for Drehmal|war]] with [[Insohm]] grew more serious towards the end of the Third Avihm, the [[Burnt Generals]] urged Mael to deploy the Mother again, but his guilt prevented him from doing so. In (1) Av3 687, Maelihs, acting alone, set the Skullmother free into the southwestern ocean, watching her swim away for good.
+{ .annotate }
+
+1. Disputed date, as this source ([[Dahroc's Notes]]) has had its date consistency with other late Av3 sources heavily called into question.
 
 While the Mother's current whereabouts are unknown, the [[Artifacts#Disciple's Greaves|Disciple's Greaves]] at the [[Birthing Grounds]] suggest she is "away at the edge of the world". This could be interpreted to mean that she swam/flew away to the southern edge of the [[disc]] from the Hellcrags, or that she swam to the western edge, and is now somewhere in Western [[Xivrhynt]].
 
 ## Extras
 
 A massive field of magma blocks in the shape of a manta ray is found in the blackened southern portion of [[Anyr'Nogur]], possibly a spot where the Mother sat before the invasion of Sal'Anyr. The field holds the [[Artifacts#Absolute Ruin|Absolute Ruin]] artifact, a clear Skullmother reference.
-
-[^1]: Disputed date, as this source ([[Dahroc's Notes]]) has had its date consistency with other late Av3 sources heavily called into question.

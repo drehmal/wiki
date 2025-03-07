@@ -78,7 +78,10 @@ This form of the spear has increased base damage, no movement speed, and the Cor
 
 It seems that the durability damage to this Mythbreaker causes the Core Collapse ability to be interrupted, making it difficult to complete this attack during its designated sequence. However, the cooldown time for the ability is shortened to as little as 15 seconds if the player does not fully complete the attack.
 
-It is also a known bug that Core Collapse may not be able to fire if the player has something else in their offhand, such as a shield.[^1]
+It is also a known bug that Core Collapse may not be able to fire if the player has something else in their offhand, such as a shield. (1)
+{ .annotate }
+
+1. This bug has reportedly been fixed in the past, but is still present in the current (September 2024) version of Drehmal 2.2.1. It may be fixed in the future.
 
 Using the Charged Mythbreaker for its intended purpose at the end of the run will successfully finish the sequence, unlocking a late-game area and removing the weapon from the player's inventory.
 
@@ -133,6 +136,3 @@ The True Mythbreaker is presented to the player during the return to the [[Stasi
 This version of the Mythbreaker is presented to the player directly by [[yellow|The Mythoclast]], just before entering the [[Court of Nothing]]. Like its creator (and the vast majority of the lore surrounding Drehmal's end-game), its exact nature is unclear, although it is almost certain that this spear is not the truest form of the weapon, more akin to a replica created by an incredibly powerful being.
 
 The weapon itself may or may not even truly exist, as hinted at by the Mythoclast's [[End-Game_Dialogue.md|dialogue]]. If the mural of the Mythoclast is to be taken literally (which is suggested to not be the case), then the spear may actually be the tail of the Mythoclast himself, which Avsohm saw and misinterpreted as a spearhead. Even this may be an oversimplification, as the Mythoclast may not even have a true form. However, it does appear that the being and the weapon are fundamentally connected somehow, as the name "Mythoclast" can be literally interpreted as "Mythbreaker," with the root "-clast" meaning "to break."
-
-
-[^1]: This bug has reportedly been fixed in the past, but is still present in the current (September 2024) version of Drehmal 2.2.1. It may be fixed in the future.

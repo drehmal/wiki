@@ -55,6 +55,7 @@ The monastery also very prominently holds the only known writing of [[Akim]], st
 
 ### Trivia
 
-Teiruun Monastery was built by developers DomeMaster and Yllusive in December 2020[^1], following their [[Emperor's Estate]] build implemented in [[Drehmal v21|version 2.1]]. Following this build, these two were formally invited to join the dev team, beginning the significant increase of the team's size for the 2.2 dev cycle.
+Teiruun Monastery was built by developers DomeMaster and Yllusive in December 2020 (1), following their [[Emperor's Estate]] build implemented in [[Drehmal v21|version 2.1]]. Following this build, these two were formally invited to join the dev team, beginning the significant increase of the team's size for the 2.2 dev cycle.
+{ .annotate }
 
-[^1]: Source: [Dev Blog - "The Future of Drehmal"](https://www.drehmal.net/post/the-future-of-drehmal)
+1. Source: [Dev Blog - "The Future of Drehmal"](https://www.drehmal.net/post/the-future-of-drehmal)

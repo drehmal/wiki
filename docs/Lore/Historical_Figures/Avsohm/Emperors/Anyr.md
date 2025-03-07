@@ -53,7 +53,7 @@ Over the course of his reign, Anyr also won over favor and continuously centrali
 
 While he was emperor, Anyr took at least two wives, named Elzahra and Azehl, and had a daughter named Anyra by one of them. Anyra was still a child at the time of the empire's fall.
 
-### Project Apotheosis
+### Late Reign
 
 --8<-- "spoiler.md"
 

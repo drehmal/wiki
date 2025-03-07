@@ -51,4 +51,4 @@ The empire's might allowed it to easily incorporate the Heartwood and most [West
 
 ### Resignation and Later Life
 
-After what can assumed to be more than a century of rule, Drehn Mal'Sohm [[avsal_domepolitic.md|announced his resignation]] from his role as emperor. He expressed that he was getting old and wished to rest. An election was held to determine the new emperor, which was won by the popular candidate [[Zorhis Ifeihl]]. Drehn died of natural causes some time later, before the [[Fall of Avsohm|end of the empire]].
+After what can assumed to be more than a century of rule, Drehn Mal'Sohm [[avsal_domepolitic.md|announced his resignation]] from his role as emperor. He expressed that he was getting old and wished to rest. An election was held to determine the new emperor, which was won by the popular candidate [[Ifeihl|Zorhis Ifeihl]]. Drehn died of natural causes some time later, before the [[Fall of Avsohm|end of the empire]].

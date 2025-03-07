@@ -77,6 +77,6 @@ Parts of this plan were indeed implemented. Beginning around the 75% mark, playe
 
 Project Apotheosis was put on indefinite hold, however, due to the issue of charging the Mythbreaker. Using the tear at [[Mt. Yavhlix]] would almost certainly collapse the energy grid for the entire continent, and their other option, the [[Numencore]], would incur the wrath of [[Khive|Mystic Elder Khive]]. Avsohm continued to bide their time, waiting until the God Machine was ready to ascend Anyr, so that he could do battle with Khive, Maelihs, and any other higher beings that might stand in their way.
 
-This plan was not enacted as initially intended. On the day that would be the empire's fall, the God Machine was activated, and claimed to succeed, but Anyr died on its throne regardless. The other facilities, not expecting the machine to be activated, lost power and were isolated from one another, as mysterious forces crept into the realm to [[Fall of Avsohm|punish the empire for its hubris]]. 
-
-Anyr's corpse would sit atop the God Machine for over a thousand years, where he is found in the end-game sequence.
+??? danger "Final Outcomes (END-GAME SPOILERS)"
+    This plan was not enacted as initially intended. On the day that would be the empire's fall, the God Machine was activated, and claimed to succeed, but Anyr died on its throne regardless. The other facilities, not expecting the machine to be activated, lost power and were isolated from one another, as mysterious forces crept into the realm to [[Fall of Avsohm|punish the empire for its hubris]]. <br> <br>
+    Anyr's corpse would sit atop the God Machine for over a thousand years, where he is found in the end-game sequence.

@@ -2,8 +2,8 @@
 
 <div class="annotate" markdown>
 
-> - **Life Duration:** (Unknown year, probably Av2 1500s or early Av2 1600s) (1) - ???
-> - **Reign Duration:** (Unknown year, probably late 1600s or early Av2 1700s) - (Unknown year, probably mid Av2 1700s)
+> - **Life Duration:** (Unknown year, probably Av2 1500s or early Av2 1600s) - ???
+> - **Reign Duration:** (Unknown year, probably late 1600s or early Av2 1700s) (1) - (Unknown year, probably mid Av2 1700s)
 
 </div>
 

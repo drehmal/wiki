@@ -60,6 +60,8 @@ Some of the most infamous criminals in Tehrmari history were imprisoned here, in
 
 The **Heart of the Tempest** is the massive orb in the sky, which all of the clouds and islands in the region seem to be orbiting. The Heart can be accessed through a small tunnel in its northern face, which can be glided to from a tower in the north, as hinted at by the "[[The Dragonbones Stir]]" book. 
 
+![[palaesida_skeleton.png]]
+
 Inside this structure, players will find the skeleton of [[Palaesida]], as well as a chest which contains the [[Thundercrux]] legendary item.
 
 **Coordinates:** (X: 458, Y: 140, Z: 427)

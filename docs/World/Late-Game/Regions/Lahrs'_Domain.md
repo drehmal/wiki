@@ -73,3 +73,9 @@ Sparingly little is known about the history of Lahrs' Domain, although it is hom
 [[Lopaja Town]] is the lone settlement in Lahrs' Domain, located in the northeastern corner of the region. It is home to [[Tehrmari]] villagers, and contains [[Poorly-Written Notes|one book]], which attempts to explain the concept of resonance, the domain of its regional patron.
 
 **Coordinates:** (X: 538, Y: 71, Z: -1378)
+
+## Extras
+
+### Trivia
+
+All of Lahrs' domain seems to take some inspiration from the *Pokemon* franchise. The Larvolve, Putate, and Cyclofly mobs follow an evolutionary path similar to those found in Pokemon, and the Larvolve mob is referred to in the datapack as "kakunalarva", referencing the [Kakuna](https://bulbapedia.bulbagarden.net/wiki/Kakuna_(Pok%C3%A9mon)) Pokemon. Furthermore, Lopaja Town follows the naming conventions of Pokemon towns.

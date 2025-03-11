@@ -20,6 +20,8 @@
 | **Water Color**      | Blood Red    |
 | **Sky Color**        | White/Gray     |
 
+Grass blocks appear jet black if placed in the biome, but are not naturally a part of the terrain.
+
 ## Geography
 
 Voynahla's Domain is set within a large depression, almost entirely below y=30, and is made up of rolling black hills and a massive red river/lake. The only vegetation comes in the form of fleshy, red and white flowers, which either grow out of the ground or emerge from the many tombstones that dot the landscape. Other bone block structures are also found in this region, loosely resembling reeds or saplings of some sort.
@@ -58,7 +60,7 @@ Despite its inhospitable appearance, it seems that Voynahla's Domain was populat
 
 ### Cathedral
 
-In the center-west of the region, a massive black and red cathedral sits perched upon a hill. This structure is home to a miniboss, Conservator Ulvahn, who guards the [[Artifacts#Sepelitem|Sepelitem]] artifact, a celestial shovel which was used to bury the Aspect of Death's physical remains, then again to exhume his skull.
+In the center-west of the region, a massive black and red cathedral sits perched upon a hill. This structure is home to a miniboss, Conservator Ulavahn, who guards the [[Artifacts#Sepelitem|Sepelitem]] artifact, a celestial shovel which was used to bury the Aspect of Death's physical remains, then again to exhume his skull.
 
 **Coordinates:** (X: 325, Y: 70, Z: 980)
 

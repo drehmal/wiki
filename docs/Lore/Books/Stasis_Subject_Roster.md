@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in an item frame in the [[Stasis Facility]], listing the twenty-four high-ranking Avsohmic officials who were kept in temporal stasis pods in this facility. Players may spawn in any of the eight chambers on the lower floor, numbered #1-8, effectively taking up the character of any of the [first eight people listed](Lore/Historical_Figures/Avsohm/Stasis_Eight/). Some other names listed are mentioned in the lore of the map, but are not playable.
+This book can be found in an item frame in the [[Stasis Facility]], listing the twenty-four high-ranking Avsohmic officials who were kept in temporal stasis pods in this facility. Players may spawn in any of the eight chambers on the lower floor, numbered #1-8, effectively taking up the character of any of the [first eight people listed](/Lore/Historical_Figures/Avsohm/Stasis_Eight/). Some other names listed are mentioned in the lore of the map, but are not playable.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

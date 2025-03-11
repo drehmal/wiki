@@ -1,6 +1,6 @@
 # Legendary Items
 
-**Legendary Items** are rare, powerful items that can be found throughout the map, typically in locations that are pertinent to the history of the world, heavily guarded, difficult to reach, or some combination thereof. Legendary items are one tier below [Mythical Weapons](Items/Mythical_Weapons/), but are significantly stronger than any vanilla gear and the vast majority of [[Artisan Items|artisan items]] or [[artifacts]]. 
+**Legendary Items** are rare, powerful items that can be found throughout the map, typically in locations that are pertinent to the history of the world, heavily guarded, difficult to reach, or some combination thereof. Legendary items are one tier below [Mythical Weapons](/Items/Mythical_Weapons/), but are significantly stronger than any vanilla gear and the vast majority of [[Artisan Items|artisan items]] or [[artifacts]]. 
 
 Legendary items have their own item descriptions, sprites, stat modifiers and unique special abilities. Most legendaries can take normal durability damage, but they can also be repaired or re-crafted.
 

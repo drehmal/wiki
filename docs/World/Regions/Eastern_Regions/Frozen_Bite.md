@@ -56,7 +56,7 @@ Hidden between mountains on the Frozen Bite's east coast is an [[Nihilist's Cabi
 
 ### Shivering Pines Inn
 
-Shivering Pines Inn is a large lodge and brewery, founded and run by Ga'ran and Elmlhi. Despite its desolate location, it attracts attention for its specialty drink, Logger's Lager. A [[Runic Blacksmith]] is positioned by a tent outside its front door.
+[[Shivering Pines Inn]] is a large lodge and brewery, founded and run by Ga'ran and Elmlhi. Despite its desolate location, it attracts attention for its specialty drink, Logger's Lager. A [[Runic Blacksmith]] is positioned by a tent outside its front door.
 
 **Coordinates:** (X: 4880, Y: 102, Z: -3359)
 

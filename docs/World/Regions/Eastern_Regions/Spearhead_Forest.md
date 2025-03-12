@@ -76,7 +76,7 @@ The [[Insohmic Library]] Tower is a small, stone tower that stands on an island 
 
 ### Lily Meadows Inn
 
-Lily Meadows Inn is a colorful inn in central Spearhead Forest, on a small island amidst a large lake with giant lilypads and flowers. It contains many rooms and a restaurant, along with several traders. The game's most popular food vendor among community members is found here.
+[[Lily Meadows Inn]] is a colorful inn in central Spearhead Forest, on a small island amidst a large lake with giant lilypads and flowers. It contains many rooms and a restaurant, along with several traders. The game's most popular food vendor among community members is found here.
 
 **Coordinates:** (X: 3707, Y: 66, Z: 901)
 

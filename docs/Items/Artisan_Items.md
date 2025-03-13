@@ -893,7 +893,7 @@ The town of Schlonko is home to a Runic Blacksmith who sells the following two a
 | **Lore** | Even Avsohm never managed to make a runeless shield with such strong aerodynamic properties that its wielder actually gained speed. The only Drehmari to ever achieve this lives in Schlonko.    |
 | **Cost** | 18 Scales    |
 
-### [[Frozen Bite#Shivering Pines Inn|Shivering Pines Inn]]
+### [[Shivering Pines Inn]]
 The Runic Blacksmith at this location is found in a tent just outside the inn, at **(4876, 101, -3375)**.
 
 **When the Bough Breaks:**

@@ -1,12 +1,10 @@
 # The Unknown Librarian (2.2 Beta Teaser Dialogue)
 
-!!! warning "This page contains dialogue which was released on the Drehmal: Primordial Discord prior to the release of the 2.2 Beta."
-
-!!! warning "While it does not itself contain any spoilers, an interpretation of its lore implications is found at the end of this page, which does mention some very spoiler-y end-game characters."
-
 From August 16-19, 2023, these messages were posted by a Discord user called "???," with the username "the_unknown_librarian." This user had joined the server in April of 2021, has a unique "Visitor" role, and for years, had only sent the following 17 messages, all in the official Announcements channel.
 
 The final message was followed by the official announcement of the Drehmal: Apotheosis Public Beta, 19 minutes later, on August 19, 2023.
+
+No clear explanation for the Unknown Librarian's identity or the meaning behind this series of messages has been given.
 
 > Ah.
 >
@@ -41,9 +39,3 @@ The final message was followed by the official announcement of the Drehmal: Apot
 > Whenever you have your answer, I won’t be far away. I await your discoveries with bated breath.
 >
 > Good luck, sleepyhead.
-
-!!! danger "Alright, NOW come the potential spoilers."
-
-!!! danger "![Spoiler Door](/assets/img/spoiler_door.png)"
-
-This dialogue has been hypothesized amidst the community to be coming from the [[Emissary of the Void]], possibly when he was sent to sabotage the [[Stasis Facility]].

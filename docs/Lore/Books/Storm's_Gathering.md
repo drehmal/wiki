@@ -3,7 +3,7 @@ tags:
   - Books
 ---
 
-This book can be found in a chest in [[Frozen Bite#Shivering Pines Inn|Shivering Pines Inn]].
+This book can be found in a chest in [[Shivering Pines Inn]].
 
 ## Coordinates
 | **X** | **Y** | **Z** |

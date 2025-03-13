@@ -1679,10 +1679,16 @@ These artifacts can be found at any time through exploration of the continent of
 
 ### Slime Chrysalis
 
+??? note "2.2.2 Changes"
+    In version 2.2.2, this object had the following changes made: <br>
+    - All existing bonuses increased from +3% to +4% <br>
+    - Added +4% bonuses for Attack Knockback, Knockback Resistance, Armor, and Armor Toughness <br>
+    - Added Custom Texture
+
 |             |                                                                         |
 | ----------- | ----------------------------------------------------------------------- |
 | **Base Item**   | Slime Ball                                                              | 
-| **Bonus Stats** (Off-Hand) | +3% Max Health, +3% Movement Speed, +3% Attack Damage, +3% Attack Speed |
+| **Bonus Stats** (Off-Hand) | +4% Max Health, +4% Movement Speed, +4% Attack Damage, +4% Attack Speed, +4% Attack Knockback, +4% Knockback Resistance, +4% Armor, +4% Armor Toughness |
 
 |            | **Lore and how to Obtain**                                                                                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1881,10 +1887,15 @@ These artifacts can be found at any time through exploration of the continent of
 
 ### Talisman of Endless Growth
 
+??? note "2.2.2 Changes"
+    In version 2.2.2, this object had the following changes made: <br>
+    - Increased Armor Toughness bonus from +10% to +25% <br>
+    - Added Custom Texture
+
 |             |                                  |
 | ----------- | -------------------------------- |
 | **Base Item**   | Green Dye                        |
-| **Bonus Stats** (Off-Hand) | +25% Armor, +10% Armor Toughness |
+| **Bonus Stats** (Off-Hand) | +25% Armor, +25% Armor Toughness |
 
 |            | **Lore and how to Obtain**   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1993,10 +2004,15 @@ These artifacts can be found at any time through exploration of the continent of
 
 ### Vikhtor's Spoils
 
+??? note "2.2.2 Changes"
+    In version 2.2.2, this object had the following changes made: <br>
+    - Reduced Max Health penalty from -8 to -6 <br>
+    - Added Custom Texture
+
 |          |                                     |
 | -------- | ----------------------------------- |
 | **Base Item** | Fishing Rod                           |
-| **Bonus Stats (Off-Hand)** | -8 Max Health <br>+0.03 Movement Speed |
+| **Bonus Stats (Off-Hand)** | -6 Max Health <br>+0.03 Movement Speed |
 
 |            | **Lore and how to Obtain**    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2028,12 +2044,17 @@ These artifacts can be found at any time through exploration of the continent of
 | **Lore**   | A pure white shortbow, fabled weapon of an old Virmari hero. During the Deity Wars, they were one of Virtuo's greatest crusaders against Maelihs and his armies. Though their name was forgotten, their heroics became the spirit of the Empire of Vir. |
 | **Obtain** | Located in the Virmari Crypt in the far northeastern extent of Virtuo's Aegis, the primary eastern mountain range. Chest located at **(4740, 126, -1169)** |
 
-### \_\_\_\_\_\_\_\_\_\_\_\_
+### \_\_\_\_\_\_\_\_\_\_\_\_ (Unnamed)
+
+??? note "2.2.2 Changes"
+    In version 2.2.2, this object had the following changes made: <br>
+    - Increased Max Health boost from +30 to +40 <br>
+    - Added Custom Texture
 
 |             |                                                                            |
 | ----------- | -------------------------------------------------------------------------- |
 | **Base Item**   | Charcoal                                                               |
-| **Bonus Stats** (Off-Hand) | +30 Max Health, -70% Movement Speed, -90% Attack Damage, -90% Attack Speed |
+| **Bonus Stats** (Off-Hand) | +40 Max Health, -70% Movement Speed, -90% Attack Damage, -90% Attack Speed |
 
 |            | **Lore and how to Obtain**                                         |
 | ---------- | ------------------------------------------------------------------ |

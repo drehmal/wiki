@@ -4,7 +4,8 @@
 
 --8<-- "equipment_spoiler.md"
 
-![[zenith_sword.png]]{ align=left width="315"} ![[zenith_gun.png]]{ align=right width="315" }
+![[zenith_sword.png]]{ align=left width="300"} <br>
+![[zenith_gun.png]]{ align=left width="300" }
 
 **Zenith** is one of 8 Mythical Weapons obtainable in Drehmal: Apotheosis.
 

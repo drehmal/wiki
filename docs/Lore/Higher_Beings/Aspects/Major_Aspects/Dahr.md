@@ -96,7 +96,7 @@ Dahr is a very important figure to Lo'Dahr, where much of the late-game takes pl
 
 ![[ytaj_statue_dahr.png]]
 
-Dahr is referenced many times in [[Ytaj]], having a secondary devotion site and [[Ytaj#Dahr's Room|a large room]] in the palace complex. The statue pictured above is also found here, wielding a large bident. Dahr is referenced as one of the few Aspects who still makes frequent physical visits to the palace.
+Dahr is referenced many times in [[Ytaj]], having a secondary devotion site and [[Ytaj#Dahr's Room|a large room]] in the palace complex. The statue pictured above is also found here, wielding a large [bident](https://en.wikipedia.org/wiki/Bident). Dahr is referenced as one of the few Aspects who still makes frequent physical visits to the palace.
 
 [[Dahr's Domain]] is one of the largest biomes on the moon, encompassing a significant amount of the moon's southwest. Dahr offers one of the six [trials](/World/Late-Game/Points_of_Interest/Trials/) at the [[Abyssal Rise]] in this region, and his ancient challenge at [[Challenger's Grotto]] still waits to be completed.
 

@@ -149,7 +149,7 @@ From this point, the player is offered a dialogue tree, with five major conversa
 >
 > [Maelihs] Especially not in the presence of... outsiders, such as yourself.
 >
-> [Maelihs] Especially not since the death of their dear Greatbeast.
+> [Maelihs] Not since the schism. Especially not since the death of their dear Greatbeast.
 >
 > [Player] The schism?
 >

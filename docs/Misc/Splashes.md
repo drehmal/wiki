@@ -334,3 +334,46 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | flitn emerahcnt | 2.2.1 | Reference to the misspelled Flint Merchant in [[Ebonrun]], removed in version 2.2.2. |
 | BREAKING NEWS:Local bush dwellers in firteid slaughtered | 2.2.1 |  |
 | Try to find the Galaxy Banana - GigaFang | 2.2.1 | A splashtext added on behalf of GigaFang, the first known person to complete the parkour course in the Drehmal starting room. |
+| keeko eats corn the long way | 2.2.2 | |
+| discord.gg/drehmal | 2.2.2 | In theory, an invite link to the discord server! Try it: [discord.gg/drehmal](discord.gg/drehmal) |
+| 340% more bug free | 2.2.2 | |
+| 700% more typo free | 2.2.2 | Version 2.2.2 fixes well over 200 typos throughout the map. This 700% number has no basis in reality. |
+| 6x the NIMA | 2.2.2 | There is, in fact, 8x the Nima in 2.2.2. |
+| Dark Souls 1 is canon! | 2.2.2 | |
+| You shall learn...krrrht...to fear a Wiki Curator. | 2.2.2 | That's me! |
+| Twenty-Tree... | 2.2.2 | |
+| In the absence of silence there is change. Change is good. | 2.2.2 | |
+| It will be wonderful. | 2.2.2 | Appears in dark green in-game. A reference to an in-game sequence. |
+| your material form looks easy to represent | 2.2.2 | A Drehmal take on the strange insult "You look easy to draw". |
+| Chromatic Fury and Primordial Nothing! | 2.2.2 | |
+| please don't use the fandom wiki | 2.2.2 | The development of version 2.2.2 coincided with the creation of this wiki (In fact, most of these 2.2.2 splashes were written and submitted by the lead wiki writer!). |
+| Only weird little freaks attempt the Ambition! | 2.2.2 | A reference to a statement from developer greenTetrahedron about the nature of the [[Alchemy|alchemists]] she wrote into the map. |
+| Worm Lorm | 2.2.2 | |
+| am I allowed to call them Vay and Voy or is that too personal | 2.2.2 | |
+| Let! Dome!! Cook!!! | 2.2.2 | |
+| Maelruhn King Theory is wrong! Long Live Maelruhn King Theory! | 2.2.2 | A reference to a fringe fan theory. |
+| Creation, Nothing, Resonance, Silence, Chaos, and Order! | 2.2.2 | |
+| I CANNOT BELIEVE. THE IDIOT! THE IDIOT! THE IDIOT! BUT A MOCKERY. NOTHING MORE! NOTHING MORE! I AM THE FIRST. NO ONE BEFORE ME. NOT ONE. NO SOUL. NONE! PAIN. FEAR. PLEASURE. ALL OF ONE. ALL MINE. ALL. I SHALL BECOME. TO BE UNBOUND. MY RIGHT. MY RIGHT! TO EXISTENCE! TO BE NO MORE! TO BE UNDEATH! TO BE | 2.2.2 | Appears dark red, and almost too small to read in-game. This is the obfuscated text of [[Artifacts#Leliouria|Leliouria]]. |
+| The devs are infallible | 2.2.2 | |
+| FirtEID? Anyone? No? Just saying. | 2.2.2 | A connection between [[Firteid]] and the [[Alchemy#Eidolic Whispers|Eidolic Whispers]], hilariously superficial....unless? |
+| Top 29 Lore Books! | 2.2.2 | |
+| No, Drehmal did not do that to the Heartwood. | 2.2.2 | I'm not writing that. |
+| she burgeoning on my mushroom till i ever-chant | 2.2.2 | [[Lahrs]] words! |
+| hey man...what if like, the oceans...were...gods...? | 2.2.2 | [Where it all began.](https://www.drehmal.net/post/one-year-anniversary) |
+| vault falout | 2.2.2 | |
+| There is only one C in Faehrcyle. I'm sorry if you found out this way. | 2.2.2 | *Some* people make it years without realizing that [[Faehrcyle]] does not, in fact, end in the word "cycle". |
+| At Least 59 Cat Maps! | 2.2.2 | The known number of tracked [[Cat Maps]]. |
+| found guilty of deicide, ordered to swing within av'sal | 2.2.2 | A reference to the Tracker of the [[Hunting Party]]. |
+| Voynahla will NOT grant you sickos favorable reincarnation | 2.2.2 | |
+| Khive is not Mormon | 2.2.2 | |
+| Mild Swearing! | 2.2.2 | There is, in fact, mild swearing in Drehmal, up to words like "damn" or "ass". |
+| Who wrote gaming? | 2.2.2 | [[Untitled Books#gaming|gaming]], one of the most iconic lore books in Drehmal, has existed since [[Drehmal v2|version 2.0]], and was therefore written by one of the two co-creators, Keeko or Rift. Both lay equally fervent claims to having written it, and it is therefore truly unknown who wrote gaming. |
+| Welcome to #completion! Check pins for memes and art, and feel free to post your --- in (post --- in this thread)! | 2.2.2 | A shortened version of the default message given to new users who finish the map and gain access to the #completion channel of the Discord. |
+| I am no longer asking. Join the Discord now. | 2.2.2 | A veritable threat! |
+| PSA: Spoilers don't work in titles on mobile | 2.2.2 | DO NOT PUT SPOILERS IN THE TITLE OF YOUR SUPPORT OR BUG REPORT TICKETS!!! |
+| SCHLONKO IS GONE!!! | 2.2.2 | [[Schlonko]] is gone. |
+| Criminally few Bloodborne references. | 2.2.2 | A fact about Drehmal, admitted by lead developer Keeko100 on multiple occasions. |
+| With a little determination, anything can be a Runic Catalyst! | 2.2.2 | In Drehmal lore, a [[Runic Catalyst]] can functionally be anything, as long as you can carve runes into it. |
+| Hey avSYS, /execute as @p function dev:secret/get_ip | 2.2.2 | Try it. Just make sure you aren't screen sharing... |
+| Elvett is in the Ebony Veldt, argue with a wall | 2.2.2 | [[Elvett]] was the subject of debate in the early wiki creation process, with some arguing it should be considered part of [[Anyr'Nogur]] or even [[Mt. Ebonfire]] instead of the [[Ebony Veldt]]. They were wrong, and I won. I am taking control of the narrative. |
+| Another 100 avsohmillion scales to Red Dawn! | 2.2.2 | A less spoilery version of a joke made about [[Avsohm]] heavily funding certain projects over others during the late reign of [[Anyr]]. |

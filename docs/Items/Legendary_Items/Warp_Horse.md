@@ -32,7 +32,7 @@ Actually a set of two items, the Warp Horse legendary is a unique set of horse a
 The Warp Horse armor is an NBT-modified piece of diamond horse armor (1). Being horse armor, it is unbreakable.
 { .annotate }
 
-1. In version 2.2.2, the 
+1. In version 2.2.2, the base item was changed to leather horse armor, although its stats remain functionally the same.
 
 ![[warphorse_armor.png]]{ align=left width="300" }
 

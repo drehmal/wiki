@@ -294,7 +294,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Also try Elden Ring! | 2.2 |  |
 | CAN I GET A BUH LIGHT?! | 2.2 |  |
 | #DomeLeaks | 2.2 |  |
-| Now with alchemy! | 2.2 | Alchemy became a much more significant part of Drehmal's lore in 2.2, mostly due to the influence of developer greenTetrahedron. |
+| Now with alchemy! | 2.2 | [[Alchemy]] became a much more significant part of Drehmal's lore in 2.2, mostly due to the influence of developer greenTetrahedron. |
 | What’s Updog?  | 2.2 |  |
 | Waste of time, you should have been investing. | 2.2 | A rather infamous Reddit reply to co-creator Keeko100 on one of his viral posts about Drehmal v2.0 at launch. |
 | DEADHIOS  | 2.2 |  |

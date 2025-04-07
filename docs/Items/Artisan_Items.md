@@ -570,6 +570,7 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 
 |                     |                                                      |
 | ------------------- | ---------------------------------------------------- |
+| **Base Item**      | Leather Boots                                         |
 | **Armor**          | 1                                                     |
 | **Enchantments**   | Unbreaking III         |
 | **Bonus Stats**    | -4 Max Health <br>+0.015 Movement Speed |

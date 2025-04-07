@@ -5,7 +5,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | **Message** | **Version Added** | **Comments** |
 |:--------------------------------------------------:|:--------:|:---------------------------------------------------------------------------------------|
 | Baldeko Forever! | 2.1 | A mashup of "Balderich" and "Keeko", the two co-creators, into a ship name. |
-| FOBK | 2.1 | A long-running inside joke in the dev team/community, with some conflicting origin stories. |
+| FOBK | 2.1 | A long-running inside joke in the dev team/community. Originated when co-creators Rift and Keeko attempted to simultaneously spell out the words "FORTNITE" and "FUCK" in ice blocks, combining together into "FOBK". |
 | Keekich is Lame | 2.1 | A different, worse-sounding ship name. |
 | Land of the Rising Sahd | 2.1 | [[Sahd]] is heavily inspired by Japan, sometimes referred to as the "Land of the Rising Sun". |
 | Maelihs gets RIPPED! | 2.1 | A reference to a webcomic-style drawing of [[Maelihs]] from 2020. |
@@ -14,7 +14,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | When's the Beta? | 2.1 |  |
 | Who's Yellow? | 2.1 | A reference to an extremely prominent end-game character jokingly referred to as "[[yellow]]". |
 | Yellow's our favorite color! | 2.1 | Yellow is used to signify many of the most important and powerful forces in Drehmal, probably because the developers like yellow. |
-| Return to your Roots | 2.1 | ?? |
+| Return to your Roots | 2.1 | A reference for a hint given in an end-game quest in [[Drehmal v2|version 2.0]], concerning the [[Mythbreaker]]. |
 | Now canon! | 2.1 |  |
 | Simulation-free! | 2.1 | The original story of Drehmal v2 involved the player being in a simulation of the real Drehmal. This was scrapped in 2.1. |
 | The simulation has ended! | 2.1 | Same as above. |
@@ -33,7 +33,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Shoutout to Major! | 2.2 | A shoutout to Major_Lue, a developer who joined late in 2.2's development to help with logistics and the creation of the Drehmal installer. |
 | Calamity: Now with slightly less zoom! | 2.1 | [[Calamity]] grants the highest speed boost in the map when held, making it zoom the player's FOV out drastically if dynamic FOV effects are enabled. This effect was slightly dampened. |
 | Virtuo? More like... | 2.1 | a vague threat. |
-| Pig sus | 2.1 |  |
+| Pig sus | 2.1 | "Sus" is both the name of the genus that pigs belong to, and a hilarious Among Us reference. |
 | Ther Erldern Rerng... | 2.1 | A parody of Elden Ring, and the name of a joke item found in the map near the [[Highfall Tundra]]/[[Grand Pike Canyon]] border. |
 | Is Flammer fixed yet? | 2.1 |  |
 | Yo Maelihs chill | 2.1 |  |
@@ -132,7 +132,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Check out Maehrn'Vhos! | 2.1 | [[Maehrn'Vhos|Big Wall]] |
 | You actually play on Primzahl! | 2.1 | A reference to a crackpot theory that the player is actually on Primzahl, the ancient central continent that existed in Av1 before the [[Felling]]. |
 | I'm feeling like a purple pikmin! | 2.1 |  |
-| Fond of crows! | 2.1 |  |
+| Fond of crows! | 2.1 | Also found on a graveyard in [[Drabyel]]. |
 | Beheaded due to spelling error | 2.1 |  |
 | Dermarcus! | 2.1 | Mirrors a grave in [[Mossfield]], dedicated to one "Dehrmarcus" who was beheaded due to a spelling error. |
 | What's at the end of the tunnel? | 2.1 | There have been long, dark tunnels in all versions of Drehmal since v2, typically tied to [[Oblivion|a mythical weapon]]. |
@@ -190,12 +190,12 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | change da world... my final message... goodbye........ | 2.1  |  |
 | I'm a Witcher. | 2.1  |  |
 | They call me the nihilist. | 2.1 |  |
-| SPEEN! | 2.1 |  |
+| SPEEN! | 2.1 | A Vinny Vinesauce reference. |
 | Check out Red Vox! | 2.1 |  |
 | hey guys check out my vlog | 2.1 | i don't know whose vlog this is, i can't point you to it sorry :( |
 | I gotta go to work in the mornin man I gotta go....... | 2.1 |  |
 | YEOW | 2.1 |  |
-| BOONTI! BLEESE PLAY DEE EHM CEE TUO EES VRY GUD SCHUT GAEM DONTE HSA VRY CUUL JAYCKET | 2.1 | something about devil may cry 2 |
+| BOONTI! BLEESE PLAY DEE EHM CEE TUO EES VRY GUD SCHUT GAEM DONTE HSA VRY CUUL JAYCKET | 2.1 | A Vinny Vinesauce reference. |
 | The androgynous basement rat is kinda hot | 2.1 |  |
 | What the freaking heckydizzle?! | 2.1 |  |
 | The Immortal Land Salmon! | 2.1 | Powerscalers beware. |
@@ -313,7 +313,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Villager jumpscare! | 2.2 |  |
 | TRACYYYYYYY!!!!!!!!!!!!!!! | 2.2 |  |
 | Hahaha! I am Dahr! Water springs where I step!  | 2.2 |  |
-| Hey! No, it | 2.2 | A reference to a time that Keeko accidentally pinged the entire Discord server with the simply message "Hey, no it" by hitting the enter key too early on an announcement. |
+| Hey! No, it | 2.2 | A reference to a time that Keeko accidentally pinged the entire Discord server with the simple message "Hey, no it" by hitting the enter key too early on an announcement. |
 | "Hey kid, meet me under the Avsohmic pipe and getchaself a Weeg." | 2.2 | A reference to a certain bizarre loot item that can be found in an out-of-bounds bedrock box near the entrance to Mt. Yavhlix. |
 | 3689.82% More Code! | 2.2 | The **EXACT** increase in code from 2.1 to 2.2. |
 | Tethlaen is a feature! | 2.2 |  |

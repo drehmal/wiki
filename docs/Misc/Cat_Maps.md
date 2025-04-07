@@ -10,7 +10,7 @@ There are currently 59 known cat maps that can be found in the world. This list 
 
 ## Towns
 
-13 cat maps can be found in the major towns of [[Overworld|Drehmal]], including the only non-Priscilla cat map. The entries in these tables are numbered arbitrarily; they can be discovered in any order and are all a copy of the same item.
+13 cat maps can be found in the major towns of [[Overworld|Drehmal]]. The entries in these tables are numbered arbitrarily; they can be discovered in any order and are all a copy of the same item.
 
 | **Number** | **Town**                   | **Location Details**                                                                                                              | **Coordinates** | **Reachable?**  |
 |:----------:|:--------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:---------------:|

@@ -404,4 +404,4 @@ The following is a full list of all 376 known Runic Catalyst locations in Drehma
 
     After the player has reached 75% network linkage and completed the majority of that story location, they will be able to purchase unlimited Runic Catalysts at the avSYS Materials Exchange Unit on the [[Aphelion]] for 3 Iron Blocks and 1 Diamond each.
 
-[^1]: This description corresponds to the pre-2.2.2 location of this runic catalyst, which was completely hidden with no real indication that there was a catalyst there. As of the 2.2.2 update (beginning in late November 2024), this catalyst is found in an item frame in this cavern at (-36, 67, 514), which is visible through transparent ice blocks in the pond above.
+[^1]: This description corresponds to the pre-2.2.2 location of this runic catalyst, which was completely hidden with no real indication that there was a catalyst there. As of the 2.2.2 update, this catalyst is found in an item frame in this cavern at (-36, 67, 514), which is visible through transparent ice blocks in the pond above.

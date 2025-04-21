@@ -154,7 +154,7 @@ Drehmal has many custom items, most of which can be recovered if lost or destroy
 
 Some custom items, however, cannot be crafted or purchased again if lost. This includes [[Artifacts]], which have exactly one copy in the map and cannot be re-created if broken or lost, as well as [[Fervor Stones]]. Fervor Stones can be acquired using custom commands that are built in to the datapack, found at the end of [[Fervor Stones|their page]].
 
-Artifacts can be cheated back into the game using a `/give` command with the item's full NBT data, which will be a part of the default datapack starting in the 2.2.2 update. If your world download is on version 2.2.2 or higher, you can use the command `/function dev:give/` followed by the artifact's name. However, as of now, these simple commands do not exist, and players must create the /give command to restore their artifact (we have people in the Discord who can help with this). 
+Artifacts can be cheated back into the game using a `/give` command with the item's full NBT data, which is a part of the default datapack starting in the 2.2.2 update. If your world download is on version 2.2.2 or higher, you can use the command `/function dev:give/` followed by the artifact's name. However, on earlier versions, these simple commands do not exist, and players must create the /give command to restore their artifact (we have people in the Discord who can help with this). 
 
 [[Relics]] can also be obtained using a [[Trinkets#Relic Vessel|Relic Vessel]], by throwing one onto the altar of the relic's Deity/Aspect. Lost relics can also be cheated in using built-in `/function` commands. See [[Relics#Extras|this page]] for a full list of those commands.
 

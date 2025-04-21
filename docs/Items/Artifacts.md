@@ -782,7 +782,7 @@ These artifacts can be found at any time through exploration of the continent of
 ### Final Stand
 
 ??? info "2.2.2 Artifact"
-    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which has not yet been made the official version of Drehmal as of early January 2025.
+    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which did not become the official version of the map until April 2025.
 
 |               |               |
 | ------------- | ------------- |
@@ -1141,7 +1141,7 @@ These artifacts can be found at any time through exploration of the continent of
 ### Last Breath of a Stargazer
 
 ??? info "2.2.2 Artifact"
-    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which has not yet been made the official version of Drehmal as of early January 2025.
+    This artifact was added in the 2.2.2c testing patch, released through a manual download on December 21, 2024. It does not exist in worlds downloaded before this update, which did not become the official version of the map until April 2025.
 
 |               |               |
 | ------------- | ------------- |

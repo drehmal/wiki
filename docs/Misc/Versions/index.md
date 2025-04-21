@@ -56,15 +56,19 @@ Drehmal v2.2 (released with the subtitle: APOTHEΩSIS) was the most recent major
 - Expansion and re-building of all named ruins <br>
 - Over 100 new [lore books](/Lore/Books/) <br>
 - Removal of the Nether <br>
-- Addition of a full custom soundtrack
+- Addition of a full custom [[soundtrack]]
 
-### v2.2.1 (1.20.1, Current)
+### v2.2.1 (1.20.1)
 
 v2.2.1 is the initial 1.20.1 port of Drehmal v2.2, which also included a few balancing changes, bug fixes, and small pieces of content. 2.2.1 also added most vanilla items added in the 1.18, 1.19, and 1.20 updates to the map, albeit sometimes in minimal roles. 2.2.1 began as a fan-made port by tworoundcats, who was promoted to developer status after completing and presenting the port to the Drehmal dev team in the early summer of 2024.
 
-### v2.2.2
+### v2.2.2 (Current)
 
-v2.2.2 is the only version of the map currently in development, aimed at fixing several bugs and typos that have accumulated through late 2024. As of January 13, 2025, 2.2.2 is in late testing stages, and has not yet become the official version of Drehmal.
+v2.2.2 is the current version of the map as of April 15, 2025. It is primarily a polishing patch for the 1.20.1 port, fixing some issues that were not caught in the original porting process while also addressing other long-standing bugs, typos, and more.
+
+## v2.3 (Upcoming)
+
+Drehmal v2.3 is a partially-confirmed update currently in development as of April 2025, announced on the [five-year anniversary of Drehmal v2](https://www.drehmal.net/post/five-years-of-drehmal). Believed to be centered around bringing old points of interest and towns up to the 2.2 standard of quality, rather than adding significant new content, it is the only version of the map in active development at this time.
 
 ## v3 (April Fools)
 

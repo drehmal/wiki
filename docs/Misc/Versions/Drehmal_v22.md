@@ -2,9 +2,11 @@
 
 **Drehmal v2.2: APOTHEΩSIS** is the most recent major content update to Drehmal v2. Made over the course of more than three years by a greatly expanded team of over 15 developers, 2.2 is by far the largest content update for Drehmal.
 
-2.2 was released in beta form on August 19, 2023, and was fully released on April 5, 2024. It has since received one major update: version 2.2.1 on July 16, 2024, which ported the map to Minecraft 1.20.1.
+2.2 was released in beta form on August 19, 2023, and was fully released on April 5, 2024. It has since received two major updates.
 
-A second content update, 2.2.2, is currently in development, focusing primarily on bug fixes, typo fixes, and small content additions.
+Version 2.2.1, released on July 16, 2024, was the initial port of the map to Minecraft 1.20.1.
+
+A second update, 2.2.2, was officially released on April 15, 2025, acting as a more finalized and polished version of the 1.20.1 port, with some very small content additions.
 
 ## Development and Release Buildup
 
@@ -124,9 +126,13 @@ While the port to 1.20 does mean that blocks can now be placed as low as y=-64 a
 
 Read the official changelog for 2.2.1 [here](https://www.drehmal.net/post/drehmal-apotheosis-v2-2-1-changelog).
 
-### 2.2.2 Changes (Upcoming)
+### 2.2.2 Changes
 
-Version 2.2.2 (still in late development as of mid-January 2025) aims to serve as a polished final product of Drehmal: Apotheosis, seeking to fix almost all of the existing text errors and bugs in the map. It also adds a small amount of content, including a new secret advancement tied to a [[Aphelion|late-game story area]], three new [[artifacts]], an upgrade for the [[Artisan Items#Grimm Troupe|Nail]] artisan item, textures for a few select artifacts, and more.
+Version 2.2.2 aims to serve as a polished final product of Drehmal: Apotheosis, seeking to fix almost all of the existing text errors and bugs in the map. It also adds a small amount of content, including a new secret advancement tied to a [[Aphelion|late-game story area]], three new [[artifacts]], an upgrade for the [[Artisan Items#Grimm Troupe|Nail]] artisan item, textures for a few select artifacts, and more.
+
+The `doLimitedCrafting` gamerule is set to `true` by default in this version.
+
+Read the official changelog for version 2.2.2 [here](https://www.drehmal.net/post/drehmal-apotheosis-v2-2-2-changelog).
 
 ## How to Play
 

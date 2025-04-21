@@ -90,6 +90,7 @@ Besides the items belonging to the groups listed above, there are some other uni
 - Honey Roasted Potato - **\*An exquisite taste, unmatched by anything else... besides a normal baked potato, of course**.\* A baked potato that can be obtained from the Potato Connoisseur in [[Dusps]] in exchange for 2 scales.
 - Half-and-Half Milk - **\*It'll give you some strong bones**.\* A potion that grants Speed V for 15 seconds. Dropped after killing Jack Beanin'
 - Ther Erldern Rirng - A ring that has no use, found on a stone structure in the shape of an anvil, between the [[Grand Pike Canyon]] and [[Highfall Tundra]] regions. The Description reads:
+- Cursed Rod - A fishing rod enchanted with Lure VI, Unbreaking VII, and Luck of the Sea V, found in an otherwise inconspicuous shipwreck in the ocean far south of the [[South Heartwood]], at (1597, 22, 6008).
 
 > I derbt... yer cerld evern irmagirne irt.
 > Thart whirch commarnderd ther starrrs...

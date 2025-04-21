@@ -6,7 +6,7 @@
 
 !!! warning "This article will be split into sections, based on the potential spoiler content of that advancement section."
 
-Drehmal contains 216 total advancements, including a new set of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into Drehmal's original advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, Endermen are Primal Walkers).
+Drehmal contains 217 total advancements, including new sets of original advancements awarded for discovering new areas, acquiring unique items, and progressing through Drehmal's story. There are also vanilla Minecraft advancements present, but some have been removed, and others have been incorporated into Drehmal's original advancement tabs. Vanilla advancements that are still present are affected by the Drehmal resource pack, so the names of mobs and items appear in advancements as they do in Drehmal (for example, Endermen are Primal Walkers).
 
 Advancements are sorted into one of six (6) categories:
 
@@ -15,7 +15,7 @@ Advancements are sorted into one of six (6) categories:
 - ![Compass](/assets/img/adv/compass.webp){ width="24" } **Discoveries:** 78 advancements, unlocked by visiting significant locations. <br>
 - ![Oculus](/assets/img/oculus_of_nothing.png){ width="24" } **Primordial:** 29 advancements unlocked by completing tasks as part of the storyline. <br>
 - ![Amethyst](/assets/img/adv/amethyst_shard.png){ width="24" }**[REDACTED]:** 15 advancements from exploration and gameplay in a late-game area unlocked in the 75% completion event. <br>
-- ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - 7 secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.
+- ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="24" } **???:** - 8 secret advancements. The ??? tab is not revealed until one of these advancements is obtained. They require advanced knowledge of the map and its mechanics.
 
 **_Advancements written in bold and italics_** are initially hidden.
 
@@ -321,7 +321,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | Closure                            |  There is nothing left. - Paid your dues at the Final Grave                                 | Complete the story at the [[True End]].     |
 
 ### ![CSB](/assets/img/adv/chiseled_stone_bricks.png){ width="36" } Secret Advancements
-This section contains the 7 advancements on the secret tab.
+This section contains the 8 advancements on the secret tab.
 
 ??? danger "???: **Secret Advancements** (FULL END-GAME SPOILERS) - *Achievements for those who display a great understanding of Drehmal and mastery over the realm.*"
     |     **Advancement**                | **Description/Requirement**                                                                             |
@@ -333,6 +333,7 @@ This section contains the 7 advancements on the secret tab.
     | Emotional Binding                  | Bring more. Remove the risk. - Bind a Fervor Stone to a Mythical item.                                  |
     | Total Binding                      | Perfected. - Bind three Fervor Stones to a single Mythical item.                                        | 
     | And In The Light, Bind Them        | Oh, I shall be tempted. - Fully upgrade all eight Mythicals with Fervor Stones.                         |
+    | Coming In Hot! (2.2.2+)            | Through Fire and Through Ash - Survive a fiery descent into the atmosphere and crash down unscathed onto Lo'Dahr. <br> Requirement: Fall off of the [[Aphelion]] spacewalk section with at least 50 hearts' worth of health, activating a secret interaction in which you fall directly to the moon's surface and survive. |
 
 [^1]: This advancement is actually found in the Discoveries: Civilization branch, but is included here for spoiler reasons.
 [^2]: In version 2.2.1, this advancement reads "Trucks, tanks, planes, oh my gyatt!"

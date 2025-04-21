@@ -64,7 +64,7 @@ It is not known exactly when this challenge was issued, but per developer inform
 
 ### Known Issues
 
-The Vehrniis boss fight is known to be extremely laggy at times, making the boss move in a very slow and choppy manner as if the ticks per second have drastically dropped. This seems to be particularly prevalent in version 2.2.1, and there is no known simple fix. This issue has reportedly been fixed in later 2.2.2 versions, but experiences may vary.
+The Vehrniis boss fight is known to be extremely laggy at times, making the boss move in a very slow and choppy manner as if the ticks per second have drastically dropped. This is a known problem due to a change in how entity actions are read from the datapack between 1.17 and 1.20, making the original code behind the boss extremely inefficient on version 2.2.1 and above. This is not currently fixed in either version 2.2.1 or 2.2.2.
 
 ### Origin and Name
 
@@ -72,6 +72,9 @@ The Vehrniis was built off of an armor stand "worm" experiment built by Numbers,
 
 ### Soundtrack
 
-The soundtrack for the Vehrniis' boss battle is "What Lurks Below", by Drehmal composer Chris Nesja.
+The soundtrack for the Vehrniis' boss battle (1) is "What Lurks Below", by Drehmal composer Chris Nesja.
+{ .annotate }
+
+1. This is distinct from Bernice's theme song, which is "California Gurls" by Katy Perry.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cO8BawdA99Y?si=7yhNbokUMQ-8KxkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

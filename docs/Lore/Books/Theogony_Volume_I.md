@@ -19,7 +19,7 @@ This book, along with its other two volumes, can be found in a chest inside the 
 > ***
 > Virtuo, Lady of the Mirror
 >
-> Goddess of peace, purity, and perfection, Virtuo is the most widely-worshipped deity in the realm for good reason. Taking the form of a 12 foot-tall Drehmari with shimmering blue horns, she spent most of her time after the Deity War, which ended in Av2 1000, healing the sick and brokering peace between warring nations. Her Ascended peoples, the Virmari, are said to be incredibly beautiful beings of perfect symmetry, though very few remain. At the end of Av3, Virtuo and her all-Virmari Grand Parish suddenly disappeared, ending an era and sending much of the realm into mourning. Still, it seems clear that Virtuo is not dead, for her sacred lanterns still burn, and the remaining Virmari still perform the purifying rites. One day, perhaps, she will return.
+> Goddess of peace, purity, and perfection, Virtuo is the most widely-worshipped deity in the realm for good reason. Taking the form of a 12-foot tall Drehmari with shimmering blue horns, she spent most of her time after the Deity War, which ended in Av2 1000, healing the sick and brokering peace between warring nations. Her Ascended peoples, the Virmari, are said to be incredibly beautiful beings of perfect symmetry, though very few remain. At the end of Av3, Virtuo and her all-Virmari Grand Parish suddenly disappeared, ending an era and sending much of the realm into mourning. Still, it seems clear that Virtuo is not dead, for her sacred lanterns still burn, and the remaining Virmari still perform the purifying rites. One day, perhaps, she will return.
 > ***
 > Maelihs, Lord of the Burnt
 >

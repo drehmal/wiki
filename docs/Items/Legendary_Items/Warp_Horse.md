@@ -29,7 +29,12 @@ Actually a set of two items, the Warp Horse legendary is a unique set of horse a
 | **Obtain**                    | In the [[Exodus Vault]]'s southern garage.  |
 
 ## Gameplay
-The Warp Horse armor is an NBT-modified piece of diamond horse armor. Being horse armor, it is unbreakable.
+The Warp Horse armor is an NBT-modified piece of diamond horse armor (1). Being horse armor, it is unbreakable.
+{ .annotate }
+
+1. In version 2.2.2, the base item was changed to leather horse armor, although its stats remain functionally the same.
+
+![[warphorse_armor.png]]{ align=left width="300" }
 
 The armor provides a significant boost to all of the horse's stats. It adds 10 Max Health (5 Hearts), with horses having an average health value of about 22 (11 Hearts). It adds 0.1 Speed, which is a significant boost from any value in the horse's possible base range of 0.1125-0.3375 (0.225 on average). It also gives a Jump Strength boost of 0.1, which is a significant increase from the possible range of 0.4-1.0, adding approximately an extra half block of height clearance to the horse's jump. 
 
@@ -58,7 +63,5 @@ At the western end of the vault's main hallway/hangar, there are two garages on 
 The Warp Horse prototypes were developed by Naskiki, a [[Blue Exodus]] staffer at the Exodus Vault, as shown by the holotext they wrote. This holotext states that this was the very first use of alchemically enhanced animals in Avsohm's military.
 
 ## Extras
-![[warphorse_armor.png]]{ align=left }
 
-The Warp Horse armor does have a custom texture (shown here) in the Drehmal resource pack, but it is not implemented into the game itself.
-<br> <br> <br> <br> <br>
+The Warp Horse armor's custom texture has existed in the game files since the 2.2 betas, but was not actually used on the in-game sprite or model until version 2.2.2.

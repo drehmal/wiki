@@ -17,9 +17,9 @@ icon: material/home
   ![[primal_start.png]]{ width="800" }
 </figure>
 
-Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is [[Drehmal v22|v2.2.1: Apotheosis]], built for Minecraft Java Edition 1.20.1.
+Drehmal: Apotheosis is a Minecraft survival-adventure map that boasts a massive, rich open world with an original storyline, many custom gameplay features, expansive lore, and more! The most recent version of Drehmal is [[Drehmal v22|v2.2.2: Apotheosis]], built for Minecraft Java Edition 1.20.1.
 
-Our wiki is an effort to document Drehmal's wonders and provide a single centralized resource for help in navigating the map for new and experienced players alike. This project is spearheaded entirely by highly invested community members, in direct collaboration with the map's developers, helping us to be as thorough and comprehensive as possible.
+Our wiki is an effort to document Drehmal's wonders and provide a single centralized resource for help in navigating the map for new and experienced players alike. This project is spearheaded entirely by highly invested community members in direct collaboration with the map's developers, helping us to be as thorough and comprehensive as possible.
 
 [Official Drehmal Website (Map Download) :material-omega:](https://drehmal.net){ .md-button .md-button--primary }
 
@@ -56,8 +56,3 @@ At the top of your screen, you should see 6 main tabs besides the current one, w
 - **[:material-earth: World :material-earth:](/World/):** Lost in the expanse of the realm, or just want to read a bit about interesting locations? If it's a place you can visit in the map, and not a story location, you'll find it here! [World](/World/) is where you'll find pages relating to every part of the open world—that is, locations which are not explicitly part of the main story, including all [towns](/World/Settlements/) and non-story [points of interest](/World/Points_of_Interest/). [[Overworld|Drehmal (Location)]] is a great place to start if you're just looking to get an idea for how to start exploring the map, or how to navigate that section of the wiki. Also check out our [Drehmal Regions Overview](/World/Regions/), which contains a list of the world's regions! Region pages are intended to serve as a rough guide for exploration of an area, providing a list of major points of interest and giving you an idea for what to expect in that region. 
 
 Navigating through these tabs is the cleanest way to use this wiki, but there is also a built-in search function! Just be aware, this search bar will reveal **all** matches for a term, including matches for early-game terms on very late-game articles. Therefore, it is recommended that you stay away from that feature if you are at all concerned about spoilers. For your protection, some extremely spoiler-heavy end-game articles do not appear in search results, but can be found from the [Story Locations](/Story_and_Features/Story_Locations/) folder if you have reached that point and want to read about them.
-
-<!-- ## Important Articles
-Check out these articles to find your way around Drehmal and this wiki!
-
-todo: re-add once you know what to put here -->

@@ -5,7 +5,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | **Message** | **Version Added** | **Comments** |
 |:--------------------------------------------------:|:--------:|:---------------------------------------------------------------------------------------|
 | Baldeko Forever! | 2.1 | A mashup of "Balderich" and "Keeko", the two co-creators, into a ship name. |
-| FOBK | 2.1 | A long-running inside joke in the dev team/community, with some conflicting origin stories. |
+| FOBK | 2.1 | A long-running inside joke in the dev team/community. Originated when co-creators Rift and Keeko attempted to simultaneously spell out the words "FORTNITE" and "FUCK" in ice blocks, combining together into "FOBK". |
 | Keekich is Lame | 2.1 | A different, worse-sounding ship name. |
 | Land of the Rising Sahd | 2.1 | [[Sahd]] is heavily inspired by Japan, sometimes referred to as the "Land of the Rising Sun". |
 | Maelihs gets RIPPED! | 2.1 | A reference to a webcomic-style drawing of [[Maelihs]] from 2020. |
@@ -14,7 +14,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | When's the Beta? | 2.1 |  |
 | Who's Yellow? | 2.1 | A reference to an extremely prominent end-game character jokingly referred to as "[[yellow]]". |
 | Yellow's our favorite color! | 2.1 | Yellow is used to signify many of the most important and powerful forces in Drehmal, probably because the developers like yellow. |
-| Return to your Roots | 2.1 | ?? |
+| Return to your Roots | 2.1 | A reference for a hint given in an end-game quest in [[Drehmal v2|version 2.0]], concerning the [[Mythbreaker]]. |
 | Now canon! | 2.1 |  |
 | Simulation-free! | 2.1 | The original story of Drehmal v2 involved the player being in a simulation of the real Drehmal. This was scrapped in 2.1. |
 | The simulation has ended! | 2.1 | Same as above. |
@@ -33,7 +33,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Shoutout to Major! | 2.2 | A shoutout to Major_Lue, a developer who joined late in 2.2's development to help with logistics and the creation of the Drehmal installer. |
 | Calamity: Now with slightly less zoom! | 2.1 | [[Calamity]] grants the highest speed boost in the map when held, making it zoom the player's FOV out drastically if dynamic FOV effects are enabled. This effect was slightly dampened. |
 | Virtuo? More like... | 2.1 | a vague threat. |
-| Pig sus | 2.1 |  |
+| Pig sus | 2.1 | "Sus" is both the name of the genus that pigs belong to, and a hilarious Among Us reference. |
 | Ther Erldern Rerng... | 2.1 | A parody of Elden Ring, and the name of a joke item found in the map near the [[Highfall Tundra]]/[[Grand Pike Canyon]] border. |
 | Is Flammer fixed yet? | 2.1 |  |
 | Yo Maelihs chill | 2.1 |  |
@@ -132,7 +132,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Check out Maehrn'Vhos! | 2.1 | [[Maehrn'Vhos|Big Wall]] |
 | You actually play on Primzahl! | 2.1 | A reference to a crackpot theory that the player is actually on Primzahl, the ancient central continent that existed in Av1 before the [[Felling]]. |
 | I'm feeling like a purple pikmin! | 2.1 |  |
-| Fond of crows! | 2.1 |  |
+| Fond of crows! | 2.1 | Also found on a graveyard in [[Drabyel]]. |
 | Beheaded due to spelling error | 2.1 |  |
 | Dermarcus! | 2.1 | Mirrors a grave in [[Mossfield]], dedicated to one "Dehrmarcus" who was beheaded due to a spelling error. |
 | What's at the end of the tunnel? | 2.1 | There have been long, dark tunnels in all versions of Drehmal since v2, typically tied to [[Oblivion|a mythical weapon]]. |
@@ -190,12 +190,12 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | change da world... my final message... goodbye........ | 2.1  |  |
 | I'm a Witcher. | 2.1  |  |
 | They call me the nihilist. | 2.1 |  |
-| SPEEN! | 2.1 |  |
+| SPEEN! | 2.1 | A Vinny Vinesauce reference. |
 | Check out Red Vox! | 2.1 |  |
 | hey guys check out my vlog | 2.1 | i don't know whose vlog this is, i can't point you to it sorry :( |
 | I gotta go to work in the mornin man I gotta go....... | 2.1 |  |
 | YEOW | 2.1 |  |
-| BOONTI! BLEESE PLAY DEE EHM CEE TUO EES VRY GUD SCHUT GAEM DONTE HSA VRY CUUL JAYCKET | 2.1 | something about devil may cry 2 |
+| BOONTI! BLEESE PLAY DEE EHM CEE TUO EES VRY GUD SCHUT GAEM DONTE HSA VRY CUUL JAYCKET | 2.1 | A Vinny Vinesauce reference. |
 | The androgynous basement rat is kinda hot | 2.1 |  |
 | What the freaking heckydizzle?! | 2.1 |  |
 | The Immortal Land Salmon! | 2.1 | Powerscalers beware. |
@@ -294,7 +294,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Also try Elden Ring! | 2.2 |  |
 | CAN I GET A BUH LIGHT?! | 2.2 |  |
 | #DomeLeaks | 2.2 |  |
-| Now with alchemy! | 2.2 | Alchemy became a much more significant part of Drehmal's lore in 2.2, mostly due to the influence of developer greenTetrahedron. |
+| Now with alchemy! | 2.2 | [[Alchemy]] became a much more significant part of Drehmal's lore in 2.2, mostly due to the influence of developer greenTetrahedron. |
 | What’s Updog?  | 2.2 |  |
 | Waste of time, you should have been investing. | 2.2 | A rather infamous Reddit reply to co-creator Keeko100 on one of his viral posts about Drehmal v2.0 at launch. |
 | DEADHIOS  | 2.2 |  |
@@ -313,7 +313,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Villager jumpscare! | 2.2 |  |
 | TRACYYYYYYY!!!!!!!!!!!!!!! | 2.2 |  |
 | Hahaha! I am Dahr! Water springs where I step!  | 2.2 |  |
-| Hey! No, it | 2.2 | A reference to a time that Keeko accidentally pinged the entire Discord server with the simply message "Hey, no it" by hitting the enter key too early on an announcement. |
+| Hey! No, it | 2.2 | A reference to a time that Keeko accidentally pinged the entire Discord server with the simple message "Hey, no it" by hitting the enter key too early on an announcement. |
 | "Hey kid, meet me under the Avsohmic pipe and getchaself a Weeg." | 2.2 | A reference to a certain bizarre loot item that can be found in an out-of-bounds bedrock box near the entrance to Mt. Yavhlix. |
 | 3689.82% More Code! | 2.2 | The **EXACT** increase in code from 2.1 to 2.2. |
 | Tethlaen is a feature! | 2.2 |  |
@@ -334,3 +334,46 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | flitn emerahcnt | 2.2.1 | Reference to the misspelled Flint Merchant in [[Ebonrun]], removed in version 2.2.2. |
 | BREAKING NEWS:Local bush dwellers in firteid slaughtered | 2.2.1 |  |
 | Try to find the Galaxy Banana - GigaFang | 2.2.1 | A splashtext added on behalf of GigaFang, the first known person to complete the parkour course in the Drehmal starting room. |
+| keeko eats corn the long way | 2.2.2 | |
+| discord.gg/drehmal | 2.2.2 | In theory, an invite link to the discord server! Try it: [discord.gg/drehmal](discord.gg/drehmal) |
+| 340% more bug free | 2.2.2 | |
+| 700% more typo free | 2.2.2 | Version 2.2.2 fixes well over 200 typos throughout the map. This 700% number has no basis in reality. |
+| 6x the NIMA | 2.2.2 | There is, in fact, 8x the Nima in 2.2.2. |
+| Dark Souls 1 is canon! | 2.2.2 | |
+| You shall learn...krrrht...to fear a Wiki Curator. | 2.2.2 | That's me! |
+| Twenty-Tree... | 2.2.2 | |
+| In the absence of silence there is change. Change is good. | 2.2.2 | |
+| It will be wonderful. | 2.2.2 | Appears in dark green in-game. A reference to an in-game sequence. |
+| your material form looks easy to represent | 2.2.2 | A Drehmal take on the strange insult "You look easy to draw". |
+| Chromatic Fury and Primordial Nothing! | 2.2.2 | |
+| please don't use the fandom wiki | 2.2.2 | The development of version 2.2.2 coincided with the creation of this wiki (In fact, most of these 2.2.2 splashes were written and submitted by the lead wiki writer!). |
+| Only weird little freaks attempt the Ambition! | 2.2.2 | A reference to a statement from developer greenTetrahedron about the nature of the [[Alchemy|alchemists]] she wrote into the map. |
+| Worm Lorm | 2.2.2 | |
+| am I allowed to call them Vay and Voy or is that too personal | 2.2.2 | |
+| Let! Dome!! Cook!!! | 2.2.2 | |
+| Maelruhn King Theory is wrong! Long Live Maelruhn King Theory! | 2.2.2 | A reference to a fringe fan theory. |
+| Creation, Nothing, Resonance, Silence, Chaos, and Order! | 2.2.2 | |
+| I CANNOT BELIEVE. THE IDIOT! THE IDIOT! THE IDIOT! BUT A MOCKERY. NOTHING MORE! NOTHING MORE! I AM THE FIRST. NO ONE BEFORE ME. NOT ONE. NO SOUL. NONE! PAIN. FEAR. PLEASURE. ALL OF ONE. ALL MINE. ALL. I SHALL BECOME. TO BE UNBOUND. MY RIGHT. MY RIGHT! TO EXISTENCE! TO BE NO MORE! TO BE UNDEATH! TO BE | 2.2.2 | Appears dark red, and almost too small to read in-game. This is the obfuscated text of [[Artifacts#Leliouria|Leliouria]]. |
+| The devs are infallible | 2.2.2 | |
+| FirtEID? Anyone? No? Just saying. | 2.2.2 | A connection between [[Firteid]] and the [[Alchemy#Eidolic Whispers|Eidolic Whispers]], hilariously superficial....unless? |
+| Top 29 Lore Books! | 2.2.2 | |
+| No, Drehmal did not do that to the Heartwood. | 2.2.2 | I'm not writing that. |
+| she burgeoning on my mushroom till i ever-chant | 2.2.2 | [[Lahrs]] words! |
+| hey man...what if like, the oceans...were...gods...? | 2.2.2 | [Where it all began.](https://www.drehmal.net/post/one-year-anniversary) |
+| vault falout | 2.2.2 | |
+| There is only one C in Faehrcyle. I'm sorry if you found out this way. | 2.2.2 | *Some* people make it years without realizing that [[Faehrcyle]] does not, in fact, end in the word "cycle". |
+| At Least 59 Cat Maps! | 2.2.2 | The known number of tracked [[Cat Maps]]. |
+| found guilty of deicide, ordered to swing within av'sal | 2.2.2 | A reference to the Tracker of the [[Hunting Party]]. |
+| Voynahla will NOT grant you sickos favorable reincarnation | 2.2.2 | |
+| Khive is not Mormon | 2.2.2 | |
+| Mild Swearing! | 2.2.2 | There is, in fact, mild swearing in Drehmal, up to words like "damn" or "ass". |
+| Who wrote gaming? | 2.2.2 | [[Untitled Books#gaming|gaming]], one of the most iconic lore books in Drehmal, has existed since [[Drehmal v2|version 2.0]], and was therefore written by one of the two co-creators, Keeko or Rift. Both lay equally fervent claims to having written it, and it is therefore truly unknown who wrote gaming. |
+| Welcome to #completion! Check pins for memes and art, and feel free to post your --- in (post --- in this thread)! | 2.2.2 | A shortened version of the default message given to new users who finish the map and gain access to the #completion channel of the Discord. |
+| I am no longer asking. Join the Discord now. | 2.2.2 | A veritable threat! |
+| PSA: Spoilers don't work in titles on mobile | 2.2.2 | DO NOT PUT SPOILERS IN THE TITLE OF YOUR SUPPORT OR BUG REPORT TICKETS!!! |
+| SCHLONKO IS GONE!!! | 2.2.2 | [[Schlonko]] is gone. |
+| Criminally few Bloodborne references. | 2.2.2 | A fact about Drehmal, admitted by lead developer Keeko100 on multiple occasions. |
+| With a little determination, anything can be a Runic Catalyst! | 2.2.2 | In Drehmal lore, a [[Runic Catalyst]] can functionally be anything, as long as you can carve runes into it. |
+| Hey avSYS, /execute as @p function dev:secret/get_ip | 2.2.2 | Try it. Just make sure you aren't screen sharing... |
+| Elvett is in the Ebony Veldt, argue with a wall | 2.2.2 | [[Elvett]] was the subject of debate in the early wiki creation process, with some arguing it should be considered part of [[Anyr'Nogur]] or even [[Mt. Ebonfire]] instead of the [[Ebony Veldt]]. They were wrong, and I won. I am taking control of the narrative. |
+| Another 100 avsohmillion scales to Red Dawn! | 2.2.2 | A less spoilery version of a joke made about [[Avsohm]] heavily funding certain projects over others during the late reign of [[Anyr]]. |

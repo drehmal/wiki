@@ -1,6 +1,6 @@
 # wiki.drehmal.cyou
 
-This is the official new (WIP) wiki for Drehmal: APOTHEΩSIS.
+This is the official wiki for Drehmal: APOTHEΩSIS.
 
 Check out the [official website](https://www.drehmal.net/) & the [official Discord server](https://discord.drehmal.net)! Almost all of the planning for this wiki happens in the completion-locked `#wiki-creation` channel on the Discord!
 

@@ -117,3 +117,8 @@ Khive's most prized possession plays a central part in story progression on Lo'D
     In order to progress, the player must charge the Inert Mythbreaker at the Numencore, which was the single largest barrier to Avsohm initially enacting that same plan. A greatly angered Mystic Elder then breaks his non-interference rule, attempting to smite the player by sending enemies and barrages of aerial energy blasts at the player in a chase sequence known as the "Mythbreaker Run". 
     
     During this sequence, Khive will [[Khive Dialogue|speak]] to the player, accusing them of attempting to carry on [[Anyr]]'s plan and cursing their insubordination. He will relent when the player reaches [[Mt. Yavhlix]], ominously warning them not to "hark to the whispers" before disappearing.
+
+    Returning to one of Khive's devotion shrines after finishing the run will reset players' devotion to him back to 0, playing the message: <br>
+    "Your devotion to Khive has been decimated..."
+
+    This does not prevent the player from gaining devotion points, but it does reset progress.

@@ -487,13 +487,36 @@ The Grimm Troupe in the western [[Frozen Bite]] region is home to a "Runic Nails
 | **Base Item**   | Iron Sword   |
 | **Attack Damage** | 9            |
 | **Attack Speed** | 1.8           |
-| **Enchantments** | Sharpness III <br>Bane of Arthropods VI <br>Sweeping Edge III |
-
+| **Enchantments** | Bane of Arthropods VI <br>Sweeping Edge III <br>Unbreaking III |
 
 |          | Lore and Cost       |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lore** | A traditional weapon from a land much smaller than our own. The hilt is inscribed with unfamiliar, insect-shaped carvings.    |
-| **Cost** | 18 Scales <br>Block of Quartz  |
+| **Cost** | 28 Scales <br>Block of Quartz  |
+
+#### Coiled Nail
+
+In version 2.2.2, an upgrade to the Nail was added, known as the Coiled Nail. It is also sold by the Runic Nailsmith, tied in to a very small structure elsewhere in the region which some players mistook for a puzzle, but did not have an interaction prior to this version.
+
+??? question "Pale Ore Location"
+    The Pale Ore is obtained as a reward for an environmental puzzle in the Frozen Bite, below the Grimm Troupe and just to the south. A small altar holds four pillars with signs labeled "MAGNIFY".
+    ??? warning "Puzzle Solution"
+        The puzzle is quite simple. Remove the chiseled stone brick above the glass in the center of the structure, allowing the glass to act as a magnifying glass for light above. The central obsidian block will be destroyed, revealing the Pale Ore. <br>
+        Pale Ore lore text: *A small and odd-looking metal that is unusually heavy.*
+
+| ![[coiled_nail.png]]{ width="48" }   |               |
+| ---------------- | ------------- |
+| **Base Item**   | Iron Sword   |
+| **Attack Damage** | 13            |
+| **Attack Speed** | 1.8           |
+| **Enchantments** | Bane of Arthropods VI <br>Sweeping Edge V <br>Mending <br>Unbreaking III |
+
+|          | Lore and Cost       |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lore** | A traditional weapon from a land much smaller than our own. The hilt is inscribed with unfamiliar, insect-shaped carvings.    |
+| **Cost** | Nail <br>Pale Ore ![[pale_ore.png]]{ width="48" }  |
+
+The Coiled Nail also has a hidden ability: On hits, it will summon interaction entities, capable of reflecting arrows shot at the player.
 
 ### [[Gozak]]
 The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" building, at **(2247, 50, 2434)**.

@@ -82,7 +82,7 @@ Besides the items belonging to the groups listed above, there are some other uni
 
 ## Other Unique Items
 
-- Gay Apple - Golden Apple found atop a rainbow pyramid in the rainbow desert south of [[Anyr'Nogur]]
+- ![[gay_apple.png]]{ width="32" } Gay Apple - Golden Apple found atop a rainbow pyramid in the rainbow desert south of [[Anyr'Nogur]]. In version 2.2.1 and before, it can be traded for an armor trim at the [[Dusps]] Runic Blacksmith. In version 2.2.2 and above, it can be eaten for a special particle effect, as well as a permanent rainbow flag next to the player's name in chat and the player list. This is done by adding a player to the `gay` team, so you can undo this by using the command `/team leave @s`.
 - Unknown Meat Substance - A Raw Mutton dropped after killing Jack Beanin' in his house far south of the [[Black Jungle]]
 - Dirt Prime - **_It's so powerful..._** trade 64 Soul Asteria (Nether Stars) to Ohmswil in [[Tharxax City]] \- easter egg, does not do anything
 - God's Brew - **_Unfathomably good beetroot soup._** trade 64 netherite blocks and 64 diamond blocks to the Beetroot Merchant in [[Fort Nimahj]] \- easter egg, does not do anything

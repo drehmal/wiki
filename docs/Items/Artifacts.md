@@ -1560,7 +1560,7 @@ These artifacts can be found at any time through exploration of the continent of
 ??? info "2.2.2+ Artifact"
     Prior to the 2.2.2 Update in late 2024, this item was not a fully-fledged artifact, but rather, was simply a named iron sword.
 
-|               |              |
+| ![[rusty_sword.png]]{ width="48" }              |              |
 | ------------- | ------------ |
 | **Base Item**     | Iron Sword |
 | **Attack Damage**| 9            |
@@ -1685,7 +1685,7 @@ These artifacts can be found at any time through exploration of the continent of
     - Added +4% bonuses for Attack Knockback, Knockback Resistance, Armor, and Armor Toughness <br>
     - Added Custom Texture
 
-|             |                                                                         |
+| ![[slime_chrysalis.png]]{ width="48" }            |                                                                         |
 | ----------- | ----------------------------------------------------------------------- |
 | **Base Item**   | Slime Ball                                                              | 
 | **Bonus Stats** (Off-Hand) | +4% Max Health, +4% Movement Speed, +4% Attack Damage, +4% Attack Speed, +4% Attack Knockback, +4% Knockback Resistance, +4% Armor, +4% Armor Toughness |
@@ -1892,7 +1892,7 @@ These artifacts can be found at any time through exploration of the continent of
     - Increased Armor Toughness bonus from +10% to +25% <br>
     - Added Custom Texture
 
-|             |                                  |
+| ![[talisman_growth.png]]{ width="48" }            |                                  |
 | ----------- | -------------------------------- |
 | **Base Item**   | Green Dye                        |
 | **Bonus Stats** (Off-Hand) | +25% Armor, +25% Armor Toughness |
@@ -2009,7 +2009,7 @@ These artifacts can be found at any time through exploration of the continent of
     - Reduced Max Health penalty from -8 to -6 <br>
     - Added Custom Texture
 
-|          |                                     |
+| ![[vihktor_spoils.png]]{ width="48" }         |                                     |
 | -------- | ----------------------------------- |
 | **Base Item** | Fishing Rod                           |
 | **Bonus Stats (Off-Hand)** | -6 Max Health <br>+0.03 Movement Speed |
@@ -2051,7 +2051,7 @@ These artifacts can be found at any time through exploration of the continent of
     - Increased Max Health boost from +30 to +40 <br>
     - Added Custom Texture
 
-|             |                                                                            |
+| ![[silent_artifact.png]]{ width="48" }            |                                                                            |
 | ----------- | -------------------------------------------------------------------------- |
 | **Base Item**   | Charcoal                                                               |
 | **Bonus Stats** (Off-Hand) | +40 Max Health, -70% Movement Speed, -90% Attack Damage, -90% Attack Speed |

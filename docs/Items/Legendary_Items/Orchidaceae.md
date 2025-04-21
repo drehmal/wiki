@@ -6,7 +6,7 @@
 
 ![[orchidaceae.png]]{ align=left width="300"}
 
-**Orchidaceae** (pronounced or-kid-ay-see) is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
+**Orchidaceae** (pronounced "or-kid-ay-see" (preferred/technically correct), "or-kid-ay-see-ay", or "or-kid-uh-see-uh") is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
 The flower-shaped legendary sword Orchidaceae is a treasure hunter's (or a grindy Minecraft player's) best friend, coming with a high Looting enchantment and a special ability that increases the amount of XP dropped by mobs it kills. It is found in [[Akhlo'Rohma]].
 
@@ -14,7 +14,7 @@ The flower-shaped legendary sword Orchidaceae is a treasure hunter's (or a grind
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> 6 Attack Damage <br> 1.5 Attack Speed         |
+| **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> 8 Attack Damage <br> 1.5 Attack Speed         |
 | **Enchantments**              | Looting IV <br> Unbreaking III |
 | **Ability**                   | **Exhumation**: "*Killing an enemy grants bonus experience.*" |
 | **Lore**                      | Alchemy as modern practitioners know it was born in the lavish halls of the original Ancehl Castle. Although initially bound by a strict code of ethics, disagreements about those limits led to infighting and societal collapse. From the ashes, a new order arose which renounced all moral boundaries. |
@@ -45,3 +45,7 @@ The description of the item itself references the early practices of [Alchemy](A
 
 ## Extras
 The word "Orchidaceae" is the scientific name for the Orchid family, a common type of flower.
+
+### Changelog
+
+Orchid's attack damage was increased in version 2.2.2, from 6 damage to 8.

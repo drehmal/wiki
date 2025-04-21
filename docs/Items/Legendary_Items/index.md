@@ -84,7 +84,7 @@ The [[Crystal Digging Claws]] are a legendary tool/weapon located on the [[Islan
     | ![[flammer.png]]{ width="48" } | Flammer                            |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Main Hand)**         | 8 Attack Damage <br> 1.2 Attack Speed         |
-    | **Enchantments**              | Knockback I <br> Fire Aspect I <br> Unbreaking IV |
+    | **Enchantments**              | Knockback I <br> Fire Aspect I <br> Unbreaking IV <br> Efficiency III (2.2.2+) |
     | **Ability**                   | **Excavation Torch**: "*This hammer mines multiple blocks in one swing.*" |
     | **Lore**                      | Mael's generals have occupied Ebonrun for over a century, forcing its Drehmari to work long hours in mines and quarries. The most trusted are allowed to test Red Dawn's experimental mining technology. |
     | **Obtain**                    | Located in a deep mineshaft at [[Mt. Ebonfire]].   |
@@ -155,7 +155,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
 ??? warning "Orchidaceae Details"
     | ![[orchidaceae.png]]{ width="48" } | Orchidaceae                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> 6 Attack Damage <br> 1.5 Attack Speed         |
+    | **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> 8 Attack Damage <br> 1.5 Attack Speed         |
     | **Enchantments**              | Looting IV <br> Unbreaking III |
     | **Ability**                   | **Exhumation**: "*Killing an enemy grants bonus experience.*" |
     | **Lore**                      | Alchemy as modern practitioners know it was born in the lavish halls of the original Ancehl Castle. Although initially bound by a strict code of ethics, disagreements about those limits led to infighting and societal collapse. From the ashes, a new order arose which renounced all moral boundaries. |
@@ -179,7 +179,7 @@ The [[Heartaxe]] is an axe found in the [[North Heartwood]], which can function 
 ??? warning "Parenchyma Details"
     | ![[parenchyma.png]]{ width="48" } | Parenchyma                         |
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | **Stats (Body)**              | +5 Armor         |
+    | **Stats (Body)**              | N/A         |
     | **Enchantments**              | Unbreaking X <br> Mending |
     | **Ability**                   | **Neoplasia**: "*When the wearer defeats an enemy, they briefly regenerate HP.*" |
     | **Lore**                      | A gift from an ancient traveler crafted by the hands of nature. It is made of roots that resemble Drehmal's flora but contains remnants of places beyond. |
@@ -266,9 +266,9 @@ The [[Voidtear Dagger]] is a legendary weapon found in [[Nimahj Swamp]]. It gran
     |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     | **Stats (Main Hand)**         | +0.015 Movement Speed <br> 5 Attack Damage <br> 2.3 Attack Speed         |
     | **Enchantments**              | N/A |
-    | **Ability**                   | **Null Cloak**: "*Holding this weapon grants the wearer invisibility and makes nearby mobs much less aggressive.*" |
+    | **Ability**                   | **Void Cloak**: "*Holding this dagger grants the wearer invisibility and lowers mob aggression. Pressing the drop item key throws the dagger forward, dealing damage. If picked up within 5 seconds, gain a boost of speed and extend invisibility.*" |
     | **Lore**                      | Blue Exodus was so adept at hiding secrets, no one knew they employed an order of assassins until Insohmic archaeologists discovered one of these ingenious runic daggers nearly a millennium after every member had died. |
-    | **Obtain**                    | In the [[Exodus Citadel]].   |    
+    | **Obtain**                    | In the [[Exodus Vault]], as part of the 50% story event.   |    
 
 ### Whispersong
 [[Whispersong]] is a legendary bow found in the [[Merijool]]/[[Gulf of Drehmal]] area. It grants its user invisibility, as well as a very strong shot.
@@ -340,7 +340,7 @@ The following 6 legendaries are located in a late-game area tied to the 75% comp
     | **Obtain**                    | At the end of the [[Augural Tangle]].   |    
 
 ### Eldermead
-[[Eldermead]] is a legendary item found in [[Vayniklah's Domain]]. It is a gift from the Life Aspect [[Vayniklah]], and effectively serves as an enchanted golden apple with 3 uses.
+[[Eldermead]] is a legendary item found in [[Vayniklah's Domain]]. It is a gift from the Life Aspect [[Vayniklah]], and effectively serves as an enchanted golden apple with 5 uses.
 
 ??? warning "Eldermead Details"
     | ![[eldermead_full.png]]{ width="48" } | Eldermead                         |

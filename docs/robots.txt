@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Common rules
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://wiki.drehmal.cyou/sitemap.xml

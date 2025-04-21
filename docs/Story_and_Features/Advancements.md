@@ -333,6 +333,7 @@ This section contains the 7 advancements on the secret tab.
     | Emotional Binding                  | Bring more. Remove the risk. - Bind a Fervor Stone to a Mythical item.                                  |
     | Total Binding                      | Perfected. - Bind three Fervor Stones to a single Mythical item.                                        | 
     | And In The Light, Bind Them        | Oh, I shall be tempted. - Fully upgrade all eight Mythicals with Fervor Stones.                         |
+    | Coming In Hot! (2.2.2+)            | Through Fire and Through Ash - Survive a fiery descent into the atmosphere and crash down unscathed onto Lo'Dahr. <br> Requirement: Fall off of the [[Aphelion]] spacewalk section with at least 50 hearts' worth of health, activating a secret interaction in which you fall directly to the moon's surface and survive. |
 
 [^1]: This advancement is actually found in the Discoveries: Civilization branch, but is included here for spoiler reasons.
 [^2]: In version 2.2.1, this advancement reads "Trucks, tanks, planes, oh my gyatt!"

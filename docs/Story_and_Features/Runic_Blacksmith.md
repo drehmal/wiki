@@ -38,7 +38,7 @@ Armor Trims can be obtained in Drehmal through trading with certain Runic Blacks
     | **Image** | **Name** | **Location** | **Cost** |
     |:---------:|:-----------------:|:---------------|:------------:|
     | ![[coast_armor_trim_smithing_template.png]]{ width="32" } | Coast Armor Trim | [[Port Solitude]] | Reach the maximum level in [[Devotion#Dahr Rewards|Dahr's Devotion]]. |
-    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
+    | ![[dune_armor_trim_smithing_template.png]]{ width="32" } | Dune Armor Trim | [[Mossfield#Runic Blacksmith|Mossfield Runic Blacksmith]][^1] | 16 Scales |
     | ![[eye_armor_trim_smithing_template.png]]{ width="32" } | Eye Armor Trim | [[Rhaveloth#Runic Blacksmith|Rhaveloth Runic Blacksmith]] | 16 Gold Ingots |
     | ![[host_armor_trim_smithing_template.png]]{ width="32" } | Host Armor Trim | [[Athrah#Runic Blacksmith|Athrah Runic Blacksmith]] | 16 Copper Ingots |
     | ![[raiser_armor_trim_smithing_template.png]]{ width="32" } | Raiser Armor Trim | [[Drabyel#Runic Blacksmith|New Drabyel Runic Blacksmith]] | 16 Scales |
@@ -64,12 +64,4 @@ Normally, Runic Blacksmiths are immune to any sort of damage and cannot be turne
 
 See [[FAQ#Can Custom Villagers Be Respawned?|this FAQ section]] for a full list of these commands.
 
-
-    
-
-
-
-
-
-
-
+[^1]: This trade is found in Drabyel on versions before 2.2.2.

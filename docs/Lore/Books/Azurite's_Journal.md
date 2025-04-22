@@ -16,9 +16,7 @@ This book is found in the [[Aphelion]], in a chest in room B5. It is the journal
 
 ## Transcription
 
-<div class="annotate" markdown>
-
-> The view may be nice, and the spectacle of it all may be breathtaking every time I look out at the windows and see the entire world, be (1) able to pinpoint the area I lived in all the way up here... <br>
+> The view may be nice, and the spectacle of it all may be breathtaking every time I look out at the windows and see the entire world, be[^1] able to pinpoint the area I lived in all the way up here... <br>
 > I miss Mom and Dad. I've been working so very hard these past months, Emperor Anyr is hellbent on getting the tasks he wants done and if that means working us to the pure bone and antlers then I guess that's just how it is.
 >
 > I work everyday, from start of shift to end of shift with nothing much past a 30 minute break. 12 hours. <br>
@@ -28,13 +26,11 @@ This book is found in the [[Aphelion]], in a chest in room B5. It is the journal
 >
 > Ah well, enough complaining. I have to get back to work... come on Azurite...just keep working... keep going... Dad said I'll do great things... and I intend to do that...
 
-</div>
-
-1. [sic]
-
 ## Extras
 
 This book was written by prominent Drehmal community member (1) White Fang, about her Drehmari OC, Azurite. 
 { .annotate }
 
 1. Also the current lead developer of the [OWZA map](https://www.planetminecraft.com/project/open-world-zombie-apocalypse-survival/).
+
+[^1]: [sic]

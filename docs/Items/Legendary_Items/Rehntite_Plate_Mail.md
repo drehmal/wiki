@@ -30,7 +30,7 @@ Rehntite Plate Mail is an absurdly strong defensive item, granting the player to
 The item's special ability, Catalytic Savior, activates when the player is hit by an enemy attack and their health dips below 20%. This effect creates a large explosion around the player, damaging and knocking back any enemies in the attack's range. (1)
 { .annotate }
 
-1. The knockback on this explosion was increased significantly in the 2.2.2 update. See [this gif](rehntite_tp.gif) for the pre-2.2.2 knockback.
+1. The knockback on this explosion was increased significantly in the 2.2.2 update. See [this gif](/assets/img/items/legendary/gifs/rehntite_tp.gif) for the pre-2.2.2 knockback.
 
 The chestplate's abilities and penalties make it very challenging to use all the time, but it can be extremely effective within combat encounters where the player does not need high movement speed.
 

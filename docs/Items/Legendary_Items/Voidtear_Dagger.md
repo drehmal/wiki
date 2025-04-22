@@ -23,6 +23,8 @@ Found in the [[Exodus Citadel]], the Voidtear Dagger is a legendary weapon utili
 ## Gameplay
 The Voidtear Dagger is an NBT-modified iron sword, inheriting that base durability.
 
+![[newvoidtear_fp.gif]]{ width="600" }
+
 The dagger gives its wielder invisibility, and significantly lowers the aggro range for nearby mobs. Its main ability is the ability to throw it forward using the drop item key, dealing damage as a projectile. Afterwards, it will fall to the ground. The player who threw it will retain their invisibility for up to 5 seconds after throwing, which is refreshed if they pick it back up within that time frame. 
 
 The dagger also deals more damage to enemies from behind.

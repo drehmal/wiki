@@ -31,11 +31,13 @@ Malevolentia's special ability, Infernal Ground, allows the player to give thems
 
  ![[infernal_ground_tp.gif]]
 
-The ability has 4 discrete levels of effectiveness, denoted by the color of the bar when charging up the trident spike. These levels vary in their duration and area of effect, denoted by a ring of red particles. The cooldown time is the same regardless of the strength of the Infernal Ground. <br>
+**VERSION 2.2.1 AND BEFORE:** The ability has 4 discrete levels of effectiveness, denoted by the color of the bar when charging up the trident spike. These levels vary in their duration and area of effect, denoted by a ring of red particles. The cooldown time is the same regardless of the strength of the Infernal Ground. <br>
 - Level 1: If thrown in roughly the first quarter of the charge-up, while the bar appears **yellow**, the radius of the effect is just under 2 blocks, and lasts for only 5 seconds. <br>
 - Level 2: If thrown while the meter is between roughly 25% and 60% full, while the bar appears **orange**, the radius of the effect is approximately 4 blocks, and lasts for 15 seconds. <br>
 - Level 3: If thrown towards the end of the meter but not at full charge, while the bar appears **light red**, the radius of the effect is approximately 5 blocks, and lasts for 20 seconds. <br>
 - Level 4: If thrown while fully charged up, while the bar appears **dark red**, the radius of the effect is nearly 6 blocks, and lasts for a full 30 seconds.
+
+**VERSION 2.2.2:** The same basic principle as above applies, but the level of Resistance has changed. Resistance 2 is granted at maximum charge, and anything else grants only Resistance 1.
 
 ??? warning "Late-Game Spoilers: Upgrades"
     Like the other Mythicals, Malevolentia can be upgraded with one of each Fervor Stone at the Soletta, increasing its health, cooldown, and movement speed bonuses. A fully upgraded Malevolentia grants the player +14 Max Health (+7 Hearts), has a smaller movement speed penalty of -0.01, and has a special ability cooldown of only 15 seconds.

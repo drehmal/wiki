@@ -14,18 +14,21 @@ A legendary chestplate supposedly crafted by nature itself and found at the [[Gl
 
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Stats (Body)**              | +5 Armor         |
+| **Stats (Body)**              | N/A         |
 | **Enchantments**              | Unbreaking X <br> Mending |
 | **Ability**                   | **Neoplasia**: "*When the wearer defeats an enemy, they briefly regenerate HP.*" |
 | **Lore**                      | A gift from an ancient traveler crafted by the hands of nature. It is made of roots that resemble Drehmal's flora but contains remnants of places beyond. |
 | **Obtain**                    | Beneath the [[Primal Sapling]].   |
 
 ## Gameplay
-Parenchyma is an NBT-modified golden chestplate, retaining its low durability, but offset by the Unbreaking X and Mending enchantments that it naturally comes with.
+Parenchyma is an NBT-modified golden chestplate, retaining its low durability, offset by the Unbreaking X and Mending enchantments that it naturally comes with.
 
 ![[parenchyma_fp.gif]]{ width="600" }
 
-The chestplate grants 5 armor, and its primary mechanic comes from its special ability, which regenerates approximately 3-3.5 hearts upon a successful kill. This is indicated by the appearance of a green heart in the place of the slain entity, which then draws a few green lines toward the player and refills a portion of their health bar. Paired with other weapons and armor, Parenchyma can become an absolutely central part of any build.
+The chestplate grants no armor, and its primary mechanic comes from its special ability, which regenerates approximately 6 hearts upon a successful kill. (1) This is indicated by the appearance of a green heart in the place of the slain entity, which then draws a few green lines toward the player and refills a portion of their health bar. Paired with other weapons and armor, Parenchyma can become an absolutely central part of any build.
+{ .annotate }
+
+1. This change was enacted in the 2.2.2 update. Previously, Parenchyma gave 5 armor, and regenerated about 3 hearts per kill.
 
 ## How to Obtain
 Parenchyma is located in the Glade of the Giant, a massive jungle caldera located in southeastern [[Merijool]] which is home to the Primal Sapling, a colossal spruce/dark oak tree. At the base of the Primal Sapling, a small opening leads into a short series of tunnels. These culminate in a drop down to the final room, where the trapped chest with Parenchyma sits on top of a stump.

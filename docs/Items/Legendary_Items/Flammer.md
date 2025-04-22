@@ -15,13 +15,16 @@ Primarily functioning as a pickaxe which can mine multiple blocks at a time, the
 | Category | Description |
 |:--------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Stats (Main Hand)**         | 8 Attack Damage <br> 1.2 Attack Speed         |
-| **Enchantments**              | Knockback I <br> Fire Aspect I <br> Unbreaking IV |
+| **Enchantments**              | Knockback I <br> Fire Aspect I <br> Unbreaking IV <br>Efficiency III |
 | **Ability**                   | **Excavation Torch**: "*This hammer mines multiple blocks in one swing.*" |
 | **Lore**                      | Mael's generals have occupied Ebonrun for over a century, forcing its Drehmari to work long hours in mines and quarries. The most trusted are allowed to test Red Dawn's experimental mining technology. |
 | **Obtain**                    | Located in a deep mineshaft at [[Mt. Ebonfire]].   |
 
 ## Gameplay
-Flammer is an NBT-modified wooden pickaxe. This means that it inherits some of the base traits of a wooden pickaxe, such as its very low durability and the set of blocks that it can successfully break.
+Flammer is an NBT-modified stone (1) pickaxe. This means that it inherits some of the base traits of a wooden pickaxe, such as its relatively low durability and the set of blocks that it can successfully break.
+{ .annotate }
+
+1. Flammer was a wooden pickaxe up until the 2.2.2 update.
 
 Flammer has some utility as a weapon, dealing 8 attack damage with 1.2 attack speed, not far off from some of the weaker dedicated legendary weapons. Its Fire Aspect I and Knockback I enchantments, which would not normally be supported by a pickaxe, add to its use as a weapon.
 
@@ -42,3 +45,9 @@ The entrance to this mineshaft is found south-southwest of the mountain's summit
 
 ## Lore
 Flammer is an experimental mining tool developed by [[Red Dawn]], and still in use today by the workers living under [[Maelihs]] at the town of [[Ebonrun]]. As mentioned by the book [[Spider Infestation]], found in that town, the tool was accidentally left behind as the miners fled from the spiders that now inhabit the cave.
+
+## Extras
+
+### Changelog
+
+Flammer was updated in version 2.2.2, adding the Efficiency III enchantment at baseline and upgrading it from a wood to a stone pickaxe, increasing its durability.

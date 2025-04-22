@@ -80,10 +80,11 @@ In version 2.2.2, a secret advancement was added, which can be obtained during t
 ## Original Writing
 The Aphelion is home to the most holotexts of any single story location in Drehmal, with a whopping [16 entries](/Story_and_Features/Holotexts/75_Percent_Areas/The_Aphelion/)!
 
-There are also 7 lore books in the Aphelion (6 in normally accessible areas): <br>
+There are also 8 lore books in the Aphelion (6 in normally accessible areas): <br>
 - [[Crew Member's Diary]] in room A3. <br>
 - [[Crew Member's Journal]] in room B4. <br>
 - [[Safety Precautions]] outside room B4. <br>
+- [[Azurite's Journal]] in room B5. <br>
 - [[The Veil's Roar]] in a maintenance tunnel. <br>
 - [[Proclamation of Anyr]] in the throne room. <br>
 - [[Biology Wing Inventory]] in the hydroponics section. <br>

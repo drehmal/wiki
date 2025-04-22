@@ -7,7 +7,7 @@ Mythical weapons have their own unique 3D models, descriptions, stat modifiers, 
 Similar to [Legendaries](/Items/Legendary_Items/), Mythical weapons can be crafted, and unique crafting recipes are unlocked for all players when the original copy is first claimed by any player in that world. Their recipes generally demand rarer items than their Legendary counterparts.
 
 !!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
-    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.
+    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, only able to be revoked through a series of specific commands.
 
 --8<-- "spoiler.md"
 

@@ -38,3 +38,9 @@ The legendary weapon is found in the only building left at the crater where the 
 
 ## Lore
 Hovadchear's Greathammer once belonged to, as its name would suggest, [[Hovadchear|Hovadchear Myrik]], one of the co-founders of the [[Insohm|Order of Insohm]]. The item's description, which mentions Hovadchear's skill as a master architect, suggests that he may have used it for construction, rather than exclusively for combat.
+
+## Extras
+
+### Changes
+
+In version 2.2.2, the Greathammer's armor shred was reduced to 30%. It is not clear what it was before.

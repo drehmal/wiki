@@ -9,7 +9,7 @@ Similar to [Mythical Weapons](/Items/Mythical_Weapons/), Legendaries can be craf
 In this article, Legendaries are separated by spoiler level, as some of them are tied closely to certain points in the story of Drehmal. The 22 legendaries obtainable in the open world are listed first, followed by the two legendaries in early-game story locations, followed by the remaining 6 legendaries found in a late-game area, discovered after the 75% completion event.
 
 !!! warning "WARNING: POTENTIAL PROGRESSION BREAK"
-    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, not able to be revoked through the `/advancement` command.
+    Due to the way that vanilla Minecraft functions, the crafting recipes for legendary and mythical weapons utilize most of the spawn eggs found in the game as intermediary steps. **_DO NOT use the `/give` command to give yourself spawn eggs, or take weapons from the Creative Mode inventory in the Spawn Eggs tab._** Doing so risks breaking the natural progression of the map, as all of these weapons are designed to be found as they exist in-game, and the advancement for obtaining the weapon will be given, only able to be revoked through a series of specific commands.
 
 --8<-- "spoiler.md"
 

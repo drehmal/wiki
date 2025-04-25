@@ -66,7 +66,7 @@ The Stone of Worry is one of three Fervor Stone variants, appearing as a deep re
     |:------------:|:---------------------------------------------------------------|:---------------:|
     | [[Anyr'Nogur]] | Atop a blackstone tower in the archipelago in southwest Anyr'Nogur. | **(-3954, 215, 3561)** |
     | [[South Heartwood]] | In the southeastern [[Rock Maw]], inside a small hidden cavern with a dark oak entrance. | **(1169, 98, 3903)** |
-    | [[Mt. Yavhlix]] | In the far northeast corner of the [[Oblivion]] labyrinth. | **(1169, 98, 3903)** |
+    | [[Mt. Yavhlix]] | In the far northeast corner of the [[Oblivion]] labyrinth. | **(1691, 15, -4171)** |
     | [[Sahd]] | In a building towards the top of the river in the Zedoh Clan ruins. | **(5190, 115, 5574)** |
     | [[Highfall Tundra]] | Inside a large boulder in a set of stone ruins, in the craggy peninsula in the southeast Highfall Tundra region. | **(5877, 147, -294)** |
     | [[Ebony Veldt]] | In the ruins of [[Caer Adacia]]. Deep underground, a building has a staircase which appears to be blocked off by collapsed rubble. Digging through this rubble leads to a small altar with the stone in an item frame. | **(-1285, 5, 416)** |

@@ -1,3 +1,43 @@
+
+Runes:
+Designed by Aok, Ravi, and Hanu and then blessed by Khive
+Mass, Energy, Inertia are exchanged for Primal Energy
+Primal Energy moves through “pathways” of potentia, like a natural field
+Using a catalyst temporarily depletes its potentia
+Over depleting can weaken and destroy the catalyst
+Runic magic involves the use of channeling Primal Energy through Potentia into objects for magical use
+Asomatous power is needed to “evoke” runic catalysts into use
+Runes are combinations of runelets combined into sigils to create functions, similar to computer code. 
+The more runes, the more potentia it drains
+Runic amplifires are designed to be over depleted to transfer a boost of potentia to something else
+Arcanism involves tattooing or carving runes into the body and/or skin to directly use the users potentia. 
+Asoumatous arcanists can evoke with much greater power, as well as draw from their spiritual energy to channel the Primal Flames
+
+Alchemy
+Completing the Great Work grants a soul the ability to use Divine Magic and draw directly from the Numencore
+Khive created the Numencore as a nexus of Potentia to store Primal Energy
+Asomoutos Alchemists can complete the Great Work by channeling their Spirit to the first 5 Spheres, unlocking more spiritual awareness, growing their own potentia level until they are able to harness Divine Magic
+Hermetic and metamorphic Alchemests try to directly enchance the Vessel of the body to be able to handle Divine Magic
+Both methods work
+
+Conveyance
+Potentia is a field that permeates everything and gathers in higher quantities in certain things
+Primal Energy can transfer through Potentia fields in order to do stuff
+the amount of Primal Energy used is limited by the amount of Potentia used up
+Khivian transportation happens at almost the speed of light
+
+Savants and the Creation Power
+The Creation Power (Primordial Magic) is the ultimate control over primal energy that any soul can end up having. And all primal souls are gifted this power at the creation of a realm 
+It is the ability to wield the Chromatic Flame and shape it to your will
+In Drehmal, the second most powerful force is divine magic. 
+Divine magic was created by khive through his creation power in order to give the rest of the aspects a power
+Divine magic is the same as the creation power except it has to draw from the numencore and limited by the Aspects potentia
+The primal tree, verrhys, khive, and the deities all have awareness of the creation powers
+Savants generated alot of awareness (possibly reincarnated Primal Souls) and can weild the Creation Power, however it is difficult to control. 
+
+
+
+
 # Alchemy
 
 **Alchemy** is the most significant, and most powerful, form of magic in the Drehmal universe. Many important figures from Drehmal's history were alchemists, and alchemy broadly reflects the technological progress of the [[Drehmari]].

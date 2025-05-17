@@ -1710,7 +1710,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Lore** | Infused with lightweight material derived from precious gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
 | **Cost** | Runic Amplifier <br>Diamond Helmet  |
 
 **Crystal Fiber Tunic:**
@@ -1723,7 +1723,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Lore** | Infused with lightweight material derived from precious gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
 | **Cost** | Runic Amplifier <br>Diamond Chestplate  |
 
 **Crystal Fiber Pants:**
@@ -1736,7 +1736,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Lore** | Infused with lightweight material derived from precious gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
 | **Cost** | Runic Amplifier <br>Diamond Leggings  |
 
 **Crystal Fiber Boots:**
@@ -1749,7 +1749,7 @@ The Tharxax City Runic Blacksmith is located near the center of town, at **(-215
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore** | Infused with lightweight material derived from previous gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
+| **Lore** | Infused with lightweight material derived from precious gemstones, this matte, flexible armor was only made thanks to the ingenuity and "generosity" of Maelihs. |
 | **Cost** | Runic Amplifier <br>Diamond Boots  |
 
 **Skullclamp:**

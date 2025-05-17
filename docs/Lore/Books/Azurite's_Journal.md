@@ -7,7 +7,7 @@
 ??? note "2.2.2 Addition"
     This book was added in the 2.2.2 update, and is not present in prior versions of the map.
 
-This book is found in the [[Aphelion]], in a chest in room B5. It is the journal of a homesick member of the ship's crew, burnt out from the high expectations imposed by Anyr and wishing to see her parents on the disc again.
+This book is found in the [[Aphelion]], in a chest in room A5. It is the journal of a homesick member of the ship's crew, burnt out from the high expectations imposed by Anyr and wishing to see her parents on the disc again.
 
 ## Coordinates
 | **X** | **Y** | **Z** |

@@ -1,4 +1,4 @@
-# X-35 Equine Augmentation Assembly (Warp Horse)
+# X35 Equine Augmentation Assembly (Warp Horse)
 
 --8<-- "spoiler.md"
 
@@ -8,7 +8,7 @@
 
 ![[warphorse_receiver.png]]{ align=left width="300"}
 
-The **Warp Horse** set (officially titled the **X-35 Equine Augmentation Assembly**) is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
+The **Warp Horse** set (officially titled the **X35 Equine Augmentation Assembly**) is one of 30 Legendary Items obtainable in Drehmal: Apotheosis.
 
 Actually a set of two items, the Warp Horse legendary is a unique set of horse armor and receiver, which together allow the player to summon their horse to them at nearly any time. It is found at the [[Exodus Vault]], the location where the 50% completion event takes place.
 
@@ -60,8 +60,10 @@ At the western end of the vault's main hallway/hangar, there are two garages on 
 **Coordinates:** (-2839, 14, 2259)
 
 ## Lore
-The Warp Horse prototypes were developed by Naskiki, a [[Blue Exodus]] staffer at the Exodus Vault, as shown by the holotext they wrote. This holotext states that this was the very first use of alchemically enhanced animals in Avsohm's military.
+The Warp Horse prototypes were developed by Naskiki, a [[Red Dawn]] staffer at the Exodus Vault, as shown by the holotext they wrote. This holotext states that this was the very first use of alchemically enhanced animals in Avsohm's military.
 
 ## Extras
 
 The Warp Horse armor's custom texture has existed in the game files since the 2.2 betas, but was not actually used on the in-game sprite or model until version 2.2.2.
+
+In version 2.2.2 and above, since the item is leather horse armor, it can be dyed different colors just like other leather armor pieces.

@@ -126,7 +126,7 @@ This section contains the 39 advancements found in the "Fabled Equipment" tab (1
 ??? warning "**Fabled Equipment:** *Legendary Gear* - *Odd gear with powerful properties. Perhaps they will prove useful in your journey?*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
-    | X-35 Equine Augmentation Assembly  | Recipe for the Warp Horse Armor and Receiver, Red Dawn's prototype technology, unlocked.    | Find [X-35 Equine Augmentation Assembly](Warp_Horse.md) |
+    | X35 Equine Augmentation Assembly  | Recipe for the Warp Horse Armor and Receiver, Red Dawn's prototype technology, unlocked.    | Find [X35 Equine Augmentation Assembly](Warp_Horse.md) |
     | Eyebiter                           | Recipe for Eyebiter, reflecting Aegis of Maelmari pride, unlocked.                          | Find [[Eyebiter]] |
     | Avsohmic Playback Organizer Device | Recipe for the avPOD, portable audio recording and playback apparatus, unlocked.            | Find [[avPOD]] |
     | LATE-GAME LEGENDARY ITEMS          | \*The legendary gear found below is from a post-75% area.*                                  |  |

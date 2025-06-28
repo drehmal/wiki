@@ -40,7 +40,7 @@ Low-level (Liked) devotion offerings can be found scattered around devotion shri
 
 ## Offerings
 
-Different items can increase devotion to an Aspect or Deity at three levels: a small, medium, or large gain. Within the game's files, these are referred to as "Liked," "Loved," and "Adored" gifts, respectively. These offerings grant 7, 18 and 35 experience points respectively. At intervals of 100 XP, players will earn a new devotion level with the shrine's deity or aspect, and receive a new reward. All shrines have 10 devotion levels, with the exception of Rihelma, who has 13.
+Different items can increase devotion to an Aspect or Deity at three levels: a small, medium, or large gain. Within the game's files, these are referred to as "Liked," "Loved," and "Adored" gifts, respectively. At intervals of 100 XP, players will earn a new devotion level with the shrine's deity or aspect, and receive a new reward. All shrines have 10 devotion levels, with the exception of Rihelma, who has 13.
 
 **Liked Gift Message:**
 > "Your offering fills the room with a pleasing aura. Your devotion to (NAME) has deepened slightly."
@@ -50,6 +50,8 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 
 **Adored Gift Message:**
 > "Your offering fills the room with overwhelming joy. Your devotion to (NAME) has deepened greatly."
+
+The amount of devotion XP gained per offering varies with each god. If this is still here without further elaboration, send @k182 a vague threat on Discord.
 
 ### Drehmal Offerings
 

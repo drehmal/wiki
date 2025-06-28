@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in southern [[Av'Sal]]. It contains a reflection on a debate between four Drehmari (likely children) about religion, in which the author comes to believe that [[Anyr]] may possess a fragment of the spirit of [[Drehmal]] due to his perceived ability to cover great distances nearly instantly (very likely by utilizing the [[Terminus Network|Terminus]]).
 

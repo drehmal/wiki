@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. It is written by [[Devro Ihb]] to the people of his hometown, after his books describing his travels have made him a famous figure among the children of the town in particular.
 

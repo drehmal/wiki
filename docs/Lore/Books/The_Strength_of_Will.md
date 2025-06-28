@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Ancehl Castle]], in the large prismarine-domed building containing a Mihkmari Arcanist.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Rhaveloth]], with a [[Maelmari]] quartermaster presumably receiving a shipment of [[Runic Catalyst|Runic Catalysts]].
 

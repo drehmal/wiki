@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 !!! note "This page is about the book by this name. For a larger overview of the conflict, see [[Insohmic Civil War]]."
 

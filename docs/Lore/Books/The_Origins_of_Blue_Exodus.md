@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame at the Lord Magister's Residence, atop [[Tharxax City]]. It describes the origins of [[Blue Exodus]].
 

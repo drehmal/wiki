@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Faehrcyle]]. In the form of an epic poem, it recites the tale of [[Homli Tahsgan]].
 

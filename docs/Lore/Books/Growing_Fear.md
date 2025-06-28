@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 !!! info "Until the 2.2.2 update, this book was a duplicate of [[Previous Cultivator's Findings]], a separate book in Dusps. If your world download is from before that point, you may have the duplicated version of this book."
 

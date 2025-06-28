@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 --8<-- "minor_spoiler.md"
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a small camp outside [[Mt. Yavhlix]]. It is written by an Insohmic official who had been attempting to open the gate to the facility within the mountain, but has effectively given up after finding no way to enter.
 

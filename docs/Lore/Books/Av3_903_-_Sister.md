@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Av3 903 - Sister
 
 This book can be found in a chest atop the [[Burnt Palace]]. Written by [[Maelihs]], it documents his guilt over his treatment of [[Virtuo]] after her departure from the continent.

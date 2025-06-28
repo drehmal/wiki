@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a shelter on a large volcanic island northeast of [[Casai]], written by a traveler who was preparing to sail from this island north to the [[Island of Dusk]].
 

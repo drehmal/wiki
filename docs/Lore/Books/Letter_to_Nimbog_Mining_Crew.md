@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an abandoned mineshaft in [[Nimahj Swamp]], hinting at the location of an ore vein below this location. A diamond ore vein can be found at the bottom of this mine, hidden behind coal ore.
 

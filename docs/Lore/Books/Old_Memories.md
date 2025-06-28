@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a lectern in a room at the bottom of the [[ICS Arbiter]]. It tells the story of how [[Vahid]] came to become the head of the [[Insohm|Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
 

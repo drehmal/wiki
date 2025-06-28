@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the [[Kiln of Virtuo]]. It refers to the gigantic pink-leaved tree in the southeast portion of the island, highly reminiscent of those from [[Sahd]].
 

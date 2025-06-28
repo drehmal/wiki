@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in one of the buildings in [[Gozak]], referencing pillager activity at [[Castle Scarstone]] to the northeast of the village.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the [[Okeke]] inn. Its author is a practitioner of both arcanism and alchemy, and helps to explain the difference while asserting their personal preferences between the arts.
 

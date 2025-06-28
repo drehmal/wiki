@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Firteid]] Library, and tells an abridged history of the [[Tidal Dynasty]].
 

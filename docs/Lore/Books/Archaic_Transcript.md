@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a thief who was able to eavesdrop on [[Maelihs]] and his officers and overheard his plans to deploy the Skullmother and destroy the Southern Heartwood, creating the region known as [[South Heartwood|Mael's Desolation]].
 

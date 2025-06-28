@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the ruins of [[Wokonori]], the sacred place of the Land-fall Drake [[Taihgel]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for Taihgel.
 

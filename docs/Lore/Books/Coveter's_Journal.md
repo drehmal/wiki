@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at sea level in southwestern [[Av'Sal]], north-northeast of the large statue, showing that commoners were not allowed onto the main central island of the city.
 

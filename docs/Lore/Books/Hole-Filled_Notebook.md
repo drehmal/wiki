@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Hole-Filled Notebook
 
 --8<-- "spoiler.md"

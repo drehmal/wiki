@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Elvett]]. It is the second book in the "Travels of Captain Ihb" series spread throughout the world, and contains Ihb's journey to the island of [[Sahd]] in the far southeast.
 

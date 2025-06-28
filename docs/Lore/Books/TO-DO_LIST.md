@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # TO-DO LIST
 
 This book can be found in an item frame on a tree within the main central domed building in [[Av'Sal]]. It is seemingly written by a [[Mihkmari]] inhabitant of the ruined capital.

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Diary of the Tree-Maris
 
 This book can be found in a chest atop a treehouse in western [[Lorahn'Kahl]], and tells the story of the people who inhabited it as they realized they were surrounded by monsters.

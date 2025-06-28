@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 Located in the chest in a tent on the forested western coast of [[Faehrcyle]], just south of [[Schlonko]], this book describes a Drehmari's account of turning after being cursed by a necromancer in [[Lorahn'Kahl]].
 

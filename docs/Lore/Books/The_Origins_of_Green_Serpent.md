@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Firteid]]. It discusses the mysterious origin of [[Green Serpent]], and the organization's role within [[Avsohm]].
 

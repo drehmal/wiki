@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in one of the buildings in [[Firteid]], in which a Drehmari recounts their exploration of the [[Black Jungle]]'s southern coast, including a sighting of the [[Sahdan Monastery]].
 

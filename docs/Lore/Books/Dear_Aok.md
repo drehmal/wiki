@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest within a small hut, along the southeastern entrance to the [[Moonlight Sanctum]]. Within, an aspiring necromancer writes to [[Aok]], the first necromancer, about their aspirations to be like him.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Rihelma's Ritualists
 
 --8<-- "spoiler.md"

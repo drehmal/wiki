@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Merijool]], beneath a sacred flame just to the west of the [[Shrine of Eternal Flame]].
 

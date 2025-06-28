@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in a small chapel in [[Faehrcyle]]. It is a hymn written to the minor Aspect [[Loeleyhn]].
 

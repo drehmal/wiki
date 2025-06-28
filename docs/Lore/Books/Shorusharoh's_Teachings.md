@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 Also known as The Parable of the Orchard, as denoted by a sign above the book.
 

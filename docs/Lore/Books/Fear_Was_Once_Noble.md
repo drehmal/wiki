@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Faehrcyle]]. It portrays fear as a necessary emotion that protects people from danger, as well as characterizing the actions of [[Tethlaen]], Aspect of Fear, as heroic and protective.
 

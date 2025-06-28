@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest on the central island of [[Av'Sal]]. Written by a Regionalist senator, it laments the newfound popularity of Emperor [[Anyr]], whose Centralist policies are sweeping Avsohmic elections and taking more power away from the individual regions.
 

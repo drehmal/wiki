@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the ruins of Azaim, in northern [[Akhlo'Rohma]]. It describes the night of Avsohm's fall, and concludes that a simple life which does not invite unwanted forces is the best way to live.
 

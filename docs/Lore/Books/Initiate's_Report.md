@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the [[Star-Rise Bastion]] on the [[Island of Dawn]], documenting a Star-Kin initiate's discovery of the ruins of [[Xor'Huul]].
 

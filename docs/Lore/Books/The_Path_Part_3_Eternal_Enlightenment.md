@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # The Path - Part Three: Eternal Enlightenment
 

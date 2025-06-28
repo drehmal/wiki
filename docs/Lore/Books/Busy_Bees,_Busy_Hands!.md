@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the Temple of Bloom and Bough in [[Marahza]]. It is not a writable book, but rather serves to provide hints as to the accepted [[Devotion]] gifts for [[Vayniklah]].
 

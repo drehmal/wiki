@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the Parish of Virtuo in [[Highfall]], expressing dissent against the worship of [[Virtuo]] as opposed to more traditional worship of [[Tethlaen]] in the far north.
 

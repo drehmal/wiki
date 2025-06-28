@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at a church in western [[Spearhead Forest]]. It is written by a person who has begun squatting in the abandoned church, and has appointed themselves its guardian.
 

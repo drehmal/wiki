@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the ruined university at [[Av'Sal]]. It provides, as the title suggests, a brief introduction to alchemy, primarily focusing on the three major schools of alchemy and the main goal of all alchemists—to complete the Great Work.
 

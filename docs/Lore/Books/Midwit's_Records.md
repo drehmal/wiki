@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern at a [[Maelmari]] lookout in the southeastern portion of [[The Carmine]].
 

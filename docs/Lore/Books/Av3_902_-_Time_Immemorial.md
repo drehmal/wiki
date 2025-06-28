@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Av3 902 - Time Immemorial
 
 --8<-- "spoiler.md"

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest beneath a hidden trapdoor in Ohmswil's Emporium, just outside [[Tharxax City]]. It establishes that the bones of [[arcanism|arcanists]] are extremely powerful as magical tools themselves. It is written by someone who has taken up the task of purging the realm of arcanists, using the bones of their fallen compatriots as extremely powerful weapons against them.
 

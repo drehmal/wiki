@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a ruined house in southwestern [[Av'Sal]], just north of the large statue. WIthin, a parent wonders how they will explain to their daughter why Avsohm is so great, and ultimately settles on the efforts of founder [[Drehn|Drehn Mal'Sohm]] as the primary reason for their patriotism.
 

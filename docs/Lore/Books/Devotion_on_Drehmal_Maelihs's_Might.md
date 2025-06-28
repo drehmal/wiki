@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Maelihs's Might
 
 --8<-- "spoiler.md"

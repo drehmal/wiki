@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at a house in southwestern [[Akhlo'Rohma]], just north of [[Drahbes]]. It hints at a [[Runic Catalyst]] hidden under the garden of the house.
 

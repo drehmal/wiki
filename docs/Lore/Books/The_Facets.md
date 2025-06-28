@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # The Facets
 
 --8<-- "spoiler.md"

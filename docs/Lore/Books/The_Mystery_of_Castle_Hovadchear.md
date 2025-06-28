@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a building in [[Mossfield]], and references the crater in southwestern [[Spearhead Forest]] that used to be home to Castle Hovadchear.
 

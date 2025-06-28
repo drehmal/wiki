@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Water-Damaged Letter
 
 --8<-- "spoiler.md"

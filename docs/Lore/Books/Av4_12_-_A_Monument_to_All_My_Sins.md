@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Av4 12 - A Monument to All My Sins
 
 --8<-- "spoiler.md"

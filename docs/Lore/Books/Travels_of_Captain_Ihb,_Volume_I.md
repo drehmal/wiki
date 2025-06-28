@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern on the westward bridge from the center island of [[Av'Sal]]. It is the first in the "Travels of Captain Ihb" series spread throughout the world, written by [[Devro Ihb]], and tells the tale of his origin and his clash with other pirates in [[Palisades Heath]].
 

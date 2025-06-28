@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. Written by [[Devro Ihb]], it would be his final piece of writing before taking a position in the Avsohmic government, as he leaves behind his hometown of Kazzani for the final time.
 

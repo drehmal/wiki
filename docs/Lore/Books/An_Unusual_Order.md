@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest by the Runic Blacksmith in [[Mohta]]. It describes a custom order for a set of gear for a caravan escort who is planning to travel from Mohta to [[Firteid]].
 

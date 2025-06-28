@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Ancehl Castle]]. Written by the young Duchess Cerice of Ancehl, it suggests that a doll given to her by Ehzar is somehow able to cry.
 

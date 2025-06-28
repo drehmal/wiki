@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Post-Ritual Announcement
 
 This book can be found in an item frame in the [[Sepulchral Altar]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Maelihs]].

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # The Tri-Moon Theocracy
 
 This book can be found in a chest in [[Mohta]], and contains a history of the [[Tri-Moon Theocracy]].

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Ebonrun]], referencing the large volcanic island northeast of [[Casai]] as a potential spot for a mining operation.
 

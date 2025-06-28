@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Transcription of Artifact CXE-445
 
 This book can be found in a chest at the Insohmic Research Center in the [[North Heartwood]]. It is a transcription of an audio log recovered from a battlefield, suggesting that the soldiers were wiped out by some kind of "worm" and turned into "perfectly circular holes."

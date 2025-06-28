@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Taihgel's Tales
 
 --8<-- "spoiler.md"

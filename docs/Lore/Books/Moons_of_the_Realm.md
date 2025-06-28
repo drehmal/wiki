@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal: [[Lorahn]], [[Loruhn]], and [[LD|Lo'Dahr]]. It also references a rumored fourth, [[Lo'Veruhkt|hidden moon]], but writes this off as an impossibility.
 

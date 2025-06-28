@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at a small camp in the [[Crimson Gorge]]. It is written by a [[Drehmari]] devotee of [[Maelihs]], in which they profess their reasons for switching allegiances from [[Virtuo]] to Mael.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in a large building in northwestern [[Av'Sal]], and describes the [[Mihkmari]]'s attempts to pillage the ruins of the city, finding nothing functional except a large door.
 

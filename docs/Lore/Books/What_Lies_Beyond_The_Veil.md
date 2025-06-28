@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # What Lies Beyond the Veil?
 

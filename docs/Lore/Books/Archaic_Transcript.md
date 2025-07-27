@@ -22,7 +22,7 @@ This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a th
 >
 > 5 - " Stop the insubordination this instant, Jihn. Remember who you are speaking to."
 >
-> 4 - "The Drehmari, the weak and insignificant, are if course propitious to regain the land they stole from me. There is no greater approach than this to destroy their morale for many millennia."
+> 4 - "The Drehmari, the weak and insignificant, are of course propitious to regain the land they stole from me. There is no greater approach than this to destroy their morale for many millennia."
 >
 > 2 - "What of Drehmal? What will it think of this?"
 >

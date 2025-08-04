@@ -51,8 +51,22 @@ Different items can increase devotion to an Aspect or Deity at three levels: a s
 **Adored Gift Message:**
 > "Your offering fills the room with overwhelming joy. Your devotion to (NAME) has deepened greatly."
 
-The amount of devotion XP gained per offering varies with each god. If this is still here without further elaboration, send @k182 a vague threat on Discord.
+The amount of devotion XP gained per offering varies with each god, as they each award a different amount of points for each offering tier. This is likely to account for the rarity of their respective offerings. Liked offerings typically give single-digit points, while top-tier offerings usually give about 40-50 points each. A table of offering values can be found below.
 
+| **Aspect/Deity** | **Liked** | **Loved** | **Adored** |
+|:----------------:|:---------:|:---------:|:----------:|
+| [[Drehmal]]      | 4 | 20 | 40 |
+| [[Virtuo]]       | 5 | 18 | 50 |
+| [[Maelihs]]      | 10 | 34 | 100 |
+| [[Khive]]        | 7 | 20 | 50 |
+| [[Dahr]]         | 3 | 20 | 35 |
+| [[Rihelma]]      | 6 | 25 | 70 |
+| [[Taihgel]]      | 6 | 30 | 85 |
+| [[Vayniklah]]    | 6 | 18 | 35 |
+| [[Voynahla]]     | 3 | 26 | 75 |
+| [[Lai]]          | 6 | 16 | 40 |
+| [[Loe]]          | 5 | 25 | 50 |
+ 
 ### Drehmal Offerings
 
 Drehmal's devotion hint book reads as follows:

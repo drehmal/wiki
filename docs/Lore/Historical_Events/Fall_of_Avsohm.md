@@ -8,13 +8,13 @@ This information is designed to be learned in-game over the course of nearly the
 
 ## Spoiler-Friendly Synopsis
 
-Avsohm was the single greatest power in Drehmal's history, using their technological dominance to rule over nearly the entire continent for the last 2-3 centuries of the Second Avihm. They seemed to be destined to rule over the entire realm for as long as they pleased, up until one day in Av2 1820.
+Avsohm was the single greatest power in Drehmal's history, using their technological dominance to rule over nearly the entire continent for the last 2-3 centuries of the Second Avihm. They seemed to be destined to rule over the entire realm for as long as they pleased, until one fateful day in Av2 1820.
 
-Within the course of this singular day, approximately 75% of Avsohm's top government officials, military officers, and other high brass mysteriously disappeared, with various accounts describing a series of extremely bizarre events on the day of the fall. These include apocalyptic storms, sightings and rumors of twisted monsters and ominous figures, and Avsohmic buildings found riddled with perfectly circular holes. A particularly high amount of attention is pointed at Avsohm's secretive actions around [[Mt. Yavhlix]], where the empire's doom may have begun.
+Within the course of this singular day, approximately 75% of Avsohm's top government officials, military officers, and other high brass mysteriously disappeared, with various accounts describing a series of extremely bizarre events on the day of the fall. These include apocalyptic storms, sightings and rumors of twisted monsters and ominous figures, and Avsohmic buildings found riddled with perfectly circular holes. A particularly high amount of attention is pointed at Avsohm's secretive actions around [[Mt. Yavhlix]].
 
-With the empire's infrastructure crippled, [[Maelihs]] launched a long-awaited war on the west with his most vicious designs, the [[Skullbeasts]], and reclaimed almost all of western Drehmal with almost no resistance. Elsewhere, regional leaders were suddenly heads of state once again, with no greater banner to unite the Drehmari race. Anything related to Avsohm became taboo, and many cultures tried to distance themselves from the fallen empire as quickly as they could.
+With the empire's infrastructure crippled, [[Maelihs]] launched a long-awaited war on the west with his most vicious designs, the [[Skullbeasts]], and reclaimed almost all of western Drehmal with minimal resistance. Elsewhere, regional leaders were suddenly heads of state once again, with no greater banner to unite the Drehmari race. Anything related to Avsohm became taboo, and many cultures tried to distance themselves from the fallen empire as quickly as they could.
 
-In the coming years, some would try to recreate the unity and strength that the Drehmari once felt under Avsohm, with the [[Insohm|Insohmic Order]] coming the closest. Ultimately, none would succeed, and nobody would even come particularly close to replicating Avsohm's technological prowess ever again.
+In the coming years, some would try to recreate the unity and strength that the Drehmari once felt under Avsohm, with the [[Insohm|Insohmic Order]] coming the closest. Ultimately, none would succeed, and nobody would even come particularly close to replicating Avsohm's technological dominance ever again.
 
 ## Background
 
@@ -62,7 +62,7 @@ Those Beyond, with their task largely complete, consumed themselves, one another
 
 ***
 
-Supposedly [[aphelion_yav.md|propagating through the surveillance camera feed]] between Mt. Yavhlix and the [[Aphelion]], the hole monsters were able to reach the empire's flagship. Commander Verpyne sent an SOS through [[avSYS]] to any high-ranking officers, which went unanswered until the player heard it in the 75% event.
+Supposedly [[aphelion_yav.md|propagating through the surveillance camera feed]] between Mt. Yavhlix and the [[Aphelion]], the hole monsters were able to reach the empire's flagship. Commander Verpyne sent an SOS through [[avSYS]] to any high-ranking officers, which went unanswered until the player heard it in the [[Admin Wing]].
 
 Based on the relative lack of damage to the ship itself, it seems that Those Beyond may not have reached the Aphelion in large numbers, but many of the crew members were killed or corrupted by the Nothing.
 
@@ -80,9 +80,9 @@ In [[Khive's Domain]], the book [[Dread of the Ageless]] describes the unique fa
 
 **Stasis Facility**
 
-Immediately following Orix's order to seal off Mt. Yavhlix, he and a select few other high-ranking Avsohmic officials were put into indefinite temporal stasis at the [[Stasis Facility]]. Intending to remain in stasis for a few years then awaken to re-establish the empire, these people were instead frozen in time for over a thousand years. 
+Immediately following Orix's order to seal off Mt. Yavhlix, he and a select few other high-ranking Avsohmic officials were put into indefinite temporal stasis at the [[Stasis Facility]]. Intending to remain in stasis for a few years then awaken to re-establish the empire, these people were instead frozen in time for over a millennium. 
 
-The facility was breached by the [[Emissary of the Void]], likely just after the fall. It is possible that the Emissary tampered with the facility's system, extending the duration of stasis to an indefinite amount of time to sabotage the remnants of the empire.
+The facility was breached by the [[Emissary of the Void]], likely just after the fall. It is possible that the Emissary tampered with the facility's system, extending the duration of stasis to an indefinite amount of time to sabotage the remnants of the empire, although the Emissary's exact motives and actions are unclear.
 
 ***
 
@@ -90,7 +90,7 @@ The facility was breached by the [[Emissary of the Void]], likely just after the
 
 On the day of Avsohm's fall, [[Maelihs]], in a perpetual state of war against the empire, learned that their infrastructure and leadership had been mysteriously devastated. Wasting no time, the Burnt Lord launched an all-out assault on the western stronghold of [[Sal'Anyr]]. Deploying the [[Skullbeasts]] for the very first time, Mael's forces captured and razed Sal'Anyr in a day, and expanded their conquest to the entirety of the west. 
 
-This war of conquest would come to be known as the [[Dune Wars]], a catastrophic loss for the people of the west, who would be subjugated by [[Maelmari]] off-and-on for the next millennium.
+This war of conquest would come to be known as the [[Dune Wars]], a catastrophic loss for the people of western Drehmal, who would be subjugated by [[Maelmari]] off-and-on for the next millennium.
 
 ## Perpetrators
 
@@ -98,7 +98,7 @@ In the end-game sequence, one character speaks to the player and directly claims
 
 [[yellow|The Mythoclast]].
 
-Mytho states that Avsohm was one of very few groups that became powerful enough to necessitate his direct intervention, as they sought the power of his metaphorical "crown". As such, it can be implied that the catastrophe which befell Avsohm was all, to some extent, the will of the Mythoclast.
+Mytho states that Avsohm was one of very few groups that became strong enough to necessitate his direct intervention, as they sought the power of his metaphorical "crown". As such, it can be implied that the catastrophe which befell Avsohm was all, to some extent, the will of the Mythoclast.
 
 Multiple different beings are implicated in the mass killing of Avsohm's people.
 

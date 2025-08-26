@@ -8,7 +8,10 @@ search:
 ![[hellcrags_titan.png]]
 > The Titan of Strength (a colossal depiction of Maelihs), one of two statues marking the entrance to the [[Hellcrags]].
 
-**Maelihs** (also referred to less formally as **Mael**) is one of the three deities born from the Primal Tree upon [[Felling|its collapse]], and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm, waging nearly constant wars of conquest against the [[Drehmari]] of the realm from his [[Empire of Maelihs|empire]] in the southwest of the continent.
+**Maelihs** (1) (pronounced interchangeably as "mail-iss" or "malice") is one of the three deities born from the Primal Tree upon [[Felling|its collapse]], and is identified as a god representing chaos and destruction. He has been a major figure in the history of [[Overworld|Drehmal]] since the beginning of the Second Avihm, waging nearly constant wars of conquest against the [[Drehmari]] of the realm from his [[Empire of Maelihs|empire]] in the southwest of the continent.
+{ .annotate }
+
+1. Also referred to less formally as "Mael", rhyming with "male" or "mail".
 
 |  |  |
 |:----------:|:----------------------:|
@@ -20,7 +23,9 @@ search:
 
 ## Description
 
-Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He is known for being wrathful and aggressive, constantly being in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
+Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He has a very heavy build, with distinctive burnt red skin and jet black hair. He is often depicted wearing a helmet that covers his face.
+
+He is known to act wrathful and aggressive, constantly in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
 
 ## Maelmari
 
@@ -109,6 +114,6 @@ Maelihs' [[Relics|relic]] is the **[[Relics#Sprout of Anguish|Sprout of Anguish]
 
 It is discovered via his diaries at the top of the Burnt Palace that Maelihs moved to [[Ytaj]] in Av4 12 to isolate himself from his fanatics and gain proximity to his Aspect relatives. There, the player can find and speak with him, learning that the deity, stricken by guilt, wishes only to be able to right his wrongs by destroying his palace and purging the realm of his evil armies.
 
-Maelihs can be spoken to at his chamber via an in-game dialogue tree, which can be found in full [[Mael_Dialogue.md|here]].
+Maelihs can be spoken to in his chamber via an in-game dialogue tree, which can be found in full [[Mael_Dialogue.md|here]].
 
 Maelihs is mentioned by [[yellow|???]] in the [[True End|final sequence of the game]].

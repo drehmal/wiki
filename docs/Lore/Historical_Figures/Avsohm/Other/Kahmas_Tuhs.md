@@ -1,6 +1,6 @@
 # Kahmas Tuhs
 
-**Kahmas Tuhs** was an elite [[Avsohm|Avsohmic]] general, and the head of [[Blue Exodus]]. He was frozen in temporal stasis at the [[Stasis Facility]], and his pod appears to have opened several years before the [Stasis Eight](/Lore/Historical_Figures/Stasis_Eight/). It is unclear if he is still alive somewhere in the realm.
+**Kahmas Tuhs** was an elite [[Avsohm|Avsohmic]] general, and the head of [[Blue Exodus]]. He was frozen in temporal stasis at the [[Stasis Facility]], and his pod appears to have opened several years before the [Stasis Eight](/Lore/Historical_Figures/Avsohm/Stasis_Eight/). It is unclear if he is still alive somewhere in the realm.
 
 ## History
 

@@ -8,7 +8,7 @@ search:
 <div class="annotate" markdown>
 
 > - **Duration:** (Unknown year, likely late Av2 1500s or early Av2 1600s) (1) - Av2 1820
-> - **Location:** [Central Drehmal](/World/Central_Regions/), [Western Drehmal](/World/Central_Regions/) (other than southwest), Islands of [[Island of Dawn|Dawn]] and [[Island of Dusk|Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood ([[North Heartwood|North]] and [[South Heartwood|South]])
+> - **Location:** [Central Drehmal](/World/Regions/Central_Regions/), [Western Drehmal](/World/Regions/Western_Regions/) (other than southwest), Islands of [[Island of Dawn|Dawn]] and [[Island of Dusk|Dusk]], [[Akhlo'Rohma]], [[Faehrcyle]] + [[Mt. Yavhlix]], [[Purity Peaks]], Heartwood ([[North Heartwood|North]] and [[South Heartwood|South]])
 > - **Capital City:** [[Av'Sal]]
 > - **Form of Government:** Empire (ruled by an emperor and a senate)
 > - **Rulers:** [[Drehn|Drehn Mal'Sohm]], [[Ifeihl|Zorhis Ifeihl]], [[Anyr|Uffeihl Anyr]]

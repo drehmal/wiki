@@ -8,6 +8,9 @@
 
 The ruins are centered around a ruined, nameless ziggurat, which is the site of Khive's devotion altar. 
 
+!!! abstract "Location"
+    Approximate Coordinates: `1110, 68, 1059`
+
 ## Layout
 
 The ziggurat is the town's main feature, with signs around it claiming that this is an active dig site. Several small tents are set up around the ziggurat, inhabited by [[Drehmari]] archeologists attempting to re-discover ancient runes or treasure. The ruins of the town are primarily made of stone brick and other simple materials, west of the ziggurat.

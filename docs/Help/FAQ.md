@@ -124,6 +124,12 @@ Attempting to play without the mods will make traversing the main story very dif
 
 1. Specifically, CIT Resewn is the mod that handles holotext displays. If you have the wrong version of this mod, or are attempting to play without it, this will pose a problem.
 
+### Are There Translations Available? Can I Translate the Map?
+
+There are not currently any full translations of the map to non-English languages, largely due to the massive scope of Drehmal. Some translation efforts have taken place, including an ongoing Chinese translation, but nothing has been published or officially recognized by the Drehmal team.
+
+If you wish to translate the map, you are welcome to try, but know that there is a truly massive amount of relatively dense text to translate, with about 100,000 words' worth of player-facing text existing in the native English.
+
 ## Wiki Content
 
 Questions about this wiki itself, and its scope.

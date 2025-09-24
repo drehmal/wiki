@@ -1,6 +1,6 @@
  
 
-This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the [Minor Aspects](Lore/Higher_Beings/Aspects/Minor_Aspects/).
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the [Minor Aspects](/Lore/Higher_Beings/Aspects/Minor_Aspects/).
 
 ## Coordinates
 | **X** | **Y** | **Z** |

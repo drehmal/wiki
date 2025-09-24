@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 !!! info "This page is about the book by this name. For a more thorough description of the concept, see the [Alchemy page](Alchemy.md)."
 

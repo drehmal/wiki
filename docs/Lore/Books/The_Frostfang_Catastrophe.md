@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # The Frostfang Catastrophe (Book)
 

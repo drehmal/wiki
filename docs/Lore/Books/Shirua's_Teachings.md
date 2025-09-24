@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 Also known as The Parable of the Stone Tablet, as denoted by a sign above the book.
 

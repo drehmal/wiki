@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern at a shrine to [[Rihalae]] in the [[North Heartwood]], south of [[Gozak]].
 

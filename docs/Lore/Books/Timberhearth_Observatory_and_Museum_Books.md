@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 This page contains the text of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. This building is a reference to the Museum in Timber Hearth in the game Outer Wilds. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology.
 
 ## Rehntite Catalyst

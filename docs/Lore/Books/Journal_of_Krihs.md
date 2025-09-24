@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Faehrcyle]]. Written by a traveler seeking information about their Faehrcylian ancestors, the book hints at the location of a [[Runic Catalyst]].
 

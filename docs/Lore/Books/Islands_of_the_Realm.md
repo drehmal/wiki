@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Highfall]] library, and describes the three major outlying islands of Drehmal: The [[Island of Dusk]], [[Island of Dawn]], and [[Sahd]].
 

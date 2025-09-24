@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a small house just north of the [[Faehrcyle]] Tower.
 

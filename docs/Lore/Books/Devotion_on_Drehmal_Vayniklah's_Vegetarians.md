@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Vayniklah's Vegetarians
 
 --8<-- "spoiler.md"

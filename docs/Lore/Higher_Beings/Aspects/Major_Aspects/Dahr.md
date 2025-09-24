@@ -30,13 +30,13 @@ Dahr is very heavily associated with the color blue, and Dahr-related builds oft
 
 Dahr was responsible for the creation of the oceans of Drehmal, bringing the first water to the realm. 
 
-He was also responsible for the creation of the moon of [[LD|Lo'Dahr]], initially creating the moon as a vast warm ocean for his own mortal subjects. The other Aspects would eventually move to Lo'Dahr, changing its landscapes significantly, but as the ruler of the moon, Dahr has retained the title of King of Lo'Dahr, and by extension, the leader of the Prismatic Council of the Aspects.
+He was also (at least partially) responsible for the creation of the moon of [[LD|Lo'Dahr]], establishing the moon as a vast warm ocean for his own mortal subjects. The other Aspects would eventually move to Lo'Dahr, changing its landscapes significantly, but as the ruler of the moon, Dahr has retained the title of King of Lo'Dahr, and by extension, the leader of the Prismatic Council of the Aspects.
 
 ## History
 
 Dahr is one of the Elder Aspects, the four most ancient Aspects created by the Primal Tree before the dawn of Av1. His initial task in the creation of the realm was filling the ocean basins of the [[disc]], and shortly afterward, he would go on to create the moon of Lo'Dahr.
 
-Dahr and [[Rihelma]] together created their son, the [[Palaesida|Tempest Palaesida]], Aspect of Storms. [[Dahroehl]] is his child by himself.
+Dahr and [[Rihelma]] together created their son, the [[Palaesida|Tempest Palaesida]], Aspect of Storms. [[Dahroehl]] is his own child.
 
 ## Devotion Guide
 

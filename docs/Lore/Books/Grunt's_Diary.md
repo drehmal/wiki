@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at a small camp on the northern island of the Shattered Peninsula. It is written by a [[Maelmari]] grunt part of the expedition to locate the [[Coven of Potentia]].
 

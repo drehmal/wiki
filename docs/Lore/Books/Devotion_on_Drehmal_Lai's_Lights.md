@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Lai's Lights
 
 --8<-- "spoiler.md"

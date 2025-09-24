@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the library room of [[Teiruun Monastery]]. It discusses the history of the monastery, from its founding to the unique culture its populace developed over time.
 

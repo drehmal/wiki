@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Firteid]]. It contains the writing of a frustrated botanist, upset at the fact that every plant in their garden seems to have been planted in the wrong location.
 

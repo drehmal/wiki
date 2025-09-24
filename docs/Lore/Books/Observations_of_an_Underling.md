@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Burnt Palace]], describing the fallout of the betrayal of [[Klyhf|Klyhf Him'Lahk]], an alchemist who was in the service of [[Maelihs]] for eleven years before attempting to sacrifice the deity to complete the [[Alchemy#Great Work|Great Work]].
 

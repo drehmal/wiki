@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest outside the [[Kiln of Virtuo]], in the Kiln Attendants' Residence building. It is written by Monk Gehru, and contains Gehru's account of Virtuo's departure and their own subsequent appointment to the Grand Parish as the only remaining member, as well as their attempts to rebuild the Parish and the Kiln.
 

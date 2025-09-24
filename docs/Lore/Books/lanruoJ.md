@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Rhaveloth]]. With the text reversed, it reads: "Why is nothing working, why why why. Every day I wake up."
 

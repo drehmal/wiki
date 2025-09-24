@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Athrah]], in a building near the dock. It references the [[Avsohmic Vault]] off the western coast of [[Casai]].
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Elvett]]. It is written by a local ealdorman, frustrated at a young man developing an interest for the massive Avsohmic bridge over their town and suggesting there is nothing there.
 

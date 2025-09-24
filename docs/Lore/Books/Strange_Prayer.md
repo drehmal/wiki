@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Strange Prayer...
 
 This book can be found in a chest in [[Firteid]], hidden beneath the floorboards of a small house. It seems to be a an easter egg referencing the third co-lead developer of the map, DomeMaster.

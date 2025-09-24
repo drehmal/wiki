@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the ruins of Rhaverik in the [[North Heartwood]]. From it, we learn that Rhaverik was a mining town, and was warned not to continue mining for rehntite by a traveling witch. They refused to heed this warning, and most of the town was lost to a colossal sinkhole.
 

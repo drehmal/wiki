@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the ruined university at [[Av'Sal]]. It describes the field of Practical Biomechanics, the use of Alchemy to produce everyday materials such as wood.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest atop a hill in southeastern [[Av'Sal]]. Written by a former tutor of Avsohmic founder [[Drehn|Drehn Mal'Sohm]], it recounts how he was a bright student and a capable leader from his early days, as well as providing insight into the method through which he obtained the title of Emperor.
 

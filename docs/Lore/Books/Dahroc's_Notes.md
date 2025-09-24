@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against [[Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
 
@@ -31,3 +28,8 @@ This book can be found in a chest at the [[Burnt Palace]]. It documents the ment
 >
 > It's over. Mael and Virtuo reached an ultimatum and ended the conflict with Insohm. I truly fear what this means for us. Mael has gone insane, giving up so much of his domain so easily. I hope he has a change of heart.
 
+## Extras
+
+Some dates in this book seem to conflict with other events in the late Third Avihm. In particular, this book suggests that the war between Maelihs and Insohm, the [[Battle for Drehmal]], ended more than 200 years before the end of Av3, marked by [[Virtuo]]'s departure. The [[Old Memories]] book, however, suggests that Vahid and Virtuo leaving was what caused Insohm to fall in the Battle for Drehmal. This timeline would also imply that [[Vahid]]'s takeover of Insohm took place in the late Av3 600s, which is two centuries before the disappearance of [[Castle Hovadchear]] left Insohm leader-less.
+
+This book has been stated to have the correct dates by developers, but remains a source of time conflicts in the current canon.

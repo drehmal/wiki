@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Highfall]], and describes a trip through [[Akhlo'Rohma]] in which a Drehmari stumbled across the entrance to the [[Rehntite Cave]].
 

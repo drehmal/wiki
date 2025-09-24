@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in northeastern [[Av'Sal]], written by a concerned woman whose family is squatting in the ruins of the former Avsohmic capital, fearing that the [[Mihkmari]] will find them.
 

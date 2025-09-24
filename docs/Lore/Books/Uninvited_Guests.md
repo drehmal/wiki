@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Hevhlak]]. It contains a story told by the Wingmaker Arjen, warning the residents of Hevhlak about [[Tethlaen]] and assuring them that the Wingmakers have renounced him.
 

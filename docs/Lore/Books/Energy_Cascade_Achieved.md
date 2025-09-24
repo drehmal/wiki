@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]].
 

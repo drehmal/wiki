@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Ebonrun]], hinting at the location of the Flammer legendary in southern [[Mt. Ebonfire]].
 

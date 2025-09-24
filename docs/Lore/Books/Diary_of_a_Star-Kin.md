@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Diary of a Star-Kin
 
 This book can be found in an item frame in the [[Star-Rise Bastion]] on the [[Island of Dawn]]. It describes the last time that one of the Star-Kin saw their idol, the aspect [[Rihelma]], as she left for Lo'Veruhkt, with the intent of never returning to Drehmal.

@@ -12,6 +12,8 @@ There are no major settlements in the Verdant Labyrinth, however there is a sign
 
 ## History
 
+Lore which no longer exists in the official map once suggested that the Verdant Labyrinth was once a normal part of the eastern mountain range, until an extremely powerful arcanist known as the [[Verdant Mistress]] turned it into an ever-shifting natural labyrinth, in an attempt to deter the forces of [[Maelihs]] from entering the East. This would likely place the creation of the labyrinth in either the ancient [[Deity War]] or the Av3 [[Tidal War]].
+
 Some time in the Third Avihm, the hero Deigh the Dawnstrider united many of his fellow, oppressed Mihkmari and led them to the Verdant Labyrinth to gain security from [[Maelihs|Maelihs's]] armies. This clan continues to occupy the land until the present day.
 
 ## Points of Interest

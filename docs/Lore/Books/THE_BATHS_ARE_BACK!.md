@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Firteid]]. It celebrates the re-opening of the city's public baths, and hints at a celestial chondrule in the building.
 

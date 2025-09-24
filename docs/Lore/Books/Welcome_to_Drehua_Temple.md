@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame at the entrance to [[Drehua Temple]]. It is not a writable book, and gives a hint as to the accepted [[Devotion]] gifts for [[Drehmal]].
 

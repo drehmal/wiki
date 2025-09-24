@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It contains the initial negotiation between the Project ArkAngel researchers and the representatives of [[Virtuo]] for the former to utilize the space behind the Kiln for Project ArkAngel, with the [[Virmari]] ultimately accepting in the hopes that learning more about divine magic can help the [[Drehmari]].
 

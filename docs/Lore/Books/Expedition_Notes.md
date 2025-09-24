@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a gatehouse on the road from [[Highfall Tundra]] to [[Faehrcyle]]. It is written by the [[Mihkmari]] inhabitants of the gatehouse, who were preparing to venture west into Faehrcyle in search of treasure.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a room beneath the [[Kiln of Virtuo]]. Written by [[Virtuo]], it expresses her frustration with her own inaction over the course of history.
 

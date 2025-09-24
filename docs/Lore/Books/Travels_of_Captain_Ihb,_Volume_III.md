@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern atop a treehouse in the northern [[Black Jungle|The Black Jungle]]. It is the third installation in the "Travels of Captain Ihb" series, and tells the tale of Ihb's journey north to the [[Island of Dusk]] and [[Island of Dawn]], in search of [[Xor'Huul]].
 

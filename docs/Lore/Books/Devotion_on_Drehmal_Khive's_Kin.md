@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Khive's Kin
 
 --8<-- "spoiler.md"

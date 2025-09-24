@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern, at the top of the [[Mihkmari]]-inhabited tower in the [[Verdant Labyrinth]] region. It contains lore on the aspects, including [[Khive]] and [[Tethlaen]], as well as rumination on the origins of [[Mt. Yavhlix]].
 

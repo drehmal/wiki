@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Helmshire]]. It describes a series of disappearances that fractured the community, resulting in about half of the village choosing to leave for a supposed sanctuary to the north.
 

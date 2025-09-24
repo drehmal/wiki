@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 !!! info "This page is for the lore book by this name, found in Athrah. For a summary of the empire itself including other sources, see [[Casain Empire]]."
 

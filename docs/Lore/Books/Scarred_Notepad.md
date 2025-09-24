@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Tharxax City]] Treasury room, in which a tax collector for [[Maelihs]] questions their dedication to the chaos deity after seeing life in Tharxax.
 

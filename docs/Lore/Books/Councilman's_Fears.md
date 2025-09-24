@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern at the Insohmic [[Coven of Potentia]], reacting to the disappearance of [[Castle Hovadchear]].
 

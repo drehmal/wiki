@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the [[Firteid]] docks. Written by a Drehmari in [[Mossfield]], it is addressed to a [[Maelmari]] living in [[Rhaveloth]] who was his uncle before being ascended. The letter asks Amos (known as Gharak Ahgel as a Maelmari) to come home and see his family.
 

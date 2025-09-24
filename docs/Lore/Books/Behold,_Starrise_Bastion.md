@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Star-Rise Bastion]] on the [[Island of Dawn]]. It shows that the current inhabitants of the bastion were formerly [[Virmari]], but dedicated themselves to [[Rihelma]] after the disappearance of [[Virtuo]].
 

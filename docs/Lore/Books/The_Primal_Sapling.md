@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Okeke]], atop a lighthouse at the docks. It references a "great tree" to the east of the town, pointing the player towards the [[Primal Sapling]].
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # The Fall of Avsohm (Book)
 

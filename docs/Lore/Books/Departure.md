@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Morah]]. It describes a resident of Morah's decision to finally leave the village and pursue The Path, becoming a religious pilgrim in old age.
 

@@ -1,9 +1,3 @@
----
-tags:
-  - Locations
-  - Regions
----
-
 # Drehmal Regions
 
  ![[drehmal_regions.png]]

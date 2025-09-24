@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in southern [[Av'Sal]]. It contains a child's account of their father being promoted to a new, higher-ranking job within the Avsohmic government, but consequently not being able to return home until the day of the empire's fall.
 

@@ -38,6 +38,12 @@ The next screen contains the downloads for the Drehmal instance. Simply press ea
 
 **Server Installation** includes the map and a Minecraft server jar, a necessary file for running a server. Server jars for Drehmal can be Fabric or Vanilla. This path will also allow you to toggle some options, such as allowing or disallowing PvP and setting a maximum number of players for your server. Follow the instructions shown on the installer! Additional instructions for multiplayer setup can be found in the [[FAQ#How Do I Play Drehmal With Others?|FAQ page]].
 
+### Modrinth Installation
+
+Added as an option on May 5th, 2025, Drehmal can also be set up directly through a Modrinth instance. Using the Modrinth launcher, use [this instance](https://modrinth.com/modpack/drehmalmc) to set up all of the required mods and the resource pack. Due to file size limits, this will not be able to install the world file itself, so you will need to manually install the world and place it into the appropriate folder (AppData/Roaming/ModrinthApp by default, in the same location as AppData/Roaming/.minecraft).
+
+Modrinth Installation is a little simpler than the installer, but does require this one manual aspect.
+
 ### Manual Installation
 If you're using a third-party launcher, or if the installer just isn't working for you, then you may need to install Drehmal manually. Don't worry, it's not too complicated, but you will need to move some things around yourself.
 

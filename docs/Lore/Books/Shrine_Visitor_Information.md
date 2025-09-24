@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern at a shrine to [[Drehmal]] in the far southwest of [[Sahd]].
 

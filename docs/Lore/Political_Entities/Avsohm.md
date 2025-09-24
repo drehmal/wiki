@@ -28,7 +28,7 @@ search:
 
 The **Empire of Avsohm**, also known as the **Avsohmic Empire** or simply **Avsohm** (pronounced "av-sAWm"), was a powerful empire spanning most of the [[Overworld|continent]] in the late Second Avihm. Avsohm's discovery of plentiful sources of both rehntite, a powerful material fit for [[Arcanism|runic inscription]], and [[Primal Energy|primal energy]] spurred rapid technological growth, known as the "Miracle of Avsohm", that allowed the empire to expand its domain and achieve unprecedented levels of power. 
 
-The empire collapsed due to a [[Fall of Avsohm|catastrophe]] caused by supernatural forces, marking the turning point between the Second and Third Avihm. Even in the modern day, the Empire of Avsohm is considered to have been the most advanced and impactful society in the realm's history. 
+The empire collapsed in a [[Fall of Avsohm|catastrophe]] caused by supernatural forces, marking the turning point between the Second and Third Avihm. Even in the modern day, the Empire of Avsohm is considered to have been the most advanced and impactful society in the realm's history. 
 
 Uncovering the ancient, secret affairs of Avsohm are the focus of the [[Story Progression|main story]], with the player being an Avsohmic [[Drehmari]] that awoke from temporal stasis, over a thousand years after the empire's collapse.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Tharxax City]], written by a traveler looking for some of the biggest features on the continent. The book compares the walls of [[Rhaveloth]] to the great wall of [[Maehrn'Vhos]], and ends with the goal of visiting [[Akhlo'Rohma]] to see the megaflora of the region.
 

@@ -299,11 +299,11 @@ The following two legendaries are found in locations that can technically be acc
     | **Lore**                      | A strange technological artifact gifted by avSYS, constructed by the brilliant scientists housed here thousands of years ago. Despite the cutting edge technology used in its construction, its weaknesses are hard to ignore, mainly being prone to combustion and an aversion to water-based magics. |
     | **Obtain**                    | At the top of the tallest domed building in [[Sal'Mevir]].  |  
 
-### X-35 Equine Augmentation Assembly
+### X35 Equine Augmentation Assembly
 
 --8<-- "50_spoiler.md"
 
-The [[Warp_Horse.md|X-35 Equine Augmentation Assembly]] (better known as "Warp Horse") is a legendary item that allows for the teleportation of one or more horses tamed by the player. It is found during the 50% completion event, and consists of two parts: a piece of diamond horse armor, and a receiver, the latter being a remote that can be used to recall the horse.
+The [[Warp_Horse.md|X35 Equine Augmentation Assembly]] (better known as "Warp Horse") is a legendary item that allows for the teleportation of one or more horses tamed by the player. It is found during the 50% completion event, and consists of two parts: a piece of diamond horse armor, and a receiver, the latter being a remote that can be used to recall the horse.
 
 ??? warning "Warp Horse Armor[^1] Details"
     | ![[warphorse_armor.png]]{ width="48" } | WarpHorse Armor MkIII           |

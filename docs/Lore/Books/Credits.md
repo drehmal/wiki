@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 !!! note "This book is not a part of the in-universe lore."
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # AUDIO RECORDING: DIVE 002
 
 --8<-- "spoiler.md"

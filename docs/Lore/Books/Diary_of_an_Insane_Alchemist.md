@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Skeveraan Laboratory]] in southwest [[Spearhead Forest]], written by the insane alchemist who inhabits the building and presumably kidnapped many of the residents of [[Helmshire]].
 

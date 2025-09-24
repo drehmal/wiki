@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be located in a chest in the [[Nihilist's Cabin]] in the [[Frozen Bite]] region.
 

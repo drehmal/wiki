@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern, in a building on an island off the eastern coast of The [[Frozen Bite]].
 

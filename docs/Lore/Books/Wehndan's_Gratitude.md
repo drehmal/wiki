@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Avsohm|Empire of Avsohm]].
 

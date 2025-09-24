@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Athrah]]. It written by a Casain trader procuring goods from elsewhere to sell in Athrah, writing home to his family before beginning the trip back.
 

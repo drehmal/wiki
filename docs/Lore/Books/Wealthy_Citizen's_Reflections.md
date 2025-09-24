@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in southeastern [[Av'Sal]]. It tells the story of a wealthy Avsohmic painter, who grew up the child of a lumberjack in [[Spearhead Forest]], but was sent away to study painting after her father discovered her talent for the art. She studied in several of the finest academies in the realm, and eventually made a strong name for herself as a painter in Av'Sal. She was able to transition using Avsohmic runic tattoo technology, married, and had children, and at the time of writing, ponders if she should bring her husband and children to meet their grandfather for the first time.
 

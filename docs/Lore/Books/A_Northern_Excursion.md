@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the Casain Residences of [[Dusps]]. It references the large Avsohmic pipes found in the northern portion of [[Akhlo'Rohma]], and the author resolves to follow them to their origin to the north.
 

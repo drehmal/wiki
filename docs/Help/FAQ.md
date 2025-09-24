@@ -23,6 +23,16 @@ Previously, Drehmal v2.1 was built for JE version 1.16.5, and v2.2: Apotheosis w
 
 No. Drehmal is designed only to work on its current version of Minecraft, which is 1.20.1 for version 2.2.1 and above. Loading the map on previous or later versions will break several features related to the extensive datapack, breaking almost all of the custom gameplay features such as weapon abilities, story sequences, advancements, music, and more.
 
+### Can I Update the Map to a Newer Version?
+
+Many people ask if it's possible to update from an older version of Drehmal to a newer one. In short, the answer is no.
+
+While it may be technically possible to do something like update from 2.2.1 to 2.2.2 by completely replacing the datapack and replacing a few changed region files, this is more likely to mess up your save than anything else. Attempting to update between versions (such as moving between 2.2.0 and 2.2.2, which run on Minecraft versions 1.17.1 and 1.20.1 respectively) would be almost guaranteed to corrupt your world.
+
+### Is There a Forge Modlist?
+
+There is not a readily available one, but playing Drehmal on Forge is possible, if you find suitable Forge versions/alternatives for each of the required mods.
+
 ### Should I Play Drehmal With Others or Alone?
 
 People often ask whether they should play this map on their own or with others. As is the case with many of these questions, it depends! There is not truly an official recommendation, although the map has been designed to be fully compatible with multiplayer, up to 8 people at once. Note: this limit does not mean that more than 8 people cannot play on a Drehmal server, but rather, it simply means that some story locations are not designed for more than 8 players at a time.
@@ -74,6 +84,8 @@ The following table discusses suggestions and compatibility for some common mods
 
 Yes, Drehmal can be played on third-party Minecraft launchers such as TLauncher, ATLauncher, or Prism, although the installer can only set up the world on the vanilla Minecraft Launcher. Therefore, if you wish to use these launchers, you will need to [[Getting Started#Manual Installation|install Drehmal manually]].
 
+We also cannot officially offer support for cracked/pirated launchers.
+
 ### My Game Is Stuck on the Resource Pack Loading Screen. What Do I Do?
 
 Are you stuck on an infinite Mojang loading screen, particularly when you try to select the resource pack? Try downloading the [alternative resource pack](https://drive.google.com/drive/folders/1kgF-wYFpuGT1fCPRjd4f8YB-vQIhJ4yz) from the Google Drive folder, in the second folder named "open this if you have resource pack errors". Replace the default resource pack with this one, and try running the game again.
@@ -107,7 +119,16 @@ If you really want the terrain itself, perhaps look into earlier versions such a
 
 Strictly speaking, the mods are not required for most of the map to work. They primarily serve as optimization and visual mods for custom textures and item models, as well as adding the custom skyboxes. The mods do not add significant new content, but rather, help the vanilla-plus content in the map to work and render properly.
 
-Attempting to play without the mods will make traversing the main story very difficult, primarily because [holotexts](/Story_and_Features/Holotexts/) will not appear. These are crucial hints for main story sections, and even leaving the starting area without them is difficult. The map will load and the terrain will be present if you do not have the mods installed, but if you intend to play through Drehmal's actual story at all, do not attempt to play without the mods.
+Attempting to play without the mods will make traversing the main story very difficult, primarily because [holotexts](/Story_and_Features/Holotexts/) (1) will not appear. These are crucial hints for main story sections, and even leaving the starting area without them is difficult. The map will load and the terrain will be present if you do not have the mods installed, but if you intend to play through Drehmal's actual story at all, do not attempt to play without the mods.
+{ .annotate }
+
+1. Specifically, CIT Resewn is the mod that handles holotext displays. If you have the wrong version of this mod, or are attempting to play without it, this will pose a problem.
+
+### Are There Translations Available? Can I Translate the Map?
+
+There are not currently any full translations of the map to non-English languages, largely due to the massive scope of Drehmal. Some translation efforts have taken place, including an ongoing Chinese translation, but nothing has been published or officially recognized by the Drehmal team.
+
+If you wish to translate the map, you are welcome to try, but know that there is a truly massive amount of relatively dense text to translate, with about 100,000 words' worth of player-facing text existing in the native English.
 
 ## Wiki Content
 
@@ -147,6 +168,8 @@ There are a number of things that can cause lag in Drehmal, and in Minecraft in 
 If you're playing on a server, this message might mean that you need to enable command blocks in your server properties file.
 
 If you checked and they are enabled, or you're playing on a singleplayer world, this is usually a sign of a corrupted save file. Reinstall the world manually, and ensure that you unzip the world inside of your saves folder. Moving an unzipped folder with as many moving parts as the Drehmal world is a common cause of world corruption.
+
+If there does not seem to be anything wrong with your configs, and the only issue is the message popping up, then you can try running the command `/scoreboard players set #commandBlocksEnabled bool 1` to make the message go away. If you do this without checking for an issue, then this may cause future issues.
 
 ### I Lost a Custom Item. Can I Get It Back?
 

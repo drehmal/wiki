@@ -9,7 +9,7 @@
 
 1. An official timeline from [[Drehmal v21|version 2.1]] gives the date of Anyr's coronation as Av2 1761, although this timeline is no longer officially referenced anywhere and no date is given in the current version of the map.
 
-**Uffeihl Anyr** (pronounced "oof-ale an-ear") (imperial title: Anyr Kalkorahm Al'Drehn Avsohm I), often referred to simply as **Anyr**, was an aristocrat and general who later served as the third and final emperor of [[Avsohm]], directly succeeding [[Ifeihl|Zorhis Ifeihl]]. 
+**Uffeihl Anyr** (pronounced "oof-ale un-eer") (imperial title: Anyr Kalkorahm Al'Drehn Avsohm I), often referred to simply as **Anyr**, was an aristocrat and general who later served as the third and final emperor of [[Avsohm]], directly succeeding [[Ifeihl|Zorhis Ifeihl]]. 
 
 Anyr oversaw what many in Avsohm saw as a second golden age, progressing the empire's technology and military power even further, but also significantly cracked down on free speech and artistic expression, turning Avsohm into a markedly more authoritarian state. 
 
@@ -47,7 +47,7 @@ Anyr was crowned as the new emperor shortly after Ifeihl stepped down, with acco
 
 Anyr's first act as emperor was to move his cabinet to [[Sal'Anyr]], the former metropolis of Azen'nath, which was now well in the process of being assimilated into Avsohmic culture. As part of his militaristic overhaul of Avsohm, Anyr turned Sal'Anyr into a military stronghold for the empire, gearing up for an anticipated war with the forces of [[Maelihs]] to the south.
 
-Anyr was known to have cracked down on the arts, particularly more abstract forms of art that blossomed under Ifeihl. His cabinet is implied to have threatened artists who did not comply to this change, with most of them pivoting to art that directly glorified Anyr, Drehn, [[Drehmal]], and [[Virtuo]].
+Anyr was known to have cracked down on the arts, particularly more abstract forms of art that blossomed under Ifeihl. His cabinet is implied to have threatened artists who did not comply with this change, with most of them pivoting to art that directly glorified Anyr, Drehn, [[Drehmal]], and [[Virtuo]].
 
 Over the course of his reign, Anyr also won over favor and continuously centralized power. Favoring Centralist policies over the Regionalists, Anyr effectively painted himself as the ultimate strongman, and won over the vast majority of the empire's population with his cult of personality. This can be seen in many places, such as the statue of Anyr holding up [[disc|the world]] in [[Av'Sal]].
 
@@ -71,7 +71,7 @@ The deployment of the Resonant Eye in the [[Resonant Halls]] and the subsequent 
 
 While some others were shocked at the revelation that they were far from alone in the universe or even mortified by how small they were on a cosmic scale, Anyr saw this as an opportunity—an opportunity for expansion. Desperately wishing to match the legacy of Drehn Mal'Sohm, Anyr began instructing his top scientists and advisors to devise a plan to spread Avsohm to the stars.
 
-This plan would take the form of Project Apotheosis, a massive undertaking across all the empire's top agencies. [[Red Dawn]] was to construct a machine capable of turning Anyr into a god, completing the elusive alchemical [[Alchemy#Great Work|Great Work]] in their headquarters of [[Azimuth Labs]]. [[Blue Exodus]] quietly built up a secret collection of high-tech weaponry that they would use to storm the [[Hellcrags]], ridding the empire of [[Maelihs]] once and for all. The Avsohmic [[Avsohm#Department of Science|DoS]] was tasked with finding a suitable stockpile of [[Primal Energy]] to charge the Mythbreaker, which they would use to tear a hole in the [[Veil]] from the [[Aphelion]].
+This plan would take the form of the Apotheosis Project, a massive undertaking across all the empire's top agencies. [[Red Dawn]] was to construct a machine capable of turning Anyr into a god, completing the elusive alchemical [[Alchemy#Great Work|Great Work]] in their headquarters of [[Azimuth Labs]]. [[Blue Exodus]] quietly built up a secret collection of high-tech weaponry that they would use to storm the [[Hellcrags]], ridding the world of the [[Empire of Maelihs]] once and for all. The Avsohmic [[Avsohm#Department of Science|DoS]] was tasked with finding a suitable stockpile of [[Primal Energy]] to charge the Mythbreaker, which they would use to tear a hole in the [[Veil]] from the [[Aphelion]].
 
 Parts of this plan were indeed implemented. Beginning around the 75% mark, players will start to see mentions of Anyr referring to him as "God-Emperor Anyr", a title that apparently became common in his later years. Worship of Anyr became the norm within the empire, even further polarizing some against him.
 
@@ -79,4 +79,4 @@ Project Apotheosis was put on indefinite hold, however, due to the issue of char
 
 ??? danger "Final Outcomes (END-GAME SPOILERS)"
     This plan was not enacted as initially intended. On the day that would be the empire's fall, the God Machine was activated, and claimed to succeed, but Anyr died on its throne regardless. The other facilities, not expecting the machine to be activated, lost power and were isolated from one another, as mysterious forces crept into the realm to [[Fall of Avsohm|punish the empire for its hubris]]. <br> <br>
-    Anyr's corpse would sit atop the God Machine for over a thousand years, where he is found in the end-game sequence.
+    Anyr's corpse would sit atop the God Machine for over a thousand years, where [he is found](anyr_skelly_new.png) in the end-game sequence.

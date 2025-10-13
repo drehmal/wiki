@@ -1,0 +1,21 @@
+name: Fetch Deployment Logs
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  fetch-logs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Poll for Cloudflare Pages Build and Fetch Logs
+        uses: JDeepD/cloudflare-build-log@0.1.5
+        with:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PROJECT_NAME: ${{ secrets.CLOUDFLARE_PROJECT_NAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_SHA: ${{ github.event.pull_request.head.sha }}

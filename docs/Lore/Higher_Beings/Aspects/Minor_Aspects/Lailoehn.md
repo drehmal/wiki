@@ -37,7 +37,7 @@ Lailoehn also wields this extremely powerful flame himself, likely proving a ver
 
 The only place where Lailoehn is clearly worshipped in Drehmal is a [[Mt. Ebonfire#Lailoehn Temple|small temple in western Mt. Ebonfire]], which holds the statue of the Aspect shown at the top of this page. It is also home to the [[Artifacts#Sparkstoker|Sparkstoker]] artifact, which reads:
 
-> Lailoehn is known to have as much greed as the fire of his domain and twice as much pride, but he repays those who stroke with ego with light and protection. This tool was used to stoke a flame which burned throughout three consecutive Avihms.
+> Lailoehn is known to have as much greed as the fire of his domain and twice as much pride, but he repays those who stroke his ego with light and protection. This tool was used to stoke a flame which burned throughout three consecutive Avihms.
 
 Lailoehn is also referenced in [[Flamestoker Ghulak's Sermon]], a book in [[Rhaveloth]] written by a [[Maelmari]] priest. Within, Lailoehn is said to have aided the Maelmari in their wars on the disc, on the instruction of Lai.
 

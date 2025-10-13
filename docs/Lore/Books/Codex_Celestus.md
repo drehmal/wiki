@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 --8<-- "spoiler.md"
 
@@ -66,7 +63,9 @@ m--lves. Whil- - -u-- --- p--s-cal-- --te-f--e wit- the-r ---airs, I ---- tha- -
 > If y-u -re re--i-- th--e w-rds, then my o--y l-y-- ap---n--ce r--ai--ng will have j--g-d you w-r--y. If we do not h--e tim- or oc--s-on to sp--k, I --pe th-- you w--l -a-e the i-t----ty to h-lp me in -- ---st -o ri--t the --ny wrongs I ha-- c---i--ed.
 
 ### Reconstruction
-This reconstruction is an attempt by community members to fill in the blanks. It is not guaranteed to be 100% accurate, and some pieces are still missing.
+This reconstruction is an attempt by community members to fill in the blanks. It is not guaranteed to be 100% accurate, and some pieces are still missing, but it is likely very close to the original text.
+
+<div class="annotate" markdown>
 
 > Our realm is vast, to be sure, but what lies beyond? This is a question for which none should know the answer. I have already failed at safekeeping it once, and cannot afford to do so again.
 >
@@ -83,31 +82,31 @@ This reconstruction is an attempt by community members to fill in the blanks. It
 >
 > Perhaps it has something to do with the outpouring of the chaotic primal energy when they are subjected to the three fundamental emotional forces. My three children thus aid in the (colle/produ)ction of the energy and in preventing it from flooding its proverbial banks.
 >
-> Though my ability to wield the primal energy in its raw form is masterful, I cannot myself access any of its seemingly infinite applications. So that my siblings could access these applications, I forged the pathways of energy known as divine magic. By simple inv(it/oc)ation, they can call upon my great stockpile on Lo’Dahr and do the work that their domains allow.
+> Though my ability to wield the primal energy in its raw form is masterful, I cannot myself access any of its seemingly infinite applications. So that my siblings could access these applications, I forged the pathways of energy known as divine magic. By simple invocation, they can call upon my great stockpile on Lo’Dahr and do the work that their domains allow.
 >
 > So that myself and the peoples of the world can access some of the energy’s applications, I created runic magic in collaboration with my siblings. By inscribing a sigil onto powerful and rare materials, a pathway of energy is formed to allow the wielder to access a specific function as determined by the sigil. This system was designed so that only very limited and predictable activities can be done in the realm by using the primal energy.
 >
-> But I was foolish to underestimate the peoples’ ingenuity! Though I dare not even speak his name, he once while mortal used runic magic and the work of my children to invoke the ultimate act of Ambition. ---- --d--, though an ---------[^a] seal[^b] exists, energy continues to seep in from the space outside the realm. Though it has been slowed, it seems unlikely that the ---e leak can ever be truly patched. And yet, to that end, I must work. Perhaps it is a blessing that the Foreigner chose to intervene when he did. Despite the efforts of (m/b)illions, the realm remains relatively stable. There is still (hop/tim)e for my -------- -- ----- ---it.
+> But I was foolish to underestimate the peoples’ ingenuity! Though I dare not even speak his name, he once while mortal used runic magic and the work of my children to invoke the ultimate act of Ambition. Even today, though an --------- (1) seal exists, energy continues to seep in from the space outside the realm. Though it has been slowed, it seems unlikely that the ---e leak can ever be truly patched. And yet, to that end, I must work. Perhaps it is a blessing that the Foreigner chose to intervene when he did. Despite the efforts of (m/b)illions, the realm remains relatively stable. There is still (hop/tim)e for my -------- -- ----- ---it. (2)
 >
 > ANNAL 2: CREATION AND ANCESTRY
 > -_-_-_-_-_-_-_-_-_-
 >
-> The Aspect of -----[^c], the one I refer to here as our ----- --------[^d], has erased their self from our minds, leaving only silence where memory once thrived. I remember when I was young, ambitious and prideful. Our ----- -------- cared for me and my siblings, and helped us find compromise, though it pained them to see a disc begin to take shape around the roots[^e].
+> The Aspect of -----, (3) the one I refer to here as our ----- --------, (4) has erased their self from our minds, leaving only silence where memory once thrived. I remember when I was young, ambitious and prideful. Our ----- -------- cared for me and my siblings, and helped us find compromise, though it pained them to see a disc begin to take shape around the roots/arbor.
 >
 > That spirit of compromise lives on in Lahrs. As Aspect of Resonance, they help make sure that our disciplines play in harmony, and that creation remains ordered and cyclical. It is as if each of our  ----- --------’s memories was inherited by Lahrs, leaving only an empty shell behind. Even putting our minds together, all of the siblings of my generation could remember almost nothing about our (fathe/mothe)r.
 >
-> I know that this must truly be no coincidence; after all, I felt a portion of my mind that knew about the fundamental emotional forces leave me when my children came into being. But it suggests a larger question: How much of our awareness as individuals really came from our own souls? In any event, it seems reasonable to assume  that all of our ---e-- ---a---- -- --- ----------on of the primal energy[^g] ------- ---- --- ------ ----- -- ----- --- ---- --o- i------on. Though my kindred are much more impressive, it is truly a solemn duty to be the provider of the energy which makes their great work possible!
+> I know that this must truly be no coincidence; after all, I felt a portion of my mind that knew about the fundamental emotional forces leave me when my children came into being. But it suggests a larger question: How much of our awareness as individuals really came from our own souls? In any event, it seems reasonable to assume that all of our powers relating to the manipulation of the primal energy ------- ---- --- ------ ----- -- ----- --- ---- --o- i------on. Though my kindred are much more impressive, it is truly a solemn duty to be the provider of the energy which makes their great work possible!
 >
 > When we met in service of developing runic magic, Vayniklah made it clear that not every soul is the same. Some, like that of our parent, are unfathomably strong and wise, indeed. While I do not yet understand why this is so, I have assigned a higher level of potentia to those which have stronger souls at Vayniklah’s suggestion.
 >
-> Some whisper about individuals who are said to have “unlimited potentia”. This is foolish. What self-respecting engineer would create a system in which all of the rules could be so easily broken? And yet, vexingly, these individuals exist. Though their potentia is always high, it is anything but unlimited, and many never carve a single rune! Instead, like my siblings, they appear to harness the power of energy manipulation itself on a very limited scale and in very specific conditions. I refer to these individuals as Savants, and they are a subject of much interest to myself and my students. Perhaps if we can become wise enough, we can exercise similar powers to save the realm!
+> Some whisper about individuals who are said to have "unlimited potentia". This is foolish. What self-respecting engineer would create a system in which all of the rules could be so easily broken? And yet, vexingly, these individuals exist. Though their potentia is always high, it is anything but unlimited, and many never carve a single rune! Instead, like my siblings, they appear to harness the power of energy manipulation itself on a very limited scale and in very specific conditions. I refer to these individuals as Savants, and they are a subject of much interest to myself and my students. Perhaps if we can become wise enough, we can exercise similar powers to save the realm!
 >
 > ANNAL 3: THE PERIL OF THIS REALM
 > -_-_-_-_-_-_-_-_-_-
 >
 > I worry that our time is running out. Though Lahrs has tried to keep the many egos among my siblings in check, it is clear that our ties are rapidly coming undone. Since Palaesida’s and Noha’s deaths, most have become fearful and reclusive, afraid to show their physical forms.  One of my children is missing near the leak, and though I feel the purity of their soul still as clearly as the day they came into existence, I fear they are (sicke/weake/darke/decli/loose)ning.  My son shall never be physically seen again, by vote of the Council. Though I visit him often, and he continues dutifully to help balance the pain of the world, he is filled with a rage that grows every day.
 >
-> And as the other Aspects quarrel and fret, and the energy from without slowly seeps into the realm with no end in sight, mortals attempt to claim the powers of energy manipulation  themselves. While I must not physically interfere with their affairs, I fear that one day they will widen the leak or create a new one. I will use all the --------[^h] m(agic/eans) I can to make sure that day does not happen. I also worry that my former friend still wishes to bring that fate upon us. I can still hear[^i] his whispered hate lingering everywhere.
+> And as the other Aspects quarrel and fret, and the energy from without slowly seeps into the realm with no end in sight, mortals attempt to claim the powers of energy manipulation  themselves. While I must not physically interfere with their affairs, I fear that one day they will widen the leak or create a new one. I will use all the (possible/potential) m(agic/eans) I can to make sure that day does not happen. I also worry that my former friend still wishes to bring that fate upon us. I can still hear (his/her) whispered hate lingering everywhere. (5)
 >
 > For all of this, I have an especially high amount of culpability. Had I taken a more active role in the creation of new Aspects, their personalities may not have become so deviant. Had I been a better parent, perhaps my children would not have left me.  Had I designed the magic system better, maybe Avsohm would not have stirred the wrath of the Foreigner, and alchemists would not constantly be seeking the destruction of all we hold dear. Had I seen what my former friend was dabbling with, perhaps I could have stopped him.
 >
@@ -115,14 +114,10 @@ This reconstruction is an attempt by community members to fill in the blanks. It
 >
 > If you are reading these words, then my only loyal apprentice remaining will have judged you worthy. If we do not have time or occasion to speak, I hope that you will have the integrity to help me in my quest to right the many wrongs I have committed.
 
-[^a]: Possibly "unearthed"?
-[^b]: Likely referring to the Mt. Yavhlix seal.
-[^c]: Potentially "sound" or "noise".
-[^d]: Possibly "Great/Grand creators," although would not mesh perfectly with rest of sentence. Believed to refer to [[Verrhys]].
-[^e]: Or "arbor"
-[^g]: Unclear
-[^h]: "Potential"?
-[^i]: Could also be "feel" - another possible interpretation of this sentence could be ""I can still feel his/her soundless hate/pain festering/lingering everywhere."
+</div>
 
-
-
+1. First word is 9 letters, must start with a vowel. The phrase may refer to the Mt. Yavhlix seal. Possible suggestions include "unearthed", "abhorrent", "emotional", and many others.
+2. Phrase could be "time/hope for my siblings/children to again visit."
+3. Multiple 5-letter words have been proposed to go here, including "sound", "noise", "glass", and more. Its mysterious implied connection to [[Verrhys]] and [[Lahrs]] skews potential ideas towards the realm of noise, with this Aspect possibly being Verrhys itself or an even earlier, more truly forgotten Aspect.
+4. The phrase "Our ----- --------" appears three times, always with the 5 and 8-letter words completely blanked out. This has been theorized to possibly refer to Verrhys. Some possible matches for the 5-letter word include "First", "Great", and "Grand", while the 8-letter word has been suggested to be "Creators", "Relative", "Creation", and more.
+5. This sentence is relatively blank, and has multiple suggested interpretations. An alternative could be "I can still feel his/her soundless hate/pain festering/lingering everywhere."

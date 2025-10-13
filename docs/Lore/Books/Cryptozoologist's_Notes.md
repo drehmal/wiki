@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest on the far northeastern coast of [[Faehrcyle]].
 

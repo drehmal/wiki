@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in northwestern [[Av'Sal]]. Poetically, it tells the story of the discovery, conquest, and exploitation of [[Mt. Yavhlix]] by [[Avsohm]], ending on an ominous note.
 

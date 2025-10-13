@@ -14,7 +14,7 @@ Most of Palisades Heath is divided into three large plateaus by two rivers that 
 
 Palisades Heath was one of the first (possibly *the* first) habitable areas created by Drehmal after the Felling of the [[Primal Tree]]. At the time, the land was referred to by the [[Rihselch]] name "Palisahd". The Drehmal-worshiping [[Ancient Drehua]] people emerged in this region, founding [[Drehua Temple]]. Recorded history first began at this temple through the writing of monks, documenting early history through interactions with their patron deity. Four of these accounts are found at the temple, referred to as "Parables," written by monks who would become important, even prophetic figures for the Drehua people.
 
-Later in the Second Avihm, the region would fall under the rule of the [Avsohm|Avsohmic Empire]. The first emperor, [[Drehn|Drehn Mal'Sohm]], had an interest in the Drehuan culture, and was responsible for the refurbishment of Drehua Temple and many old Drehuan works of art. The region had also become a hotspot for pirates who raided the coasts along the Mouth of Drehmal, and they continued to inhabit the region during Avsohm's reign.
+Later in the Second Avihm, the region would fall under the rule of the [[Avsohm|Avsohmic Empire]]. The first emperor, [[Drehn|Drehn Mal'Sohm]], had an interest in the Drehuan culture, and was responsible for the refurbishment of Drehua Temple and many old Drehuan works of art. The region had also become a hotspot for pirates who raided the coasts along the Mouth of Drehmal, and they continued to inhabit the region during Avsohm's reign.
 
 Little is known about the region's history in the Third Avihm, but its reputation of outlaws continues to stand until this day.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Teiruun Monastery]]. It describes a scribe in the monastery hearing loud clanking sounds late at night, likely referencing some kind of experimentation going on at the facility.
 

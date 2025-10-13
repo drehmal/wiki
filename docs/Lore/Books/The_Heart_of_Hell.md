@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depiction of the domain of [[Maelihs]] in the far southwest of the continent: The [[Hellcrags]].
 

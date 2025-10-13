@@ -1,8 +1,3 @@
----
-tags:
-  - Books
-  - Removed Books
----
 # (Removed) - Calendar of Drehmal
 
 !!! info "Note: This book is removed content, which does not appear in the current version of the map (1.20.1). It is still on this wiki because it provides some intriguing insight into the lore of the world for those interested, but should not necessarily be taken as canon."

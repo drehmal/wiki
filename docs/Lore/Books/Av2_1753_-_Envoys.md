@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Av2 1753 - Envoys
 
 This book can be found in a chest in the [[Sahdan Monastery]], shining light on a conflict between [[Sahd]] and the [[Tidal Dynasty]] that led to Sahd's furthered isolation from the mainland.

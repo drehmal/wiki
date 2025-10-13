@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the library in [[Dusps]], providing insight to the Casain diaspora from their home region to Dusps, and the political ramifications of that event.
 

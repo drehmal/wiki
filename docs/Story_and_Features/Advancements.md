@@ -126,7 +126,7 @@ This section contains the 39 advancements found in the "Fabled Equipment" tab (1
 ??? warning "**Fabled Equipment:** *Legendary Gear* - *Odd gear with powerful properties. Perhaps they will prove useful in your journey?*"
     |     **Advancement**                | **Description**                                                                             |             **Requirement**              |
     |:----------------------------------:|:--------------------------------------------------------------------------------------------|-----------------------------------------:|
-    | X-35 Equine Augmentation Assembly  | Recipe for the Warp Horse Armor and Receiver, Red Dawn's prototype technology, unlocked.    | Find [X-35 Equine Augmentation Assembly](Warp_Horse.md) |
+    | X35 Equine Augmentation Assembly  | Recipe for the Warp Horse Armor and Receiver, Red Dawn's prototype technology, unlocked.    | Find [X35 Equine Augmentation Assembly](Warp_Horse.md) |
     | Eyebiter                           | Recipe for Eyebiter, reflecting Aegis of Maelmari pride, unlocked.                          | Find [[Eyebiter]] |
     | Avsohmic Playback Organizer Device | Recipe for the avPOD, portable audio recording and playback apparatus, unlocked.            | Find [[avPOD]] |
     | LATE-GAME LEGENDARY ITEMS          | \*The legendary gear found below is from a post-75% area.*                                  |  |
@@ -165,7 +165,7 @@ This section contains the 57 advancements contained in the bottom three root nod
     | A Mountain of Holes | This mountain emanates a strange, resonating energy. You feel… empty. - Journeyed to Mt. Yavhlix | Discover the outside of [[Mt. Yavhlix]]. |
     | Chamber of Dreams | Drehmal slumbers deep below; perhaps one day they will awaken. - Stepped into the entrance of the Primal Caverns | Enter the [[Primal Caverns]]. |
     | Glade of the Giant | Deep within the uncharted jungles of old Merijool lies a being of great power. - Discovered the wellspring of a forgotten remnant | Discover the [[Glade of the Giant]]. |
-    | This place was beautiful, once | Half the Heartwood, gone in an instant. - Discovered the epicenter of Mael's Desolation | Enter the [[Rock Maw]], epicenter of [Mael's Desolation](South Heartwood). |
+    | This place was beautiful, once | Half the Heartwood, gone in an instant. - Discovered the epicenter of Mael's Desolation | Enter the [[Rock Maw]], epicenter of [[South Heartwood|Mael's Desolation]]. |
     | Lofty Laboratory | On High Arch, over Tharxax City, perches the estate of an eccentric nobleman reliant on Maelihs to secure new Avsohmic technology for him to tinker with. - Discovered the Lord Magister’s Residence. | Enter the Lord Magister's Residence in [[Tharxax City]]. |
     | Ohh, bouncy! | Do you think it's alive? - Discovered the Slime Island | Enter the [[Slime Island]]. |
     | Underground Fortress | Settled by exiled prisoners, this deep city grew to become the capital of the Second Tharhan Empire before being annexed by Avsohm, then Maelihs, then Insohm, and then finally falling to ruin. - Discovered Caer Adacia. | Enter [[Caer Adacia]]. |
@@ -298,7 +298,7 @@ This section contains the 29 advancements tied to the main story of Drehmal: Apo
     | Timelord                           |  Wibbly-wobbly timey-wimey... stuff. - Exploited the Temporal Engine                        | Solve the main puzzle at [[Sal'Mevir]].                 |
     | Left Blade Fragment                |  The cutting edge of this half-spearhead slices through tough canvas on contact. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade.   | Claim the Left Blade Fragment at [[Sal'Mevir]].  |
     | The Might of Avsohm                |  You've been directed to visit an Avsohmic weapons depot. Wonder what sort of toys they're hiding... - Restored Network Linkage to 50%   | Awarded upon reaching 50% linkage.  |
-    | Accumulated Arms                   |  Trucks, tanks, planes, oh my! - Infiltrated the Exodus Vault                     | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
+    | Accumulated Arms                   |  Trucks, tanks, planes, oh my![^2] - Infiltrated the Exodus Vault                      | Enter the [[Exodus Vault]] by solving the main puzzle at its entrance. |
     | Right Blade Fragment               |  The inner edges of this half-spearhead are coated with a lattice of delicate primal catalysts. You probably shouldn't hang onto it for too long. - Discovered one half of the Mythbreaker's blade            | Claim the Right Blade Fragment at [[Exodus Vault]].   |
     | Anticlimax                         |  After reuniting the pieces of Avsohm's greatest weapon, you are struck by its lack of effectiveness. Is this really it? - Discovered Inert Mythbreaker    | Reunite the fragments of the [[Mythbreaker]] at the [[Av'Sal Repository]]. |
     | Security Unsecured                 |  With the energy network being almost fully restored, you've gained access to the Administrative Wing. - Restored Network Linkage to 75%                 | Awarded upon reaching 75% linkage. |

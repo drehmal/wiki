@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the Insohmic [[Coven of Potentia]]. It is, as the title suggests, about the origins of the [[Red Dawn]] alchemical society, and how it managed to survive beyond the [[Fall of Avsohm]].
 

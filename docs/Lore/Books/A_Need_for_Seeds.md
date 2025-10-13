@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Loraga Keep]], and provides insight as to what happened to the inhabitants of this castle, who planted some kind of seeds in themselves and subsequently were driven mad.
 

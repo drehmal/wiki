@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the large domed building on the central island of [[Av'Sal]]. Within, the Mihkmari Ornstehn ponders the nature of a picture he found of a large, foreboding door, but ultimately decides not to pursue it, instead looking towards the door in Av'Sal's ruins.
 

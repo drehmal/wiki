@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Firteid]] library. It describes the regional holiday of Wellspring Day, from the traditional rituals performed on the day to the performances, foods, and cultural exchanges that came to be added to its festivities.
 

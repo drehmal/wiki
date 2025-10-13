@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest, in the house in [[Ebonrun]] nearest to the fenced-off tunnel. It hints at the location of a mine on the [[Island of Dusk]].
 

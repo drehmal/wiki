@@ -145,7 +145,7 @@ Throughout the map, there are scattered references to "eidolic" whispers, or oth
 
 **Eidolon** is a Greek word referring to a phantom, or a spirit-like image of a person. Multiple sources reference these ghostly whispers, as some refer to "hearing the whispers" when discussing their own ambitions. The whispers seemingly lead those that hear them to attempt the Great Work and even Ambition themselves, showing visions of the sixth Sphere.
 
-In [[Khive Dialogue|his dialogue]], Mystic Elder [[Khive]] asks the player if they "hear his whispers", and warns the player not to "not hark to the whispers" before they enter [[Mt. Yavhlix]]. This leads to two likelihoods: first, the source of the whispers is a singular (male) person, and second, the [[Mt. Yavhlix Dialogue|dialogue]] within the facility is actually the eidolic whispers.
+In [[Khive Dialogue|his dialogue]], Mystic Elder [[Khive]] asks the player if they "hear his whispers", and warns the player to "not hark to the whispers" before they enter [[Mt. Yavhlix]]. This leads to two likelihoods: first, the source of the whispers is a singular (male) person, and second, the [[Mt. Yavhlix Dialogue|dialogue]] within the facility is actually the eidolic whispers.
 
 In community speculation and theorycrafting efforts, the eidolic whispers have been overwhelmingly connected to [[Aok]]. Aok is believed to have some previous tie to Khive due to Facet I and the Codex Celestus passage above, and since he is known to have transcended the [[Veil]], Aok being tied to the [[Nothing]] inside Mt. Yavhlix lines up neatly. Being the very first necromancer (and sometimes known by the title "First of the Dead"), Aok also matches the description of an eidolon quite well. His potential motives, however, remain unclear.
 

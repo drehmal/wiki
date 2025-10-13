@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Loe's Loss
 
 --8<-- "spoiler.md"

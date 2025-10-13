@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern within the ruins of [[Eloa]]. A letter written from sibling to sibling, it informs Serosin, the sister living in Eloa, of her father's death. The letter states that he was found disheveled and emaciated in the middle of the road, and refused to eat anything for fear of poison, dying of starvation back home at [[Mossfield]]. This is likely connected to the [[Skeveraan Laboratory]].
 

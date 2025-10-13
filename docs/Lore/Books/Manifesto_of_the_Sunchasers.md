@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the [[Burnt Palace]]. It contains the result of a [[Maelmari]] study on the [[Torahn]], concluding that it is, in fact, a pufferfish.
 

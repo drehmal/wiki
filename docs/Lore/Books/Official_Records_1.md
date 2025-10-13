@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Thesund]]. It establishes that this village was established by the children of Avsohmic citizens shortly after the fall of the empire, who were attempting to distance themselves from their past and the perceived sins of their ancestors.
 

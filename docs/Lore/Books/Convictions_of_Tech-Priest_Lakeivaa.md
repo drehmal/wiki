@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Convictions of Tech-Priest Lakeivaa
 
 --8<-- "minor_spoiler.md"

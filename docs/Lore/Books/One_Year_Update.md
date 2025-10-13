@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]], showing that there was little progress on [[Project ArkAngel]] in the first year after the researchers' occupation of the Divination Facility.
 

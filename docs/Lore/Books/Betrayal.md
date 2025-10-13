@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Rhaveloth]]. A [[Maelmari]] citizen of the town suspects that a [[Drehmari]] woodworker living in the city has stolen their golden carrot, but ultimately decides not to immediately turn them in to the guards.
 

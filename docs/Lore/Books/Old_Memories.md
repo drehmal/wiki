@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a lectern in a room at the bottom of the [[ICS Arbiter]]. It tells the story of how [[Vahid]] came to become the head of the [[Insohm|Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
 
@@ -29,3 +26,6 @@ This book can be found in a lectern in a room at the bottom of the [[ICS Arbiter
 >
 > Even still, I suppose that this is a much more interesting way to spend one's retirement than living in some straw-roofed hovel.
 
+## Extras
+
+The order of events in the late Third Avihm is called into question by this book, which implies that the [[Battle for Drehmal]] was ended by the disappearance of Virtuo and Vahid at the end of Av3. This conflicts with [[Dahroc's Notes]], which states that the war ended in Av3 700 with a truce between the two sides, 200 years before the end of the Avihm.

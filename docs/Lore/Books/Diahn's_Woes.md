@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Marahza]]. Found in a house divided down the middle, with one red half growing plants on carnelian nylium and the other blue half growing plants on aventurine nylium, the book tells how this came to be, with the author and her husband disagreeing on which to cultivate and decorate with.
 

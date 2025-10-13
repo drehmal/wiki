@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Mossfield]]. It contains the writing of a worried old teacher, who establishes that multiple young residents of the town have gone on pilgrimages and not returned, causing her to be concerned about [[Juniper's Journal|Juniper Quarryman's journey with her sickly younger brother]] to [[Teiruun Monastery]].
 

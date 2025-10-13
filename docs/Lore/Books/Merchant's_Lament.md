@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in the northern extent of [[The Carmine]], noting new tariffs imposed by [[Maelihs]].
 

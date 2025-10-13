@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 The Pawn is a book that can be found in the [[Frozen Bite]] region, in the [[Nihilist's Cabin]].
 

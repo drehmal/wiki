@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Fort Nimahj]], describing an expedition into [[Nimahj Swamp]] in which a Drehmari spotted the [[Exodus Citadel]].
 

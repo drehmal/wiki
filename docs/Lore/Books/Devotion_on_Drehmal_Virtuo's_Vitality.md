@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Virtuo's Vitality
 
 --8<-- "spoiler.md"

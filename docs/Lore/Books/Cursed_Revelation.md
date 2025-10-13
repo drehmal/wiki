@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the southern tower of the [[Emperor's Estate]], providing the revelation that the immortal guardians in the palace are, in fact, bandits who had been attempting to infiltrate the palace.
 

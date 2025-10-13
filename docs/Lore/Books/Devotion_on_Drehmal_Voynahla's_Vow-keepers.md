@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Voynahla's Vow-keepers
 
 --8<-- "spoiler.md"

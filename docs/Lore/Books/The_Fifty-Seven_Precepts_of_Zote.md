@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # The Fifty-Seven Precepts of Zote
 
 This book can be found on a lectern in the Grimm Troupe, in the far west of The [[Frozen Bite]]. It is a reference to the 57 Precepts of Zote from Hollow Knight.

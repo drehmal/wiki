@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, Ehzar, it shows that by the present day, the Duke of Ancehl has died, and he rules in lieu of the child Duchess. Within, Ehzar claims to be a successor of [[Red Dawn]], and discusses his particular, grotesque vision for completing the [[Alchemy#Great Work|Great Work]].
 

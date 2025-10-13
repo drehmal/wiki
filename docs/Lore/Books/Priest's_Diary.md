@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Priest's Diary
 
 This book is found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.

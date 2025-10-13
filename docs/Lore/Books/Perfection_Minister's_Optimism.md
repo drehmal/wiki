@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame behind the [[Kiln of Virtuo]]. It is not a writable book, and serves as a hint to the accepted [[Devotion]] gifts for [[Virtuo]].
 

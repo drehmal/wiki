@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the small shack inside the [[Primal Caverns]], written by a devotee of [[Drehmal]] about their desire to meet the deity.
 

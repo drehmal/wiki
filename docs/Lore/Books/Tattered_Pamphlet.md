@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Semehol]]. It calls for the people of Semehol to revolt against [[Maelihs]].
 

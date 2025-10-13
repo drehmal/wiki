@@ -28,7 +28,7 @@ Rihelma is very heavily associated with the color purple, and specifically with 
 
 ## Role & Powers
 
-Rihelma holds the powers of the sky itself, including its celestial bodies. Whether part of her domain as the Aspect of Sky or a skill that she picked up, Rihelma is also able to commune with beings beyond the [[Veil]]. It is rumored that other entities outside of this realm come to Rihelma for guidance, and in turn, she occasionally acts as an oracle to the people of Drehmal.
+Rihelma holds the powers of the sky itself, including its celestial bodies. Whether part of her domain as the Aspect of Sky or a skill that she picked up, Rihelma is also able to commune with beings beyond the [[Veil]]. It is rumored that other entities outside of this realm come to Rihelma for guidance, and in turn, she is known to the people of Drehmal as a prophet or oracle.
 
 ## History
 

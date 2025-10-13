@@ -363,7 +363,7 @@ The Soletta is a mythical forge located at the base of the Tower of Drehmal, mad
 ??? question "Soletta Use Hint"
     The signs around the base of the Soletta contain the three Greek letters found on [[Fervor Stones]], surrounded in [square brackets]. These square brackets can be found in the description of another type of items.
     ??? warning "Soletta Use Solution"
-        The Soletta is used to upgrade Mythical Weapons, using Fervor Stones. Place a Fervor Stone on the bottom end frame portal block and a Mythical on the upper block, then press the button in front of the chambers. An animation will play, in which the eye beneath opens and the chambers are filled with particles, after which point the Mythical will be upgraded. See [[Fervor Stones#Final Locations and Use|this page]] for details on specific upgrades.
+        The Soletta is used to upgrade Mythical Weapons, using Fervor Stones. Place a Fervor Stone on the bottom end frame portal block and a Mythical on the upper block, then press the button in front of the chambers. An animation will play, in which the eye beneath opens and the chambers are filled with particles, after which point the Mythical will be upgraded. See [[Fervor Stones#Use|this page]] for details on specific upgrades.
 
 ### Aspect/Deity Rooms
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in the ruined university at [[Av'Sal]]. Within, a graduate defends their thesis to Avsohmic officials, and is offered high-level positions within the Avsohmic government.
 

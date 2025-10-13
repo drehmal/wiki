@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in northeastern [[Av'Sal]], written by a merchant happy that [[Anyr]] has brought Avsohm out of an economic recession.
 

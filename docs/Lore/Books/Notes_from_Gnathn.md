@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a wrecked Avsohmic ship in [[Nimahj Swamp]]. It states that the ship's captain has disappeared, and the rest of the crew is now stuck.
 

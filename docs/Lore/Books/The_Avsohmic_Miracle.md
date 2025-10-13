@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Insohmic Library]]. It discusses the manner through which Avsohm was able to rise to such great power so quickly through an empirical lens, arguing that multiple alchemical fields underwent incredibly rapid revolutions, paving the way for Avsohmic domination, rather than divine intervention being the cause behind the empire's power.
 

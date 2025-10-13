@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the far north of [[Frozen Bite| The Frozen Bite]]. It was written by an alchemist in search of a [[Runic Catalyst]].
 

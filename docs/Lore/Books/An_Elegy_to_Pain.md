@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in a small structure beneath the [[Emperor's Estate]], addressed to [[Maen]], Aspect of Pain.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in [[Caer Adacia]]. Written by [[Thresa Vera]], it recounts the majority of her life up to her early adulthood over the course of 46 in-game pages, from her origins as a noblewoman to her time at the university of [[Av'Sal]]. Particular focus is given to her friendship with [[Baen Vehmil]] and [[Gohri Zed]], eventually forming a romantic relationship with the latter.
 

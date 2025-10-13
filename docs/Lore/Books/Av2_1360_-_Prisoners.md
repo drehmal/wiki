@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Av2 1360 - Prisoners
 
 This book can be found in a chest in the [[Sahdan Monastery]], and shows that the people of [[Sahd]] began sending their criminals across the sea to the Black Jungle after the collapse of the Empire of Vir.

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the [[Athrah]] library, describing the formation of the Casain ethnic group out of earlier tribes.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest, just outside a large cavern within the [[Sal'Anyr]] mesa, stating that there has been very little production from this cave.
 

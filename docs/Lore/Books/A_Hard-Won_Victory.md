@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # A Hard-Won Victory?
 
 This book can be found in a chest in the [[Rehntite Cave]]. It describes some of the fallout of the first major event that unfolded at the [[Primary Energy Collection Facility]], establishing that only five survived that initial incident, three of whom seemed to have been broken mentally by the ordeal.

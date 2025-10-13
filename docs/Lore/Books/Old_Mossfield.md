@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 This book can be found in the [[Mossfield]] Library, and points the player towards the ruins of old Mossfield, a much greater city whose ruins lie just to the east of the current village of New Mossfield.
 
 ## Coordinates

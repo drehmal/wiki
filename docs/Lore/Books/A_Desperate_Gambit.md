@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the library at [[Highfall]]. Allegedly based on a true story, it describes the destruction of the people of [[Fortahn]].
 

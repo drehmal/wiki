@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writings of a teenage girl who made the journey to Teiruun from [[Mossfield]].
 

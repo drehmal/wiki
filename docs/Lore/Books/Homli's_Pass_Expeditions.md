@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in the Cult of Fear's Tower, in The [[Frozen Bite]]. It describes difficulties in navigating [[Faehrcyle]] due to the snow covering previously made signposts.
 

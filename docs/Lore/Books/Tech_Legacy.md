@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern in a lighthouse on the east coast of [[Highfall Tundra]], written by the keeper of the lighthouse.
 

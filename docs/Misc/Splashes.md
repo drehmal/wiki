@@ -60,7 +60,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | DomeMaster best dev! | 2.2 | Dome arrives. |
 | HotElbows used to be a dev! | 2.2 | Used to read "HotElbows cool dev!", but was retconned in 2.2 after HotElbows effectively left the project. |
 | avSYS runs on Windows 95! | 2.1 | It probably could. |
-| Now with Nail texture! | 2.1 | [[Artisan Items#Nail|This one!]] |
+| Now with Nail texture! | 2.1 | [[Artisan Items#Grimm Troupe|This one!]] |
 | Fearstriker still doesn't exist | 2.1 | A reference to a proposed legendary crossbow called "Fearstriker", which never managed to find its way into the map despite strong community demand. |
 | When's the D&D module? | 2.1 | There were plans for a D&D module based on Drehmal, but it did not come to fruition. |
 | Also try Breath of the Wild! | 2.1 | A recommendation to play one of the games that heavily influenced Drehmal. |

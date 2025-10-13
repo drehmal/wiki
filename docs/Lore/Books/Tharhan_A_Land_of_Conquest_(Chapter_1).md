@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # Tharhan: A Land of Conquest (Chapter 1)
 

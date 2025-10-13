@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book is found in a chest at Homesick Tergei's small camp, north of the North Tharxax tower.
 

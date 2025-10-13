@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern atop the [[Insohmic Library]]. Its author writes that the Insohmic attempt to re-open [[Mt. Yavhlix]]'s gate has failed, and wonders how to break the news to [[Vahid|Master Vahid]].
 

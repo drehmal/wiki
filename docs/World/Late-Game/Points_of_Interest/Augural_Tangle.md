@@ -40,7 +40,7 @@ Starting around the second lamp, enemies will begin to spawn. These include a ra
 
 The eighth lamp is on top of a tall circular platform. No normal enemies spawn when activating this lamp, but rather, the **Twilight Envoy** miniboss does. This enemy will remain alive until the player fully activates the lamp, shooting purple dagger projectiles at them. When the progress bar is full, the vault door at the end will dissolve, allowing passage to the innermost sanctum of the Augural Tangle.
 
-South of this final lamp is a pedestal, holding the [[Artifacts#Iker Harvester|Iker Harvester]] artifact.
+North of this final lamp is a pedestal, holding the [[Artifacts#Iker Harvester|Iker Harvester]] artifact.
 
 Through this door, a winding blue stained glass path leads to a purple crystal, housing a tomb that presumably belongs to [[Oriann]]. A chest with the [[Aeongale]] legendary sits opposite this coffin.
 

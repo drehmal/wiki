@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found on a lectern atop the Cult of Fear's Tower, in the [[Frozen Bite]]. It describes [[Tethlaen]], the Aspect of Fear, speaking to a devotee in dreams.
 

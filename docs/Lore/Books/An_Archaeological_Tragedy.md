@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest at the Frontier's Edge Gift Shop in [[Grand Pike Canyon]]. It discusses the looting of historical sites in the [[Veruhkt Plateau]] and the consequent loss of archaeological information.
 

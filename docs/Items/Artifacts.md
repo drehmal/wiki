@@ -1765,7 +1765,7 @@ These artifacts can be found at any time through exploration of the continent of
 
 |            | **Lore and how to Obtain**    |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lore**   | Lailoehn is known to have as much greed as the fire of his domain and twice as much pride, but he repays those who stroke with ego with light and protection. This tool was used to stoke a flame which burned throughout three consecutive Avihms. |
+| **Lore**   | Lailoehn is known to have as much greed as the fire of his domain and twice as much pride, but he repays those who stroke his ego with light and protection. This tool was used to stoke a flame which burned throughout three consecutive Avihms. |
 | **Obtain** | Located in a small shrine to [[Lailoehn]] in western [[Mt. Ebonfire]]. Chest located at **(-3565, 162, 342)**    |
 
 ### Spherewalkers
@@ -2404,7 +2404,7 @@ These artifacts can be found at any time through exploration of the continent of
 | -------------- | -------------------- |
 | **Base Item**      | Netherite Sword      |
 | **Attack Damage** | 18                   |
-| Movement Speed | 0.6                  |
+| **Attack Speed** | 0.6                  |
 | **Enchantments**       | Sweeping Edge VII      |
 | **Bonus Stats**    | -0.02 Movement Speed |
 

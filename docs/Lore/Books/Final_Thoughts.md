@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in a small house just outside of the [[Mt. Yavhlix]] region.
 

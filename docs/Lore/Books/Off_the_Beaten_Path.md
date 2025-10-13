@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a chest in southern [[Firteid]]. It points the player toward the black market beneath the Merchant's Guild.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in a lectern at the western end of [[Maehrn'Vhos]], preaching the wall's history.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Devotion on Drehmal: Dahr's Deserters
 
 --8<-- "spoiler.md"

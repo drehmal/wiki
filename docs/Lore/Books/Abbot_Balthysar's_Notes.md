@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 This book can be found in an item frame in Abbot Balthysar's quarters at [[Teiruun Monastery]], with the Abbot expressing the desire to ascend beyond the level of the [[Virmari]].
 

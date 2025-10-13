@@ -6,7 +6,10 @@
 
 Anatomically, Drehmari appear to be nearly identical to humans, with a few important distinctions. All Drehmari have some kind of bony protrusions on their head, varying in color and form, ranging between short, pointed horns and long, elegant antlers. Otherwise, Drehmari body sizes appear very similar to humans, with the Drehmari whose heights are known ranging from about 5'2" to 6'5" (~157 to 195 cm). One significant outlier, [[Homli Tahsgan]], is rumored to have been about eight feet tall. 
 
-Drehmari skin tones are also known to vary between common human tones, although one Drehmari from [[Gozak]] is referred to as having green skin in a lore book.
+Drehmari skin tones are also known to vary between common human tones, although one Drehmari from [[Gozak]] is referred to as having green skin in a lore book (1).
+{ .annotate }
+
+1. This is likely a turn of phrase to indicate that the Gozaki was ill at the time, not indicative of naturally occurring green skin tones. See "[[Just Two Weeks...]]" for original context.
 
 The single largest difference between Drehmari and human physiology is their lifespans. Natural Drehmari lifespans are typically well over 100 years, sometimes close to 200, although [[(REMOVED) Calendar of Drehmal#Extras|Drehmal's calendar system]] does call into question how comparable a year is to a real-life year.
 

@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 
 # The Path - Part Two: The Lesson of the Seha River
 

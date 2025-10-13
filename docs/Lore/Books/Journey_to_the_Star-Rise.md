@@ -1,7 +1,4 @@
----
-tags:
-  - Books
----
+ 
 # Journey to the Star-Rise
 
 This book can be found on a lectern in the [[Dusps]] library. It tells of a fantastical, forgotten land that was home to [[Rihelma]].

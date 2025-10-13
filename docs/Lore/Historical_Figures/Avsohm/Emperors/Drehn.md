@@ -33,7 +33,7 @@ Drehn Mal'Sohm was born as the heir to the throne of the king of the Chosen King
 
 Young Drehn was keen to notice the corruption in the kingdom's government, which he harshly disapproved of. When his father was assassinated, he refused to take part in politics and denied the crown which he was due to inherit. This act earned him widespread popularity among the kingdom's population. Pressured by constant urges from the people, Drehn reluctantly assumed power.
 
-Upon becoming king, Drehn made sweeping reforms to his government. Although the specifics are unclear, it can be assumed that he implemented policies that ended cracked down on bureaucratic corruption, resulting in guilty officials being expelled and preventing any more bribery from taking place. 
+Upon becoming king, Drehn made sweeping reforms to his government. Although the specifics are unclear, it can be assumed that he implemented policies that cracked down on bureaucratic corruption, resulting in guilty officials being expelled and preventing any more bribery from taking place. 
 
 Despite his lessening of authoritarian rule, his very first order as king was implementing the use of torture dungeons as a new punishment for regicide or attempted regicide before the convict would be executed. This decision was driven by a fear that he would meet the same fate as his father. Another one of his first acts as king was ending Drabyel's role as the kingdom's capital, believing that it had become too overcrowded and filled with corrupt politicians. He commissioned the construction of a new city to the west, called "Av'Sal", to replace it. In the meantime, he ruled from a solitary tent. 
 

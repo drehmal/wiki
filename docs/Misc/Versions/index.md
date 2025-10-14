@@ -68,7 +68,9 @@ v2.2.2 is the current version of the map as of April 15, 2025. It is primarily a
 
 ## v2.3 (Upcoming)
 
-Drehmal v2.3 is a partially-confirmed update currently in development as of April 2025, announced on the [five-year anniversary of Drehmal v2](https://www.drehmal.net/post/five-years-of-drehmal). Believed to be centered around bringing old points of interest and towns up to the 2.2 standard of quality, rather than adding significant new content, it is the only version of the map in active development at this time.
+!!! info "Main Article: [[Drehmal v23|Drehmal v2.3]]"
+
+[[Drehmal v23|Drehmal v2.3]] is a confirmed update currently in development as of October 2025, announced on the [five-year anniversary of Drehmal v2](https://www.drehmal.net/post/five-years-of-drehmal). Believed to be centered around bringing old points of interest and towns up to the 2.2 standard of quality, it is the only version of the map in active development at this time.
 
 ## v3 (April Fools)
 

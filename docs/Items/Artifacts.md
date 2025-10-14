@@ -446,7 +446,9 @@ These artifacts can be found at any time through exploration of the continent of
 | **Obtain** | Located in an obsidian crater at the end of an archipelago in southern [[Anyr'Nogur]]. Item frame located at **(-4589, 71, 2903)** |
 
 ??? "Extra Lore"
-    This item is one of the very few which appear to directly address the player, and along with the Null Boots, specifically refer to the player as "Seeker." This item has been the subject of heavy speculation for some community members, suggesting that it may even establish the precedent that all item descriptions in Drehmal come from one known entity in the universe.
+    This item is one of the very few which appear to directly address the player, and along with the Null Boots, specifically refer to the player as "Seeker." This item has been the subject of heavy speculation for some community members, suggesting that it may even establish the precedent that all item descriptions in Drehmal come from one known entity in the universe. Its name is the source of a title given to [[Librarian|one of Drehmal's strangest lore figures]].
+
+    A special NBT tag is found on this item, although no specific use for it has been uncovered by players.
 
 ### Comedically Large Spoon 
 
@@ -2482,7 +2484,7 @@ This artifact set, a full set of netherite armor, is found in the [[Primary Ener
 | **Obtain** | Located near the bottom of the [[Primary Energy Collection Facility]] in Mt. Yavhlix. Chest located at **(26858, 39, -154)**        |
 
 ??? note "Extra Lore"
-    It is not clear who The Bereft is, although it has been speculated to be [[Aok]], the proposed source of the dialogue inside the facility.
+    It is not clear who The Bereft is, although it has been speculated to be [[Aok]], the proposed source of the dialogue inside the facility. This is also one of two items (along with the Chronicler's Offering artifact) to directly refer to the player as "Seeker", implying that they come from the same speaker.
 
 ### Null Cuirass
 

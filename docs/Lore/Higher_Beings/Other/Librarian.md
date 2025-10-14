@@ -76,26 +76,26 @@ On February 17, 2025, a deal was struck between Drehmalcord server administrator
 
 > Hungry Seekers! For satiating the hunger of another, I offer you a boon. Allow me to lend you some knowledge, from my Library to yours.
 >
-> > How did the rift in the Bright Capital (the thing emitting an "ominous black light" depicted in Expedition Team Log) form? (1)
+> > How did the rift in the Bright Capital (the thing emitting an "ominous black light" depicted in Expedition Team Log) form? (1) <br>
 > ...what rift?
 > 
-> > What exactly are the orbs in East Xiv, and how are they connected to any existing/known forces in the world? (2)
+> > What exactly are the orbs in East Xiv, and how are they connected to any existing/known forces in the world? (2) <br>
 > You and your silly orbs! You secured a direct line to me and thought asking about the orbs was a high priority?
 > 
 > Now, any self-respecting chronicler wouldn’t dare leave you with such little scraps. I’ll answer two more of your questions, to fill out your own library just a smidge more.
 > 
-> > What exactly did Mael find in his trip to Western Xiv that made Khive summon him and Virtuo to Ytaj? (3)
+> > What exactly did Mael find in his trip to Western Xiv that made Khive summon him and Virtuo to Ytaj? (3) <br>
 > Oh, that brute - somehow got a mirror through his thick skull. A snapped twig and the manuscripts of a forgotten lord’s subjects is all it took. And like a parent revealing a terrible truth to their children, Khive called the pair to council.
 > 
-> > Are there any remaining people in Western Xiv? If so, what’s their deal? (4)
+> > Are there any remaining people in Western Xiv? If so, what’s their deal? (4) <br>
 > They exist. Certainly not a happy existence, especially as of late, but so it goes.
 > 
 > Oh, you’ve already gotten plenty more than what you bargained for, but I just can’t help myself. Let’s play a little game, a favorite of the Star-Rise Drake. 
 > 
-> I present you two truths and two lies:
-> > The [[Felling]] was by design.
-> > [[Verrhys]] chose Drehmal.
-> > [[yellow|The Mythoclast]] was cursed.
+> I present you two truths and two lies: <br>
+> > The [[Felling]] was by design. <br>
+> > [[Verrhys]] chose Drehmal. <br>
+> > [[yellow|The Mythoclast]] was cursed. <br>
 > > There was once a seventh Sphere.
 > 
 > Never stop wondering, curious Seekers. May this knowledge bring you some fragments of the joy that you have brought me. Find me some other time, will you?
@@ -137,7 +137,7 @@ Attached to this message was a file titled `Archived Memory.zip`, containing the
 
 ## In-Game Connections
 
-A long-standing fan theory posited that from these connections, one could make the assumption that all (purple) lore text in the map actually comes directly from a real character, and that character was the same one that spoke as the Unknown Librarian in the beta teaser. 
+A long-standing fan theory posited that all (purple) lore text in the map actually comes directly from a real character, and that character was the same one that spoke as the Unknown Librarian in the beta teaser. 
 
 In particular, two fourth-wall-breaking item descriptions seemed to suggest that this "narrator" was specifically aware of the player, referring to them with the title "Seeker". These are the Chronicler's Offering and Null Boots [[artifacts]], whose lore is found below:
 
@@ -157,6 +157,6 @@ There has been speculation about the identity of the Unknown Librarian since her
 
 The Unknown Librarian speaks in an eloquent yet somewhat familiar and informal tone, making frequent use of exclamation points and more casual language than many other figures in Drehmal. She has referred to herself as a historian, a librarian, and a chronicler, showing that whatever her mysterious work is, it involves the cataloguing of some kind of history or various stories. She speaks about the realm of Drehmal as if it is all a story that she is fascinated by, rather than something that she must live in, indicating that this character exists on a plane of reality higher than the realm that we play in. This naturally draws a comparison to the [[yellow|Mythoclast]], a very powerful being who oversees the creation and destruction of various realms, watching them play out their stories. She is frequently associated with the color purple, which is opposite (and complementary to) yellow, the defining color of the Mythoclast and Primal Energy.
 
-Initially, the purple theming and profile picture led many community members to theorize that this narrator was actually the [[Emissary of the Void]], or rather, [[Drehn Mal'Sohm]]. The clarification of the Librarian's gender in February 2025 seems to be a direct refutation of this theory.
+Initially, the purple theming and profile picture led many community members to theorize that this narrator was actually the [[Emissary of the Void]], or rather, [[Drehn|Drehn Mal'Sohm]]. The clarification of the Librarian's gender in February 2025 seems to be a direct refutation of this theory.
 
 Another known character who could potentially fit this bill is [[Rihelma]]—the Aspect of Sky is associated with the color purple, is known to be highly enigmatic with prophetic powers, and has been known to commune with beings beyond the [[Veil]], among other feats. If the Librarian is an existing character within the map's lore, then Rihelma seems to be the favorite, but she may well be a completely different character.

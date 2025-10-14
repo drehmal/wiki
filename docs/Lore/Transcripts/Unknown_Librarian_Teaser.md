@@ -1,10 +1,10 @@
-# The Unknown Librarian (2.2 Beta Teaser Dialogue)
+# 2.2 Beta Teaser Dialogue
 
 From August 16-19, 2023, these messages were posted by a Discord user called "???," with the username "the_unknown_librarian." This user had joined the server in April of 2021, has a unique "Visitor" role, and for years, had only sent the following 17 messages, all in the official Announcements channel.
 
 The final message was followed by the official announcement of the Drehmal: Apotheosis Public Beta, 19 minutes later, on August 19, 2023.
 
-No clear explanation for the Unknown Librarian's identity or the meaning behind this series of messages has been given.
+This was the first known appearance of the [[Librarian|Unknown Librarian]] character.
 
 > Ah.
 >

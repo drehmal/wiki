@@ -1,6 +1,6 @@
-# Celestial Chondrules
+# Netherite/Celestial Debris
 
-**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 31 known chondrules or pieces of celestial debris that can be found through exploration of the continent, regardless of main story progression.
+**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 31 known chondrules or blocks of celestial debris that can be found through exploration of the continent, regardless of main story progression.
 
 ## List
 
@@ -10,7 +10,7 @@
 | [[North Heartwood]] | Block | Inside the base of a unique blue aventurine wood tree, in dense forest far northwest of Kazzani. | (1558, 112, 2737) |
 | [[Black Jungle]] | Item (Chest) | In a chest beneath a trapdoor, in a hidden room of the bathhouse in western [[Firteid]]. Hinted at by the [[THE BATHS ARE BACK!]] lore book. | (3824, 101, 3505) |
 | [[Black Jungle]] | Block | At the bottom of a lava column near the main building of the Black Ruins in the east-central Black Jungle. | (4162, 69, 4153) |
-| [[Black Jungle]] Block (x2) | Behind silent obsidian blocks above the two moonstones, on either side of the main building in the Black Ruins. | (4169, 73, 4153) <br> (4169, 73, 4131) |
+| [[Black Jungle]] | Block (x2) | Behind silent obsidian blocks above the two moonstones, on either side of the main building in the Black Ruins. | (4169, 73, 4153) <br> (4169, 73, 4131) |
 | [[Akhlo'Rohma]] | Block | Buried underneath a 4-block sugar cane, in a strangely-shaped stream west of the entrance to the [[Rehntite Cave]]. | (1577, 70, -2522) |
 | [[Veruhkt Plateau]] | Item (Chest) | At the top of the Battle Pizzazzle tower in northeast Veruhkt, with the [[Artifacts#Vihktor's Spoils|Vihktor's Spoils]] artifact. | (4106, 253, -2256) |
 | [[Highfall Tundra]] | Item (Trade) | Obtained through a trading puzzle sequence in eastern [[Highfall]]. | (6183, 75, -1053) |

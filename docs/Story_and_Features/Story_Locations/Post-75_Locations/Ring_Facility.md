@@ -27,7 +27,7 @@ After reaching the Core Facility, the player will likely find the map depicting 
 ![[LD_facilities_map.png]]
 > The map of the four Lo'Dahr facilities, found at all four locations.
 
-The Ring Installation is found in the middle of a lake in Khive's Domain. Its holotexts are the most isolated in scope of the main Lo'Dahr facilities, primarily focusing on the efforts at this location alone. These holotexts provide insight into Avsohm's harnessing of warp [Arcanism|runes]], gradually reverse-engineering a full teleportation network out of the warp rings.
+The Ring Installation is found in the middle of a lake in Khive's Domain. Its holotexts are the most isolated in scope of the main Lo'Dahr facilities, primarily focusing on the efforts at this location alone. These holotexts provide insight into Avsohm's harnessing of warp [[Arcanism|runes]], gradually reverse-engineering a full teleportation network out of the warp rings.
 
 The main puzzle of the facility is simply figuring out how to use the warp rings, as the answer is not presented plainly until the player has traveled through a certain ring in the facility.
 

@@ -49,7 +49,7 @@ If you're using a third-party launcher, or if the installer just isn't working f
 
 You'll need to download and install [Fabric for 1.20.1](https://modrinth.com/mod/fabric-api/version/0.84.0+1.20.1), and create a profile to launch Minecraft with this Fabric version. Next, navigate to the "File Downloads" portion of the Downloads page and download the world, the resource pack, and the mods. 
 
-Download the World File, then extract it using a tool like WinRAR or 7zip. Place the extracted world folder into the "saves" folder of your .minecraft folder. The world file can be found [here](https://drive.google.com/drive/folders/1EN76IugTyHMiuYnnaIvxo1sD-v-ZY0qC).
+Download the World File, then extract it using a tool like WinRAR or 7zip. Place the extracted world folder into the "saves" folder of your .minecraft folder. The world file can be found [here](https://drive.google.com/file/d/14p5Z7mGCRNh5qkEt4wkOdtlu1rD4G7_Q/view?usp=sharing).
 
 Download the Resource Pack from the downloads page or [this link](https://drive.google.com/drive/folders/1CfkoURDd6XneFjs3xSNKtYk77l-eiaZ0). Place the resource pack (zipped or extracted) into the "resourcepacks" folder of your .minecraft folder. It should appear as an "Available" resource pack when you load the game; you must activate it by moving it to the right ("Selected").
 
@@ -76,7 +76,7 @@ A collection of signs on the wall is labeled "IMPORTANT INFORMATION". They read 
 > 5. doFireTick is disabled by default. <br>
 > 6. keepInventory is on by default. If you turn it off, there are some places where you cannot get your items back. <br>
 > 7. Since you no longer lose items on death, you now lose all XP. <br>
-> > Wiki Curator Note: This can be configured using /trigger Settings.
+> > Wiki Curator Note: This can be configured using `/trigger Settings`.
 > 8. Minimum render distance is 8 and simulation distance must be equal to render distance in story areas of the map. <br>
 > 9. NEVER use /kill @e. This will break many parts of the map.
 > > Wiki Curator Note: In general, you should not use ANY commands that involve @e (such as /kill or /tp) unless you know EXACTLY what you are doing, as there are many custom entities in Drehmal that the map relies upon.

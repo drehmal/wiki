@@ -319,7 +319,7 @@ In particular, you may be looking at [[Gates]].
 
 Netherite ([[Glossary|renamed]] under the Drehmal resource pack to "celestial" debris and alloy) is not accessible through normal Nether mining, as the dimension has been made completely inaccessible in the map. Netherite tools and armor can be found as rare loot in the late/end-game, which is the intended progression path, but a renewable source of netherite is found in the late-game as well (after the 75% completion mark).
 
-Until that point, individual pieces of netherite scrap ("Celestial Chondrules") can be found as extremely rare loot in the open world, and enough netherite does exist in non-story areas to make a full set of netherite armor, if you so desire.
+Until that point, individual pieces of netherite scrap ("Celestial Chondrules") can be found as extremely rare loot in the open world, and enough netherite does exist in non-story areas to make a full set of netherite armor, if you so desire. A full list of overworld celestial chondrules can be found [[Netherite|here]].
 
 ### Can I Get [Specific Resource/Vanilla Item] In This Map?
 

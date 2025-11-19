@@ -1,6 +1,6 @@
 # Netherite/Celestial Debris
 
-**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 31 known chondrules or blocks of celestial debris that can be found through exploration of the continent, regardless of main story progression.
+**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 32 known chondrules or blocks of celestial debris that can be found through exploration of the continent, regardless of main story progression.
 
 ## List
 

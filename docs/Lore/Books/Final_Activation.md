@@ -1,6 +1,6 @@
  
 
-This book can be found in an item frame in the Divination Facility at the [[KIln of Virtuo]], and appears to have been written around the time of the fall of Avsohm.
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]], and appears to have been written around the time of the fall of Avsohm.
 
 ## Coordinates
 | **X**  | **Y** | **Z**  |

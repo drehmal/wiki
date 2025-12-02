@@ -12,7 +12,7 @@
 | [[Black Jungle]] | Block | At the bottom of a lava column near the main building of the Black Ruins in the east-central Black Jungle. | (4162, 69, 4153) |
 | [[Black Jungle]] | Block (x2) | Behind silent obsidian blocks above the two moonstones, on either side of the main building in the Black Ruins. | (4169, 73, 4153) <br> (4169, 73, 4131) |
 | [[Akhlo'Rohma]] | Block | Buried underneath a 4-block sugar cane, in a strangely-shaped stream west of the entrance to the [[Rehntite Cave]]. | (1577, 70, -2522) |
-| [[Veruhkt Plateau]] | Item (Chest) | At the top of the Battle Pizzazzle tower in northeast Veruhkt, with the [[Artifacts#Vihktor's Spoils|Vihktor's Spoils]] artifact. | (4106, 253, -2256) |
+| [[Veruhkt Plateau]] | Item (Chest) | At the top of the Battle Pizzazzle tower in northeast Veruhkt, with the [[Artifacts#Vikhtor's Spoils|Vikhtor's Spoils]] artifact. | (4106, 253, -2256) |
 | [[Highfall Tundra]] | Item (Trade) | Obtained through a trading puzzle sequence in eastern [[Highfall]]. | (6183, 75, -1053) |
 | [[Highfall Tundra]] | Block | Deep in a dripstone cave network, beneath the icy mountains in northeastern Highfall Tundra/southeastern Frozen Bite. | (5482, 90, -2244) |
 | [[Grand Pike Canyon]] | Item (Item Frame) | In the base of the tallest tower at [[Shatterhorn Gulch]], inside a cage which has clearly been broken out of. | (4651, 42, -740) |

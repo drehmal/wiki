@@ -1,6 +1,6 @@
 # Netherite/Celestial Debris
 
-**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 31 known chondrules or blocks of celestial debris that can be found through exploration of the continent, regardless of main story progression.
+**Netherite Scrap**, renamed and retextured to **Celestial Chondrules** by the Drehmal resource pack, is a very rare piece of loot found throughout Drehmal prior to a late-game milestone. Obtaining a full set of celestial (netherite) armor prior to said milestone is one of Drehmal's challenge advancements, and as such, chondrules are highly sought-after by many players. This page contains a list of all 32 known chondrules or blocks of celestial debris that can be found through exploration of the continent, regardless of main story progression.
 
 ## List
 
@@ -12,9 +12,10 @@
 | [[Black Jungle]] | Block | At the bottom of a lava column near the main building of the Black Ruins in the east-central Black Jungle. | (4162, 69, 4153) |
 | [[Black Jungle]] | Block (x2) | Behind silent obsidian blocks above the two moonstones, on either side of the main building in the Black Ruins. | (4169, 73, 4153) <br> (4169, 73, 4131) |
 | [[Akhlo'Rohma]] | Block | Buried underneath a 4-block sugar cane, in a strangely-shaped stream west of the entrance to the [[Rehntite Cave]]. | (1577, 70, -2522) |
-| [[Veruhkt Plateau]] | Item (Chest) | At the top of the Battle Pizzazzle tower in northeast Veruhkt, with the [[Artifacts#Vihktor's Spoils|Vihktor's Spoils]] artifact. | (4106, 253, -2256) |
+| [[Veruhkt Plateau]] | Item (Chest) | At the top of the Battle Pizzazzle tower in northeast Veruhkt, with the [[Artifacts#Vikhtor's Spoils|Vikhtor's Spoils]] artifact. | (4106, 253, -2256) |
 | [[Highfall Tundra]] | Item (Trade) | Obtained through a trading puzzle sequence in eastern [[Highfall]]. | (6183, 75, -1053) |
 | [[Highfall Tundra]] | Block | Deep in a dripstone cave network, beneath the icy mountains in northeastern Highfall Tundra/southeastern Frozen Bite. | (5482, 90, -2244) |
+| [[Grand Pike Canyon]] | Item (Item Frame) | In the base of the tallest tower at [[Shatterhorn Gulch]], inside a cage which has clearly been broken out of. | (4651, 42, -740) |
 | [[South Heartwood]] | Block | In the center of the largest lava pool in the Desolation, just northwest of [[Port Solitude]]. Buried in obsidian, directly underneath a loot chest containing a Mending book. | (1672, 20, 4079) |
 | [[South Heartwood]] | Block | Barely exposed in the wall of a hidden, small, underground bunker to the northeast of Port Solitude. | (2069, 59, 4092) |
 | [[South Heartwood]] | Block | At the very bottom of the large volcano southeast of [[Tahva]], off the coast of the South Heartwood. Buried in lava, and accompanied by about two dozen raw ore blocks. | (903, 69, 5000) |
@@ -36,3 +37,5 @@
 | [[Hellcrags]] | Item (Chest) | In a loot chest in the northwestern Hellcrags, among dead trees. Guarded by a spawner that creates "Bone Diver" enemies, custom skeletons with elytra and creeper heads. | (-4352, 105, 5560) |
 | [[Hellcrags]] | Item (Chest) | In a chest at the far northwestern point of the [[Burnt Palace]]. | (-4066, 56, 5943) |
 | [[Sahd]] | Block | On the deck of a ship far to the west of Sahd, surrounded by blackstone. | (2911, 66, 6106) |
+
+[^1]: Nominee for the Wiki Curator Most Abysmal Loot Hiding Spot Award

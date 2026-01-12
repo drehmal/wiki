@@ -22,6 +22,13 @@ Virtuo mysteriously took flight in Av3 903, departing with the entirety of her G
 
 ## Description
 
+<div class="annotate" markdown>
+![[virtuo_ref.png]]
+> Virtuo's official 2.2 reference sheet. (1)
+</div>
+
+1. Virtuo has long been slated for a character redesign, which is expected to be incorporated into [[Drehmal v23|the 2.3 update]] as well as released to the public before the update.
+
 Virtuo takes the form of a 12-foot tall Drehmari (humanoid) with shimmering blue horns, blue hair and very tan/nearly orange skin. She is known to be calm, wise and stunningly beautiful.
 
 Following her fight with Mael in the [[Tidal War]], Virtuo lost one of her eyes and was left with permanent burn marks on her face, ruining her perfect symmetry.

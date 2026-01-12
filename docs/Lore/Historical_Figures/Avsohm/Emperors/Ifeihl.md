@@ -13,7 +13,12 @@
 
 ## Appearance
 
-No clear description of Ifeihl is given in-map, and his official reference sheet is not public.
+Ifeihl's official reference sheet is public as of January 2026, shown below.
+
+![[ifeihl_ref.png]]
+> Ifeihl's official 2.2 reference sheet.
+
+Ifeihl is a thin man with a pale complexion and long, straight blonde hair. His color scheme is dominated by white and blue, only contrasted by his dark antlers.
 
 ## History
 
@@ -33,3 +38,9 @@ Ifeihl's poor management of funds caused an economic recession that progressivel
 The now-loose Undead Horde rampaged across Lorahn'Kahl, the Tharxax Plains, and probably [[Palisades Heath]]. The Avsohmic military was tasked with eradicating the swarm of bloodthirsty attackers and destroying the Necrotic Engines that produced them. The specifics of the conflict are unclear, but it was known to have been costly and drawn-out due to Ifeihl's poor leadership. Avsohm eventually prevailed, but the emperor's reputation was already beyond salvageable, and a new election was held to determine a replacement.
 
 No further details on Ifeihl's later life or ultimate fate are provided.
+
+## Extras
+
+### Trivia
+
+Ifeihl's original reference sheet, posted to the Drehmal Patreon in April 2024, differed slightly from the public release version. His sparse facial hair was added in the interim period, with the original sheet depicting him as fully clean-shaven.

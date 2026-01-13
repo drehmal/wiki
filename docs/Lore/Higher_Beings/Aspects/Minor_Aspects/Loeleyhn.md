@@ -11,6 +11,11 @@
 
 ## Description
 
+![[loeleyhn_ref.png]]
+> Loeleyhn's official 2.2 reference image.
+
+Loeleyhn is not shown in the map, but her form is shown to be that of a relatively simple, light blue ice dragon in her reference image.
+
 Loeleyhn's passage in [[Theogony Volume III]] reads:
 
 > Avalanche Loeleyhn, Aspect of Snow
@@ -18,8 +23,6 @@ Loeleyhn's passage in [[Theogony Volume III]] reads:
 > Child of Loe, she is harsh, with a rapier wit. She and Lailoehn are in a relationship.
 
 Loeleyhn is in a romantic relationship with [[Lailoehn]], Aspect of Fire and child of [[Lai]].
-
-Loeleyhn does not have a canon physical depiction that is shown in the map.
 
 ### Color Scheme
 

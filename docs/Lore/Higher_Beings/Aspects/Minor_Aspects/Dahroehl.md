@@ -11,6 +11,11 @@
 
 ## Description
 
+![[dahroehl_ref.png]]
+> Dahroehl's official reference image.
+
+Dahroehl is a long, serpentine blue and gold dragon, similar in appearance to an eel. A trail of blue flame follows behind the Aspect's tail.
+
 Dahroehl's passage in [[Theogony Volume III]] reads:
 
 > Fluvial Dahroehl, Aspect of Freshwater
@@ -18,8 +23,6 @@ Dahroehl's passage in [[Theogony Volume III]] reads:
 > Child of Dahr, they populated the world with rivers and lakes.
 
 Dahroehl is unique among the Aspects in that third-person references to Dahroehl alternate between masculine (he/him) and feminine (she/her) pronouns, as seen in [[Three Great Sigils]]. This seems to indicate that Dahroehl is genderfluid to some degree, matching well with his domain. For the sake of simplicity, the map often uses they/them pronouns for Dahroehl, and it seems that the alternating he/she usage may be exclusive to Dahroehl's worshippers in-universe.
-
-Little is known about Dahroehl's appearance, although she would likely take some kind of serpentine form based on the "wyrm" descriptor.
 
 Personality-wise, Dahroehl is consistently referred to as somewhat vain.
 

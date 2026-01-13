@@ -13,13 +13,18 @@
 
 ## Description
 
+![[lailoehn_ref.png]]
+> Lailoehn's official 2.2 reference image.
+
+Lailoehn is depicted in a small statue shown at the top of this page, appearing to be a relatively generic winged red dragon. This is expanded upon by his reference image, which shows him as a relatively simplistic fire dragon.
+
 Lailoehn's passage in [[Theogony Volume III]] says:
 
 > Infernal Lailoehn, Aspect of Fire
 > ***
 > Child of Lai, he is ferocious, gluttonous, and disdainful.
 
-Lailoehn's personality is fiery to match his domain, as noted above. He is depicted in a small statue shown at the top of this page, appearing to be a relatively generic winged red dragon.
+Lailoehn's personality is fiery to match his domain, as noted above. 
 
 Lailoehn is stated to be in a romantic relationship with [[Loeleyhn]], the Aspect of Snow and child of [[Loe]].
 

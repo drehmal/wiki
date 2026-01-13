@@ -11,6 +11,11 @@
 
 ## Description
 
+![[lahrs_ref.png]]
+> Lahrs' official 2.2 reference image.
+
+Lahrs is depicted as a large gray newt, with mushrooms growing from his body. This physical appearance does not appear anywhere in-map, nor is it referenced.
+
 Lahrs' passage in [[Theogony Volume III]] reads as follows:
 
 > Lahrs, the Burgeoning, Aspect of Resonance
@@ -18,8 +23,6 @@ Lahrs' passage in [[Theogony Volume III]] reads as follows:
 > Considered by many to be a Major Aspect, Lahrs tends to a wide domain encompassing cycles, music, the seasons, balance, growth, and decay. Without their influence, the realm would quickly decay into nothingness.
 
 Lahrs' canon pronouns are given to be he/him or she/her by the developers, but this usually translates to use of they/them to refer to the Aspect in-map. There are no canon instances of Lahrs being referred to using feminine pronouns.
-
-Lahrs' physical form is not depicted or described anywhere in the map, officially.
 
 He is portrayed as very diplomatic, often embodying the spirit of compromise.
 

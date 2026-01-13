@@ -11,6 +11,11 @@
 
 ## Description
 
+![[moen_ref.png]]
+> Moen's official 2.2 reference image.
+
+Moen is shown in her reference image as a large, mammalian, fox-like dragon. She is magenta and light pink in color.
+
 Moen shares a passage in [[Theogony Volume III]] with her two siblings:
 
 > Maen, Moen, and Tethlaen, the three Aspects of Emotion

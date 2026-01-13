@@ -11,6 +11,11 @@
 
 ## Description
 
+![[koh_ref.png]]
+> Koh's official 2.2 reference image.
+
+Koh takes the form of a long, gray worm/serpentine dragon. This is depicted in the map once, as a simple white worm made of calcite and diorite. This statue is found on the [[Island of Dawn]], just to the northeast of [[Star-Rise Bastion]].
+
 Koh's passage in [[Theogony Volume III]] reads:
 
 > Wise Worm Koh, Aspect of Stone
@@ -20,9 +25,7 @@ Koh's passage in [[Theogony Volume III]] reads:
 ![[koh.png]]
 > The statue of Koh on the Island of Dawn.
 
-A statue of Koh does exist, depicting it as a simple white worm, made of calcite and diorite. This statue is found on the [[Island of Dawn]], just to the northeast of [[Star-Rise Bastion]].
-
-Koh is said to be reclusive, but very wise. They are said to have created the world's tunnels and caves.
+Koh is said to be reclusive, but very wise. They are credited with having created the world's tunnels and caves.
 
 ### Color/Build Scheme
 

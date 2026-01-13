@@ -17,7 +17,10 @@ In Av2 1820, Anyr's reign was abruptly cut short by the events that caused the [
 
 ## Appearance
 
-Anyr's official reference sheet is not public, but some art from the dev team is, clearly showing his physical appearance.
+Anyr's official reference sheet is public as of January 2026, shown below.
+
+![[anyr_ref.png]]
+> Emperor Anyr's 2.2 reference sheet.
 
 Anyr is depicted as a tall, thin, middle-aged man with tan skin, dark but graying hair, and very sharp features. His ears are long, pointed, and angled slightly downwards, away from his thick matte black horns, which are in turn decorated with golden engravings. He is depicted with lots of golden accessories, including ear piercings and armor, as well as a red cape in his imperial regalia.
 

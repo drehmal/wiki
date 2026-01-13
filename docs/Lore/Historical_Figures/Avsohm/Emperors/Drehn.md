@@ -13,9 +13,14 @@
 
 ## Appearance
 
-Drehn's official reference sheet is not public, and he does not have any detailed depictions in the map or elsewhere by developer sources.
+Drehn's official reference sheet is public as of January 2026, shown below.
 
-Drehn is known to have had antlers, not horns.
+![[drehn_ref.png]]
+> Drehn Mal'Sohm's official 2.2 reference sheet.
+
+Drehn is depicted as a man with long, dark and graying hair held back in a ponytail. He has a tan complexion, sharp pointed ears, and wide deer antlers. He is shown in his reference sheet wearing a plain white shirt with a simple red cape, also notably sporting a bronze metallic pendant.
+
+Outside of this sheet, the only knowledge on his appearance from in-game sources is that he had antlers, not horns.
 
 ## Characteristics
 

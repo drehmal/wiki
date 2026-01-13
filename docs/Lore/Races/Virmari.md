@@ -12,7 +12,9 @@ Virmari begin as Drehmari, who make pilgrimage to the [[Kiln of Virtuo]] and are
 
 ## Physical Characteristics
 
-Virmari are blue-skinned, and described as appearing "perfect" or "angelic" by most sources. Their horns become crystalline, like their patron goddess, and one source suggests that they even gain the power of flight.
+Virmari are shown in-map as blue-skinned, and described as appearing "perfect" or "angelic" by most sources. Their horns become crystalline, like their patron goddess, and one source suggests that they even gain the power of flight.
+
+Some depictions (more recent official depictions, suggesting a future retcon) depict Virmari without the blue skin, instead retaining their natural skin tone while gaining crystalline blue horns and eyes. The reference sheet for [[Kahmas Tuhs]], a notable [[Avsohm|Avsohmic]] Virmari, as well as the discussion around it, confirmed that many Virmari physically grow in height, around a foot, after being ascended.
 
 ## History
 

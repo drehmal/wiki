@@ -13,6 +13,9 @@ Muhs is one of four dead Aspects, having been slain by a mortal [[Hunting Party]
 
 ## Description
 
+![[muhs_ref.png]]
+> Muhs' official reference image.
+
 Muhs' passage in [[Theogony Volume III]] reads:
 
 > Greatbeast Muhs, Aspect of Beasts

@@ -109,3 +109,10 @@ In [[Ytaj]], a large tower to the east is dedicated to Rihelma, filled with mura
 [[Rihelma's Domain]] in the far southeast is possibly the largest of any Aspect Domains on the moon, containing three clear sub-regions. This includes the fabled mountain of Aldregakar—the Star-Rise itself—in the southeastern corner of the moon's habitable area. This region is home to the Avsohmic [[Resupply Depot]], Rihelma's trial at the [[Star-Rise Orrery]], and the [[Augural Tangle]], where Rihelma spent most of her time on Lo'Dahr.
 
 Rihelma's legendary prophecies, the Facets, are also found on Lo'Dahr, scattered throughout the moon as rewards for completing trials. There are seven in total, all found on [[The Facets|this page]].
+
+## Extras
+
+![[rihelma_ref.png]]
+> Rihelma reference sheet.
+
+A commissioned Rihelma reference sheet is public, shown above. It depicts both her Aspect form and a Drehmari form that she could have taken, which was previously established to have been possible for all Aspects in older lore, but is scarcely mentioned in 2.2.

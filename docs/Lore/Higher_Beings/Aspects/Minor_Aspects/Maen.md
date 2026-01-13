@@ -11,13 +11,16 @@
 
 ## Description
 
+![[maen_ref.png]]
+> Maen's official reference image.
+
+Maen is only depicted or described in his reference image, shown above. He is a plantigrade, ape-like dragon, covered in spikes.
+
 Maen's passage in [[Theogony Volume III]] is shared with his two siblings, and reads:
 
 > Maen, Moen, and Tethlaen, the three Aspects of Emotion
 > ***
 > Created and maintain the Primal Emotions, all three of which are vital for functional souls. Moen lives on Lo'Dahr, Maen is shackled to Loruhn, and Tethlaen is widely believed to be dead after disappearing.
-
-No depictions or descriptions of Maen's physical form are found in the map.
 
 Maen is depicted as hateful, in line with his rule over pain.
 

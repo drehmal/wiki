@@ -24,7 +24,10 @@ While Drehmal is effectively a direct creation of the Primal Tree like their sib
 
 ## Description
 
-Drehmal takes the form of a gargantuan, pale green serpent with antlers, a leafy beard, and sharp teeth. They are known for their incredibly wise and peaceful demeanor. Drehmal is referred to exclusively with gender-neutral "they," "them," and "their" pronouns.
+![[drehmal_ref.png]]
+> Drehmal's official 2.2 reference sheet.
+
+Drehmal takes the form of a gargantuan (referred to as "miles long"), pale green serpent with wooden antlers, a leafy beard, yellow eyes, and sharp teeth. They are known for their incredibly wise and peaceful demeanor, particularly as passed down through [[Ancient Drehua]] stories. Drehmal is referred to exclusively with gender-neutral "they," "them," and "their" pronouns.
 
 ## History 
 

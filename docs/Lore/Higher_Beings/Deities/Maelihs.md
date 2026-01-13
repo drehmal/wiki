@@ -23,6 +23,13 @@ search:
 
 ## Description
 
+<div class="annotate" markdown>
+![[mael_ref.png]]
+> Mael's official 2.2 reference sheet. (1)
+</div>
+
+1. Mael has long been slated for a character redesign, which is expected to be incorporated into [[Drehmal v23|the 2.3 update]] as well as released to the public before the update.
+
 Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He has a very heavy build, with distinctive burnt red skin and jet black hair. He is often depicted wearing a helmet that covers his face.
 
 He is known to act wrathful and aggressive, constantly in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.

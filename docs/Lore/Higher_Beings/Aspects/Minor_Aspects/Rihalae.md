@@ -11,6 +11,11 @@
 
 ## Description
 
+![[rihalae_ref.png]]
+> Rihalae's official reference image.
+
+Rihalae's only known depiction is in her reference image, shown above. It shows her as a four-winged amphithere with a light blue body and red/white tips of her wings and tails.
+
 Rihalae's passage in [[Theogony Volume III]] reads: 
 
 > Zephyr Rihalae, Aspect of Wind

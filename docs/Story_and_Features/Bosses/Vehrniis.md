@@ -62,6 +62,8 @@ It is not known exactly when this challenge was issued, but per developer inform
 
 ## Extras
 
+![[Vehrniis-Ihb.png]]
+
 ### Known Issues
 
 The Vehrniis boss fight is known to be extremely laggy at times, making the boss move in a very slow and choppy manner as if the ticks per second have drastically dropped. This is a known problem due to a change in how entity actions are read from the datapack between 1.17 and 1.20, making the original code behind the boss extremely inefficient on version 2.2.1 and above. This is not currently fixed in either version 2.2.1 or 2.2.2.

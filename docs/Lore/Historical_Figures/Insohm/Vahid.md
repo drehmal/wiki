@@ -15,6 +15,8 @@ Vahid lived for an exceptionally long time as a Virmari, recounting a tale from 
 
 ## Grand Parish of Virtuo
 
+![[Pontiff-Vahid.png]]
+
 Vahid was the Grand Pontiff of Perfection in Virtuo's Grand Parish, acting as one of her top advisors alongside the Grand Pontiffs of Purity and Peace. Earlier in his tenure, he also seems to have held the position of Adjudicator, judging aspiring disciples and deciding who was worthy to be ascended to Virmari. 
 
 Following Virtuo's desecration at the hands of [[Maelihs]] in the climax of the [[Tidal War]], the Goddess lost an eye. Vahid is also depicted as missing an eye (his left eye, in particular), possibly done intentionally to mimic Virtuo. However, unlike Virtuo, who put a stone in her empty socket, Vahid seems to have left his empty, with an exposed socket bared to the world.

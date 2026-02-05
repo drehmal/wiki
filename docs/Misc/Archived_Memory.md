@@ -76,9 +76,7 @@ Notably, the title of the map's folder gives its day as "Ivelar". This follows t
 
 The main book, [[Ash-Stained Journal]], focuses on the mysterious disappearance of stars from the night sky over the course of the late Av2 1400s and early Av2 1500s. The second astronomer eventually comes to the conclusion that stars are disappearing in a straight line, which is moving directly towards the realm of Drehmal. At this time, the exact nature of the stars was not known by Drehmari, and so this presented an unclear threat. However, as players who have finished the map will know, each "star" in the night sky is in fact its own realm, contained by its own [[Veil]] within the greater Drehmal multiverse. The new object in the skybox, which glows blue like the stars that are accelerating towards Drehmal, can therefore be understood to be whatever is causing the "stars" to disappear.
 
-Barring a colossal retcon, this teaser introduces a massive new mystery: what happened to this celestial body hurtling towards Drehmal, and why is it not seen in the sky in Av4? Did it ever reach the realm, or was it somehow averted? Was it tied to anything we knew about previously, or is this a completely new contrivance?
-
-Whatever the answers to these questions are, it seems to be the case that only Green Serpent is aware of this potentially horrible fate that could have befallen the realm, and it is very likely that 2.3 will explore their actions in response to such a threat.
+Due to the Memory taking place within the point of view of a Green Serpent officer, it can be assumed that Green Serpent was aware of this object and sought to investigate it further after the night recorded in the Archived Memory.
 
 ## Extras
 

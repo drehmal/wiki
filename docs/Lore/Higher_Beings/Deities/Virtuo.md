@@ -16,7 +16,7 @@ Virtuo mysteriously took flight in Av3 903, departing with the entirety of her G
 |:----------:|:----------------------:|
 | **Titles** | Goddess of Peace, Purity, and Perfection <br>Lady of the Mirror <br>The Goddess |
 | **Classification** | [Deity](/Lore/Higher_Beings/Deities/) |
-| **Family** | [[Primal Tree]] (Parent) <br> [[Maelihs]] (brother) <br> [[Drehmal]] (Sibling) |
+| **Family** | [[Primal Tree]] (Parent) <br> [[Maelihs]] (Brother) <br> [[Drehmal]] (Sibling) |
 | **Gender** | Feminine (she/her) |
 | **[[Devotion]] Site** | [[Kiln of Virtuo]] |
 

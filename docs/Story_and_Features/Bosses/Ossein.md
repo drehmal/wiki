@@ -50,6 +50,7 @@ Ossein can only be killed once. If the button to start his fight is pressed agai
 ## Lore
 
 ![[OsseinHeart.png]]
+> An artwork of Ossein by Drehmal developer, artist HiscottiBiscotti.
 
 In life, Ossein appears to have been a regular [[Drehmari]] whose childhood home was ravaged by the [[Skullbeasts]] during one of [[Maelihs]]'s conquests of the West. Due to some combination of the trauma and his own predispositions, Ossein developed a macabre fascination with these monsters, developing to the point of infatuation with one in particular, named Femura.
 

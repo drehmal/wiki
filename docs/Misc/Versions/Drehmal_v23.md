@@ -70,7 +70,7 @@ The next teaser was shown on December 25, 2025. It features a stone orb sitting 
 
 ### January 2026
 
-The most recent teaser was on January 23, 2026. It depicts the heights of a cathedral's belltower, tall enough to where the clouds obscure the ground. 
+The most recent teaser was on January 23, 2026. It depicts the heights of a cathedral's belltower, tall enough to where the clouds obscure the ground. This was later revealed to be part of a rework of [[Fort Nimahj]].
 
 ![[teaser_jan_26.png]]
 > The fledgling empire of Avsohm sprung from the stock of many Great Houses, loosely united under Drehn's central banner. Just as they grew with their empire, they would die alongside it. All but one, that is.

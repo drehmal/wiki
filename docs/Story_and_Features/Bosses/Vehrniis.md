@@ -63,6 +63,7 @@ It is not known exactly when this challenge was issued, but per developer inform
 ## Extras
 
 ![[Vehrniis-Ihb.png]]
+> An illustration of [[Devro Ihb]] fighting the Vehrniis, by Drehmal artist HiscottiBiscotti. This work was briefly sold as a poster before the ongoing Drehmal merch store hiatus.
 
 ### Known Issues
 

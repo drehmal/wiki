@@ -63,7 +63,14 @@ The next teaser came on November 12, 2025, showing an updated Mt. Scarstone and 
 
 ### December 2025
 
-The most recent teaser was on December 12, 2025. It features a stone orb sitting on a pedestal in a dark room, surrounded by massive bookshelves.
+The next teaser was shown on December 25, 2025. It features a stone orb sitting on a pedestal in a dark room, surrounded by massive bookshelves.
 
 ![[teaser_dec_25.png]]
 > The provenance of the orb is unknown, and curious emblems cover the surface. They lack the ordering defining Khivian runes. Nyctoscopic shamans across the continent claim to have seen it in their dreams long before it fell from the sky.
+
+### January 2026
+
+The most recent teaser was on January 23, 2026. It depicts the heights of a cathedral's belltower, tall enough to where the clouds obscure the ground. 
+
+![[teaser_jan_26.png]]
+> The fledgling empire of Avsohm sprung from the stock of many Great Houses, loosely united under Drehn's central banner. Just as they grew with their empire, they would die alongside it. All but one, that is.

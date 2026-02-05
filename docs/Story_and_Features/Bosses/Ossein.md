@@ -49,6 +49,8 @@ Ossein can only be killed once. If the button to start his fight is pressed agai
 
 ## Lore
 
+![[OsseinHeart.png]]
+
 In life, Ossein appears to have been a regular [[Drehmari]] whose childhood home was ravaged by the [[Skullbeasts]] during one of [[Maelihs]]'s conquests of the West. Due to some combination of the trauma and his own predispositions, Ossein developed a macabre fascination with these monsters, developing to the point of infatuation with one in particular, named Femura.
 
 As found in [[Disciple's Log|his own writing]], Ossein became versed in the rites of [[necromancy]], and eventually made a pilgrimage to the [[Birthing Grounds]], the former home of the [[Skullmother]] where she was used to create legions of Skullbeasts. He attempted a necromantic ritual to revive Femura, but was unable to even create a single Skullbeast. Dejected, Ossein stumbled across fragments of the Skullbeasts deep underground in the Birthing Grounds, presumably using them for some means.

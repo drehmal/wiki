@@ -3,7 +3,7 @@
 ![[vahid.png]]
 > The statue of Vahid at the [[Kiln of Virtuo]].
 
-**Vahid** (pronounced "vah-heed") was the Grand Parish's [[Virmari]] Pontiff of Purity, [[Insohm|Insohmic]] Councillor (and possibly leader) of the Parochial Enclave of Firteid, and later the final Master of Insohm. 
+**Vahid** (pronounced "vah-heed") was the Grand Parish's [[Virmari]] Pontiff of Perfection, [[Insohm|Insohmic]] Councillor (and possibly leader) of the Parochial Enclave of Firteid, and later the final Master of Insohm. 
 
 Vahid departed from the continent along with [[Virtuo]] and the rest of the Grand Parish at the end of the Third Avihm. Although he was beloved during his tenure, Vahid became an incredibly controversial figure in the Fourth Avihm, after several stories of alleged wrongdoing surfaced.
 
@@ -14,6 +14,8 @@ Information about Vahid's early life comes from a secondhand account of a story 
 Vahid lived for an exceptionally long time as a Virmari, recounting a tale from the [[Deity War]] in early Av2. He reports that in childhood, he was sold into [[Maelmari]] slavery by a man he had known for his whole life. Eventually, he obtained ascension to [[Virmari]], and served as a steadfast devotee of the Goddess for centuries.
 
 ## Grand Parish of Virtuo
+
+![[Pontiff-Vahid.png]]{ align=right width="90" }
 
 Vahid was the Grand Pontiff of Perfection in Virtuo's Grand Parish, acting as one of her top advisors alongside the Grand Pontiffs of Purity and Peace. Earlier in his tenure, he also seems to have held the position of Adjudicator, judging aspiring disciples and deciding who was worthy to be ascended to Virmari. 
 

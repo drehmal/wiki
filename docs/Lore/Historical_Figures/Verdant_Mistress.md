@@ -20,3 +20,7 @@ This same document also asserts that the Verdant Mistress, being a mythically po
 No written lore about the Verdant Mistress exists in [[Drehmal v22|the current version of Drehmal]], but her name does appear twice in-map. A small structure can be found in the eastern Verdant Labyrinth, with a sign that reads "SHRINE TO THE VERDANT MISTRESS" and a generic loot chest.
 
 The second is more substantial, as the Verdant Mistress is one of the four people who have a statue inside of the [[Kiln of Virtuo]]. This seems to imply that she may have been a [[Virmari]], as well as being a part of Virtuo's Grand Parish.
+
+![[VerdantMistress.png]]{ align=right width="90" }
+
+An image of the Verdant Mistress, shown at right, was released as a [[Virmari]] reference sheet by Drehmal team artist HiscottiBiscotti.

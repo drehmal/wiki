@@ -79,6 +79,9 @@ Players who die in a multiplayer Emissary fight which keeps going will be allowe
 
 ## Lore { data-search-exclude }
 
+![[Emissary_RefSheet.png]]
+> The Emissary's official 2.2 reference sheet.
+
 The Emissary of the Void is an enigmatic figure who served as the right hand of the [[yellow|Mythoclast]]. He was perhaps better known on Drehmal as a rumor, by another name: The **Pawn of Nothing**, or simply **The Pawn**, as referenced by the [[The Pawn|book of that name]] at the [[Nihilist's Cabin]]. It is revealed in the dialogue immediately following the fight that [[Drehn|Drehn Mal'Sohm]], [[Avsohm]]'s founder and first emperor, willingly took this role upon dying and reaching the [[Court of Nothing]]. Foreseeing the atrocities his empire would go on to commit, he wanted nothing more than to ensure that it would die out, and to see that end. The King of Nothing obliged him, and made him a servant.
 
 Drehn bode his time until he was finally allowed to act during the [[Fall of Avsohm]]. As the [[Oblivion]] description reads:

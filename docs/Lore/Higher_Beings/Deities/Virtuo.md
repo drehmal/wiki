@@ -23,11 +23,9 @@ Virtuo mysteriously took flight in Av3 903, departing with the entirety of her G
 ## Description
 
 <div class="annotate" markdown>
-![[virtuo_ref.png]]
-> Virtuo's official 2.2 reference sheet. (1)
+![[Virtuo_redesign_ref.png]]
+> Virtuo's new official reference sheet, redesigned for 2.3. 
 </div>
-
-1. Virtuo has long been slated for a character redesign, which is expected to be incorporated into [[Drehmal v23|the 2.3 update]] as well as released to the public before the update.
 
 Virtuo takes the form of a 12-foot tall Drehmari (humanoid) with shimmering blue horns, blue hair and very tan/nearly orange skin. She is known to be calm, wise and stunningly beautiful.
 
@@ -117,3 +115,10 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 Virtuo cannot be interacted with in any way in-game, but her chambers in [[Ytaj]] can be explored. Here is where players will find the [[Closed Diary]], the book which details her decision to leave for Eastern Xivrhynt. This room also holds the aforementioned [[Artifacts#Fortitude|Fortitude]] shield, a real artifact.
 
 Virtuo is mentioned in the [[True End|final sequence of the game]].
+
+## Gallery
+
+<div class="annotate" markdown>
+![[virtuo_ref_old.png]]
+> Virtuo's previous art reference from 2.2. 
+</div>

@@ -34,14 +34,14 @@ The first teaser was of a not-before-seen town, posted on July 15, 2025. Notably
 
 ### August 2025
 
-Posted on August 12, 2025, the next teaser image shows a yellow-green birch forest.
+Posted on August 12, 2025, the next teaser image shows a birch and spruce forest in front of mountains. 
 
 ![[teaser_aug_25.png]]
 > In regions untouched by the wars waged between empires, the Realmbinder's vision remains intact.
 
 ### September 2025
 
-On September 12, 2025, an image was posted of a dark, foreboding hallway, lit in green. Its message is strange and appears partially corrupted.
+On September 12, 2025, an image was posted of a dark, foreboding hallway, lit in green and lined with glass tanks. The corresponding message is strange and appears partially corrupted.
 
 ![[teaser_sep_25.png]]
 > Look upon my wo-///-n AWE <br>
@@ -56,21 +56,32 @@ On October 12 of 2025, rather than a standard teaser image, the Drehmal Discord'
 
 ### November 2025
 
-The next teaser came on November 12, 2025, showing an updated Mt. Scarstone and its surrounding terrain in the [[North Heartwood]]. It also introduced a new group, the Mokhan, who are not mentioned in 2.2.
+The next teaser came on November 12, 2025, showing an updated Castle Scarstone and its surrounding terrain in the [[North Heartwood]]. The text also introduced a new group, the Mokhan, who are not mentioned in 2.2.
 
 ![[teaser_nov_25.png]]
 > The diverse Mokhan peoples of the East all trace their lineage to the holy mountain widely known as Mt. Scarstone. Ancient carvings in the hollow beneath suggest a royal relation to the entombed.
 
 ### December 2025
 
-The next teaser was shown on December 25, 2025. It features a stone orb sitting on a pedestal in a dark room, surrounded by massive bookshelves.
+The next teaser was shown on December 12, 2025. It features a stone orb sitting on a pedestal in a dark room, surrounded by massive bookshelves.
 
 ![[teaser_dec_25.png]]
 > The provenance of the orb is unknown, and curious emblems cover the surface. They lack the ordering defining Khivian runes. Nyctoscopic shamans across the continent claim to have seen it in their dreams long before it fell from the sky.
 
 ### January 2026
 
-The most recent teaser was on January 23, 2026. It depicts the heights of a cathedral's belltower, tall enough to where the clouds obscure the ground. This was later revealed to be part of a rework of [[Fort Nimahj]].
+This teaser was released on January 23, 2026. It depicts the heights of a cathedral's belltower, tall enough to where the clouds obscure the ground. This was later revealed to be part of a rework of [[Fort Nimahj]], now named Sal'Silar.
 
 ![[teaser_jan_26.png]]
 > The fledgling empire of Avsohm sprung from the stock of many Great Houses, loosely united under Drehn's central banner. Just as they grew with their empire, they would die alongside it. All but one, that is.
+
+### February 2026
+
+The most recent teaser was released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was similarly distorted as the September 2025 teaser.
+
+![[teaser_feb_26.png]]
+> C-//VE them apart
+Un-//-l their thoughts and -//tter their MINDS
+Reduce them to NAU-///-t logic and -//-ng
+Bi//- them to my B-//-DE
+Now grant them PUR-//-SE

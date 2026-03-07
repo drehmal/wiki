@@ -56,7 +56,7 @@ On October 12 of 2025, rather than a standard teaser image, the Drehmal Discord'
 
 ### November 2025
 
-The next teaser came on November 12, 2025, showing an updated Castle Scarstone and its surrounding terrain in the [[North Heartwood]]. The text also introduced a new group, the Mokhan, who are not mentioned in 2.2.
+The next teaser came on November 12, 2025, showing an updated Mt. Scarstone and its surrounding terrain in the [[North Heartwood]]. The text also introduced a new group, the Mokhan, who are not mentioned in 2.2.
 
 ![[teaser_nov_25.png]]
 > The diverse Mokhan peoples of the East all trace their lineage to the holy mountain widely known as Mt. Scarstone. Ancient carvings in the hollow beneath suggest a royal relation to the entombed.
@@ -77,7 +77,7 @@ This teaser was released on January 23, 2026. It depicts the heights of a cathed
 
 ### February 2026
 
-The most recent teaser was released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was similarly distorted as the September 2025 teaser.
+The most recent teaser was released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was distorted similarly to the September 2025 teaser.
 
 ![[teaser_feb_26.png]]
 > C-//VE them apart

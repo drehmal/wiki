@@ -67,7 +67,7 @@ Espinor was a prominent city located on the region's eastern tip in the Second A
 
 ### Ruins of Stromnar
 
-Stromnar was an Avsohmic-era city in western South Heartwood with a "strong warrior tradition". It was the birthplace of the military organization [[Blue Exodus]], whose architecture closely resembles that of the city, heavily featuring prismarine (which is an abundant resource in the area and an effective building material) and quartz.
+Stromnar was an Avsohmic-era city in the western South Heartwood with a "strong warrior tradition". It was the birthplace of the military organization [[Blue Exodus]], whose architecture closely resembles that of the city, heavily featuring prismarine (which is an abundant resource in the area and an effective building material) and quartz.
 
 **Coordinates:** (X: 497, Y: 64, Z: 4038)
 

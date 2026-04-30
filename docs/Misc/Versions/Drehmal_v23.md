@@ -77,7 +77,7 @@ This teaser was released on January 23, 2026. It depicts the heights of a cathed
 
 ### February 2026
 
-The most recent teaser was released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was distorted similarly to the September 2025 teaser.
+Released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was distorted similarly to the September 2025 teaser.
 
 ![[teaser_feb_26.png]]
 > C-//VE them apart
@@ -85,3 +85,23 @@ Un-//-l their thoughts and -//tter their MINDS
 Reduce them to NAU-///-t logic and -//-ng
 Bi//- them to my B-//-DE
 Now grant them PUR-//-SE
+
+### March 2026
+
+March saw the release of much activity concerning 2.3, with the results of the [[2026 Painting Competition]] and a textual teaser coming at the end of the month, alongside the usual screenshot.
+
+The image shows the updated terrain design around the great statue of Virtuo, in the northernmost edge of the Black Jungle. Aside from Insohm and Alvira, Virzhoun is a new faction name, likely referring to the main pre-Kiln Virmari state.
+
+![[teaser_mar_26.png]]
+> Alvira. Virzhoun. Insohm. The predominant powers of the east have long presented themselves as the arbiters of Virtuo's faith, waging bloody wars in the name of the Goddess of Peace. While Drehmari states may employ such rhetoric, none can perfectly recreate the iron fist of the original Virmari.
+
+The text teaser, released to commemorate the sixth anniversary of the release of Drehmal:PRIMORDIAL on March 31st, takes the form of a lore book: [[Shortcut]]. Set in Lorahn'Kahl during the time of the expansion of the Burnt Empire, it follows the adventurer Fona Ferahnya as he attempts to brave the vine-choked jungle on the way back to Mohta from acquiring a mysterious artifact. 
+
+...and the next day, a non-canon continuation to 'Shortcut' led into the 2026 April Fools event, [[PRIME_MOTOR_OIL|Drehmal:PRIME MOTOR OIL]].
+
+### April 2026
+
+The most recent teaser was released on April 23, 2026. Picturing what is apparently Eldugar, a vast and hidden library. The architecture appears to share many elements with some of the other non-landscape teaser images, and the text also mentions 'Rengia' (from the September 2025 teaser) as if it was a faction.
+
+![[teaser_apr_26.png]]
+> Few have gazed upon Eldugar, the great archive of the Lawbringer King. It was Vys’Eldug who subjugated the written word, and perhaps brought Rengia to its nadir.

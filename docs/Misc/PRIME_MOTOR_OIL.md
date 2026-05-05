@@ -2,7 +2,7 @@
 
 !!! danger "Despite it being decidedly non-canon, this article and the event/map discussed contains spoilers for areas related to post-75% tower completion. If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article."
 
-On April 1st, 2026, a comedic continuation of the recently-shown teaser lorebook [[Shortcut]] was posted, along with an announcement that the official Events server was open once again. 
+On April 1st, 2026, a comedic continuation of the recently-shown teaser lore book [[Shortcut]] was posted, along with an announcement that the official Events server was open once again. 
 
 > ...
 > 
@@ -30,7 +30,7 @@ On April 1st, 2026, a comedic continuation of the recently-shown teaser lorebook
 > 
 > Goodbye and good riddance to Drehmal:PRIMΩRDIAL. It's time for DREHMAL: PRIME MΩTOR OIL!
 
-PRIME MOTOR OIL follows a joke continuity in which [[Maelihs]] has conquered large areas of the disc and divine moon, not for dominion, but for the construction of massive motorized ice-boat racing tracks. 
+**PRIME MOTOR OIL** (stylized as PRIME MΩTOR OIL and acronymized as PMO or PMΩ) follows a joke continuity in which [[Maelihs]] has conquered large areas of the disc and divine moon, not for dominion, but for the construction of massive motorized ice-boat racing tracks. 
 
 More information, as well as a download for an offline version of the worldfile, is available at both <https://www.drehmal.net/primemotoroil> and on the [Planet Minecraft thread](https://www.planetminecraft.com/project/drehmal-prime-m-tor-oil-high-octane-ice-boat-racing/).
 
@@ -49,7 +49,7 @@ The starting track begins near Mohta, trailing along the nearby coastlines and t
 
 ![[PMO_Ahklo.webp]]
 
-The circuit's next track starts at [[Ancehl Castle]], weaving a scenic route through [[Ahklo'Roma]], north to [[Faercyle]] via an AvSohmic conduit, with the finish line being the entrance to [[Mt. Yahvlix]].
+The circuit's next track starts at [[Ancehl Castle]], weaving a scenic route through [[Ahklo'Rohma]], north to [[Faehrcyle]] via an AvSohmic conduit, with the finish line being the entrance to [[Mt. Yavhlix]].
 
 ### Highway to Hellcrags
 

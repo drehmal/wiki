@@ -101,7 +101,7 @@ The text teaser, released to commemorate the sixth anniversary of the release of
 
 ### April 2026
 
-The most recent teaser was released on April 23, 2026. Picturing what is apparently Eldugar, a vast and hidden library. The architecture appears to share many elements with some of the other non-landscape teaser images, and the text also mentions 'Rengia' (from the September 2025 teaser) as if it was a faction.
+The most recent teaser was released on April 23, 2026, picturing what is apparently Eldugar, a vast and hidden library. The architecture appears to share many elements with some of the other non-landscape teaser images, and the text also mentions 'Rengia' (from the September 2025 teaser) as if it was a faction.
 
 ![[teaser_apr_26.png]]
 > Few have gazed upon Eldugar, the great archive of the Lawbringer King. It was Vys’Eldug who subjugated the written word, and perhaps brought Rengia to its nadir.

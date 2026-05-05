@@ -72,9 +72,16 @@ v2.2.2 is the current version of the map as of April 15, 2025. It is primarily a
 
 [[Drehmal v23|Drehmal v2.3]] is a confirmed update currently in development as of October 2025, announced on the [five-year anniversary of Drehmal v2](https://www.drehmal.net/post/five-years-of-drehmal). Believed to be centered around bringing old points of interest and towns up to the 2.2 standard of quality, it is the only version of the map in active development at this time.
 
-## v3 (April Fools)
+## v3 (April Fools 2021)
 
 !!! info "Main Article: [[Drehmal v3|Drehmal v3.0]]"
     If you want to play Drehmal v3, navigate to the main page above.
 
 Drehmal v3 was a special joke update released on April 1, 2021. A heavily dated and unserious version of Drehmal 2.1, v3 is stuffed with absurd terrain, community in-jokes, bizarre custom items, and more.
+
+## Prime MΩTOR OIL (April Fools 2026)
+
+!!! info "Main Article: [[PRIME MOTOR OIL]]
+    If you want to play Drehmal: PRIME MΩTOR OIL, navigate to the main page above.
+
+Drehmal: PRIME MΩTOR OIL was an April Fools joke release, posted on April 1st, 2026. It is an ice boat racing map created using Drehmal's 2.2 terrain, which was hosted on a public server as a community event and also released as a singleplayer download.

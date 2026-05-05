@@ -2,8 +2,8 @@
 
 # Shortcut
 
-!!! warning "Future Content"
-    This book does not currently exist in [[Drehmal v22|version 2.2]], but has been posted in full as a teaser for [[Drehmal v23|version 2.3]], where it will be present and acquirable. 
+!!! warning "Dubious Canon"
+    This book does not currently exist in [[Drehmal v22|version 2.2]], and was posted as a teaser for the 2026 [[PRIME MOTOR OIL]] April Fools' event. Its canonicity is questionable. 
 
 ## Coordinates
 | **X** | **Y** | **Z** |

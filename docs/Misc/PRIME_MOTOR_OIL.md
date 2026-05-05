@@ -1,8 +1,8 @@
-# Drehmal:PRIME MOTOR OIL
+# Drehmal: PRIME MOTOR OIL
 
 !!! danger "Despite it being decidedly non-canon, this article and the event/map discussed contains spoilers for areas related to post-75% tower completion. If you have not reached 75% completion or finished the full 75% story sequence through the "Apotheosis" advancement, we strongly advise that you do not continue to read this article."
 
-On April 1st, 2026, a comedic continuation of the recently-shown teaser lorebook [['Shortcut']] was posted, along with an announcement that the official Events server was open once again. 
+On April 1st, 2026, a comedic continuation of the recently-shown teaser lorebook [[Shortcut]] was posted, along with an announcement that the official Events server was open once again. 
 
 > ...
 > 
@@ -40,25 +40,25 @@ There are 4 tracks, each with their own layout and record times to beat. All are
 
 ### Tri-Moon Mohtaway
 
-[[!PMO_Mohta.webp]]
+![[PMO_Mohta.webp]]
 
 The starting track begins near Mohta, trailing along the nearby coastlines and through the nearby cave to the [[Moonlight Sanctum]], looping back to Mohta for 3 laps.
 
 
 ### Boatanical Mountainslide
 
-[[!PMO_Ahklo.webp]]
+![[PMO_Ahklo.webp]]
 
 The circuit's next track starts at [[Ancehl Castle]], weaving a scenic route through [[Ahklo'Roma]], north to [[Faercyle]] via an AvSohmic conduit, with the finish line being the entrance to [[Mt. Yahvlix]].
 
 ### Highway to Hellcrags
 
-[[!PMO_Palace.webp]]
+![[PMO_Palace.webp]]
 
 Mael's home track begins in front of his own [[Burnt Palace]], rushing through it and looping through the perilous lava pools and caves of the [[Hellcrags]], and requires 3 laps. 
 
 ### Lunar Luge
 
-[[!PMO_Bees.webp]]
+![[PMO_Bees.webp]]
 
-Highly challenging and breathtaking in equal measure, the Lunar Luge begins and ends in [[Ytaj]], with a rainbow path suspended far above the surface of the Divine Moon that snakes around every Domain and back.
+Highly challenging and breathtaking in equal measure, the Lunar Luge begins and ends in [[Ytaj]], with a rainbow path suspended far above the surface of the [[Lo'Dahr|Divine Moon]] that snakes around every Domain and back.

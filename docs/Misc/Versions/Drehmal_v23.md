@@ -97,7 +97,7 @@ The image shows the updated terrain design around the great statue of Virtuo, in
 
 The text teaser, released to commemorate the sixth anniversary of the release of Drehmal:PRIMORDIAL on March 31st, takes the form of a lore book: [[Shortcut]]. Set in Lorahn'Kahl during the time of the expansion of the Burnt Empire, it follows the adventurer Fona Ferahnya as he attempts to brave the vine-choked jungle on the way back to Mohta from acquiring a mysterious artifact. 
 
-...and the next day, a non-canon continuation to 'Shortcut' led into the 2026 April Fools event, [[PRIME_MOTOR_OIL|Drehmal:PRIME MOTOR OIL]].
+...and the next day, a non-canon continuation to 'Shortcut' led into the 2026 April Fools event, [[PRIME_MOTOR_OIL|Drehmal: PRIME MOTOR OIL]].
 
 ### April 2026
 

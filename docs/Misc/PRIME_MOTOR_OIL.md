@@ -74,7 +74,7 @@ The starting track begins near Mohta, trailing along the nearby coastlines and c
 
 ![[PMO_Ahklo.webp]]
 
-The circuit's next track starts at [[Ancehl Castle]], weaving a scenic route through [[Ahklo'Rohma]], north to [[Faehrcyle]] via an Avsohmic pipe, with the finish line being the entrance to [[Mt. Yavhlix]]. The second half of its route, as well as the music that plays during this section, heavily invokes the Mythbreaker Run.
+The circuit's next track starts at [[Ancehl Castle]], weaving a scenic route through [[Akhlo'Rohma]], north to [[Faehrcyle]] via an Avsohmic pipe, with the finish line being the entrance to [[Mt. Yavhlix]]. The second half of its route, as well as the music that plays during this section, heavily invokes the Mythbreaker Run.
 
 | **Split** | **Time to Beat** |
 |:---------:|:----------------:|

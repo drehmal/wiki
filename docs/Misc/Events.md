@@ -10,7 +10,7 @@ An event took place around the official release of 2.2 on April 5, 2024, in whic
 
 ## Advent Calendar
 
-During the month of December every year since 2021, the Drehmal "Advent Calendar" event has taken place, run entirely by developer MoutonDemocrate. Drawing from traditional real-world Advent Calendars, this event begins every year with a simple map of Drehmal. Every day, server members are invited to make suggestions to alter the map somehow, and the 3-5 options with the most votes every day are implemented. These frequently lead to the map becoming near-unrecognizable after a few days, as the terrain is replaced with heavily dated references.
+During the month of December from 2021-2024, the Drehmal "Advent Calendar" event took place, run entirely by developer MoutonDemocrate. Drawing from traditional real-world Advent Calendars, this event begins every year with a simple map of Drehmal. Every day, server members are invited to make suggestions to alter the map somehow, and the 3-5 options with the most votes every day are implemented. These frequently lead to the map becoming near-unrecognizable after a few days, as the terrain is replaced with heavily dated references.
 
 The final results from all Advent Calendars can be found below:
 
@@ -36,6 +36,14 @@ In 2025, the event was revived, with members of the dev team and server staff ov
 
 ![[spookadelphia.png]]
 > The 2025 "Spookadelphia" floating island town map.
+
+## Painting Contest
+
+In February 2026, a [[2026 Painting Competition|painting competition]] was held in the Drehmal Discord server. Community members were encouraged to submit their own artworks to replace vanilla paintings and serve as new additions to the map in [[Drehmal v23|version 2.3]], with 38 winners being selected in total.
+
+## Prime Motor Oil
+
+[[Prime Motor Oil|Drehmal: PRIME MOTOR OIL]] was the dev team's 2026 April Fools' event, with four competitive ice boat racing tracks hosted on a server during the month of April.
 
 ## Ruins and Remnants Build Contest
 

@@ -54,4 +54,4 @@ A secret pitch-black underground maze is located in the region, containing a [[O
 
 When standing just outside of the large door at Mt. Yavhlix, a faint ambient track plays. This is "The Mountain of Holes", by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k_dB8MBCEDk?si=D3DilOkR4fKx0ky3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_dB8MBCEDk?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

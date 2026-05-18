@@ -148,4 +148,4 @@ In addition, you will need Fabric for Minecraft 1.17.1 and all of the required m
 
 The video below is the official release trailer for Drehmal: Apotheosis, uploaded on the same day as the full release.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/So3Z4MCLuRY?si=aVunubF5LlxEfoRi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/So3Z4MCLuRY?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

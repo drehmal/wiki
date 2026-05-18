@@ -27,6 +27,6 @@ The city likely fell to ruin after the Theocracy crumbled, when [[Avsohm]] assas
 
 ### Build Contest
 
-Sal'Lorahn took third place in the [2021 Ruins and Remnants Build Contest](https://youtu.be/Aff9XZDNAFw?si=dLPi6XzacVkLnfrp&t=465), a competition held within the Drehmal community to create new ruined cities and remnants of ancient civilizations. The top three placers were added to the map in [[Drehmal v22|version 2.2]]. This build was submitted by the user "Burnt General".
+Sal'Lorahn took third place in the [2021 Ruins and Remnants Build Contest](https://youtu.be/Aff9XZDNAFw?&t=465), a competition held within the Drehmal community to create new ruined cities and remnants of ancient civilizations. The top three placers were added to the map in [[Drehmal v22|version 2.2]]. This build was submitted by the user "Burnt General".
 
 The [[Lorahn'Kahl#Necromantic Church|Necromantic Church]] found in the Moonspires further west was included in the caves directly beneath this ruin in the original build submission, but this was changed by developers for 2.2.

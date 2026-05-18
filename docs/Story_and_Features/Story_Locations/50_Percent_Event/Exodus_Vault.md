@@ -78,4 +78,4 @@ Many of the workers present at the vault during [[Fall of Avsohm|Avsohm's sudden
 
 The theme song of the Exodus Vault is "Down the Tubes" by Penngo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jM7pqgq8ghg?si=eSJdXlD5gDP73ezP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM7pqgq8ghg?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

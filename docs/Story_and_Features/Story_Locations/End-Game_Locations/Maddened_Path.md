@@ -92,4 +92,4 @@ A full transcript of the dialogue at this area can be found [[End-Game_Dialogue.
 
 The theme song for the Maddened Path is "Before the Storm", by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ylo0oRnBzec?si=LJ3tr06ZG8FAbRn7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ylo0oRnBzec?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

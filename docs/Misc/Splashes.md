@@ -142,7 +142,7 @@ Drehmal's resource pack adds over 330 unique splashtexts to the main menu screen
 | Now with Nothing! | 2.1 | See above. |
 | §kThe Nothing | 2.1 |  |
 | Tetra likes lore! | 2.1 | Developer greenTetrahedron, prior to joining the dev team, made a name for herself as a leading figure in the fledgling Drehmal lore community. |
-| RIP Eddie | 2.1 | [A reference](https://youtu.be/KpUX7XCzflI?si=snVr2fTowz0tm04K) to the donkey of DiveShadow, a community member who had a popular Let's Play/Walkthrough series of Drehmal v2 and v2.1. Eddie was his donkey, who died near the western entrance to the [[Verdant Labyrinth]] in v2. |
+| RIP Eddie | 2.1 | [A reference](https://youtu.be/KpUX7XCzflI?) to the donkey of DiveShadow, a community member who had a popular Let's Play/Walkthrough series of Drehmal v2 and v2.1. Eddie was his donkey, who died near the western entrance to the [[Verdant Labyrinth]] in v2. |
 | Tridents > Mythics | 2.1 |  |
 | We <3 our community! | 2.1 |  |
 | It's Keeko's fault. | 2.1 | The unequivocal truth. |

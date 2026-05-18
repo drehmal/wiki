@@ -99,7 +99,7 @@ The central island of Av'Sal is entirely made up of the Lush Caves biome, meanin
 
 The theme song for Av'Sal is "Av'Sal", by Penngo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Fsp2xliOzE?si=SsTE7_1EJQZ88jWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Fsp2xliOzE?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Update History
 

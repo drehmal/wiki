@@ -1,6 +1,6 @@
 # Socials
 
-There are several dedicated places where Drehmal discussion takes place.
+This page is dedicated to the official social media accounts and spaces maintained by the Drehmal development team.
 
 ## Discord
 
@@ -20,8 +20,18 @@ Drehmal has its own subreddit, over at [r/Drehmal](https://www.reddit.com/r/Dreh
 
 ## Twitter/Bluesky
 
-The Drehmal team ran an official Twitter account beginning in 2021, at [@DrehmalMC](https://x.com/DrehmalMC). In November 2024, the dev team decided to move off of the platform indefinitely, migrating to [Bluesky](https://bsky.app/profile/drehmal.net).
+The Drehmal team ran an official Twitter account beginning in 2021, at [@DrehmalMC](https://x.com/DrehmalMC). In November 2024, the team moved off of the platform indefinitely, migrating to [Bluesky](https://bsky.app/profile/drehmal.net).
+
+## Instagram
+
+Drehmal is also on Instagram as [Drehmal](https://www.instagram.com/drehmal/). The team has regularly put out short-form content since April 2026, crossposted between TikTok, Instagram, and YouTube Shorts.
+
+## TikTok
+
+Drehmal can be found on TikTok, under the [drehmalmc](https://www.tiktok.com/@drehmalmc) username. 
 
 ## YouTube
 
-The Drehmal team's official YouTube channel is @Primordial-Team, found at [this link](https://www.youtube.com/channel/UCBDJEctA0GmL6_g15kYvhMQ). Co-Creator [Rift's channel](https://www.youtube.com/@rift0110/videos) is also home to some official Drehmal content.
+The Drehmal team's official YouTube channel is @Primordial-Team, found at [this link](https://www.youtube.com/channel/UCBDJEctA0GmL6_g15kYvhMQ). Major video releases, such as the 2.2 trailer, are posted here as well as regular short-form content.
+
+Co-Creator [Rift's channel](https://www.youtube.com/@rift0110/videos) is also home to some official Drehmal content.

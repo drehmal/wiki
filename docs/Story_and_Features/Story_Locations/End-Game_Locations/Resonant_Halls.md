@@ -105,4 +105,4 @@ The dialogue transcript from this section of the story can be found [[End-Game_D
 
 The Resonant Halls has its own version of the Mt. Yavhlix ambience, "Resonant Halls" by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PaxLkUCB7Lk?si=beezBFwftV3xSQaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PaxLkUCB7Lk?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

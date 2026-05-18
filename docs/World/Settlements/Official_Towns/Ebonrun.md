@@ -156,7 +156,7 @@ Ebonrun was conquered by the [[Empire of Maelihs]] in the [[Dune Wars]] immediat
 
 Ebonrun's theme song is "Eat Sleep Work Repeat", by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d0a3rkG_Jk0?si=z_1fnUQS-uw8kzk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0a3rkG_Jk0?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Merchant Respawn Commands
 

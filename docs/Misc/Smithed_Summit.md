@@ -1,6 +1,6 @@
 # Smithed Summit 2024
 
-The first **Smithed Summit** was an online convention in a custom Minecraft world hosted by [Smithed](https://smithed.net/) from November 2-9, 2024. This week-long event offered Minecraft map developers and coders to showcase their datapack-related creations. 
+The first **Smithed Summit** was an online convention in a custom Minecraft world hosted by [Smithed](https://smithed.net/) from November 2-9, 2024. This week-long event offered Minecraft map developers and coders an opportunity to showcase their datapack-related creations. 
 
 ## Drehmal Booth
 

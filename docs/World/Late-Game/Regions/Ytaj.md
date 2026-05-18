@@ -648,7 +648,7 @@ Around the top of Lahrs' room, a musical staff is drawn on the walls, looping ar
 
 Ytaj's theme song is "Sacred Halls", by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KLjh5Aok180?si=jYGoqTzURqWCIR03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLjh5Aok180?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Merchant Respawn Commands
 

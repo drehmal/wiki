@@ -603,7 +603,7 @@ Runic Golems in Naharja (and throughout Moen's Domain) have a custom texture, ta
 
 Naharja's theme song is "Lunar Renaissance", by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCBeTCsYxUg?si=s5biif89Ijghr1ut" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCBeTCsYxUg?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Merchant Respawn Commands
 

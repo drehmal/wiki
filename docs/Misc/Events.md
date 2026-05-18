@@ -30,7 +30,7 @@ The final results from all Advent Calendars can be found below:
 
 Two of the largest events in the Drehmal community have been Halloween Hide & Seek activities, in which a build from the map is given an extensive spooky makeover and used for a Hide & Seek minigame in late October/early November.
 
-In 2023, this event took place in a Halloween-ified version of the [[Kiln of Virtuo]]. A [custom song](https://youtu.be/ioJ3hOauTuQ?si=1nus-qh9P7ZfHaro) was created by Drehmal composer Chris Nesja for the event, which shows a screenshot of the build.
+In 2023, this event took place in a Halloween-ified version of the [[Kiln of Virtuo]]. A [custom song](https://youtu.be/ioJ3hOauTuQ) was created by Drehmal composer Chris Nesja for the event, which shows a screenshot of the build.
 
 In 2025, the event was revived, with members of the dev team and server staff overhauling the town of [[Rihanar]] and surrounding islands to create a new Halloween town. The minigame was also expanded to include a mock "election" system and new power-ups for both Hiders and Seekers.
 
@@ -47,7 +47,7 @@ In February 2026, a [[2026 Painting Competition|painting competition]] was held 
 
 ## Ruins and Remnants Build Contest
 
-In December 2020, the Ruins and Remnants build contest was announced, as community members were encouraged to submit new ruins of their own on Drehmal v2.1 with the promise of the best ruins being incorporated in 2.2. Three builds were selected from the [final submissions](https://youtu.be/Aff9XZDNAFw?si=ftOnzJUO4OhY_fMR): and added to 2.2:
+In December 2020, the Ruins and Remnants build contest was announced, as community members were encouraged to submit new ruins of their own on Drehmal v2.1 with the promise of the best ruins being incorporated in 2.2. Three builds were selected from the [final submissions](https://youtu.be/Aff9XZDNAFw?): and added to 2.2:
 
 - 1st Place: [[Xor'Huul]] by Black Sabbath <br>
 - 2nd Place: [[Loraga Keep]] by Pogoshark <br>

@@ -80,4 +80,4 @@ The soundtrack for the Vehrniis' boss battle (1) is "What Lurks Below", by Drehm
 
 1. This is distinct from Bernice's theme song, which is "California Gurls" by Katy Perry.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cO8BawdA99Y?si=7yhNbokUMQ-8KxkB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cO8BawdA99Y?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

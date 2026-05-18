@@ -366,7 +366,7 @@ A player head made to resemble a plushie of Virtuo is hidden beneath the center 
 
 For Halloween 2023, the Kiln of Virtuo was redecorated to be Halloween-themed by a mix of devs and community members, with a custom soundtrack made for the event. A screenshot of the Halloween Kiln can be seen, along with the theme song, in this video by Drehmal composer Chris Nesja.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ioJ3hOauTuQ?si=NshFZjQZGZKhqtGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioJ3hOauTuQ?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Update History
 

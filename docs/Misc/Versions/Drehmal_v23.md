@@ -108,9 +108,9 @@ This teaser was released on April 23, 2026, picturing what is apparently Eldugar
 
 ### May 2026
 
-The most recent teaser was released on May 23, 2026. It depicts an underwater location, with coral and aquamarine. The only feature of note is a Conduit, which may hint at the inclusion of more underwater-based areas. The text is relatively cryptic, implying deeper significance for some lights under the oceans, possibly also referring to the Azure Lanterns in the conduit.
+The most recent teaser was released on May 23, 2026. It depicts an underwater location, with coral and prismarine. The only feature of note is the framework for activation of a conduit, which may hint at the inclusion of more underwater-based areas. The text is relatively cryptic, implying deeper significance for some lights under the oceans, possibly also referring to the Azure Lanterns in the conduit.
 
 ![[teaser_may_26.png]]
-> Light never ceases to shine down from the heavens upon the seas of Drehmal, yet only that which the ocean rejects is known to mortalkind. A faint glow as the world awakens. A blinding glare in the fisherman’s eye. Rich scattered crimson at day’s end. A ghostly shimmer in the dead of night. 
-
-What becomes of the light that it keeps?
+> Light never ceases to shine down from the heavens upon the seas of Drehmal, yet only that which the ocean rejects is known to mortalkind. A faint glow as the world awakens. A blinding glare in the fisherman’s eye. Rich scattered crimson at day’s end. A ghostly shimmer in the dead of night. <br> 
+> <br>
+> What becomes of the light that it keeps?

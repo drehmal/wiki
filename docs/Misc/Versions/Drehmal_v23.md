@@ -101,7 +101,16 @@ The text teaser, released to commemorate the sixth anniversary of the release of
 
 ### April 2026
 
-The most recent teaser was released on April 23, 2026, picturing what is apparently Eldugar, a vast and hidden library. The architecture appears to share many elements with some of the other non-landscape teaser images, and the text also mentions 'Rengia' (from the September 2025 teaser) as if it was a faction.
+This teaser was released on April 23, 2026, picturing what is apparently Eldugar, a vast and hidden library. The architecture appears to share many elements with some of the other non-landscape teaser images, and the text also mentions 'Rengia' (from the September 2025 teaser) as if it was a faction.
 
 ![[teaser_apr_26.png]]
 > Few have gazed upon Eldugar, the great archive of the Lawbringer King. It was Vys’Eldug who subjugated the written word, and perhaps brought Rengia to its nadir.
+
+### May 2026
+
+The most recent teaser was released on May 23, 2026. It depicts an underwater location, with coral and prismarine. The only feature of note is the framework for activation of a conduit, which may hint at the inclusion of more underwater-based areas. The text is relatively cryptic, implying deeper significance for some lights under the oceans, possibly also referring to the Azure Lanterns in the conduit.
+
+![[teaser_may_26.png]]
+> Light never ceases to shine down from the heavens upon the seas of Drehmal, yet only that which the ocean rejects is known to mortalkind. A faint glow as the world awakens. A blinding glare in the fisherman’s eye. Rich scattered crimson at day’s end. A ghostly shimmer in the dead of night. <br> 
+> <br>
+> What becomes of the light that it keeps?

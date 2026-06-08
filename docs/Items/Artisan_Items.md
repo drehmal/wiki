@@ -19,8 +19,8 @@ A list of artisan sets and their stat bonuses is found in the dropdown table bel
     | [[Ebonrun]] | Fortified Set | Iron | +8% Max Health per piece worn, stacking up to +32% Max Health with full set. |
     | [[Firteid]] | Superheated Set | Diamond | -3 Max Health, +2 Attack Damage per piece worn, stacking up to -12 Max Health (-6 Hearts) and +8 Attack Damage with full set. |
     | [[Fort Nimahj]] | Survivor's Set | Iron | +4% Max Health, +4% Movement Speed, +4% Attack Speed per piece worn, stacking up to +16% of each with full set. |
-    | [[Gozak]] | Barbed Set | Iron | All come enchanted with Thorns IV, and grant +0.4 Attack Speed per piece worn, stacking up to +1.6 Attack Speed with full set. |
-    | [[Highfall]] | Pale Steel Set | Diamond | Each piece of this armor grants +2 Armor Toughness when worn, and adds 0.01 Movement Speed, stacking up to 0.04 Movement Speed with full set. |
+    | [[Gozak]] | Barbed Set | Iron | All come enchanted with Thorns IV, and grant +0.15 Attack Speed per piece worn, stacking up to +0.6 Attack Speed with full set. |
+    | [[Highfall]] | Pale Steel Set | Diamond | Each piece of this armor grants +2 Armor Toughness when worn, and adds 10% Movement Speed, stacking up to +40% Movement Speed with full set. |
     | [[Mohta]] | Amphibious Set | Chainmail | Comes with various enchantments, and each piece adds +20% Knockback Resistance, up to +80% Knockback Resistance with full set. |
     | [[Mossfield]] | Messenger's Set | Iron | +10% Movement Speed per piece worn, stacking up to +40% Movement Speed with full set. |
     | [[Naharja]] | Vivid Set | Diamond | All pieces come enchanted with Unbreaking III, and add +2 Armor Toughness. +12% Armor per piece worn, stacking up to +48% Armor with full set. |
@@ -527,7 +527,7 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 | ------------------- | ---------------------------------------------------- |
 | **Armor**          | 2                                                    |
 | **Enchantments**   | Thorns IV         |
-| **Bonus Stats**    | +0.4 Attack Speed |
+| **Bonus Stats**    | +0.15 Attack Speed |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -540,7 +540,7 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 | ------------------- | ---------------------------------------------------- |
 | **Armor**          | 6                                                    |
 | **Enchantments**   | Thorns IV         |
-| **Bonus Stats**    | +0.4 Attack Speed  |
+| **Bonus Stats**    | +0.15 Attack Speed  |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -553,7 +553,7 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 | ------------------- | ---------------------------------------------------- |
 | **Armor**          | 5                                                    |
 | **Enchantments**   | Thorns IV         |
-| **Bonus Stats**    | +0.4 Attack Speed |
+| **Bonus Stats**    | +0.15 Attack Speed |
 
 |          | Lore and Cost     |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -566,7 +566,7 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 | ------------------- | ---------------------------------------------------- |
 | **Armor**          | 2                                                    |
 | **Enchantments**   | Thorns IV         |
-| **Bonus Stats**    | +0.4 Attack Speed  |
+| **Bonus Stats**    | +0.15 Attack Speed  |
 
 |          | Lore and Cost      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -581,7 +581,6 @@ The Runic Blacksmith in Gozak is found at the dedicated "Whiteroot Forge" buildi
 | **Armor**          | 5                                                    |
 | **Armor Toughness** | 1                                                   |
 | **Enchantments**   | Fire Protection II <br>Aqua Affinity <br>Depth Strider I        |
-| **Bonus Stats**    | +0.4 Attack Speed |
 
 |          | Lore and Cost    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 # Drehmal v2.3 (Upcoming)
 
-**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in December 2025. It has no slated release date.
+**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in June 2026. It has no slated release date.
 { .annotate }
 
 1. Official subtitle not yet revealed.
@@ -13,7 +13,7 @@ At the end of 2025, an [additional blog post](https://www.drehmal.net/post/about
 
 The exact content of the 2.3 update is, as per usual, closely guarded by the dev team. However, the ["About Drehmal 2.3 and Beyond" blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) lays out a rough idea of the update's scope.
 
-This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and an unidentified town) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to.
+This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and [[Fort Nimahj]]) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to.
 
 The post also teases something separate from these mentioned reworks, however, referred to as "something weird, different, and ... kinda insane." Lead developer Keeko100 describes it as:
 

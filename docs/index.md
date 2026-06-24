@@ -9,9 +9,9 @@ icon: material/home
 
 # Welcome to the Official Drehmal: Apotheosis Wiki!
 
-!!! warning "**Drehmal is heavily centered around exploration and discovery, driven by YOU, the player, and many extremely cool and important things are incredibly easy to spoil yourself on! The map is designed to be played without the use of outside resources, such as this wiki, which contains MASSIVE spoilers for EVERYTHING in the map.  We strongly recommend only using this wiki if you are looking for something in particular, or if you have completed the map yourself.**"
+!!! warning "**Drehmal is heavily centered around exploration and discovery, driven by YOU, the player! The map is designed to be played without the use of outside resources, such as this wiki, which contains spoilers for EVERYTHING in the map.  We recommend only using this wiki if you are looking for something in particular, or if you have already completed the map yourself.**"
 
-!!! tip "Scroll down on this page for an introduction to the wiki, including how to navigate the pages, some good starting points, and a CRITICAL primer on spoiler warnings!"
+!!! tip "Scroll down for an introduction to the wiki including how to navigate the pages, some good starting points, and a primer on spoiler warnings!"
 
 <figure markdown>
   ![[primal_start.png]]{ width="800" }

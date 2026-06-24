@@ -19,7 +19,7 @@ No, unfortunately, there is no Bedrock version of Drehmal. Drehmal will only fun
 
 Previously, Drehmal v2.1 was built for JE version 1.16.5, and v2.2: Apotheosis was initially developed for version 1.17.1. The Apotheosis update was ported to 1.20.1 in mid-2024, and the 1.20.1 port, known officially as version 2.2.1, is currently the official version, and the only version available for download on [drehmal.net](https://drehmal.net). 
 
-### Does Drehmal Work on Newer Versions?
+### Does Drehmal Work on Newer Minecraft Versions?
 
 No. Drehmal is designed only to work on its current version of Minecraft, which is 1.20.1 for version 2.2.1 and above. Loading the map on previous or later versions will break several features related to the extensive datapack, breaking almost all of the custom gameplay features such as weapon abilities, story sequences, advancements, music, and more.
 
@@ -126,9 +126,9 @@ Attempting to play without the mods will make traversing the main story very dif
 
 ### Are There Translations Available? Can I Translate the Map?
 
-There are not currently any full translations of the map to non-English languages, largely due to the massive scope of Drehmal. Some translation efforts have taken place, including an ongoing Chinese translation, but nothing has been published or officially recognized by the Drehmal team.
+There are not currently any full translations of the map to non-English languages, largely due to the massive scope of Drehmal. Some translation efforts have taken place, including an ongoing Chinese translation, but nothing has yet been published or officially recognized by the Drehmal team.
 
-If you wish to translate the map, you are welcome to try, but know that there is a truly massive amount of relatively dense text to translate, with about 100,000 words' worth of player-facing text existing in the native English.
+If you wish to translate the map, you are welcome to try, but know that there is a truly massive amount of relatively dense text to translate, with about 100,000 words' worth of player-facing text existing in the native English. This text is spread throughout many inconvenient places.
 
 ## Wiki Content
 
@@ -136,15 +136,13 @@ Questions about this wiki itself, and its scope.
 
 ### What Is the Difference Between This Wiki and the Fandom Wiki?
 
-The Drehmal developers and prominent community members have been meaning to move away from Fandom for a while at this point, citing incompleteness, inaccurate information, advertisements, and lack of spoiler warnings/protections as issues on that wiki. This project was started in 2022 as an attempt to make an independent wiki. Work stalled before the release of 2.2 in late 2023, but was eventually resumed by new volunteers in August 2024, leading to a massive (ongoing) revamp of the site with updates for content added in the 2.2 update.
+The Drehmal developers and prominent community members discussed moving off of Fandom many times, citing incompleteness, inaccurate information, advertisements, and lack of spoiler warnings/protections as issues on that wiki. This project was started in 2022 as an attempt to make an independent wiki. Work stalled before the release of 2.2 in late 2023, but was eventually resumed by new volunteers in August 2024, leading to a massive revamp of the site with updates for content added in the 2.2 update. This effort concluded in March 2025, with a feature-complete wiki.
 
-This wiki is the only one that is directly supported by the Drehmal dev team, is updated by knowledgeable and coordinated Drehmal fans, and incorporates many pre-existing community resources into one place. It is still a work in progress, but this wiki serves as the most comprehensive resource for all things Drehmal. 
-
-In short, this wiki has a larger scope than the Fandom wiki, uses canon information acquired from direct communication with the developers, is ad-free, and is designed with new players in mind, ensuring that all potential major spoilers are properly marked instead of being directly served to users on the sidebar of the website.
+This wiki is the only one that is directly supported by the Drehmal dev team, is updated by knowledgeable and coordinated Drehmal fans, and incorporates many pre-existing community resources into one place. It is the most comprehensive resource on the web for all things Drehmal. 
 
 ### Is There Any DLC Content on this Wiki?
 
-No, this wiki does not contain any information on the [[DLC|unofficial "DLC" modpack]] for Drehmal v2.2, created by developer tworoundcats. None of the people who work on this wiki have played the DLC, and it is not an official part of Drehmal, so it is unlikely that it will be added in the future, although a separate, much smaller wiki/guide may be created.
+No, this wiki does not contain any information on the unofficial "DLC" modpack for Drehmal v2.2, created by developer tworoundcats. A small overview of the expansion is given on the [[Primal Journey]] page, but this is not intended to serve as a full wiki, to avoid confusion about the canonicity of its content.
 
 ## Gameplay
 

@@ -1,6 +1,6 @@
 # Drehmal v2.3 (Upcoming)
 
-**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in December 2025. It has no slated release date.
+**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in June 2026. It has no slated release date.
 { .annotate }
 
 1. Official subtitle not yet revealed.
@@ -13,7 +13,7 @@ At the end of 2025, an [additional blog post](https://www.drehmal.net/post/about
 
 The exact content of the 2.3 update is, as per usual, closely guarded by the dev team. However, the ["About Drehmal 2.3 and Beyond" blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) lays out a rough idea of the update's scope.
 
-This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and an unidentified town) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to.
+This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and [[Fort Nimahj]]) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to.
 
 The post also teases something separate from these mentioned reworks, however, referred to as "something weird, different, and ... kinda insane." Lead developer Keeko100 describes it as:
 
@@ -108,9 +108,16 @@ This teaser was released on April 23, 2026, picturing what is apparently Eldugar
 
 ### May 2026
 
-The most recent teaser was released on May 23, 2026. It depicts an underwater location, with coral and prismarine. The only feature of note is the framework for activation of a conduit, which may hint at the inclusion of more underwater-based areas. The text is relatively cryptic, implying deeper significance for some lights under the oceans, possibly also referring to the Azure Lanterns in the conduit.
+This teaser was released on May 23, 2026. It depicts an underwater location, with coral and prismarine. The only feature of note is the framework for activation of a conduit, which may hint at the inclusion of more underwater-based areas. The text is relatively cryptic, implying deeper significance for some lights under the oceans, possibly also referring to the Azure Lanterns in the conduit.
 
 ![[teaser_may_26.png]]
 > Light never ceases to shine down from the heavens upon the seas of Drehmal, yet only that which the ocean rejects is known to mortalkind. A faint glow as the world awakens. A blinding glare in the fisherman’s eye. Rich scattered crimson at day’s end. A ghostly shimmer in the dead of night. <br> 
 > <br>
 > What becomes of the light that it keeps?
+
+### June 2026
+
+The most recent teaser was released on June 23, 2026. The image appears to be a path towards a small gate, through a ruined forest area. Bordered with Pale Oak trees, the area appears dark and hazy, and from the purple formations in the distance, it may be on the Island of Dusk. The accompanying text indicates that the area's condition is not natural, and instead the result of some sort of industrial pollution. 
+
+![[teaser_june_26.png]]
+> This festering mire has been rotted by the baleful dregs of industry, sodden through at the bloody whims of those above.

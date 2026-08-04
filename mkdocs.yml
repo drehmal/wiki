@@ -36,13 +36,14 @@ theme:
     - navigation.top
     - search.suggest
     - navigation.instant
+  language: en
 
 plugins:
   # provided by MkDocs
   - search
   # provided by Material theme
   - tags:
-      tags_file: Overview.md
+      enabled: false
   - social:
       cards: !ENV [CI, false]
   # provided by others
@@ -138,3 +139,10 @@ extra:
       link: https://discord.drehmal.net/
       name: The Official Drehmal Discord
   generator: false
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Chinese
+      link: /zh/
+      lang: zh

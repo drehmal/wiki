@@ -17,9 +17,9 @@ A particularly overgrown room in the southwest corner of the build is home to th
 
 A chest on a broken rampart at the far eastern edge holds a runic catalyst.
 
-Towards the top of the castle, in a room with a large bed, the book [[A Need for Seeds]] is found. In the hallway just outside this room, players can break a chiseled stone brick to access the roof, where a small circular arena waits. Once a player approaches, the vindicator "Lost King" miniboss will spawn, and drop the [[Artifacts#Lost King's Crown|Lost King's Crown]] artifact on death.
+Towards the top of the castle, in a room with a large bed, the book [[A Need for Seeds]] is found. In the hallway just outside this room, players can break a chiseled stone brick to access the roof, where a small circular arena waits. Once a player approaches, the vindicator "Infected King" miniboss will spawn, and drop the [[Artifacts#Lost King's Crown|Lost King's Crown]] artifact on death.
 
-The Lost King was guarding a tomb-like structure on the roof. Digging into it reveals a [[Fervor Stones#Stone of Luxury|Stone of Luxury]].
+The Infected King was guarding a tomb-like structure on the roof. Digging into it reveals a [[Fervor Stones#Stone of Luxury|Stone of Luxury]].
 
 ## Lore
 

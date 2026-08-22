@@ -3,7 +3,7 @@
 !!! warning "Side Content"
     This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
 
-The Ash-Stained Journal is a unique lore book found in the top of the [[Archived Memory]] teaser map, in an item frame within the burning observatory. It tells the story of two astronomers who lived in this tower in the [[North Heartwood]] from the late Av2 1400s to Av2 1531, just before the rise of the [[Avsohm|Avsohmic Empire]].
+The Ash-Stained Journal is a unique lore book found in the top of the [[Archived Memory 1]] teaser map, in an item frame within the burning observatory. It tells the story of two astronomers who lived in this tower in the [[North Heartwood]] from the late Av2 1400s to Av2 1531, just before the rise of the [[Avsohm|Avsohmic Empire]].
 
 ## Summary
 

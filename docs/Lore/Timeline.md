@@ -204,7 +204,7 @@ Av4, the current era, is still very young. The departure of Virtuo and Vahid led
 | Av4 91 | Pods 20, 22, and 24 are evacuated. |
 | Av4 100 | The player(s), members of the [Stasis Eight](/Lore/Historical_Figures/Avsohm/Stasis_Eight/), are released from temporal stasis in the [[Stasis Facility]] after an emergency evacuation is triggered. The main story of the map begins here. |
 
-[^1]: As depicted in the [[Archived Memory]] teaser for 2.3.
+[^1]: As depicted in the [[Archived Memory 1]] teaser for 2.3.
 [^2]: One source, [[The Hunting of Greatbeast Muhs]], gives this date, while an advancement for finding the Underwood area gives the date of the Hunting as Av2 1583. 
 [^3]: It is incredibly unclear when these events in Tehrmari politics occur, as their stories have functionally no dates listed. However, these developments seem to have come between the Divine Schism and the next crossover between Tehrmari and Drehmari history, the Battle for Drehmal, so they are put here.
 [^4]: This date comes from [[Dahroc's Notes]], and is actually written in-map as Av3 678. However, this date does not seem to line up with other sources, and has thus been moved up by 200 years to closely coincide with the end of Av3, as other books suggest is the case.

@@ -1,4 +1,4 @@
-# Archived Memory
+# Archived Memory 1
 
 !!! warning "Side Content"
     This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.

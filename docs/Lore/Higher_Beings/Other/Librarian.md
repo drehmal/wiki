@@ -119,7 +119,7 @@ No consensus has been reached on the two truths/two lies section of this message
 
 "There was once a seventh Sphere" seems to have the least evidence for or against it, as there are no known mentions of such a thing in the map. It is unclear how this would have affected the Journey of the Spheres before and after its disappearance.
 
-### Third Appearance: Archived Memory
+### Third Appearance: Archived Memory 1
 
 The Librarian would not make another public appearance until October 12, 2025, when she posted the following message in Drehmalcord's announcements channel:
 
@@ -133,7 +133,7 @@ The Librarian would not make another public appearance until October 12, 2025, w
 > 
 > Do get back to me soon, my curious and capable friends!
 
-Attached to this message was a file titled `Archived Memory.zip`, containing the [[Archived Memory]] world download.
+Attached to this message was a file titled `Archived Memory.zip`, containing the [[Archived Memory 1]] world download.
 
 ## In-Game Connections
 

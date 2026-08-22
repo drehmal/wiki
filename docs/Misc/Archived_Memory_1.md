@@ -1,9 +1,11 @@
-# Archived Memory 1
+# Archived Memory 1: Blue, Intensely
 
 !!! warning "Side Content"
     This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
 
 On October 12, 2025, a world download was surprise-dropped by the [[Librarian|Unknown Librarian]] in the Drehmalcord `#announcements` channel. This world, a teaser for the [[Drehmal v23|Drehmal 2.3 update]], contained a few small region files highly reminiscent of the [[North Heartwood]]. The map is very small, and revolves overwhelmingly around the 58-page [[Ash-Stained Journal]] lore book, found at the end of the short path the player starts on.
+
+The world was added for [standalone download on drehmal.net](https://www.drehmal.net/other-releases) in August 2026, in the buildup to the announcement and release of its successor, [[Archived Memory 2]]. It was retroactively given the subtitle "Blue, Intensely" upon reupload.
 
 The file was accompanied by the following message from the Librarian:
 

@@ -52,7 +52,7 @@ On September 12, 2025, an image was posted of a dark, foreboding hallway, lit in
 
 ### October 2025
 
-On October 12 of 2025, rather than a standard teaser image, the Drehmal Discord's announcements channel was graced by a [[Librarian|mysterious visitor]], who provided the server with the [[Archived Memory]] playable teaser.
+On October 12 of 2025, rather than a standard teaser image, the Drehmal Discord's announcements channel was graced by a [[Librarian|mysterious visitor]], who provided the server with the [[Archived Memory 1]] playable teaser.
 
 ### November 2025
 
@@ -117,7 +117,14 @@ This teaser was released on May 23, 2026. It depicts an underwater location, wit
 
 ### June 2026
 
-The most recent teaser was released on June 23, 2026. The image appears to be a path towards a small gate, through a ruined forest area. Bordered with Pale Oak trees, the area appears dark and hazy, and from the purple formations in the distance, it may be on the Island of Dusk. The accompanying text indicates that the area's condition is not natural, and instead the result of some sort of industrial pollution. 
+The next preview was released on June 23, 2026. The image appears to be a path towards a small gate, through a ruined forest area. Bordered with Pale Oak trees, the area appears dark and hazy, and from the purple formations in the distance, it may be on the Island of Dusk. The accompanying text indicates that the area's condition is not natural, and instead the result of some sort of industrial pollution. 
 
 ![[teaser_june_26.png]]
 > This festering mire has been rotted by the baleful dregs of industry, sodden through at the bloody whims of those above.
+
+### July 2026
+
+The most recent teaser was released on July 23, 2026. It depicts a transit hub, very likely a train station, composed mainly of granite, brick/mud brick, andesite, and a glass roof. From the quote, it is near-directly stated that this building, Myrik Station (likely named for [[Hovadchear|Hovadchear Myrik]]), is in/nearby the reworked Mossfield, and hints towards the extent of the Order of Insohm's industrial ability.
+
+![[teaser_july_26.png]]
+> "Yes, the power of the primal energy which once flowed through the veins of the Avsohmic Empire must have been great. But I dare you to stand beneath the arches of Myrik Station and say that the steam which flows through ours is any lesser." - Grand Councillor Dayne Torhill of Mossfield to Magus Aran Gjordall of the Golden Order

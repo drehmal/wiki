@@ -1,12 +1,12 @@
-# Smithed Summit 2024
+# Smithed Summit 
 
-The first **Smithed Summit** was an online convention in a custom Minecraft world hosted by [Smithed](https://smithed.net/) from November 2-9, 2024. This week-long event offered Minecraft map developers and coders an opportunity to showcase their datapack-related creations. 
+**Smithed Summit** is an online convention in a custom Minecraft world hosted by [Smithed](https://smithed.net/). This week-long event offers Minecraft datapackers, mapmakers, and other creators an opportunity to showcase their various vanilla+ creations. Two Summits have been held—one in November 2024, and one in August 2026. Drehmal has featured in these events to varying degrees, usually displaying new information or development announcements. 
 
-## Drehmal Booth
+## 2024 Booth
 
-!!! warning "The Drehmal Summit booth featured some late-game content removed from its in-map context. These could be considered spoilers, so if you are sensitive to spoilers, you may not want to continue reading this article unless you have nearly beaten the map."
+!!! warning "The Drehmal 2024 Summit booth featured some late-game content removed from its in-map context. These could be considered spoilers, so if you are sensitive to spoilers, you may not want to continue reading this article unless you have nearly beaten the map."
 
-The Drehmal team was one of these vendors, building a booth to show off Drehmal's world and some of its tech. This booth took the form of a massive floating disc, highly reminiscent of the actual [[disc]] upon which [[Overworld|Drehmal]] lies. The top of the world was a diorama recreating the entirety of Drehmal's map, complete with miniature [[Terminus Network#Towers|Terminus towers]] which showed screenshots of their real in-map locations when right-clicked. Inside, smaller builds and [holotexts](/Story_and_Features/Holotexts/) were home to brief summaries of the map's lore and gameplay.
+The first Smithed Summit was held from November 2-9, 2024. The Drehmal team was one of the convention's featured developers, and built a booth to show off Drehmal's world and some of its tech. This booth took the form of a massive floating disc, highly reminiscent of the actual [[disc]] upon which [[Overworld|Drehmal]] lies. The top of the world was a diorama recreating the entirety of Drehmal's map, complete with miniature [[Terminus Network#Towers|Terminus towers]] which showed screenshots of their real in-map locations when right-clicked. Inside, smaller builds and [holotexts](/Story_and_Features/Holotexts/) were home to brief summaries of the map's lore and gameplay.
 
 The booth also featured a "Hall of Mythicals", containing each of the eight [Mythical Weapons](/Items/Mythical_Weapons/), although their full abilities could not be used in the Summit world. Seven [[artifacts]] were hidden throughout the booth, six of which already existed in the map. These were:
 
@@ -86,3 +86,18 @@ A fully modeled [[Maelihs]] rests on a throne in the lower levels of the booth, 
     To thrive is a concept of the past for them, now they simply do their best to survive. <br>
     [Player] I'll be going now. <br>
     Safe travels, Realmwalker. May we meet again when your soul settles.
+
+## 2026 Panel
+
+Drehmal posters, as pictured below, were found throughout the Smithed Summit world. They feature an upscaled version of the yellow omega logo, with the blue "star" from [[Archived Memory 1|the first Archived Memory]] in its center. When right-clicked, they provided a link to drehmal.net.
+
+![[smithed_poster.png]]
+> The Drehmal poster found around the 2026 Smithed Summit world.
+
+Drehmal's next appearance at Smithed Summit was not as a booth, but instead as a live keynote presentation, held concurrently on stage in-game and on the event's Discord on August 21st, 2026. The presentation, which was recorded and uploaded [here](https://www.youtube.com/live/YfWT0o9NVPY?), was titled *'Designing an Open World in Minecraft'*. Rift (Roift), GreenTetrahedron (aoristic_orisont), and K182 (Macharoni2) discussed the various design philosophies and approaches to the design of Drehmal's environments and systems. 
+
+At the end of the presentation, just before going into a Q&A session with the audience, the presentation shifted to look towards the development of [[Drehmal v23|the 2.3 update]]. The main piece of news from this short segment was that the new gameplay segment hinted at in the [New Years 2025 blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) would be both included in 2.3 and available as a separate, standalone experience. It was described as 'Drehmal's sister story', and the intent was for it to be a curated challenge that would "make the world feel much, much larger".
+
+![[AM2_KeyArt.png]]
+
+After this, there was one more reveal to display. The 'Blue Object' featured in [[Archived Memory 1]] was shown on screen, along with a larger, closer version, which was then 'zoomed in' even more to show the above piece of key art that served as the announcement for [[Archived Memory 2|Archived Memory 2: To Feel The Stars]]. During the reveal, Archived Memory 2 was slated for release two days later, on August 23, 2026, and would be set in Sahd, presumably some time after the events of Archived Memory 1. 

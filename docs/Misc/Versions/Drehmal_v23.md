@@ -124,7 +124,17 @@ The next preview was released on June 23, 2026. The image appears to be a path t
 
 ### July 2026
 
-The most recent teaser was released on July 23, 2026. It depicts a transit hub, very likely a train station, composed mainly of granite, brick/mud brick, andesite, and a glass roof. From the quote, it is near-directly stated that this building, Myrik Station (likely named for [[Hovadchear|Hovadchear Myrik]]), is in/nearby the reworked Mossfield, and hints towards the extent of the Order of Insohm's industrial ability.
+This teaser was released on July 23, 2026. It depicts a transit hub, very likely a train station, composed mainly of granite, brick/mud brick, andesite, and a glass roof. From the quote, it is near-directly stated that this building, Myrik Station (likely named for [[Hovadchear|Hovadchear Myrik]]), is in/nearby the reworked Mossfield, and hints towards the extent of the Order of Insohm's industrial ability.
 
 ![[teaser_july_26.png]]
 > "Yes, the power of the primal energy which once flowed through the veins of the Avsohmic Empire must have been great. But I dare you to stand beneath the arches of Myrik Station and say that the steam which flows through ours is any lesser." - Grand Councillor Dayne Torhill of Mossfield to Magus Aran Gjordall of the Golden Order
+
+### August 2026
+
+The most recent teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the annoucement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
+
+
+![[teaser_aug_26.png]]
+> “First comes the sky, brilliant light of every beginning. All is born, and all is burned.
+> The land finds itself caught between. We are home, and we are alone.
+> The sea arrives to take its dues. Life is fed, and life is swallowed.”

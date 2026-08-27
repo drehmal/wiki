@@ -27,13 +27,13 @@ Virtuo mysteriously took flight in Av3 903, departing with the entirety of her G
 > Virtuo's new official reference sheet, redesigned for 2.3. 
 </div>
 
-Virtuo takes the form of a 12-foot tall Drehmari (humanoid) with shimmering blue horns, blue hair and very tan/nearly orange skin. She is known to be calm, wise and stunningly beautiful.
+Virtuo takes the form of a 12-foot tall Drehmari (humanoid) with shimmering blue horns, pale blue hair and slightly tanned brown skin. She is known to be calm, wise and stunningly beautiful.
 
-Following her fight with Mael in the [[Tidal War]], Virtuo lost one of her eyes and was left with permanent burn marks on her face, ruining her perfect symmetry.
+Following her fight with Mael in the [[Tidal War]], Virtuo lost one of her eyes and was left with permanent burn marks on her face, ruining her perfect symmetry. Some time afterwards, she acquired and began using a prosthetic gemstone eye in public.
 
 ## Abilities
 
-Virtuo seems to have the power to heal others, although it is not clear entirely what this entails. There are no accounts in the map of her fighting, although she is known to have carried a greatstaff named "Pristinity" and a shield named "Fortitude" into battle when required.
+Virtuo seems to have the power to heal others, although it is not clear entirely what this entails. There are no accounts in the map of her fighting, although she is known to have carried a greatstaff named "Pristinity" (depicted in her reference sheet) and a shield named "Fortitude" into battle when required.
 
 Virtuo is also the creator of Orderflame, a more controlled, less chaotic version of fire invented due to [[Maelihs]]' control over regular fire. In terms of map mechanics, this is simply soul fire.
 
@@ -106,6 +106,13 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 
     ![[purifying_light.gif]]{ width="320" }
 
+## Gallery
+
+<div class="annotate" markdown>
+![[virtuo_ref_old.png]]
+> Virtuo's previous art reference from 2.2. 
+</div>
+
 ## Late-Game Info
 
 --8<-- "spoiler.md"
@@ -115,10 +122,3 @@ Virtuo's [[Relics|relic]] is **[[Relics#Purifying Light|Purifying Light]]**, an 
 Virtuo cannot be interacted with in any way in-game, but her chambers in [[Ytaj]] can be explored. Here is where players will find the [[Closed Diary]], the book which details her decision to leave for Eastern Xivrhynt. This room also holds the aforementioned [[Artifacts#Fortitude|Fortitude]] shield, a real artifact.
 
 Virtuo is mentioned in the [[True End|final sequence of the game]].
-
-## Gallery
-
-<div class="annotate" markdown>
-![[virtuo_ref_old.png]]
-> Virtuo's previous art reference from 2.2. 
-</div>

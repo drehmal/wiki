@@ -28,7 +28,7 @@ search:
 > Mael's new official reference sheet, redesigned for 2.3. 
 </div>
 
-Maelihs takes the form of a 15-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He has a very heavy build, with distinctive burnt red skin and jet black hair. He is often depicted wearing a helmet that covers his face.
+Maelihs takes the form of a 14-foot tall armored [[Drehmari]] (humanoid) figure with tall, red and white pointed horns. He has a very heavy build, with distinctive burnt red skin and dark brown hair. By the Third Avihm he has grown a beard. He is often depicted wearing a helmet that covers his face.
 
 He is known to act wrathful and aggressive, constantly in a struggle to conquer to realm. In recent years, however, he has settled into a more peaceful state out of regret for his actions.
 
@@ -108,6 +108,13 @@ Maelihs' [[Relics|relic]] is the **[[Relics#Sprout of Anguish|Sprout of Anguish]
 
     ![[sprout_of_anguish.gif]]{ width="320" }
 
+## Gallery
+
+<div class="annotate" markdown>
+![[mael_ref_old.png]]
+> Mael's previous art reference from 2.2. 
+</div>
+
 ## Late-Game Info
 
 --8<-- "spoiler.md"
@@ -122,10 +129,3 @@ It is discovered via his diaries at the top of the Burnt Palace that Maelihs mov
 Maelihs can be spoken to in his chamber via an in-game dialogue tree, which can be found in full [[Mael_Dialogue.md|here]].
 
 Maelihs is mentioned by [[yellow|???]] in the [[True End|final sequence of the game]].
-
-## Gallery
-
-<div class="annotate" markdown>
-![[mael_ref_old.png]]
-> Mael's previous art reference from 2.2. 
-</div>

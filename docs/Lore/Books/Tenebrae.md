@@ -1,15 +1,13 @@
 # Tenebrae
 
---8<-- "spoiler.md"
-
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon.
+    This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon.
 
 --8<-- "am2_spoiler.md"
 
 This book can be found as an item on the ground at the base of Zedari Island, a small isle off the eastern side of [[Sahd]]. It is exclusive to [[Archived_Memory_2|Archived Memory 2: To Feel the Stars]] and cannot be found in the mainline Drehmal map itself. 
 
-"Tenebrae" is Latin for "darkness" or "shadow", likely referring to the pitch black and void-like description of the orb mentioned in this text. The text itself is a short account written by one of the Skyborn monks of the terrible fate that befell their insular community, including a detailed description of the spaghettification what happened to one of the townsfolk.
+The text itself is a short account written by one of the Skyborn monks of the terrible fate that befell their insular community, including a detailed description of the spaghettification what happened to one of the townsfolk.
 
 ## Coordinates
 | **X** | **Y** | **Z** |
@@ -31,3 +29,7 @@ This book can be found as an item on the ground at the base of Zedari Island, a 
 > Many have already fled to the mainland, fearing that the ocean will soon rip apart in turn. Some tried to give themselves to Osaigah to appease the coming tide.
 >
 > It will not be enough.
+
+## Extras
+
+"Tenebrae" is Latin for "darkness" or "shadow", likely referring to the pitch black and void-like description of the orb mentioned in this text. 

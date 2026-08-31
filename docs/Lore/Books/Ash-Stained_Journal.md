@@ -1,7 +1,7 @@
 # Ash-Stained Journal
 
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
+    This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. The lore book may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
 
 --8<-- "am1_spoiler.md"
 

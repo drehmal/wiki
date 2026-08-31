@@ -1,7 +1,7 @@
 # Archived Memory 1: Blue, Intensely
 
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
+    This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
 
 --8<-- "am1_spoiler.md"
 
@@ -80,10 +80,10 @@ Notably, the title of the map's folder gives its day as "Ivelar". This follows t
 
 The main book, [[Ash-Stained Journal]], focuses on the mysterious disappearance of stars from the night sky over the course of the late Av2 1400s and early Av2 1500s. The second astronomer eventually comes to the conclusion that stars are disappearing in a straight line, which is moving directly towards the realm of Drehmal. At this time, the exact nature of the stars was not known by Drehmari, and so this presented an unclear threat.
 
-!!! warning "End-Game Spoiler"
+??? warning "End-Game Spoiler"
     The following piece of information is a massive spoiler for several key revelations in the post-game section of the map. Unless you have reached the ending of the main story, and reached the designated black concrete Credits Room, you should not click on this.
 
-    !!! danger "Show me!"
+    ??? danger "Show me!"
         However, as players who have finished the map will know, each "star" in the night sky is in fact its own realm, contained by its own [[Veil]] within the greater Drehmal multiverse. The new object in the skybox, which glows blue like the stars that are accelerating towards Drehmal, can therefore be understood to be whatever is causing the "stars" to disappear, which means that it can make entire realms disappear.
 
 Due to the Memory taking place within the point of view of a Green Serpent officer, it can be assumed that Green Serpent was aware of this object and sought to investigate it further after the night recorded in the Archived Memory.

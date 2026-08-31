@@ -1,7 +1,7 @@
 # Letters to the Sky
 
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon.
+    This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon.
 
 --8<-- "am2_spoiler.md"
 

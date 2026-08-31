@@ -5,7 +5,7 @@
 
 --8<-- "am2_spoiler.md"
 
-**Archived Memory 2: To Feel the Stars** is a short playable teaser for [[Version_23|Drehmal's upcoming 2.3 update]]. As the blue object introduced in [[Archived Memory 1|the first Archived Memory]] grows larger and larger in the sky, a young Meigai guardsman on the island of [[Sahd]] investigates a local disturbance, unaware of the mysteries that await below the surface.
+**Archived Memory 2: To Feel the Stars** is a short playable teaser for [[Drehmal_v23|Drehmal's upcoming 2.3 update]]. As the blue object introduced in [[Archived Memory 1|the first Archived Memory]] grows larger and larger in the sky, a young Meigai guardsman on the island of [[Sahd]] investigates a local disturbance, unaware of the mysteries that await below the surface.
 
 ## Release
 

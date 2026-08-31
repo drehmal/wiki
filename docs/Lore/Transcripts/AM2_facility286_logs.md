@@ -1,7 +1,5 @@
 # Archived Memory 2 Facility Transcript
 
---8<-- "spoiler.md"
-
 !!! warning "Side Content"
     This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon.
 
@@ -66,7 +64,7 @@ The following is a transcript of the entirety of the dialogue that the player ca
 >
 > [**Raven OSLIN**] Initial Readings Taken.
 >
-> [**Raven OSLIN**] Anomaly Confirmed At 0.555/0.289
+> [**Raven OSLIN**] Anomaly Confirmed At 0.555/0.289.
 >
 > [**Raven OSLIN**] Further Analysis Blocked.
 >
@@ -93,7 +91,7 @@ The following is a transcript of the entirety of the dialogue that the player ca
 >
 > [**Raven OSLIN**] Velocity ELEVATED 0.331 Sr.
 >
-> [**Raven OSLIN**] Contact likely imminent.
+> [**Raven OSLIN**] Contact Likely Imminent.
 >
 > ...
 >

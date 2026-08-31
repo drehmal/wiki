@@ -5,7 +5,7 @@
 
 --8<-- "am2_spoiler.md"
 
-This book is a lore book only present in the [[Archived_Memory_2|Archived Memory 2]] teaser map, located on the island of [[Sahd]]. It can be found in an invisible item frame inside the starting house. It is a piece of parchment bearing the instructions delivered to Meigai Joru by their commanding officer some months prior.
+This book is a lore book only present in the [[Archived Memory 2]] teaser map, located on the island of [[Sahd]]. It can be found in an invisible item frame inside the starting house. It is a piece of parchment bearing the instructions delivered to Meigai Joru by their commanding officer some months prior.
 
 Uniquely, this book is signed by "Meigomo Luvoh" and the item itself comes with the following lore-text: "A small parchment given to you by your commanding officer, some months ago."
 
@@ -30,4 +30,4 @@ Uniquely, this book is signed by "Meigomo Luvoh" and the item itself comes with 
 > Wear the title proudly, Joru. May your story end in Dahe's embrace.
 
 
-[^1]: When read using in-game formatting, this section takes up the entirety of Page 1 with the two divders appearing at the top and bottom of the page.
+[^1]: When read using in-game formatting, this section takes up the entirety of Page 1 with the two dividers appearing at the top and bottom of the page.

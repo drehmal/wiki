@@ -5,7 +5,7 @@
 
 --8<-- "am2_spoiler.md"
 
-This book is a lore book only present in the [[Archived_Memory_2|Archived Memory 2]] teaser map, located on Zedari Island just off the coast of [[Sahd]]. It can be found in a chest inside the temple of the Skyborn monks. The book is actually a collection of four letters addressed to whom the monks venerate: Zedoh, Sky Supernal.
+This book is only present in the [[Archived_Memory_2|Archived Memory 2]] teaser map, located on Zedari Island just off the western coast of [[Sahd]]. It can be found in a chest inside the temple of the Skyborn monks. The book is actually a collection of four letters addressed to whom the monks venerate: Zedoh, Sky Supernal.
 
 Furthermore, this book is signed by "Skyborn Raema" and the item itself comes with the following lore-text: "A collection of four handwritten letters, left in a loose bundle. The ink on the last entry has only just dried."
 
@@ -30,7 +30,7 @@ Furthermore, this book is signed by "Skyborn Raema" and the item itself comes wi
 >
 > And here you are.
 >
-> I have always adored you, Zedoh. As a child, before I knew that you were you, I would spend clear nights stargazing in the eastern highlands. Carving sticks through the mud, recreating the patterns formed by the brightest stars, and committing my favorites to memory. When that lost its novelty, I imagined that each star had an internal pattern that I could not view through their light. They were stunning, they had to be—but they were not for my eyes. With time, the thought became agonizing. The intricaies of the patterns of patterns I would never know.
+> I have always adored you, Zedoh. As a child, before I knew that you were you, I would spend clear nights stargazing in the eastern highlands. Carving sticks through the mud, recreating the patterns formed by the brightest stars, and committing my favorites to memory. When that lost its novelty, I imagined that each star had an internal pattern that I could not view through their light. They were stunning, they had to be—but they were not for my eyes. With time, the thought became agonizing. The intricacies of the patterns of patterns I would never know.
 >
 > I wondered if anyone had ever grown tall enough, flown high enough, to see the greater truth. To know how the stars feel.
 >
@@ -64,7 +64,7 @@ Furthermore, this book is signed by "Skyborn Raema" and the item itself comes wi
 >
 > But I understand now.
 >
-> Cyclicality does not apply exclusively to the birth and deaath of worlds. The Great Cycle encompasses all things, of course, but all things make up many cycles of their own.
+> Cyclicality does not apply exclusively to the birth and death of worlds. The Great Cycle encompasses all things, of course, but all things make up many cycles of their own.
 >
 > The patterns within the patterns.
 >
@@ -90,7 +90,7 @@ Furthermore, this book is signed by "Skyborn Raema" and the item itself comes wi
 >
 > "You", I continued, "have spent too much time reading, and not enough watching. The Earth-Shaker is not coming for us. Be grateful that you may see the Great Cycle rise with your own eyes."
 >
-> Three separate times did I watch Aren form a rebuttal, only to bite his tongue. Relenting, he offered a half-hearted apology and suffled away. Nobody has spoken a word to me since.
+> Three separate times did I watch Aren form a rebuttal, only to bite his tongue. Relenting, he offered a half-hearted apology and shuffled away. Nobody has spoken a word to me since.
 >
 > It has always been a struggle, inspiring true devotion in my brothers. I cannot make them feel the faith as I do.
 >

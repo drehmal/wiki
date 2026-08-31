@@ -5,7 +5,7 @@
 
 --8<-- "am1_spoiler.md"
 
-The Ash-Stained Journal is a unique lore book found in the top of the [[Archived Memory 1]] teaser map, in an item frame within the burning observatory. It tells the story of two astronomers who lived in this tower in the [[North Heartwood]] from the late Av2 1400s to Av2 1531, just before the rise of the [[Avsohm|Avsohmic Empire]].
+The Ash-Stained Journal is a unique lore book found in the [[Archived Memory 1]] teaser map, in an item frame within the burning observatory. It tells the story of two astronomers who lived in this tower in the [[North Heartwood]] from the late Av2 1400s to Av2 1531, just before the rise of the [[Avsohm|Avsohmic Empire]].
 
 ## Summary
 
@@ -154,4 +154,6 @@ By Av2 1530, a total of eight stars have disappeared in a straight line approach
 
 At 58 in-game pages, this would be the longest lore book in the map, and the only that exceeds 50 pages. By word count, it would also beat out [[A Retrospective]] as the longest book in the map, by about 70-80 words.
 
-The physical effects of redshifting and blueshifting are examples of the [Doppler Effect](https://en.wikipedia.org/wiki/Doppler_effect), a real scientific phenomenon in which wavelengths are perceived differently depending on whether they are moving away from or towards the listener/viewer. Redshifting and blueshifting are used by real-life astronomers to understand the relative motion of other galaxies and stars relative to Earth, helping to understand the expansion of the universe and supporting the Big Bang.
+The physical effects of redshifting and blueshifting are examples of the [Doppler Effect](https://en.wikipedia.org/wiki/Doppler_effect), a real scientific phenomenon in which wavelengths are perceived differently depending on whether they are moving away from or towards the observer. Redshifting and blueshifting are used by astronomers to understand the relative motion of other galaxies and stars relative to Earth, helping to understand the expansion of the universe and supporting the Big Bang theory of the universe's origin.
+
+All named stars in the book—Tsavorite, Citrine, Zircon, and Spinel—share a common theme: each is named after a real-life gemstone!

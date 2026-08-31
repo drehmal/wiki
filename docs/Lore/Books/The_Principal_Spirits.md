@@ -24,15 +24,15 @@ This book is a lore book only present in the [[Archived_Memory_2|Archived Memory
 > 
 > Osaigah, Sea Primal
 >
-> Humbly I beseech you, Zedoh, the great vault above who watches with thousandfold firey eyes all alight. Recieve this noble offering, fragrant cherry twigs from a tree blessed by wind. Let the burning of these twigs reflect the burning of our soul, so that you may see us ever clearer. 
+> Humbly I beseech you, Zedoh, the great vault above who watches with thousandfold fiery eyes all alight. Receive this noble offering, fragrant cherry twigs from a tree blessed by wind. Let the burning of these twigs reflect the burning of our soul, so that you may see us ever clearer. 
 > 
 > You who remind us of what is possible, the great beauties and horrors of the world, keep us tucked close beneath your steady stellar gaze supernal, and let this noble gift deflect your fearful wrath. Spare and divert us, so that we may never return to that cyclic nadir of burning skies.
 >
-> Humbly I beseech you, Dahe, whence said cherries bloom and roses alike. Recieve this noble offering, fine fish prepared by finer fingers. Let the delicacy of our love redoubt our transient bodies. Prick us not in precarity with thorns but grant us the hale and beautiful bodies of your flowers.
+> Humbly I beseech you, Dahe, whence said cherries bloom and roses alike. Receive this noble offering, fine fish prepared by finer fingers. Let the delicacy of our love redoubt our transient bodies. Prick us not in precarity with thorns but grant us the hale and beautiful bodies of your flowers.
 >
-> You who remind us of what we may grasp, balance our body betwen burning heavens and crushing deep, between our soul and mind. Let this noble gift provoke your sharp and boundless love. Only upon a treacherous edge may we exist corporeally, free of the Great Destroyer.
+> You who remind us of what we may grasp, balance our body between burning heavens and crushing deep, between our soul and mind. Let this noble gift provoke your sharp and boundless love. Only upon a treacherous edge may we exist corporeally, free of the Great Destroyer.
 >
-> Humbly I beseech you, Osaigah, fierce and unforgiving. Recieve this noble offering, fragments of sky's eyes shaped by the highest diamantaires. Let their strictness refract your wrath as they submerge into you and let our minds sink similarly deep into contemplation with quick wits refreshing.
+> Humbly I beseech you, Osaigah, fierce and unforgiving. Receive this noble offering, fragments of sky's eyes shaped by the highest diamantaires. Let their strictness refract your wrath as they submerge into you and let our minds sink similarly deep into contemplation with quick wits refreshing.
 >
 > You who remind us of what is necessary, the obligations which fall upon our shoulders, guide us in practice and tact. Account for these offerings on your primordial ledger and in return shield us from the orphic calamity. Consequence be your domain, and the mind is where that consequence is known.
 > 

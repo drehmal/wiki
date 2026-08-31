@@ -5,18 +5,18 @@
 
 --8<-- "am2_spoiler.md"
 
-**Archived Memory 2: To Feel the Stars** is a short playable teaser for [[Drehmal_v23|Drehmal's upcoming 2.3 update]]. As the blue object introduced in [[Archived Memory 1|the first Archived Memory]] grows larger and larger in the sky, a young Meigai guardsman on the island of [[Sahd]] investigates a local disturbance, unaware of the mysteries that await below the surface.
+**Archived Memory 2: To Feel the Stars** is a short playable teaser for [[Drehmal_v23|Drehmal's upcoming 2.3 update]]. As the blue object introduced in [[Archived Memory 1|the first Archived Memory]] grows larger and larger in the sky, a young guardsman on the island of [[Sahd]] investigates a local disturbance, unaware of the mysteries that await below the surface.
 
 ## Release
 
 ![[AM2_KeyArt.png]]
 > AM2's official key art.
 
-The second Archived Memory was first announced at the end of the [[Smithed Summit#2026 Panel|Smithed Summit 2026 Drehmal Panel]] on August 21, 2026 with a release date set for August 23, 2026. The setting of this memory was revealed to take place on [[Sahd]], sometime after the events of [[Archived Memory 1]]. Coinciding with the announcement, an official piece of key art (pictured above) was also released. It was drawn by Scorp, an artist on the Drehmal development team.
+The second Archived Memory was announced at the end of the [[Smithed Summit#2026 Panel|Smithed Summit 2026 Drehmal Panel]] on August 21, 2026 with a release date set for August 23, 2026. The setting of this memory was revealed to take place on [[Sahd]], sometime after the events of [[Archived Memory 1]]. Coinciding with the announcement, an official piece of key art (pictured above) was also released. It was drawn by Scorp, an artist on the Drehmal development team.
 
 On August 22 2026, the [[Drehmal_v23##August 2026|monthly teaser image]] was posted in the official Drehmal Discord server. The announcement served to introduce the Meigoh as a new faction not previously mentioned in 2.2, as well as focusing on the now-larger blue object as it approached [[Drehmal]] in the mid-2nd Avihm.
 
-On August 23 2026, an official world download was released by the [[Librarian|Unknown Librarian]] in the `#announcements` channel of the Discord server. Instead of a direct .zip file as used for the first Archived Memory, this announcement instead contained a link to a [download page on drehmal.net](https://www.drehmal.net/am2)
+On August 23 2026, an official world download was released by the [[Librarian|Unknown Librarian]] in the `#announcements` channel of the Discord server. Instead of a direct .zip file as used for the first Archived Memory, this announcement instead contained a link to a [download page on drehmal.net](https://www.drehmal.net/am2).
 
 The file was accompanied by the following message from the Librarian:
 
@@ -30,11 +30,11 @@ The file was accompanied by the following message from the Librarian:
 
 ## Setup
 
-The world can be download from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on any 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
+The world can be download from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on a 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
 
 Alternatively, an .mrpack file for use via Modrinth or other compatible third-party launchers can be downloaded from the same page. It includes all three mods along with a few others for optimisation and quality of life. This file also includes all necessary resource packs and both Archived Memory world downloads.
 
-When properly extracted into a saves folder, the save is titled "Ruhlar the 18th of Dahrohma, Av2 1531"—a date in the late Second Avihm, the moment that this "memory" is set in. It is worth noting that this takes place exactly 4 days after the first Archived Memory.
+When properly extracted into a saves folder, the save is titled "Ruhlar the 18th of Dahrohma, Av2 1531"—a date in the late Second Avihm, the moment that this "memory" is set in. It is worth noting that this takes place exactly 3 days after the first Archived Memory.
 
 ## Content
 
@@ -42,7 +42,7 @@ When the player first loads this world, they will be inside the bedroom of a sma
 
 Much like the previous Archived Memory, the terrain makes use of many new blocks from 1.21.6+. Distinct from Sahd in version 2.2.2, all cherry trees present now are composed of actual cherry logs and leaves. The world is on Normal difficulty, with the world starting exactly at sunset. While [[Lorahn]] does move through the course of the adventure, the progression of the night appears to be tied to reaching key story events and not an in-world timer.
 
-Hardcore Mode is permanently enabled in the world, but the player starts with perpetual saturation and resistance along with being in Adventure Mode with cheats disabled. Sleeping in a bed is blocked, and any attempt to do so will display the text "Joru did not sleep that night." along with not changing in-game time.
+Hardcore Mode is permanently enabled in the world, but the player starts with perpetual saturation and resistance along with being in Adventure Mode with cheats disabled. Sleeping in a bed is blocked, as any attempt to do so will display the text "Joru did not sleep that night." and fail to advance the night.
 
 The player spawns with a partially-full inventory, including:
 
@@ -59,12 +59,12 @@ The armour pieces have lore as follows:
 | Leggings | Meigai Leggings | All island-born Meigoh are taught to fear and respect the sea in equal measure. It is their jailor, and their aegis. A provider, and a destroyer. The deep blue waves of these leggings serve as a reminder that the sea has a mind of its own. |
 | Boots | Meigai Sabatons | Promotions within the Meigoh imperial guard are rare, only coming after decades of distinguished service. It is said that each step taken in honored Meigomo sabatons counts for a hundred taken by any other foot. |
 
-Players that have played through the previous Archived Memory or are staying observant might notice the return of the large light blue cross hovering in the sky near Lo'Dahr. Once again, this object is the focus of several key story elements present in the map. Since its appearance in the first Archived Memory, the object has only grown larger.
+Players that have played through the previous Archived Memory or are observant might notice the return of the large light blue cross hovering in the sky near Lo'Dahr. Once again, this object is the focus of several key story elements present in the map. Since its appearance in the first Archived Memory, the object has only grown larger.
 
 ![[blue_thing_BIG.png]]
 > [[LD|Lo'Dahr]] (left) and the blue object in the sky, now slightly larger (right).
 
-At semi-frequent intervals throughout the night, strange phenomena will temporarily appear in the sky. These consist of various patterns of yellow energy. The apperances of these patterns range from comet-like projectiles, blasts of energy, explosions and various other conjurations all focused on the blue object. When they manifest, they appear silently for a few seconds before fading away. Alongside the patterns, some of these instances also include deep blue/violet forces that seem to act in opposition with the yellow energy.
+At semi-frequent intervals throughout the night, strange phenomena will temporarily appear in the sky. These consist of various patterns of yellow energy. The appearances of these patterns range from comet-like projectiles, blasts of energy, explosions and various other conjurations all focused on the blue object. When they manifest, they appear silently for a few seconds before fading away. Alongside the patterns, some of these instances also include deep blue/violet forces that seem to act in opposition with the yellow energy.
 
 ![[blue_v_yellow.png]]
 > The blue object in the sky as a yellow comet intersects it.
@@ -94,7 +94,7 @@ Outside of the temple and the contents within, there is only other place of note
 ![[am2_galidoh.png]]
 > The entrance to the quaint coastal town of Galidoh.
 
-When the player walks to the pier for a better vantage point, the story will next progress. In a field of green particles just off the southeastern corner of the docks, a pitch black orb with a glowing green outline materialises from thin air. A completely black polyhedron, this strange sphere matches neither Drehmal's nor Minecraft's artstyle at all. Moments after appearing, it jettisons away westward across the water with green particles trailing behind it, before turning northwest and disappearing into the hills.
+When the player walks to the pier for a better vantage point, the story will next progress. In a field of green particles just off the southeastern corner of the docks, a pitch black orb with a glowing green outline materialises from thin air. A completely black icosahedron, this strange sphere matches neither Drehmal's nor Minecraft's artstyle at all. Moments after appearing, it jettisons away westward across the water with green particles trailing behind it, before turning northwest and disappearing into the hills.
 
 A single villager can also be found at this location, watching the blue object with a telescope. In an invisible item frame nearby, a spyglass can be acquired.
 
@@ -105,7 +105,7 @@ When the player pursues the orb down a trail leading out of Galidoh, they soon a
 
 **Lore Text:** *The Kahlans, far-reaching and resourceful masters of the Moonlit Sea, were the first post-Reformation peoples to reinvent the recurve bow. The height of their eastward expansion coincided with a Meigoh age of discovery, and the two peoples once engaged in free cultural exchange. Centuries later, it is the bow that remains, while western mariners speak only in hushed whispers of the Bloodblossom Isle.*
 
-Continung further across the bridge, the orb will suddenly fly over the player's head as they traverse a cliff-side path, moving over the water and towards Zedari Island in the distance. Upon arrival it will ascend up the side of the island before flying directly into the middle of the town. 
+Continuing further across the bridge, the orb will suddenly fly over the player's head as they traverse a cliff-side path, moving over the water and towards Zedari Island in the distance. Upon arrival it will ascend up the side of the island before flying directly into the middle of the town. 
 
 ![[am2_raven_2.png]]
 > The otherwordly dark orb returns.
@@ -159,7 +159,7 @@ If the "Closed Captions" setting under the "Accessibility Settings" tab is set t
 ![[am2_facility_int.png]]
 > The ruined docking bay. The otherworldly dark orb is also present.
 
-Following a partially collapsed stairway, the player will find a peculiar terminal next to where the orb is located. Approaching it makes the terminal reactivate, whereupon it will begin brodcasting a basic facility diagnostic along with relaying three correspondence logs between the orb and an unknown entity. The logs will be projected as custom player heads and to read them the player must make eye contact with each one in order.
+Following a partially collapsed stairway, the player will find a peculiar terminal next to where the orb is located. Approaching it makes the terminal reactivate, whereupon it will begin broadcasting a basic facility diagnostic along with relaying three correspondence logs between the orb and an unknown entity. The logs will be projected as custom player heads and to read them the player must make eye contact with each one in order.
 
 A full transcript of the facility dialogue can be found [[AM2_facility286_logs|here]].
 
@@ -171,7 +171,7 @@ In the third log, the Raven returns from its second excursion. Readings include 
 
 Once the player finishes reading the third log, the Raven will abruptly drift up from its docked position and activate, the green outline expanding outwards as the Raven begins rapidly pulsing and droning. Flowing green ribbons of light as well as a geodesic field of green particles will be drawn into the sphere as it steadily grows in size and strength, pulling the Meigai into it.
 
-Eventually, the gravitational force will become too great, sucking player into the Raven unit where the player (and by extension, Joru) dies instantaneously. On the death screen, the death message displayed is "(player name) was unravelled". 
+Eventually, the gravitational force will become too great, sucking player into the Raven unit where the player (and by extension, Joru) dies instantaneously. On the death screen, the death message displayed is "(player name) was unraveled". 
 
 ![[am2_raven_max.png]]
 > The Raven OSLIN Unit, defence mechanism activated.
@@ -182,7 +182,7 @@ No further progress can be made after this point and the memory is concluded.
 
 ## Side Content
 
-There is no other content besides the linear path that the player can follow from Galidoh to Zedari Island to the underground Facility 286. However, the landscape and terrain of [[Sahd]] is nearly a perfect match to the terrain of the same island in 2.2, with minor additions including the replacement of all cherry trees with actual leaves and logs. This likely represents a minor revamp/upgrade to Sahd's terrain in 2.3. In the memory, there are no other settlements present in the limited section of the world explorable. 
+There is no other content besides the linear path that the player can follow from Galidoh to Zedari Island to the underground Facility 286. However, the landscape and terrain of [[Sahd]] is nearly a perfect match to the terrain of the same island in 2.2, with minor additions including the replacement of all cherry trees with actual leaves and logs. This likely represents a minor revamp/upgrade to Sahd's terrain in 2.3. In the memory, there are no other settlements present in the limited section of the world. 
 
 On the stairway leading to the facility terminal, a single Crying Obsidian[^3] with a lightning rod sticking out of it can be found. Its purpose is unknown.
 
@@ -214,7 +214,10 @@ The simplified version of the [[Drehmal_v23#march-2026|August 2026 teaser]], "Fi
 
 This new green and black faction is likely the same one that was referenced in the [[Drehmal_v23#september-2025|September 2025]] teaser due to similar architectural styles. Due to both sharing the same style of dialogue (//ALL CAPS//), it can be inferred that the voice speaking in the September 2025 and [[Drehmal_v23#february-2026|February 2026]] teasers is the same one that speaks to the Raven in the [[AM2_facility286_logs|facility logs]]. As per the September 2025 and [[Drehmal_v23#april-2026|April 2026]] teasers, this faction is connected to something called "Rengia" and a related spear. It is unknown what Rengia is and whether Rengia's spear is literal or metaphorical.
 
-The Raven Unit OSLIN[^5] takes the form of a pitch black sphere with a glowing green outline whilst serving the purpose of a surveilance drone. It may have a metallic or otherwise solid hull under the void-like covering because when prodded with a glaive, the blade "glanced off with a metallic clink".
+The Raven Unit OSLIN[^5] takes the form of a pitch black sphere with a glowing green outline whilst serving the purpose of a surveilance drone. It may have a metallic or otherwise solid hull under the void-like covering because when prodded with a glaive, the blade "glanced off with a metallic clink"(1).
+{ .annotate }
+
+1. As described in [[Tenebrae]].
 
 The Raven exhibits the ability to fly, teleport, and take readings of stars. As described in [[Tenebrae]], the orb also has a self-defence mechanism that behaves similarly to how spagettification occurs around real-world black holes. Notably, the orb does not deploy this feature unless threatened, such as when prodded at by Inai or when Joru intrudes into the facility. According to the description of the Meigai Bascinet, the Meigoh believed that the soul resided in the head. Because a Verdant Froglight replaces the player's Head slot when they enter Spectator Mode, this "unravelling" effect may include the forcible removal of the player's soul from their body.
 
@@ -239,7 +242,7 @@ Once the Raven unit has been activated, the central black orb will continue grow
 ![[am2_raven_bigger.png]]
 > I think you can stop now.
 
-Through the memory, [[Lorahn]] follows a carefully calculated timeline instead of progressing as normal. The map starts at sunset (18:30) with the moon moving at its regular pace for one hour. At 19:30, it slows down to 50% normal speed. When the moon reaches nearly midnight (23:00), it will stop until the player sees the Raven a second time. Time will then progress until 01:00. When the player reaches Zedari Island, the moon will continue moving until it permanently stops just before the sun appears on the hrorizon (04:00).
+Through the memory, [[Lorahn]] follows a carefully calculated timeline instead of progressing as normal. The map starts at sunset (18:30) with the moon moving at its regular pace for one hour. At 19:30, it slows down to 50% normal speed. When the moon reaches nearly midnight (23:00), it will stop until the player sees the Raven a second time. Time will then progress until 01:00. When the player reaches Zedari Island, the moon will continue moving until it permanently stops just before the Torahn would appear on the horizon (04:00).
 
 The sky phenomena are hard-coded to appear based on the world time. If the daylight cycle is allowed to follow its standard course by disabling the datapack functions that alter it, the same order will play every night. Interestingly, the [[Torahn]] is also missing from the resource pack and during the daytime no Sun will be visible.
 

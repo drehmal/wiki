@@ -5,9 +5,13 @@
 
 --8<-- "am1_spoiler.md"
 
-On October 12, 2025, a world download was surprise-dropped by the [[Librarian|Unknown Librarian]] in the Drehmalcord `#announcements` channel. This world, a teaser for the [[Drehmal v23|Drehmal 2.3 update]], contained a few small region files highly reminiscent of the [[North Heartwood]]. The map is very small, and revolves overwhelmingly around the 58-page [[Ash-Stained Journal]] lore book, found at the end of the short path the player starts on.
+**Archived Memory 1: Blue, Intensely** is a short playable teaser for [[Drehmal_v23|Drehmal's upcoming 2.3 update]]. Framed as a flashback to Av2 1531 (over a thousand years before 2.2's main story), it centers around the unexplained appearance of a new object in the sky over Drehmal, and contextualizes this event with what would be the map's longest lore book.
 
-The world was added for [standalone download on drehmal.net](https://www.drehmal.net/am1) in August 2026, in the buildup to the announcement and release of its successor, [[Archived Memory 2]]. It was retroactively given the subtitle "Blue, Intensely" upon reupload.
+## Release
+
+On October 12, 2025, a world download was surprise-dropped by the [[Librarian|Unknown Librarian]] in the Drehmal Discord's `#announcements` channel. This world contained a few small region files highly reminiscent of the [[North Heartwood]]. The map is very small, and revolves overwhelmingly around the 58-page [[Ash-Stained Journal]] lore book, found at the end of the short path the player starts on.
+
+The world was added for [standalone download on drehmal.net](https://www.drehmal.net/am1) in August 2026, in the buildup to the announcement and release of its sequel, [[Archived Memory 2]]. It was retroactively given the subtitle "Blue, Intensely" upon reupload.
 
 The file was accompanied by the following message from the Librarian:
 

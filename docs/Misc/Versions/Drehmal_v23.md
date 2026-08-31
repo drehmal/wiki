@@ -1,6 +1,6 @@
 # Drehmal v2.3 (Upcoming)
 
-**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in June 2026. It has no slated release date.
+**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in August 2026. It has no slated release date.
 { .annotate }
 
 1. Official subtitle not yet revealed.
@@ -24,6 +24,8 @@ The post also teases something separate from these mentioned reworks, however, r
 ## Teasers
 
 2.3 teasers have been posted monthly in the official Drehmal Discord server since July 2025. These typically take the form of an image from development with a cryptic, but pertinent caption, although sometimes the teasers are less conventional.
+
+Two playable teasers for the update have been released, each known as an "Archived Memory". The first, [[Archived Memory 1|"Blue, Intensely"]], was released in October 2025, followed by [[Archived Memory 2|"To Feel The Stars"]] in August 2026.
 
 ### July 2025
 
@@ -135,7 +137,7 @@ The most recent teaser was released on August 22, 2026. The image focuses on the
 
 
 ![[teaser_aug_26.png]]
-> As the ancient Meigoh adage proclaims:
-> “First comes the sky, brilliant light of every beginning. All is born, and all is burned.
-> The land finds itself caught between. We are home, and we are alone.
-> The sea arrives to take its dues. Life is fed, and life is swallowed.”
+> As the ancient Meigoh adage proclaims: <br>
+> "First comes the sky, brilliant light of every beginning. All is born, and all is burned. <br>
+> The land finds itself caught between. We are home, and we are alone. <br>
+> The sea arrives to take its dues. Life is fed, and life is swallowed." <br>

@@ -80,11 +80,11 @@ This teaser was released on January 23, 2026. It depicts the heights of a cathed
 Released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was distorted similarly to the September 2025 teaser.
 
 ![[teaser_feb_26.png]]
-> C-//VE them apart
-Un-//-l their thoughts and -//tter their MINDS
-Reduce them to NAU-///-t logic and -//-ng
-Bi//- them to my B-//-DE
-Now grant them PUR-//-SE
+> C-//VE them apart <br>
+> Un-//-l their thoughts and -//tter their MINDS <br>
+> Reduce them to NAU-///-t logic and -//-ng <br>
+> Bi//- them to my B-//-DE <br>
+> Now grant them PUR-//-SE
 
 ### March 2026
 
@@ -135,6 +135,7 @@ The most recent teaser was released on August 22, 2026. The image focuses on the
 
 
 ![[teaser_aug_26.png]]
+> As the ancient Meigoh adage proclaims:
 > “First comes the sky, brilliant light of every beginning. All is born, and all is burned.
 > The land finds itself caught between. We are home, and we are alone.
 > The sea arrives to take its dues. Life is fed, and life is swallowed.”

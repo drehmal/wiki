@@ -3,7 +3,7 @@
 --8<-- "spoiler.md"
 
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The storyline presented within is a continuation of [[Archived_Memory_1|Archived Memory 1]], and is intended to be played after completing the first memory. As with the first memory, some implications regarding the lore only make sense if you have beaten [[Drehmal v22|version 2.2]] and reached the designated black concrete Credits room, but it does not truly contain any real spoilers for the map.
+    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The storyline presented within is a continuation of [[Archived_Memory_1|Archived Memory 1]], and is intended to be played after completing the first memory. As with the first memory, some implications regarding the lore only make sense if you have beaten [[Drehmal v22|version 2.2]] and reached the designated black concrete Credits room, but it does not truly contain any major spoilers for the map.
 
 --8<-- "am2_spoiler.md"
 
@@ -12,7 +12,7 @@
 
 **Archived Memory 2: To Feel the Stars** was first announced at the end of the [[Smithed Summit#2026 Panel|Smithed Summit 2026 Drehmal Panel]] on August 21, 2026 with a release date set for August 23, 2026. The setting of this memory was revealed to take place on [[Sahd]], sometime after the events of [[Archived_Memory_1|Archived Memory 1]]. Coinciding with the announcement, an official piece of key art (pictured above) was also released. It was drawn by Scorp, an artist on the Drehmal development team.
 
-On August 22 2026, the [[Drehmal_v23##August 2026|monthly teaser image]] was posted in the official Drehmal Discord server. The announcement served to introduce the Meigoh as a new faction not previously mentioned in 2.2, as well as focusing on the now-larger blue object as it approached [[Drehmal]] in the mid 2nd Avihm.
+On August 22 2026, the [[Drehmal_v23##August 2026|monthly teaser image]] was posted in the official Drehmal Discord server. The announcement served to introduce the Meigoh as a new faction not previously mentioned in 2.2, as well as focusing on the now-larger blue object as it approached [[Drehmal]] in the mid-2nd Avihm.
 
 On August 23 2026, an official world download was released by the [[Librarian|Unknown Librarian]] in the `#announcements` channel of the Discord server. Instead of a direct .zip file as used for the first Archived Memory, this announcement instead contained a link to a [download page on drehmal.net](https://www.drehmal.net/am2)
 
@@ -28,9 +28,9 @@ The file was accompanied by the following message from the Librarian:
 
 ## Setup
 
-The world can be download from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on any 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Feature](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
+The world can be download from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on any 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
 
-Alternatively, a .mrpack for use via Modrinth can be downloaded from the same page. It includes all three mods along with a few others for optimisation and quality of life. This file also includes all necessary resource packs and both Archived Memories.
+Alternatively, an .mrpack file for use via Modrinth or other compatible third-party launchers can be downloaded from the same page. It includes all three mods along with a few others for optimisation and quality of life. This file also includes all necessary resource packs and both Archived Memory world downloads.
 
 When properly extracted into a saves folder, the save is titled "Ruhlar the 18th of Dahrohma, Av2 1531"—a date in the late Second Avihm, the moment that this "memory" is set in. It is worth noting that this takes place exactly 4 days after the first Archived Memory.[^1]
 
@@ -40,7 +40,7 @@ When properly extracted into a saves folder, the save is titled "Ruhlar the 18th
 
 When the player first loads this world, they will be inside the bedroom of a small home. This home is in a coastal village by the name of Galidoh on the island of [[Sahd]]. The village consists of around 10 buildings and appears to be slightly disconnected from the rest of Sahd due to its rural nature. The closest settlement is Zedari Island, an insular community of Skyborn monks.
 
-Much like the previous Archived Memory, the terrain makes use of many new blocks from 1.21.6+. Distinct from Sahd in version 2.2.2, all cherry trees present now are comprised of actual cherry logs and leaves. The world is on Normal difficulty, with the world starting exactly at sunset. While [[Lorahn]] does move through the course of the adventure, the progression of the night appears to be tied to reaching key story events and not an in-world timer. 
+Much like the previous Archived Memory, the terrain makes use of many new blocks from 1.21.6+. Distinct from Sahd in version 2.2.2, all cherry trees present now are composed of actual cherry logs and leaves. The world is on Normal difficulty, with the world starting exactly at sunset. While [[Lorahn]] does move through the course of the adventure, the progression of the night appears to be tied to reaching key story events and not an in-world timer.
 
 Hardcore Mode is permanently enabled in the world, but the player starts with perpetual saturation and resistance along with being in Adventure Mode with cheats disabled. Sleeping in a bed is blocked, and any attempt to do so will display the text "Joru did not sleep that night." along with not changing in-game time.
 
@@ -98,7 +98,7 @@ The core story of the memory begins with the player assuming the perspective of 
 On a desk near the bed, Joru can find an [[Imperial_Orders|imperial decree]] given by Joru's commanding officer: Meigomo Luvoh. 
 
 ![[joru_house.png]]
-> The interior of Meigai Joru's house, [[Imperial_Orders|Imperial Orders]] from the capital resting on the bedside desk.
+> The interior of Meigai Joru's house, with [[Imperial_Orders|Imperial Orders]] from the capital resting on the bedside desk.
 
 Outside, the player (through the form of Joru) can then explore the quiet town of Galidoh. All of the town's residents are non-interactable; asleep in their homes, fishing, or watching the blue object.
 
@@ -129,7 +129,7 @@ A single villager can also be found at this location, watching the blue object w
 ![[am2_raven_1.png]]
 > The otherwordly dark orb.
 
-When Joru pursues the orb down a trail leading out of Galidoh, they soon arrive at a small house away from the main settlement next to a long wooden bridge. Inside the home, another AM2 exclusive Artifact can be found: the **Recurve Shortbow**, along with 28 arrows. The lore text mentions another new group of people, the sea-faring Kahlans, although by this point in time they appear to have already gone extinct.
+When Joru pursues the orb down a trail leading out of Galidoh, they soon arrive at a small house away from the main settlement next to a long wooden bridge. Inside the home, another AM2 exclusive Artifact can be found: the **Recurve Shortbow**, along with 32 arrows. The lore text mentions another new group of people, the sea-faring Kahlans, although by this point in time they appear to have already gone extinct.
 
 **Lore Text:** *The Kahlans, far-reaching and resourceful masters of the Moonlit Sea, were the first post-Reformation peoples to reinvent the recurve bow. The height of their eastward expansion coincided with a Meigoh age of discovery, and the two peoples once engaged in free cultural exchange. Centuries later, it is the bow that remains, while western mariners speak only in hushed whispers of the Bloodblossom Isle.*
 
@@ -144,7 +144,7 @@ Another exclusive artifact can be found in a nearby house, a yellow candle named
 
 **Lore Text:** *Though Zedoh's most devout are insular and ever-dutiful in their watch, their influence extends beyond the bounds of their island. Tales from commuting traders paint a strange picture of the monks' culture - one of pervasive, unspoken dread.*
 
-Arriving on Zedari Island, [[Tenebrae|an abandoned book]] can be found at the beginning of the steep path that leads up to the community. The contents of the book are deeply unsettling, describing the rapid and destructive emergence of the dark orb from below the ground. 
+Arriving on Zedari Island, [[Tenebrae|an abandoned book]] can be found at the beginning of the steep path that leads up to the village. The contents of the book describe the rapid and destructive emergence of the dark orb from below the ground. 
 
 As described in the account, several people "[gave] themselves to Osaigah to appease the coming tide". In reality, this meant that they threw themselves into the waves as sacrifices. The corpses of the monks that did so can be found in the water, just off the shores of Zedari Island.
 
@@ -156,7 +156,7 @@ Climbing up to the top of of the island where the community is located, the orb 
 ![[am2_raven_3.png]]
 > The otherworldly dark orb descends into the ground.
 
-Joru's arrival reveals the destruction that has befallen the settlement. In the center of the town, the deep tunnel where the orb first emerged from has partially swallowed a nearby shack. No drehmari townsfolk are present here, having been spaghettified by the orb, drowned in the waves, or fled to the mainland.[^2]
+Joru's arrival reveals the destruction that has befallen the settlement. In the center of the town, the deep tunnel where the orb first emerged from has partially swallowed a nearby shack. No Drehmari townsfolk are present here, having been spaghettified by the orb, drowned in the waves, or fled to the mainland.[^2]
 
 [^2]: It is unclear whether the "mainland" mentioned in [[Tenebrae]] is the primary island of [[Sahd]] or the [[Overworld|central continent]].
 
@@ -167,7 +167,7 @@ In a chest before the mural is a [[Letters_to_the_Sky|series of four letters]] w
 ![[am2_zedari.png]]
 > The Skyborn monastery atop Zedari Island.
 
-Joru can then jump down the tunnel that the orb carved into the earth. The tunnel is comprised of charred rock, rubble and magma blocks lining the sides. A direct leap down is survivable due to the player having the Resistance effect. Reaching the bottom reveals the entrance to a secret underground facility constructed beneath Zedari Island. Polished blackstone and sculk are the primary materials used in the facility, with verdant froglights and weathered copper blocks used as a green accent colour.
+Joru can then jump down the tunnel that the orb carved into the earth. The tunnel is composed of charred rock, rubble and magma blocks lining the sides. A direct leap down is survivable due to the player having the Resistance effect. Reaching the bottom reveals the entrance to a secret underground facility constructed beneath Zedari Island. Polished blackstone and sculk are the primary materials used in the facility, with verdant froglights and weathered copper blocks used as a green accent colour.
 
 The moment that Joru steps through the doorway, it will seal behind them with an impassable wall, forcing them to drop downwards and deeper into the facility.
 
@@ -204,12 +204,12 @@ In the third log, the Raven returns from its second excursion. Readings include 
 
 Once Joru finishes reading the third log, the Raven will abruptly drift up from its docked position and activate, the green outline expanding outwards as the Raven begins rapidly pulsing and droning. Flowing green ribbons of light as well as a geodesic field of green particles will be drawn into the sphere as it steadily grows in size and strength, pulling the Meigai into it.
 
-Eventually, the gravitational force will become too great, sucking Joru into the Raven unit where the player (and by extension Joru) dies instantaneously. On the death screen, the death message displayed is "(player name) was unravelled". 
+Eventually, the gravitational force will become too great, sucking Joru into the Raven unit where the player dies instantaneously. On the death screen, the death message displayed is "(player name) was unravelled". 
 
 ![[am2_raven_max.png]]
 > The Raven OSLIN Unit, defence mechanism activated.
 
-If the player chooses the option to spectate the world, they will find that their screen is completely black and they will be unable to see anything. Furthermore, a Verdant Froglight has been placed into their Head slot, fulfulling a similar role as to how a Carved Pumpkin might partially obstruct a player's vision. [^3]
+If the player chooses the option to spectate the world, they will find that their screen is completely black and they will be unable to see anything. Furthermore, a Verdant Froglight has been placed into their Head slot, fulfilling a similar role as to how a Carved Pumpkin might partially obstruct a player's vision. [^3]
 
 [^3]: This visual effect can be bypassed by pressing F1 to hide your HUD.
 
@@ -241,7 +241,7 @@ The highest ranking individual in Sahd at this point in time is likely the figur
 
 [^5]: This assumes that a standard Meigoh year is equivalent to a standard Drehmal calendaar year.
 
-According to the description of the Recurve Shortbow, the Meigoh once made prolonged contact with a now-extinct group of people named the Kahlans. Their home or a location of signifiance to them was the "Bloodblossom Isle". Additionally, the Meigoh appear to be enemies of the Virzouhn (mentioned in the [[Drehmal_v23###march-2026|March 2026 teaser]]) and the Kankatoran, as Meigai Joru was told to watch for their ships. Knowledge of the Virzouhn likely also means that the Meigoh were aware of the central continent, but the extent of their awareness is unknown.
+According to the description of the Recurve Shortbow, the Meigoh once made prolonged contact with a now-extinct group of people named the Kahlans. Their home or a location of signifiance to them was the "Bloodblossom Isle". Additionally, the Meigoh appear to be enemies of the Virzhoun (mentioned in the [[Drehmal_v23###march-2026|March 2026 teaser]]) and the Kankatoran, as Meigai Joru was told to watch for their ships. Knowledge of the Virzouhn likely also means that the Meigoh were aware of the central continent, but the extent of their awareness is unknown.
 
 As described in the book [[The_Principal_Spirits|The Principal Spirits]], the three new major spirits give further context to the clans named after them in 2.2. While in the current version the clans appeared to revere the Aspects of Emotion, [[Tethlaen]], [[Maen]], and [[Moen]], this new information serves to recontextualise the faith of these people. 
 

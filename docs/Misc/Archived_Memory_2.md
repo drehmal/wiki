@@ -103,7 +103,7 @@ A building of note is a small temple right next to the player's house. Inside, t
 | **Spirit** | **Primary Colour of Mural** | **Message** | **Offerings** |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | Zedoh, Sky Supernal | Orange | *FIRST COMES THE SKY* | Potted Cherry Sapling |
-| Dahe, Land Cthonic | Green | *THE LAND CAUGHT BETWEEN* | 1 Salmon, 1 Cod |
+| Dahe, Land Chthonic | Green | *THE LAND CAUGHT BETWEEN* | 1 Salmon, 1 Cod |
 | Osaigah, Sea Primal | Blue | *THE SEA TAKES ITS DUES* | 1 Quartz, 1 Lapis Lazuli, 1 Diamond |
 
 In the center of the chamber is a lectern where the player can read the [[The_Principal_Spirits|Principal Spirits]] book, describing the three spirits in further detail as well as their individual domains. 

@@ -1,6 +1,6 @@
 # Drehmal v2.3 (Upcoming)
 
-**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in June 2026. It has no slated release date.
+**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in August 2026. It has no slated release date.
 { .annotate }
 
 1. Official subtitle not yet revealed.
@@ -24,6 +24,8 @@ The post also teases something separate from these mentioned reworks, however, r
 ## Teasers
 
 2.3 teasers have been posted monthly in the official Drehmal Discord server since July 2025. These typically take the form of an image from development with a cryptic, but pertinent caption, although sometimes the teasers are less conventional.
+
+Two playable teasers for the update have been released, each known as an "Archived Memory". The first, [[Archived Memory 1|"Blue, Intensely"]], was released in October 2025, followed by [[Archived Memory 2|"To Feel The Stars"]] in August 2026.
 
 ### July 2025
 
@@ -80,11 +82,11 @@ This teaser was released on January 23, 2026. It depicts the heights of a cathed
 Released on February 23, 2026. It seems to show a massive sword, at least a few dozen blocks tall, planted into a glowing plinth/altar, in a dark cavern with a vaulted ceiling. The accompanying text was distorted similarly to the September 2025 teaser.
 
 ![[teaser_feb_26.png]]
-> C-//VE them apart
-Un-//-l their thoughts and -//tter their MINDS
-Reduce them to NAU-///-t logic and -//-ng
-Bi//- them to my B-//-DE
-Now grant them PUR-//-SE
+> C-//VE them apart <br>
+> Un-//-l their thoughts and -//tter their MINDS <br>
+> Reduce them to NAU-///-t logic and -//-ng <br>
+> Bi//- them to my B-//-DE <br>
+> Now grant them PUR-//-SE
 
 ### March 2026
 
@@ -124,7 +126,18 @@ The next preview was released on June 23, 2026. The image appears to be a path t
 
 ### July 2026
 
-The most recent teaser was released on July 23, 2026. It depicts a transit hub, very likely a train station, composed mainly of granite, brick/mud brick, andesite, and a glass roof. From the quote, it is near-directly stated that this building, Myrik Station (likely named for [[Hovadchear|Hovadchear Myrik]]), is in/nearby the reworked Mossfield, and hints towards the extent of the Order of Insohm's industrial ability.
+This teaser was released on July 23, 2026. It depicts a transit hub, very likely a train station, composed mainly of granite, brick/mud brick, andesite, and a glass roof. From the quote, it is near-directly stated that this building, Myrik Station (likely named for [[Hovadchear|Hovadchear Myrik]]), is in/nearby the reworked Mossfield, and hints towards the extent of the Order of Insohm's industrial ability.
 
 ![[teaser_july_26.png]]
 > "Yes, the power of the primal energy which once flowed through the veins of the Avsohmic Empire must have been great. But I dare you to stand beneath the arches of Myrik Station and say that the steam which flows through ours is any lesser." - Grand Councillor Dayne Torhill of Mossfield to Magus Aran Gjordall of the Golden Order
+
+### August 2026
+
+The most recent teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the annoucement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
+
+
+![[teaser_aug_26.png]]
+> As the ancient Meigoh adage proclaims: <br>
+> "First comes the sky, brilliant light of every beginning. All is born, and all is burned. <br>
+> The land finds itself caught between. We are home, and we are alone. <br>
+> The sea arrives to take its dues. Life is fed, and life is swallowed." <br>

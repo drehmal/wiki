@@ -1,11 +1,17 @@
 # Archived Memory 1: Blue, Intensely
 
 !!! warning "Side Content"
-    This page concerns a piece of side content which is not a part of any mainline Drehmal map release. It does, however, come from the Drehmal dev team, and can likely be considered fully canon. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
+    This page concerns a piece of side content from the official Drehmal development team which is not a part of any mainline Drehmal map release. The lore book contained within may only make sense if you have beaten [[Drehmal v22|version 2.2]], but it does not truly contain any real spoilers for the map.
 
-On October 12, 2025, a world download was surprise-dropped by the [[Librarian|Unknown Librarian]] in the Drehmalcord `#announcements` channel. This world, a teaser for the [[Drehmal v23|Drehmal 2.3 update]], contained a few small region files highly reminiscent of the [[North Heartwood]]. The map is very small, and revolves overwhelmingly around the 58-page [[Ash-Stained Journal]] lore book, found at the end of the short path the player starts on.
+--8<-- "am1_spoiler.md"
 
-The world was added for [standalone download on drehmal.net](https://www.drehmal.net/other-releases) in August 2026, in the buildup to the announcement and release of its successor, [[Archived Memory 2]]. It was retroactively given the subtitle "Blue, Intensely" upon reupload.
+**Archived Memory 1: Blue, Intensely** is a short playable teaser for [[Drehmal_v23|Drehmal's upcoming 2.3 update]]. Framed as a flashback to Av2 1531 (over a thousand years before 2.2's main story), it centers around the unexplained appearance of a new object in the sky over Drehmal, and contextualizes this event with what would be the map's longest lore book.
+
+## Release
+
+On October 12, 2025, a world download was surprise-dropped by the [[Librarian|Unknown Librarian]] in the Drehmal Discord's `#announcements` channel. This world contained a few small region files highly reminiscent of the [[North Heartwood]]. The map is very small, and revolves overwhelmingly around the 58-page [[Ash-Stained Journal]] lore book, found at the end of the short path the player starts on.
+
+The world was added for [standalone download on drehmal.net](https://www.drehmal.net/am1) in August 2026, in the buildup to the announcement and release of its sequel, [[Archived Memory 2]]. It was retroactively given the subtitle "Blue, Intensely" upon reupload.
 
 The file was accompanied by the following message from the Librarian:
 
@@ -21,7 +27,7 @@ The file was accompanied by the following message from the Librarian:
 
 ## Setup
 
-The world can be downloaded from the [announcement posted in the Discord on October 12th](https://discord.com/channels/695817407557795910/713629838887616522/1426989167946104986). It can be played on any 1.21.6 installation, but the OptiBoxes mod is recommended for the specifically modified skybox.
+The world can be downloaded from the [announcement posted in the Discord on October 12th](https://discord.com/channels/695817407557795910/713629838887616522/1426989167946104986) or under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am1). It can be played on any 1.21.6 installation, but the Skyboxify mod is recommended for the specifically modified skybox.
 
 When properly extracted into a saves folder, the save is titled "Ivelar the 15th of Dahrohma, Av2 1531"—a date in the late Second Avihm, the moment that this "memory" is set in.
 
@@ -76,7 +82,13 @@ This specific date would place this memory within approximately one decade of th
 
 Notably, the title of the map's folder gives its day as "Ivelar". This follows the nomenclature of days of the week in Drehmal, but is not one of the days of the week that previously existed in other versions of the map via the [[(REMOVED) Calendar of Drehmal|removed Calendar of Drehmal book]]. This has been confirmed to be part of a finalized calendar system rewrite in 2.3.
 
-The main book, [[Ash-Stained Journal]], focuses on the mysterious disappearance of stars from the night sky over the course of the late Av2 1400s and early Av2 1500s. The second astronomer eventually comes to the conclusion that stars are disappearing in a straight line, which is moving directly towards the realm of Drehmal. At this time, the exact nature of the stars was not known by Drehmari, and so this presented an unclear threat. However, as players who have finished the map will know, each "star" in the night sky is in fact its own realm, contained by its own [[Veil]] within the greater Drehmal multiverse. The new object in the skybox, which glows blue like the stars that are accelerating towards Drehmal, can therefore be understood to be whatever is causing the "stars" to disappear.
+The main book, [[Ash-Stained Journal]], focuses on the mysterious disappearance of stars from the night sky over the course of the late Av2 1400s and early Av2 1500s. The second astronomer eventually comes to the conclusion that stars are disappearing in a straight line, which is moving directly towards the realm of Drehmal. At this time, the exact nature of the stars was not known by Drehmari, and so this presented an unclear threat.
+
+??? warning "End-Game Spoiler"
+    The following piece of information is a massive spoiler for several key revelations in the post-game section of the map. Unless you have reached the ending of the main story, and reached the designated black concrete Credits Room, you should not click on this.
+
+    ??? danger "Show me!"
+        However, as players who have finished the map will know, each "star" in the night sky is in fact its own realm, contained by its own [[Veil]] within the greater Drehmal multiverse. The new object in the skybox, which glows blue like the stars that are accelerating towards Drehmal, can therefore be understood to be whatever is causing the "stars" to disappear, which means that it can make entire realms disappear.
 
 Due to the Memory taking place within the point of view of a Green Serpent officer, it can be assumed that Green Serpent was aware of this object and sought to investigate it further after the night recorded in the Archived Memory.
 

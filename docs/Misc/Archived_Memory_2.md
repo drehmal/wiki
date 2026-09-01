@@ -52,7 +52,7 @@ The player spawns with a partially-full inventory, including:
 
 The armour pieces have lore as follows:
 
-| **Amour Piece** | **Name** | **Lore Text** |
+| **Armour Piece** | **Name** | **Lore Text** |
 |:-------------:|:---------------:|:-------------------------------------------------------------:|
 | Helmet        | Meigai Bascinet | A sturdy steel helm with full face protection, ascending to a pointed lazulite tip at the crown of the head. Local beliefs assert that the soul resides within the skull, placed from above at birth. <br><br>One's soul is to be protected at all costs. |
 | Chestplate | Meigai Breastplate | Adorned in stunning cherry leaf embossments, this plate glistens with pride in the southern twilight. To stand in the imperial guard is to comprise the acting body of the Meigoh, to be one with the land itself. |

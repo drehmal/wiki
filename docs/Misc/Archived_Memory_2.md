@@ -30,7 +30,7 @@ The file was accompanied by the following message from the Librarian:
 
 ## Setup
 
-The world can be download from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on a 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
+The world can be downloaded from under the "Other Releases" tab on [drehmal.net](https://www.drehmal.net/am2) and can be played on a 26.2 installation. In order to get the full experience, the mods [Entity Model Features](https://modrinth.com/mod/entity-model-features), [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) and [Skyboxify](https://modrinth.com/mod/skyboxify) are heavily recommended. While theoretically the map can be played without any mods, in practice all three are necessary for certain story and skybox elements that serve to complete the experience.
 
 Alternatively, an .mrpack file for use via Modrinth or other compatible third-party launchers can be downloaded from the same page. It includes all three mods along with a few others for optimisation and quality of life. This file also includes all necessary resource packs and both Archived Memory world downloads.
 
@@ -40,7 +40,7 @@ When properly extracted into a saves folder, the save is titled "Ruhlar the 18th
 
 When the player first loads this world, they will be inside the bedroom of a small home. This home is in a coastal village by the name of Galidoh on the island of [[Sahd]]. The village consists of around 10 buildings and appears to be slightly disconnected from the rest of Sahd due to its rural nature. The closest settlement is Zedari Island, an insular community of Skyborn monks.
 
-Much like the previous Archived Memory, the terrain makes use of many new blocks from 1.21.6+. Distinct from Sahd in version 2.2.2, all cherry trees present now are composed of actual cherry logs and leaves. The world is on Normal difficulty, with the world starting exactly at sunset. While [[Lorahn]] does move through the course of the adventure, the progression of the night appears to be tied to reaching key story events and not an in-world timer.
+Much like the previous Archived Memory, the terrain makes use of many new blocks from 1.21.6+. The world is on Normal difficulty, with the world starting exactly at sunset. While [[Lorahn]] does move through the course of the adventure, the progression of the night appears to be tied to reaching key story events and not an in-world timer.
 
 Hardcore Mode is permanently enabled in the world, but the player starts with perpetual saturation and resistance along with being in Adventure Mode with cheats disabled. Sleeping in a bed is blocked, as any attempt to do so will display the text "Joru did not sleep that night." and fail to advance the night.
 
@@ -70,6 +70,27 @@ At semi-frequent intervals throughout the night, strange phenomena will temporar
 > The blue object in the sky as a yellow comet intersects it.
 
 There are 16 recorded variations of the phenomena that manifest in the sky, some appearing multiple times. They are hard-coded to appear based on the current time.
+
+??? info "Gallery of All Recorded Sky Phenomena"
+    The images presented here are in chronological order based on their first appearance.
+
+    ![[atk_1.png|380]]
+    ![[atk_2_1.png|380]]
+    ![[atk_3.png|380]]
+    ![[atk_4.png|380]]
+    ![[atk_5.png|380]]
+    ![[atk_7.png|380]]
+    ![[atk_9.png|380]]
+    ![[atk_10.png|380]]
+    ![[atk_11.png|380]]
+    ![[atk_12_0.png|380]] 
+    ![[atk_12_1.png|380]]
+    ![[atk_13_0.png|380]]
+    ![[atk_13_1.png|380]]
+    ![[atk_15.png|380]]
+    ![[atk_16.png|380]]
+    ![[atk_17_1.png|380]]
+
 
 The core story of the memory begins with the player assuming the perspective of Meigai Joru, a young member of the Imperial Guard that was recently appointed to their new position a couple of months ago. Having presumably just awoken due to an unknown disturbance, Joru is unable to sleep that night. 
 
@@ -148,7 +169,7 @@ Inside the facility, the only way to progress is to drop into a large docking ba
 
 Present at the very bottom of this chamber is the black orb, presumably having docked and is otherwise immobile. While the player is within a reasonable distance to the orb, they can hear a continuous stream of alien beeps and other technological sounds being emitted by the orb. 
 
-If the "Closed Captions" setting under the "Accessibility Settings" tab is set to On, then the sounds that the orb produces will display one of the subtitles below in the following order (the cycle will repeat):
+If the "Closed Captions" setting under the "Accessibility Settings" tab is set to On, then the sounds that the orb produces will display one of the subtitles below in the following order (the cycle will repeat). Portions of the subtitles are obfuscated in-game, the full transcriptions provided here:
 
 1. */Leave. Le- /// --ve./*
 2. */Li--////-tness-///e Not Perm-//ted./*
@@ -182,7 +203,7 @@ No further progress can be made after this point and the memory is concluded.
 
 ## Side Content
 
-There is no other content besides the linear path that the player can follow from Galidoh to Zedari Island to the underground Facility 286. However, the landscape and terrain of [[Sahd]] is nearly a perfect match to the terrain of the same island in 2.2, with minor additions including the replacement of all cherry trees with actual leaves and logs. This likely represents a minor revamp/upgrade to Sahd's terrain in 2.3. In the memory, there are no other settlements present in the limited section of the world. 
+There is no other content besides the linear path that the player can follow from Galidoh to Zedari Island to the underground Facility 286. However, the landscape and terrain of [[Sahd]] is nearly a perfect match to the terrain of the same island in 2.2. Minor additions include how all remaining cherry trees across the island made up of pink wool, terracotta and acacia logs have been updated to use cherry logs and leaves instead, unlike the select few present around [[New Sahd]] in 2.2.2. This likely represents a minor revamp/upgrade to Sahd's terrain in 2.3. In the memory, there are no other settlements present in the limited section of the world. 
 
 On the stairway leading to the facility terminal, a single Crying Obsidian[^3] with a lightning rod sticking out of it can be found. Its purpose is unknown.
 
@@ -214,7 +235,7 @@ The simplified version of the [[Drehmal_v23#march-2026|August 2026 teaser]], "Fi
 
 This new green and black faction is likely the same one that was referenced in the [[Drehmal_v23#september-2025|September 2025]] teaser due to similar architectural styles. Due to both sharing the same style of dialogue (//ALL CAPS//), it can be inferred that the voice speaking in the September 2025 and [[Drehmal_v23#february-2026|February 2026]] teasers is the same one that speaks to the Raven in the [[AM2_facility286_logs|facility logs]]. As per the September 2025 and [[Drehmal_v23#april-2026|April 2026]] teasers, this faction is connected to something called "Rengia" and a related spear. It is unknown what Rengia is and whether Rengia's spear is literal or metaphorical.
 
-The Raven Unit OSLIN[^5] takes the form of a pitch black sphere with a glowing green outline whilst serving the purpose of a surveilance drone. It may have a metallic or otherwise solid hull under the void-like covering because when prodded with a glaive, the blade "glanced off with a metallic clink"(1).
+The Raven Unit OSLIN[^5] takes the form of a pitch black sphere with a glowing green outline whilst serving the purpose of a surveilance drone. It may have a metallic or otherwise solid hull under the void-like covering because when prodded with a glaive, the blade "[glances] off with a metallic clink"(1).
 { .annotate }
 
 1. As described in [[Tenebrae]].
@@ -225,7 +246,7 @@ The Raven exhibits the ability to fly, teleport, and take readings of stars. As 
 
 Since its last appearance in [[Archived Memory 1]], the blue object in the southern sky has only grown larger, implying that it is getting closer and closer to Drehmal. It has likely not breached Drehmal's [[Veil]], as its intense speeds would likely mean that it would make contact with [[Disc|The Disc]] incredibly quickly if it were to do so.
 
-The sky phenomena that appear intermittently through the night are likely offensive in nature, and the yellow colouring of the patterns heavily resembles [[Primal Energy]]. Assuming that the attacks are indeed Primal Energy, either [[Khive]] or [[yellow|The Mythroclast]] may be responsible. The latter option is more likely due to the blue object likely being outside Drehmal's Veil and the reach of an Aspect's abilities.
+The sky phenomena that appear intermittently through the night are likely offensive in nature, and the yellow colouring of the patterns heavily resembles [[Primal Energy]]. Assuming that the attacks are indeed Primal Energy, either [[Khive]] or [[yellow|The Mythoclast]] may be responsible. The latter option is more likely due to the blue object likely being outside Drehmal's Veil and the reach of an Aspect's abilities.
 
 Based on how the dark blue/violet energy visible in a couple of the sky phenomena acts in opposition to the Primal Energy, it's likely that it is a defence mechanism produced by the blue object.
 

@@ -35,6 +35,7 @@
 | [[Crimson Gorge]] | Block | Atop a small bridge, in the winding lava river in the northwest Crimson Gorge. | (-3223, 78, 5467) |
 | [[Hellcrags]] | Item (Chest) | In a loot chest, on an island within a lava lake in the northeastern Hellcrags. | (-3287, 70, 5588) |
 | [[Hellcrags]] | Item (Chest) | In a loot chest in the northwestern Hellcrags, among dead trees. Guarded by a spawner that creates "Bone Diver" enemies, custom skeletons with elytra and creeper heads. | (-4352, 105, 5560) |
+| [[Hellcrags]] | Item (Chest) | In a loot chest in southwestern Hellcrags. | (-3528, 153, 6258) |
 | [[Hellcrags]] | Item (Chest) | In a chest at the far northwestern point of the [[Burnt Palace]]. | (-4066, 56, 5943) |
 | [[Sahd]] | Block | On the deck of a ship far to the west of Sahd, surrounded by blackstone. | (2911, 66, 6106) |
 

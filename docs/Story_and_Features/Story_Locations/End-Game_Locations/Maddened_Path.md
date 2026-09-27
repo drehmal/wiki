@@ -70,7 +70,7 @@ This location is referenced elsewhere in the map, but primarily as a mythical or
 
 ### Trivia
 
-The enemies along the path with unreadable names do in fact have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend."
+The enemies along the path with unreadable names do in fact have names, although they initially appear to be gibberish. The skeletons found throughout the area have the name "Baernd," the zombies are named "Ealdhlaford," and the guardians have the name "Sceotend." These words are Old English for "burnt/burned", "old lord", and "shooter/archer" respectively.
 
 ***
 

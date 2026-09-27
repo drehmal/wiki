@@ -133,11 +133,17 @@ This teaser was released on July 23, 2026. It depicts a transit hub, very likely
 
 ### August 2026
 
-The most recent teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the annoucement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
-
+The next teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the announcement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
 
 ![[teaser_aug_26.png]]
 > As the ancient Meigoh adage proclaims: <br>
 > "First comes the sky, brilliant light of every beginning. All is born, and all is burned. <br>
 > The land finds itself caught between. We are home, and we are alone. <br>
 > The sea arrives to take its dues. Life is fed, and life is swallowed." <br>
+
+### September 2026
+
+The most recent teaser was released on September 23, 2026. Present in the image is a dry, arid region with giant mushrooms growing behind scorched and burnt trees. Judging by the description, this area likely is the [[South Heartwood]] after the scarring wrought by the [[Empire of Maelihs]] through the [[Skullmother]] at the climax of the [[Dune Wars]]. The description of the image also gives some further context to the offhanded mention of "Virzhoun" in the [[Drehmal_v23#March 2026|March 2026 teaser]], setting them up in opposition to the Malkrahd, a never-before mentioned faction. According to the description, the conflict between these "two great war hawks" in the South Heartwood was only broken by an "unprecedented escalation", most likely being the aforementioned desolation.
+
+![[teaser_sep_26.png]]
+> For two great war hawks, the tumultuous dawn of the Third Avihm presented a long-awaited opportunity. The forces of Virzhoun and Malkrahd clashed in the South Heartwood for years, their deadlock only broken by an unprecedented escalation. Every soul in Drehmal knows of the desolation that ensued, but nobody—not even the Burnt Lord himself—fully understands the true nature of the event.

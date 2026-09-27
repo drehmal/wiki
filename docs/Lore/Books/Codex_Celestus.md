@@ -28,7 +28,7 @@ This book can be found on a lectern at the very top of [[Ihted Academy]]. The te
 >
 > -----ps it ha- som----ng to do with the ou--o--ing o- the c-a---- ------ ------ --e- it -s su---cted to the t---- ----------- ------n-l for--s. y ----- children thu- ai- -- --- -----ction of t-e ene--- a-d in prev--ting it fr-m flo--ing its prove-bial banks.
 >
-> Though my ab---ty to w-eld the pri--- --erg- -- its raw f-rm is ma--er-ul, my p----s pr---nt me fro- a-cess--g any of its ---mingly i----ite --plications. So t-at my sib---gs --uld access these a-l-------s, I fo-ged the -athw-ys of ene--y known as d----- -----. By s-mple inv--ation, they can call upon my great --ockp--e on Lo’Da-r and do --e wo-k that their doma--s allo-.
+> Though my ab---ty to w-eld the pri--- --erg- -- its raw f-rm is ma--er-ul, - c--n-t -y--l- a--e-s any of its ---mingly i----ite --plications. So t-at my sib---gs --uld access these a-l-------s, I fo-ged the -athw-ys of ene--y known as d----- -----. By s-mple inv--ation, they can call upon my great --ockp--e on Lo’Da-r and do --e wo-k that their doma--s allo-.
 >
 > So t-at --self and the m---als c-uld ---ess som- of the energ--s p---ntial, -crea-ed ru--- ---ic in co--ab-ra---n with my si-li--s. By inscri---g a si-il onto pow----l and ra-e mate-ials, a -athway of energy is formed to allow the w-elder to acc-ss a specific fun-tion as d-t------- -y th- --gil. This system was desi--ed so that -nly very lim-ted an- p--dict--le ac----ties can be --ne in -- realm -- us--g th- pr-ma- e-erg-.
 >

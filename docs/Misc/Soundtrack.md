@@ -37,7 +37,7 @@ The official album release was split into two parts to minimize map spoilers for
 Both albums featured new album covers drawn by Drehmal team artist HiscottiBiscotti.
 
 ![[Drehmal_ost_cover_shine.png]]
-> Stained glass windows of the Three [[Deities/index|Deities]], radiant sunlight shining from the other side. The album cover for Part I.
+> Stained glass windows of the Three [Deities](/Lore/Higher_Beings/Deities/), radiant sunlight shining from the other side. The album cover for Part I.
 
 ![[Drehmal_ost_cover_rain.png]]
 > A rainy, depressed rendition of the previous scene. The album cover for Part II.

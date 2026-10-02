@@ -1,6 +1,6 @@
 # Drehmal v2.3 (Upcoming)
 
-**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in August 2026. It has no slated release date.
+**Drehmal v2.3** (1) is a major update to the Drehmal map which is in active development as of the writing of this article in August 2026. It has no slated release date nor a decided upon Minecraft version, though it is currently being developed on 26.2.
 { .annotate }
 
 1. Official subtitle not yet revealed.
@@ -9,17 +9,29 @@ An update to follow the colossal [[Drehmal v22|Apotheosis update]] has long been
 
 At the end of 2025, an [additional blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) was made to further expand upon the update's content.
 
+Further information was given during the Drehmal live keynote presentation at the[[Smithed_Summit#2026 Panel| 2026 Smithed Summit]].
+
 ## Known Content
 
 The exact content of the 2.3 update is, as per usual, closely guarded by the dev team. However, the ["About Drehmal 2.3 and Beyond" blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) lays out a rough idea of the update's scope.
 
-This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and [[Fort Nimahj]]) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to.
+This post shows reworks to multiple towns ([[Gozak]], [[Ebonrun]], and [[Fort Nimahj]]) and biomes, including [[Capital Valley]], the [[North Heartwood|Heartwood]], the [[Black Jungle]], and [[Spearhead Forest]]. An in-progress overhaul to the [[Devotion]] mechanic is also alluded to. 
 
 The post also teases something separate from these mentioned reworks, however, referred to as "something weird, different, and ... kinda insane." Lead developer Keeko100 describes it as:
 
 > - Intended for players who have beaten the map and reached the final credits <br>
 > - Intended for highly skilled, motivated, and passionate players <br>
 > - Intended to be played in a group, though still possible solo
+
+A town rework of [[Mossfield]] has also been hinted at in the [[Drehmal_v23#July 2026|July 2026 teaser image]].
+
+During the[[Smithed_Summit#2026 Panel| 2026 Smithed Summit event]], Drehmal made an appearance in the form of a live keynote presentation, held concurrently on stage in-game and on the event's Discord on August 21st, 2026. The presentation, which was recorded and uploaded [here](https://www.youtube.com/live/YfWT0o9NVPY?), was titled *'Designing an Open World in Minecraft'*. Rift (Roift), GreenTetrahedron (aoristic_orisont), K182 (Macharoni2) and Keeko100 (Keeko100) all made speaking appearances.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfWT0o9NVPY?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+During the presentation, a screenshot of a 2.3 [[Gozak]] rework was also revealed.
+
+At the end of the presentation, just before the Q&A section, the presentation had a short segment on [[Drehmal v23|the 2.3 update]]. The main piece of news from this short segment was that the new gameplay segment hinted at in the [New Years 2025 blog post](https://www.drehmal.net/post/about-drehmal-2-3-and-beyond) would be both included in 2.3 and available as a separate, standalone experience. It was described as 'Drehmal's sister story', and the intent was for it to be a curated challenge that would "make the world feel much, much larger", with a majority of the development team's resources and effort presently going into this new experience.
 
 ## Teasers
 
@@ -133,11 +145,17 @@ This teaser was released on July 23, 2026. It depicts a transit hub, very likely
 
 ### August 2026
 
-The most recent teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the annoucement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
-
+The next teaser was released on August 22, 2026. The image focuses on the larger version of the Blue Object revealed the previous day at the [[Smithed Summit|Drehmal keynote presentation at Smithed Summit]], alongside the announcement of [[Archived Memory 2]] releasing the day after on August 23rd, 2026. As stated in the announcement, Archived Memory 2 takes place in Sahd, as does the image. 
 
 ![[teaser_aug_26.png]]
 > As the ancient Meigoh adage proclaims: <br>
 > "First comes the sky, brilliant light of every beginning. All is born, and all is burned. <br>
 > The land finds itself caught between. We are home, and we are alone. <br>
 > The sea arrives to take its dues. Life is fed, and life is swallowed." <br>
+
+### September 2026
+
+The most recent teaser was released on September 23, 2026. Present in the image is a dry, arid region with giant mushrooms growing behind scorched and burnt trees. Judging by the description, this area likely is the [[South Heartwood]] after the scarring wrought by the [[Empire of Maelihs]] through the [[Skullmother]] at the climax of the [[Dune Wars]]. The description of the image also gives some further context to the offhanded mention of "Virzhoun" in the [[Drehmal_v23#March 2026|March 2026 teaser]], setting them up in opposition to the Malkrahd, a never-before mentioned faction. According to the description, the conflict between these "two great war hawks" in the South Heartwood was only broken by an "unprecedented escalation", most likely being the aforementioned desolation.
+
+![[teaser_sep_26.png]]
+> For two great war hawks, the tumultuous dawn of the Third Avihm presented a long-awaited opportunity. The forces of Virzhoun and Malkrahd clashed in the South Heartwood for years, their deadlock only broken by an unprecedented escalation. Every soul in Drehmal knows of the desolation that ensued, but nobody—not even the Burnt Lord himself—fully understands the true nature of the event.

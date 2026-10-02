@@ -599,6 +599,8 @@ It appears that the residents of Naharja primarily engages in worship of [[Moen]
 
 Runic Golems in Naharja (and throughout Moen's Domain) have a custom texture, taking on a dark purple and yellow color scheme similar to the map's re-texturing of celestial (netherite) gear. <br> <br> <br> <br> <br>
 
+A plushie of Virtuo can be found in a house near Yriel Plaza at the coordinates 312, 113, -858.
+
 ### Soundtrack
 
 Naharja's theme song is "Lunar Renaissance", by Drehmal composer Chris Nesja.

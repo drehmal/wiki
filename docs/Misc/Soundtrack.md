@@ -30,9 +30,36 @@ In-game, the volume of the soundtrack is controlled by the "Locational Music" sl
 
 Songs from the soundtrack typically fall into one of two categories: ambience or locational music. Some tracks are ambient, meaning that they can play randomly when out in the open world. Most tracks fall into the other category, serving as the theme song for a specific area - this can be a town, a major point of interest, or a story location.
 
-!!! warning "Be warned! The titles and descriptions of some of the later tracks in this playlist may be significant spoilers, so if you have not beaten the map, follow this link at your own risk."
-    An [official YouTube playlist](https://youtube.com/playlist?list=PLXvAOqL1yGd2s1dBYMoNzLDnpJNK6nWvm&) is currently the only place where the full soundtrack can be listened to outside of the game. 
+On September 25, 2026, an official announcement in the Discord revealed that the soundtrack for the update was finally released on all major streaming platforms. In total 56 tracks were included, with 54 composed by Chris Nesja and 2 additional tracks composed by Penngo (credited as Nathan Cheng). Before the release, the only place where the soundtrack could be found outside of the game was on Chris Nesja's YouTube Channel.
 
+The official album release was split into two parts to minimize map spoilers for listeners. The first part covers all [[Overworld]] ambient and locational music, as well as music specific to certain freely-accessible sequences such as [[Foundry|The Foundry]] and the encounter with [[Ossein]]. The second part covers  all music from the[[Story_Progression#Admin Wing (75% SPOILERS BEGIN HERE)| 75% story event]] and onwards, including tracks from all late-game locations and sequences. It is recommended that players who have not yet beaten the map should refrain from viewing the second part of the twin album release.
+
+Both albums featured new album covers drawn by Drehmal team artist HiscottiBiscotti.
+
+![[Drehmal_ost_cover_shine.png]]
+> Stained glass windows of the Three [Deities](/Lore/Higher_Beings/Deities/), radiant sunlight shining from the other side. The album cover for Part I.
+
+![[Drehmal_ost_cover_rain.png]]
+> A rainy, depressed rendition of the previous scene. The album cover for Part II.
+
+!!! warning "Be warned! The titles and descriptions of some of the later tracks in both the playlist and Part 2 of the album release may be significant spoilers. If you have not beaten the map, follow those links at your own risk."
+    
+    The soundtrack can be found at these places:
+
+    - [Official YouTube playlist](https://youtube.com/playlist?list=PLXvAOqL1yGd2s1dBYMoNzLDnpJNK6nWvm&)
+    - [Spotify - Pt. I](https://open.spotify.com/album/3o3I4CtbmfCXL4HSMJWEni?si=0bylKDVeSg6dQwpoeuywdw&utm_source=copy-link)
+    - [Spotify - Pt. II](https://open.spotify.com/album/1c6x01UndQBptE5S4Rlq8P?si=I--WqzYnTqiCvuqStxq4uA&utm_source=copy-link)
+    - [Apple Music - Pt. I](https://music.apple.com/us/album/drehmal-apotheosis-pt-i-original-game-soundtrack/6814136169)
+    - [Apple Music - Pt. II](https://music.apple.com/us/album/drehmal-apotheosis-pt-ii-original-game-soundtrack/6814127783)
+    - [Youtube Music - Pt. I](https://music.youtube.com/playlist?list=OLAK5uy_mNPhmbCrNbh682biVnlYiFoHw2XddfiSk)
+    - [Youtube Music - Pt. II](https://music.youtube.com/playlist?list=OLAK5uy_nkeqXw9z1NXSs2UQ0sGrUK3gHlezqFUX4)
+    - [Tidal - Pt. I](https://tidal.com/album/562674464)
+    - [Tidal - Pt. II](https://tidal.com/album/562677154)
+    - [Deezer - Pt. I](https://www.deezer.com/en/album/1107115342)
+    - [Deezer - Pt. II](https://www.deezer.com/en/album/1107114732)
+
+    A Bandcamp version with a Pay What You Want Model is slated to be eventually released.
+    
 A full tracklist can be found below, with progressive spoiler warnings.
 
 ### General Ambient Music
@@ -138,7 +165,7 @@ Beginning in the [[Primary Energy Collection Facility]] inside [[Mt. Yavhlix]], 
 
 #### Bonus Tracks
 
-In addition to the main 51 songs, there are 3 additional bonus tracks which may not be considered full songs, but rather, are ambient sounds tied to [[Mt. Yavhlix]]. These are not included in the main Drehmal OST playlist, but can be found on Chris Nesja's YouTube channel.
+In addition to the main 51 songs, there are 3 additional bonus tracks which may not be considered full songs, but rather, are ambient sounds tied to [[Mt. Yavhlix]]. These are not included in the main Drehmal OST playlist, but can be found on Chris Nesja's YouTube channel as well as the album release.
 
 ??? question "Yav Ambience"
     | **Title** | **Location** | **Notes** |

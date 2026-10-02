@@ -4,7 +4,7 @@ Hidden throughout the world of Drehmal are dozens of easter eggs in the form of 
 
 ![[Catmap.webp]]{ align=right width="300" }
 
-There are currently 60 known cat maps that can be found in the world. This list may be incomplete, as there has not yet been a systematic scan of the entire world to find all maps. Most of the cat photos are obtainable in normal gameplay, but some are located in areas that cannot be reached without using cheats and/or clipping out of bounds.
+There are currently 61 known cat maps that can be found in the world. This list may be incomplete, as there has not yet been a systematic scan of the entire world to find all maps. Most of the cat photos are obtainable in normal gameplay, but some are located in areas that cannot be reached without using cheats and/or clipping out of bounds.
 
 8 maps, all of Nima (see Fort Nimahj), were added in the 2.2.2 update. These are marked as "2.2.2 Nima".
 
@@ -96,6 +96,7 @@ There are 6 known cat maps in the late-game areas associated with the 75% comple
 | 49 (2.2.2 Nima)    | [[Ytaj]] (4)       | Inside of a hidden shaft in the volcano near Taihgel's statue east of the main palace. | (LD) 146 18 -1680 | Yes |
 | 50 (2.2.2 Nima)    | [[Ytaj]] (5)       | At the top of Khive's tower, inside the center of the orange stained glass energy flow. | (LD) -185 146 -1612 | Yes |
 | 51 (2.2.2 Nima)    | [[Ytaj]] (6)       | In an upper corner of Maelihs' room, behind a shelf. | (LD) -134 157 -1675 | Yes |
+| 52 (2.2.2 Nima)    | [[Ytaj]] (7)       | Hidden inside the eye of the Soletta, beneath the primary forge area. | (LD) -66 13 -1718 | No |
 
 ## End-Game Locations { data-search-exclude }
 
@@ -111,9 +112,9 @@ Nine cat maps are known to exist in the final two story locations, although thes
 
 | **Number** | **Location**         | **Location Details**                                                                                                    | **Coordinates (True End Dimension)**           | **Reachable?**  |
 |:----------:|:--------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|:---------------:|
-| 52-55      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
-| 56-59 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
-| 60         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |
+| 53-56      | [[Maddened Path]]          | On an island to the northwest of the main Maddened Path, atop a 2x2 white pillar. There are four default Priscilla maps found here. | 9740 154 9731 <br>9740 154 9730 <br>9739 154 9731 <br>9739 154 9730 | Yes (Off the beaten path, but could plausibly be glided to) |
+| 57-60 (Rahmac's Magnum Opus) <br>![[magnum_opus.png]]{ width="128" } | [[Maddened Path]] | On the same island as maps 42-45, there is a second 2x2 pillar which holds four copies of the "Rahmac's Magnum Opus" map, sold by a trader at the Kiln of Virtuo. This is the only known place that this second picture of Priscilla is naturally found on the map. | 9707 154 9731 <br>9709 154 9730 <br>9708 154 9731 <br>9708 154 9730 | Yes (Same as above) |
+| 61         | [[True End]]               | In this copy of the Stasis Facility, there is a final Priscilla map found in the secret room that houses surveillance footage of the [[Emissary of the Void]] in the main [[Stasis Facility]]. | 784 45 619 | No (Forced Adventure Mode, Must Break Blocks) |
 
 [^1]: Found in a glow item frame, rather than a standard item frame.
 [^2]: Found in a glow item frame, rather than a standard item frame.

@@ -61,7 +61,7 @@ A lime-colored store located on the street corner north of Moen Stones, this sho
 
 #### Patronage Calendar
 
-In north-central Naharja, at the base of a staircase leading upwards towards the second level of the town, a lectern with the [[Pronouncement of Patronage]] book sits. This book declares that the Day of Patronage is to be celebrated every Vehlar (a day of the week), and the monument behind this lectern has five signs, one illuminated in yellow. When the bottom sign—which reads "Vehlar"—is illuminated, it is the Day of Patronage.
+In north-central Naharja, at the base of a staircase leading upwards towards the second level of the town, a lectern with the [[Pronouncement of Patronage]] book sits. This book declares that the Day of Patronage is to be celebrated every Vehlar (a day of the week), and the monument behind this lectern has five signs representing five days of the week. From top to bottom, the signs read Tohrlar, Dahlar, Ruhlar, Rahlar, and Vehlar. Each day, a sign is illuminated in yellow, indicating that day's placement in the week. When the bottom sign—which reads "Vehlar"—is illuminated, it is the Day of Patronage.
 
 #### Farmland
 
